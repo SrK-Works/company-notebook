@@ -10,7 +10,7 @@ so company links work on static hosting. `.openai/hosting.json` retains the Site
 
 ## Features
 
-- Twelve company profiles, company/brand/ticker search and business-type filters.
+- Twenty-four company profiles, company/brand/ticker search and business-type filters.
 - Device-local saved reading list, source references, business-model explanations,
   risks and self-check questions.
 - Starter guide and glossary.
@@ -20,7 +20,7 @@ so company links work on static hosting. `.openai/hosting.json` retains the Site
 
 ## Editorial boundaries
 
-Sources were inspected on 15 September 2026. No data refresh runs automatically.
+Sources were inspected during 15–18 September 2026. No data refresh runs automatically.
 Company disclosures and product directories support business facts; watch items,
 risks and learning explanations are editorial interpretation. This is not stock advice.
 All profile sources are stored with the record in `dist/data.js`.
@@ -38,7 +38,7 @@ Feedback must be exported by a pilot participant and shared separately.
 
 ## Validation performed
 
-- JavaScript syntax and all 12 records checked for required fields, counts and source URL shape.
+- JavaScript syntax and all 24 records checked for required fields, counts and source URL shape.
 - Browser search by brand, profile navigation, empty search and coverage form.
 - Bookmarks persist across reload and removal updates the saved list.
 - Feedback controls and export availability; no browser console errors observed.
