@@ -1,6 +1,13 @@
 const main=document.querySelector('main');
 const safe=(v)=>String(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 function read(key,fallback){try{return JSON.parse(localStorage.getItem(key))??fallback}catch{return fallback}}
+const sidebarToggle=document.querySelector('[data-sidebar-toggle]');
+function setSidebar(collapsed,save=false){document.body.classList.toggle('sidebar-collapsed',collapsed);sidebarToggle.setAttribute('aria-expanded',String(!collapsed));sidebarToggle.setAttribute('aria-label',collapsed?'Expand navigation':'Collapse navigation');if(save){try{localStorage.setItem('cn-sidebar-collapsed',String(collapsed))}catch{}}}
+let sidebarCollapsed=false;try{sidebarCollapsed=localStorage.getItem('cn-sidebar-collapsed')==='true'}catch{}
+setSidebar(sidebarCollapsed);
+sidebarToggle.addEventListener('click',()=>setSidebar(!document.body.classList.contains('sidebar-collapsed'),true));
+const desktopNav=window.matchMedia('(min-width: 851px)');
+desktopNav.addEventListener?.('change',()=>setSidebar(document.body.classList.contains('sidebar-collapsed')));
 const themeToggle=document.querySelector('[data-theme-toggle]');
 const themeMedia=window.matchMedia('(prefers-color-scheme: dark)');
 function preferredTheme(){try{const savedTheme=localStorage.getItem('cn-theme');if(savedTheme==='light'||savedTheme==='dark')return savedTheme}catch{}return themeMedia.matches?'dark':'light'}

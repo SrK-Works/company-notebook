@@ -58,3 +58,30 @@ html[data-theme="dark"] textarea:focus-visible,
 html[data-theme="dark"] summary:focus-visible{outline-color:#aab9ff}
 
 @media(max-width:850px){.theme-toggle{width:auto;margin-left:auto}.theme-toggle>span:first-child{width:auto}.theme-toggle [data-theme-label]{display:none}}
+
+/* Collapsible primary navigation */
+.sidebar,.workspace{transition:width .22s ease,margin-left .22s ease,padding .22s ease}
+.sidebar-toggle{position:absolute;top:24px;right:14px;width:40px;height:40px;border-radius:9px;background:transparent;display:grid;place-content:center;gap:5px;color:var(--ink);z-index:2}
+.sidebar-toggle:hover{background:#f4f6fc}
+.sidebar-toggle span{display:block;width:20px;height:2px;border-radius:2px;background:currentColor;transition:transform .2s ease,opacity .2s ease}
+.sidebar-toggle[aria-expanded="true"] span:first-child{transform:translateY(7px) rotate(45deg)}
+.sidebar-toggle[aria-expanded="true"] span:nth-child(2){opacity:0}
+.sidebar-toggle[aria-expanded="true"] span:last-child{transform:translateY(-7px) rotate(-45deg)}
+body.sidebar-collapsed .sidebar{width:76px;padding-left:14px;padding-right:14px}
+body.sidebar-collapsed .workspace{margin-left:76px}
+body.sidebar-collapsed .sidebar-toggle{position:relative;top:auto;right:auto;margin:0 auto 24px}
+body.sidebar-collapsed .identity,body.sidebar-collapsed .sidebar-label,body.sidebar-collapsed .sidebar nav,body.sidebar-collapsed .sidebar-bottom{display:none}
+html[data-theme="dark"] .sidebar-toggle{color:var(--ink)}
+html[data-theme="dark"] .sidebar-toggle:hover{background:#202c40}
+
+@media(max-width:850px){
+ .sidebar{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;padding:14px 22px}
+ .sidebar-toggle{position:relative;top:auto;right:auto;grid-column:2;grid-row:1;margin:0}
+ .identity{grid-column:1;grid-row:1;margin:0}
+ .sidebar nav{grid-column:1/-1;margin-top:14px}
+ body.sidebar-collapsed .sidebar{width:auto;padding:14px 22px}
+ body.sidebar-collapsed .workspace{margin-left:0}
+ body.sidebar-collapsed .sidebar-toggle{grid-column:2;grid-row:1;margin:0}
+ body.sidebar-collapsed .identity{display:flex}
+ body.sidebar-collapsed .sidebar nav{display:none}
+}
