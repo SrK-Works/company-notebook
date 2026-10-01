@@ -8,6 +8,11 @@ Serve `dist/` with a local HTTP server. No build or dependency installation is r
 The entrypoint loads `data.js`, `app.js` and `style.css`. Navigation uses hash routes,
 so company links work on static hosting. `.openai/hosting.json` retains the Sites project identity.
 
+## Independent hosting
+
+GitHub Pages publishes the contents of `dist/` after each push to `main` using
+`.github/workflows/deploy-pages.yml`. The deployed site does not depend on ChatGPT Sites.
+
 ## Features
 
 - Twenty-four company profiles, company/brand/ticker search and business-type filters.
