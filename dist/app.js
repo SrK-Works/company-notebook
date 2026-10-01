@@ -1,6 +1,13 @@
 const main=document.querySelector('main');
 const safe=(v)=>String(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 function read(key,fallback){try{return JSON.parse(localStorage.getItem(key))??fallback}catch{return fallback}}
+const themeToggle=document.querySelector('[data-theme-toggle]');
+const themeMedia=window.matchMedia('(prefers-color-scheme: dark)');
+function preferredTheme(){try{const savedTheme=localStorage.getItem('cn-theme');if(savedTheme==='light'||savedTheme==='dark')return savedTheme}catch{}return themeMedia.matches?'dark':'light'}
+function applyTheme(theme,save=false){const dark=theme==='dark';document.documentElement.dataset.theme=theme;document.documentElement.style.colorScheme=theme;themeToggle.setAttribute('aria-pressed',dark);themeToggle.setAttribute('aria-label',`Switch to ${dark?'light':'dark'} mode`);themeToggle.querySelector('[aria-hidden]').textContent=dark?'☀':'◐';themeToggle.querySelector('[data-theme-label]').textContent=dark?'Light mode':'Dark mode';document.querySelector('#theme-color')?.setAttribute('content',dark?'#0f1621':'#f6f8fc');if(save){try{localStorage.setItem('cn-theme',theme)}catch{}}}
+applyTheme(preferredTheme());
+themeToggle.addEventListener('click',()=>applyTheme(document.documentElement.dataset.theme==='dark'?'light':'dark',true));
+themeMedia.addEventListener?.('change',()=>{try{if(!localStorage.getItem('cn-theme'))applyTheme(themeMedia.matches?'dark':'light')}catch{}});
 let saved=read('cn-saved',[]);if(!Array.isArray(saved))saved=[];let sector='All companies',query='';
 function persist(key,value){try{localStorage.setItem(key,JSON.stringify(value));return true}catch{toast('Your browser could not save this. It will last for this visit only.');return false}}
 function event(name,company){const entries=read('cn-events',[]);persist('cn-events',[...(Array.isArray(entries)?entries:[]),{name,company,time:new Date().toISOString()}].slice(-500))}

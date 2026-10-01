@@ -18,6 +18,7 @@ GitHub Pages publishes `dist/` automatically after each push to `main`:
 - Twenty-four company profiles, company/brand/ticker search and business-type filters.
 - Device-local saved reading list, source references, business-model explanations,
   risks and self-check questions.
+- Light and dark themes with system preference detection and a saved manual choice.
 - Starter guide and glossary.
 - Local feedback, correction notes, coverage requests and JSON export for pilot sessions.
 - Device-local reading events: opening and completing profiles, revealing explanations and bookmarks.
