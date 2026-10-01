@@ -8,6 +8,11 @@ Serve `dist/` with a local HTTP server. No build or dependency installation is r
 The entrypoint loads `data.js`, `app.js` and `style.css`. Navigation uses hash routes,
 so company links work on static hosting. `.openai/hosting.json` retains the Sites project identity.
 
+## Live website
+
+GitHub Pages publishes `dist/` automatically after each push to `main`:
+[srk-works.github.io/company-notebook](https://srk-works.github.io/company-notebook/)
+
 ## Features
 
 - Twenty-four company profiles, company/brand/ticker search and business-type filters.
