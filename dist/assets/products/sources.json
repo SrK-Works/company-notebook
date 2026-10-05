@@ -1,0 +1,2116 @@
+{
+  "reviewed": "2026-10-05",
+  "note": "Official images retain their owners’ rights. Illustrations are original conceptual artwork, not screenshots or photos.",
+  "assets": [
+    {
+      "company": "hindustan-unilever",
+      "name": "Active Wheel 2 in 1",
+      "category": "Home care · laundry",
+      "src": "https://www.hul.co.in/content-images/92ui5egz/production/0b4561f5e84cc5466b3cbe391e1d7f35a693ac86-1920x1080.png?rect=0,3,1920,1075&w=150&h=84&fit=crop&auto=format",
+      "url": "https://www.hul.co.in/brands/",
+      "kind": "pack",
+      "alt": "Active Wheel 2 in 1 — official product image",
+      "image": "assets/products/hindustan-unilever-0.webp"
+    },
+    {
+      "company": "hindustan-unilever",
+      "name": "Axe",
+      "category": "Personal care · deodorants",
+      "src": "https://www.hul.co.in/content-images/92ui5egz/production/8f8e6721aa6130f12dd268d190a6a5c616b8d937-1920x1080.png?rect=0,3,1920,1075&w=150&h=84&fit=crop&auto=format",
+      "url": "https://www.hul.co.in/brands/personal-care/axe/",
+      "kind": "pack",
+      "alt": "Axe — official product image",
+      "image": "assets/products/hindustan-unilever-1.webp"
+    },
+    {
+      "company": "hindustan-unilever",
+      "name": "Boost",
+      "category": "Nutrition drink",
+      "src": "https://www.hul.co.in/content-images/92ui5egz/production/9428c7a533ecd36e66a74dfdb8b49f23e2953f67-1920x1080.png?rect=0,3,1920,1075&w=150&h=84&fit=crop&auto=format",
+      "url": "https://www.hul.co.in/brands/foods/boost/",
+      "kind": "pack",
+      "alt": "Boost — official product image",
+      "image": "assets/products/hindustan-unilever-2.webp"
+    },
+    {
+      "company": "hindustan-unilever",
+      "name": "Brooke Bond Red Label",
+      "category": "Foods · tea",
+      "src": "https://www.hul.co.in/content-images/92ui5egz/production/69d64eb5a75fa35a0a2ee704a24eb2ca5c8ef624-1920x1080.png?rect=0,3,1920,1075&w=150&h=84&fit=crop&auto=format",
+      "url": "https://www.hul.co.in/brands/",
+      "kind": "pack",
+      "alt": "Brooke Bond Red Label — official product image",
+      "image": "assets/products/hindustan-unilever-3.webp"
+    },
+    {
+      "company": "hindustan-unilever",
+      "name": "Bru",
+      "category": "Foods · coffee",
+      "src": "https://www.hul.co.in/content-images/92ui5egz/production/90cc44a91baeec183c3b8fa4d8993011cc961ba6-1920x1080.png?rect=0,3,1920,1075&w=150&h=84&fit=crop&auto=format",
+      "url": "https://www.hul.co.in/brands/foods/bru/",
+      "kind": "pack",
+      "alt": "Bru — official product image",
+      "image": "assets/products/hindustan-unilever-4.webp"
+    },
+    {
+      "company": "hindustan-unilever",
+      "name": "Closeup",
+      "category": "Personal care · oral care",
+      "src": "https://www.hul.co.in/content-images/92ui5egz/production/91069d129c22164f3ec46f93476194cd856596f3-1920x1080.png?rect=0,3,1920,1075&w=150&h=84&fit=crop&auto=format",
+      "url": "https://www.hul.co.in/brands/",
+      "kind": "pack",
+      "alt": "Closeup — official product image",
+      "image": "assets/products/hindustan-unilever-5.webp"
+    },
+    {
+      "company": "hindustan-unilever",
+      "name": "Comfort",
+      "category": "Home care · fabric conditioner",
+      "src": "https://www.hul.co.in/content-images/92ui5egz/production/856da2b6aa127055988b1841273a903fc41989a5-1920x1080.png?rect=0,3,1920,1075&w=150&h=84&fit=crop&auto=format",
+      "url": "https://www.hul.co.in/brands/home-care/comfort/",
+      "kind": "pack",
+      "alt": "Comfort — official product image",
+      "image": "assets/products/hindustan-unilever-6.webp"
+    },
+    {
+      "company": "hindustan-unilever",
+      "name": "Dove",
+      "category": "Beauty & personal care",
+      "src": "https://www.hul.co.in/content-images/92ui5egz/production/28a62da65119516a169968f032825f23bae9dc3b-1920x1080.png?rect=0,3,1920,1075&w=150&h=84&fit=crop&auto=format",
+      "url": "https://www.hul.co.in/brands/beauty-wellbeing/dove/",
+      "kind": "pack",
+      "alt": "Dove — official product image",
+      "image": "assets/products/hindustan-unilever-7.webp"
+    },
+    {
+      "company": "hindustan-unilever",
+      "name": "Horlicks",
+      "category": "Nutrition drink",
+      "src": "https://www.hul.co.in/content-images/92ui5egz/production/d8e32807980ea9955d86aa0cd4261f7b67248ab6-1920x1080.png?rect=0,3,1920,1075&w=150&h=84&fit=crop&auto=format",
+      "url": "https://www.hul.co.in/brands/foods/horlicks/",
+      "kind": "pack",
+      "alt": "Horlicks — official product image",
+      "image": "assets/products/hindustan-unilever-8.webp"
+    },
+    {
+      "company": "hindustan-unilever",
+      "name": "Lakmé",
+      "category": "Beauty · cosmetics and skin care",
+      "src": "https://www.hul.co.in/content-images/92ui5egz/production/193431af97c6c93df680e27c8dd1c2dd07f29714-1920x1080.png?rect=0,3,1920,1075&w=150&h=84&fit=crop&auto=format",
+      "url": "https://www.hul.co.in/brands/beauty-wellbeing/lakme/",
+      "kind": "pack",
+      "alt": "Lakmé — official product image",
+      "image": "assets/products/hindustan-unilever-9.webp"
+    },
+    {
+      "company": "hindustan-unilever",
+      "name": "Lifebuoy",
+      "category": "Personal care · hygiene",
+      "src": "https://www.hul.co.in/content-images/92ui5egz/production/0363c02fc8fccf337228a4d5c791413aec291e9d-1920x1080.png?rect=0,3,1920,1075&w=150&h=84&fit=crop&auto=format",
+      "url": "https://www.hul.co.in/brands/personal-care/lifebuoy/",
+      "kind": "pack",
+      "alt": "Lifebuoy — official product image",
+      "image": "assets/products/hindustan-unilever-10.webp"
+    },
+    {
+      "company": "hindustan-unilever",
+      "name": "Pears",
+      "category": "Personal care · soap",
+      "src": "https://www.hul.co.in/content-images/92ui5egz/production/079ba53b844adf342b219a8b22db521b73462408-1920x1080.png?rect=0,3,1920,1075&w=150&h=84&fit=crop&auto=format",
+      "url": "https://www.hul.co.in/brands/personal-care/pears/",
+      "kind": "pack",
+      "alt": "Pears — official product image",
+      "image": "assets/products/hindustan-unilever-11.webp"
+    },
+    {
+      "company": "itc",
+      "name": "Fabelle",
+      "category": "Food · chocolates",
+      "src": "https://fmcgstore.itcportal.com/Images/Home/SlideShow/01_Fabelle Chocolates.jpg",
+      "url": "https://itcportal.com/itc-businesses/fmcg.html",
+      "kind": "pack",
+      "alt": "Fabelle — official product image",
+      "image": "assets/products/itc-12.webp"
+    },
+    {
+      "company": "itc",
+      "name": "ITC Master Chef",
+      "category": "Food · frozen and ready-to-cook foods",
+      "src": "https://fmcgstore.itcportal.com/Images/Home/SlideShow/02_Frozen snacks - 1.jpg",
+      "url": "https://itcportal.com/itc-businesses/fmcg.html",
+      "kind": "pack",
+      "alt": "ITC Master Chef — official product image",
+      "image": "assets/products/itc-13.webp"
+    },
+    {
+      "company": "itc",
+      "name": "Candyman",
+      "category": "Food · confectionery",
+      "src": "https://fmcgstore.itcportal.com/Images/Home/SlideShow/04_ Candyman Choco Sticks.jpg",
+      "url": "https://itcportal.com/itc-businesses/fmcg.html",
+      "kind": "pack",
+      "alt": "Candyman — official product image",
+      "image": "assets/products/itc-14.webp"
+    },
+    {
+      "company": "itc",
+      "name": "Sunfeast Bounce",
+      "category": "Biscuits and cakes",
+      "src": "https://fmcgstore.itcportal.com/Images/Home/SlideShow/05_Bounce Cake.jpg",
+      "url": "https://itcportal.com/itc-businesses/fmcg.html",
+      "kind": "pack",
+      "alt": "Sunfeast — official product image",
+      "image": "assets/products/itc-15.webp"
+    },
+    {
+      "company": "itc",
+      "name": "Savlon",
+      "category": "Personal care · hygiene",
+      "src": "https://fmcgstore.itcportal.com/Images/Home/SlideShow/07_Savlon Hand Sanitizer - Copy.jpg",
+      "url": "https://itcportal.com/itc-businesses/fmcg.html",
+      "kind": "pack",
+      "alt": "Savlon — official product image",
+      "image": "assets/products/itc-16.webp"
+    },
+    {
+      "company": "itc",
+      "name": "Engage",
+      "category": "Personal care · fragrances",
+      "src": "https://fmcgstore.itcportal.com/Images/Home/SlideShow/10_Engage Flip.jpg",
+      "url": "https://itcportal.com/itc-businesses/fmcg.html",
+      "kind": "pack",
+      "alt": "Engage — official product image",
+      "image": "assets/products/itc-17.webp"
+    },
+    {
+      "company": "itc",
+      "name": "Nimyle",
+      "category": "Home care · floor cleaner",
+      "src": "https://fmcgstore.itcportal.com/Images/Home/SlideShow/13_NImyle fit.jpg",
+      "url": "https://itcportal.com/itc-businesses/fmcg.html",
+      "kind": "pack",
+      "alt": "Nimyle — official product image",
+      "image": "assets/products/itc-18.webp"
+    },
+    {
+      "company": "itc",
+      "name": "Vivel",
+      "category": "Personal care · soaps and body wash",
+      "src": "https://fmcgstore.itcportal.com/Images/Home/SlideShow/15_vivel_banner.jpg",
+      "url": "https://itcportal.com/itc-businesses/fmcg.html",
+      "kind": "pack",
+      "alt": "Vivel — official product image",
+      "image": "assets/products/itc-19.webp"
+    },
+    {
+      "company": "itc",
+      "name": "B Natural",
+      "category": "Food · beverages",
+      "src": "https://fmcgstore.itcportal.com/Images/Home/SlideShow/16_BNatural_bottle.jpg",
+      "url": "https://itcportal.com/itc-businesses/fmcg.html",
+      "kind": "pack",
+      "alt": "B Natural — official product image",
+      "image": "assets/products/itc-20.webp"
+    },
+    {
+      "company": "itc",
+      "name": "Mangaldeep",
+      "category": "Incense sticks and dhoop",
+      "src": "https://fmcgstore.itcportal.com/Images/Home/SlideShow/18_Treya3in1.jpg",
+      "url": "https://itcportal.com/itc-businesses/fmcg.html",
+      "kind": "pack",
+      "alt": "Mangaldeep — official product image",
+      "image": "assets/products/itc-21.webp"
+    },
+    {
+      "company": "itc",
+      "name": "Sunbean",
+      "category": "Food · coffee",
+      "src": "https://fmcgstore.itcportal.com/Images/Home/SlideShow/22_sun bean beaten caffe.jpg",
+      "url": "https://itcportal.com/itc-businesses/fmcg.html",
+      "kind": "pack",
+      "alt": "Sunbean — official product image",
+      "image": "assets/products/itc-22.webp"
+    },
+    {
+      "company": "itc",
+      "name": "Sunfeast Fantastik",
+      "category": "Biscuits and cakes",
+      "src": "https://fmcgstore.itcportal.com/Images/Home/SlideShow/29_Fantastik bar.png",
+      "url": "https://itcportal.com/itc-businesses/fmcg.html",
+      "kind": "pack",
+      "alt": "Sunfeast — official product image",
+      "image": "assets/products/itc-23.webp"
+    },
+    {
+      "company": "britannia",
+      "name": "Good Day",
+      "category": "Cookies",
+      "src": "https://media.britannia.co.in/Britannia_Good_Day_Butter_Cookies_Pack_5e64e7986d.png",
+      "url": "https://www.britannia.co.in/product",
+      "kind": "pack",
+      "alt": "Good Day — official product image",
+      "image": "assets/products/britannia-30.webp"
+    },
+    {
+      "company": "britannia",
+      "name": "Milk Bikis",
+      "category": "Milk biscuits",
+      "src": "https://media.britannia.co.in/Milk_Bikis_Milk_Cream_Pack_090be80919.png",
+      "url": "https://www.britannia.co.in/product",
+      "kind": "pack",
+      "alt": "Milk Bikis — official product image",
+      "image": "assets/products/britannia-31.webp"
+    },
+    {
+      "company": "britannia",
+      "name": "Tiger",
+      "category": "Biscuits",
+      "src": "https://media.britannia.co.in/Tiger_Glucose_Pack_1d1a5a0689.png",
+      "url": "https://www.britannia.co.in/product",
+      "kind": "pack",
+      "alt": "Tiger — official product image",
+      "image": "assets/products/britannia-32.webp"
+    },
+    {
+      "company": "britannia",
+      "name": "NutriChoice",
+      "category": "Health-focused biscuits and snacks",
+      "src": "https://media.britannia.co.in/Nutri_Choice_Ragi_Cookie_Pack_af2b850f17.png",
+      "url": "https://www.britannia.co.in/product",
+      "kind": "pack",
+      "alt": "NutriChoice — official product image",
+      "image": "assets/products/britannia-33.webp"
+    },
+    {
+      "company": "britannia",
+      "name": "50-50",
+      "category": "Crackers and savoury biscuits",
+      "src": "https://media.britannia.co.in/50_50_Maska_Chaska_765e34455f.png",
+      "url": "https://www.britannia.co.in/product",
+      "kind": "pack",
+      "alt": "50-50 — official product image",
+      "image": "assets/products/britannia-34.webp"
+    },
+    {
+      "company": "britannia",
+      "name": "Jim Jam",
+      "category": "Cream biscuits",
+      "src": "https://media.britannia.co.in/Jim_Jam_Pack_aa2e0478ea.png",
+      "url": "https://www.britannia.co.in/product",
+      "kind": "pack",
+      "alt": "Jim Jam — official product image",
+      "image": "assets/products/britannia-35.webp"
+    },
+    {
+      "company": "britannia",
+      "name": "Bourbon",
+      "category": "Cream biscuits",
+      "src": "https://media.britannia.co.in/Bourbon_049b73d9a5.png",
+      "url": "https://www.britannia.co.in/product",
+      "kind": "pack",
+      "alt": "Bourbon — official product image",
+      "image": "assets/products/britannia-36.webp"
+    },
+    {
+      "company": "britannia",
+      "name": "Little Hearts",
+      "category": "Sweet snacks",
+      "src": "https://media.britannia.co.in/Little_Hearts_31d4140cd2.png",
+      "url": "https://www.britannia.co.in/product",
+      "kind": "pack",
+      "alt": "Little Hearts — official product image",
+      "image": "assets/products/britannia-37.webp"
+    },
+    {
+      "company": "britannia",
+      "name": "Cheese",
+      "category": "Dairy · cheese",
+      "src": "https://media.britannia.co.in/Bri_Cheese_Slices_200g_3a28116e01.png",
+      "url": "https://www.britannia.co.in/product",
+      "kind": "pack",
+      "alt": "Cheese — official product image",
+      "image": "assets/products/britannia-38.webp"
+    },
+    {
+      "company": "britannia",
+      "name": "Treat",
+      "category": "Cream biscuits and wafers",
+      "src": "https://media.britannia.co.in/Treat_Treat_Fruit_Cream_Orange_Pack_de8f06a186.png",
+      "url": "https://www.britannia.co.in/product",
+      "kind": "pack",
+      "alt": "Treat — official product image",
+      "image": "assets/products/britannia-39.webp"
+    },
+    {
+      "company": "marico",
+      "name": "Parachute",
+      "category": "Coconut oil",
+      "src": "https://www.parachutecoconutoil.marico.in/images/pcno-desk.jpg",
+      "url": "https://marico.com/india/about-us",
+      "kind": "pack",
+      "alt": "Parachute — official product image",
+      "image": "assets/products/marico-9.webp"
+    },
+    {
+      "company": "marico",
+      "name": "Saffola",
+      "category": "Edible oils, foods and wellness",
+      "src": "https://marico.com/optimized/640x0/images/Group 1000002480 (1).png",
+      "url": "https://marico.com/india/about-us",
+      "kind": "brand",
+      "alt": "Saffola — official product image",
+      "image": "assets/products/marico-41.webp"
+    },
+    {
+      "company": "marico",
+      "name": "Saffola Foods",
+      "category": "Foods · oats and wellness",
+      "src": "https://marico.com/optimized/640x0/images/Group 1000002481 (1).png",
+      "url": "https://marico.com/india/about-us",
+      "kind": "brand",
+      "alt": "Saffola Foods — official product image",
+      "image": "assets/products/marico-42.webp"
+    },
+    {
+      "company": "marico",
+      "name": "Plix",
+      "category": "Plant-based nutrition",
+      "src": "https://marico.com/optimized/640x0/images/Group 1000002438.png",
+      "url": "https://marico.com/india/about-us",
+      "kind": "brand",
+      "alt": "Plix — official product image",
+      "image": "assets/products/marico-43.webp"
+    },
+    {
+      "company": "marico",
+      "name": "Parachute Advansed",
+      "category": "Hair care",
+      "src": "https://marico.com/optimized/640x0/images/Group 1000002445 (1).png",
+      "url": "https://marico.com/india/about-us",
+      "kind": "brand",
+      "alt": "Parachute Advansed — official product image",
+      "image": "assets/products/marico-44.webp"
+    },
+    {
+      "company": "marico",
+      "name": "Hair & Care",
+      "category": "Hair oil",
+      "src": "https://marico.com/optimized/640x0/images/Group 1000002491.png",
+      "url": "https://marico.com/india/about-us",
+      "kind": "brand",
+      "alt": "Hair & Care — official product image",
+      "image": "assets/products/marico-45.webp"
+    },
+    {
+      "company": "marico",
+      "name": "Livon",
+      "category": "Hair care",
+      "src": "https://marico.com/optimized/640x0/images/Group 1000002496.png",
+      "url": "https://marico.com/india/about-us",
+      "kind": "brand",
+      "alt": "Livon — official product image",
+      "image": "assets/products/marico-46.webp"
+    },
+    {
+      "company": "marico",
+      "name": "Beardo",
+      "category": "Men’s grooming",
+      "src": "https://marico.com/optimized/640x0/images/Group 1000002453 (1).png",
+      "url": "https://marico.com/india/about-us",
+      "kind": "brand",
+      "alt": "Beardo — official product image",
+      "image": "assets/products/marico-47.webp"
+    },
+    {
+      "company": "marico",
+      "name": "Just Herbs",
+      "category": "Ayurvedic beauty",
+      "src": "https://marico.com/optimized/640x0/images/Group 1000002500.png",
+      "url": "https://marico.com/india/about-us",
+      "kind": "brand",
+      "alt": "Just Herbs — official product image",
+      "image": "assets/products/marico-48.webp"
+    },
+    {
+      "company": "marico",
+      "name": "Revive",
+      "category": "Fabric care",
+      "src": "https://marico.com/optimized/640x0/images/Group 1000002434 (1).png",
+      "url": "https://marico.com/india/about-us",
+      "kind": "brand",
+      "alt": "Revive — official product image",
+      "image": "assets/products/marico-49.webp"
+    },
+    {
+      "company": "titan-company",
+      "name": "Tanishq",
+      "category": "Jewellery",
+      "src": "https://www.titancompany.in/sites/default/files/Jwellery%20overview_2.png",
+      "url": "https://www.titancompany.in/our-brands",
+      "kind": "photo",
+      "alt": "Tanishq — representative image from the company website",
+      "image": "assets/products/titan-company-50.webp"
+    },
+    {
+      "company": "titan-company",
+      "name": "Titan Eye+",
+      "category": "Eyewear",
+      "src": "https://www.titancompany.in/sites/default/files/Titan%20Eye%2B%20overview_1.png",
+      "url": "https://www.titancompany.in/our-brands",
+      "kind": "photo",
+      "alt": "Titan Eye+ — representative image from the company website",
+      "image": "assets/products/titan-company-51.webp"
+    },
+    {
+      "company": "titan-company",
+      "name": "Taneira",
+      "category": "Indian dress wear",
+      "src": "https://www.titancompany.in/sites/default/files/New%20business%20overview_1.png",
+      "url": "https://www.titancompany.in/our-brands",
+      "kind": "photo",
+      "alt": "Taneira — representative image from the company website",
+      "image": "assets/products/titan-company-52.webp"
+    },
+    {
+      "company": "titan-company",
+      "name": "Titan",
+      "category": "Watches",
+      "src": "https://www.titancompany.in/sites/default/files/Titan%20watches_0.png",
+      "url": "https://www.instagram.com/titanwatchesindia/",
+      "kind": "photo",
+      "alt": "Titan — representative image from the company website",
+      "image": "assets/products/titan-company-53.webp"
+    },
+    {
+      "company": "titan-company",
+      "name": "Skinn",
+      "category": "Selected offering",
+      "src": "https://www.titancompany.in/sites/default/files/Skinn_4.png",
+      "url": "https://www.instagram.com/skinn_titan/",
+      "kind": "photo",
+      "alt": "Skinn — official product image",
+      "image": "assets/products/titan-company-54.webp"
+    },
+    {
+      "company": "titan-company",
+      "name": "Tanishq jewellery",
+      "category": "Jewellery collection",
+      "src": "https://www.titancompany.in/sites/default/files/Tanishq_2.png",
+      "url": "https://www.instagram.com/tanishqjewellery/",
+      "kind": "photo",
+      "alt": "Tanishq jewellery — representative image from the company website",
+      "image": "assets/products/titan-company-55.webp"
+    },
+    {
+      "company": "asian-paints",
+      "name": "Interior wall paints",
+      "category": "Decorative coatings",
+      "src": "https://static.asianpaints.com/content/dam/asian_paints/home/webp-images/paints-and-textures/interior-walls-lp-thumbnail.webp",
+      "url": "https://www.asianpaints.com/paint-products/interior-wall-paints.html",
+      "kind": "photo",
+      "alt": "Interior wall paints — representative image from the company website",
+      "image": "assets/products/asian-paints-56.webp"
+    },
+    {
+      "company": "asian-paints",
+      "name": "Exterior wall paints",
+      "category": "Weather-protection coatings",
+      "src": "https://static.asianpaints.com/content/dam/asian_paints/home/webp-images/paints-and-textures/exterior-walls-lp-thumbnail.webp",
+      "url": "https://www.asianpaints.com/paint-products/exterior-wall-paints.html",
+      "kind": "photo",
+      "alt": "Exterior wall paints — representative image from the company website",
+      "image": "assets/products/asian-paints-57.webp"
+    },
+    {
+      "company": "asian-paints",
+      "name": "WoodTech",
+      "category": "Wood finishes",
+      "src": "https://static.asianpaints.com/content/dam/asian_paints/home/webp-images/paints-and-textures/wood-metal-lp-thumbnail.webp",
+      "url": "https://www.asianpaints.com/products/wood-finish.html",
+      "kind": "photo",
+      "alt": "WoodTech — representative image from the company website",
+      "image": "assets/products/asian-paints-58.webp"
+    },
+    {
+      "company": "asian-paints",
+      "name": "Wall textures",
+      "category": "Decorative finishes",
+      "src": "https://static.asianpaints.com/content/dam/asian_paints/products/landing-pages/interior-texture-carousel-lp.webp",
+      "url": "https://www.asianpaints.com/products/product-template.html",
+      "kind": "photo",
+      "alt": "Wall textures — representative image from the company website",
+      "image": "assets/products/asian-paints-59.webp"
+    },
+    {
+      "company": "asian-paints",
+      "name": "Nilaya",
+      "category": "Wall coverings and luxury finishes",
+      "src": "https://static.asianpaints.com/content/dam/asian_paints/products/landing-pages/wallpaper-carousel-lp.webp",
+      "url": "https://www.asianpaints.com/products/product-template.html",
+      "kind": "photo",
+      "alt": "Nilaya — representative image from the company website",
+      "image": "assets/products/asian-paints-60.webp"
+    },
+    {
+      "company": "asian-paints",
+      "name": "Furniture",
+      "category": "Home décor",
+      "src": "https://static.asianpaints.com/content/dam/asian_paints/home/webp-images/paints-and-textures/ids-furniture-lp.webp",
+      "url": "https://www.asianpaints.com/products/product-template.html",
+      "kind": "photo",
+      "alt": "Furniture — representative image from the company website",
+      "image": "assets/products/asian-paints-61.webp"
+    },
+    {
+      "company": "asian-paints",
+      "name": "Lighting",
+      "category": "Home décor",
+      "src": "https://static.asianpaints.com/content/dam/asian_paints/home/webp-images/paints-and-textures/ids-lighting-lp.webp",
+      "url": "https://www.asianpaints.com/products/product-template.html",
+      "kind": "photo",
+      "alt": "Lighting — representative image from the company website",
+      "image": "assets/products/asian-paints-62.webp"
+    },
+    {
+      "company": "asian-paints",
+      "name": "Painting services",
+      "category": "Selected offering",
+      "src": "https://static.asianpaints.com/content/dam/asian_paints/home/webp-images/paints-and-textures/safe-painting-crosslink-manoj-pahwa-asian-paints.webp",
+      "url": "https://www.asianpaints.com/products/product-template.html",
+      "kind": "photo",
+      "alt": "Painting services — representative image from the company website",
+      "image": "assets/products/asian-paints-63.webp"
+    },
+    {
+      "company": "ultratech-cement",
+      "name": "UltraTech Cement",
+      "category": "Grey cement",
+      "src": "https://www.ultratechcement.com/content/ultratechcement/in/en/home/for-homebuilders/products/overview/cement-overview-page/_jcr_content/root/container/container_1827457535/container_224730462__865284017/teaser_copy_copy_cop_1672606215.coreimg.png/1699004602284/image.png",
+      "url": "https://www.ultratechcement.com/for-homebuilders/products/overview/cement-overview-page",
+      "kind": "pack",
+      "alt": "UltraTech Cement — official product image",
+      "image": "assets/products/ultratech-cement-64.webp"
+    },
+    {
+      "company": "ultratech-cement",
+      "name": "UltraTech Premium",
+      "category": "Premium cement",
+      "src": "https://www.ultratechcement.com/content/ultratechcement/in/en/home/for-homebuilders/products/overview/cement-overview-page/_jcr_content/root/container/container_1827457535/container_224730462__865284017/teaser_copy_copy_cop_1010266067.coreimg.png/1699004604137/image--1-1.png",
+      "url": "https://www.ultratechcement.com/for-homebuilders/products/overview/cement-overview-page",
+      "kind": "pack",
+      "alt": "UltraTech Premium — official product image",
+      "image": "assets/products/ultratech-cement-65.webp"
+    },
+    {
+      "company": "ultratech-cement",
+      "name": "UltraTech Cement · Super",
+      "category": "Grey cement",
+      "src": "https://www.ultratechcement.com/content/ultratechcement/in/en/home/for-homebuilders/products/overview/cement-overview-page/_jcr_content/root/container/container_1827457535/container_224730462__865284017/teaser_copy_copy_cop_1921792468.coreimg.png/1699004602723/image--2-.png",
+      "url": "https://www.ultratechcement.com/for-homebuilders/products/overview/cement-overview-page",
+      "kind": "pack",
+      "alt": "UltraTech Cement · Super — official product image",
+      "image": "assets/products/ultratech-cement-66.webp"
+    },
+    {
+      "company": "ultratech-cement",
+      "name": "UltraTech Weather Plus",
+      "category": "Water-repellent cement",
+      "src": "https://www.ultratechcement.com/content/ultratechcement/in/en/home/for-homebuilders/products/overview/cement-overview-page/_jcr_content/root/container/container_1827457535/container_838445360/teaser_31344578_copy.coreimg.png/1707274353185/cement-card.png",
+      "url": "https://www.ultratechcement.com/for-homebuilders/products/overview/cement-overview-page",
+      "kind": "pack",
+      "alt": "UltraTech Weather Plus — official product image",
+      "image": "assets/products/ultratech-cement-67.webp"
+    },
+    {
+      "company": "maruti-suzuki",
+      "name": "Dzire",
+      "category": "ARENA sedan",
+      "src": "https://www.marutisuzuki.com/adobe/assets/urn:aaid:aem:834183c9-f40f-4d14-bc9b-18fe493302cd/as/Dzire-430X260.png?height=260&width=430",
+      "url": "https://www.marutisuzuki.com/",
+      "kind": "pack",
+      "alt": "Dzire — official product image",
+      "image": "assets/products/maruti-suzuki-68.webp"
+    },
+    {
+      "company": "maruti-suzuki",
+      "name": "Victoris",
+      "category": "ARENA SUV",
+      "src": "https://www.marutisuzuki.com/adobe/assets/urn:aaid:aem:0db36c38-d1a7-4bdc-956f-a3acd137018c/as/Corporate-Page-Victoris-Thumbnail-Image.png?height=260&width=430",
+      "url": "https://www.marutisuzuki.com/",
+      "kind": "pack",
+      "alt": "Victoris — official product image",
+      "image": "assets/products/maruti-suzuki-69.webp"
+    },
+    {
+      "company": "maruti-suzuki",
+      "name": "Swift",
+      "category": "ARENA hatchback",
+      "src": "https://www.marutisuzuki.com/adobe/assets/urn:aaid:aem:b15cb2e1-7702-4977-8240-c613728f8ba8/as/swift.png?height=260&width=430",
+      "url": "https://www.marutisuzuki.com/",
+      "kind": "pack",
+      "alt": "Swift — official product image",
+      "image": "assets/products/maruti-suzuki-70.webp"
+    },
+    {
+      "company": "maruti-suzuki",
+      "name": "Brezza",
+      "category": "ARENA SUV",
+      "src": "https://www.marutisuzuki.com/adobe/assets/urn:aaid:aem:3d7675db-d79f-4851-beac-4f3b96079132/as/Corp-brezza430px.png?height=260&width=430",
+      "url": "https://www.marutisuzuki.com/",
+      "kind": "pack",
+      "alt": "Brezza — official product image",
+      "image": "assets/products/maruti-suzuki-71.webp"
+    },
+    {
+      "company": "maruti-suzuki",
+      "name": "Ertiga",
+      "category": "ARENA MPV",
+      "src": "https://www.marutisuzuki.com/adobe/assets/urn:aaid:aem:6247cdf4-2af5-443f-b054-761da87fd6ba/as/ertiga.png?height=260&width=430",
+      "url": "https://www.marutisuzuki.com/",
+      "kind": "pack",
+      "alt": "Ertiga — official product image",
+      "image": "assets/products/maruti-suzuki-72.webp"
+    },
+    {
+      "company": "maruti-suzuki",
+      "name": "WagonR",
+      "category": "ARENA hatchback",
+      "src": "https://www.marutisuzuki.com/adobe/assets/urn:aaid:aem:18f0b3ba-82b8-46ef-ae3a-cb3336612a83/as/wagon-r.png?height=260&width=430",
+      "url": "https://www.marutisuzuki.com/",
+      "kind": "pack",
+      "alt": "WagonR — official product image",
+      "image": "assets/products/maruti-suzuki-73.webp"
+    },
+    {
+      "company": "maruti-suzuki",
+      "name": "Alto K10",
+      "category": "ARENA hatchback",
+      "src": "https://www.marutisuzuki.com/adobe/assets/urn:aaid:aem:5834d2dc-af8c-4d41-b1f7-84c537954546/as/alto.png?height=260&width=430",
+      "url": "https://www.marutisuzuki.com/",
+      "kind": "pack",
+      "alt": "Alto K10 — official product image",
+      "image": "assets/products/maruti-suzuki-74.webp"
+    },
+    {
+      "company": "maruti-suzuki",
+      "name": "Celerio",
+      "category": "ARENA hatchback",
+      "src": "https://www.marutisuzuki.com/adobe/assets/urn:aaid:aem:5228dd06-2901-413b-88dc-c8635b0ad8a2/as/celerio.png?height=260&width=428",
+      "url": "https://www.marutisuzuki.com/",
+      "kind": "pack",
+      "alt": "Celerio — official product image",
+      "image": "assets/products/maruti-suzuki-75.webp"
+    },
+    {
+      "company": "maruti-suzuki",
+      "name": "Eeco",
+      "category": "Van",
+      "src": "https://www.marutisuzuki.com/adobe/assets/urn:aaid:aem:a80daf16-aa5e-42a5-b3cd-4a3b10da21b4/as/EECO.png?height=260&width=430",
+      "url": "https://www.marutisuzuki.com/",
+      "kind": "pack",
+      "alt": "Eeco — official product image",
+      "image": "assets/products/maruti-suzuki-76.webp"
+    },
+    {
+      "company": "maruti-suzuki",
+      "name": "S-Presso",
+      "category": "ARENA hatchback",
+      "src": "https://www.marutisuzuki.com/adobe/assets/urn:aaid:aem:8f4f96e0-d5ae-4a4a-b3b9-93c36fdc3172/as/s-presso.png?height=260&width=430",
+      "url": "https://www.marutisuzuki.com/",
+      "kind": "pack",
+      "alt": "S-Presso — official product image",
+      "image": "assets/products/maruti-suzuki-77.webp"
+    },
+    {
+      "company": "maruti-suzuki",
+      "name": "Grand Vitara",
+      "category": "NEXA SUV",
+      "src": "https://www.marutisuzuki.com/adobe/assets/urn:aaid:aem:3d1ed850-ad84-4abc-b9c4-a2d135147f95/as/grand-vitara.png?height=260&width=430",
+      "url": "https://www.marutisuzuki.com/",
+      "kind": "pack",
+      "alt": "Grand Vitara — official product image",
+      "image": "assets/products/maruti-suzuki-78.webp"
+    },
+    {
+      "company": "maruti-suzuki",
+      "name": "Fronx",
+      "category": "NEXA crossover",
+      "src": "https://www.marutisuzuki.com/adobe/assets/urn:aaid:aem:944d189b-37c4-4ae2-b600-fea0445e001b/as/fronx.png?height=260&width=430",
+      "url": "https://www.marutisuzuki.com/",
+      "kind": "pack",
+      "alt": "Fronx — official product image",
+      "image": "assets/products/maruti-suzuki-79.webp"
+    },
+    {
+      "company": "bajaj-auto",
+      "name": "Pulsar",
+      "category": "Motorcycles",
+      "src": "https://cdn.bajajauto.com/-/media/assets/bajajauto/bikes/web-header-navigator-images/pulsar-n125.webp",
+      "url": "https://www.bajajauto.com/bikes",
+      "kind": "pack",
+      "alt": "Pulsar — official product image",
+      "image": "assets/products/bajaj-auto-80.webp"
+    },
+    {
+      "company": "bajaj-auto",
+      "name": "Dominar",
+      "category": "Motorcycles",
+      "src": "https://cdn.bajajauto.com/-/media/assets/bajajauto/bikes/web-header-navigator-images/dominar-250.webp",
+      "url": "https://www.bajajauto.com/bikes",
+      "kind": "pack",
+      "alt": "Dominar — official product image",
+      "image": "assets/products/bajaj-auto-81.webp"
+    },
+    {
+      "company": "bajaj-auto",
+      "name": "Avenger",
+      "category": "Cruiser motorcycles",
+      "src": "https://cdn.bajajauto.com/-/media/assets/bajajauto/bikes/web-header-navigator-images/avenger-220-cruise.webp",
+      "url": "https://www.bajajauto.com/bikes",
+      "kind": "pack",
+      "alt": "Avenger — official product image",
+      "image": "assets/products/bajaj-auto-82.webp"
+    },
+    {
+      "company": "bajaj-auto",
+      "name": "Platina",
+      "category": "Commuter motorcycles",
+      "src": "https://cdn.bajajauto.com/-/media/assets/bajajauto/360degreeimages/bikes/platina-2026/platina-100/others/platina-white-bars-background-p100.webp",
+      "url": "https://www.bajajauto.com/bikes",
+      "kind": "pack",
+      "alt": "Platina — official product image",
+      "image": "assets/products/bajaj-auto-83.webp"
+    },
+    {
+      "company": "bajaj-auto",
+      "name": "CT",
+      "category": "Commuter motorcycles",
+      "src": "https://cdn.bajajauto.com/-/media/assets/bajajauto/bikes/web-header-navigator-images/ct-110x.webp",
+      "url": "https://www.bajajauto.com/bikes",
+      "kind": "pack",
+      "alt": "CT — official product image",
+      "image": "assets/products/bajaj-auto-84.webp"
+    },
+    {
+      "company": "bajaj-auto",
+      "name": "Freedom",
+      "category": "CNG motorcycles",
+      "src": "https://cdn.bajajauto.com/-/media/images/bajajauto/bajaj-price-page/header-drop-down/webp/freedom-ng04-disc.webp",
+      "url": "https://www.bajajauto.com/bikes",
+      "kind": "pack",
+      "alt": "Freedom — official product image",
+      "image": "assets/products/bajaj-auto-85.webp"
+    },
+    {
+      "company": "mahindra-and-mahindra",
+      "name": "Thar",
+      "category": "SUV",
+      "src": "https://auto.mahindra.com/dw/image/v2/BKRC_PRD/on/demandware.static/-/Sites-mahindra-product-catalog/default/dwc22e921e/images/THRN/large/ZXT_ArtemisSilver_602x339.png?sw=360&sh=202",
+      "url": "https://auto.mahindra.com/suv/thar/THRN.html",
+      "kind": "pack",
+      "alt": "Thar — official product image",
+      "image": "assets/products/mahindra-and-mahindra-86.webp"
+    },
+    {
+      "company": "mahindra-and-mahindra",
+      "name": "Thar ROXX",
+      "category": "SUV",
+      "src": "https://auto.mahindra.com/dw/image/v2/BKRC_PRD/on/demandware.static/-/Sites-mahindra-product-catalog/default/dwa4de1cb1/images/TH5D/large/Thar_Roxx_602x339.png?sw=360&sh=202",
+      "url": "https://auto.mahindra.com/suv/thar-roxx/TH5D.html",
+      "kind": "pack",
+      "alt": "Thar ROXX — official product image",
+      "image": "assets/products/mahindra-and-mahindra-87.webp"
+    },
+    {
+      "company": "mahindra-and-mahindra",
+      "name": "Scorpio-N",
+      "category": "SUV",
+      "src": "https://auto.mahindra.com/dw/image/v2/BKRC_PRD/on/demandware.static/-/Sites-mahindra-product-catalog/default/dw3408d691/images/SCN/large/Z8L/Z8L_Oceanic_602x339.png?sw=360&sh=202",
+      "url": "https://auto.mahindra.com/suv/scorpio-n/SCN.html",
+      "kind": "pack",
+      "alt": "Scorpio-N — official product image",
+      "image": "assets/products/mahindra-and-mahindra-88.webp"
+    },
+    {
+      "company": "mahindra-and-mahindra",
+      "name": "Scorpio Classic",
+      "category": "SUV",
+      "src": "https://auto.mahindra.com/dw/image/v2/BKRC_PRD/on/demandware.static/-/Sites-mahindra-product-catalog/default/dw95797f68/images/SCRC/large/ScorpioClassic_602x339.png?sw=360&sh=202",
+      "url": "https://auto.mahindra.com/suv/scorpio-classic/SCRC.html",
+      "kind": "pack",
+      "alt": "Scorpio Classic — official product image",
+      "image": "assets/products/mahindra-and-mahindra-89.webp"
+    },
+    {
+      "company": "mahindra-and-mahindra",
+      "name": "XUV 3XO",
+      "category": "Compact SUV",
+      "src": "https://auto.mahindra.com/dw/image/v2/BKRC_PRD/on/demandware.static/-/Sites-mahindra-product-catalog/default/dwc4930484/images/X3XO/large/S220_602x339.png?sw=360&sh=202",
+      "url": "https://auto.mahindra.com/suv/xuv3xo/X3XO.html",
+      "kind": "pack",
+      "alt": "XUV 3XO — official product image",
+      "image": "assets/products/mahindra-and-mahindra-90.webp"
+    },
+    {
+      "company": "mahindra-and-mahindra",
+      "name": "Bolero Neo",
+      "category": "Utility vehicle",
+      "src": "https://auto.mahindra.com/dw/image/v2/BKRC_PRD/on/demandware.static/-/Sites-mahindra-product-catalog/default/dw24e99287/images/NEO/large/BoleroNeo_602x339.png?sw=360&sh=202",
+      "url": "https://auto.mahindra.com/suv/bolero-neo/NEO.html",
+      "kind": "pack",
+      "alt": "Bolero Neo — official product image",
+      "image": "assets/products/mahindra-and-mahindra-91.webp"
+    },
+    {
+      "company": "mahindra-and-mahindra",
+      "name": "Bolero",
+      "category": "Utility vehicle",
+      "src": "https://auto.mahindra.com/dw/image/v2/BKRC_PRD/on/demandware.static/-/Sites-mahindra-product-catalog/default/dw2de0a99b/images/BOL/large/BoleroClassic_602x339.png?sw=360&sh=202",
+      "url": "https://auto.mahindra.com/suv/bolero/BOL.html",
+      "kind": "pack",
+      "alt": "Bolero — official product image",
+      "image": "assets/products/mahindra-and-mahindra-92.webp"
+    },
+    {
+      "company": "mahindra-and-mahindra",
+      "name": "XUV400",
+      "category": "Selected offering",
+      "src": "https://auto.mahindra.com/dw/image/v2/BKRC_PRD/on/demandware.static/-/Sites-mahindra-product-catalog/default/dweb7ab251/images/X400/large/XUV400_602x339.png?sw=360&sh=202",
+      "url": "https://auto.mahindra.com/suv/xuv400/X400.html",
+      "kind": "pack",
+      "alt": "XUV400 — official product image",
+      "image": "assets/products/mahindra-and-mahindra-93.webp"
+    },
+    {
+      "company": "mahindra-and-mahindra",
+      "name": "Veero",
+      "category": "Commercial vehicle",
+      "src": "https://auto.mahindra.com/dw/image/v2/BKRC_PRD/on/demandware.static/-/Sites-mahindra-product-catalog/default/dw499ceaf3/images/VEERO/large/VEERO_WEB_IMAGE_602x339.png?sw=360&sh=202",
+      "url": "https://auto.mahindra.com/pick-up-trucks/veero/UPP.html",
+      "kind": "pack",
+      "alt": "Veero — official product image",
+      "image": "assets/products/mahindra-and-mahindra-94.webp"
+    },
+    {
+      "company": "mahindra-and-mahindra",
+      "name": "Blazo",
+      "category": "Commercial vehicle",
+      "src": "https://auto.mahindra.com/dw/image/v2/BKRC_PRD/on/demandware.static/-/Sites-mahindra-product-catalog/default/dw9122e725/images/trucks/large/mahindra-blazo-x-tractor-trailer-235x127.png?sw=360&sh=202",
+      "url": "https://www.mahindratruckandbus.com/heavy-commercial-vehicles/tractor-trailer.aspx",
+      "kind": "pack",
+      "alt": "Blazo — official product image",
+      "image": "assets/products/mahindra-and-mahindra-95.webp"
+    },
+    {
+      "company": "mahindra-and-mahindra",
+      "name": "Treo Yaari",
+      "category": "Electric three-wheeler",
+      "src": "https://auto.mahindra.com/dw/image/v2/BKRC_PRD/on/demandware.static/-/Sites-mahindra-product-catalog/default/dw82325382/images/e-commercial/large/treo-yaari-side-235x127.png?sw=360&sh=202",
+      "url": "https://mahindralastmilemobility.com/treo-yaari-passenger",
+      "kind": "pack",
+      "alt": "Treo Yaari — official product image",
+      "image": "assets/products/mahindra-and-mahindra-96.webp"
+    },
+    {
+      "company": "mahindra-and-mahindra",
+      "name": "Treo",
+      "category": "Electric three-wheeler",
+      "src": "https://auto.mahindra.com/dw/image/v2/BKRC_PRD/on/demandware.static/-/Sites-mahindra-product-catalog/default/dwc804d513/images/e-commercial/large/treo-side-235x127.png?sw=360&sh=202",
+      "url": "https://mahindralastmilemobility.com/treo-hrt",
+      "kind": "pack",
+      "alt": "Treo — official product image",
+      "image": "assets/products/mahindra-and-mahindra-97.webp"
+    },
+    {
+      "company": "bharti-airtel",
+      "name": "Airtel 4G and 5G mobile",
+      "category": "Mobile connectivity",
+      "src": "https://assets.airtel.in/teams/simplycms/web/images/mobile-services-06062022-updated.png",
+      "url": "https://www.airtel.in/about-bharti/about-bharti-airtel/",
+      "kind": "photo",
+      "alt": "Airtel 4G and 5G mobile — representative image from the company website",
+      "image": "assets/products/bharti-airtel-98.webp"
+    },
+    {
+      "company": "bharti-airtel",
+      "name": "Airtel Wi-Fi",
+      "category": "Home broadband",
+      "src": "https://assets.airtel.in/teams/simplycms/web/images/home-services-06062022-up.png",
+      "url": "https://www.airtel.in/about-bharti/about-bharti-airtel/",
+      "kind": "photo",
+      "alt": "Airtel Wi-Fi — representative image from the company website",
+      "image": "assets/products/bharti-airtel-99.webp"
+    },
+    {
+      "company": "bharti-airtel",
+      "name": "Airtel Digital TV",
+      "category": "DTH television",
+      "src": "https://assets.airtel.in/teams/simplycms/web/images/digital-tv-06062022-updated.png",
+      "url": "https://www.airtel.in/about-bharti/about-bharti-airtel/",
+      "kind": "photo",
+      "alt": "Airtel Digital TV — representative image from the company website",
+      "image": "assets/products/bharti-airtel-100.webp"
+    },
+    {
+      "company": "bharti-airtel",
+      "name": "Airtel Business connectivity",
+      "category": "Enterprise data and voice",
+      "src": "https://assets.airtel.in/teams/simplycms/web/images/airtel-business-06062022-updatednew.png",
+      "url": "https://www.airtel.in/about-bharti/about-bharti-airtel/",
+      "kind": "photo",
+      "alt": "Airtel Business connectivity — representative image from the company website",
+      "image": "assets/products/bharti-airtel-101.webp"
+    },
+    {
+      "company": "hdfc-bank",
+      "name": "Savings accounts",
+      "category": "Deposits and payments",
+      "src": "https://s7ap1.scene7.com/is/image/hdfcbankPWS/regular-saving?fmt=webp-alpha",
+      "url": "https://www.hdfc.bank.in/about-us",
+      "kind": "photo",
+      "alt": "Savings accounts — representative image from the company website",
+      "image": "assets/products/hdfc-bank-102.webp"
+    },
+    {
+      "company": "hdfc-bank",
+      "name": "Current accounts",
+      "category": "Business banking",
+      "src": "https://s7ap1.scene7.com/is/image/hdfcbankPWS/current-account-updated?fmt=webp-alpha",
+      "url": "https://www.hdfc.bank.in/about-us",
+      "kind": "photo",
+      "alt": "Current accounts — representative image from the company website",
+      "image": "assets/products/hdfc-bank-103.webp"
+    },
+    {
+      "company": "hdfc-bank",
+      "name": "Fixed and recurring deposits",
+      "category": "Deposits",
+      "src": "https://s7ap1.scene7.com/is/image/hdfcbankPWS/fixed-deposit-desktop?fmt=webp-alpha",
+      "url": "https://www.hdfc.bank.in/about-us",
+      "kind": "photo",
+      "alt": "Fixed and recurring deposits — representative image from the company website",
+      "image": "assets/products/hdfc-bank-104.webp"
+    },
+    {
+      "company": "hdfc-bank",
+      "name": "Salary accounts",
+      "category": "Banking for employees",
+      "src": "https://s7ap1.scene7.com/is/image/hdfcbankPWS/salary-account-desktop?fmt=webp-alpha",
+      "url": "https://www.hdfc.bank.in/about-us",
+      "kind": "photo",
+      "alt": "Salary accounts — representative image from the company website",
+      "image": "assets/products/hdfc-bank-105.webp"
+    },
+    {
+      "company": "hdfc-bank",
+      "name": "Credit cards",
+      "category": "Credit and payments",
+      "src": "https://s7ap1.scene7.com/is/image/hdfcbankPWS/c-card?fmt=webp-alpha",
+      "url": "https://www.hdfc.bank.in/credit-cards/millennia-credit-card",
+      "kind": "pack",
+      "alt": "Credit cards — official product image",
+      "image": "assets/products/hdfc-bank-106.webp"
+    },
+    {
+      "company": "hdfc-bank",
+      "name": "Home loans",
+      "category": "Housing finance",
+      "src": "https://s7ap1.scene7.com/is/image/hdfcbankPWS/hl-banner-for-website-660-x-358?fmt=webp-alpha",
+      "url": "https://www.hdfc.bank.in/about-us",
+      "kind": "photo",
+      "alt": "Home loans — representative image from the company website",
+      "image": "assets/products/hdfc-bank-107.webp"
+    },
+    {
+      "company": "hdfc-bank",
+      "name": "Personal loans",
+      "category": "Retail lending",
+      "src": "https://s7ap1.scene7.com/is/image/hdfcbankPWS/personal-loan-desktop?fmt=webp-alpha",
+      "url": "https://www.hdfc.bank.in/about-us",
+      "kind": "photo",
+      "alt": "Personal loans — representative image from the company website",
+      "image": "assets/products/hdfc-bank-108.webp"
+    },
+    {
+      "company": "hdfc-bank",
+      "name": "Auto and two-wheeler loans",
+      "category": "Vehicle finance",
+      "src": "https://s7ap1.scene7.com/is/image/hdfcbankPWS/car-loan-updated?fmt=webp-alpha",
+      "url": "https://www.hdfc.bank.in/about-us",
+      "kind": "photo",
+      "alt": "Auto and two-wheeler loans — representative image from the company website",
+      "image": "assets/products/hdfc-bank-109.webp"
+    },
+    {
+      "company": "icici-bank",
+      "name": "Savings accounts",
+      "category": "Deposits and payments",
+      "src": "https://www.icici.bank.in/content/dam/icicibank/india/managed-assets/revamp-pages/header/savings-account-d.webp",
+      "url": "https://www.icicibank.com/home",
+      "kind": "photo",
+      "alt": "Savings accounts — representative image from the company website",
+      "image": "assets/products/icici-bank-110.webp"
+    },
+    {
+      "company": "icici-bank",
+      "name": "Fixed and recurring deposits",
+      "category": "Deposits",
+      "src": "https://www.icici.bank.in/content/dam/icicibank/india/managed-assets/revamp-pages/loan-against-securities_revamp/images/fixed-deposit-d.webp",
+      "url": "https://www.icicibank.com/home",
+      "kind": "photo",
+      "alt": "Fixed and recurring deposits — representative image from the company website",
+      "image": "assets/products/icici-bank-111.webp"
+    },
+    {
+      "company": "icici-bank",
+      "name": "Credit cards",
+      "category": "Credit and payments",
+      "src": "https://www.icici.bank.in/content/dam/icicibank/india/managed-assets/images/revamp/cc-desktop-01.webp",
+      "url": "https://www.icicibank.com/home",
+      "kind": "photo",
+      "alt": "Credit cards — representative image from the company website",
+      "image": "assets/products/icici-bank-112.webp"
+    },
+    {
+      "company": "icici-bank",
+      "name": "Home loans",
+      "category": "Housing finance",
+      "src": "https://www.icici.bank.in/content/dam/icicibank/india/managed-assets/revamp-page-images/home-page-icons/home-loan-offer.webp",
+      "url": "https://www.icicibank.com/home",
+      "kind": "photo",
+      "alt": "Home loans — representative image from the company website",
+      "image": "assets/products/icici-bank-113.webp"
+    },
+    {
+      "company": "icici-bank",
+      "name": "Personal loans",
+      "category": "Retail lending",
+      "src": "https://www.icici.bank.in/content/dam/icicibank/india/managed-assets/revamp-page-images/pl-exploreall.webp",
+      "url": "https://www.icicibank.com/home",
+      "kind": "photo",
+      "alt": "Personal loans — representative image from the company website",
+      "image": "assets/products/icici-bank-114.webp"
+    },
+    {
+      "company": "icici-bank",
+      "name": "Car and two-wheeler loans",
+      "category": "Vehicle finance",
+      "src": "https://www.icici.bank.in/content/dam/icicibank/india/managed-assets/revamp-page-images/carloan-desktop-img.webp",
+      "url": "https://www.icicibank.com/home",
+      "kind": "photo",
+      "alt": "Car and two-wheeler loans — representative image from the company website",
+      "image": "assets/products/icici-bank-115.webp"
+    },
+    {
+      "company": "icici-bank",
+      "name": "NRI banking",
+      "category": "Banking for overseas Indians",
+      "src": "https://www.icici.bank.in/content/dam/icicibank/india/managed-assets/revamp-pages/header/home-loans-22.webp",
+      "url": "https://www.icicibank.com/home",
+      "kind": "photo",
+      "alt": "NRI banking — representative image from the company website",
+      "image": "assets/products/icici-bank-116.webp"
+    },
+    {
+      "company": "icici-bank",
+      "name": "Digital banking",
+      "category": "Selected offering",
+      "src": "https://www.icici.bank.in/content/dam/icicibank/icici-assets/bb_banner-images/exciting-offers.webp",
+      "url": "https://www.icicibank.com/home",
+      "kind": "photo",
+      "alt": "Digital banking — representative image from the company website",
+      "image": "assets/products/icici-bank-117.webp"
+    },
+    {
+      "company": "sun-pharma",
+      "name": "Volini Gel",
+      "category": "Consumer healthcare · pain relief",
+      "src": "https://volini.com/wp-content/uploads/2024/04/Gel.webp",
+      "url": "https://sunpharma.com/products/",
+      "kind": "pack",
+      "alt": "Volini Gel — official product image",
+      "image": "assets/products/sun-pharma-118.webp"
+    },
+    {
+      "company": "sun-pharma",
+      "name": "Volini Spray",
+      "category": "Consumer healthcare · pain relief",
+      "src": "https://volini.com/wp-content/uploads/2024/04/Spray.webp",
+      "url": "https://sunpharma.com/products/",
+      "kind": "pack",
+      "alt": "Volini Spray — official product image",
+      "image": "assets/products/sun-pharma-119.webp"
+    },
+    {
+      "company": "sun-pharma",
+      "name": "Volini Maxx Spray",
+      "category": "Consumer healthcare · pain relief",
+      "src": "https://volini.com/wp-content/uploads/2024/04/Max.webp",
+      "url": "https://sunpharma.com/products/",
+      "kind": "pack",
+      "alt": "Volini Maxx Spray — official product image",
+      "image": "assets/products/sun-pharma-120.webp"
+    },
+    {
+      "company": "sun-pharma",
+      "name": "Volini Pain Patch",
+      "category": "Consumer healthcare · pain relief",
+      "src": "https://volini.com/wp-content/uploads/2026/06/volini-pain-patch-2.webp",
+      "url": "https://sunpharma.com/products/",
+      "kind": "pack",
+      "alt": "Volini Pain Patch — official product image",
+      "image": "assets/products/sun-pharma-121.webp"
+    },
+    {
+      "company": "larsen-and-toubro",
+      "name": "Buildings and Factories",
+      "category": "Construction",
+      "src": "https://2025prodstorageaccount-eqdyc8g8hpccdfez.a02.azurefd.net/ltprod/media/anmatfcf/infrastructure-2026-07-23.webp",
+      "url": "https://www.larsentoubro.com/hyderabad-metro",
+      "kind": "photo",
+      "alt": "Buildings and Factories — representative image from the company website",
+      "image": "assets/products/larsen-and-toubro-122.webp"
+    },
+    {
+      "company": "larsen-and-toubro",
+      "name": "Power Transmission and Distribution",
+      "category": "Grid construction",
+      "src": "https://2025prodstorageaccount-eqdyc8g8hpccdfez.a02.azurefd.net/ltprod/media/pcrdbj41/utilities-metals-2026-07-23.webp",
+      "url": "https://www.larsentoubro.com/hyderabad-metro",
+      "kind": "photo",
+      "alt": "Minerals and Metals — representative image from the company website",
+      "image": "assets/products/larsen-and-toubro-123.webp"
+    },
+    {
+      "company": "larsen-and-toubro",
+      "name": "Hydrocarbon projects",
+      "category": "Energy EPC",
+      "src": "https://2025prodstorageaccount-eqdyc8g8hpccdfez.a02.azurefd.net/ltprod/media/emeb0sy4/energy-2026-07-23.webp",
+      "url": "https://www.larsentoubro.com/hyderabad-metro",
+      "kind": "photo",
+      "alt": "Hydrocarbon projects — representative image from the company website",
+      "image": "assets/products/larsen-and-toubro-124.webp"
+    },
+    {
+      "company": "larsen-and-toubro",
+      "name": "L&T Renewables",
+      "category": "Renewable-energy EPC",
+      "src": "https://2025prodstorageaccount-eqdyc8g8hpccdfez.a02.azurefd.net/ltprod/media/j4odq0qm/renewables-2026-07-23.webp",
+      "url": "https://www.larsentoubro.com/hyderabad-metro",
+      "kind": "photo",
+      "alt": "L&T Renewables — representative image from the company website",
+      "image": "assets/products/larsen-and-toubro-125.webp"
+    },
+    {
+      "company": "larsen-and-toubro",
+      "name": "Construction equipment",
+      "category": "Manufacturing · construction machinery",
+      "src": "https://2025prodstorageaccount-eqdyc8g8hpccdfez.a02.azurefd.net/ltprod/media/f4lhbkck/manufacturing-2026-07-23.webp",
+      "url": "https://www.larsentoubro.com/hyderabad-metro",
+      "kind": "photo",
+      "alt": "Heavy Engineering — representative image from the company website",
+      "image": "assets/products/larsen-and-toubro-126.webp"
+    },
+    {
+      "company": "larsen-and-toubro",
+      "name": "Precision Engineering and Systems",
+      "category": "Defence and aerospace manufacturing",
+      "src": "https://2025prodstorageaccount-eqdyc8g8hpccdfez.a02.azurefd.net/ltprod/media/uf0hisxs/pes-2026-07-23.webp",
+      "url": "https://www.larsentoubro.com/hyderabad-metro",
+      "kind": "photo",
+      "alt": "Precision Engineering and Systems — representative image from the company website",
+      "image": "assets/products/larsen-and-toubro-127.webp"
+    },
+    {
+      "company": "larsen-and-toubro",
+      "name": "L&T Realty",
+      "category": "Group business",
+      "src": "https://2025prodstorageaccount-eqdyc8g8hpccdfez.a02.azurefd.net/ltprod/media/pweebosj/realty-2026-07-23.webp",
+      "url": "https://www.larsentoubro.com/hyderabad-metro",
+      "kind": "photo",
+      "alt": "L&T Realty — representative image from the company website",
+      "image": "assets/products/larsen-and-toubro-128.webp"
+    },
+    {
+      "company": "larsen-and-toubro",
+      "name": "Technology services",
+      "category": "Group business",
+      "src": "https://2025prodstorageaccount-eqdyc8g8hpccdfez.a02.azurefd.net/ltprod/media/4xth5hwh/technology-2026-07-23.webp",
+      "url": "https://www.larsentoubro.com/hyderabad-metro",
+      "kind": "photo",
+      "alt": "Technology services — representative image from the company website",
+      "image": "assets/products/larsen-and-toubro-129.webp"
+    },
+    {
+      "company": "reliance-industries",
+      "name": "JioMart",
+      "category": "Retail / digital brand",
+      "src": "https://rilstaticasset.akamaized.net/sites/default/files/2023-06/jiomart.jpg",
+      "url": "https://www.ril.com/about/products-brands",
+      "kind": "brand",
+      "alt": "JioMart brand mark from Reliance’s official brand directory",
+      "image": "assets/products/reliance-industries-130.webp"
+    },
+    {
+      "company": "reliance-industries",
+      "name": "Reliance Digital",
+      "category": "Retail / digital brand",
+      "src": "https://rilstaticasset.akamaized.net/sites/default/files/2023-06/reliance-digital.jpg",
+      "url": "https://www.ril.com/about/products-brands",
+      "kind": "brand",
+      "alt": "Reliance Digital brand mark from Reliance’s official brand directory",
+      "image": "assets/products/reliance-industries-131.webp"
+    },
+    {
+      "company": "reliance-industries",
+      "name": "Trends",
+      "category": "Retail / digital brand",
+      "src": "https://rilstaticasset.akamaized.net/sites/default/files/2023-06/trends.jpg",
+      "url": "https://www.ril.com/about/products-brands",
+      "kind": "brand",
+      "alt": "Trends brand mark from Reliance’s official brand directory",
+      "image": "assets/products/reliance-industries-132.webp"
+    },
+    {
+      "company": "reliance-industries",
+      "name": "AJIO",
+      "category": "Retail / digital brand",
+      "src": "https://rilstaticasset.akamaized.net/sites/default/files/2023-06/ajio.jpg",
+      "url": "https://www.ril.com/about/products-brands",
+      "kind": "brand",
+      "alt": "AJIO brand mark from Reliance’s official brand directory",
+      "image": "assets/products/reliance-industries-133.webp"
+    },
+    {
+      "company": "reliance-industries",
+      "name": "JioPhone",
+      "category": "Digital devices",
+      "src": "https://rilstaticasset.akamaized.net/sites/default/files/2023-06/jioPhone.jpg",
+      "url": "https://www.ril.com/about/products-brands",
+      "kind": "brand",
+      "alt": "JioPhone brand mark from Reliance’s official brand directory",
+      "image": "assets/products/reliance-industries-134.webp"
+    },
+    {
+      "company": "reliance-industries",
+      "name": "JioBharat",
+      "category": "Digital devices",
+      "src": "https://rilstaticasset.akamaized.net/sites/default/files/2023-11/jiobharat-pb.jpg",
+      "url": "https://www.ril.com/about/products-brands",
+      "kind": "brand",
+      "alt": "JioBharat brand mark from Reliance’s official brand directory",
+      "image": "assets/products/reliance-industries-135.webp"
+    },
+    {
+      "company": "reliance-industries",
+      "name": "Hamleys",
+      "category": "Retail / digital brand",
+      "src": "https://rilstaticasset.akamaized.net/sites/default/files/2023-06/hamleys.jpg",
+      "url": "https://www.ril.com/about/products-brands",
+      "kind": "brand",
+      "alt": "Hamleys brand mark from Reliance’s official brand directory",
+      "image": "assets/products/reliance-industries-136.webp"
+    },
+    {
+      "company": "reliance-industries",
+      "name": "Tira",
+      "category": "Retail / digital brand",
+      "src": "https://rilstaticasset.akamaized.net/sites/default/files/2023-06/tira.jpg",
+      "url": "https://www.ril.com/about/products-brands",
+      "kind": "brand",
+      "alt": "Tira brand mark from Reliance’s official brand directory",
+      "image": "assets/products/reliance-industries-137.webp"
+    },
+    {
+      "company": "tcs",
+      "name": "AI and Data & Analytics",
+      "category": "Technology services",
+      "image": "assets/products/tcs-ai-and-data-analytics.svg",
+      "url": "https://www.tcs.com/what-we-do/services/ai-data-and-analytics",
+      "kind": "illustration",
+      "alt": "AI and Data & Analytics — conceptual brain illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "tcs",
+      "name": "Cloud",
+      "category": "Technology services",
+      "image": "assets/products/tcs-cloud.svg",
+      "url": "https://www.tcs.com/what-we-do/services/cloud",
+      "kind": "illustration",
+      "alt": "Cloud — conceptual cloud illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "tcs",
+      "name": "Cognitive Business Operations",
+      "category": "Managed operations",
+      "image": "assets/products/tcs-cognitive-business-operations.svg",
+      "url": "https://www.tcs.com/",
+      "kind": "illustration",
+      "alt": "Cognitive Business Operations — conceptual screen illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "tcs",
+      "name": "Consulting",
+      "category": "Business and technology consulting",
+      "image": "assets/products/tcs-consulting.svg",
+      "url": "https://www.tcs.com/",
+      "kind": "illustration",
+      "alt": "Consulting — conceptual people illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "tcs",
+      "name": "Cybersecurity",
+      "category": "Technology services",
+      "image": "assets/products/tcs-cybersecurity.svg",
+      "url": "https://www.tcs.com/what-we-do/services/cybersecurity",
+      "kind": "illustration",
+      "alt": "Cybersecurity — conceptual shield illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "tcs",
+      "name": "Enterprise Solutions",
+      "category": "Business systems",
+      "image": "assets/products/tcs-enterprise-solutions.svg",
+      "url": "https://www.tcs.com/",
+      "kind": "illustration",
+      "alt": "Enterprise Solutions — conceptual network illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "tcs",
+      "name": "Industrial Autonomy & Engineering",
+      "category": "Engineering services",
+      "image": "assets/products/tcs-industrial-autonomy-engineering.svg",
+      "url": "https://www.tcs.com/",
+      "kind": "illustration",
+      "alt": "Industrial Autonomy & Engineering — conceptual car illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "tcs",
+      "name": "Network Solutions and Service",
+      "category": "Connectivity services",
+      "image": "assets/products/tcs-network-solutions-and-service.svg",
+      "url": "https://www.tcs.com/",
+      "kind": "illustration",
+      "alt": "Network Solutions and Service — conceptual network illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "infosys",
+      "name": "Infosys Topaz",
+      "category": "AI-first services and solutions",
+      "image": "assets/products/infosys-infosys-topaz.svg",
+      "url": "https://www.infosys.com/products-and-platforms.html",
+      "kind": "illustration",
+      "alt": "Infosys Topaz — conceptual brain illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "infosys",
+      "name": "Infosys Cobalt",
+      "category": "Cloud services and platforms",
+      "image": "assets/products/infosys-infosys-cobalt.svg",
+      "url": "https://www.infosys.com/products-and-platforms.html",
+      "kind": "illustration",
+      "alt": "Infosys Cobalt — conceptual cloud illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "infosys",
+      "name": "Consulting Services",
+      "category": "Business and technology consulting",
+      "image": "assets/products/infosys-consulting-services.svg",
+      "url": "https://www.infosys.com/products-and-platforms.html",
+      "kind": "illustration",
+      "alt": "Consulting Services — conceptual people illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "infosys",
+      "name": "Application Development and Maintenance",
+      "category": "Technology services",
+      "image": "assets/products/infosys-application-development-and-maintenance.svg",
+      "url": "https://www.infosys.com/products-and-platforms.html",
+      "kind": "illustration",
+      "alt": "Application Development and Maintenance — conceptual brain illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "infosys",
+      "name": "Engineering Services",
+      "category": "Product and engineering services",
+      "image": "assets/products/infosys-engineering-services.svg",
+      "url": "https://www.infosys.com/products-and-platforms.html",
+      "kind": "illustration",
+      "alt": "Engineering Services — conceptual factory illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "infosys",
+      "name": "Cyber Security",
+      "category": "Technology services",
+      "image": "assets/products/infosys-cyber-security.svg",
+      "url": "https://www.infosys.com/products-and-platforms.html",
+      "kind": "illustration",
+      "alt": "Cyber Security — conceptual shield illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "infosys",
+      "name": "Data and Analytics",
+      "category": "Technology services",
+      "image": "assets/products/infosys-data-and-analytics.svg",
+      "url": "https://www.infosys.com/products-and-platforms.html",
+      "kind": "illustration",
+      "alt": "Data and Analytics — conceptual brain illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "infosys",
+      "name": "Digital Experience",
+      "category": "Digital services",
+      "image": "assets/products/infosys-digital-experience.svg",
+      "url": "https://www.infosys.com/products-and-platforms.html",
+      "kind": "illustration",
+      "alt": "Digital Experience — conceptual network illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "state-bank-of-india",
+      "name": "Savings accounts",
+      "category": "Deposits and payments",
+      "image": "assets/products/state-bank-of-india-savings-accounts.svg",
+      "url": "https://sbi.bank.in/",
+      "kind": "illustration",
+      "alt": "Savings accounts — conceptual coin illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "state-bank-of-india",
+      "name": "Current accounts",
+      "category": "Business banking",
+      "image": "assets/products/state-bank-of-india-current-accounts.svg",
+      "url": "https://sbi.bank.in/",
+      "kind": "illustration",
+      "alt": "Current accounts — conceptual coin illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "state-bank-of-india",
+      "name": "Fixed and recurring deposits",
+      "category": "Deposits",
+      "image": "assets/products/state-bank-of-india-fixed-and-recurring-deposits.svg",
+      "url": "https://sbi.bank.in/",
+      "kind": "illustration",
+      "alt": "Fixed and recurring deposits — conceptual coin illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "state-bank-of-india",
+      "name": "Home loans",
+      "category": "Housing finance",
+      "image": "assets/products/state-bank-of-india-home-loans.svg",
+      "url": "https://sbi.bank.in/",
+      "kind": "illustration",
+      "alt": "Home loans — conceptual home illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "state-bank-of-india",
+      "name": "Auto loans",
+      "category": "Vehicle finance",
+      "image": "assets/products/state-bank-of-india-auto-loans.svg",
+      "url": "https://sbi.bank.in/",
+      "kind": "illustration",
+      "alt": "Auto loans — conceptual home illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "state-bank-of-india",
+      "name": "Personal loans",
+      "category": "Retail lending",
+      "image": "assets/products/state-bank-of-india-personal-loans.svg",
+      "url": "https://sbi.bank.in/",
+      "kind": "illustration",
+      "alt": "Personal loans — conceptual home illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "state-bank-of-india",
+      "name": "Education loans",
+      "category": "Education finance",
+      "image": "assets/products/state-bank-of-india-education-loans.svg",
+      "url": "https://sbi.bank.in/",
+      "kind": "illustration",
+      "alt": "Education loans — conceptual home illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "state-bank-of-india",
+      "name": "Gold loans",
+      "category": "Secured lending",
+      "image": "assets/products/state-bank-of-india-gold-loans.svg",
+      "url": "https://sbi.bank.in/",
+      "kind": "illustration",
+      "alt": "Gold loans — conceptual home illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "dr-reddys",
+      "name": "Global Generics",
+      "category": "Generic formulations",
+      "image": "assets/products/dr-reddys-global-generics.svg",
+      "url": "https://www.drreddys.com/our-business",
+      "kind": "illustration",
+      "alt": "Global Generics — conceptual chemistry illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "dr-reddys",
+      "name": "Biosimilars",
+      "category": "Biologic medicines",
+      "image": "assets/products/dr-reddys-biosimilars.svg",
+      "url": "https://www.drreddys.com/our-business",
+      "kind": "illustration",
+      "alt": "Biosimilars — conceptual chemistry illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "dr-reddys",
+      "name": "API Solutions",
+      "category": "Active pharmaceutical ingredients",
+      "image": "assets/products/dr-reddys-api-solutions.svg",
+      "url": "https://www.drreddys.com/our-business",
+      "kind": "illustration",
+      "alt": "API Solutions — conceptual chemistry illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "dr-reddys",
+      "name": "Aurigene Pharmaceutical Services",
+      "category": "Discovery and contract manufacturing",
+      "image": "assets/products/dr-reddys-aurigene-pharmaceutical-services.svg",
+      "url": "https://www.drreddys.com/our-business",
+      "kind": "illustration",
+      "alt": "Aurigene Pharmaceutical Services — conceptual chemistry illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "dr-reddys",
+      "name": "Innovative Medicines",
+      "category": "New therapies",
+      "image": "assets/products/dr-reddys-innovative-medicines.svg",
+      "url": "https://www.drreddys.com/our-business",
+      "kind": "illustration",
+      "alt": "Innovative Medicines — conceptual chemistry illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "dr-reddys",
+      "name": "Aurigene Oncology",
+      "category": "Cancer-drug research",
+      "image": "assets/products/dr-reddys-aurigene-oncology.svg",
+      "url": "https://www.drreddys.com/our-business",
+      "kind": "illustration",
+      "alt": "Aurigene Oncology — conceptual chemistry illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "dr-reddys",
+      "name": "Consumer Health",
+      "category": "Everyday health products",
+      "image": "assets/products/dr-reddys-consumer-health.svg",
+      "url": "https://www.drreddys.com/our-business",
+      "kind": "illustration",
+      "alt": "Consumer Health — conceptual screen illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "dr-reddys",
+      "name": "Rebalanz",
+      "category": "Electrolyte drink",
+      "image": "assets/products/dr-reddys-rebalanz.svg",
+      "url": "https://www.drreddys.com/our-business",
+      "kind": "illustration",
+      "alt": "Rebalanz — conceptual screen illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "avenue-supermarts",
+      "name": "DMart stores",
+      "category": "Physical retail",
+      "image": "assets/products/avenue-supermarts-dmart-stores.svg",
+      "url": "https://canary.dmartindia.com/",
+      "kind": "illustration",
+      "alt": "DMart stores — conceptual retail illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "avenue-supermarts",
+      "name": "DMart Ready",
+      "category": "Online ordering and pick-up",
+      "image": "assets/products/avenue-supermarts-dmart-ready.svg",
+      "url": "https://canary.dmartindia.com/",
+      "kind": "illustration",
+      "alt": "DMart Ready — conceptual screen illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "avenue-supermarts",
+      "name": "Grocery and Staples",
+      "category": "Retail category",
+      "image": "assets/products/avenue-supermarts-grocery-and-staples.svg",
+      "url": "https://canary.dmartindia.com/",
+      "kind": "illustration",
+      "alt": "Grocery and Staples — conceptual bag illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "avenue-supermarts",
+      "name": "Daily Essentials",
+      "category": "Retail category",
+      "image": "assets/products/avenue-supermarts-daily-essentials.svg",
+      "url": "https://canary.dmartindia.com/",
+      "kind": "illustration",
+      "alt": "Daily Essentials — conceptual brain illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "avenue-supermarts",
+      "name": "Dairy and Frozen",
+      "category": "Retail category",
+      "image": "assets/products/avenue-supermarts-dairy-and-frozen.svg",
+      "url": "https://canary.dmartindia.com/",
+      "kind": "illustration",
+      "alt": "Dairy and Frozen — conceptual brain illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "avenue-supermarts",
+      "name": "Fruits and Vegetables",
+      "category": "Retail category",
+      "image": "assets/products/avenue-supermarts-fruits-and-vegetables.svg",
+      "url": "https://canary.dmartindia.com/",
+      "kind": "illustration",
+      "alt": "Fruits and Vegetables — conceptual bag illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "avenue-supermarts",
+      "name": "DMart Brands",
+      "category": "Private-label products",
+      "image": "assets/products/avenue-supermarts-dmart-brands.svg",
+      "url": "https://canary.dmartindia.com/",
+      "kind": "illustration",
+      "alt": "DMart Brands — conceptual bag illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "avenue-supermarts",
+      "name": "Home and Personal Care",
+      "category": "Retail category",
+      "image": "assets/products/avenue-supermarts-home-and-personal-care.svg",
+      "url": "https://canary.dmartindia.com/",
+      "kind": "illustration",
+      "alt": "Home and Personal Care — conceptual home illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "ntpc",
+      "name": "Coal-based power",
+      "category": "Thermal electricity generation",
+      "image": "assets/products/ntpc-coal-based-power.svg",
+      "url": "https://ntpc.co.in/ntpc-overview",
+      "kind": "illustration",
+      "alt": "Coal-based power — conceptual factory illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "ntpc",
+      "name": "Gas-based power",
+      "category": "Thermal electricity generation",
+      "image": "assets/products/ntpc-gas-based-power.svg",
+      "url": "https://ntpc.co.in/ntpc-overview",
+      "kind": "illustration",
+      "alt": "Gas-based power — conceptual factory illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "ntpc",
+      "name": "Hydropower",
+      "category": "Renewable electricity generation",
+      "image": "assets/products/ntpc-hydropower.svg",
+      "url": "https://ntpc.co.in/ntpc-overview",
+      "kind": "illustration",
+      "alt": "Hydropower — conceptual power illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "ntpc",
+      "name": "Solar power",
+      "category": "Renewable electricity generation",
+      "image": "assets/products/ntpc-solar-power.svg",
+      "url": "https://ntpc.co.in/ntpc-overview",
+      "kind": "illustration",
+      "alt": "Solar power — conceptual solar illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "ntpc",
+      "name": "Wind power",
+      "category": "Renewable electricity generation",
+      "image": "assets/products/ntpc-wind-power.svg",
+      "url": "https://ntpc.co.in/ntpc-overview",
+      "kind": "illustration",
+      "alt": "Wind power — conceptual wind illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "ntpc",
+      "name": "Nuclear power development",
+      "category": "Emerging generation business",
+      "image": "assets/products/ntpc-nuclear-power-development.svg",
+      "url": "https://ntpc.co.in/ntpc-overview",
+      "kind": "illustration",
+      "alt": "Nuclear power development — conceptual power illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "ntpc",
+      "name": "Coal mining",
+      "category": "Fuel supply",
+      "image": "assets/products/ntpc-coal-mining.svg",
+      "url": "https://ntpc.co.in/ntpc-overview",
+      "kind": "illustration",
+      "alt": "Coal mining — conceptual factory illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "ntpc",
+      "name": "Power trading",
+      "category": "Electricity transactions",
+      "image": "assets/products/ntpc-power-trading.svg",
+      "url": "https://ntpc.co.in/ntpc-overview",
+      "kind": "illustration",
+      "alt": "Power trading — conceptual power illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "power-grid",
+      "name": "Interstate transmission",
+      "category": "High-voltage power network",
+      "image": "assets/products/power-grid-interstate-transmission.svg",
+      "url": "https://www.powergrid.in/en/company-overview",
+      "kind": "illustration",
+      "alt": "Interstate transmission — conceptual grid illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "power-grid",
+      "name": "HVDC transmission",
+      "category": "Long-distance power links",
+      "image": "assets/products/power-grid-hvdc-transmission.svg",
+      "url": "https://www.powergrid.in/en/company-overview",
+      "kind": "illustration",
+      "alt": "HVDC transmission — conceptual grid illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "power-grid",
+      "name": "Substations",
+      "category": "Grid infrastructure",
+      "image": "assets/products/power-grid-substations.svg",
+      "url": "https://www.powergrid.in/en/company-overview",
+      "kind": "illustration",
+      "alt": "Substations — conceptual grid illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "power-grid",
+      "name": "Transmission system consultancy",
+      "category": "Power-sector advisory",
+      "image": "assets/products/power-grid-transmission-system-consultancy.svg",
+      "url": "https://www.powergrid.in/en/company-overview",
+      "kind": "illustration",
+      "alt": "Transmission system consultancy — conceptual grid illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "power-grid",
+      "name": "Sub-transmission and distribution consultancy",
+      "category": "Grid advisory",
+      "image": "assets/products/power-grid-sub-transmission-and-distribution-consultancy.svg",
+      "url": "https://www.powergrid.in/en/company-overview",
+      "kind": "illustration",
+      "alt": "Sub-transmission and distribution consultancy — conceptual grid illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "power-grid",
+      "name": "Load dispatch and communication",
+      "category": "Grid operations support",
+      "image": "assets/products/power-grid-load-dispatch-and-communication.svg",
+      "url": "https://www.powergrid.in/en/company-overview",
+      "kind": "illustration",
+      "alt": "Load dispatch and communication — conceptual screen illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "power-grid",
+      "name": "Smart-grid solutions",
+      "category": "Digital grid infrastructure",
+      "image": "assets/products/power-grid-smart-grid-solutions.svg",
+      "url": "https://www.powergrid.in/en/company-overview",
+      "kind": "illustration",
+      "alt": "Smart-grid solutions — conceptual grid illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "power-grid",
+      "name": "Telecom and OPGW network",
+      "category": "Fibre connectivity",
+      "image": "assets/products/power-grid-telecom-and-opgw-network.svg",
+      "url": "https://www.powergrid.in/en/company-overview",
+      "kind": "illustration",
+      "alt": "Telecom and OPGW network — conceptual network illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "bajaj-auto",
+      "name": "Chetak",
+      "category": "Electric scooters",
+      "image": "assets/products/bajaj-auto-chetak.svg",
+      "url": "https://www.bajajauto.com/bikes",
+      "kind": "illustration",
+      "alt": "Chetak — conceptual screen illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "bajaj-auto",
+      "name": "RE",
+      "category": "Three-wheelers",
+      "image": "assets/products/bajaj-auto-re.svg",
+      "url": "https://www.bajajauto.com/bikes",
+      "kind": "illustration",
+      "alt": "RE — conceptual screen illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "ultratech-cement",
+      "name": "Birla White Cement",
+      "category": "White cement",
+      "image": "assets/products/ultratech-cement-birla-white-cement.svg",
+      "url": "https://www.ultratechcement.com/for-homebuilders/products/overview/cement-overview-page",
+      "kind": "illustration",
+      "alt": "Birla White Cement — official product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "ultratech-cement",
+      "name": "Birla White WallCare Putty",
+      "category": "Wall putty",
+      "image": "assets/products/ultratech-cement-birla-white-wallcare-putty.svg",
+      "url": "https://www.ultratechcement.com/for-homebuilders/products/overview/cement-overview-page",
+      "kind": "illustration",
+      "alt": "Birla White WallCare Putty — official product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "ultratech-cement",
+      "name": "Ready Mixed Concrete",
+      "category": "Prepared concrete",
+      "image": "assets/products/ultratech-cement-ready-mixed-concrete.svg",
+      "url": "https://www.ultratechcement.com/for-homebuilders/products/overview/cement-overview-page",
+      "kind": "illustration",
+      "alt": "Ready Mixed Concrete — official product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "ultratech-cement",
+      "name": "UltraTech Building Solutions",
+      "category": "Building-material retail and advice",
+      "image": "assets/products/ultratech-cement-ultratech-building-solutions.svg",
+      "url": "https://www.ultratechcement.com/for-homebuilders/products/overview/cement-overview-page",
+      "kind": "illustration",
+      "alt": "UltraTech Building Solutions — official product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "bharti-airtel",
+      "name": "Airtel Payments Bank",
+      "category": "Payments and banking services",
+      "image": "assets/products/bharti-airtel-airtel-payments-bank.svg",
+      "url": "https://www.airtel.in/about-bharti/about-bharti-airtel/",
+      "kind": "illustration",
+      "alt": "Airtel Payments Bank — conceptual brain illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "bharti-airtel",
+      "name": "Airtel IQ",
+      "category": "Cloud communications platform",
+      "image": "assets/products/bharti-airtel-airtel-iq.svg",
+      "url": "https://www.airtel.in/about-bharti/about-bharti-airtel/",
+      "kind": "illustration",
+      "alt": "Airtel IQ — conceptual brain illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "bharti-airtel",
+      "name": "Airtel Cloud",
+      "category": "Cloud services",
+      "image": "assets/products/bharti-airtel-airtel-cloud.svg",
+      "url": "https://www.airtel.in/about-bharti/about-bharti-airtel/",
+      "kind": "illustration",
+      "alt": "Airtel Cloud — conceptual cloud illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "bharti-airtel",
+      "name": "Nxtra Data Centers",
+      "category": "Data-centre services",
+      "image": "assets/products/bharti-airtel-nxtra-data-centers.svg",
+      "url": "https://www.airtel.in/about-bharti/about-bharti-airtel/",
+      "kind": "illustration",
+      "alt": "Nxtra Data Centers — conceptual brain illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "sun-pharma",
+      "name": "Specialty medicines",
+      "category": "Differentiated therapies",
+      "image": "assets/products/sun-pharma-specialty-medicines.svg",
+      "url": "https://sunpharma.com/products/",
+      "kind": "illustration",
+      "alt": "Specialty medicines — conceptual chemistry illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "sun-pharma",
+      "name": "Generic medicines",
+      "category": "Affordable formulations",
+      "image": "assets/products/sun-pharma-generic-medicines.svg",
+      "url": "https://sunpharma.com/products/",
+      "kind": "illustration",
+      "alt": "Generic medicines — conceptual chemistry illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "sun-pharma",
+      "name": "Active pharmaceutical ingredients",
+      "category": "Medicine inputs",
+      "image": "assets/products/sun-pharma-active-pharmaceutical-ingredients.svg",
+      "url": "https://sunpharma.com/products/",
+      "kind": "illustration",
+      "alt": "Active pharmaceutical ingredients — conceptual chemistry illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "sun-pharma",
+      "name": "Revital H",
+      "category": "Nutrition supplement",
+      "image": "assets/products/sun-pharma-revital-h.svg",
+      "url": "https://sunpharma.com/products/",
+      "kind": "illustration",
+      "alt": "Revital H — conceptual screen illustration; not a photograph or product screenshot",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "nestle-india",
+      "name": "MAGGI Noodles",
+      "category": "Prepared foods",
+      "src": "https://www.maggi.in/sites/default/files/styles/maggi_image_desktop_playlist_product/public/maggi-2minutes-noodles-617x900.png?itok=UfjJJW9r",
+      "url": "https://www.maggi.in/en/product/maggi-2-minute-noodles/",
+      "kind": "pack",
+      "alt": "MAGGI Noodles — official product image",
+      "image": "assets/products/nestle-india-0.webp"
+    },
+    {
+      "company": "nestle-india",
+      "name": "MAGGI Nutri-licious",
+      "category": "Prepared foods",
+      "src": "https://www.maggi.in/sites/default/files/styles/maggi_image_desktop_playlist_product/public/2026-07/IN_2025_Maggi%20Veg%20Atta%20Single%2072.5g_44496753_FOP_0.png?itok=wgzfNKPK",
+      "url": "https://www.maggi.in/en/product/maggi-nutri-licious-atta-masala-noodles/",
+      "kind": "pack",
+      "alt": "MAGGI Nutri-licious — official product image",
+      "image": "assets/products/nestle-india-1.webp"
+    },
+    {
+      "company": "nestle-india",
+      "name": "MAGGI Cuppa",
+      "category": "Prepared foods",
+      "src": "https://www.maggi.in/sites/default/files/styles/maggi_image_desktop_playlist_product/public/Cuppa-Noodles-617x900-%28Masala-cuppa-noodles%29.png?itok=tK4Ja77c",
+      "url": "https://www.maggi.in/en/product/maggi-masala-cuppa-noodles/",
+      "kind": "pack",
+      "alt": "MAGGI Cuppa — official product image",
+      "image": "assets/products/nestle-india-2.webp"
+    },
+    {
+      "company": "nestle-india",
+      "name": "MAGGI Cooking Aids",
+      "category": "Seasonings and cooking aids",
+      "src": "https://www.maggi.in/sites/default/files/styles/maggi_image_desktop_playlist_product/public/MeM-Sachet-Render-617x900.png?itok=k_drBkEz",
+      "url": "https://www.maggi.in/en/product/maggi-masala-ae-magic/",
+      "kind": "pack",
+      "alt": "MAGGI Cooking Aids — official product image",
+      "image": "assets/products/nestle-india-3.webp"
+    },
+    {
+      "company": "nestle-india",
+      "name": "MAGGI Pazzta",
+      "category": "Prepared foods",
+      "src": "https://www.maggi.in/sites/default/files/styles/maggi_image_desktop_playlist_product/public/Pazzta-617x900-cheesy-tomato-twist.png?itok=USsqkxzC",
+      "url": "https://www.maggi.in/en/product/maggi-pazzta-cheesy-tomato-twist/",
+      "kind": "pack",
+      "alt": "MAGGI Pazzta — official product image",
+      "image": "assets/products/nestle-india-4.webp"
+    },
+    {
+      "company": "nestle-india",
+      "name": "MAGGI Sauces",
+      "category": "Sauces",
+      "src": "https://www.maggi.in/sites/default/files/styles/maggi_image_desktop_playlist_product/public/Maggi-Hot-and-Sweet-Ketchup-2020_1kg_Smile_3D.png?itok=izUe_VOf",
+      "url": "https://www.maggi.in/en/product/maggi-hot-sweet-tomato-chilli-sauce/",
+      "kind": "pack",
+      "alt": "MAGGI Sauces — official product image",
+      "image": "assets/products/nestle-india-5.webp"
+    },
+    {
+      "company": "nestle-india",
+      "name": "NESCAFÉ Classic",
+      "category": "Coffee",
+      "src": "https://www.nescafe.com/in/sites/default/files/styles/plp_card_image/public/2025-05/IN_2025_Nescafe-Cl_180g-Jar-960x960-3D.png.webp?itok=M_pvJ-sD",
+      "url": "https://www.nescafe.com/in/coffees/classic",
+      "kind": "pack",
+      "alt": "NESCAFÉ Classic — official product image",
+      "image": "assets/products/nestle-india-6.webp"
+    },
+    {
+      "company": "nestle-india",
+      "name": "NESCAFÉ Classic Black Roast",
+      "category": "Coffee",
+      "src": "https://www.nescafe.com/in/sites/default/files/styles/plp_card_image/public/2025-05/IN_2025_Nescafe-BR_90g-Jar-960x960_Resize_0.png.webp?itok=xJcClu9S",
+      "url": "https://www.nescafe.com/in/coffees/black-roast-coffee",
+      "kind": "pack",
+      "alt": "NESCAFÉ Classic Black Roast — official product image",
+      "image": "assets/products/nestle-india-7.webp"
+    },
+    {
+      "company": "nestle-india",
+      "name": "NESCAFÉ Ice Roast",
+      "category": "Coffee",
+      "src": "https://www.nescafe.com/in/sites/default/files/styles/plp_card_image/public/2024-10/NesIR-Jar%20label%20FOP%203D%20mockup-23-7-24%20copy%20-%20Copy.png.webp?itok=9Wvsrnr0",
+      "url": "https://www.nescafe.com/in/coffees/nescafe-ice-roast",
+      "kind": "pack",
+      "alt": "NESCAFÉ Ice Roast — official product image",
+      "image": "assets/products/nestle-india-8.webp"
+    }
+  ]
+}
