@@ -19,7 +19,7 @@ GitHub Pages publishes `dist/` automatically after each push to `main`:
 - Device-local saved reading list, source references, business-model explanations,
   risks and self-check questions.
 - Light and dark themes with system preference detection and a saved manual choice.
-- Product and service visual shelves across all 24 profiles, with automatic advance every 5.5 seconds, pause/play, arrows, native touch scrolling, and reduced-motion support.
+- Product and service visual shelves across all 24 profiles, with automatic advance every 5.5 seconds, pause on interaction, native touch scrolling, and reduced-motion support.
 - Starter guide and glossary.
 - Local feedback, correction notes, coverage requests and JSON export for pilot sessions.
 - Device-local reading events: opening and completing profiles, revealing explanations and bookmarks.
