@@ -5,7 +5,7 @@ Mobile-friendly research prototype for Indian stock-market beginners.
 ## Run
 
 Serve `dist/` with a local HTTP server. No build or dependency installation is required.
-The entrypoint loads `data.js`, `product-images.js`, `gallery.js`, `app.js` and `style.css`. Navigation uses hash routes,
+The entrypoint loads `data.js`, `company-expansion.js`, `product-images.js`, `gallery.js`, `app.js` and `style.css`. Navigation uses hash routes,
 so company links work on static hosting. `.openai/hosting.json` retains the Sites project identity.
 
 ## Live website
@@ -15,11 +15,11 @@ GitHub Pages publishes `dist/` automatically after each push to `main`:
 
 ## Features
 
-- Twenty-four company profiles, company/brand/ticker search and business-type filters.
+- Thirty-five company profiles, company/brand/ticker search and business-type filters.
 - Device-local saved reading list, source references, business-model explanations,
   risks and self-check questions.
 - Light and dark themes with system preference detection and a saved manual choice.
-- Product and service visual shelves across all 24 profiles, with a smooth, continuous loop at 22 pixels per second, pause on interaction, native touch scrolling, and reduced-motion support.
+- Product and service visual shelves across all 35 profiles, with a smooth, continuous loop at 22 pixels per second, pause on interaction, native touch scrolling, and reduced-motion support.
 - Starter guide and glossary.
 - Local feedback, correction notes, coverage requests and JSON export for pilot sessions.
 - Device-local reading events: opening and completing profiles, revealing explanations and bookmarks.
@@ -30,7 +30,7 @@ GitHub Pages publishes `dist/` automatically after each push to `main`:
 Sources were inspected during 15–18 September 2026. No data refresh runs automatically.
 Company disclosures and product directories support business facts; watch items,
 risks and learning explanations are editorial interpretation. This is not stock advice.
-All profile sources are stored with the record in `dist/data.js`.
+Profile sources are stored with each record in `dist/data.js` and `dist/company-expansion.js`. The 11 expansion profiles were reviewed on 27 October 2026; aliases support familiar names and common spelling variations.
 
 HUL includes selected FY 2025–26 segment contributions sourced from its official
 performance highlights. They total 97% as displayed, are explicitly marked partial,
@@ -45,7 +45,7 @@ Feedback must be exported by a pilot participant and shared separately.
 
 ## Validation performed
 
-- JavaScript syntax and all 24 records checked for required fields, counts and source URL shape.
+- JavaScript syntax and all 35 records checked for required fields, counts and source URL shape.
 - Browser search by brand, profile navigation, empty search and coverage form.
 - Bookmarks persist across reload and removal updates the saved list.
 - Feedback controls and export availability; no browser console errors observed.

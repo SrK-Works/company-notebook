@@ -1737,3 +1737,645 @@ window.PRODUCT_VISUALS = {
     }
   ]
 };
+
+// October 2026 company expansion
+Object.assign(window.PRODUCT_VISUALS, {
+  "rentomojo": [
+    {
+      "name": "Furniture rental packages",
+      "category": "Bundled home furnishings",
+      "image": "assets/products/rentomojo-visual-0.webp",
+      "url": "https://www.rentomojo.com/bangalore",
+      "kind": "pack",
+      "alt": "Furniture rental packages — image from the official company website"
+    },
+    {
+      "name": "Beds",
+      "category": "Furniture rental",
+      "image": "assets/products/rentomojo-visual-1.webp",
+      "url": "https://www.rentomojo.com/bangalore",
+      "kind": "pack",
+      "alt": "Beds — image from the official company website"
+    },
+    {
+      "name": "Sofas",
+      "category": "Furniture rental",
+      "image": "assets/products/rentomojo-visual-2.webp",
+      "url": "https://www.rentomojo.com/bangalore",
+      "kind": "pack",
+      "alt": "Sofas — image from the official company website"
+    },
+    {
+      "name": "Mattresses",
+      "category": "Home furnishing rental",
+      "image": "assets/products/rentomojo-visual-3.webp",
+      "url": "https://www.rentomojo.com/bangalore",
+      "kind": "pack",
+      "alt": "Mattresses — image from the official company website"
+    },
+    {
+      "name": "Wardrobes and organisers",
+      "category": "Furniture rental",
+      "image": "assets/products/rentomojo-visual-4.webp",
+      "url": "https://www.rentomojo.com/bangalore",
+      "kind": "pack",
+      "alt": "Wardrobes and organisers — image from the official company website"
+    },
+    {
+      "name": "Refrigerators and freezers",
+      "category": "Appliance rental",
+      "image": "assets/products/rentomojo-visual-5.webp",
+      "url": "https://www.rentomojo.com/bangalore",
+      "kind": "pack",
+      "alt": "Refrigerators and freezers — image from the official company website"
+    },
+    {
+      "name": "Televisions",
+      "category": "Electronics rental",
+      "image": "assets/products/rentomojo-visual-6.webp",
+      "url": "https://www.rentomojo.com/bangalore",
+      "kind": "pack",
+      "alt": "Televisions — image from the official company website"
+    },
+    {
+      "name": "Washing machines",
+      "category": "Appliance rental",
+      "image": "assets/products/rentomojo-visual-7.webp",
+      "url": "https://www.rentomojo.com/bangalore",
+      "kind": "pack",
+      "alt": "Washing machines — image from the official company website"
+    },
+    {
+      "name": "Air conditioners",
+      "category": "Appliance rental",
+      "image": "assets/products/rentomojo-visual-8.webp",
+      "url": "https://www.rentomojo.com/bangalore",
+      "kind": "pack",
+      "alt": "Air conditioners — image from the official company website"
+    },
+    {
+      "name": "Study tables",
+      "category": "Furniture rental",
+      "image": "assets/products/rentomojo-visual-9.webp",
+      "url": "https://www.rentomojo.com/bangalore",
+      "kind": "pack",
+      "alt": "Study tables — image from the official company website"
+    }
+  ],
+  "park-medi-world": [
+    {
+      "name": "Cardiac sciences",
+      "category": "Heart care",
+      "image": "assets/products/park-medi-world-visual-10.webp",
+      "url": "https://www.parkhospital.in/",
+      "kind": "service",
+      "alt": "Cardiac sciences — official service illustration"
+    },
+    {
+      "name": "Neurosciences and spine care",
+      "category": "Brain and nervous-system services",
+      "image": "assets/products/park-medi-world-visual-11.webp",
+      "url": "https://www.parkhospital.in/",
+      "kind": "service",
+      "alt": "Neurosciences and spine care — official service illustration"
+    },
+    {
+      "name": "Renal sciences and kidney transplant",
+      "category": "Kidney care",
+      "image": "assets/products/park-medi-world-visual-12.webp",
+      "url": "https://www.parkhospital.in/",
+      "kind": "service",
+      "alt": "Renal sciences and kidney transplant — official service illustration"
+    },
+    {
+      "name": "Gastro sciences",
+      "category": "Digestive-system care",
+      "image": "assets/products/park-medi-world-visual-13.webp",
+      "url": "https://www.parkhospital.in/",
+      "kind": "service",
+      "alt": "Gastro sciences — official service illustration"
+    },
+    {
+      "name": "Cancer care",
+      "category": "Oncology",
+      "image": "assets/products/park-medi-world-visual-14.webp",
+      "url": "https://www.parkhospital.in/",
+      "kind": "service",
+      "alt": "Cancer care — official service illustration"
+    },
+    {
+      "name": "Orthopaedics and joint replacement",
+      "category": "Bone and joint care",
+      "image": "assets/products/park-medi-world-visual-15.webp",
+      "url": "https://www.parkhospital.in/",
+      "kind": "service",
+      "alt": "Orthopaedics and joint replacement — official service illustration"
+    },
+    {
+      "name": "General and laparoscopic surgery",
+      "category": "Surgical services",
+      "image": "assets/products/park-medi-world-visual-16.webp",
+      "url": "https://www.parkhospital.in/",
+      "kind": "service",
+      "alt": "General and laparoscopic surgery — official service illustration"
+    },
+    {
+      "name": "Obstetrics and gynaecology",
+      "category": "Women’s health",
+      "image": "assets/products/park-medi-world-visual-17.webp",
+      "url": "https://www.parkhospital.in/",
+      "kind": "service",
+      "alt": "Obstetrics and gynaecology — official service illustration"
+    }
+  ],
+  "rainbow-childrens-medicare": [
+    {
+      "name": "Rainbow Children’s Hospital",
+      "category": "Paediatric hospital services",
+      "image": "assets/products/rainbow-childrens-medicare-visual-18.webp",
+      "url": "https://www.rainbowhospitals.in/",
+      "kind": "photo",
+      "alt": "Rainbow Children’s Hospital — image from the official company website"
+    },
+    {
+      "name": "BirthRight by Rainbow",
+      "category": "Women’s and maternity care",
+      "image": "assets/products/rainbow-childrens-medicare-visual-19.webp",
+      "url": "https://www.rainbowhospitals.in/",
+      "kind": "photo",
+      "alt": "BirthRight by Rainbow — image from the official company website"
+    },
+    {
+      "name": "IVF and fertility care",
+      "category": "Assisted reproduction",
+      "image": "assets/products/rainbow-childrens-medicare-visual-20.webp",
+      "url": "https://www.rainbowhospitals.in/",
+      "kind": "photo",
+      "alt": "IVF and fertility care — image from the official company website"
+    },
+    {
+      "name": "General paediatrics",
+      "category": "Child consultations and treatment",
+      "image": "assets/products/rainbow-childrens-medicare-general-paediatrics.svg",
+      "url": "https://www.rainbowhospitals.in/",
+      "kind": "illustration",
+      "alt": "General paediatrics — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Neonatal intensive care",
+      "category": "Care for newborns",
+      "image": "assets/products/rainbow-childrens-medicare-neonatal-intensive-care.svg",
+      "url": "https://www.rainbowhospitals.in/",
+      "kind": "illustration",
+      "alt": "Neonatal intensive care — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Paediatric cardiology and cardiac surgery",
+      "category": "Children’s heart care",
+      "image": "assets/products/rainbow-childrens-medicare-paediatric-cardiology-and-cardiac-surgery.svg",
+      "url": "https://www.rainbowhospitals.in/",
+      "kind": "illustration",
+      "alt": "Paediatric cardiology and cardiac surgery — conceptual illustration, not a product photograph"
+    }
+  ],
+  "parag-milk-foods": [
+    {
+      "name": "Gowardhan ghee",
+      "category": "Traditional dairy",
+      "image": "assets/products/parag-milk-foods-visual-21.webp",
+      "url": "https://www.paragmilkfoods.com/gowardhan-ghee.php",
+      "kind": "pack",
+      "alt": "Gowardhan ghee — image from the official company website"
+    },
+    {
+      "name": "Go cheese slices",
+      "category": "Cheese · selected variant",
+      "image": "assets/products/parag-milk-foods-visual-22.webp",
+      "url": "https://www.paragmilkfoods.com/go-cheese.php",
+      "kind": "pack",
+      "alt": "Go cheese slices — image from the official company website"
+    },
+    {
+      "name": "Go processed cheese",
+      "category": "Cheese · selected variant",
+      "image": "assets/products/parag-milk-foods-visual-23.webp",
+      "url": "https://www.paragmilkfoods.com/go-cheese.php",
+      "kind": "pack",
+      "alt": "Go processed cheese — image from the official company website"
+    },
+    {
+      "name": "Go pizza cheese",
+      "category": "Cheese · selected variant",
+      "image": "assets/products/parag-milk-foods-visual-24.webp",
+      "url": "https://www.paragmilkfoods.com/go-cheese.php",
+      "kind": "pack",
+      "alt": "Go pizza cheese — image from the official company website"
+    },
+    {
+      "name": "Go mozzarella",
+      "category": "Cheese · selected variant",
+      "image": "assets/products/parag-milk-foods-visual-25.webp",
+      "url": "https://www.paragmilkfoods.com/go-cheese.php",
+      "kind": "pack",
+      "alt": "Go mozzarella — image from the official company website"
+    },
+    {
+      "name": "Go cheese spreads",
+      "category": "Cheese · selected product",
+      "image": "assets/products/parag-milk-foods-visual-26.webp",
+      "url": "https://www.paragmilkfoods.com/go-cheese.php",
+      "kind": "pack",
+      "alt": "Go cheese spreads — image from the official company website"
+    },
+    {
+      "name": "Go shredded cheese",
+      "category": "Cheese · selected variant",
+      "image": "assets/products/parag-milk-foods-visual-27.webp",
+      "url": "https://www.paragmilkfoods.com/go-cheese.php",
+      "kind": "pack",
+      "alt": "Go shredded cheese — image from the official company website"
+    }
+  ],
+  "eternal": [
+    {
+      "name": "Zomato",
+      "category": "Restaurant food delivery and discovery",
+      "image": "assets/products/eternal-visual-28.webp",
+      "url": "https://www.eternal.com/our-businesses/zomato/",
+      "kind": "photo",
+      "alt": "Zomato — image from the official company website"
+    },
+    {
+      "name": "Blinkit",
+      "category": "Quick commerce · groceries and everyday goods",
+      "image": "assets/products/eternal-visual-29.webp",
+      "url": "https://www.eternal.com/our-businesses/blinkit/",
+      "kind": "photo",
+      "alt": "Blinkit — image from the official company website"
+    },
+    {
+      "name": "District",
+      "category": "Going-out, dining and entertainment platform",
+      "image": "assets/products/eternal-visual-30.webp",
+      "url": "https://www.eternal.com/our-businesses/district/",
+      "kind": "photo",
+      "alt": "District — image from the official company website"
+    },
+    {
+      "name": "Hyperpure",
+      "category": "B2B restaurant supplies",
+      "image": "assets/products/eternal-visual-31.webp",
+      "url": "https://www.eternal.com/our-businesses/hyperpure/",
+      "kind": "photo",
+      "alt": "Hyperpure — image from the official company website"
+    }
+  ],
+  "swiggy": [
+    {
+      "name": "Swiggy Food Delivery",
+      "category": "Restaurant marketplace and delivery",
+      "image": "assets/products/swiggy-visual-32.webp",
+      "url": "https://www.swiggy.com/corporate/our-business/",
+      "kind": "brand",
+      "alt": "Swiggy Food Delivery — image from the official company website"
+    },
+    {
+      "name": "Instamart",
+      "category": "Quick commerce · groceries and household goods",
+      "image": "assets/products/swiggy-visual-33.webp",
+      "url": "https://www.swiggy.com/corporate/our-business/",
+      "kind": "brand",
+      "alt": "Instamart — image from the official company website"
+    },
+    {
+      "name": "Dineout",
+      "category": "Restaurant discovery, reservations and payments",
+      "image": "assets/products/swiggy-visual-34.webp",
+      "url": "https://www.swiggy.com/corporate/our-business/",
+      "kind": "brand",
+      "alt": "Dineout — image from the official company website"
+    },
+    {
+      "name": "Scenes",
+      "category": "Dining and live-experience reservations",
+      "image": "assets/products/swiggy-scenes.svg",
+      "url": "https://www.swiggy.com/corporate/our-business/",
+      "kind": "brand",
+      "alt": "Scenes — official company image"
+    },
+    {
+      "name": "Swiggy One",
+      "category": "Membership programme",
+      "image": "assets/products/swiggy-swiggy-one.svg",
+      "url": "https://www.swiggy.com/corporate/our-business/",
+      "kind": "illustration",
+      "alt": "Swiggy One — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Bolt",
+      "category": "Faster food-delivery format",
+      "image": "assets/products/swiggy-bolt.svg",
+      "url": "https://www.swiggy.com/corporate/our-business/",
+      "kind": "illustration",
+      "alt": "Bolt — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "99 Store",
+      "category": "Food-delivery affordability format",
+      "image": "assets/products/swiggy-99-store.svg",
+      "url": "https://www.swiggy.com/corporate/our-business/",
+      "kind": "illustration",
+      "alt": "99 Store — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Eat Right",
+      "category": "Food-discovery and dietary-preference offering",
+      "image": "assets/products/swiggy-eat-right.svg",
+      "url": "https://www.swiggy.com/corporate/our-business/",
+      "kind": "illustration",
+      "alt": "Eat Right — conceptual illustration, not a product photograph"
+    }
+  ],
+  "kanohar-electricals": [
+    {
+      "name": "Traction transformers",
+      "category": "Railway power equipment",
+      "image": "assets/products/kanohar-electricals-visual-37.webp",
+      "url": "https://www.kanohar.com/transformers",
+      "kind": "pack",
+      "alt": "Traction transformers — image from the official company website"
+    },
+    {
+      "name": "Scott-connected transformers",
+      "category": "Railway power-conversion equipment",
+      "image": "assets/products/kanohar-electricals-visual-38.webp",
+      "url": "https://www.kanohar.com/transformers",
+      "kind": "pack",
+      "alt": "Scott-connected transformers — image from the official company website"
+    },
+    {
+      "name": "Shunt reactors",
+      "category": "Reactive-power equipment",
+      "image": "assets/products/kanohar-electricals-visual-39.webp",
+      "url": "https://www.kanohar.com/transformers",
+      "kind": "pack",
+      "alt": "Shunt reactors — image from the official company website"
+    },
+    {
+      "name": "Distribution transformers",
+      "category": "Distribution-network equipment",
+      "image": "assets/products/kanohar-electricals-visual-40.webp",
+      "url": "https://www.kanohar.com/transformers",
+      "kind": "pack",
+      "alt": "Distribution transformers — image from the official company website"
+    },
+    {
+      "name": "Gas-insulated switchgear",
+      "category": "High-voltage switching equipment",
+      "image": "assets/products/kanohar-electricals-visual-41.webp",
+      "url": "https://www.kanohar.com/",
+      "kind": "photo",
+      "alt": "Gas-insulated switchgear — image from the official company website"
+    },
+    {
+      "name": "AIS and GIS substations",
+      "category": "Turnkey substation projects",
+      "image": "assets/products/kanohar-electricals-visual-42.webp",
+      "url": "https://www.kanohar.com/",
+      "kind": "photo",
+      "alt": "AIS and GIS substations — image from the official company website"
+    },
+    {
+      "name": "Transmission lines",
+      "category": "Design, construction and commissioning",
+      "image": "assets/products/kanohar-electricals-visual-43.webp",
+      "url": "https://www.kanohar.com/",
+      "kind": "photo",
+      "alt": "Transmission lines — image from the official company website"
+    },
+    {
+      "name": "Power transformers",
+      "category": "Transmission and power-network equipment",
+      "image": "assets/products/kanohar-electricals-power-transformers.webp",
+      "url": "https://www.kanohar.com/transformers",
+      "kind": "pack",
+      "alt": "Power transformers — official company image"
+    }
+  ],
+  "glass-wall-systems": [
+    {
+      "name": "Façade and curtain wall systems",
+      "category": "Building-envelope systems",
+      "image": "assets/products/glass-wall-systems-visual-44.webp",
+      "url": "https://www.glasswallsystems.in/",
+      "kind": "photo",
+      "alt": "Façade and curtain wall systems — image from the official company website"
+    },
+    {
+      "name": "Louvers",
+      "category": "Architectural screening and ventilation",
+      "image": "assets/products/glass-wall-systems-visual-45.webp",
+      "url": "https://www.glasswallsystems.in/",
+      "kind": "photo",
+      "alt": "Louvers — image from the official company website"
+    },
+    {
+      "name": "Rain screen cladding",
+      "category": "External building cladding",
+      "image": "assets/products/glass-wall-systems-visual-46.webp",
+      "url": "https://www.glasswallsystems.in/",
+      "kind": "photo",
+      "alt": "Rain screen cladding — image from the official company website"
+    },
+    {
+      "name": "Façade design and engineering",
+      "category": "Project engineering service",
+      "image": "assets/products/glass-wall-systems-fa-ade-design-and-engineering.svg",
+      "url": "https://www.glasswallsystems.in/products",
+      "kind": "illustration",
+      "alt": "Façade design and engineering — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Façade fabrication",
+      "category": "Manufacturing service",
+      "image": "assets/products/glass-wall-systems-fa-ade-fabrication.svg",
+      "url": "https://www.glasswallsystems.in/products",
+      "kind": "illustration",
+      "alt": "Façade fabrication — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Façade installation and project management",
+      "category": "On-site delivery service",
+      "image": "assets/products/glass-wall-systems-fa-ade-installation-and-project-management.svg",
+      "url": "https://www.glasswallsystems.in/products",
+      "kind": "illustration",
+      "alt": "Façade installation and project management — conceptual illustration, not a product photograph"
+    }
+  ],
+  "refex-industries": [
+    {
+      "name": "Fly ash utilisation",
+      "category": "Industrial by-product management",
+      "image": "assets/products/refex-industries-visual-47.webp",
+      "url": "https://refex.co.in/ash-utilization",
+      "kind": "photo",
+      "alt": "Fly ash utilisation — image from the official company website"
+    },
+    {
+      "name": "Coal supply and handling",
+      "category": "Fuel logistics for power plants",
+      "image": "assets/products/refex-industries-visual-48.webp",
+      "url": "https://refex.co.in/ash-utilization",
+      "kind": "photo",
+      "alt": "Coal supply and handling — image from the official company website"
+    },
+    {
+      "name": "Venwind Refex wind turbines",
+      "category": "Wind-energy equipment through a subsidiary",
+      "image": "assets/products/refex-industries-visual-49.webp",
+      "url": "https://refex.co.in/venwind-refex",
+      "kind": "photo",
+      "alt": "Venwind Refex wind turbines — image from the official company website"
+    },
+    {
+      "name": "Pond ash utilisation",
+      "category": "Ash reclamation and reuse",
+      "image": "assets/products/refex-industries-pond-ash-utilisation.svg",
+      "url": "https://refex.co.in/",
+      "kind": "illustration",
+      "alt": "Pond ash utilisation — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Ash transportation and logistics",
+      "category": "Movement to utilisation sites",
+      "image": "assets/products/refex-industries-ash-transportation-and-logistics.svg",
+      "url": "https://refex.co.in/",
+      "kind": "illustration",
+      "alt": "Ash transportation and logistics — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Coal-yard management",
+      "category": "On-site operating services",
+      "image": "assets/products/refex-industries-coal-yard-management.svg",
+      "url": "https://refex.co.in/",
+      "kind": "illustration",
+      "alt": "Coal-yard management — conceptual illustration, not a product photograph"
+    }
+  ],
+  "tonbo-imaging": [
+    {
+      "name": "Thermal imaging cores",
+      "category": "Sensor and imaging modules",
+      "image": "assets/products/tonbo-imaging-thermal-imaging-cores.svg",
+      "url": "https://tonboimaging.com/main/",
+      "kind": "illustration",
+      "alt": "Thermal imaging cores — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Weapon sights",
+      "category": "Electro-optical equipment",
+      "image": "assets/products/tonbo-imaging-weapon-sights.svg",
+      "url": "https://tonboimaging.com/main/",
+      "kind": "illustration",
+      "alt": "Weapon sights — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Hand-held thermal imaging binoculars",
+      "category": "Observation equipment",
+      "image": "assets/products/tonbo-imaging-hand-held-thermal-imaging-binoculars.svg",
+      "url": "https://tonboimaging.com/main/",
+      "kind": "illustration",
+      "alt": "Hand-held thermal imaging binoculars — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Targeting systems",
+      "category": "Integrated sensing systems",
+      "image": "assets/products/tonbo-imaging-targeting-systems.svg",
+      "url": "https://tonboimaging.com/main/",
+      "kind": "illustration",
+      "alt": "Targeting systems — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Missile seekers",
+      "category": "Guidance and sensing systems",
+      "image": "assets/products/tonbo-imaging-missile-seekers.svg",
+      "url": "https://tonboimaging.com/main/",
+      "kind": "illustration",
+      "alt": "Missile seekers — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Fire-control systems",
+      "category": "Defence electronics",
+      "image": "assets/products/tonbo-imaging-fire-control-systems.svg",
+      "url": "https://tonboimaging.com/main/",
+      "kind": "illustration",
+      "alt": "Fire-control systems — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Command and control systems",
+      "category": "C4I solutions",
+      "image": "assets/products/tonbo-imaging-command-and-control-systems.svg",
+      "url": "https://tonboimaging.com/main/",
+      "kind": "illustration",
+      "alt": "Command and control systems — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Special test equipment",
+      "category": "Testing and calibration",
+      "image": "assets/products/tonbo-imaging-special-test-equipment.svg",
+      "url": "https://tonboimaging.com/main/",
+      "kind": "illustration",
+      "alt": "Special test equipment — conceptual illustration, not a product photograph"
+    }
+  ],
+  "bharat-coking-coal": [
+    {
+      "name": "Raw coking coal",
+      "category": "Steel-industry input",
+      "image": "assets/products/bharat-coking-coal-raw-coking-coal.svg",
+      "url": "https://bcclweb.in/?page_id=4259",
+      "kind": "illustration",
+      "alt": "Raw coking coal — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Washed coking coal",
+      "category": "Processed coal",
+      "image": "assets/products/bharat-coking-coal-washed-coking-coal.svg",
+      "url": "https://bcclweb.in/?page_id=4259",
+      "kind": "illustration",
+      "alt": "Washed coking coal — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Non-coking coal",
+      "category": "Fuel for industrial and power customers",
+      "image": "assets/products/bharat-coking-coal-non-coking-coal.svg",
+      "url": "https://bcclweb.in/?page_id=4259",
+      "kind": "illustration",
+      "alt": "Non-coking coal — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Middlings",
+      "category": "Coal-washing by-product",
+      "image": "assets/products/bharat-coking-coal-middlings.svg",
+      "url": "https://bcclweb.in/?page_id=4259",
+      "kind": "illustration",
+      "alt": "Middlings — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Slurry",
+      "category": "Coal-washing by-product",
+      "image": "assets/products/bharat-coking-coal-slurry.svg",
+      "url": "https://bcclweb.in/?page_id=4259",
+      "kind": "illustration",
+      "alt": "Slurry — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Washery rejects and other washery products",
+      "category": "By-products · grade dependent",
+      "image": "assets/products/bharat-coking-coal-washery-rejects-and-other-washery-products.svg",
+      "url": "https://bcclweb.in/?page_id=4259",
+      "kind": "illustration",
+      "alt": "Washery rejects and other washery products — conceptual illustration, not a product photograph"
+    }
+  ]
+});
