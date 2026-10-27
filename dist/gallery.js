@@ -14,42 +14,92 @@ window.productShelf = (() => {
     const abort = new AbortController(), opts = {signal: abort.signal};
     const track = shelf.querySelector('.shelf-track');
     const motion = matchMedia('(prefers-reduced-motion: reduce)');
-    let paused = motion.matches, hovered = false, focused = false, visible = false;
-    let overflows = false;
+    const list = track.querySelector('.shelf-items');
+    const originals = Array.from(list.children);
+    let paused = false, hovered = false, focused = false, visible = false;
+    let overflows = false, cycleWidth = 0, frame = 0, lastTime = 0, position = 0;
+    const pixelsPerSecond = 22;
+
+    function canAnimate() {
+      return overflows && visible && !paused && !hovered && !focused && !motion.matches && !document.hidden;
+    }
+    function tick(now) {
+      frame = 0;
+      if (!canAnimate()) return;
+      if (lastTime) position = (position + pixelsPerSecond * Math.min(now - lastTime, 64) / 1000) % cycleWidth;
+      lastTime = now;
+      track.scrollLeft = position;
+      frame = requestAnimationFrame(tick);
+    }
+    function refresh() {
+      cancelAnimationFrame(frame);
+      frame = 0;
+      lastTime = 0;
+      position = track.scrollLeft;
+      if (canAnimate()) frame = requestAnimationFrame(tick);
+    }
     function sync() {
-      overflows = track.scrollWidth > track.clientWidth + 2;
+      const gap = parseFloat(getComputedStyle(list).columnGap) || 0;
+      const first = originals[0].getBoundingClientRect();
+      const last = originals[originals.length - 1].getBoundingClientRect();
+      cycleWidth = last.right - first.left + gap;
+      overflows = cycleWidth - gap > track.clientWidth + 2;
+      const clones = list.querySelectorAll('[data-shelf-clone]');
+      if (overflows && !clones.length) {
+        // A second visual copy makes the last-to-first transition seamless.
+        // Hide repeat content from assistive technology and the keyboard tab order.
+        const fragment = document.createDocumentFragment();
+        originals.forEach(card => {
+          const copy = card.cloneNode(true);
+          copy.dataset.shelfClone = '';
+          copy.setAttribute('aria-hidden', 'true');
+          copy.querySelectorAll('a').forEach(link => link.setAttribute('tabindex', '-1'));
+          fragment.append(copy);
+        });
+        list.append(fragment);
+      } else if (!overflows) {
+        clones.forEach(copy => copy.remove());
+        track.scrollLeft = 0;
+      }
+      refresh();
     }
+    function stop() { paused = true; refresh(); }
     function move(direction) {
-      const width = shelf.querySelector('.offering-card').getBoundingClientRect().width + 16;
-      const max = track.scrollWidth - track.clientWidth;
-      let target = track.scrollLeft + direction * width;
-      if (target > max + 2) target = 0;
-      if (target < -2) target = max;
-      track.scrollTo({left: Math.min(max, Math.max(0, target)), behavior: motion.matches ? 'instant' : 'smooth'});
+      const width = originals[0].getBoundingClientRect().width + (parseFloat(getComputedStyle(list).columnGap) || 0);
+      track.scrollBy({left: direction * width, behavior: motion.matches ? 'instant' : 'smooth'});
     }
-    function stop() { paused = true; sync(); }
     track.addEventListener('pointerdown', stop, opts);
     track.addEventListener('wheel', stop, {...opts, passive: true});
     track.addEventListener('keydown', e => {
       stop();
       if (e.key === 'ArrowRight' || e.key === 'ArrowLeft') {e.preventDefault();move(e.key === 'ArrowRight' ? 1 : -1);}
     }, opts);
-    shelf.addEventListener('mouseenter', () => {hovered = true;}, opts);
-    shelf.addEventListener('mouseleave', () => {hovered = false;}, opts);
-    shelf.addEventListener('focusin', e => {focused = track.contains(e.target);}, opts);
-    shelf.addEventListener('focusout', e => {focused = track.contains(e.relatedTarget);}, opts);
-    shelf.querySelectorAll('img').forEach(img => img.addEventListener('error', () => {
-      img.hidden = true; img.nextElementSibling.hidden = false;
-    }, opts));
-    const observer = new IntersectionObserver(entries => {visible = entries[0].isIntersecting;}, {threshold: .2});
+    shelf.addEventListener('mouseenter', () => {hovered = true; refresh();}, opts);
+    shelf.addEventListener('mouseleave', () => {hovered = false; refresh();}, opts);
+    shelf.addEventListener('focusin', e => {focused = track.contains(e.target); refresh();}, opts);
+    shelf.addEventListener('focusout', e => {focused = track.contains(e.relatedTarget); refresh();}, opts);
+    shelf.addEventListener('error', e => {
+      if (e.target.matches('.offering-image img')) {
+        e.target.hidden = true;
+        e.target.nextElementSibling.hidden = false;
+      }
+    }, {...opts, capture: true});
+    const observer = new IntersectionObserver(entries => {visible = entries[0].isIntersecting; refresh();}, {threshold: .2});
     observer.observe(shelf);
-    const sizeObserver = new ResizeObserver(sync);sizeObserver.observe(track);
-    const onMotion = () => {if (motion.matches) stop();};
-    motion.addEventListener('change', onMotion, opts);
+    const sizeObserver = new ResizeObserver(sync);
+    sizeObserver.observe(track);
+    motion.addEventListener('change', refresh, opts);
+    document.addEventListener('visibilitychange', refresh, opts);
     shelf.querySelector('[data-scroll]').addEventListener('click', () => {const list = document.querySelector('.portfolio-list');if (list) list.open = true;}, opts);
-    const timer = setInterval(() => {if (overflows && visible && !paused && !hovered && !focused && !document.hidden) move(1);}, 5500);
     sync();
-    dispose = () => {clearInterval(timer);observer.disconnect();sizeObserver.disconnect();abort.abort();};
+    dispose = () => {
+      cancelAnimationFrame(frame);
+      observer.disconnect();
+      sizeObserver.disconnect();
+      abort.abort();
+      list.querySelectorAll('[data-shelf-clone]').forEach(copy => copy.remove());
+      dispose = () => {};
+    };
   }
   return {render, init, cleanup: () => dispose()};
 })();
