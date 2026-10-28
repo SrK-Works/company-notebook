@@ -113,3 +113,12 @@ html[data-theme="dark"] .sidebar-toggle:hover{background:#202c40}
 /* Stretch the company title link across its card; keep separate controls above it. */
 .card h3 a::after{content:"";position:absolute;inset:0;border-radius:var(--radius);z-index:1;cursor:pointer}.card .save,.card-bottom a{position:relative;z-index:2}.card h3 a:focus-visible{outline:none}.card h3 a:focus-visible::after{outline:3px solid #7993ff;outline-offset:4px}
 .offering-image.is-service,html[data-theme="dark"] .offering-image.is-service{background:#197a8c}.monogram.logo-glass-wall-systems.has-logo,html[data-theme="dark"] .monogram.logo-glass-wall-systems.has-logo{background:#20354b;border-color:#32485f}
+
+/* A calm, stationary starting point before the visual product shelf. */
+.company-overview{margin:0 0 30px;padding:28px;border:1px solid var(--line);border-top:3px solid var(--blue);border-radius:16px;background:#fff;scroll-margin-top:20px}
+.overview-heading{display:flex;justify-content:space-between;align-items:center;gap:20px;margin-bottom:24px}.overview-heading .eyebrow{margin-bottom:8px}.overview-heading h2{margin:0;font-size:27px;letter-spacing:-.6px}.overview-heading>a,.overview-next>a{color:var(--blue);font-size:14px;text-underline-offset:4px}.overview-heading>a{flex-shrink:0}
+.overview-facts{display:grid;grid-template-columns:1fr 1fr;gap:24px 30px;margin:0}.overview-facts>div{min-width:0}.overview-facts dt{font-size:15px;font-weight:650;margin-bottom:7px;color:var(--ink)}.overview-facts dd{font-size:15px;line-height:1.7;color:var(--muted);margin:0}
+.overview-next{margin-top:24px;padding-top:20px;border-top:1px solid var(--line)}.overview-next-label{font-size:11px;font-weight:650;letter-spacing:1.2px;color:var(--blue)}.overview-next p{font-size:16px;line-height:1.6;margin:8px 0 10px}.company-overview .source-note{margin:20px 0 0;font-size:12px;line-height:1.7;color:var(--muted)}.company-overview a:focus-visible{outline:2px solid var(--blue);outline-offset:5px;border-radius:2px}
+html[data-theme="dark"] .company-overview{background:#121315}
+@media(max-width:1000px){.overview-heading{display:block}.overview-heading>a{display:inline-block;margin-top:12px}}
+@media(max-width:600px){.company-overview{padding:22px 20px}.overview-heading h2{font-size:24px}.overview-facts{grid-template-columns:1fr;gap:20px}.overview-facts dd{font-size:15px}.overview-heading{margin-bottom:22px}}

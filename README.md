@@ -5,7 +5,7 @@ Mobile-friendly research prototype for Indian stock-market beginners.
 ## Run
 
 Serve `dist/` with a local HTTP server. No build or dependency installation is required.
-The entrypoint loads `data.js`, `company-expansion.js`, `product-images.js`, `gallery.js`, `app.js` and `style.css`. Navigation uses hash routes,
+The entrypoint loads `data.js`, `company-expansion.js`, `overviews.js`, `product-images.js`, `gallery.js`, `app.js` and `style.css`. Navigation uses hash routes,
 so company links work on static hosting. `.openai/hosting.json` retains the Sites project identity.
 
 ## Live website
@@ -15,6 +15,7 @@ GitHub Pages publishes `dist/` automatically after each push to `main`:
 
 ## Features
 
+- A one-minute overview on all 35 profiles: activities, paying customers, earnings, profit drivers and a next research question. Summaries reuse existing sourced explanations; customer and profit-driver copy lives in `dist/overviews.js`.
 - Thirty-five company profiles, company/brand/ticker search and business-type filters.
 - Device-local saved reading list, source references, business-model explanations,
   risks and self-check questions.
@@ -44,6 +45,9 @@ and device; local-preview and hosted bookmarks do not migrate automatically.
 Feedback must be exported by a pilot participant and shared separately.
 
 ## Validation performed
+
+- One-minute overviews: all 35 records have customer and profit-driver explanations, a research question and valid section targets; summaries contain roughly 110–150 words including labels.
+- Overview layout checked in light/dark themes and at 390px; consumer, banking, pharmaceutical, platform and building-project profiles checked, with no page overflow. Overview links scroll within the profile without changing routes.
 
 - JavaScript syntax and all 35 records checked for required fields, counts and source URL shape.
 - Browser search by brand, profile navigation, empty search and coverage form.
