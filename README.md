@@ -5,7 +5,7 @@ Mobile-friendly research prototype for Indian stock-market beginners.
 ## Run
 
 Serve `dist/` with a local HTTP server. No build or dependency installation is required.
-The entrypoint loads `data.js`, `company-expansion.js`, `overviews.js`, `product-images.js`, `gallery.js`, `financial-data.js`, `financials.js`, `research-guides.js`, `hul-primer.js`, `itc-primer.js`, `nestle-primer.js`, `app.js` and `style.css`. Navigation uses hash routes,
+The entrypoint loads `data.js`, `company-expansion.js`, `overviews.js`, `product-images.js`, `gallery.js`, `financial-data.js`, `financials.js`, `research-guides.js`, `hul-primer.js`, `itc-primer.js`, `nestle-primer.js`, `britannia-primer.js`, `app.js` and `style.css`. Navigation uses hash routes,
 so company links work on static hosting. `.openai/hosting.json` retains the Sites project identity.
 
 ## Live website
@@ -36,10 +36,10 @@ risks and learning explanations are editorial interpretation. This is not stock 
 Profile sources are stored with each record in `dist/data.js` and `dist/company-expansion.js`. The 11 expansion profiles were reviewed on 27 October 2026; aliases support familiar names and common spelling variations.
 
 Financial figures checked on 29 October 2026 are stored separately in `dist/financial-data.js` and rendered by `dist/financials.js`.
-The current release contains 15 verified snapshots, all for FY 2025–26:
+The current release contains 16 verified snapshots, all for FY 2025–26:
 - Eleven profiles have business/segment disclosures: HUL, ITC, Reliance, Mahindra & Mahindra, L&T, Infosys, Titan, Swiggy, Marico, Eternal and TCS. TCS shows reported margins rather than reverse-calculated profit amounts. Reliance shows selected business highlights, not a complete group reconciliation.
-- Park Medi World reports one healthcare segment; Nestlé India reports one Food segment, with company profit and an additional sales-only product-group table. Glass Wall Systems and Kanohar show verified company totals, explicitly not product-level allocations.
-- The other 20 profiles explicitly await financial verification. Missing verification must never be labelled as a company not disclosing information.
+- Park Medi World reports one healthcare segment; Nestlé India reports one Food segment, with company profit and an additional sales-only product-group table. Britannia reports one Foods segment, with group profit attributable to owners, a separately labelled approximate turnover mix and geographical revenue. Glass Wall Systems and Kanohar show verified company totals, explicitly not product-level allocations.
+- The other 19 profiles explicitly await financial verification. Missing verification must never be labelled as a company not disclosing information.
 
 Every snapshot records reporting scope, source, table/page locator, profit definition, review date and reconciliation notes. ₹ million is divided by 10 and ₹ lakh by 100 where needed to present ₹ crore. Negative results retain a minus sign and a loss label. Revenue and profit amount bars use the same amount scale; margin bars use a separate 0–100% scale. Source figures are rounded only for display. ITC's independently rounded revenue rows differ from its reported subtotal by ₹1 crore; this is recorded and explained rather than silently adjusted.
 The former HUL partial percentage chart has been removed; its replacement covers the consolidated continuing-operation revenue and segment results from the annual report. These snapshots are historical annual disclosures, not current-quarter or live figures. Reviewing financial figures does not update the review date of unrelated company claims.
@@ -53,7 +53,7 @@ Feedback must be exported by a pilot participant and shared separately.
 
 ## Validation performed
 
-- Financial UI: all 35 phone-width profiles render either verified financial content (15) or an explicit pending state (20); no horizontal overflow or broken section targets. Desktop loss labels and expandable measurement notes were checked, with no console errors.
+- Financial UI: all 35 phone-width profiles render either verified financial content (16) or an explicit pending state (19); no horizontal overflow or broken section targets. Desktop loss labels and expandable measurement notes were checked, with no console errors.
 - Financial checks: run `node --test tests/financials.test.cjs` for source metadata, finite values, signed losses, reported-total reconciliation, margin handling, totals-only handling, pending verification and safe rendering.
 
 - 29 October usability audit: removed uniform five-minute labels, corrected multiword company/product matching in the UI and assistant tools, removed unsupported fallback review dates and prevented a successful feedback-save toast after a failed write. All 35 profiles passed browser checks for product-first order, overview presence, valid section targets, absence of the old reading label and desktop overflow. All 288 shelf assets have local files. Mobile explorer/profile, combined search, bookmark save/removal and local correction submission were checked. A blocked-storage check confirmed an accurate failure message.
@@ -108,3 +108,12 @@ ITC validation: the full test suite preserves the other 34 profiles, all financi
 The new financial record in `financial-data.js` uses verified FY 2025–26 standalone revenue from operations and profit after tax, with the annual report's four product-sales groups stored separately. Sales-only groups contain no invented profit or margin. They reconcile to product sales; other operating revenue bridges that total to revenue from operations. The period note explains the older 15-month transition year, and rounded sales shares may sum to 100.01%. India figures are not replaced by global Nestlé margins. Four labelled original SVGs supplement the retained product photos.
 
 Nestlé validation: 320px, 390px and 768px layouts have no overflow or broken jump links. Both financial tables remain in the final learning section, the product-sales table has four rows and no profit column, and the historical-period explanation expands correctly. All earlier financial records were compared with the previous published revision and remain unchanged.
+
+
+## Fourth detailed profile: Britannia
+
+`dist/britannia-primer.js` extends only Britannia and composes with the earlier HUL, ITC and Nestlé walkthroughs. Products lead: biscuits, bread/cakes/rusk, dairy and adjacent snacks. The page explains brand versus category versus reported Foods segment, the ingredient-to-shop route, pack sizes, consumer demand versus channel shipments, freshness and stock returns, ingredient costs, capacity utilisation and the cheese joint venture. Six investigation prompts and five risks precede the final financial section. The generic share-ownership tutorial is omitted.
+
+The FY 2025–26 consolidated annual report is the primary financial source. Revenue and owners’ profit are shown as group totals, with no invented category profit. The BRSR approximate turnover mix is explicitly distinguished from exact category sales, biscuit-only sales and profit. The report’s consolidated reporting boundary is identified. Geographical revenues include other operating revenue and reconcile to the same group total. The profit explanation reconciles total group PAT to owners’ PAT; the separate Britannia Bel disclosure is an entity-level equity-accounted loss, not a cheese-product margin. Three original, labelled bakery illustrations supplement all retained product photos. Business-source checking does not re-date unrelated existing catalogue claims.
+
+Britannia validation: all 20 automated checks pass, including preservation of the other profiles and earlier financial records, financial reconciliation and signed equity-accounted losses. At 320px, 390px and 768px there is no horizontal overflow, no broken jump target and no failed image. All three tables are inside the final numbers section. Geography and joint-venture disclosures expand correctly, and light/dark layouts were checked with no browser errors.

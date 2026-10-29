@@ -621,5 +621,65 @@ window.COMPANY_FINANCIALS = {
       "location": "Note 24 · Class-Wise Details of Sales of Products; Note 42 · Segment Reporting · standalone financial statements",
       "checked": "29 October 2026"
     }
+  },
+  "britannia": {
+    "period": "FY 2025–26 · year ended 31 March 2026",
+    "basis": "Consolidated · Britannia group",
+    "coverage": "One operating segment: Foods · group profit only",
+    "unit": "₹ crore",
+    "profitMetric": "Profit after tax attributable to owners",
+    "definition": "Consolidated profit after expenses, equity-accounted results and tax, attributable to owners of Britannia. Excludes non-controlling interests. Not a separate brand or category profit.",
+    "rows": [
+      {
+        "name": "Britannia · whole group",
+        "revenue": 19151.59,
+        "profit": 2533.49
+      }
+    ],
+    "source": "https://media.britannia.co.in/Britannia_Annual_Report_2025_26_High_Resolution_c738982760.pdf",
+    "sourceLabel": "Official FY 2025–26 annual report",
+    "location": "PDF page 132 · printed page 261 · consolidated statement of profit and loss; Note 43 · printed page 309",
+    "checked": "29 October 2026",
+    "notes": "Source amounts already in ₹ crore. Group profit after tax is ₹2,537.01 crore, including ₹3.52 crore attributable to non-controlling interests; owners’ profit is ₹2,533.49 crore. Note 43 reports one Foods segment, not separate category profits. Joint ventures use the equity method. Historical annual figures, not the latest quarter.",
+    "insight": "Read this as the result of the consolidated food group. The approximate product mix below shows the importance of bakery and salted snacks, but does not reveal which brand earns the most profit.",
+    "status": "single",
+    "context": {
+      "goods": 18858.21,
+      "otherOperating": 293.38,
+      "groupPat": 2537.01,
+      "nonControlling": 3.52,
+      "turnoverMix": [
+        {
+          "name": "Bakery products and salted snacks",
+          "share": 97
+        },
+        {
+          "name": "Dairy products",
+          "share": 3
+        }
+      ],
+      "geographies": [
+        {
+          "name": "India",
+          "revenue": 18043.67
+        },
+        {
+          "name": "Outside India",
+          "revenue": 1107.92
+        }
+      ],
+      "jointVenture": {
+        "name": "Britannia Bel Foods Private Limited",
+        "loss": 59.93,
+        "interest": 51,
+        "shareOfLoss": 30.57
+      },
+      "locations": {
+        "mix": "BRSR items 13 and 17 · printed pages 107–108",
+        "geography": "Consolidated Note 43 · printed page 309",
+        "jv": "Consolidated Notes 7 and 45 · printed pages 284 and 313",
+        "sales": "Consolidated Notes 29 and 53 · printed pages 301 and 332"
+      }
+    }
   }
 };

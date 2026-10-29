@@ -2969,6 +2969,36 @@
       "alt": "Nestlé Professional — conceptual illustration, not a product photograph",
       "src": "Original SVG illustration by Company Notebook",
       "reviewed": "2026-10-29"
+    },
+    {
+      "company": "britannia",
+      "name": "Bread",
+      "image": "assets/products/britannia-business-bread.svg",
+      "kind": "illustration",
+      "src": "Original SVG illustration by Company Notebook",
+      "url": "https://media.britannia.co.in/Britannia_Annual_Report_2025_26_High_Resolution_c738982760.pdf",
+      "reviewed": "2026-10-29",
+      "alt": "Bread — conceptual illustration, not a product photograph"
+    },
+    {
+      "company": "britannia",
+      "name": "Packaged cakes",
+      "image": "assets/products/britannia-business-cakes.svg",
+      "kind": "illustration",
+      "src": "Original SVG illustration by Company Notebook",
+      "url": "https://media.britannia.co.in/Britannia_Annual_Report_2025_26_High_Resolution_c738982760.pdf",
+      "reviewed": "2026-10-29",
+      "alt": "Packaged cakes — conceptual illustration, not a product photograph"
+    },
+    {
+      "company": "britannia",
+      "name": "Rusk",
+      "image": "assets/products/britannia-business-rusk.svg",
+      "kind": "illustration",
+      "src": "Original SVG illustration by Company Notebook",
+      "url": "https://media.britannia.co.in/Britannia_Annual_Report_2025_26_High_Resolution_c738982760.pdf",
+      "reviewed": "2026-10-29",
+      "alt": "Rusk — conceptual illustration, not a product photograph"
     }
   ]
 }
