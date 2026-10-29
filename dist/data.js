@@ -16,7 +16,6 @@ COMPANIES.push(
 );
 const order=['hindustan-unilever','itc','nestle-india','britannia','marico','asian-paints','maruti-suzuki','bajaj-auto','bharti-airtel','tcs','hdfc-bank','reliance-industries'];COMPANIES.sort((a,b)=>order.indexOf(a.id)-order.indexOf(b.id));
 const hul=COMPANIES.find(c=>c.id==='hindustan-unilever');
-hul.revenue={period:'FY 2025–26',values:[['Home Care',37],['Beauty & Wellbeing',23],['Foods & Refreshment',22],['Personal Care',15]],note:'Selected segment contributions as displayed in HUL’s FY 2025–26 highlights. These rounded shares total 97%; this is not a complete reconciliation. They are not brand-level revenue shares.',source:'https://hul-performance-highlights.hul.co.in/performance-highlights-fy-2025-2026/segments/home-care/'};
 hul.sources.push(['Home Care FY 2025–26','https://hul-performance-highlights.hul.co.in/performance-highlights-fy-2025-2026/segments/home-care/'],['Beauty & Wellbeing FY 2025–26','https://hul-performance-highlights.hul.co.in/performance-highlights-fy-2025-2026/segments/beauty/'],['Personal Care FY 2025–26','https://hul-performance-highlights.hul.co.in/performance-highlights-fy-2025-2026/segments/personal-care/'],['Foods FY 2025–26','https://hul-performance-highlights.hul.co.in/performance-highlights-fy-2025-2026/segments/foods/']);
 hul.update=['Home Care: volume and price tell different stories','For FY 2025–26, HUL reports high-single-digit Home Care volume growth and 4% underlying sales growth. Its commentary attributes the difference to pricing actions.'];
 hul.productSource='https://www.hul.co.in/';
