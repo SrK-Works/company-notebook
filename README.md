@@ -5,7 +5,7 @@ Mobile-friendly research prototype for Indian stock-market beginners.
 ## Run
 
 Serve `dist/` with a local HTTP server. No build or dependency installation is required.
-The entrypoint loads `data.js`, `company-expansion.js`, `overviews.js`, `product-images.js`, `gallery.js`, `financial-data.js`, `financials.js`, `research-guides.js`, `hul-primer.js`, `itc-primer.js`, `nestle-primer.js`, `britannia-primer.js`, `marico-primer.js`, `app.js` and `style.css`. Navigation uses hash routes,
+The entrypoint loads `data.js`, `company-expansion.js`, `overviews.js`, `product-images.js`, `gallery.js`, `financial-data.js`, `financials.js`, `research-guides.js`, `hul-primer.js`, `itc-primer.js`, `nestle-primer.js`, `britannia-primer.js`, `marico-primer.js`, `dmart-primer.js`, `app.js` and `style.css`. Navigation uses hash routes,
 so company links work on static hosting. `.openai/hosting.json` retains the Sites project identity.
 
 ## Live website
@@ -36,10 +36,10 @@ risks and learning explanations are editorial interpretation. This is not stock 
 Profile sources are stored with each record in `dist/data.js` and `dist/company-expansion.js`. The 11 expansion profiles were reviewed on 27 October 2026; aliases support familiar names and common spelling variations.
 
 Financial figures checked on 29 October 2026 are stored separately in `dist/financial-data.js` and rendered by `dist/financials.js`.
-The current release contains 16 verified snapshots, all for FY 2025–26:
+The current release contains 17 verified snapshots, all for FY 2025–26:
 - Eleven profiles have business/segment disclosures: HUL, ITC, Reliance, Mahindra & Mahindra, L&T, Infosys, Titan, Swiggy, Marico, Eternal and TCS. TCS shows reported margins rather than reverse-calculated profit amounts. Reliance shows selected business highlights, not a complete group reconciliation.
-- Park Medi World reports one healthcare segment; Nestlé India reports one Food segment, with company profit and an additional sales-only product-group table. Britannia reports one Foods segment, with group profit attributable to owners, a separately labelled approximate turnover mix and geographical revenue. Glass Wall Systems and Kanohar show verified company totals, explicitly not product-level allocations.
-- The other 19 profiles explicitly await financial verification. Missing verification must never be labelled as a company not disclosing information.
+- Park Medi World reports one healthcare segment; Nestlé India reports one Food segment, with company profit and an additional sales-only product-group table. Britannia reports one Foods segment, with group profit attributable to owners, a separately labelled approximate turnover mix and geographical revenue. DMart’s consolidated retail results are also shown as group totals with no separate reportable segments. Glass Wall Systems and Kanohar show verified company totals, explicitly not product-level allocations.
+- The other 18 profiles explicitly await financial verification. Missing verification must never be labelled as a company not disclosing information.
 
 Every snapshot records reporting scope, source, table/page locator, profit definition, review date and reconciliation notes. ₹ million is divided by 10 and ₹ lakh by 100 where needed to present ₹ crore. Negative results retain a minus sign and a loss label. Revenue and profit amount bars use the same amount scale; margin bars use a separate 0–100% scale. Source figures are rounded only for display. ITC's independently rounded revenue rows differ from its reported subtotal by ₹1 crore; this is recorded and explained rather than silently adjusted.
 The former HUL partial percentage chart has been removed; its replacement covers the consolidated continuing-operation revenue and segment results from the annual report. These snapshots are historical annual disclosures, not current-quarter or live figures. Reviewing financial figures does not update the review date of unrelated company claims.
@@ -53,7 +53,7 @@ Feedback must be exported by a pilot participant and shared separately.
 
 ## Validation performed
 
-- Financial UI: all 35 phone-width profiles render either verified financial content (16) or an explicit pending state (19); no horizontal overflow or broken section targets. Desktop loss labels and expandable measurement notes were checked, with no console errors.
+- Financial UI: all 35 phone-width profiles render either verified financial content (17) or an explicit pending state (18); no horizontal overflow or broken section targets. Desktop loss labels and expandable measurement notes were checked, with no console errors.
 - Financial checks: run `node --test tests/financials.test.cjs` for source metadata, finite values, signed losses, reported-total reconciliation, margin handling, totals-only handling, pending verification and safe rendering.
 
 - 29 October usability audit: removed uniform five-minute labels, corrected multiword company/product matching in the UI and assistant tools, removed unsupported fallback review dates and prevented a successful feedback-save toast after a failed write. All 35 profiles passed browser checks for product-first order, overview presence, valid section targets, absence of the old reading label and desktop overflow. All 288 shelf assets have local files. Mobile explorer/profile, combined search, bookmark save/removal and local correction submission were checked. A blocked-storage check confirmed an accurate failure message.
@@ -126,3 +126,16 @@ Britannia validation: all 20 automated checks pass, including preservation of th
 The existing verified India/International segment figures are preserved. A product-revenue table from FY 2025–26 consolidated Note 30 (printed pages 434–435) is stored separately and reconciles to the same group revenue, with no category profit estimates. The page warns against adding the two views together. Calculated segment-result-to-sales ratios are labelled separately from reported EBITDA margins. A disclosure traces segment result through finance costs, net unallocated expenditure, tax and non-controlling interests to owners’ profit, using the annual report's management review and accounts.
 
 Marico validation: all 23 automated checks pass. All earlier financial source values are unchanged; only the new Marico product-revenue and reconciliation record is added. At 320px, 390px and 768px there is no horizontal overflow, broken section link or failed image. Both financial tables remain in the final learning section. The profit-reconciliation disclosure and light/dark layouts were checked, with no browser errors.
+
+
+## Sixth detailed profile: Avenue Supermarts (DMart)
+
+`dist/dmart-primer.js` explains DMart as a retailer: category selection, supplier versus retailer-associated brands, competitive buying and pricing, inventory, checkout collection, operating costs and new-store investment. It distinguishes visit/basket growth from quantity, and existing-store performance from store expansion. It explains store maturity, catchment, sales productivity, property/lease effects and the costs of online fulfilment. Six tailored research questions and five risks precede the figures. The DMart Ready description now reflects location-specific fulfilment rather than implying pick-up is universal, and the old canary offering reference is replaced with a public company page.
+
+The new FY 2025–26 financial snapshot uses the audited consolidated annual column, retaining group PAT rather than silently substituting owners’ PAT. Standalone figures are labelled as overlapping parent scope and never added to group figures or subtracted to invent DMart Ready earnings. The results say there are no separate reportable segments. A calculated PAT-to-revenue example is labelled as neither gross mark-up nor cash after expansion. The dated store-growth explanation preserves the two-years-and-older quarterly definition and qualifies the store count for a location closed for reconstruction.
+
+### Review sequence
+
+Detailed profiles completed: HUL, ITC, Nestlé India, Britannia, Marico and DMart. The next company in collection order is Titan, followed by Asian Paints and UltraTech Cement. The remaining 29 profiles retain their earlier explanations until individually researched and reviewed. Completion requires product-first teaching, relevant mechanics, company-specific questions, dated primary sources, numbers-last reporting and responsive verification; adding length alone is not a completion criterion.
+
+DMart validation: all 26 automated checks pass. At 320px, 390px and 768px there is no horizontal overflow, broken section target or failed image; all financial content stays at the end. Parent/group and store-growth disclosures expand correctly. Light/dark themes and phone-width financial cells were inspected with no browser errors. Generic brain icons in Daily Essentials and Dairy/Frozen were replaced with original category-appropriate illustrations; the produce illustration was improved too. New asset paths prevent older cached images appearing, and provenance/alternative text are updated.

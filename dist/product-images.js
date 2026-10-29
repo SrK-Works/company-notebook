@@ -1469,15 +1469,15 @@ window.PRODUCT_VISUALS = {
       "name": "DMart stores",
       "category": "Physical retail",
       "image": "assets/products/avenue-supermarts-dmart-stores.svg",
-      "url": "https://canary.dmartindia.com/",
+      "url": "https://www.dmartindia.com/about-us",
       "kind": "illustration",
       "alt": "DMart stores — conceptual retail illustration; not a photograph or product screenshot"
     },
     {
       "name": "DMart Ready",
-      "category": "Online ordering and pick-up",
+      "category": "Online grocery shopping · location-specific fulfilment",
       "image": "assets/products/avenue-supermarts-dmart-ready.svg",
-      "url": "https://canary.dmartindia.com/",
+      "url": "https://www.dmart.in/",
       "kind": "illustration",
       "alt": "DMart Ready — conceptual screen illustration; not a photograph or product screenshot"
     },
@@ -1485,39 +1485,39 @@ window.PRODUCT_VISUALS = {
       "name": "Grocery and Staples",
       "category": "Retail category",
       "image": "assets/products/avenue-supermarts-grocery-and-staples.svg",
-      "url": "https://canary.dmartindia.com/",
+      "url": "https://www.dmartindia.com/about-us",
       "kind": "illustration",
       "alt": "Grocery and Staples — conceptual bag illustration; not a photograph or product screenshot"
     },
     {
       "name": "Daily Essentials",
       "category": "Retail category",
-      "image": "assets/products/avenue-supermarts-daily-essentials.svg",
-      "url": "https://canary.dmartindia.com/",
+      "image": "assets/products/dmart-retail-daily-essentials.svg",
+      "url": "https://www.dmartindia.com/about-us",
       "kind": "illustration",
-      "alt": "Daily Essentials — conceptual brain illustration; not a photograph or product screenshot"
+      "alt": "Daily Essentials — original soap and household essentials illustration; not a photograph or product screenshot"
     },
     {
       "name": "Dairy and Frozen",
       "category": "Retail category",
-      "image": "assets/products/avenue-supermarts-dairy-and-frozen.svg",
-      "url": "https://canary.dmartindia.com/",
+      "image": "assets/products/dmart-retail-dairy-and-frozen.svg",
+      "url": "https://www.dmartindia.com/about-us",
       "kind": "illustration",
-      "alt": "Dairy and Frozen — conceptual brain illustration; not a photograph or product screenshot"
+      "alt": "Dairy and Frozen — original milk carton and snowflake illustration; not a photograph or product screenshot"
     },
     {
       "name": "Fruits and Vegetables",
       "category": "Retail category",
-      "image": "assets/products/avenue-supermarts-fruits-and-vegetables.svg",
-      "url": "https://canary.dmartindia.com/",
+      "image": "assets/products/dmart-retail-fruits-and-vegetables.svg",
+      "url": "https://www.dmartindia.com/about-us",
       "kind": "illustration",
-      "alt": "Fruits and Vegetables — conceptual bag illustration; not a photograph or product screenshot"
+      "alt": "Fruits and Vegetables — original apple and carrot illustration; not a photograph or product screenshot"
     },
     {
       "name": "DMart Brands",
       "category": "Private-label products",
       "image": "assets/products/avenue-supermarts-dmart-brands.svg",
-      "url": "https://canary.dmartindia.com/",
+      "url": "https://www.dmartindia.com/about-us",
       "kind": "illustration",
       "alt": "DMart Brands — conceptual bag illustration; not a photograph or product screenshot"
     },
@@ -1525,7 +1525,7 @@ window.PRODUCT_VISUALS = {
       "name": "Home and Personal Care",
       "category": "Retail category",
       "image": "assets/products/avenue-supermarts-home-and-personal-care.svg",
-      "url": "https://canary.dmartindia.com/",
+      "url": "https://www.dmartindia.com/about-us",
       "kind": "illustration",
       "alt": "Home and Personal Care — conceptual home illustration; not a photograph or product screenshot"
     }

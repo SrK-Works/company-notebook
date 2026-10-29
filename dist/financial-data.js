@@ -715,5 +715,38 @@ window.COMPANY_FINANCIALS = {
         "sales": "Consolidated Notes 29 and 53 · printed pages 301 and 332"
       }
     }
+  },
+  "avenue-supermarts": {
+    "period": "FY 2025–26 · year ended 31 March 2026",
+    "basis": "Consolidated · Avenue Supermarts group",
+    "coverage": "Retail trades · no separate reportable segments",
+    "unit": "₹ crore",
+    "profitMetric": "Group profit after tax",
+    "definition": "Net profit after tax for the consolidated group, including non-controlling interests. Not a separate profit for a store, shopping channel or merchandise category.",
+    "rows": [
+      {
+        "name": "Avenue Supermarts · whole group",
+        "revenue": 68820.74,
+        "profit": 2969.86
+      }
+    ],
+    "source": "https://api.dmartindia.com/corporate/content/file/v1/2/jZtJ4gV9JIDY9CjsdXXbQxhE1777722483/Outcome%20of%20the%20Board%20Meeting%20held%20on%20May%202%2C%202026.pdf",
+    "sourceLabel": "Official audited FY 2025–26 results",
+    "location": "PDF page 14 · consolidated results · annual column; PDF page 17 · consolidated note 7",
+    "checked": "29 October 2026",
+    "notes": "Source amounts already in ₹ crore. Uses the full-year consolidated column, not the March quarter. Revenue from operations excludes other income. Group PAT includes a loss attributable to non-controlling interests; profit attributable to equity holders is ₹2,970.49 crore. Standalone figures are an overlapping parent-company scope and must not be added to group figures. Historical annual results, not the latest quarter.",
+    "insight": "A large checkout-sales total leaves a much smaller amount after the cost of goods and running the business. Read stock movement, store productivity and cash needed for expansion alongside profit; the group total does not identify the most profitable merchandise category.",
+    "status": "single",
+    "retailContext": {
+      "parentRevenue": 66968.03,
+      "parentPat": 3223.93,
+      "ownersPat": 2970.49,
+      "nonControlling": -0.63,
+      "existingStoreGrowth": 10.8,
+      "storeCount": 500,
+      "source": "https://api.dmartindia.com/corporate/content/file/v1/2/R2aWBiIpiuD39xgfm4wrqQKc1777723315/Press%20release%20dated%202nd%20May%2C%202026.pdf",
+      "period": "Store growth: March 2026 quarter · store count: 31 March 2026",
+      "checked": "29 October 2026"
+    }
   }
 };
