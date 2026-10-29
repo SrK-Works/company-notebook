@@ -1,125 +1,125 @@
 {
-  "summary": "The group connects food delivery through Zomato, quick commerce through Blinkit, going out through District and restaurant supplies through Hyperpure.",
-  "description": "Eternal brings together several businesses around meals, shopping and experiences. A restaurant-delivery marketplace, an inventory-owning retailer and a business supplying restaurants have different customers, costs and ways of recording revenue.",
-  "money": "The businesses earn through the relevant commissions, fees, advertising, goods sales and commercial arrangements. Delivery, fulfilment, discounts, stock, staff and platform costs affect each business differently, so order value and reported revenue are not interchangeable.",
-  "customers": "Consumers use Zomato, Blinkit and District; restaurant and other food-service businesses buy Hyperpure supplies. Restaurants, merchants and advertisers can also pay for relevant platform services.",
-  "drivers": "Orders, repeat use, basket value, revenue recognition, delivery and fulfilment costs, store productivity, customer incentives, advertising and the cash required to expand.",
+  "summary": "Eternal runs Zomato for restaurant orders, Blinkit for delivered shopping, District for dining and entertainment, and Hyperpure for supplies used by restaurants.",
+  "description": "Think of ordering dinner through Zomato, buying groceries through Blinkit, booking an outing through District, or running a restaurant that buys ingredients from Hyperpure. These are different jobs for different customers, even though they belong to the same group.",
+  "money": "The businesses earn through their own charges, such as fees for arranging orders, advertising, ticketing services or selling goods. They also pay for delivery, stock handling, staff, buildings, technology and promotions. The total checkout payment is not necessarily the amount the group earns.",
+  "customers": "Households use the consumer apps. Restaurants and other food businesses buy Hyperpure ingredients and supplies. Restaurants, sellers and advertisers can also pay for services that help them reach customers.",
+  "drivers": "Customers placing repeat orders, how much they buy, what the business earns from each transaction, the cost of delivery and handling, and the money needed for new sites and stock.",
   "groups": [
     {
-      "title": "Zomato food delivery",
-      "examples": "Restaurant discovery, ordering and delivery services.",
-      "explanation": "Restaurant partners prepare the food. The total bill paid by the customer is different from the platform’s own revenue."
+      "title": "Zomato: ordering a restaurant meal",
+      "examples": "Restaurant search, ordering and delivery.",
+      "explanation": "The restaurant cooks the food. Zomato helps the customer find it, place an order, pay and receive delivery. Part of the payment belongs to the restaurant and other service providers; collecting the bill does not mean keeping it all."
     },
     {
-      "title": "Blinkit quick commerce",
-      "examples": "Groceries and other everyday goods delivered through a local fulfilment network.",
-      "explanation": "Inventory ownership matters: selling owned goods records revenue differently from earning a marketplace commission."
+      "title": "Blinkit: shopping delivered from nearby",
+      "examples": "Groceries and other everyday goods.",
+      "explanation": "Workers pick and pack goods at a nearby storage site, often called a dark store, then arrange delivery. Unlike a normal shop, the site mainly serves online orders. The business needs available stock and enough nearby orders to support the running costs."
     },
     {
-      "title": "District going out",
-      "examples": "Dining, entertainment, events and related going-out services.",
-      "explanation": "Reservations, ticketing and restaurant experiences have different frequency and fulfilment needs from grocery delivery."
+      "title": "District: arranging a place to go",
+      "examples": "Dining, entertainment, events and related bookings.",
+      "explanation": "A customer may use the service to reserve a dining experience or buy access to an event. The venue or organiser provides the experience; booking, payment, advertising and customer service are different jobs from delivering groceries."
     },
     {
-      "title": "Hyperpure supplies",
-      "examples": "Ingredients, kitchen supplies and related food-service supply-chain services.",
-      "explanation": "This sells to businesses rather than delivering a restaurant meal to a household. Goods and logistics can produce large revenue with different margins."
+      "title": "Hyperpure: supplying a restaurant’s kitchen",
+      "examples": "Ingredients, kitchen supplies and related delivery services.",
+      "explanation": "Imagine a restaurant buying ingredients for the meals it will cook. Hyperpure arranges supplies and delivery to that business. Stock, storage and transport costs must be covered even if the goods create a large sales total."
     }
   ],
   "basics": [
     {
-      "title": "Order value is not the amount the platform earns",
-      "text": "Gross or net order-value measures describe transactions on a defined basis. Revenue reflects what the company records under its commercial model; a larger order-value number is not automatically more revenue or profit."
+      "title": "An order’s value is different from the company’s own revenue",
+      "text": "Order value describes what customers buy on the stated basis. Revenue is the amount the company records as its own sales or service income. Where it only arranges a purchase, much of the customer’s payment belongs to the restaurant or seller."
     },
     {
-      "title": "A dark store is a fulfilment site",
-      "text": "It is used to hold and pick goods for online orders rather than receive shoppers like a conventional store. Location, stock availability and orders per site affect its economics."
+      "title": "Owning goods changes what is recorded",
+      "text": "Selling goods the business owns is different from charging a fee to arrange another seller’s sale. It can record the goods sale rather than just a service fee, but it must also pay for the goods. A larger recorded sales total is not automatically extra profit."
     }
   ],
   "steps": [
     {
-      "title": "Attract users and partners",
-      "text": "Offer useful selection, availability and a reason to transact again."
+      "title": "Receive a specific request",
+      "text": "A customer orders a meal or goods, makes a booking, or a restaurant orders supplies."
     },
     {
-      "title": "Match and fulfil demand",
-      "text": "Coordinate restaurants, goods, inventory or experiences through the relevant business."
+      "title": "Arrange the right provider or stock",
+      "text": "Send the meal request to the restaurant, locate goods for picking, or confirm the booking with the venue."
     },
     {
-      "title": "Collect and settle",
-      "text": "Receive payments and settle the amounts owed to partners while recognising the appropriate revenue."
+      "title": "Complete the order and divide the payment",
+      "text": "Deliver goods or complete the service and pay the amounts owed to restaurants, sellers and other providers under their terms."
     },
     {
-      "title": "Pay the operating costs",
-      "text": "Fund delivery, picking, rent, staff, promotions and technology, then invest in growth."
+      "title": "Cover costs and fund the next order",
+      "text": "Pay the delivery, site, staff and technology costs. Goods owned by the business need funding before they are sold; new locations also require spending."
     }
   ],
   "specifics": [
     {
-      "title": "An accounting-model change can magnify revenue growth",
-      "text": "Eternal’s results explain Blinkit’s transition towards inventory ownership. Recognising the full goods sale rather than a commission changes the revenue base, even before considering the change in demand."
+      "title": "Blinkit’s change in goods ownership affects the sales comparison",
+      "text": "Eternal’s disclosures explain a move towards Blinkit owning inventory, meaning goods held for sale. Recording the full goods sale rather than only a fee can raise reported revenue without the same increase in items ordered."
     },
     {
-      "title": "Local density affects delivery economics",
-      "text": "More nearby orders can spread fulfilment and delivery costs, while adding sites and selection can raise costs. Read site maturity and demand together rather than treating every opening as equally productive."
+      "title": "Nearby repeat orders help a delivery site",
+      "text": "Rent and staff must be paid even when a site is quiet. More nearby orders can spread those costs, but a new location may take time to attract enough customers. More sites do not automatically mean more profit."
     },
     {
-      "title": "Different earnings measures leave out different costs",
-      "text": "Contribution measures, adjusted EBITDA, segment result and group profit are distinct. Read the definition and reconciliation before comparing businesses or declaring a group profitable."
+      "title": "A profitable order does not pay every company bill",
+      "text": "A measure focused on individual orders can leave out offices, technology, equipment wear, financing or other costs. Read what a headline measure includes before treating it as the profit of the whole group."
     }
   ],
   "watch": [
     [
-      "How much growth is demand and how much is reporting-model change?",
-      "Comparable growth needs a consistent revenue basis.",
-      "Read the inventory-model and like-for-like explanations with orders and order value. Identify which business and period changed; do not interpret a full-goods-sales revenue increase as the same increase in quantities or commissions."
+      "Are customers buying more, or has the way sales are recorded changed?",
+      "Owned-goods sales and fees for arranging purchases are different measures.",
+      "Read the explanation of Blinkit’s stock-ownership change alongside orders and purchase value. Compare matching periods and definitions before concluding that demand grew as quickly as reported revenue."
     ],
     [
-      "Are customers returning without increasingly costly incentives?",
-      "Retention and subsidies affect the quality of growth.",
-      "Read customer frequency, order trends and promotions alongside the stated profitability measure. Download counts or registered users do not establish active paying demand; a membership benefit also has a cost."
+      "Do people keep using the services without ever-larger discounts?",
+      "Repeat demand and subsidised purchases can have different costs.",
+      "Read order frequency, paying-user activity and spending on promotions. Downloads or registrations alone do not show that customers return, and membership benefits still need to be paid for."
     ],
     [
-      "Are quick-commerce sites becoming productive?",
-      "Store count alone is not unit economics.",
-      "Read site maturity, orders, assortment, availability and operating costs where disclosed. Consider inventory, stock losses, rent, picking and delivery rather than looking only at a contribution-margin headline."
+      "Are Blinkit sites attracting enough nearby orders?",
+      "Rent, workers and delivery costs continue while a new site finds customers.",
+      "Read how older and newer sites perform, what goods are available and the cost of picking and delivery. Check stock losses and storage costs as well as the number of sites opened."
     ],
     [
-      "Do the businesses fund their own operating needs?",
-      "Positive performance in one activity may coexist with losses elsewhere.",
-      "Read each business’s reported result using a common definition, then follow the bridge to group earnings. Hyperpure supplies, food delivery and going out should not be assumed to have the same cost structure or profit per order."
+      "Which businesses earn money after their own costs?",
+      "Meals, retail goods, bookings and restaurant supplies have different cost structures.",
+      "Read each business’s result using its stated definition, then the further costs needed to reach group profit. Do not assume a large Hyperpure goods-sales total means it earns more than a smaller fee-based service."
     ],
     [
-      "How much cash is expansion using?",
-      "Growth can require working capital and infrastructure.",
-      "Read operating cash flow, inventory, receivables, leases and capital spending together. Owning more inventory changes funding needs as well as revenue recognition; expansion announcements alone do not demonstrate a return."
+      "How much cash do new sites and stock need?",
+      "Growth can use money before it produces enough customer payments.",
+      "Read cash from day-to-day operations with spending on sites, equipment and goods waiting to be sold. Check leases, which are rental commitments, and other payment obligations rather than relying only on expansion announcements."
     ]
   ],
   "risks": [
     [
-      "Competitive incentives",
-      "Discounting and customer acquisition can absorb the benefit of higher demand."
+      "Competition makes orders costly to win",
+      "Discounts, advertising and customer benefits can use up the benefit of higher demand."
     ],
     [
-      "Fulfilment complexity",
-      "Availability, delivery quality and site operations affect repeat use and costs."
+      "Orders are unavailable, late or wrong",
+      "Poor stock availability, packing, delivery or booking service can discourage repeat use."
     ],
     [
-      "Inventory and funding",
-      "Owned stock introduces working-capital, spoilage and valuation exposure."
+      "Goods tie up money or lose value",
+      "Owned stock must be funded and may spoil, become damaged or remain unsold."
     ],
     [
-      "Regulation and trust",
-      "Food safety, consumer protection, labour arrangements and data or platform reliability can create obligations and disruption."
+      "Trust and operating rules are breached",
+      "Food safety, consumer protection, worker arrangements and data or app failures can cause costs and disruption."
     ]
   ],
   "context": [
-    "A restaurant supplier is a different kind of business",
-    "Hyperpure’s official overview describes sourcing, kitchen supplies and temperature-controlled distribution. It belongs in the group explanation even though a consumer may rarely see its name in a meal-ordering app."
+    "The restaurant customer can be on both sides of the group",
+    "A restaurant can receive a household’s meal order through Zomato and separately buy ingredients from Hyperpure. These are different transactions: one helps sell a meal, while the other supplies what the kitchen needs to make meals."
   ],
   "quiz": [
-    "Can two platforms with similar order value report very different revenue?",
-    "Yes. Commissions, fees and owned-goods sales are recorded differently. Compare the commercial model and reporting definitions before drawing a conclusion about demand or earnings."
+    "If Blinkit starts owning goods instead of only arranging sales, does a larger revenue figure prove the same increase in demand?",
+    "No. Recording the full goods sale changes the revenue basis. Check quantities and order activity as well as the cost of buying and supplying those goods."
   ],
   "sources": [
     [

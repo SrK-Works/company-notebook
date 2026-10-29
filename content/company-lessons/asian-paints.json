@@ -1,121 +1,121 @@
 {
-  "summary": "The paint and home-décor business behind familiar wall finishes, waterproofing products and painting services, alongside industrial and overseas operations.",
-  "description": "Asian Paints develops, manufactures and sells coatings and related home-improvement offerings. A household repainting a room, a builder protecting a surface and a factory specifying an industrial coating are different customers with different requirements.",
-  "money": "Revenue comes from supplying paints, coatings, related products and services. Quantities, prices, product mix, raw materials, distribution and the costs of new capacity and home-décor activities affect earnings.",
-  "customers": "Households, painters, contractors, builders and industrial buyers. Dealers and distributors may buy from the company before the final user chooses a product.",
-  "drivers": "Repainting and construction demand, dealer availability, competition, input prices, product mix, factory use and the economics of services and décor.",
+  "summary": "Paints for walls, wood and other surfaces, waterproofing products, painting services and home furnishings, alongside industrial and overseas paint businesses.",
+  "description": "Asian Paints makes paint and related products and supplies shops or business buyers. For example, a household repainting a bedroom needs paint, surface preparation and someone to apply it. A factory buying a protective coating has a different job to do. The company also offers painting and home-improvement services.",
+  "money": "Buyers pay for paint, other products or agreed services. The company pays for ingredients, tins and packaging, factories, transport, advertising and staff. A painting or fitted-home service also needs people to complete the work. Profit depends on the amount left after the relevant costs and tax.",
+  "customers": "Dealers and other businesses buying products to sell onward, households, painters, builders and industrial customers. The shop buying paint from Asian Paints can be a different customer from the household eventually using it.",
+  "drivers": "How much paint people need, which ranges they choose, selling prices, ingredient and transport costs, shop availability and the cost of running factories and services.",
   "groups": [
     {
-      "title": "Decorative paints",
-      "examples": "Royale, Apcolite and Tractor wall finishes illustrate products for different surfaces, budgets and finishes.",
-      "explanation": "Paint is not one interchangeable liquid. Coverage, surface preparation and application affect the customer’s finished result."
+      "title": "Wall paints",
+      "examples": "Royale, Apcolite and Tractor ranges.",
+      "explanation": "Customers choose different finishes and prices for different surfaces. Coverage means how much area the paint can cover under stated conditions; preparing the wall and applying the paint also affect the result."
     },
     {
-      "title": "Protection and preparation",
-      "examples": "SmartCare waterproofing, primers, putty and WoodTech wood finishes.",
-      "explanation": "The product needs to solve a surface problem. A poor application can damage trust even when the coating itself meets its specification."
+      "title": "Preparing and protecting surfaces",
+      "examples": "SmartCare waterproofing, primers, putty and WoodTech finishes.",
+      "explanation": "Primer helps prepare a surface before painting; putty helps smooth it. Waterproofing addresses water entry, while wood finishes protect or change the appearance of wood. These are different jobs, not simply more paint colours."
     },
     {
-      "title": "Painting services and home décor",
-      "examples": "Beautiful Homes services and offerings across kitchens, bath, furnishings and lighting.",
-      "explanation": "A service or fitted kitchen involves people, installation and project delivery, unlike shipping a sealed paint tin."
+      "title": "Painting and home-improvement services",
+      "examples": "Beautiful Homes services and kitchen, bath, furnishing and lighting offerings.",
+      "explanation": "A customer can pay for work or fitted products as well as materials. Staff or partners must measure, arrange materials and finish the promised job; sending a paint tin is only one part of that service."
     },
     {
-      "title": "Industrial and international coatings",
-      "examples": "Automotive and industrial coatings, and paint businesses serving overseas markets through the relevant group arrangements.",
-      "explanation": "Read the customer and entity involved. Household decorative demand does not explain every industrial or overseas result."
+      "title": "Factory coatings and overseas paints",
+      "examples": "Automotive and other industrial coatings, plus overseas paint operations.",
+      "explanation": "A business buyer may need a coating that meets a technical requirement. Read which company supplies it: overseas companies and joint arrangements are not all the same as the Indian parent business."
     }
   ],
   "basics": [
     {
-      "title": "Repainting is different from new construction",
-      "text": "A home can need repainting without a new building being constructed. Understand these demand sources separately rather than using housing starts as the only indicator."
+      "title": "An existing home can create paint demand too",
+      "text": "A household may repaint an old room without building anything new. New construction and repainting are therefore different sources of demand. For a repainting example, the customer may need wall preparation, paint and labour, not a new house."
     }
   ],
   "steps": [
     {
-      "title": "Formulate and source",
-      "text": "Select pigments, binders, additives and packaging suitable for the surface and price point."
+      "title": "Make the right type of paint",
+      "text": "Choose colouring ingredients, ingredients that hold the coating together and suitable packaging for the intended surface."
     },
     {
-      "title": "Manufacture and distribute",
-      "text": "Produce consistent coatings and replenish dealers or business customers with the required range."
+      "title": "Produce it and send it to buyers",
+      "text": "Factories make consistent products and supply dealers or business customers with the required ranges and colours."
     },
     {
-      "title": "Help the customer choose and apply",
-      "text": "Colour selection, tinting, painter relationships and application services affect the buying experience."
+      "title": "Help turn the product into a finished job",
+      "text": "Customers choose a colour and finish, and a painter or service team applies it. For contracted services, the agreed work must be completed."
     },
     {
-      "title": "Cover costs and earn the next project",
-      "text": "Sales must support materials, factories, distribution, marketing, service delivery and future investment."
+      "title": "Receive payment and cover the costs",
+      "text": "Product buyers and service customers pay under their arrangements. Materials, factories, transport, people and any repairs or repeated work have to be paid for."
     }
   ],
   "specifics": [
     {
-      "title": "Dealer reach is useful only with productive sales",
-      "text": "Availability and the right shades matter. A larger network or tinting-machine base is not itself evidence that paint sold through to users."
+      "title": "Paint in a dealer’s shop is not yet paint on a wall",
+      "text": "Supplying more shops improves availability. It does not prove that final users bought and used all the paint sent there."
     },
     {
-      "title": "Volume and value can tell different stories",
-      "text": "More litres sold can coincide with lower revenue if prices fall or buyers choose cheaper ranges. Lower raw-material costs can also be passed through to customers."
+      "title": "More litres can still bring less money",
+      "text": "If prices fall or buyers choose cheaper ranges, more paint sold need not produce the same growth in sales value. Cheaper ingredients may also lead to lower customer prices."
     },
     {
-      "title": "New capacity and décor need different tests",
-      "text": "A paint plant needs demand and utilisation; a kitchen or service proposition needs reliable fulfilment and customer economics. Neither a launch nor installed capacity proves a return."
+      "title": "A new factory and a kitchen service need different checks",
+      "text": "A factory must sell enough paint to cover its costs. A fitted kitchen or painting service must finish jobs well and cover materials and labour. An opening announcement alone proves neither."
     }
   ],
   "watch": [
     [
-      "Are users buying more paint, or a different mix?",
-      "Separate litres, pricing and range changes.",
-      "Read the decorative review’s volume and value growth on the same basis. Check discounts, premium versus economy mix and whether new product categories are included; revenue alone is not a measure of paint consumption."
+      "Are people buying more paint or choosing different ranges?",
+      "Litres sold and money received can move differently.",
+      "Compare the company’s quantity and sales-value measures for the same business and period. Read price changes and cheaper versus premium ranges alongside them."
     ],
     [
-      "Is distribution converting reach into demand?",
-      "Dealers and painters influence availability and choice.",
-      "Read dealer and service commentary with sales and working capital. Distinguish dispatch to a dealer from application by a customer; company disclosures may not provide a precise sell-through measure."
+      "Are products reaching final users?",
+      "A dealer order can come before a household purchase.",
+      "Read dealer-stock and demand commentary. Check whether products are waiting longer in shops or customers owe more money; do not assume company shipments equal paint applied."
     ],
     [
-      "Are input savings retained or passed on?",
-      "Pigments, resins, packaging and energy affect costs.",
-      "Compare raw-material commentary, selling-price actions and the stated profit margin across matched periods. More intense competition may require price cuts or promotion even when materials become cheaper."
+      "Who benefits when ingredients become cheaper?",
+      "Savings may be kept, or passed to customers through lower prices.",
+      "Compare ingredient costs, price cuts, discounts and profit commentary. Competition can make the company spend some of those savings to keep buyers."
     ],
     [
-      "Is expansion earning enough?",
-      "Capacity and décor investment require cash.",
-      "Follow commissioning, utilisation and home-décor performance alongside capital expenditure. Check whether the activity is a subsidiary, joint venture or parent operation before comparing its result."
+      "Do new factories and home services cover their costs?",
+      "Both need money before enough sales arrive.",
+      "Follow factory opening and actual production, and read home-service or décor results separately. Check which company owns or operates the activity before comparing results."
     ],
     [
-      "Does profit become cash?",
-      "Stocks and customer credit can absorb funding.",
-      "Read inventory, receivables, supplier balances and operating cash flow together. Separate the cash required for the existing paint operation from plant and acquisition spending."
+      "Are sales producing cash?",
+      "Stock and unpaid customer bills can absorb money.",
+      "Read cash generated by day-to-day operations, unsold products, customer bills still unpaid and amounts owed to suppliers. Separate these from spending on factories or acquisitions."
     ]
   ],
   "risks": [
     [
-      "Aggressive competition",
-      "Price cuts and dealer incentives can reduce earnings even when litres sold rise."
+      "Competitors cut prices",
+      "Discounts and payments to support dealer sales can reduce profit even if more litres are sold."
     ],
     [
-      "Materials and currency",
-      "Imported or commodity-linked inputs and exchange rates can change costs before selling prices adjust."
+      "Ingredients or currency costs rise",
+      "Some materials depend on commodity prices or imports; costs can rise before customer prices change."
     ],
     [
-      "Execution and service quality",
-      "Poor fulfilment, installation or application experiences can hurt demand and create rework costs."
+      "A service job goes badly",
+      "Late work, poor application or faulty installation can lead to complaints, repeated work and extra costs."
     ],
     [
-      "Expansion ahead of demand",
-      "Underused plants or slower décor growth can leave capital and operating expenses ahead of useful sales."
+      "New factories or ranges attract too little demand",
+      "Staff, buildings and equipment still cost money when sales grow slowly."
     ]
   ],
   "context": [
-    "The shade card is only one part of the purchase",
-    "Customers also pay for preparation, labour, protection and the finished result. Assess how product availability and the service ecosystem support the next repainting job, rather than judging the business from colour choice alone."
+    "The customer wants a finished surface",
+    "A shade card helps choose a colour, but the customer also needs a prepared wall, the right materials and a good painting job. Look at how the company helps that whole purchase work, not just how many colours it offers."
   ],
   "quiz": [
-    "Does higher paint volume guarantee higher earnings?",
-    "No. Prices, mix, materials, distribution incentives and factory or service costs can change what remains from those sales."
+    "Does selling more litres of paint guarantee more profit?",
+    "No. Selling prices, the ranges bought, ingredient costs, dealer incentives and factory or service costs also change what remains."
   ],
   "sources": [
     [

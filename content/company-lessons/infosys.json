@@ -1,121 +1,121 @@
 {
-  "summary": "A consulting and technology-services company helping organisations build, change and operate systems, with cloud, AI and software-platform offerings.",
-  "description": "Infosys combines delivery teams, consulting, engineering and platforms to solve customer technology and operating problems. A retail website project, bank-system change and continuing business-process service have different contracts and delivery needs.",
-  "money": "Clients pay for services and relevant software or platform arrangements. Pricing, delivered work, employee and subcontractor costs, productivity, utilisation and currency influence earnings and collections.",
-  "customers": "Organisations in financial services, manufacturing, retail, communications and other industries. The industries in the financial table describe customers, not businesses that Infosys owns.",
-  "drivers": "Customer budgets, contract execution, service mix, pricing, people costs, automation, currency and collection of invoices.",
+  "summary": "Infosys helps organisations build, change and run computer systems, with consulting, cloud, AI, software and routine business-work services.",
+  "description": "Infosys supplies teams and software to organisations that need technology work done. For an illustrative example, a shop business might want a better online-order system, or a bank might need help changing its software. Infosys and the customer agree what will be built, changed or maintained, and what the customer will pay.",
+  "money": "Customers pay for agreed work, software use and support under their contracts. Infosys must pay employees, outside specialists, software and equipment costs and the cost of organising the job. Some contracts continue over time; others cover a project. Profit depends on what remains after the relevant costs and tax.",
+  "customers": "Banks, manufacturers, retailers, communications companies and other organisations. These sectors describe customers buying Infosys services; Infosys does not own those customers’ businesses.",
+  "drivers": "Projects customers approve, work completed, agreed prices, people and outside-specialist costs, time needed for each job, exchange rates and payments collected.",
   "groups": [
     {
-      "title": "Consulting and application services",
-      "examples": "Application development, maintenance, enterprise systems and business consulting.",
-      "explanation": "Projects change a system; continuing support keeps it operating. Their revenue timing and responsibilities can differ."
+      "title": "Build, change or maintain software",
+      "examples": "Application development, business software and consulting.",
+      "explanation": "An application is a program used to do a task. Consulting helps decide what to change; development builds it; maintenance keeps it usable or fixes problems. The contract can pay for different combinations of this work."
     },
     {
-      "title": "Cloud and infrastructure",
-      "examples": "Infosys Cobalt and related cloud, infrastructure and security work.",
-      "explanation": "Cloud transformation needs implementation and operation, not simply a software label."
+      "title": "Cloud and computer-system services",
+      "examples": "Infosys Cobalt, infrastructure and security services.",
+      "explanation": "Cloud means computing resources accessed over a network. A customer may need help moving its programs and information, connecting them and keeping them secure. Cobalt is a name for a collection of related offerings, not a separate profit statement."
     },
     {
-      "title": "AI, data and experience",
-      "examples": "Infosys Topaz, analytics and the Aster marketing-services suite.",
-      "explanation": "These are sets of services, solutions and platforms; a brand name does not prove separately earned profit."
+      "title": "AI, information analysis and marketing work",
+      "examples": "Infosys Topaz, data analysis and the Aster marketing-services suite.",
+      "explanation": "These help customers use information, automate selected tasks or improve their marketing work. Paid use and the work actually completed matter more than a technology label."
     },
     {
-      "title": "Platforms and business processes",
-      "examples": "Finacle and other enterprise platforms, alongside business-process-management services.",
-      "explanation": "Licensing, implementation, support and process operation can involve different commercial arrangements."
+      "title": "Reusable software and ongoing business tasks",
+      "examples": "Finacle banking software, other enterprise platforms and business-process services.",
+      "explanation": "A platform is reusable software that can be set up for a customer. It can need setup, transfer of old data and support. Separately, a customer can pay Infosys to carry out agreed business tasks on an ongoing basis. As an illustration, outsourced work might involve checking supplier invoices; this is an example, not a claim about a particular customer contract."
     }
   ],
   "basics": [
     {
-      "title": "Services and customer sectors overlap",
-      "text": "A financial-services client can buy cloud, AI and application maintenance together. Do not add a service-market estimate to a reported industry segment as though it were another independent sale."
+      "title": "One bank can buy several different jobs",
+      "text": "A bank might buy cloud work, software changes and continuing support together. The report can group all that revenue under banking customers. Service names and customer industries overlap, so adding them together can count the same work twice."
     }
   ],
   "steps": [
     {
-      "title": "Scope the business need",
-      "text": "Agree the problem, expected deliverables, contract basis and responsibility for outcomes."
+      "title": "Agree the customer’s problem and payment terms",
+      "text": "Set out the work, expected result, responsibilities, price and the checks used to accept it."
     },
     {
-      "title": "Organise delivery",
-      "text": "Match skills, tools and partner technology to the work while managing cost and quality."
+      "title": "Put the right team and tools on the job",
+      "text": "Employees and any outside specialists build, test or operate the agreed systems and services."
     },
     {
-      "title": "Perform and recognise revenue",
-      "text": "Deliver the service or contractual milestones under the relevant recognition policy."
+      "title": "Earn the fee and bill as agreed",
+      "text": "Work becomes revenue under the contract and accounting rules. Completing a stage, recording the fee and sending an invoice need not happen on the same date."
     },
     {
-      "title": "Bill, collect and expand",
-      "text": "Invoice, collect payments and compete for renewal or additional work."
+      "title": "Collect payment and keep the work useful",
+      "text": "The customer pays, and Infosys meets support or ongoing service promises. Further work and renewals must be won; they are not automatic."
     }
   ],
   "specifics": [
     {
-      "title": "Growth measures need a currency label",
-      "text": "Dollar, rupee and constant-currency growth can differ. Constant currency adjusts the stated exchange-rate effect; it does not remove pricing or demand risk."
+      "title": "The currency used can change the growth story",
+      "text": "A fee paid in a foreign currency can have a different rupee value when exchange rates change. Constant-currency growth estimates growth after removing the stated exchange-rate effect. It does not remove weak demand or higher costs."
     },
     {
-      "title": "A deal needs time to become earnings",
-      "text": "Contract value can include renewals and work over future periods. Margin depends on staffing, transition costs, automation and actual scope delivered."
+      "title": "Starting a large new job can itself cost money",
+      "text": "Teams may need training, a handover and new tools before the work settles down. A large signed contract can include future years or renewals of existing work; its full value is not immediate profit."
     },
     {
-      "title": "AI adoption needs a commercial test",
-      "text": "Productivity improvements may lower delivery effort, while clients may ask for lower prices or different outcomes. Paid demand and realised economics matter more than an offering’s name."
+      "title": "Automation changes both costs and prices",
+      "text": "AI may help a team finish work faster. The customer may then request a lower price or more work for the same payment. Check what the contract earns after the actual cost of doing it."
     }
   ],
   "watch": [
     [
-      "Are deal wins creating realised growth?",
-      "Contract size and current delivery are different.",
-      "Read large-deal commentary with revenue, ramp-up timing and renewals. Identify what is new scope versus replacement of an existing contract; do not equate pipeline or total contract value with annual sales."
+      "Are large contract wins becoming work that earns fees?",
+      "Announced value can cover future years and existing work being renewed.",
+      "Read sales, start dates and the amount of genuinely new work alongside announcements. A list of possible deals is earlier than a signed contract."
     ],
     [
-      "Which client sectors are spending?",
-      "Financial services and retail can face different cycles.",
-      "Compare industry-segment commentary and results using the same period. A slowdown in a major sector can matter more than rapid growth from a small base elsewhere."
+      "Which kinds of customer are spending?",
+      "A slowdown among major customers can outweigh growth elsewhere.",
+      "Compare commentary and results for customer industries over the same period. Check which projects are approved, delayed or reduced."
     ],
     [
-      "What is behind the operating margin?",
-      "Pricing and delivery efficiency interact with staff costs.",
-      "Read utilisation definitions, attrition, wage changes, subcontracting and onsite/offshore mix alongside achieved margin. Distinguish reported segment operating income from consolidated net profit."
+      "What leaves more or less after paying the teams?",
+      "Prices, wages and time spent doing customer work matter together.",
+      "Read wage changes, staff departures, outside specialists and where work is performed. Utilisation means the reported share of staff capacity used on customer work; check the definition rather than assuming everyone is always billable."
     ],
     [
-      "Are billed and unbilled balances collected?",
-      "Accounting revenue can precede customer cash.",
-      "Review trade receivables, unbilled revenue, operating cash flow and contract terms. Explain a balance change in relation to sales and billing schedules rather than judging it from its absolute size alone."
+      "Are customers paying for the work recorded?",
+      "Earned fees can be recorded before a bill or payment.",
+      "Read unpaid invoices, unbilled revenue and cash from normal operations. Unbilled revenue is work counted as earned but not yet invoiced; compare it with the contract’s billing dates."
     ],
     [
-      "Is transformation demand improving client economics?",
-      "Cloud and AI spending must solve a real problem.",
-      "Look for implemented customer work and the stated scope of AI or cloud revenue. Separate management’s forecasts and addressable-market estimates from completed, paid delivery."
+      "Do cloud and AI projects solve a paid customer problem?",
+      "Interest in a technology does not prove a completed sale.",
+      "Look for work in use, what the customer bought and how the company defines related revenue. Separate forecasts of possible future spending from completed work."
     ]
   ],
   "risks": [
     [
-      "Budget and contract uncertainty",
-      "Customers may delay decisions, reduce scope or negotiate lower prices."
+      "Customers delay or reduce work",
+      "Budgets can be cut, decisions postponed and prices renegotiated."
     ],
     [
-      "Skills and productivity pressure",
-      "Wages, reskilling, attrition or an unfavourable delivery mix can reduce earnings."
+      "Staff and skills cost more",
+      "Wages, training and replacing departing employees can absorb fees."
     ],
     [
-      "Execution, data and security",
-      "Complex transformations can run late or expose systems and information, creating costs and reputational damage."
+      "A complicated system change goes wrong",
+      "Late work, faults or exposed information can create extra costs and damage trust."
     ],
     [
-      "Currency and structural change",
-      "Exchange rates, immigration and data rules and new automation models can change demand and delivery economics."
+      "Currencies and working rules change",
+      "Exchange rates, data restrictions and employee-movement rules can change what work costs and how it is organised."
     ]
   ],
   "context": [
-    "A platform and a service team can solve one client problem",
-    "A banking platform may require configuration, migration and continuing support. Understand which activities are contracted and billed rather than treating the software name as a standalone earnings engine."
+    "Selling software can also mean helping someone use it",
+    "A reusable banking program still needs to be set up, connected to other systems and supported. Check which of those jobs the contract pays for. The software name alone does not identify all the costs or earnings."
   ],
   "quiz": [
-    "Does constant-currency growth show that profits grew at the same rate?",
-    "No. It adjusts a currency effect on the stated revenue measure. Staff costs, pricing, mix and other expenses still affect profit."
+    "Does constant-currency sales growth mean profit grew at the same rate?",
+    "No. It removes the stated exchange-rate effect from a sales comparison. Prices, wages, the work performed and other costs still affect profit."
   ],
   "sources": [
     [

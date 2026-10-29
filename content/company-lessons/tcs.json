@@ -1,121 +1,121 @@
 {
-  "summary": "A technology-services partner that builds, modernises and runs systems for organisations, with software platforms and business-process offerings alongside delivery services.",
-  "description": "Tata Consultancy Services supplies expertise and delivery teams to businesses and public institutions. Its work can include changing an application, running a technology estate, moving workloads to cloud systems or redesigning a business process.",
-  "money": "Revenue comes from contracted technology and business services and relevant platforms. Contract pricing, work delivered, employee costs, productivity, utilisation, subcontracting and currency affect what remains as earnings.",
-  "customers": "Banks, retailers, manufacturers, governments and other organisations buying projects or continuing services. They are customers of TCS, not industries owned by TCS.",
-  "drivers": "Client budgets, contract conversion, pricing, delivery quality, people costs, productivity, cash collection and demand for newer capabilities.",
+  "summary": "TCS builds, changes and runs computer systems and related business work for organisations such as banks, shops and manufacturers.",
+  "description": "Many large organisations need outside specialists to make their computer systems work. For an illustrative example, a bank might pay a technology company to improve its account software and keep it running. TCS takes on agreed projects or continuing services of this kind. It supplies people, technical work and relevant software; it does not own the client’s banking business.",
+  "money": "The organisation buying the work pays TCS under a contract. Payment may cover an agreed project, staff time or an ongoing service, depending on the terms. TCS pays employees, outside specialists, software and equipment costs and the costs of managing the work. Fees received are not all profit.",
+  "customers": "Businesses and public organisations that need technology or related work done: banks, retailers, manufacturers and others. A customer’s sector describes who buys the service, not an industry that TCS owns.",
+  "drivers": "Customers willing to spend, work actually started and completed, agreed prices, employee costs, how efficiently teams work and whether customers pay on time.",
   "groups": [
     {
-      "title": "Build and modernise technology",
-      "examples": "Application development, enterprise solutions, cloud and consulting.",
-      "explanation": "A client pays for a defined change or capability; agreeing a contract and recognising revenue are separate stages."
+      "title": "Build or improve computer systems",
+      "examples": "Application development, consulting, business software and cloud work.",
+      "explanation": "An application is a computer program used for a task. TCS can help design, build, test or change it. Cloud work can involve moving programs or data to computing services accessed over a network, and making that change work properly."
     },
     {
-      "title": "Run and protect operations",
-      "examples": "Managed technology services, cybersecurity and cognitive business operations.",
-      "explanation": "Continuing contracts require reliable delivery and meeting agreed service standards."
+      "title": "Keep systems and business work running",
+      "examples": "Managed technology services, cybersecurity and business-process services.",
+      "explanation": "Managed services means taking responsibility for agreed ongoing work. That can include maintaining systems, helping protect information or carrying out defined business tasks. For an illustration of outsourced business work, a customer might pay for processing invoices; the actual duties depend on the contract. The customer pays for reliable work, not simply the presence of a team."
     },
     {
-      "title": "Data, AI and engineering",
-      "examples": "AI and analytics, industrial engineering and related transformation work.",
-      "explanation": "A technology capability needs paid implementation and customer outcomes; an AI announcement is not itself earned revenue."
+      "title": "Use data, AI and engineering skills",
+      "examples": "Data analysis, artificial-intelligence and engineering-related work.",
+      "explanation": "A customer may want help finding patterns in information or improving a process. TCS must do the paid work promised and make it usable. Naming an AI project does not prove that it has earned revenue or saved money."
     },
     {
-      "title": "Products and platforms",
-      "examples": "TCS BaNCS, TCS iON and other industry or operating platforms.",
-      "explanation": "A platform name describes an offering, not necessarily a separately disclosed profit segment."
+      "title": "Reusable software offerings",
+      "examples": "TCS BaNCS, TCS iON and other products or platforms.",
+      "explanation": "A platform is a reusable software base that can be set up for different customers. The contract determines payment for its use, setup or support. A product name does not tell us its separately reported profit."
     }
   ],
   "basics": [
     {
-      "title": "Client industries are a different view from services",
-      "text": "The financial table groups work by the customer’s industry. A bank can buy cloud, software and operations services within the same industry row."
+      "title": "The same customer can buy several services",
+      "text": "A bank could buy software development, security and continuing support. The financial report’s banking-customer category can include all those jobs. Do not add a service category to a customer-industry category as though they were separate sales."
     }
   ],
   "steps": [
     {
-      "title": "Understand and contract",
-      "text": "Define a client problem, scope, price, responsibilities and delivery terms."
+      "title": "Agree the problem and the paid job",
+      "text": "The customer and TCS agree what must change or keep working, who does what, the price and how completion will be checked."
     },
     {
-      "title": "Staff and deliver",
-      "text": "Assign suitable teams and technology, then complete work or operate the contracted service."
+      "title": "Assign people and carry out the work",
+      "text": "Teams build and test software, move systems or run the agreed service. TCS pays the people and tools needed while doing the job."
     },
     {
-      "title": "Recognise and bill",
-      "text": "Record revenue as contractual performance is satisfied and issue bills on the agreed basis."
+      "title": "Record earned work and send bills",
+      "text": "The accounting rules and contract determine when work counts as revenue. The date a bill is sent can differ from the date work is recorded."
     },
     {
-      "title": "Collect and renew",
-      "text": "Collect customer payments, support the result and compete for further work while covering people and operating costs."
+      "title": "Collect payment and meet continuing promises",
+      "text": "The customer pays under agreed terms. TCS must still correct covered problems, meet service promises and compete to keep or expand the relationship."
     }
   ],
   "specifics": [
     {
-      "title": "Bookings are a pipeline, not a bank balance",
-      "text": "Total contract value covers contracted opportunities over their terms. Timing, cancellations, scope and delivery determine how much becomes revenue and cash."
+      "title": "A large contract is future work, not cash already received",
+      "text": "Total contract value is the announced value over the contract’s stated life. The work may take years. Changes, cancellations and the pace at which work starts affect what becomes current sales and payment."
     },
     {
-      "title": "People costs and productivity interact",
-      "text": "Wages, skill mix, delivery location, subcontractors and the share of staff on billable work affect delivery economics. Higher utilisation can help but cannot rise indefinitely."
+      "title": "Employees can be paid while waiting for work",
+      "text": "Utilisation measures how much available staff time is used on customer work under the company’s definition. Wages continue when people are training or between assignments. Lower staff cost alone is not useful if quality or the skills needed suffer."
     },
     {
-      "title": "Automation changes the contract question",
-      "text": "AI may help clients do more with fewer resources. Whether TCS benefits depends on pricing, new demand, delivery costs and ownership of the resulting productivity gain."
+      "title": "Faster work can help the customer without increasing TCS profit",
+      "text": "AI or other tools may reduce the time a job needs. TCS may benefit from lower costs, but the customer may ask for a lower price. Read who keeps the saving and whether it brings new paid work."
     }
   ],
   "watch": [
     [
-      "Are signed deals converting into delivery?",
-      "Large contracts often span several years.",
-      "Read contract-value announcements with revenue and ramp-up commentary. Identify renewals versus new work and distinguish a deal’s total value from revenue expected in the current period."
+      "Are signed contracts turning into work and bills?",
+      "A deal can cover several future years.",
+      "Compare contract announcements with sales and comments on when teams start. Check whether a deal is new work or a renewal of something TCS already does."
     ],
     [
-      "Are customers funding discretionary projects?",
-      "Running essential systems and starting new projects differ.",
-      "Read industry and geography commentary for delays, spending priorities and deal timing. Broad digital enthusiasm does not establish that budgets have been approved or work has started."
+      "Which customers are approving projects?",
+      "Keeping an essential system running differs from funding an optional improvement.",
+      "Read spending decisions by customer industry and country. Look for work that has actually started rather than assuming broad interest in technology means approved budgets."
     ],
     [
-      "What supports the delivery margin?",
-      "People, pricing and efficiency all contribute.",
-      "Follow wage changes, attrition, utilisation and subcontracting together with the margin definition. Productivity claims need evidence in achieved delivery economics, not just training counts."
+      "Are teams covering their costs while meeting promises?",
+      "Employee pay, prices and efficient work affect what remains from fees.",
+      "Read wages, people leaving, outside-specialist costs and the share of staff time on customer work. Ask whether claimed savings show up in actual earnings without harming service."
     ],
     [
-      "Does profit turn into collections?",
-      "Billing and cash can have different timing.",
-      "Compare operating cash flow, receivables and unbilled revenue with contract terms. Unbilled revenue is recognised work not yet billed; investigate changes rather than assuming all growth is immediately collected."
+      "Are customers paying for recorded work?",
+      "Work recorded or billed is not always cash received.",
+      "Read unpaid customer bills and unbilled revenue: work recorded as earned but not yet invoiced. Compare those balances with sales, billing schedules and cash from normal operations."
     ],
     [
-      "Is the AI proposition commercially useful?",
-      "Tools need paid adoption and reliable outcomes.",
-      "Read actual client implementations, pricing and management’s definition of AI-related revenue. Avoid assuming every AI-tagged contract is entirely incremental or separately profitable."
+      "Is AI work paid and useful to the customer?",
+      "A named offering or training count is not an earned fee.",
+      "Look for work put into use, contract scope and how the company defines AI-related sales. Check whether it is genuinely additional work or a label on existing services."
     ]
   ],
   "risks": [
     [
-      "Client spending delays",
-      "Uncertain budgets can postpone projects and slow deal conversion."
+      "Customers delay spending",
+      "New projects can wait while customers reconsider budgets."
     ],
     [
-      "Delivery and security failure",
-      "Missed service commitments or data incidents can create penalties, rework and lost trust."
+      "Work or information security fails",
+      "Software faults, missed service promises or exposed data can cause penalties, repeated work and lost trust."
     ],
     [
-      "Talent and pricing pressure",
-      "Wages, scarce skills and customer negotiation can offset efficiency gains."
+      "People cost more than contracts earn",
+      "Wages, scarce skills or customer pressure for lower prices can reduce profit."
     ],
     [
-      "Technology, currency and regulation",
-      "Automation, exchange rates, data rules and immigration restrictions can change delivery models and costs."
+      "Technology and operating rules change",
+      "Automation, exchange rates, data rules and restrictions on where employees can work can change demand and costs."
     ]
   ],
   "context": [
-    "A long relationship still needs a fresh commercial case",
-    "Supporting a client for years can create valuable knowledge of its systems, but renewals remain subject to price, quality and competition. A familiar client name is a starting point for investigating demand, not proof of permanent earnings."
+    "An old customer still has to choose to stay",
+    "Knowing a customer’s systems can help TCS do useful work, but contracts still face price and quality checks and competition. A long relationship does not guarantee that future projects or renewals will be won."
   ],
   "quiz": [
-    "Can a contract-value announcement be treated as current-year revenue?",
-    "No. Work is delivered over the contract’s term and revenue follows the applicable recognition policy. Billing and collection may happen at still different times."
+    "Can the whole announced value of a long contract be counted as this year’s sales?",
+    "No. Sales depend on the work earned under the accounting rules over the contract’s life. Bills and customer payments can happen at different times too."
   ],
   "sources": [
     [

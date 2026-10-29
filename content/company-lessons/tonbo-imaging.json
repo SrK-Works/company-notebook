@@ -1,122 +1,126 @@
 {
-  "summary": "Imaging electronics and integrated sensing systems for institutional customers, with modules also supplied to other equipment makers.",
-  "description": "Tonbo combines optical sensors, electronics, image-processing software and system integration. A finished observation device and a module sold to another manufacturer are different offerings, even when both use its imaging technology.",
-  "money": "Revenue comes from supplying equipment, subsystems and related development or integration work under customer arrangements. Engineering, components, qualification, production, warranty obligations and customer acceptance affect earnings and cash collection.",
-  "customers": "Government and institutional procurement customers, platform manufacturers and other equipment makers; the organisation placing the order can differ from the eventual user.",
-  "drivers": "Confirmed orders, delivery and acceptance schedules, component availability, engineering effort, quality requirements, customer concentration and the time taken to collect payment.",
+  "summary": "Tonbo makes camera-like equipment that helps organisations see and observe, including devices that form pictures from heat. It also supplies parts that other equipment makers build into their products.",
+  "description": "A normal camera forms a picture using light. Thermal-imaging equipment detects heat energy given off by objects and turns differences into an image. Tonbo combines sensors, electronics and software to make observation devices or parts for a larger machine, such as a vehicle’s vision system.",
+  "money": "Customers pay for equipment, parts and agreed design or fitting work. Tonbo must pay engineers, buy components, arrange production, test products and provide promised support. The amount billed is different from the profit left after these and other costs.",
+  "customers": "Government and security organisations buy equipment for their users. Other manufacturers buy Tonbo parts to put inside their own equipment. The organisation paying Tonbo may therefore be different from the person who eventually uses the finished device.",
+  "drivers": "Winning firm orders, getting the required parts, completing tests, delivering working equipment and receiving customer payment. A delayed order or a problem with an important component can hold up several stages.",
   "listingLabel": "Listing status not verified",
   "groups": [
     {
-      "title": "Finished imaging devices",
-      "examples": "Observation and thermal-imaging equipment in the official product directory.",
-      "explanation": "These combine sensing hardware and processing into a product a customer can evaluate and procure. A technical description establishes an offering, not its commercial sales or profitability."
+      "title": "Devices that help users observe",
+      "examples": "Finished observation and thermal-imaging devices.",
+      "explanation": "The customer buys a working device rather than a bag of electronic parts. Its sensors collect signals, software turns them into images, and the finished equipment must pass the checks agreed with the buyer."
     },
     {
-      "title": "Vehicle and platform vision",
-      "examples": "Driver-vision and surrounding-awareness products described in the land-systems catalogue.",
-      "explanation": "Integration with a customer’s platform adds design, validation and support requirements beyond supplying a stand-alone camera."
+      "title": "Vision equipment fitted to vehicles",
+      "examples": "Driver-vision and surroundings-viewing systems in the land-products catalogue.",
+      "explanation": "Think of a customer wanting a driver to see around a vehicle in difficult viewing conditions. The equipment must fit and work with that vehicle; designing and testing the fit can be part of the job."
     },
     {
-      "title": "OEM imaging subsystems",
-      "examples": "Imaging engines, processing boards and other modules supplied to equipment manufacturers.",
-      "explanation": "OEM means original equipment manufacturer. A module can become part of another company’s finished system; its selling price and support responsibilities differ from the full system."
+      "title": "Parts for other equipment makers",
+      "examples": "Imaging modules, processing boards and related components.",
+      "explanation": "A module is a smaller working unit built into a larger product. Another manufacturer can buy Tonbo’s imaging unit and combine it with its own equipment. Tonbo receives payment for its part, not automatically the price of the whole machine."
     },
     {
-      "title": "Integrated systems and development",
-      "examples": "Broader sensing and system-integration offerings described by Tonbo Systems.",
-      "explanation": "A product launch and a customer-approved, delivered contract are separate stages. Evaluate the commercial role and contractual scope without assuming every catalogue item is a large established business."
+      "title": "Designing equipment to work together",
+      "examples": "Combined sensing systems and related development work.",
+      "explanation": "Some customers need several pieces of equipment and software to work as a system. Agreeing the design, building it and showing that it works can take longer than selling a standard device."
     }
   ],
   "basics": [
     {
-      "title": "Thermal imaging is a technology, not a revenue category by itself",
-      "text": "Thermal sensors detect infrared energy and processing turns their signals into useful images. The business can sell that capability as a component, a finished device or an integrated system; those routes have different costs and buyers."
+      "title": "A technical demonstration is not yet a sale",
+      "text": "Showing a possible customer that a device works is an early step. The buyer still has to place an order, agree the terms and receive equipment that meets the contract."
+    },
+    {
+      "title": "Testing is part of the product",
+      "text": "An institutional buyer can require checks before approving a design or accepting a delivery. If a part changes or a test fails, engineers may have to do more work before the customer accepts the equipment."
     }
   ],
   "steps": [
     {
-      "title": "Understand the requirement",
-      "text": "A customer specifies its application and acceptance requirements."
+      "title": "Find out what the buyer needs",
+      "text": "Agree what the equipment must do, where it will be fitted and how the buyer will check it."
     },
     {
-      "title": "Engineer and qualify",
-      "text": "Design, components, software and validation must fit the agreed product or platform."
+      "title": "Design and arrange the parts",
+      "text": "Engineers select components, develop the software and arrange how the equipment will be made."
     },
     {
-      "title": "Build and deliver",
-      "text": "Procure parts, manufacture or assemble and carry out the required checks."
+      "title": "Build, test and deliver",
+      "text": "Make or assemble the agreed equipment and complete the required checks. A delivery may still need the buyer’s approval."
     },
     {
-      "title": "Secure acceptance and support",
-      "text": "Acceptance, invoicing, collection and later support follow the contract rather than a consumer checkout."
+      "title": "Get approval, bill and collect",
+      "text": "Send the bill under the contract and collect payment when due. Tonbo must fund engineering and parts while waiting, and carry out any support it has promised."
     }
   ],
   "specifics": [
     {
-      "title": "An order pipeline is not the same as revenue",
-      "text": "A tender, demonstration or enquiry may not become a binding order. A confirmed order may still require engineering, delivery and acceptance before the relevant revenue is recognised."
+      "title": "A promised opportunity can disappear",
+      "text": "An enquiry or invitation to bid is not a firm purchase. Even a confirmed order still needs delivery and acceptance. Read what stage the company’s announced opportunities have actually reached."
     },
     {
-      "title": "Qualification creates both opportunity and delay",
-      "text": "Meeting customer requirements can support a long supply relationship, but repeated testing, design changes or component substitutions can consume time and money. Do not infer margins from the sophistication of a product."
+      "title": "A small part can delay a finished device",
+      "text": "An unavailable sensor or electronic component can hold up assembly. Replacing it may require redesign and new tests, adding cost even when customers still want the product."
     },
     {
-      "title": "Components and platforms have different economics",
-      "text": "Modules may sell repeatedly to another manufacturer while integrated work can require customer-specific engineering. Read the mix, intellectual-property arrangements and support commitments before comparing growth."
+      "title": "Special design work needs to earn its cost back",
+      "text": "A customised system may require engineering work that a standard repeat order does not. More sophisticated equipment does not automatically leave more profit after design, testing and support."
     }
   ],
   "watch": [
     [
-      "Which opportunities have become firm orders?",
-      "Separate enquiries and demonstrations from contractual commitments.",
-      "Read the offer documents and official order disclosures for contract scope, conditions and delivery dates. Ask which amount is a binding order rather than an addressable market or a marketing pipeline."
+      "Which possible orders have become firm purchases?",
+      "A demonstration or enquiry does not oblige a buyer to pay.",
+      "Look for confirmed contracts, what is to be supplied and the delivery conditions. Keep possible future opportunities separate from orders the customer has actually committed to."
     ],
     [
-      "Are deliveries becoming accepted sales and cash?",
-      "Acceptance and collection can lag technical progress.",
-      "Compare the revenue-recognition policy with inventory, receivables and operating cash flow. Identify advances, milestones and customer acceptance rather than treating every dispatch as immediately collected revenue."
+      "Are delivered devices being accepted and paid for?",
+      "Equipment can leave the factory before customer payment arrives.",
+      "Read how the customer approves a delivery and when a bill becomes due. Compare unpaid customer bills, called receivables, with cash generated by running the business."
     ],
     [
-      "How concentrated are customers and programmes?",
-      "A small number of institutional purchases can make results uneven.",
-      "Read customer and programme concentration, repeat orders and related contractual conditions. A large opportunity should be considered alongside the effect of one customer delaying, reducing or cancelling procurement."
+      "Does the business rely heavily on a few buyers?",
+      "An important customer can delay or reduce an entire programme of purchases.",
+      "Look for how much business comes from major customers and whether orders repeat. Read delivery dates and cancellation terms rather than assuming government demand arrives evenly throughout the year."
     ],
     [
-      "Can production and components keep up?",
-      "Parts availability and quality affect delivery.",
-      "Look for manufacturing capacity, supplier dependencies, imported components, lead times and qualification requirements in primary disclosures. Extra capacity matters only if orders can be fulfilled at the required quality and cost."
+      "Can parts and production keep up with orders?",
+      "The right component has to be available and pass the buyer’s requirements.",
+      "Read supplier dependence, imported parts, production arrangements and delays. Extra manufacturing capacity is useful only if the company can obtain parts and supply equipment the buyer accepts."
     ],
     [
-      "Does innovation pay for its development and support?",
-      "Research spending and product success are different.",
-      "Read development expenditure, capitalisation policies, warranty costs and subsequent sales evidence. Compare like periods and separate a new technical capability from a demonstrated commercial return."
+      "Are new designs leading to paying customers?",
+      "Engineering and support cost money before a product proves successful.",
+      "Look for actual orders and repeat deliveries after a launch. Check spending on development and promised repairs or support; a new technology announcement alone does not show that those costs have been recovered."
     ]
   ],
   "risks": [
     [
-      "Procurement timing",
-      "Budget decisions, tenders and acceptance can delay orders or collections."
+      "Orders arrive late",
+      "Customer budgets, bidding and approval procedures can delay purchases and payment."
     ],
     [
-      "Customer concentration",
-      "Changes to a major programme can materially affect demand."
+      "A major buyer changes plans",
+      "Losing or delaying a large order can leave staff and materials waiting for work."
     ],
     [
-      "Engineering and supply risk",
-      "Qualification failures, component constraints and redesign can increase costs."
+      "Parts or tests cause problems",
+      "Shortages, failed checks and redesign can raise costs or delay delivery."
     ],
     [
-      "Regulatory and support obligations",
-      "Applicable approvals, export conditions, quality and contractual support can restrict delivery or add liabilities."
+      "Approvals and support cost more",
+      "Export rules, customer permissions and promised after-sale work can restrict sales or add expenses."
     ]
   ],
   "context": [
-    "A component can be the important business",
-    "The OEM directory shows that Tonbo supplies subsystems as well as finished equipment. A less visible module can have a different repeat-order pattern from a headline integrated system; catalogue prominence is not a ranking of commercial importance."
+    "Tonbo can sell the part inside the product",
+    "A finished device may attract more attention, but another manufacturer can keep ordering the imaging unit inside its own equipment. Check which route brings repeat purchases and what Tonbo must supply and support in each case."
   ],
   "quiz": [
-    "Does a successful demonstration mean the company has earned revenue?",
-    "No. Commercial terms, confirmed procurement, delivery and acceptance still matter. Use the contract and revenue-recognition policy rather than the demonstration alone."
+    "If a customer likes a demonstration, has Tonbo already earned a sale?",
+    "No. The customer must agree a purchase, and Tonbo must meet the contract’s delivery and approval conditions. Cash arrives according to the payment terms."
   ],
   "sources": [
     [

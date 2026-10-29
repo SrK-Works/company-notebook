@@ -1,125 +1,125 @@
 {
-  "summary": "A bank supplying savings and payment accounts, loans, cards and business banking, with digital access through iMobile and other channels.",
-  "description": "ICICI Bank connects people who need secure payment and saving facilities with households and businesses that need finance. It assesses borrowers, funds loans and investments, runs payment systems and collects repayments. These activities create interest income, fees, funding costs and credit risk.",
-  "money": "The bank earns interest on loans and investments and fees from relevant banking services. It pays for deposits and other funding, staff, technology and expected credit losses. Deposit balances are money owed to customers, not sales income.",
-  "customers": "Households, salaried customers, businesses, corporate clients and overseas Indians use different combinations of accounts, finance and payment services.",
-  "drivers": "Deposit availability and cost, loan pricing, credit quality, fees, operating efficiency, liquidity and regulatory capital.",
+  "summary": "ICICI Bank provides accounts, loans, cards and business payment services, accessible through branches and digital channels such as iMobile.",
+  "description": "A customer can receive a salary, pay a shop or borrow for a home through ICICI Bank. A business can use it to collect customer payments or finance stock. The bank runs these services, assesses borrowers and collects repayments while keeping money available for payments and withdrawals.",
+  "money": "Loans and investments earn interest. Some banking services earn fees. The bank pays interest on deposits and other borrowing, runs branches and computer systems, and records costs for loans that may not be repaid. Neither a customer deposit nor the principal returned on a loan is ordinary sales income.",
+  "customers": "Households and businesses pay for borrowing and relevant services. Savers place money in accounts and may receive interest. The bank also serves overseas Indians and larger companies with different payment and borrowing needs.",
+  "drivers": "Reliable deposits, the difference between interest earned and paid, borrower repayments, service fees, running costs and the money needed to keep the bank financially strong.",
   "groups": [
     {
       "title": "Accounts, deposits and payments",
-      "examples": "Savings and current accounts, fixed and recurring deposits, debit cards, transfers and iMobile access.",
-      "explanation": "These help customers store and move money. Deposits also fund the bank, but must remain repayable under their terms."
+      "examples": "Savings and current accounts, fixed and recurring deposits, debit cards, transfers and iMobile.",
+      "explanation": "An account helps customers keep money, receive payments and pay others. An app is a way of using these services. Deposited money remains an amount owed to the customer under the account terms."
     },
     {
-      "title": "Household borrowing",
-      "examples": "Home, vehicle, personal and education loans, secured lending and credit cards.",
-      "explanation": "Different borrowers, collateral and repayment terms create different interest income and loss risks."
+      "title": "Borrowing for household needs",
+      "examples": "Home, vehicle, education and personal loans, and credit cards.",
+      "explanation": "Customers receive money or credit now and repay under agreed terms. Some loans are backed by property the bank can seek to recover if repayments fail. Different loans carry different costs and risks."
     },
     {
-      "title": "Business and corporate banking",
-      "examples": "Working-capital finance, business loans, trade finance, cash management and foreign-exchange services.",
-      "explanation": "A business can need short-term stock funding, payment collection or longer-term investment finance; these are different credit decisions."
+      "title": "Business loans and trade services",
+      "examples": "Finance for stock and daily operations, business loans, collections and cross-border payments.",
+      "explanation": "A company may buy goods before its customers pay it. The bank can lend during that gap or help move and collect payments, earning interest or relevant fees."
     },
     {
-      "title": "Investments and wider financial services",
-      "examples": "Investment distribution, wealth services and relevant group financial businesses.",
-      "explanation": "Distributing a product, lending money and owning a financial subsidiary are different activities. Read the entity and fee arrangement."
+      "title": "Investments and other financial products",
+      "examples": "Investment distribution, wealth services and wider group businesses.",
+      "explanation": "The bank may arrange a product supplied by another company or have an ownership stake in a financial business. Arranging a sale and owning that business are different ways of earning money."
     }
   ],
   "basics": [
     {
-      "title": "A deposit is a funding obligation; a loan is an asset with risk",
-      "text": "A customer depositing money creates a liability for the bank. A loan creates an asset expected to generate interest and repayments. The bank must manage the timing of both: a long-duration loan cannot always be converted into cash as quickly as customers may withdraw deposits."
+      "title": "A loan brings income and a repayment risk",
+      "text": "Interest is the charge for using borrowed money. Returning the principal gives back the amount lent. If a borrower struggles, the bank may lose some principal as well as future interest."
     },
     {
-      "title": "Recognise losses before confusing them with recovery",
-      "text": "A provision is an accounting allowance or charge for expected losses on credit. A write-off changes the accounting treatment and is different from a borrower repaying. Capital buffers absorb losses; liquidity measures help assess whether payments can be met on time. Read all three rather than treating one strong ratio as a complete assessment."
+      "title": "Deposits must remain repayable",
+      "text": "A customer’s account balance is an obligation of the bank. Loans can run for years, while some deposits can be withdrawn much sooner. The bank must manage both the cost of funding and when money has to be available."
     }
   ],
   "steps": [
     {
-      "title": "Attract and retain funding",
-      "text": "Build deposit relationships and arrange other eligible funding at an appropriate cost."
+      "title": "Bring in deposits and other funding",
+      "text": "Offer accounts and services customers use, and arrange other permitted borrowing when needed."
     },
     {
-      "title": "Assess borrowers and price risk",
-      "text": "Check ability to repay, collateral and concentration before agreeing loan terms."
+      "title": "Check ability to repay",
+      "text": "Assess a proposed borrower’s income, commitments and any pledged security, then agree the loan and repayment terms."
     },
     {
-      "title": "Service accounts and collect money",
-      "text": "Operate payment channels, monitor loans and collect interest and principal."
+      "title": "Provide the service and collect",
+      "text": "Run accounts and payments, collect interest, fees and loan repayments, and pay interest and operating bills."
     },
     {
-      "title": "Recognise losses and maintain buffers",
-      "text": "Provide for expected losses while keeping the liquidity and capital needed to operate."
+      "title": "Follow up difficulties and keep financial cushions",
+      "text": "Record provisions, meaning charges or allowances for possible loan losses. Keep capital to absorb losses and liquidity, meaning funds available to meet payments when due."
     }
   ],
   "specifics": [
     {
-      "title": "Interest income is not the interest spread",
-      "text": "Net interest income subtracts interest expense from interest earned. Net interest margin relates that net income to the stated earning-asset base. It still comes before several other costs and is not the net profit margin of an ordinary retailer."
+      "title": "Net interest income comes before several costs",
+      "text": "This means interest earned minus interest paid. Staff, technology, loan losses and tax still affect the final profit, along with fees and other income."
     },
     {
-      "title": "A growing loan book can hide later losses",
-      "text": "Credit problems often emerge after lending. A non-performing asset is a loan classified as impaired under the applicable rules. Slippages describe fresh deterioration; provisions recognise expected losses. Loan growth should be read with all three."
+      "title": "Writing off a loan is different from being repaid",
+      "text": "A write-off removes a loan amount from the accounts under the applicable treatment; collection efforts may continue. A recovery means money actually comes back. A smaller reported problem-loan balance can therefore have several explanations."
     },
     {
-      "title": "Digital use and financial returns are different",
-      "text": "More app users or transactions can improve engagement and lower some servicing costs, but may also need technology investment and controls. Payment volume is not automatically fee revenue or profit."
+      "title": "More app use does not mean more fee income",
+      "text": "Customers can make many digital transactions without each producing a fee. Technology also needs spending and safeguards. Read activity together with income and costs."
     }
   ],
   "watch": [
     [
-      "Are deposits growing on sustainable terms?",
-      "Funding must support lending without excessive cost or liquidity pressure.",
-      "Compare deposit growth, funding cost and the current/savings account mix with loan growth and liquidity disclosures. A change in mix can matter even when the deposit total rises."
+      "Are deposits supporting lending at a sensible cost?",
+      "The bank has to fund loans while meeting withdrawals.",
+      "Read deposit types, interest paid, other borrowing and available funds alongside lending growth. A larger deposit total can still become more expensive."
     ],
     [
-      "Is lending growth accompanied by sound repayments?",
-      "New lending has to remain collectible.",
-      "Read gross and net impaired loans, fresh slippages, recoveries, write-offs and provisions together. A write-off can reduce a reported problem-loan stock without meaning the borrower repaid."
+      "Are borrowers keeping up with payments?",
+      "New lending may develop problems after it is made.",
+      "Read new problem loans, recoveries, write-offs and provisions together. Check both the amount of troubled lending and its proportion of all loans."
     ],
     [
-      "What is moving net interest income?",
-      "Loan and deposit rates can reset at different times.",
-      "Use the stated net interest margin basis, funding-cost discussion and asset mix. Compare matched periods rather than reading a policy-rate change as an immediate equal change in all bank rates."
+      "Why is the interest difference changing?",
+      "Deposit and loan rates do not all reset together.",
+      "Read lending rates, deposit costs and loan types. Net interest margin compares net interest income with a stated average amount of assets, such as loans and investments. Check that basis before comparing periods or banks."
     ],
     [
-      "Do fees and digital relationships cover their costs?",
-      "Transaction activity is not the same as earnings.",
-      "Read fee categories, operating expenses and technology spending alongside customer activity. Identify recurring banking fees separately from trading or one-off gains."
+      "Which services produce fees after their costs?",
+      "Transactions and customer registrations are activity measures.",
+      "Look at fee categories alongside staff and technology costs. Separate normal service income from gains on selling investments or other unusual events."
     ],
     [
-      "Are capital and liquidity adequate for the growth?",
-      "Accounting profit alone does not fund unlimited lending.",
-      "Check regulatory capital, liquidity measures, concentration and standalone versus consolidated scope. Inspect group-company contributions separately from the bank’s own lending results."
+      "Does growth leave enough protection against losses and withdrawals?",
+      "Profit alone does not show the bank can safely keep expanding.",
+      "Read capital cushions and funds available for payments. Keep standalone bank accounts separate from consolidated accounts, which include controlled group companies."
     ]
   ],
   "risks": [
     [
       "Borrowers fail to repay",
-      "Unsecured lending, business stress or concentrated exposures can increase losses and provisions."
+      "Household or business difficulties can cause losses, including on loans without pledged property."
     ],
     [
-      "Funding reprices or leaves",
-      "Competition for deposits and withdrawal needs can raise funding costs or limit lending flexibility."
+      "Deposits cost more or move away",
+      "Competition and withdrawals can raise funding costs or restrict further lending."
     ],
     [
-      "Operations and controls fail",
-      "Fraud, cyber incidents, outages or compliance problems can create losses and damage trust."
+      "Systems or safeguards fail",
+      "Fraud, outages, cyber incidents and rule breaches can interrupt services and cause losses."
     ],
     [
-      "Rates and markets move",
-      "Rate changes affect margins and investment values; the timing and balance-sheet mix determine the impact."
+      "Interest rates and investment prices move",
+      "These can change the income earned, funding cost and value of investments at different times."
     ]
   ],
   "context": [
-    "Read a recovery differently from a write-off",
-    "A recovery brings money back from a stressed borrower. A write-off changes the accounting treatment of a loan; collection may continue afterward. The distinction helps explain why an improving problem-loan ratio should be checked against cash recoveries and fresh deterioration."
+    "A useful service needs a workable business behind it",
+    "Easy payments and convenient apps help explain why customers use ICICI Bank. The investing question is whether serving those customers earns enough after funding, running costs and losses, while the bank remains able to meet its obligations."
   ],
   "quiz": [
-    "Does a larger deposit balance mean the bank earned more revenue?",
-    "No. A deposit is an obligation to the customer and a source of funding. Earnings depend on how funding is deployed, interest and fees earned, funding and operating costs, and credit losses."
+    "If a bank writes off a loan, does that mean the borrower paid it back?",
+    "No. A write-off is an accounting action. Repayment or recovery brings money back. Read both when checking why reported problem loans changed."
   ],
   "sources": [
     [

@@ -1,121 +1,121 @@
 {
-  "summary": "An automotive and tractor manufacturer within a group that also includes finance and other industrial and consumer businesses.",
-  "description": "Mahindra & Mahindra supplies SUVs, commercial vehicles, electric vehicles, tractors and farm-related offerings. The consolidated group extends beyond those factories, so understanding the operating company and its subsidiaries is essential to reading its business.",
-  "money": "The group earns from vehicles, farm equipment, financial services and other operations. Automotive and tractor sales depend on product demand and production economics; lending earns differently, through financing relationships and credit outcomes.",
-  "customers": "Vehicle buyers, farmers, commercial operators and business customers, served through dealers and relevant group entities. Finance customers are borrowers, not purchasers of the same manufacturing service.",
-  "drivers": "SUV mix and execution, agricultural demand, materials, capacity use, lending quality and returns on group investment.",
+  "summary": "SUVs, pickups and tractors are central Mahindra businesses, alongside lending and other group companies providing products and services.",
+  "description": "Mahindra & Mahindra makes vehicles and farm equipment and supplies them through dealers and other sales routes. For example, a family may buy an SUV, while a farmer may buy a tractor to pull equipment for farm work. Group companies also lend money and carry out other activities; a vehicle sale and a loan earn in different ways.",
+  "money": "The manufacturing businesses earn from vehicles, tractors, parts and related goods or services. They pay for components, workers, factories, transport and support. Lending businesses receive interest but must pay for their funding and allow for borrowers who fail to repay. Each activity has its own costs before group profit remains.",
+  "customers": "Vehicle buyers, farmers, businesses using work vehicles, dealers and borrowers served by the finance business. Other group companies serve their own business or household customers.",
+  "drivers": "Demand for vehicles and tractors, buyers’ incomes and access to loans, components and factory costs, borrower repayments and the money committed to new businesses.",
   "groups": [
     {
-      "title": "Automotive",
-      "examples": "Thar, Scorpio and XUV ranges, pickups, commercial vehicles and electric offerings.",
-      "explanation": "Personal-use SUVs, commercial work vehicles and new electric models have different demand and cost drivers."
+      "title": "Vehicles",
+      "examples": "Thar, Scorpio and XUV ranges, pickups, commercial and electric vehicles.",
+      "explanation": "Families buy vehicles for travel; businesses may use them to carry people or goods for income. Their running costs, features and ability to afford repayments can differ."
     },
     {
-      "title": "Farm equipment",
+      "title": "Tractors and farm equipment",
       "examples": "Mahindra and Swaraj tractors, implements and farm machinery.",
-      "explanation": "Farm income, crop economics, mechanisation and finance availability influence a farmer’s purchase."
+      "explanation": "A tractor supplies power to pull or operate equipment. Implements are tools used with it for farm tasks. Farmers consider expected farm income, the work needed and whether they can afford the purchase."
     },
     {
-      "title": "Financial services",
-      "examples": "Group lending activities serving customers such as vehicle and rural borrowers.",
-      "explanation": "Interest income, funding cost and borrower repayment determine a different kind of business from making a tractor."
+      "title": "Lending",
+      "examples": "Group loans to vehicle and rural borrowers.",
+      "explanation": "A borrower receives money and repays it with interest under the agreement. The lender needs its own funding and bears the risk of late or missing repayments. This is different from selling a tractor."
     },
     {
-      "title": "Other group activities",
-      "examples": "Industrial and consumer services across relevant subsidiaries and investments.",
-      "explanation": "A group connection does not make every entity’s revenue identical to parent-company revenue. Read consolidation and associate treatment."
+      "title": "Other group companies and investments",
+      "examples": "Examples in the annual review include Tech Mahindra’s computer services, property businesses and logistics activities.",
+      "explanation": "These can earn from different jobs, such as helping a business with computer systems or moving goods. A subsidiary is a controlled company; an associate is an investment accounted for differently. A shared group name does not mean every company’s full sales belong to the parent."
     }
   ],
   "basics": [
     {
-      "title": "The tractor buyer and SUV buyer face different cycles",
-      "text": "Agricultural cash flows and rainfall can affect tractors while SUV demand responds to household spending, models and finance. Strength in one activity need not describe the other."
+      "title": "A good SUV market is not the same as a good tractor market",
+      "text": "Family spending and new models can influence SUV demand. Crop prices, farm income, local rain and replacement needs influence tractors. Read both businesses separately before judging the group."
     }
   ],
   "steps": [
     {
-      "title": "Develop and source",
-      "text": "Arrange designs, technology, components and manufacturing resources for vehicle and farm requirements."
+      "title": "Work out the customer’s need",
+      "text": "Choose vehicles and farm equipment for the jobs and budgets the business serves."
     },
     {
-      "title": "Produce and distribute",
-      "text": "Manufacture, test and supply dealers and customers while managing production constraints."
+      "title": "Obtain components, build and check",
+      "text": "Arrange suppliers and factories, then manufacture and test the products. Missing parts or faults can stop supply."
     },
     {
-      "title": "Support use",
-      "text": "Service, spares and financing relationships can affect the customer’s lifetime experience."
+      "title": "Supply buyers and provide support",
+      "text": "Dealers and other routes get products to users. Parts and repair services help keep vehicles and machines usable. If a group lender provides finance, it separately assesses and collects that loan."
     },
     {
-      "title": "Manage group capital",
-      "text": "Allocate cash among core operations, newer businesses, acquisitions and other uses, each with a different return profile."
+      "title": "Receive cash and decide where to spend it",
+      "text": "Product payments must cover manufacturing and business costs; loan repayments must cover lending obligations. The group also decides what cash to commit to factories, new businesses and acquisitions."
     }
   ],
   "specifics": [
     {
-      "title": "Bookings need delivery and quality",
-      "text": "A popular SUV launch must become production, delivered vehicles and a satisfactory ownership experience. Capacity, supply, cancellations and warranty matter."
+      "title": "Bookings still need to become cars customers take home",
+      "text": "A popular launch must be followed by enough production, completed sales and reliable products. Buyers can cancel while waiting; faults can create repair costs afterwards."
     },
     {
-      "title": "Farm demand needs a local explanation",
-      "text": "Rainfall is one input, alongside crop prices, rural income, replacement demand and finance. A good national monsoon does not guarantee equal tractor demand everywhere."
+      "title": "Rain alone does not decide tractor demand",
+      "text": "Local crop earnings, prices, borrowing and the need to replace old equipment also matter. Good national rainfall does not mean every farmer has more money to spend."
     },
     {
-      "title": "A conglomerate needs a boundary check",
-      "text": "Automotive, farm, finance and other activities are reported together at group level. Internal transactions, minority interests and associates can change how the total is formed."
+      "title": "The group total combines different kinds of earnings",
+      "text": "The accounts include manufacturing, lending and other businesses under the reporting rules. Transactions between group companies are removed, and some earnings belong to outside co-owners. Check these adjustments before treating every business line as money available to the parent."
     }
   ],
   "watch": [
     [
-      "Do vehicle orders become profitable deliveries?",
-      "Production and customer fulfilment matter after bookings.",
-      "Read model demand, deliveries, production constraints and quality provisions together. Bookings are not recognised sales and can change with cancellations or waiting periods."
+      "Do vehicle bookings become completed sales?",
+      "Orders are earlier than production, payment and customer handover.",
+      "Read completed sales, production limits, cancellations and expected repair costs together. A long waiting list is not a guarantee of future earnings."
     ],
     [
-      "What supports tractor demand?",
-      "Farm purchasing power differs by region and season.",
-      "Use the farm review alongside rural-income, crop and financing commentary. Separate domestic and export tractors, replacement demand and machinery categories where disclosed."
+      "Can farmers afford the tractors they need?",
+      "Farm spending depends on local and seasonal conditions.",
+      "Read tractor demand alongside crop earnings, loan availability and replacement needs. Separate Indian and export sales where available."
     ],
     [
-      "Are EV investments earning their place?",
-      "Technology and capacity spending precede mature economics.",
-      "Follow the electric-business entity, commissioning, volumes, costs and funding. Distinguish management goals from achieved results and a group investment from the parent’s standalone activity."
+      "Are electric-vehicle investments finding enough buyers?",
+      "Developing and making vehicles costs money before demand is proven.",
+      "Follow which company makes the investment, when production starts, actual sales and funding needs. Do not substitute a target for an achieved result."
     ],
     [
-      "Is lending growth supported by repayment?",
-      "Loan-book size does not establish credit quality.",
-      "Read financial-services funding, collections, delinquencies and credit costs. Treat interest expense inside lending differently from the remaining manufacturing-group finance-cost reconciliation."
+      "Are borrowers repaying the finance business?",
+      "A larger loan balance can include more unpaid loans.",
+      "Read late payments, collections and amounts set aside for expected loan losses. Check the lender’s funding costs separately from vehicle manufacturing costs."
     ],
     [
-      "Is capital allocation producing returns?",
-      "The group has several claims on its cash.",
-      "Read operating cash flow, intercompany transactions, acquisitions and segment reconciliation. Compare the result of each activity with the capital and support it requires rather than ranking businesses on revenue alone."
+      "Are different businesses earning enough for the money committed?",
+      "Several activities can need cash at the same time.",
+      "Read day-to-day cash generation, equipment spending, acquisitions and transfers between group companies. Compare each activity’s earnings with what it needs to keep operating or expand."
     ]
   ],
   "risks": [
     [
-      "Different demand cycles",
-      "Vehicle purchases and farm equipment can face distinct income, finance and seasonal pressures."
+      "Different buyers face different pressures",
+      "Families, farmers and work-vehicle operators can cut spending for different reasons."
     ],
     [
-      "Launch and production execution",
-      "Delays, component shortages or quality problems can reduce the benefit of strong demand."
+      "Factories or new models run into problems",
+      "Parts shortages, delays and faults can make strong customer interest hard to turn into sales."
     ],
     [
-      "Credit losses",
-      "Financial-services borrowers can fall behind, creating provisions and cash-collection pressure."
+      "Borrowers fail to repay",
+      "Late or missing payments can reduce finance-business earnings and available cash."
     ],
     [
-      "Expansion and group complexity",
-      "New ventures, acquisitions and internal funding can use capital before attractive returns appear."
+      "New businesses keep using cash",
+      "Expansion and acquisitions can require funding before enough customers or earnings arrive."
     ]
   ],
   "context": [
-    "A strong brand does not remove operating differences",
-    "The Mahindra name can connect an SUV, a tractor and a financing relationship. The customer, product and source of earnings remain different, so each activity needs its own questions before the group total is read."
+    "Start with the job each customer pays for",
+    "The Mahindra name may appear on a tractor, an SUV or a loan agreement. One customer pays for a machine, another for transport and another for borrowed money. Understanding those jobs makes the combined accounts easier to interpret."
   ],
   "quiz": [
-    "Should financial-services earnings be analysed like vehicle manufacturing earnings?",
-    "No. Loan pricing, funding and repayment risk matter to lending, while materials, factories and vehicle demand drive manufacturing. Group reporting connects them but does not erase those differences."
+    "Should a lending business be judged in exactly the same way as a vehicle factory?",
+    "No. Lending depends on interest, funding and repayments. A factory depends on materials, production and vehicle demand. Both have costs, but their main risks differ."
   ],
   "sources": [
     [

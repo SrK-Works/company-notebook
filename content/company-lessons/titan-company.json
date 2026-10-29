@@ -1,125 +1,125 @@
 {
-  "summary": "Tanishq jewellery, Titan and Fastrack watches, Titan Eye+ eyewear and other lifestyle offerings sit within one group, with different customer needs and economics.",
-  "description": "Titan develops and sells jewellery, watches, eyewear and other lifestyle products through stores and online channels. Design, trust, sourcing, manufacturing and retail execution support these offerings. Jewellery purchases involve valuable metal and stones, while a watch or an optical order has a different cost structure and buying occasion.",
-  "money": "Titan earns revenue by selling its products through the relevant retail, distribution and online arrangements. Materials, design, manufacturing, retail costs, marketing, product mix and money tied up in stock affect what remains from those sales.",
-  "customers": "People buying jewellery for weddings, gifting or personal use, customers choosing watches or eyewear, and shoppers buying clothing, fragrances and accessories. Store operators and other businesses can also be part of the route to the final customer.",
-  "drivers": "Gold prices and quantities, jewellery mix, buying occasions, store productivity, brand investment and inventory funding. Smaller divisions and acquired businesses can grow at different rates and contribute very different earnings.",
+  "summary": "The business behind Tanishq jewellery, Titan and Fastrack watches, Titan Eye+ eyewear and other lifestyle products.",
+  "description": "Titan makes or arranges products and sells them through shops and online. For example, a wedding shopper may buy a Tanishq necklace, while another customer buys spectacles at Titan Eye+. These purchases need different materials, staff and services, even though they belong to one group.",
+  "money": "Customers pay for jewellery, watches, spectacles and other products. Titan must pay for materials or finished goods, making products, shop staff, rent, advertising and running the business. It also needs money to keep unsold products in its shops. The whole customer bill is not profit.",
+  "customers": "People buying jewellery, gifts, watches, spectacles, clothing, fragrances or bags. Some outlets are operated by business partners, so the route by which Titan receives payment can differ between shops.",
+  "drivers": "How much customers buy, what they choose, gold and other material costs, discounts, shop costs and how long products wait before being sold.",
   "groups": [
     {
       "title": "Jewellery",
-      "examples": "Tanishq, Mia, Zoya and CaratLane serve different jewellery occasions and customer preferences; Damas joins the group through its acquisition.",
-      "explanation": "The bill reflects metal, stones, design and other charges. A rise in gold prices can lift the rupee sale without the same increase in grams or purchases. Recognising a brand does not reveal its individual profit."
+      "examples": "Tanishq, Mia, Zoya, CaratLane and the acquired Damas business.",
+      "explanation": "A necklace buyer pays for metal, stones, design and making the item. If gold becomes dearer, the same weight of gold can produce a larger bill. That does not by itself mean Titan sold more jewellery."
     },
     {
       "title": "Watches and wearables",
-      "examples": "Titan, Fastrack, Sonata and other watch ranges, plus wearable offerings and watch retail formats such as Helios.",
-      "explanation": "Design, price bands, distribution and changing preferences matter. Analog watches and smart wearables compete with different alternatives; their growth should be read separately where disclosed."
+      "examples": "Titan, Fastrack, Sonata, smart wearables and watch shops such as Helios.",
+      "explanation": "Customers choose a watch for its appearance, features, brand and price. A traditional watch with hands and a smart wearable need different components and face different competing products."
     },
     {
-      "title": "Eyecare",
-      "examples": "Titan Eye+ and the related eyewear range offer spectacles, frames, lenses and optical retail services.",
-      "explanation": "The purchase combines product selection with an optical service experience. Store productivity, product mix, quality and repeat relationships affect the business; this page does not assess clinical outcomes."
+      "title": "Spectacles and eyecare retail",
+      "examples": "Titan Eye+ frames, lenses and related optical services.",
+      "explanation": "A shopper chooses frames and suitable lenses, with help from store staff and the services offered. Titan must cover the product and shop-service costs. This description does not assess medical outcomes."
     },
     {
-      "title": "Newer lifestyle offerings",
-      "examples": "Taneira Indian dresswear, SKINN fragrances, IRTH bags and other accessories.",
-      "explanation": "These involve different buying occasions and competitors. New stores and familiar branding can support demand, but small categories still have to cover stock, people, marketing and retail costs."
+      "title": "Other lifestyle products",
+      "examples": "Taneira clothing, SKINN fragrances and IRTH bags.",
+      "explanation": "These products serve different shopping needs from jewellery. Each range needs stock, staff and promotion; using a familiar group name does not guarantee that it earns a profit."
     }
   ],
   "basics": [
     {
-      "title": "A brand is different from a reported segment",
-      "text": "Tanishq is a brand; Jewellery is a reported business segment that bundles activities and brands. The consolidated accounts also include controlled subsidiaries under the applicable rules. A segment result is therefore not a profit statement for a particular ring or watch."
+      "title": "A brand and a business group are different",
+      "text": "Tanishq is a brand. Jewellery is the wider reporting group that includes several brands and activities. The accounts combine controlled companies under the reporting rules. A Jewellery result therefore does not tell us the profit on one Tanishq ring."
     },
     {
-      "title": "A store network can use different commercial arrangements",
-      "text": "A branded outlet can operate under company or franchise arrangements. Footprint describes customer access, not necessarily property ownership or identical economics at every outlet. Check the channel and ownership definition before comparing store counts."
+      "title": "A branded shop is not always owned and run in the same way",
+      "text": "Some shops are run by Titan and others through franchise arrangements: another business operates a branded outlet under agreed terms. More shops means more places to reach customers, but does not mean Titan owns every building or pays identical costs at each outlet."
     }
   ],
   "steps": [
     {
-      "title": "Understand the buying occasion",
-      "text": "Choose designs, ranges and price points for weddings, gifting, everyday use or other customer needs."
+      "title": "Choose products people want to buy",
+      "text": "Decide which designs, sizes and prices to offer for weddings, gifts and everyday use."
     },
     {
-      "title": "Source, make and control quality",
-      "text": "Arrange the appropriate metal, stones, components or finished products, then manage manufacturing, sourcing and quality under the relevant business arrangement."
+      "title": "Arrange the goods and check their quality",
+      "text": "Obtain metal, stones, watch parts or finished goods and arrange the making and quality checks needed for each range."
     },
     {
-      "title": "Make the offering available",
-      "text": "Hold the right range and sizes across the relevant stores and online channels. Stock that is available but not selling still needs funding."
+      "title": "Put products where shoppers can find them",
+      "text": "Supply shops and online orders. Unsold jewellery and other goods still need funding and storage."
     },
     {
-      "title": "Complete the sale and support the customer",
-      "text": "Earn the purchase through design, trust, pricing and service, while managing the associated costs and any exchange, repair or after-sales obligations."
+      "title": "Sell, receive payment and provide promised support",
+      "text": "The customer pays for the purchase. Titan must cover the associated costs and any promised exchanges, repairs or other support afterwards."
     }
   ],
   "specifics": [
     {
-      "title": "Gold value, product quantity and value added are different",
-      "text": "More rupees of jewellery sales need not mean more grams sold. Higher gold prices, larger purchases, product mix and more transactions can change sales differently. Making charges are not pure profit: design, production, distribution and running costs still have to be covered."
+      "title": "A larger jewellery bill can have several causes",
+      "text": "Sales can rise because gold prices rose, more people bought, purchases were larger, or customers chose different stones and designs. Making charges are not pure profit: they also have to cover the cost of making and selling the item."
     },
     {
-      "title": "Jewellery inventory has a financing side",
-      "text": "Metal and finished jewellery tie up value before a customer purchases them. Read stock turnover, borrowings, gold-on-loan arrangements and hedging disclosures together. Hedging manages specified price exposure; it does not guarantee customer demand, remove funding costs or make all gold-price changes harmless."
+      "title": "Gold in a shop needs money before it sells",
+      "text": "Stock means goods held for sale. Titan can use borrowing and gold-loan arrangements to obtain that stock. A gold loan here can mean borrowing the metal itself for the business, rather than a customer borrowing cash against jewellery. Hedging means arrangements to limit particular price changes. It does not remove borrowing costs or guarantee that customers will buy."
     },
     {
-      "title": "Mix and store maturity affect the result",
-      "text": "Plain-metal and studded jewellery, analog watches and wearables, and mature versus newer stores can have different costs and sales patterns. A higher-priced product is not automatically more profitable. Evaluate established-store performance, category mix and investment rather than relying only on footprint expansion."
+      "title": "New shops and different products change costs",
+      "text": "A new shop can need time to attract regular buyers while rent and staff costs begin immediately. Plain-gold jewellery and jewellery with stones also have different costs. Check what is selling and which shops have been open long enough for a fair comparison."
     }
   ],
   "watch": [
     [
-      "Is jewellery growth coming from gold prices or customer demand?",
-      "Separate value growth from quantity, ticket size, transactions and product mix.",
-      "Read the jewellery review for the stated measures of buyers, bill size, grams or volume, where disclosed. Compare the same periods and definitions. Gold inflation can raise revenue while customers choose lighter items; demand cannot be read from the sales value alone."
+      "Are jewellery sales rising because people buy more, or because gold costs more?",
+      "The sales value alone cannot answer this.",
+      "Read the company’s measures of buyers, purchases and weight sold where available. Compare the same periods. Customers may buy lighter items when gold becomes dearer."
     ],
     [
-      "Does the product mix support the earnings reported?",
-      "Look at plain versus studded jewellery and analog watches versus wearables where disclosed.",
-      "Read the relevant segment commentary and reported result together. Do not substitute one brand’s positioning for a segment margin. Check pricing, discounts, marketing and exceptional or unusual effects before explaining a profit change."
+      "Which products are helping or hurting earnings?",
+      "Different jewellery and watches have different costs.",
+      "Read changes in plain-gold versus stone-set jewellery, traditional watches and wearables. Check discounts, materials and advertising rather than guessing profit from the selling price."
     ],
     [
-      "Are inventory and financing being managed together?",
-      "Understand how much money the range requires and what price exposure remains.",
-      "Compare inventory, cash flow, borrowings and gold-on-loan or hedging notes. Identify what each arrangement covers and when obligations fall due. A hedge or customer advance is not evidence that the business needs no capital or faces no risk."
+      "How is unsold stock funded?",
+      "Jewellery can tie up money before a customer buys it.",
+      "Read stock, borrowing, gold-loan and price-protection notes together. Check when repayments are due and which price risks remain."
     ],
     [
-      "Are additional stores and newer businesses earning useful returns?",
-      "Distinguish opening a location from generating sustainable profit and cash.",
-      "Compare established-store trends, new-store maturity, channel arrangements and capital spending. Read Watches, Eyecare and Others individually. A familiar group brand or an expanding network does not establish that each business is profitable."
+      "Do newer shops cover their costs?",
+      "Opening a shop and earning a return are different achievements.",
+      "Compare older shops with newer ones where disclosed, and read rent, staff, stock and investment needs. Check Watches, Eyecare and newer categories separately."
     ],
     [
-      "Are acquisitions and reporting measures comparable?",
-      "Keep standalone, consolidated, acquisition dates and bullion definitions consistent.",
-      "The FY 2025–26 presentation includes Damas after acquisition from the final quarter and excludes bullion and digi-gold from certain headline income figures. Compare the same scope and period with the statutory segment table, which uses a different revenue definition. Acquired revenue is different from growth in existing operations."
+      "Are we comparing the same businesses and sales definitions?",
+      "An acquisition or a changed definition can raise a reported total.",
+      "The cited annual presentation includes Damas after its acquisition and removes bullion and digi-gold from some headline figures. Bullion means gold sold as metal rather than finished jewellery; digi-gold involves buying gold through a digital service rather than buying a finished jewellery item. Use the same business boundary and definition when comparing years."
     ]
   ],
   "risks": [
     [
-      "Gold prices change affordability and stock needs",
-      "Rising metal prices can increase the money needed for stock and lead customers to buy differently. Pricing, funding and hedging address different parts of the exposure."
+      "Gold becomes less affordable",
+      "Dearer gold can require more money for shop stock and lead customers to buy lighter items or postpone purchases."
     ],
     [
-      "Trust or execution fails at the point of purchase",
-      "Product quality, purity, design, service and fulfilment affect customer trust. A problem at an outlet or in a range needs to be assessed for its actual scope."
+      "Quality or service damages trust",
+      "Purity, product quality, repairs and the buying experience matter. Investigate which products or shops a reported problem affects."
     ],
     [
-      "Expansion costs arrive before adequate demand",
-      "New stores, new categories and acquisitions require stock, people and investment. Slower maturity or weak demand can delay returns."
+      "Expansion costs more than it earns",
+      "New shops, product ranges or acquired businesses can need staff, stock and investment before enough customers arrive."
     ],
     [
-      "Competition changes the economics",
-      "Local jewellers, national brands and online sellers compete on design, trust, price and convenience. Watches, eyewear and newer lifestyle categories each face their own alternatives."
+      "Customers choose competitors",
+      "Local jewellers, national brands and online sellers compete on price, design and service; watches and eyewear face their own alternatives."
     ]
   ],
   "context": [
-    "An acquisition changes what a comparison includes",
-    "Titan’s FY 2025–26 results describe the completed majority acquisition of Damas and its inclusion from the acquisition period. This adds a business and customer base to the group. To understand underlying growth, distinguish acquired operations from the performance of the businesses already included in the earlier comparison."
+    "Buying another company changes the comparison",
+    "The cited annual results describe the completed majority acquisition of Damas. That brings an existing jewellery business into Titan’s reported group. Separate sales added through that purchase from growth in shops and businesses Titan already had."
   ],
   "quiz": [
-    "Can higher jewellery revenue alone prove that Titan sold more jewellery by weight?",
-    "No. Higher gold prices, different stone or product mix, larger bills, more customers and acquired operations can all change revenue. Read the quantity and transaction measures the company actually discloses, then check the matching profit and cash measures."
+    "Does a higher jewellery sales value prove that Titan sold more gold by weight?",
+    "No. Gold prices, stones, designs, purchase sizes and acquired businesses can change the sales value. Check weight or customer-purchase measures where the company provides them."
   ],
   "sources": [
     [

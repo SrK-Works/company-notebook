@@ -1037,7 +1037,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Specialty medicines",
-      "category": "Differentiated therapies",
+      "category": "Medicines for particular treatment needs",
       "image": "assets/products/sun-pharma-specialty-medicines.svg",
       "url": "https://sunpharma.com/products/",
       "kind": "illustration",
@@ -1045,7 +1045,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Generic medicines",
-      "category": "Affordable formulations",
+      "category": "Medicines based on established active ingredients",
       "image": "assets/products/sun-pharma-generic-medicines.svg",
       "url": "https://sunpharma.com/products/",
       "kind": "illustration",
@@ -1053,7 +1053,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Active pharmaceutical ingredients",
-      "category": "Medicine inputs",
+      "category": "Ingredients used to make medicines",
       "image": "assets/products/sun-pharma-active-pharmaceutical-ingredients.svg",
       "url": "https://sunpharma.com/products/",
       "kind": "illustration",
@@ -1071,7 +1071,7 @@ window.PRODUCT_VISUALS = {
   "larsen-and-toubro": [
     {
       "name": "Buildings and Factories",
-      "category": "Construction",
+      "category": "Building homes, workplaces and factories",
       "image": "assets/products/larsen-and-toubro-122.webp",
       "url": "https://www.larsentoubro.com/hyderabad-metro",
       "kind": "photo",
@@ -1079,7 +1079,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Power Transmission and Distribution",
-      "category": "Grid construction",
+      "category": "Building electricity lines and substations",
       "image": "assets/products/larsen-and-toubro-123.webp",
       "url": "https://www.larsentoubro.com/hyderabad-metro",
       "kind": "photo",
@@ -1087,7 +1087,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Hydrocarbon projects",
-      "category": "Energy EPC",
+      "category": "Designing, buying equipment for and building oil or gas facilities",
       "image": "assets/products/larsen-and-toubro-124.webp",
       "url": "https://www.larsentoubro.com/hyderabad-metro",
       "kind": "photo",
@@ -1095,7 +1095,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "L&T Renewables",
-      "category": "Renewable-energy EPC",
+      "category": "Designing and building renewable-energy projects",
       "image": "assets/products/larsen-and-toubro-125.webp",
       "url": "https://www.larsentoubro.com/hyderabad-metro",
       "kind": "photo",
@@ -1103,7 +1103,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Construction equipment",
-      "category": "Manufacturing · construction machinery",
+      "category": "Machines used on construction sites",
       "image": "assets/products/larsen-and-toubro-126.webp",
       "url": "https://www.larsentoubro.com/hyderabad-metro",
       "kind": "photo",
@@ -1111,7 +1111,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Precision Engineering and Systems",
-      "category": "Defence and aerospace manufacturing",
+      "category": "Making specialised equipment for defence and aerospace",
       "image": "assets/products/larsen-and-toubro-127.webp",
       "url": "https://www.larsentoubro.com/hyderabad-metro",
       "kind": "photo",
@@ -1119,7 +1119,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "L&T Realty",
-      "category": "Group business",
+      "category": "Property-development business within the group",
       "image": "assets/products/larsen-and-toubro-128.webp",
       "url": "https://www.larsentoubro.com/hyderabad-metro",
       "kind": "photo",
@@ -1127,7 +1127,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Technology services",
-      "category": "Group business",
+      "category": "Computer-system and engineering work for other businesses",
       "image": "assets/products/larsen-and-toubro-129.webp",
       "url": "https://www.larsentoubro.com/hyderabad-metro",
       "kind": "photo",
@@ -1203,7 +1203,7 @@ window.PRODUCT_VISUALS = {
   "tcs": [
     {
       "name": "AI and Data & Analytics",
-      "category": "Technology services",
+      "category": "Using data and software to help with decisions",
       "image": "assets/products/tcs-ai-and-data-analytics.svg",
       "url": "https://www.tcs.com/what-we-do/services/ai-data-and-analytics",
       "kind": "illustration",
@@ -1211,7 +1211,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Cloud",
-      "category": "Technology services",
+      "category": "Helping businesses use computing and storage over a network",
       "image": "assets/products/tcs-cloud.svg",
       "url": "https://www.tcs.com/what-we-do/services/cloud",
       "kind": "illustration",
@@ -1219,7 +1219,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Cognitive Business Operations",
-      "category": "Managed operations",
+      "category": "Running agreed office processes and computer systems",
       "image": "assets/products/tcs-cognitive-business-operations.svg",
       "url": "https://www.tcs.com/",
       "kind": "illustration",
@@ -1227,7 +1227,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Consulting",
-      "category": "Business and technology consulting",
+      "category": "Helping customers plan changes to their business or computer systems",
       "image": "assets/products/tcs-consulting.svg",
       "url": "https://www.tcs.com/",
       "kind": "illustration",
@@ -1235,7 +1235,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Cybersecurity",
-      "category": "Technology services",
+      "category": "Helping protect computer systems and information",
       "image": "assets/products/tcs-cybersecurity.svg",
       "url": "https://www.tcs.com/what-we-do/services/cybersecurity",
       "kind": "illustration",
@@ -1243,7 +1243,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Enterprise Solutions",
-      "category": "Business systems",
+      "category": "Installing and supporting software used to run a company",
       "image": "assets/products/tcs-enterprise-solutions.svg",
       "url": "https://www.tcs.com/",
       "kind": "illustration",
@@ -1251,7 +1251,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Industrial Autonomy & Engineering",
-      "category": "Engineering services",
+      "category": "Engineering work and software for industrial customers",
       "image": "assets/products/tcs-industrial-autonomy-engineering.svg",
       "url": "https://www.tcs.com/",
       "kind": "illustration",
@@ -1259,7 +1259,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Network Solutions and Service",
-      "category": "Connectivity services",
+      "category": "Helping connect and run computer networks",
       "image": "assets/products/tcs-network-solutions-and-service.svg",
       "url": "https://www.tcs.com/",
       "kind": "illustration",
@@ -1269,7 +1269,7 @@ window.PRODUCT_VISUALS = {
   "infosys": [
     {
       "name": "Infosys Topaz",
-      "category": "AI-first services and solutions",
+      "category": "Using data and AI-assisted software for business tasks",
       "image": "assets/products/infosys-infosys-topaz.svg",
       "url": "https://www.infosys.com/products-and-platforms.html",
       "kind": "illustration",
@@ -1277,7 +1277,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Infosys Cobalt",
-      "category": "Cloud services and platforms",
+      "category": "Helping businesses use computing and storage over a network",
       "image": "assets/products/infosys-infosys-cobalt.svg",
       "url": "https://www.infosys.com/products-and-platforms.html",
       "kind": "illustration",
@@ -1285,7 +1285,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Consulting Services",
-      "category": "Business and technology consulting",
+      "category": "Helping customers plan business and computer-system changes",
       "image": "assets/products/infosys-consulting-services.svg",
       "url": "https://www.infosys.com/products-and-platforms.html",
       "kind": "illustration",
@@ -1293,7 +1293,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Application Development and Maintenance",
-      "category": "Technology services",
+      "category": "Building, updating and fixing computer programs",
       "image": "assets/products/infosys-application-development-and-maintenance.svg",
       "url": "https://www.infosys.com/products-and-platforms.html",
       "kind": "illustration",
@@ -1301,7 +1301,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Engineering Services",
-      "category": "Product and engineering services",
+      "category": "Helping design and develop products and systems",
       "image": "assets/products/infosys-engineering-services.svg",
       "url": "https://www.infosys.com/products-and-platforms.html",
       "kind": "illustration",
@@ -1309,7 +1309,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Cyber Security",
-      "category": "Technology services",
+      "category": "Helping protect computer systems and information",
       "image": "assets/products/infosys-cyber-security.svg",
       "url": "https://www.infosys.com/products-and-platforms.html",
       "kind": "illustration",
@@ -1317,7 +1317,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Data and Analytics",
-      "category": "Technology services",
+      "category": "Organising information and finding useful patterns",
       "image": "assets/products/infosys-data-and-analytics.svg",
       "url": "https://www.infosys.com/products-and-platforms.html",
       "kind": "illustration",
@@ -1325,7 +1325,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Digital Experience",
-      "category": "Digital services",
+      "category": "Building and improving customer-facing digital services",
       "image": "assets/products/infosys-digital-experience.svg",
       "url": "https://www.infosys.com/products-and-platforms.html",
       "kind": "illustration",
@@ -1401,7 +1401,7 @@ window.PRODUCT_VISUALS = {
   "dr-reddys": [
     {
       "name": "Global Generics",
-      "category": "Generic formulations",
+      "category": "Medicines based on established active ingredients",
       "image": "assets/products/dr-reddys-global-generics.svg",
       "url": "https://www.drreddys.com/our-business",
       "kind": "illustration",
@@ -1409,7 +1409,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Biosimilars",
-      "category": "Biologic medicines",
+      "category": "Medicines developed to be highly similar to approved biological medicines",
       "image": "assets/products/dr-reddys-biosimilars.svg",
       "url": "https://www.drreddys.com/our-business",
       "kind": "illustration",
@@ -1417,7 +1417,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "API Solutions",
-      "category": "Active pharmaceutical ingredients",
+      "category": "Ingredients used to make medicines",
       "image": "assets/products/dr-reddys-api-solutions.svg",
       "url": "https://www.drreddys.com/our-business",
       "kind": "illustration",
@@ -1425,7 +1425,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Aurigene Pharmaceutical Services",
-      "category": "Discovery and contract manufacturing",
+      "category": "Research and medicine-making work for other companies",
       "image": "assets/products/dr-reddys-aurigene-pharmaceutical-services.svg",
       "url": "https://www.drreddys.com/our-business",
       "kind": "illustration",
@@ -1433,7 +1433,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Innovative Medicines",
-      "category": "New therapies",
+      "category": "Work on new medicines",
       "image": "assets/products/dr-reddys-innovative-medicines.svg",
       "url": "https://www.drreddys.com/our-business",
       "kind": "illustration",
@@ -1441,7 +1441,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Aurigene Oncology",
-      "category": "Cancer-drug research",
+      "category": "Research into cancer medicines",
       "image": "assets/products/dr-reddys-aurigene-oncology.svg",
       "url": "https://www.drreddys.com/our-business",
       "kind": "illustration",
@@ -1449,7 +1449,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Consumer Health",
-      "category": "Everyday health products",
+      "category": "Products sold for everyday health needs",
       "image": "assets/products/dr-reddys-consumer-health.svg",
       "url": "https://www.drreddys.com/our-business",
       "kind": "illustration",
@@ -1457,7 +1457,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Rebalanz",
-      "category": "Electrolyte drink",
+      "category": "A drink containing salts called electrolytes",
       "image": "assets/products/dr-reddys-rebalanz.svg",
       "url": "https://www.drreddys.com/our-business",
       "kind": "illustration",
@@ -1533,7 +1533,7 @@ window.PRODUCT_VISUALS = {
   "ntpc": [
     {
       "name": "Coal-based power",
-      "category": "Thermal electricity generation",
+      "category": "Electricity made using heat from burning coal",
       "image": "assets/products/ntpc-coal-based-power.svg",
       "url": "https://ntpc.co.in/ntpc-overview",
       "kind": "illustration",
@@ -1541,7 +1541,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Gas-based power",
-      "category": "Thermal electricity generation",
+      "category": "Electricity made using heat from burning gas",
       "image": "assets/products/ntpc-gas-based-power.svg",
       "url": "https://ntpc.co.in/ntpc-overview",
       "kind": "illustration",
@@ -1549,7 +1549,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Hydropower",
-      "category": "Renewable electricity generation",
+      "category": "Electricity generated using moving water",
       "image": "assets/products/ntpc-hydropower.svg",
       "url": "https://ntpc.co.in/ntpc-overview",
       "kind": "illustration",
@@ -1557,7 +1557,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Solar power",
-      "category": "Renewable electricity generation",
+      "category": "Electricity generated using sunlight",
       "image": "assets/products/ntpc-solar-power.svg",
       "url": "https://ntpc.co.in/ntpc-overview",
       "kind": "illustration",
@@ -1565,7 +1565,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Wind power",
-      "category": "Renewable electricity generation",
+      "category": "Electricity generated using wind",
       "image": "assets/products/ntpc-wind-power.svg",
       "url": "https://ntpc.co.in/ntpc-overview",
       "kind": "illustration",
@@ -1573,7 +1573,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Nuclear power development",
-      "category": "Emerging generation business",
+      "category": "Developing a nuclear-electricity business",
       "image": "assets/products/ntpc-nuclear-power-development.svg",
       "url": "https://ntpc.co.in/ntpc-overview",
       "kind": "illustration",
@@ -1581,7 +1581,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Coal mining",
-      "category": "Fuel supply",
+      "category": "Extracting coal used as fuel",
       "image": "assets/products/ntpc-coal-mining.svg",
       "url": "https://ntpc.co.in/ntpc-overview",
       "kind": "illustration",
@@ -1589,7 +1589,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Power trading",
-      "category": "Electricity transactions",
+      "category": "Buying and selling electricity",
       "image": "assets/products/ntpc-power-trading.svg",
       "url": "https://ntpc.co.in/ntpc-overview",
       "kind": "illustration",
@@ -1599,7 +1599,7 @@ window.PRODUCT_VISUALS = {
   "power-grid": [
     {
       "name": "Interstate transmission",
-      "category": "High-voltage power network",
+      "category": "Moving electricity between states",
       "image": "assets/products/power-grid-interstate-transmission.svg",
       "url": "https://www.powergrid.in/en/company-overview",
       "kind": "illustration",
@@ -1607,7 +1607,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "HVDC transmission",
-      "category": "Long-distance power links",
+      "category": "Moving large amounts of electricity over long distances",
       "image": "assets/products/power-grid-hvdc-transmission.svg",
       "url": "https://www.powergrid.in/en/company-overview",
       "kind": "illustration",
@@ -1615,7 +1615,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Substations",
-      "category": "Grid infrastructure",
+      "category": "Places that switch circuits and change voltage",
       "image": "assets/products/power-grid-substations.svg",
       "url": "https://www.powergrid.in/en/company-overview",
       "kind": "illustration",
@@ -1623,7 +1623,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Transmission system consultancy",
-      "category": "Power-sector advisory",
+      "category": "Helping plan electricity-transmission systems",
       "image": "assets/products/power-grid-transmission-system-consultancy.svg",
       "url": "https://www.powergrid.in/en/company-overview",
       "kind": "illustration",
@@ -1631,7 +1631,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Sub-transmission and distribution consultancy",
-      "category": "Grid advisory",
+      "category": "Helping plan networks that take electricity closer to users",
       "image": "assets/products/power-grid-sub-transmission-and-distribution-consultancy.svg",
       "url": "https://www.powergrid.in/en/company-overview",
       "kind": "illustration",
@@ -1639,7 +1639,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Load dispatch and communication",
-      "category": "Grid operations support",
+      "category": "Communication and support for coordinating the power network",
       "image": "assets/products/power-grid-load-dispatch-and-communication.svg",
       "url": "https://www.powergrid.in/en/company-overview",
       "kind": "illustration",
@@ -1647,7 +1647,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Smart-grid solutions",
-      "category": "Digital grid infrastructure",
+      "category": "Using monitoring and computer systems in electricity networks",
       "image": "assets/products/power-grid-smart-grid-solutions.svg",
       "url": "https://www.powergrid.in/en/company-overview",
       "kind": "illustration",
@@ -1655,7 +1655,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "Telecom and OPGW network",
-      "category": "Fibre connectivity",
+      "category": "Fibre connections carried along the power network",
       "image": "assets/products/power-grid-telecom-and-opgw-network.svg",
       "url": "https://www.powergrid.in/en/company-overview",
       "kind": "illustration",
@@ -2099,7 +2099,7 @@ Object.assign(window.PRODUCT_VISUALS, {
   "kanohar-electricals": [
     {
       "name": "Traction transformers",
-      "category": "Railway power equipment",
+      "category": "Adapting electricity for railway use",
       "image": "assets/products/kanohar-electricals-visual-37.webp",
       "url": "https://www.kanohar.com/transformers",
       "kind": "pack",
@@ -2107,7 +2107,7 @@ Object.assign(window.PRODUCT_VISUALS, {
     },
     {
       "name": "Scott-connected transformers",
-      "category": "Railway power-conversion equipment",
+      "category": "Adapting the power supply for railway systems",
       "image": "assets/products/kanohar-electricals-visual-38.webp",
       "url": "https://www.kanohar.com/transformers",
       "kind": "pack",
@@ -2115,7 +2115,7 @@ Object.assign(window.PRODUCT_VISUALS, {
     },
     {
       "name": "Shunt reactors",
-      "category": "Reactive-power equipment",
+      "category": "Equipment used to control voltage on power lines",
       "image": "assets/products/kanohar-electricals-visual-39.webp",
       "url": "https://www.kanohar.com/transformers",
       "kind": "pack",
@@ -2123,7 +2123,7 @@ Object.assign(window.PRODUCT_VISUALS, {
     },
     {
       "name": "Distribution transformers",
-      "category": "Distribution-network equipment",
+      "category": "Changing voltage before electricity reaches local users",
       "image": "assets/products/kanohar-electricals-visual-40.webp",
       "url": "https://www.kanohar.com/transformers",
       "kind": "pack",
@@ -2131,7 +2131,7 @@ Object.assign(window.PRODUCT_VISUALS, {
     },
     {
       "name": "Gas-insulated switchgear",
-      "category": "High-voltage switching equipment",
+      "category": "Equipment that switches and protects electrical circuits",
       "image": "assets/products/kanohar-electricals-visual-41.webp",
       "url": "https://www.kanohar.com/",
       "kind": "photo",
@@ -2139,7 +2139,7 @@ Object.assign(window.PRODUCT_VISUALS, {
     },
     {
       "name": "AIS and GIS substations",
-      "category": "Turnkey substation projects",
+      "category": "Building places that switch and route electricity",
       "image": "assets/products/kanohar-electricals-visual-42.webp",
       "url": "https://www.kanohar.com/",
       "kind": "photo",
@@ -2147,7 +2147,7 @@ Object.assign(window.PRODUCT_VISUALS, {
     },
     {
       "name": "Transmission lines",
-      "category": "Design, construction and commissioning",
+      "category": "Building power lines and checking they are ready for use",
       "image": "assets/products/kanohar-electricals-visual-43.webp",
       "url": "https://www.kanohar.com/",
       "kind": "photo",
@@ -2155,7 +2155,7 @@ Object.assign(window.PRODUCT_VISUALS, {
     },
     {
       "name": "Power transformers",
-      "category": "Transmission and power-network equipment",
+      "category": "Changing voltage for the electricity network",
       "image": "assets/products/kanohar-electricals-power-transformers.webp",
       "url": "https://www.kanohar.com/transformers",
       "kind": "pack",
@@ -2165,7 +2165,7 @@ Object.assign(window.PRODUCT_VISUALS, {
   "glass-wall-systems": [
     {
       "name": "Façade and curtain wall systems",
-      "category": "Building-envelope systems",
+      "category": "Exterior glass and wall systems for buildings",
       "image": "assets/products/glass-wall-systems-visual-44.webp",
       "url": "https://www.glasswallsystems.in/",
       "kind": "photo",
@@ -2173,7 +2173,7 @@ Object.assign(window.PRODUCT_VISUALS, {
     },
     {
       "name": "Louvers",
-      "category": "Architectural screening and ventilation",
+      "category": "Angled slats that control light or airflow",
       "image": "assets/products/glass-wall-systems-visual-45.webp",
       "url": "https://www.glasswallsystems.in/",
       "kind": "photo",
@@ -2181,7 +2181,7 @@ Object.assign(window.PRODUCT_VISUALS, {
     },
     {
       "name": "Rain screen cladding",
-      "category": "External building cladding",
+      "category": "An outer building layer that helps protect against rain",
       "image": "assets/products/glass-wall-systems-visual-46.webp",
       "url": "https://www.glasswallsystems.in/",
       "kind": "photo",
@@ -2189,7 +2189,7 @@ Object.assign(window.PRODUCT_VISUALS, {
     },
     {
       "name": "Façade design and engineering",
-      "category": "Project engineering service",
+      "category": "Planning how the exterior wall will fit and work",
       "image": "assets/products/glass-wall-systems-fa-ade-design-and-engineering.svg",
       "url": "https://www.glasswallsystems.in/products",
       "kind": "illustration",
@@ -2197,7 +2197,7 @@ Object.assign(window.PRODUCT_VISUALS, {
     },
     {
       "name": "Façade fabrication",
-      "category": "Manufacturing service",
+      "category": "Making exterior-wall parts to the agreed design",
       "image": "assets/products/glass-wall-systems-fa-ade-fabrication.svg",
       "url": "https://www.glasswallsystems.in/products",
       "kind": "illustration",
@@ -2205,7 +2205,7 @@ Object.assign(window.PRODUCT_VISUALS, {
     },
     {
       "name": "Façade installation and project management",
-      "category": "On-site delivery service",
+      "category": "Fitting the wall parts and coordinating work on site",
       "image": "assets/products/glass-wall-systems-fa-ade-installation-and-project-management.svg",
       "url": "https://www.glasswallsystems.in/products",
       "kind": "illustration",
@@ -2265,7 +2265,7 @@ Object.assign(window.PRODUCT_VISUALS, {
   "tonbo-imaging": [
     {
       "name": "Thermal imaging cores",
-      "category": "Sensor and imaging modules",
+      "category": "Parts that turn detected heat into images",
       "image": "assets/products/tonbo-imaging-thermal-imaging-cores.svg",
       "url": "https://tonboimaging.com/main/",
       "kind": "illustration",
@@ -2273,7 +2273,7 @@ Object.assign(window.PRODUCT_VISUALS, {
     },
     {
       "name": "Weapon sights",
-      "category": "Electro-optical equipment",
+      "category": "Imaging equipment used with weapons",
       "image": "assets/products/tonbo-imaging-weapon-sights.svg",
       "url": "https://tonboimaging.com/main/",
       "kind": "illustration",
@@ -2281,7 +2281,7 @@ Object.assign(window.PRODUCT_VISUALS, {
     },
     {
       "name": "Hand-held thermal imaging binoculars",
-      "category": "Observation equipment",
+      "category": "Hand-held equipment for viewing heat-based images",
       "image": "assets/products/tonbo-imaging-hand-held-thermal-imaging-binoculars.svg",
       "url": "https://tonboimaging.com/main/",
       "kind": "illustration",
@@ -2289,7 +2289,7 @@ Object.assign(window.PRODUCT_VISUALS, {
     },
     {
       "name": "Targeting systems",
-      "category": "Integrated sensing systems",
+      "category": "Equipment that combines information from sensors",
       "image": "assets/products/tonbo-imaging-targeting-systems.svg",
       "url": "https://tonboimaging.com/main/",
       "kind": "illustration",
@@ -2297,7 +2297,7 @@ Object.assign(window.PRODUCT_VISUALS, {
     },
     {
       "name": "Missile seekers",
-      "category": "Guidance and sensing systems",
+      "category": "Sensors used in missile systems",
       "image": "assets/products/tonbo-imaging-missile-seekers.svg",
       "url": "https://tonboimaging.com/main/",
       "kind": "illustration",
@@ -2305,7 +2305,7 @@ Object.assign(window.PRODUCT_VISUALS, {
     },
     {
       "name": "Fire-control systems",
-      "category": "Defence electronics",
+      "category": "Electronics used within weapon systems",
       "image": "assets/products/tonbo-imaging-fire-control-systems.svg",
       "url": "https://tonboimaging.com/main/",
       "kind": "illustration",
@@ -2313,7 +2313,7 @@ Object.assign(window.PRODUCT_VISUALS, {
     },
     {
       "name": "Command and control systems",
-      "category": "C4I solutions",
+      "category": "Software for sharing information and coordinating equipment",
       "image": "assets/products/tonbo-imaging-command-and-control-systems.svg",
       "url": "https://tonboimaging.com/main/",
       "kind": "illustration",
@@ -2321,7 +2321,7 @@ Object.assign(window.PRODUCT_VISUALS, {
     },
     {
       "name": "Special test equipment",
-      "category": "Testing and calibration",
+      "category": "Equipment for checking other devices",
       "image": "assets/products/tonbo-imaging-special-test-equipment.svg",
       "url": "https://tonboimaging.com/main/",
       "kind": "illustration",
@@ -2331,7 +2331,7 @@ Object.assign(window.PRODUCT_VISUALS, {
   "bharat-coking-coal": [
     {
       "name": "Raw coking coal",
-      "category": "Steel-industry input",
+      "category": "Coal supplied into the steel-making chain",
       "image": "assets/products/bharat-coking-coal-raw-coking-coal.svg",
       "url": "https://bcclweb.in/?page_id=4259",
       "kind": "illustration",
@@ -2339,7 +2339,7 @@ Object.assign(window.PRODUCT_VISUALS, {
     },
     {
       "name": "Washed coking coal",
-      "category": "Processed coal",
+      "category": "Coal cleaned before it is supplied",
       "image": "assets/products/bharat-coking-coal-washed-coking-coal.svg",
       "url": "https://bcclweb.in/?page_id=4259",
       "kind": "illustration",
@@ -2347,7 +2347,7 @@ Object.assign(window.PRODUCT_VISUALS, {
     },
     {
       "name": "Non-coking coal",
-      "category": "Fuel for industrial and power customers",
+      "category": "Coal used as fuel by power plants and factories",
       "image": "assets/products/bharat-coking-coal-non-coking-coal.svg",
       "url": "https://bcclweb.in/?page_id=4259",
       "kind": "illustration",
@@ -2355,7 +2355,7 @@ Object.assign(window.PRODUCT_VISUALS, {
     },
     {
       "name": "Middlings",
-      "category": "Coal-washing by-product",
+      "category": "Material separated while coal is washed",
       "image": "assets/products/bharat-coking-coal-middlings.svg",
       "url": "https://bcclweb.in/?page_id=4259",
       "kind": "illustration",
@@ -2363,7 +2363,7 @@ Object.assign(window.PRODUCT_VISUALS, {
     },
     {
       "name": "Slurry",
-      "category": "Coal-washing by-product",
+      "category": "Fine coal mixed with water during washing",
       "image": "assets/products/bharat-coking-coal-slurry.svg",
       "url": "https://bcclweb.in/?page_id=4259",
       "kind": "illustration",
@@ -2371,7 +2371,7 @@ Object.assign(window.PRODUCT_VISUALS, {
     },
     {
       "name": "Washery rejects and other washery products",
-      "category": "By-products · grade dependent",
+      "category": "Other materials separated during coal washing",
       "image": "assets/products/bharat-coking-coal-washery-rejects-and-other-washery-products.svg",
       "url": "https://bcclweb.in/?page_id=4259",
       "kind": "illustration",

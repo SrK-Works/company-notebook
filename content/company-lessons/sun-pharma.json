@@ -1,121 +1,125 @@
 {
-  "summary": "A medicine business spanning branded and generic formulations, innovative medicines, active ingredients and consumer-health offerings.",
-  "description": "Sun Pharma develops, manufactures and markets medicines across markets with different approval, pricing and distribution systems. A finished medicine, an active ingredient sold to another manufacturer and an innovative therapy have different customers, development work and commercial risks.",
-  "money": "Revenue comes from selling approved medicines and ingredients and relevant commercial arrangements. Research, clinical development, manufacturing, quality systems, distribution, promotion and licensing costs affect earnings. A pipeline project is not yet an approved, revenue-generating product.",
-  "customers": "Distributors, pharmacies, hospitals and other pharmaceutical manufacturers are commercial customers; patients, prescribers, payers and regulators influence demand and access.",
-  "drivers": "Approvals, launches, product competition, selling prices, quality compliance, research spending and the costs of supplying different markets.",
+  "summary": "Sun Pharma develops and makes finished medicines, supplies ingredients used to make medicines, and sells selected consumer-health products.",
+  "description": "A tablet, cream or injection is a finished medicine. The active ingredient is the substance inside it that produces its intended effect. Sun Pharma works in both: it supplies finished medicines through healthcare sales channels and ingredients to other medicine makers. It also spends on developing new medicines.",
+  "money": "Customers pay for medicines, ingredients or work and rights covered by specific agreements. Sun pays for research, testing, ingredients, factories, quality checks, distribution and sales. Developing a medicine can cost money long before permission to sell it is obtained, and some projects do not reach that stage.",
+  "customers": "Distributors, pharmacies, hospitals and other medicine manufacturers buy different offerings. The patient uses the medicine, but the commercial buyer can be a distributor or hospital. Doctors’ prescribing decisions and the rules of the relevant country also affect which products reach patients.",
+  "drivers": "Which products actually reach sale, what customers will pay, competition, reliable factory supply, required approvals and the cost of research and selling.",
   "groups": [
     {
-      "title": "Branded and generic finished medicines",
-      "examples": "Prescription formulations across areas including dermatology, ophthalmology, cardiology and other therapies.",
-      "explanation": "A formulation is the finished dose supplied for use. A brand name, dosage form and market approval describe different aspects of the offering."
+      "title": "Finished medicines",
+      "examples": "Tablets, creams, injections and other approved forms for skin, eye, heart and other care.",
+      "explanation": "These are supplied in a form ready for the approved use. Some carry a brand name; others are generic versions of an existing medicine, developed to meet the relevant approval requirements. The company must manufacture and supply them consistently."
     },
     {
-      "title": "Innovative medicines",
-      "examples": "Differentiated therapies developed or obtained through relevant partnerships and commercial rights.",
-      "explanation": "Development, evidence, approvals and market access can require substantial spending before sales arrive. Availability and rights differ by market."
+      "title": "New and differentiated medicines",
+      "examples": "Innovative medicines developed by Sun or sold under relevant commercial rights.",
+      "explanation": "An innovative medicine involves developing or obtaining a different treatment offering. Testing, permissions and reaching buyers can require substantial spending. The right to sell a product may cover particular countries rather than the whole world."
     },
     {
-      "title": "Active pharmaceutical ingredients",
-      "examples": "APIs used in Sun’s formulations and sold to pharmaceutical customers.",
-      "explanation": "An API is the active substance used to make a medicine. Supplying it is different from selling the finished prescription product."
+      "title": "Ingredients sold to medicine makers",
+      "examples": "Active pharmaceutical ingredients, often shortened to APIs.",
+      "explanation": "Another manufacturer can buy an ingredient and use it to make its finished medicine. The customer is buying an input, not a ready-to-use patient product. This is a different transaction from a pharmacy buying packs of tablets."
     },
     {
-      "title": "Consumer health",
-      "examples": "Selected non-prescription and consumer-health offerings, including brands in the existing catalogue.",
-      "explanation": "Consumer recognition can matter, but labels, allowed claims, product regulation and distribution still govern the business. Brand presence is not a medical recommendation."
+      "title": "Consumer-health products",
+      "examples": "Selected non-prescription and consumer-health offerings in the catalogue.",
+      "explanation": "These reach consumers through relevant retail channels. The product’s label and local rules determine how it can be sold and described; a familiar brand does not by itself explain how much the business earns."
     }
   ],
   "basics": [
     {
-      "title": "Approval, launch and commercial demand are separate stages",
-      "text": "A research programme can fail before approval. An approved product still needs manufacturing supply, distribution and access to customers. A successful launch must then earn enough to cover its commercial and development costs. None of these stages should be treated as guaranteed."
+      "title": "A generic and a new medicine start from different tasks",
+      "text": "A generic is developed as a version of an existing medicine and must meet the applicable approval standards. A new medicine can require a different programme of research and testing. Both still need manufacturing, buyers and sales that cover their costs."
+    },
+    {
+      "title": "Permission to sell is different from a sale",
+      "text": "A regulator is the authority that checks whether a medicine can be sold under the applicable rules. Approval does not mean the product is already on shelves, that buyers have ordered it or that its development costs have been recovered."
     }
   ],
   "steps": [
     {
-      "title": "Develop or obtain an offering",
-      "text": "Research a medicine, develop a generic or agree relevant rights with a partner."
+      "title": "Choose and develop the offering",
+      "text": "Work on a finished medicine, an ingredient or a product obtained through an agreement with another company."
     },
     {
-      "title": "Build evidence and obtain permission",
-      "text": "Complete required testing and regulatory submissions for the specific product and market."
+      "title": "Complete the required checks",
+      "text": "Carry out technical work and testing, then seek the necessary permissions for the product and country."
     },
     {
-      "title": "Manufacture consistently",
-      "text": "Operate validated processes, quality systems and reliable supply."
+      "title": "Make and supply consistent batches",
+      "text": "Buy inputs, make the product, test its quality and supply it through the relevant distributor or directly to the agreed business customer."
     },
     {
-      "title": "Reach the market and monitor performance",
-      "text": "Distribute through the applicable channels, support compliant use and monitor demand, quality and safety obligations."
+      "title": "Bill, collect and keep supporting supply",
+      "text": "Receive customer payments while paying factory, research and selling costs. Quality monitoring and other obligations continue after the first sale."
     }
   ],
   "specifics": [
     {
-      "title": "A generic and an innovative therapy have different economics",
-      "text": "Generics can face strong price competition as alternatives enter. Innovative products can need clinical and market-access investment and carry patent and development risk. Higher selling prices alone do not identify higher net returns."
+      "title": "Other suppliers can change a product’s earnings",
+      "text": "A successful generic can attract competing versions, putting pressure on prices. New medicines have different research, legal and selling costs. A higher selling price alone does not establish a higher profit."
     },
     {
-      "title": "Quality is a commercial requirement",
-      "text": "Inspections, manufacturing observations and corrective actions can affect a particular site or product’s supply. Read the actual finding and scope rather than assuming that an issue applies to every medicine or has no impact."
+      "title": "A factory issue can interrupt the route to a customer",
+      "text": "Regulators inspect how medicines are made. A finding may require changes or restrict supply from a particular site or for particular products. Check the actual scope rather than assuming the whole company is affected in the same way."
     },
     {
-      "title": "Research is both spending and uncertainty",
-      "text": "Pipeline counts show activity, not guaranteed future sales. Check development stage, rights, timelines, milestone obligations and whether costs are expensed or otherwise accounted for. A licensing payment and recurring product revenue are different."
+      "title": "Research announcements describe work still to be done",
+      "text": "A pipeline is the collection of products being developed. A project may need more testing, payments to partners and permission before it can earn sales. Some will fail or sell less than expected."
     }
   ],
   "watch": [
     [
-      "Which businesses and markets drive the change?",
-      "A headline total can combine very different product trends.",
-      "Read innovative medicines, generics, India and other geographical commentary on matched definitions. Do not add overlapping geographical and product views as separate businesses."
+      "Which products and countries explain the change?",
+      "Different medicine businesses can move in different directions.",
+      "Read the company’s discussion of finished medicines, innovative products, ingredients and countries. These views can overlap: a US medicine sale can also be an innovative-product sale, so do not add both as separate sales."
     ],
     [
-      "Do launches replace pressure on older products?",
-      "New products can grow while established medicines face competition.",
-      "Check approvals, actual launch timing, supply and pricing commentary. An application filed or approval received is not a completed sale."
+      "Are approved products actually reaching customers?",
+      "Permission to sell does not establish supply or demand.",
+      "Check the sale launch, factory supply, actual orders or sales and price competition. Keep applications, approvals and products already selling separate."
     ],
     [
-      "Are manufacturing and quality issues being resolved?",
-      "Supply reliability and compliance affect revenue and cost.",
-      "Read dated company and regulator disclosures by facility, product and market. Identify restrictions, remediation and subsequent evidence rather than relying on a general compliance claim."
+      "Can factories supply without restrictions?",
+      "Quality problems can interrupt deliveries and add costs.",
+      "Read dated company and regulator notices. Identify the affected factory, product and market, the work required to fix the problem and any later official decision."
     ],
     [
-      "What must be spent before new therapies earn?",
-      "Research and launch investment can precede returns by years.",
-      "Read research expense, clinical milestones, licensing obligations and commercial spending. Distinguish management targets from achieved profitability and avoid valuing every project as successful."
+      "What must be paid before new medicines earn money?",
+      "Testing and reaching buyers can require spending before sales.",
+      "Read research costs, development stages and payments promised to partners when agreed conditions are met. Compare management expectations with completed work and actual sales."
     ],
     [
-      "Do reported earnings become cash?",
-      "Stock, customer balances and acquisitions can use money.",
-      "Compare operating cash flow with profit, inventory, receivables, capital spending and licence or acquisition payments. Check currency, exceptional items and the consolidated reporting scope."
+      "Do sales produce cash after business needs?",
+      "Unsold stock and unpaid customer bills tie up money.",
+      "Compare cash from day-to-day operations with profit, stock and money customers owe. Also read factory investment, purchase-of-business payments and unusual charges before judging what cash is left."
     ]
   ],
   "risks": [
     [
-      "Price competition and product concentration",
-      "Alternative medicines, payer decisions and patent events can reduce revenue from important products."
+      "Competition or reliance on important products",
+      "New alternatives, changes in what buyers pay for and expiry of product rights can reduce sales."
     ],
     [
-      "Regulatory or quality restrictions",
-      "Inspection findings, recalls or remediation can interrupt supply and add costs."
+      "Factory or quality restrictions",
+      "Inspection findings, recalls or corrective work can interrupt supply and increase costs."
     ],
     [
-      "Development or launch disappointments",
-      "Trials, approvals, market access or demand may not support the expected return."
+      "New products disappoint",
+      "Testing can fail, permission can be delayed or customer demand can be weaker than expected."
     ],
     [
-      "Legal and commercial obligations",
-      "Patent disputes, product liabilities and licensing commitments can create uncertain costs."
+      "Legal and partner commitments",
+      "Disputes over product rights, product-related claims and payments promised in agreements can add costs."
     ]
   ],
   "context": [
-    "One approval does not open every market",
-    "Medicine permissions, commercial rights and reimbursement arrangements are market-specific. An approval announcement in one country should not be read as a worldwide launch or evidence that every patient can access the medicine."
+    "Follow each country’s permission and selling rights",
+    "A product announced in one market is not automatically available elsewhere. Check where Sun has permission and commercial rights, whether it has started selling there and how buyers pay. These steps explain why a medicine announcement is not the same as worldwide income."
   ],
   "quiz": [
-    "Does a larger research pipeline guarantee larger future profit?",
-    "No. Projects face scientific, regulatory and commercial uncertainty, and require spending. Read their stages and obligations; actual approvals, launches, demand and cash generation must follow."
+    "Does an approved medicine automatically earn back its development costs?",
+    "No. It still needs reliable supply, buyers and a selling price that covers its costs. Approval is an important step, not proof of profitable sales."
   ],
   "sources": [
     [

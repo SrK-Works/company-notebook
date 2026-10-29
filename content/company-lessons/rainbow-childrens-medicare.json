@@ -1,125 +1,125 @@
 {
-  "summary": "A specialist hospital network for children and women’s care, using larger hub hospitals, smaller spoke facilities and clinics.",
-  "description": "Rainbow Children’s Medicare provides paediatric, maternity, women’s-health and fertility services under its hospital brands. Its hub-and-spoke model brings routine and emergency services closer to patients while larger hubs support more complex care.",
-  "money": "Revenue comes from consultations, admissions, procedures and related healthcare services. The cost of specialist teams, nursing, equipment, supplies and premises must be covered while the network funds new facilities and collects bills.",
-  "customers": "Children, women and families use the services. Payments can come directly from households or through insurance and other payer arrangements, which can have different rates and collection periods.",
-  "drivers": "Operational beds, patient activity, occupancy, service mix, full-time specialist capacity, referrals, payer mix, hospital maturity and the cost of expanding into new catchments.",
+  "summary": "Rainbow Children’s Medicare runs hospitals and clinics for children and women, including maternity and fertility services.",
+  "description": "A family may visit a clinic for a consultation, use a local hospital, or need more specialised services at a larger hospital. Rainbow connects different types of facilities in a hub-and-spoke network: the larger hospital is a hub, while smaller facilities provide local services and can refer patients when required.",
+  "money": "The network bills for consultations, admissions, procedures and related services. Families can pay directly, or an insurer or other payer can cover agreed care. The company pays specialist doctors, nurses, supplies, equipment and premises costs. New facilities can need spending before they have many patients.",
+  "customers": "Children, women and families use the care. The household or an insurer or other organisation may pay the bill. Payment rates, claim checks and collection timing can differ between these arrangements.",
+  "drivers": "Services actually available, specialist staffing, patient visits and admissions, usable beds, the care provided, payer terms, the maturity of each hospital and the cost of opening new facilities.",
   "groups": [
     {
       "title": "Rainbow Children’s Hospital",
-      "examples": "Paediatric consultations, admissions, intensive care and children’s specialties.",
-      "explanation": "Age-focused care requires the relevant teams, equipment and operating processes, rather than a generic bed count."
+      "examples": "Children’s consultations, hospital stays, intensive care and specialist services.",
+      "explanation": "A visit without admission is outpatient care. Staying in hospital is inpatient care. Intensive care needs closer monitoring and the relevant teams and equipment; these services need more than an available building or bed."
     },
     {
       "title": "BirthRight by Rainbow",
-      "examples": "Maternity, obstetric, gynaecology and related women’s services.",
-      "explanation": "Services include routine and complex care according to each facility’s capabilities; a brand name does not establish clinical outcomes."
+      "examples": "Maternity, pregnancy-related care and other women’s services.",
+      "explanation": "These involve services around pregnancy and childbirth and other women’s health needs, according to the facility’s capabilities. The people, equipment and payment arrangements can differ from a children’s hospital admission."
     },
     {
-      "title": "Fertility and fetal medicine",
-      "examples": "Fertility care and specialist pregnancy-related services in the official directory.",
-      "explanation": "These involve different consultation and treatment patterns from an inpatient paediatric stay."
+      "title": "Fertility and specialist pregnancy services",
+      "examples": "Fertility care and fetal medicine listed in the official service directory.",
+      "explanation": "Fertility services relate to having children; fetal medicine concerns specialist care of the developing baby during pregnancy. Consultation and treatment patterns differ from an ordinary hospital stay. A listed service does not promise a clinical result."
     },
     {
-      "title": "Hub hospitals, spokes and clinics",
-      "examples": "A network of facilities with different roles.",
-      "explanation": "The hub handles more complex services while spokes and clinics support local access and referral. Their capacity, cost and patient mix need not be identical."
+      "title": "Larger hospitals, smaller facilities and clinics",
+      "examples": "Hubs, spokes and clinics with different service roles.",
+      "explanation": "The network can give patients local access and a route to more specialised services where needed. Not every patient must visit a larger hub, and not every site has the same services or costs."
     }
   ],
   "basics": [
     {
-      "title": "The network is intended to connect different levels of care",
-      "text": "Hub-and-spoke means smaller facilities can refer patients needing more specialised services to a larger hospital. Assess the operating pathway and capacity at each facility rather than counting all sites as equivalent."
+      "title": "Follow the patient’s route, not just the site count",
+      "text": "A clinic visit, local admission and referral to a larger hospital are different activities. Check which facility provides which services and whether its team and equipment are ready before treating all sites as equivalent."
     },
     {
-      "title": "Operational capacity needs a team",
-      "text": "A planned bed or completed building is not yet a staffed service. Specialist availability, equipment and approvals determine what can actually be delivered."
+      "title": "Who owes the money after care?",
+      "text": "Some households pay directly. With insurance or another agreement, the relevant payer may review the bill and supporting records first. The hospital still has to pay staff and suppliers while waiting for payment."
     }
   ],
   "steps": [
     {
-      "title": "Create local access",
-      "text": "Establish consultation, emergency and appropriate inpatient services in the catchment."
+      "title": "Set up the service and team",
+      "text": "Prepare the premises, permissions, equipment and qualified doctors, nurses and support staff for the facility’s role."
     },
     {
-      "title": "Coordinate specialist care",
-      "text": "Use the relevant clinical team and refer within the network when required."
+      "title": "Provide care and arrange referral where needed",
+      "text": "Receive patients for consultations or admissions and use the appropriate services. Refer patients needing other capabilities when required."
     },
     {
-      "title": "Bill the service and collect",
-      "text": "Recognise revenue for delivered care under the applicable payer terms."
+      "title": "Record services and send the bill",
+      "text": "Charge for care delivered under the applicable patient or payer terms, with the records needed for claims."
     },
     {
-      "title": "Fund quality and expansion",
-      "text": "Pay teams and suppliers, maintain facilities and invest in additional capabilities."
+      "title": "Collect and keep the network working",
+      "text": "Receive payments, cover staff and supplier costs, maintain equipment and fund new services or facilities."
     }
   ],
   "specifics": [
     {
-      "title": "Full-time consultants are part of the model",
-      "text": "The company describes full-time consultant-led teams. Understand the staffing commitment and availability it aims to support; financial scale does not demonstrate treatment effectiveness."
+      "title": "Full-time specialist teams are part of its model",
+      "text": "The company describes full-time consultant-led teams. Here a consultant is a specialist doctor, not a business adviser. Read the staffing commitment and the costs of keeping that capability available as sites expand."
     },
     {
-      "title": "New catchments need time to develop",
-      "text": "A new hospital may initially carry property, staffing and operating costs before activity builds. Read the contribution of mature and newer facilities separately where disclosed."
+      "title": "A new location needs time to develop",
+      "text": "A hospital can have premises and staff costs before many patients use it. A catchment is the surrounding area from which patients may come. Compare newer facilities with established ones where information is disclosed."
     },
     {
-      "title": "Different measures capture different parts of demand",
-      "text": "Occupancy relates to occupied operational beds; consultations and maternity or fertility activity capture other services. A change in one measure need not describe the whole network."
+      "title": "Bed use does not capture every service",
+      "text": "Occupancy measures use of defined operational bed capacity over time. Consultations and some maternity or fertility services are different activity measures. None by itself establishes the quality or outcome of care."
     }
   ],
   "watch": [
     [
-      "How are hubs and spokes working together?",
-      "Facility count alone misses the operating model.",
-      "Read the service capability, referral role and maturity of each type of site. Look at whether new facilities add useful access and appropriate referrals without assuming every patient or service must move through a hub."
+      "Do the different facilities work as a useful network?",
+      "Counting sites misses their different jobs.",
+      "Read each type of facility’s services and referral role. Check which sites are already serving patients, while recognising that not every service needs a visit to a larger hospital."
     ],
     [
-      "Are new beds operational and used?",
-      "Announced capacity is different from staffed capacity.",
-      "Check commissioning, operational beds and occupancy definitions over comparable periods. Separate expansions still being developed from facilities already serving patients, and consider seasonal changes in paediatric activity."
+      "Are announced beds ready and being used?",
+      "Planned capacity differs from staffed capacity.",
+      "Compare operational beds, patient admissions and occupancy on the same definition. Separate sites still being developed and consider seasonal changes in children’s patient activity."
     ],
     [
-      "What drives revenue per occupied bed or patient?",
-      "Case complexity and payer mix affect averages.",
-      "Read average length of stay, inpatient/outpatient mix, maternity and specialty commentary alongside pricing. These measures explain business mix; none should be used alone as a clinical-quality indicator."
+      "Why has average revenue per bed or patient changed?",
+      "Care needs and payer agreements change the average.",
+      "Read consultations, admissions, length of stay, maternity and specialist activity alongside pricing and payer types. An average business measure is not every patient’s bill or a clinical-quality measure."
     ],
     [
-      "Can teams and quality systems support expansion?",
-      "Specialist services depend on people and processes.",
-      "Use official staffing, accreditation and compliance disclosures. Read the actual scope of any regulatory or quality issue and the response; avoid equating a hospital brand, high occupancy or a technology purchase with better outcomes."
+      "Can the company staff and run additional sites reliably?",
+      "Specialist services need qualified people and workable systems.",
+      "Check staffing, permissions, accreditation (assessment against specified standards) and any dated quality or regulatory notices. Read the facility and scope involved; a brand name or equipment purchase alone does not establish better outcomes."
     ],
     [
-      "Does expansion preserve cash and returns?",
-      "New facilities can use cash before maturing.",
-      "Compare operating cash flow, patient receivables, leases and development spending with the activity of older hospitals. A new city announcement is not evidence of a return until its costs and operating performance are demonstrated."
+      "Is expansion leaving enough money to run the hospitals?",
+      "New facilities can need money before they become busy.",
+      "Compare cash from day-to-day operations with customer bills still unpaid, property commitments and development spending. Read newer-site activity separately from established hospitals where possible."
     ]
   ],
   "risks": [
     [
-      "Specialist staffing",
-      "Recruitment or retention issues can constrain service capacity."
+      "Specialist staff are hard to recruit or retain",
+      "The absence of qualified teams can restrict services and usable capacity."
     ],
     [
-      "Demand and payer mix",
-      "Seasonality, local competition and contract terms can alter activity and realised revenue."
+      "Patient demand and payer terms change",
+      "Seasonal activity, local competition and payment agreements can affect visits, admissions and income."
     ],
     [
-      "Quality and compliance",
-      "Clinical, safety and regulatory problems can disrupt operations and damage trust."
+      "Care or compliance problems arise",
+      "Safety and regulatory issues can interrupt operations, create claims and damage trust."
     ],
     [
-      "Ramp-up costs",
-      "New hospitals can take time to build utilisation while fixed costs continue."
+      "New facilities remain quiet longer than expected",
+      "Staffing and property costs can continue before patient activity covers them."
     ]
   ],
   "context": [
-    "A hub announcement and a working hub are different",
-    "The company’s dated expansion releases describe plans as well as operating additions. Keep agreement signing, commissioning and ongoing patient activity separate when assessing the network’s development."
+    "A signed expansion agreement is an early stage",
+    "An agreement still needs to become a usable facility with permissions, equipment, staff and patients. Keep plans, openings and ongoing patient activity separate when following the network into a new location."
   ],
   "quiz": [
-    "Does an additional hospital mean the network has gained an equally mature earning unit?",
-    "No. New sites can differ in services, staffing, referral role and utilisation. Read their maturity and cost alongside the established network."
+    "Does another hospital site immediately add the same earnings as an established one?",
+    "No. Services, staffing, patient activity and costs can differ. A newer hospital may need time and spending before it serves enough patients to cover its costs."
   ],
   "sources": [
     [

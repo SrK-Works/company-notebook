@@ -22,7 +22,7 @@ test('ITC extension preserves HUL and all other profiles, visuals, guides and fi
 });
 test('ITC teaches all businesses and avoids invented brand profit or subsidiary attribution',()=>{
  const basics=c.companyPrimer.render(itc,'basics'),specifics=c.companyPrimer.render(itc,'specifics'),numbers=c.companyPrimer.render(itc,'numbers');
- for(const label of ['Cigarettes','Other consumer goods','Agri business','Paperboards, paper and packaging','Technology services through ITC Infotech'])assert.ok(basics.includes(label),label);
+ for(const label of ['Cigarettes','Other consumer goods','Agricultural products','Paperboards, paper and packaging','Technology services through ITC Infotech'])assert.ok(basics.includes(label),label);
  assert.match(specifics,/associate/);assert.match(specifics,/inter-segment revenue/);
  assert.match(numbers,/₹83\.74/);assert.match(numbers,/₹7\.17/);
  assert.match(numbers,/₹90,713/);assert.match(numbers,/₹9,846/);assert.match(numbers,/₹80,867/);

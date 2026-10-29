@@ -1,126 +1,135 @@
 {
-  "summary": "A group connecting energy and materials with Jio connectivity, retail, media and investment in new-energy manufacturing.",
-  "description": "Reliance serves several different markets. It processes and supplies fuels and materials, produces oil and gas, operates digital services, sells merchandise through retail channels and participates in media and entertainment. New-energy investments add another development task rather than making every activity a single business model.",
-  "money": "Consumer businesses earn through retail purchases, connectivity subscriptions and relevant digital or media services. Energy and materials businesses earn under commodity and industrial supply conditions. Operating costs, network and factory investment, financing and ownership structures differ across these activities.",
-  "customers": "Households, telecom and broadband users, retail shoppers, advertisers, content audiences and industrial or energy customers.",
-  "drivers": "Commodity spreads, demand and utilisation, subscriber spending, retail productivity, content costs, capital investment and the terms of group partnerships.",
+  "summary": "Reliance includes Jio mobile and broadband, shops and online retail, media, fuels and industrial materials, oil and gas production, and projects to make solar and energy-storage equipment.",
+  "description": "A household may pay for a Jio connection or buy something from a group shop. A factory may buy materials that Reliance makes from oil. These businesses serve different needs: putting them under the same group does not make their costs or ways of earning the same.",
+  "money": "Customers pay for goods, connectivity, content or industrial supplies. The group pays for crude oil and other inputs, shop stock, workers, networks, factories, delivery and content. It also spends to build new capacity. A sale or subscription has to cover the relevant costs before it contributes profit.",
+  "customers": "Mobile and broadband subscribers, retail shoppers, media subscribers and advertisers, and companies buying fuels, chemicals, materials or oil and gas. The paying customer and the product supplied differ across these businesses.",
+  "drivers": "Demand, selling prices compared with input costs, repeat shoppers and subscribers, use of plants and networks, and the spending required to maintain or expand them.",
   "groups": [
     {
-      "title": "Energy and materials",
-      "examples": "Oil-to-Chemicals fuels, polymers and polyester-related materials, alongside the separate upstream oil-and-gas business.",
-      "explanation": "Processing crude into products is different from extracting oil or gas. Prices, input costs and production conditions affect them differently."
+      "title": "Fuels and materials made from oil",
+      "examples": "Transportation fuels, materials used to make plastics, and polyester-related materials.",
+      "explanation": "A refinery processes crude oil into products such as transport fuels. Chemical plants make materials that other manufacturers use. A material buyer pays for the specified product; the company must cover crude or other inputs and the cost of operating its plants."
     },
     {
-      "title": "Retail",
-      "examples": "Grocery, electronics, fashion and beauty channels, including relevant store networks and digital commerce platforms.",
-      "explanation": "Buying, stocking and selling goods creates merchandise margins and operating costs. Individual retail brands and formats need not have separate published profits."
+      "title": "Oil and gas taken from underground",
+      "examples": "The separate oil-and-gas exploration and production business.",
+      "explanation": "Exploration means looking for deposits; production means extracting and supplying oil or gas. This differs from buying crude and processing it. What can be extracted, at what cost, and the selling price affect the business."
     },
     {
-      "title": "Digital services",
-      "examples": "Jio mobile connectivity, home broadband and business digital services.",
-      "explanation": "A network needs spectrum, equipment, investment and service reliability. Subscribers and traffic must translate into revenue and cash after those costs."
+      "title": "Shopping in stores or online",
+      "examples": "Grocery, electronics, fashion, beauty and other retail formats.",
+      "explanation": "Imagine a customer buying food or a phone. The retailer buys or arranges merchandise, keeps stock, serves the customer and delivers where needed. The selling price must cover the goods as well as shops, staff, storage and other costs."
     },
     {
-      "title": "Media and entertainment",
-      "examples": "Relevant JioStar, studios, news and other media operations within the group’s disclosed structure.",
-      "explanation": "Content rights, advertising, subscriptions, distribution and partner interests affect economics. Changes in the perimeter can make historical comparisons difficult."
+      "title": "Jio connections and digital services",
+      "examples": "Mobile service, home broadband and business digital services.",
+      "explanation": "The customer pays for a connection or service. The network needs equipment, maintenance and permission to use radio frequencies, called spectrum. Adding users helps only if their payments support service and investment costs."
     },
     {
-      "title": "New energy",
-      "examples": "Solar manufacturing, storage and green-hydrogen-related development.",
-      "explanation": "Announced capacity, construction, commissioning, output and paying customers are distinct stages. Investment is not the same as operating profit."
+      "title": "Media: content and audiences",
+      "examples": "JioStar, studio, news and related media operations within the group’s stated structure.",
+      "explanation": "Viewers may pay for access to programmes, while advertisers pay to reach audiences. Making programmes or buying the right to show them costs money. The group can share ownership with partners, so check which company’s business is being described."
+    },
+    {
+      "title": "New energy: developing equipment and production",
+      "examples": "Solar manufacturing, energy storage and green-hydrogen-related development.",
+      "explanation": "Solar panels help generate electricity and storage equipment holds energy for later use. Green hydrogen means hydrogen made using renewable electricity. Building these capabilities is followed by testing, regular production and finding paying customers; an announced project is not already a successful operating business."
     }
   ],
   "basics": [
     {
-      "title": "Begin with the customer for each business",
-      "text": "A mobile subscriber buys connectivity; a retailer sells a shopping basket; an industrial buyer buys material or energy. Different customers create different pricing, costs and capital requirements. A familiar app or store does not reveal how much it contributes to the wider group."
+      "title": "A higher selling price does not always mean more profit",
+      "text": "If crude oil costs more, the fuels made from it may sell for more too. What matters is the relationship between the cost of inputs and the price of outputs, together with the cost of running the plants."
+    },
+    {
+      "title": "One group can contain partly owned companies",
+      "text": "A subsidiary is a company the group controls. Some businesses also have outside investors or are owned jointly with partners. Their arrangements affect what is included in the accounts and how much profit belongs to the parent company’s owners."
     }
   ],
   "steps": [
     {
-      "title": "Build the required capability",
-      "text": "Invest in refineries, production assets, networks, stores or other infrastructure appropriate to the business."
+      "title": "Build or arrange what the business needs",
+      "text": "Operate plants, networks, stores or content services appropriate to the customer’s need."
     },
     {
-      "title": "Source, produce or distribute",
-      "text": "Arrange inputs, develop offerings and deliver products or services through the relevant channel."
+      "title": "Produce goods or deliver a service",
+      "text": "Process inputs, stock merchandise, provide connectivity or make content available."
     },
     {
-      "title": "Win and serve demand",
-      "text": "Earn purchases, subscriptions or industrial orders at commercially workable prices."
+      "title": "Receive purchases, orders or subscriptions",
+      "text": "Supply the customer and record the sale or service under its terms. Some customers pay immediately; other business sales have agreed payment dates."
     },
     {
-      "title": "Collect and allocate cash",
-      "text": "Pay operating costs, finance investment and decide how much to reinvest, borrow or distribute."
+      "title": "Pay costs and fund future work",
+      "text": "Cover inputs, staff and other running bills, then meet maintenance, expansion and financing commitments. The group must decide which businesses receive more investment."
     }
   ],
   "specifics": [
     {
-      "title": "A commodity price is not the processing margin",
-      "text": "Oil-to-Chemicals depends on the relationship between feedstock costs and the prices of products sold, along with product mix and utilisation. Higher crude prices can raise the sales value without an equivalent improvement in earnings."
+      "title": "Refining and extracting oil are different businesses",
+      "text": "A producer benefits differently from a price change than a plant buying crude to make fuel. Read each activity’s costs and selling conditions instead of assuming all oil-related businesses move together."
     },
     {
-      "title": "Digital reach and retail reach need different checks",
-      "text": "For connectivity, examine subscribers, customer spending, retention and network investment. For retail, examine sales productivity, stock and fulfilment. Registered customers or traffic alone do not establish the profit generated."
+      "title": "A busy shop and a busy network need different checks",
+      "text": "For retail, ask whether customers buy enough stock to cover shop and delivery costs. For Jio, ask whether subscriber payments cover service and network needs. Registered accounts or visitor counts alone do not answer either question."
     },
     {
-      "title": "Partnerships change who receives the economics",
-      "text": "Subsidiaries, joint ventures and non-controlling investors create different reporting boundaries. Understand which entity owns an operation and the basis of a reported business highlight before treating it as profit fully attributable to Reliance owners."
+      "title": "A new project needs more than an opening announcement",
+      "text": "Building a factory is followed by testing, regular production, acceptable quality and customer purchases. Starting operations does not by itself show that the investment has earned its cost back."
     }
   ],
   "watch": [
     [
-      "What is driving the energy and materials cycle?",
-      "Revenue can move with commodity prices as well as physical activity.",
-      "Read feedstock and product-spread commentary, production, utilisation and segment earnings. Separate upstream production economics from refining and petrochemicals."
+      "What is changing the earnings from fuels and materials?",
+      "Input prices and product prices can move differently.",
+      "Read plant activity, input costs, product selling prices and the company’s explanation of what remains between them. Keep extracting oil or gas separate from processing bought crude into fuels and materials."
     ],
     [
-      "Is digital growth paying for network needs?",
-      "A bigger customer base still requires substantial investment.",
-      "Read subscriber quality, average revenue per user on its stated basis, service costs, spectrum obligations and capital spending. A higher EBITDA figure does not remove depreciation or funding needs."
+      "Do Jio customers support the cost of the network?",
+      "More subscribers still require reliable service and investment.",
+      "Read active customers, payments per user on the stated basis, service costs and network spending. Check spectrum payment commitments and equipment costs rather than treating a headline earnings measure as freely available cash."
     ],
     [
-      "Are retail sales productive and cash-generative?",
-      "More stores and online activity can carry more costs.",
-      "Compare revenue basis, merchandise and format mix, inventory, store productivity and operating expenses. Check whether quoted sales include taxes or other presentation differences."
+      "Are stores and online retail selling stock usefully?",
+      "More outlets can add costs as well as customers.",
+      "Read sales per store where disclosed, product types, unsold stock and running costs. Check whether quoted sales include tax and whether the business needs extra storage, delivery or promotional spending."
     ],
     [
-      "Are media and new-energy comparisons meaningful?",
-      "Changed entities and development stages can distort a headline.",
-      "Identify acquisitions, combinations, partner interests and the comparable period. Distinguish new-energy targets, commissioned assets and actual commercial output."
+      "What stage have media and new-energy changes reached?",
+      "A new partnership or factory changes more than a brand name.",
+      "Check which company owns the operation, what partners own and whether comparisons cover the same businesses. For new factories, distinguish plans and construction from actual products sold to customers."
     ],
     [
-      "Does the group fund growth sustainably?",
-      "Several businesses can need cash simultaneously.",
-      "Read operating cash flow, investment spending, debt, lease and spectrum obligations, minority interests and capital commitments. Do not treat EBITDA as cash available to shareholders."
+      "Can the group fund several businesses at once?",
+      "Factories, shops, networks and content can all require money.",
+      "Read cash from operating businesses alongside investment, borrowing, shop rentals and spectrum commitments. Check amounts owed to other owners and future spending promises before treating a headline profit figure as cash available to distribute."
     ]
   ],
   "risks": [
     [
-      "Commodity and demand cycles",
-      "Energy-product spreads, industrial demand and feedstock prices can move adversely."
+      "Input prices or demand turn unfavourable",
+      "Fuel and material prices can leave less after buying inputs and running plants."
     ],
     [
-      "Large investment needs",
-      "Networks, stores and manufacturing projects can require funding before they generate enough cash."
+      "Large projects need prolonged funding",
+      "Factories, networks and shops can use cash before sales cover their costs."
     ],
     [
-      "Competition and execution",
-      "Telecom, retail and media face changing customer preferences, regulation and strong competitors."
+      "Customers choose competitors",
+      "Retail, connectivity and media need useful selection, reliable service and workable prices."
     ],
     [
-      "Group and reporting complexity",
-      "Partnerships, restructurings and overlapping business presentations can obscure the earnings attributable to the listed group."
+      "Group arrangements become hard to compare",
+      "Acquisitions, partnerships and partly owned companies can change which sales and earnings belong in each reported figure."
     ]
   ],
   "context": [
-    "Commissioning is a milestone, not the end of an investment test",
-    "A plant or network becoming operational enables sales but does not establish demand, efficient utilisation or a satisfactory return. Follow its output, customer adoption, cash costs and continuing investment after the opening announcement."
+    "Follow the customer’s payment through the relevant business",
+    "A Jio recharge pays for connectivity, a shop purchase pays for merchandise, and an industrial order pays for specified materials. Start with that job and its costs, then use the final financial section to compare the activities without adding overlapping group figures."
   ],
   "quiz": [
-    "Can the revenue figures from every Reliance business highlight be added and called consolidated revenue?",
-    "Not safely. Highlights can use different presentations, include inter-business activity or omit other operations. Use the official consolidated reconciliation and retain each figure’s stated scope."
+    "Can sales numbers from every Reliance business presentation simply be added together?",
+    "Not safely. They can use different definitions, include transactions within the group or cover different companies. Use the group’s own reconciliation to avoid counting the same activity twice."
   ],
   "sources": [
     [

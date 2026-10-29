@@ -1,121 +1,126 @@
 {
-  "summary": "A connectivity group offering mobile service, home broadband, television and enterprise networks, with businesses in India and overseas.",
-  "description": "Bharti Airtel builds and operates networks that let households and businesses communicate and use digital services. Customers pay for continuing access, while the network requires spectrum, equipment, energy, maintenance and investment.",
-  "money": "Revenue comes from subscriptions, usage and enterprise services. Customer numbers, spending, retention and service mix matter alongside network running costs, spectrum obligations and capital investment.",
-  "customers": "Mobile users, households, enterprises and wholesale/network customers across the relevant markets and group entities.",
-  "drivers": "Average spending, customer quality and retention, broadband adoption, enterprise demand, network investment, regulation and currency.",
+  "summary": "Mobile calling and data, home internet, television and business connections, with African operations and the group’s tower-infrastructure business.",
+  "description": "Airtel provides the networks and services that let customers make calls, use the internet and connect workplaces. For example, a household may buy a home-internet plan while a company pays to link its offices. Airtel must keep those connections working. Its group also includes African mobile and mobile-money operations and Indus Towers.",
+  "money": "People and businesses pay for plans, connections and related services. The group also earns from telecom infrastructure. It pays for network equipment, power, maintenance, staff, customer support and rights to use radio frequencies, plus borrowing and other costs. A customer’s recharge is not all profit.",
+  "customers": "Individual mobile users, households, organisations buying business connections, African mobile and mobile-money users, and telecom operators using tower sites. The customer and payment arrangement differ across these activities.",
+  "drivers": "Paying customers, plan prices, customers leaving, service reliability, network and energy costs, further equipment spending and conditions in overseas countries.",
   "groups": [
     {
-      "title": "Mobile connectivity",
-      "examples": "Prepaid and postpaid mobile plans and data services.",
-      "explanation": "The customer pays for service over time. More data consumption does not automatically produce the same increase in revenue."
+      "title": "Mobile calling and internet",
+      "examples": "Prepaid and postpaid plans and mobile data.",
+      "explanation": "Prepaid users recharge before using the covered service; postpaid users pay under a billing arrangement. Airtel must provide the promised connection and capacity. More videos watched do not automatically mean more money paid."
     },
     {
-      "title": "Homes and television",
-      "examples": "Home broadband, wireless home access where offered and digital television.",
-      "explanation": "Installation, network reach, household adoption and retention influence these economics."
+      "title": "Home internet and television",
+      "examples": "Broadband, wireless home access where offered and digital TV.",
+      "explanation": "The household pays for a connection or subscription. Installing equipment, keeping the service working and providing support create costs beyond simply signing up the customer."
     },
     {
-      "title": "Enterprise and network services",
-      "examples": "Airtel Business connectivity and related solutions for organisations.",
-      "explanation": "A corporate network contract has different service obligations, pricing and credit terms from an individual prepaid plan."
+      "title": "Connections for organisations",
+      "examples": "Airtel Business connectivity and related services.",
+      "explanation": "For example, a business may need reliable links between workplaces. It pays for an agreed service, with requirements for installation, support and performance that differ from an individual phone plan."
     },
     {
-      "title": "Overseas operations and related services",
-      "examples": "African mobile and mobile-money activities and other relevant group operations.",
-      "explanation": "Country conditions, currencies, licences and entity ownership affect the consolidated result; an India plan does not represent the whole group."
+      "title": "African services",
+      "examples": "Mobile services and mobile-money activities.",
+      "explanation": "Mobile money lets users hold or move money through the service. Customer balances are not the same as Airtel’s earned fees. Local rules and currencies affect these businesses."
+    },
+    {
+      "title": "Tower sites through Indus Towers",
+      "examples": "Towers, power and space for telecom equipment.",
+      "explanation": "Telecom operators need structures and sites on which to place equipment, with a power supply. Indus provides this physical support under customer arrangements. It is a different service from selling a phone plan."
     }
   ],
   "basics": [
     {
-      "title": "A network must be funded before and during use",
-      "text": "Spectrum gives rights to use radio frequencies; equipment and fibre carry the service. Licence rights and installed capability do not themselves guarantee paying customer demand."
+      "title": "What has to exist before a phone can connect?",
+      "text": "The network needs radio-frequency rights, called spectrum, and equipment and fibre links that carry signals and data. The group must obtain permissions, install equipment and keep it working. A coverage map alone does not show how many paying customers use it."
     }
   ],
   "steps": [
     {
-      "title": "Secure rights and build coverage",
-      "text": "Arrange spectrum and network infrastructure under the relevant regulatory permissions."
+      "title": "Arrange permissions, sites and equipment",
+      "text": "Obtain the required rights and build or use the network facilities needed to connect customers."
     },
     {
-      "title": "Connect customers",
-      "text": "Sell and activate plans, connections or enterprise services through appropriate channels."
+      "title": "Connect a paying customer",
+      "text": "Activate the plan, install a home connection or complete a business installation under the agreed terms."
     },
     {
-      "title": "Operate reliably",
-      "text": "Maintain coverage, capacity, service quality, energy and security as traffic grows."
+      "title": "Keep the service usable",
+      "text": "Maintain equipment, power, enough capacity for traffic and customer support. Interruptions or poor service can cause customers to leave."
     },
     {
-      "title": "Collect and reinvest",
-      "text": "Service receipts must cover operations, financing and the next round of network spending."
+      "title": "Collect payments and fund the network",
+      "text": "Recharges, bills and contract payments must cover service costs and other obligations. Equipment upgrades and further network construction need cash as well."
     }
   ],
   "specifics": [
     {
-      "title": "ARPU is an average",
-      "text": "Average revenue per user can change through tariffs, plan mix and the mix of customers. Read the definition and geography; a higher average does not say every user pays more."
+      "title": "Average customer spending is not every customer’s bill",
+      "text": "ARPU means average revenue per user under the company’s stated definition. It can change because prices rise or because a different set of customers and plans is included. Check the country and business covered."
     },
     {
-      "title": "Cash needs go beyond operating earnings",
-      "text": "Network upgrades, spectrum payments and leases require funding. EBITDA is not cash left after these requirements."
+      "title": "An operating earnings measure leaves costs still to pay",
+      "text": "EBITDA is earnings before interest, tax and the accounting charges for equipment and other assets losing value over time. It is not money left after buying equipment, paying for spectrum or meeting all borrowing and lease obligations."
     },
     {
-      "title": "India and overseas results need currency discipline",
-      "text": "Local growth and the rupee result can diverge because of exchange rates. Mobile-money balances and customer activity measures are also different from earned revenue."
+      "title": "The group includes more than India phone plans",
+      "text": "African currencies can change the rupee value of results. Tower services and mobile money also earn differently from phone plans. Compare the same businesses and ownership arrangements across periods."
     }
   ],
   "watch": [
     [
-      "Are customers staying and paying for useful service?",
-      "Subscriber quality matters alongside count.",
-      "Read active-customer definitions, additions and churn with ARPU and service quality. Churn means customers leaving; compare the same geography and period rather than mixing group and India mobile measures."
+      "Are customers staying and paying?",
+      "A subscriber count alone cannot show a useful customer relationship.",
+      "Read active-user definitions, customer additions and customers leaving, alongside average spending and service quality. Compare the same business and country."
     ],
     [
-      "What drives the change in average spending?",
-      "Tariffs and customer mix can affect ARPU.",
-      "Compare tariff actions, prepaid/postpaid mix and usage with the company’s ARPU definition. Separate more paying users from higher revenue per user; neither alone explains the whole earnings change."
+      "Why did average spending change?",
+      "Higher plan prices and different customers can both change the average.",
+      "Read price changes, prepaid and postpaid plans, and the ARPU definition. Separate more paying users from more revenue per user."
     ],
     [
-      "Does network spending improve useful capacity?",
-      "Coverage announcements are not returns.",
-      "Read capital expenditure, deployment, utilisation and quality alongside customer growth and cash flow. Spectrum purchase, payment timing, leases and network equipment can have different accounting and cash effects."
+      "Does network spending serve actual customer needs?",
+      "Equipment installed is different from customers paying to use it.",
+      "Read spending, service quality and actual connection use together. Check the payment dates for spectrum, equipment and leased sites rather than treating operating earnings as spare cash."
     ],
     [
-      "Are homes and enterprise services expanding sensibly?",
-      "Installation and contract economics differ.",
-      "Follow broadband adoption, enterprise revenue and relevant costs and receivables. A connection passed by the network is different from an activated paying household."
+      "Do home and business connections cover their costs?",
+      "Installation and support can require money before payments arrive.",
+      "Compare paying connections with homes the network could reach. For business customers, read sales, promised support and bills still unpaid."
     ],
     [
-      "How do country and ownership changes affect the group?",
-      "Currencies and licences influence comparison.",
-      "Read local-currency and reported growth, country risks, subsidiary interests and consolidation changes. Do not replace Bharti Airtel’s group figures with Airtel Africa’s local statement or an India-mobile metric."
+      "Which countries and companies does the comparison include?",
+      "Currency and ownership changes can alter group totals.",
+      "Compare local-currency and rupee results and check when companies enter group accounts. Keep Airtel Africa, India mobile and whole-group measures distinct."
     ]
   ],
   "risks": [
     [
-      "Pricing and retention pressure",
-      "Rivals can influence tariffs, acquisition costs and customer movement."
+      "Customers switch or prices come under pressure",
+      "Competing plans can make it harder to keep customers without discounts or extra spending."
     ],
     [
-      "Continual capital needs",
-      "Spectrum, network upgrades and leases can use substantial cash even during profitable operations."
+      "The network keeps requiring cash",
+      "Spectrum, equipment upgrades and leased sites can require payments even while the business reports profit."
     ],
     [
-      "Regulatory and service disruption",
-      "Licence conditions, cybersecurity, outages and compliance failures can affect trust and operations."
+      "Connections or systems fail",
+      "Outages, security problems and breaches of licence conditions can interrupt service and damage trust."
     ],
     [
-      "Currency and country exposure",
-      "Inflation, political conditions and exchange movements can alter overseas performance and reported earnings."
+      "Overseas conditions change",
+      "Currency movements, inflation and local rules can change costs and reported results."
     ]
   ],
   "context": [
-    "A bundled household is still several operating jobs",
-    "A customer can buy mobile, home connectivity and television together. Bundling may support retention, but the company still has to install, operate and support the underlying services at an acceptable cost."
+    "A bundled bill still covers several jobs",
+    "A household may buy mobile, home internet and television together. The company still has to install and run each service. Keeping a household longer helps only if the payments cover those costs and obligations."
   ],
   "quiz": [
-    "Is EBITDA the money available after paying for all network expansion?",
-    "No. Depreciation, financing, taxes, spectrum, leases and capital spending need separate examination. EBITDA and free cash available are different measures."
+    "Is EBITDA the cash left after paying for all network expansion?",
+    "No. It leaves important costs and cash payments outside the measure. Check equipment spending, spectrum, leases, borrowing and tax separately."
   ],
   "sources": [
     [
@@ -125,6 +130,10 @@
     [
       "Official annual-report library",
       "https://www.airtel.in/about-bharti/equity/results/annual-results"
+    ],
+    [
+      "Indus Towers: tower, power and space services",
+      "https://www.industowers.com/offerings/"
     ]
   ],
   "financialNotes": [

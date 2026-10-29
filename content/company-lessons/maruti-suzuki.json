@@ -1,121 +1,121 @@
 {
-  "summary": "A passenger-vehicle manufacturer whose cars reach customers through ARENA, NEXA and related sales and service channels.",
-  "description": "Maruti Suzuki India develops, manufactures and supplies vehicles, parts and related offerings for domestic and export markets. A dealer sale, an export shipment and a service visit are connected activities but are not the same transaction.",
-  "money": "Vehicle and related-product sales generate revenue. Units sold, model mix, realised prices, discounts, materials, production efficiency and investment in new technology affect earnings.",
-  "customers": "Vehicle buyers and businesses served through dealers and related channels, alongside export customers. The manufacturer’s immediate customer can differ from the person registering the car.",
-  "drivers": "Demand, financing affordability, model mix, discounts, material costs, production capacity, exports and technology investment.",
+  "summary": "The manufacturer behind cars sold through ARENA and NEXA, with parts, servicing-related offerings and exports.",
+  "description": "Maruti Suzuki India designs or develops vehicles, arranges components, builds cars and supplies dealers or export buyers. For example, a household may choose a family car at a dealership. The manufacturer builds and supplies it; the dealer handles the customer sale under its arrangement. Later parts and service needs are related work, but separate purchases.",
+  "money": "The company receives payment for vehicles, parts and related goods or services. It pays for components, workers, factories, transport, developing models, advertising and promised repairs. The difference between a car’s showroom price and its material cost is not all manufacturer profit.",
+  "customers": "Dealers and export buyers that receive cars from the manufacturer, and people or businesses eventually buying those vehicles. A dealer buying a car and a driver registering it are different stages.",
+  "drivers": "How many cars buyers want, which models they choose, discounts, loan affordability, component costs, factory output and the cost of developing future vehicles.",
   "groups": [
     {
       "title": "Passenger vehicles",
-      "examples": "Swift, Dzire, WagonR, Ertiga and other models for different budgets and uses.",
-      "explanation": "A hatchback, sedan or multi-purpose vehicle can have different features, selling prices and costs."
+      "examples": "Swift, Dzire, WagonR, Ertiga and other models.",
+      "explanation": "These carry people for different needs and budgets. A small hatchback, a sedan with a separate boot and a larger family vehicle have different features, prices and costs."
     },
     {
-      "title": "Sales channels",
-      "examples": "ARENA and NEXA, with commercial-vehicle and institutional channels.",
-      "explanation": "These are routes to buyers, not separate manufacturers or automatically separate profit divisions."
+      "title": "Routes to buyers",
+      "examples": "ARENA, NEXA and commercial or institutional sales routes.",
+      "explanation": "These are ways of reaching customers, not separate car manufacturers. Their names do not by themselves identify separate reported profits."
     },
     {
-      "title": "Ownership support",
-      "examples": "Genuine parts, accessories, authorised service and related customer programmes.",
-      "explanation": "Availability and after-sales experience affect trust and the next purchase; partner and dealer arrangements matter."
+      "title": "Keeping a vehicle in use",
+      "examples": "Genuine parts, accessories, authorised service and related programmes.",
+      "explanation": "Owners need parts, maintenance and repairs after buying a car. Dealers and partners can carry out some of that work; not every payment made at a service outlet belongs to the manufacturer."
     },
     {
-      "title": "Pre-owned and export activity",
-      "examples": "True Value used-car channels and vehicles supplied to overseas markets.",
-      "explanation": "Selling a used vehicle through a channel and manufacturing a new export car involve different roles and accounting."
+      "title": "Used-car channels and exports",
+      "examples": "True Value used-car activity and new vehicles supplied overseas.",
+      "explanation": "Helping sell a used car is different from manufacturing a new one. Overseas buyers also face different prices, currencies and delivery arrangements from Indian buyers."
     }
   ],
   "basics": [
     {
-      "title": "Dispatch and registration differ",
-      "text": "Wholesale dispatch is supply into the dealer channel. Retail or registration measures describe a later stage. A rise in dealer inventory can create a gap between them."
+      "title": "A car sent to a dealer is not yet the same as a car bought by a driver",
+      "text": "Dispatches are vehicles sent into the sales chain. Retail sales or registrations describe a later stage. Dealers can build up unsold stock, so compare the measures rather than treating them as interchangeable."
     }
   ],
   "steps": [
     {
-      "title": "Develop and source",
-      "text": "Design the model and arrange components, technology and supplier capacity."
+      "title": "Plan the model and obtain components",
+      "text": "Arrange designs, technology, parts and suppliers for the kind of vehicle buyers need."
     },
     {
-      "title": "Manufacture and check",
-      "text": "Build and test vehicles while managing factory capability, quality and supply interruptions."
+      "title": "Build and check the car",
+      "text": "Factories assemble and test vehicles. Missing components, faults or production delays can interrupt this work."
     },
     {
-      "title": "Supply the market",
-      "text": "Dispatch to domestic dealers or export channels, with logistics and stock needs."
+      "title": "Supply a dealer or overseas buyer",
+      "text": "Send cars under the agreed sales and payment terms. The manufacturer’s sale and the driver’s final purchase need not happen together."
     },
     {
-      "title": "Support ownership",
-      "text": "Parts, repairs and the buying experience influence customer satisfaction and replacement purchases."
+      "title": "Collect payment and support the product",
+      "text": "Payments must cover making and selling the vehicle and other business costs. Parts, repairs and promised fault-related support continue after the initial sale."
     }
   ],
   "specifics": [
     {
-      "title": "Model mix changes the sales story",
-      "text": "Revenue can rise when buyers choose larger or better-equipped vehicles even without similar growth in unit sales. Extra features can also raise cost."
+      "title": "Different cars change the sales value",
+      "text": "More buyers choosing larger or better-equipped cars can raise revenue even without a similar increase in cars sold. Extra features can also cost more to provide."
     },
     {
-      "title": "Affordability extends beyond the sticker price",
-      "text": "Interest rates, loan eligibility, running costs, taxes and used-car exchange values can influence a customer’s decision."
+      "title": "The buyer must afford more than the car’s price",
+      "text": "Loan interest, eligibility for credit, fuel, maintenance, taxes and the value of a traded-in car can affect the decision to buy."
     },
     {
-      "title": "New powertrains and factories need returns",
-      "text": "CNG, hybrid and electric-related investment must be assessed against demand, sourcing, infrastructure and production economics. A technology announcement is not yet a profitable sale."
+      "title": "New engines, electric systems and factories need paying buyers",
+      "text": "Gas-powered CNG vehicles, hybrids that combine an engine with electric assistance, and battery-electric vehicles need different technology and supporting facilities. Money spent developing a vehicle or factory comes before proof that enough buyers will cover its costs."
     }
   ],
   "watch": [
     [
-      "Are dispatches supported by retail demand?",
-      "Dealer stock can build before customers buy.",
-      "Compare company dispatches with its retail and inventory commentary. Use matching periods and definitions; festivals and delivery timing can shift sales between months."
+      "Are dealers selling the cars they receive?",
+      "Unsold dealer stock can grow before driver demand does.",
+      "Compare manufacturer dispatches with retail-sales and stock commentary for the same period. Festivals and delivery dates can shift purchases between months."
     ],
     [
-      "Is a richer model mix offset by discounts or cost?",
-      "Higher-priced vehicles are not automatically higher-margin.",
-      "Read model/category mix, promotional discounts, material costs and realised prices together. Do not infer individual model profit from its list price."
+      "Do higher-priced cars leave more after costs?",
+      "Extra features and discounts can absorb a higher selling price.",
+      "Read model choices, discounts and component costs together. A model’s price list does not disclose its profit."
     ],
     [
-      "Are plants and suppliers ready for demand?",
-      "Bottlenecks and unused capacity both cost money.",
-      "Follow production, capacity ramp-up, component availability and utilisation alongside orders. A waiting list may reflect limited supply as well as demand, and cancellations can change bookings."
+      "Can factories and suppliers meet real demand?",
+      "Both shortages and idle equipment can be costly.",
+      "Follow production, parts availability, new-factory progress and orders. A waiting list can reflect limited supply, and buyers can cancel."
     ],
     [
-      "How are exports and currencies affecting earnings?",
-      "Overseas sales have different markets and costs.",
-      "Read export units, market demand, currency sensitivity and imported-input costs. Separate a currency translation effect from stronger underlying vehicle demand."
+      "How do exports and exchange rates affect the result?",
+      "Foreign sales and imported parts involve different currencies.",
+      "Read export quantities, overseas demand and currency explanations. A rupee conversion change is not the same thing as more cars wanted by customers."
     ],
     [
-      "What cash is required for future models?",
-      "Development and facilities precede some sales.",
-      "Review capital expenditure, research and development, cash flow, warranty and recall disclosures. Check the reporting scope and technology arrangements rather than treating all Suzuki group operations as Maruti Suzuki India."
+      "How much cash do future cars and promised repairs require?",
+      "Development and repair obligations can cost money after a strong sales year.",
+      "Read spending on models and equipment, day-to-day cash generation, warranty provisions and recalls. A warranty provision is money set aside in the accounts for expected repair obligations. Keep Maruti India separate from other Suzuki businesses."
     ]
   ],
   "risks": [
     [
-      "Purchase deferral",
-      "Cars are large financed purchases; weaker incomes or dearer credit can delay demand."
+      "Buyers postpone a car purchase",
+      "Weaker incomes or more expensive loans can delay a large purchase."
     ],
     [
-      "Supply and quality disruption",
-      "Component shortages, recalls or supplier issues can interrupt production and damage confidence."
+      "Parts or quality problems stop work",
+      "Component shortages and faults can interrupt production, require recalls or damage confidence."
     ],
     [
-      "Technology and competitive change",
-      "New models and powertrains can require investment while making an older range less attractive."
+      "A new range fails to attract enough buyers",
+      "Changing technology and competing models can make investment hard to recover."
     ],
     [
-      "Cost, regulation and currency",
-      "Materials, emissions and safety requirements and exchange rates can change vehicle economics."
+      "Costs and rules change",
+      "Materials, currency movements and safety or emissions requirements can raise the cost of a vehicle."
     ]
   ],
   "context": [
-    "A booking is a different stage from earnings",
-    "A customer enquiry, booking, dealer dispatch and final delivery do not all become revenue at the same moment. Follow the company’s recognition policy and channel stock before converting a popularity story into an earnings conclusion."
+    "A booking is an earlier stage than a completed sale",
+    "An enquiry, a booking, a car sent to a dealer and a driver taking it home are different events. Read when the company records its sale and whether vehicles are waiting in the dealer chain before treating popularity as earned profit."
   ],
   "quiz": [
-    "If vehicle revenue rises faster than unit sales, must demand have increased equally?",
-    "No. Prices, model mix, exports and related revenue can change the total. Read physical units and commercial terms alongside sales."
+    "If revenue rises faster than the number of cars sold, did customer demand necessarily rise equally?",
+    "No. Different models, prices, exports and related services can change the sales value. Check quantities and costs too."
   ],
   "sources": [
     [

@@ -1,121 +1,121 @@
 {
-  "summary": "A building-materials producer selling grey cement, ready-mix concrete, white cement and related construction products.",
-  "description": "UltraTech turns mineral and other inputs into cement and supplies construction materials through dealers and business channels. A bag used by a homebuilder and a truck of ready-mix concrete serve different jobs, with different delivery requirements.",
-  "money": "The business earns from selling cement, concrete and related products. Realised selling prices, tonnes sold, fuel, power, freight and factory efficiency influence the earnings left after costs.",
-  "customers": "Individual homebuilders buying through dealers, contractors, developers, infrastructure projects and other construction customers.",
-  "drivers": "Construction demand, local selling prices, plant utilisation, energy and transport costs, product mix and returns on expansion.",
+  "summary": "Grey cement, ready-mix concrete, white cement and related materials used to build and finish homes and other structures.",
+  "description": "UltraTech makes cement and other building materials and sells them through shops and directly to business customers. For example, a homebuilder may buy cement bags, while a contractor may order a truck of prepared concrete. The company must make the material and get it to the right place in usable condition.",
+  "money": "Customers pay for cement, concrete and related products. The company pays for stone and other ingredients, fuel, electricity, workers, factories and transport. It must also maintain equipment and fund expansion. The selling price of a tonne is not the profit left from it.",
+  "customers": "Dealers supplying homebuilders, contractors, property developers and customers building roads, factories or other large projects.",
+  "drivers": "How much construction is happening nearby, local selling prices, fuel and electricity bills, transport distance and how much of the factory’s available production customers actually buy.",
   "groups": [
     {
       "title": "Grey cement",
-      "examples": "UltraTech cement ranges used in buildings and infrastructure.",
-      "explanation": "Cement binds materials together when mixed appropriately. It is an input into concrete, not the same thing as concrete."
+      "examples": "UltraTech cement ranges for buildings and infrastructure.",
+      "explanation": "Cement is a binding ingredient. Builders combine it with water and other materials to make concrete; cement and concrete are not the same product."
     },
     {
       "title": "Ready-mix concrete",
-      "examples": "Concrete mixed to an agreed specification and supplied to a construction site.",
-      "explanation": "Delivery timing, local plant access and specification compliance matter because the product cannot be stored like a cement bag."
+      "examples": "Concrete prepared to an agreed requirement and sent to a site.",
+      "explanation": "The contractor buys prepared concrete rather than mixing all its ingredients on site. It must arrive at the right time and meet the agreed requirements; it cannot sit in a shop like a sealed cement bag."
     },
     {
-      "title": "White cement and surface products",
-      "examples": "Birla White cement, wall putty and associated finishing products.",
-      "explanation": "Appearance and finishing applications differ from the main grey-cement use case."
+      "title": "White cement and wall-finishing products",
+      "examples": "Birla White cement, wall putty and related finishes.",
+      "explanation": "These help with appearance and surface finishing. Wall putty smooths a surface before decoration. Those uses differ from the main structural uses of grey cement."
     },
     {
-      "title": "Building products and solutions",
-      "examples": "Related construction products and support for different building applications.",
-      "explanation": "Product names and distribution formats are not automatically separate reported profit segments."
+      "title": "Other building products and support",
+      "examples": "Related construction products and building-support offerings.",
+      "explanation": "A product name helps identify what the customer buys. It does not mean the company separately reports that product’s profit."
     }
   ],
   "basics": [
     {
-      "title": "Understand the conversion chain",
-      "text": "Cement production involves raw-material preparation, clinker production and grinding/blending. Clinker is an intermediate material; a grinding unit and an integrated plant are different assets."
+      "title": "How does stone become cement?",
+      "text": "The process prepares raw materials, heats them to make an intermediate material called clinker, then grinds and blends it into cement. A grinding unit handles a later step; a plant that also makes clinker needs different equipment and costs."
     }
   ],
   "steps": [
     {
-      "title": "Secure inputs",
-      "text": "Arrange limestone, other materials, fuel and energy under relevant operating and environmental permissions."
+      "title": "Obtain ingredients and permissions",
+      "text": "Arrange limestone and other materials, fuel and electricity, with the permissions required to operate."
     },
     {
-      "title": "Produce and blend",
-      "text": "Use kilns and grinding equipment to produce consistent material for the intended application."
+      "title": "Make and check the material",
+      "text": "Use heating and grinding equipment to produce cement that meets its stated requirements, or prepare the ordered concrete."
     },
     {
-      "title": "Move to customers",
-      "text": "Distribute bags or bulk material; freight and distance can substantially affect the economics."
+      "title": "Send it to the shop or construction site",
+      "text": "Move bags or bulk loads to buyers. Longer journeys and delivery delays can make each sale more costly."
     },
     {
-      "title": "Use the assets productively",
-      "text": "Sufficient profitable demand must cover running costs, maintenance, financing and the cost of new capacity."
+      "title": "Collect payment and keep the plant running",
+      "text": "Customer payments must cover production, transport, repairs, borrowing and other costs. New factories need further investment before they earn from sales."
     }
   ],
   "specifics": [
     {
-      "title": "Cement economics are local",
-      "text": "Construction activity, competing plants and delivery distance affect what a producer can realise in a market. National demand growth can hide regional pressure."
+      "title": "A nearby market matters more than a national headline",
+      "text": "Cement prices depend partly on local building work, competing suppliers and delivery distance. Construction growth somewhere else does not guarantee better prices near each factory."
     },
     {
-      "title": "Capacity is not output",
-      "text": "A plant’s rated capability is different from the tonnes it actually produces and sells. Commissioning, maintenance and ramp-up can affect utilisation."
+      "title": "The factory’s size is different from actual sales",
+      "text": "Capacity is how much a plant could produce under stated conditions. Actual production and sales may be lower while demand builds or equipment is stopped. Utilisation means how much of that capacity is being used."
     },
     {
-      "title": "A tonne needs a cost explanation",
-      "text": "Selling prices must be read alongside fuel, electricity, materials and freight. Blended products and alternative fuels can change inputs, but savings need to be demonstrated."
+      "title": "Read the cost of getting each tonne to a buyer",
+      "text": "Fuel, electricity, ingredients and transport can change separately. More tonnes sold can leave little extra profit if the cost of making and moving them also rises."
     }
   ],
   "watch": [
     [
-      "Are prices keeping pace with local competition?",
-      "Demand and supply differ by region.",
-      "Read regional demand, price and sales-volume commentary together. Avoid treating a national construction headline as the same price environment for every UltraTech plant."
+      "Can the company sell at useful prices in its local markets?",
+      "Nearby competitors and building activity affect prices.",
+      "Read local demand, selling-price and quantity commentary together. A national construction headline does not describe every factory’s market."
     ],
     [
-      "What remains from each tonne sold?",
-      "Energy and freight can move differently from revenue.",
-      "Follow the disclosed per-tonne measures and their definitions, including fuel, power, materials and transport. Compare the same operating-profit basis and period; a product price is not a profit per tonne."
+      "What remains after making and moving each tonne?",
+      "Fuel and transport bills can rise even while sales grow.",
+      "Read the company’s per-tonne cost and earnings measures and their definitions. Compare fuel, power, materials and transport over matching periods."
     ],
     [
-      "Is added capacity being used?",
-      "New plants need time and demand.",
-      "Track commissioning dates, ramp-up and utilisation alongside sales and capital spending. Separate an acquisition of existing capacity from new capacity added to industry supply."
+      "Are new factories producing goods that customers buy?",
+      "Announced capacity is not the same as sales.",
+      "Check when equipment starts, how much it produces and what is sold. Buying an existing competitor adds capacity to UltraTech but does not itself add new factories to the industry."
     ],
     [
-      "Does scale improve cash generation?",
-      "Stocks, customer collections and expansion use funding.",
-      "Read operating cash flow and working capital before deducting capital expenditure and acquisition payments. A higher earnings figure does not establish that expansion funds itself."
+      "Can normal operations fund expansion?",
+      "Factories and acquisitions can consume cash before earning it back.",
+      "Read cash generated by day-to-day operations, then spending on equipment and acquisitions. Also check unsold stock and customer payments still outstanding."
     ],
     [
-      "Are operating permissions and integration on track?",
-      "Quarries, plants and acquired operations need execution.",
-      "Read environmental, mining, safety and acquisition disclosures for actual scope and dates. Distinguish a project announcement from approvals, construction completion and commercial production."
+      "Are permissions, safety and acquired operations being managed?",
+      "A stopped quarry or plant can interrupt supply.",
+      "Read mining, environmental, safety and acquisition disclosures. Separate an announcement from an approved, finished plant that has begun commercial production."
     ]
   ],
   "risks": [
     [
-      "Regional oversupply",
-      "Competing capacity can hold down cement prices even when volumes grow."
+      "Too much competing local supply",
+      "Producers may lower prices to win buyers even when more cement is being used."
     ],
     [
-      "Energy and logistics shocks",
-      "Coal, other fuels, electricity and freight can raise the cost of each sale."
+      "Fuel and transport become dearer",
+      "Coal, other fuels, electricity and moving materials can raise the cost of each sale."
     ],
     [
-      "Capital-heavy expansion",
-      "Plants and acquisitions can absorb cash before utilisation and returns improve."
+      "Expansion takes too long to earn back its cost",
+      "New or acquired factories need money, maintenance and enough buyers."
     ],
     [
-      "Operational and environmental disruption",
-      "Mining access, permits, safety events or plant outages can interrupt production and add costs."
+      "Production is interrupted",
+      "Permit problems, lost quarry access, accidents or equipment failures can stop work and add costs."
     ]
   ],
   "context": [
-    "Compare delivery jobs, not just product labels",
-    "A ready-mix order needs suitable local batching and timely delivery; bagged cement can move through a different distribution chain. Growth in both is useful only when each route covers its own operating and investment needs."
+    "A concrete truck and a cement bag solve different delivery problems",
+    "Prepared concrete needs nearby mixing and timely arrival at the site. Bagged cement can move through shops before it is used. Check the cost of serving each kind of order instead of assuming their profits are identical."
   ],
   "quiz": [
-    "Does acquiring more cement capacity guarantee a matching increase in profit?",
-    "No. Prices, utilisation, fuel, freight, integration costs and the amount paid for the asset determine the result."
+    "Does buying more cement factories guarantee more profit?",
+    "No. Demand, selling prices, actual factory use, fuel, transport and the purchase price of those factories all matter."
   ],
   "sources": [
     [

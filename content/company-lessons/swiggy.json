@@ -1,125 +1,125 @@
 {
-  "summary": "Food delivery, Instamart shopping, dining and experiences, supported by a wider supply-chain and technology business.",
-  "description": "Swiggy coordinates restaurant ordering and delivery, quick-commerce fulfilment and out-of-home services. Its supply-chain business also serves merchants and brands. Several activities can use the same app without having the same revenue or cost model.",
-  "money": "The group records revenue from the relevant platform fees, commissions, advertising, memberships, distribution and other commercial arrangements. Delivery, picking, warehousing, promotions, staff and technology affect what remains.",
-  "customers": "Consumers order meals, groceries and experiences. Restaurants, merchants, wholesalers, retailers and consumer-goods businesses also use and pay for relevant services within the group.",
-  "drivers": "Orders, active transacting users, basket value, partner terms, local fulfilment density, store maturity, discounts, delivery costs and funding for newer services.",
+  "summary": "Swiggy helps people order restaurant meals, receive groceries through Instamart, and use dining or event services. The group also provides storage and distribution services to businesses.",
+  "description": "A customer choosing dinner needs a restaurant to cook and a delivery worker to bring it. A customer ordering groceries needs stocked goods, picking and delivery. Swiggy arranges these different jobs through its services; an app order still requires people and physical work behind the screen.",
+  "money": "The group earns under each service’s terms, including fees for arranging orders, delivery-related charges, advertising, memberships and goods or distribution sales. It pays for workers and partners, storage sites, technology and promotions. It does not keep every amount collected from customers.",
+  "customers": "People order meals, groceries and experiences. Restaurants and sellers use services to reach buyers. Businesses also pay for storage, distribution or related services that move goods through the buying and selling chain.",
+  "drivers": "Repeat orders, the amount bought, charges earned, the cost of picking and delivery, nearby demand, discounts and the money needed to open and support new services.",
   "groups": [
     {
-      "title": "Food delivery",
-      "examples": "The restaurant marketplace and delivery service, with formats aimed at different convenience and affordability needs.",
-      "explanation": "A restaurant prepares the meal; the platform coordinates discovery, ordering, payments and delivery. Meal value is not all platform revenue."
+      "title": "Restaurant food delivery",
+      "examples": "Finding a restaurant, placing an order and receiving the meal.",
+      "explanation": "The restaurant prepares the food. Swiggy helps arrange the order, payment and delivery. The restaurant and other providers receive their agreed amounts, so the meal’s full price is not all Swiggy income."
     },
     {
-      "title": "Instamart quick commerce",
-      "examples": "Groceries and household goods fulfilled through merchant and dark-store arrangements.",
-      "explanation": "Stock availability, local demand, picking and delivery can matter as much as the number of sites."
+      "title": "Instamart grocery shopping",
+      "examples": "Groceries and household goods delivered from nearby sites.",
+      "explanation": "A dark store is a place where workers store, pick and pack goods for online orders rather than serve shoppers in aisles. A grocery order needs the right stock, packing and a delivery route; the merchant and stock arrangements determine who earns which part of the payment."
     },
     {
       "title": "Dining and experiences",
-      "examples": "Dineout and Scenes offerings under out-of-home consumption.",
-      "explanation": "Reservations, payments and event experiences differ from delivering goods, so their frequency and costs need separate reading."
+      "examples": "Dineout and Scenes.",
+      "explanation": "These services help customers arrange dining or events away from home. Reservations, payments and venue arrangements are different from picking and delivering groceries."
     },
     {
-      "title": "Supply chain and newer services",
-      "examples": "Warehousing, distribution and services for merchants and brands, plus incubated offerings.",
-      "explanation": "The supply-chain segment can record substantial goods-related revenue. New app features are not automatically separate profitable reporting segments."
+      "title": "Storage, distribution and newer services",
+      "examples": "Services for merchants and brands, plus newer offerings being developed.",
+      "explanation": "Distribution means getting goods from suppliers towards the businesses that sell or use them. Storage and movement can create a large goods-sales total but also involve buying goods, running warehouses and transporting them. A new app feature is not automatically a separate profitable business."
     }
   ],
   "basics": [
     {
-      "title": "Gross order value and revenue have different owners",
-      "text": "The customer’s transaction includes amounts destined for restaurants, merchants and partners. The company recognises revenue under its own arrangements; it does not retain every amount collected at checkout."
+      "title": "The checkout total is not the amount Swiggy keeps",
+      "text": "Order value measures customer transactions on the company’s stated basis. Revenue is the income recorded by the company under its own arrangements. Money owed to restaurants and sellers is not automatically its profit."
     },
     {
-      "title": "Breakeven depends on the cost boundary",
-      "text": "Contribution margin may exclude costs that adjusted EBITDA includes, while reported profit includes other expenses. Always ask which costs remain outside the stated breakeven claim."
+      "title": "Covering an order’s direct costs is only a first step",
+      "text": "A headline measure may compare income with a selected set of delivery and order costs. Offices, technology, financing and other expenses can remain outside it. Check what costs are included before accepting a claim of breakeven, meaning costs have been covered."
     }
   ],
   "steps": [
     {
-      "title": "Create useful selection",
-      "text": "Bring users, restaurants and merchants into the relevant service."
+      "title": "The customer chooses what they need",
+      "text": "Select a meal, goods or an experience through the relevant service."
     },
     {
-      "title": "Receive an order",
-      "text": "Match demand to a restaurant, merchant, stock location or experience."
+      "title": "Confirm who will supply it",
+      "text": "Pass the meal request to a restaurant, locate merchant stock or confirm the venue arrangement."
     },
     {
-      "title": "Coordinate fulfilment",
-      "text": "Prepare or pick goods, arrange delivery or complete the dining transaction."
+      "title": "Complete the order",
+      "text": "Have the food prepared, pick and pack groceries, arrange delivery or complete the dining transaction."
     },
     {
-      "title": "Settle and fund operations",
-      "text": "Pay partners and operating costs while investing in service quality and growth."
+      "title": "Pay partners and cover the running costs",
+      "text": "Divide payment under the agreed terms and pay delivery, site, staff and technology bills. Fund new services while they build demand."
     }
   ],
   "specifics": [
     {
-      "title": "Quick-commerce sites need a ramp-up period",
-      "text": "A new dark store can add coverage before it achieves enough orders to support rent, stock handling, staff and delivery. Mature and recently opened sites should not be treated as identical."
+      "title": "A new grocery site needs enough orders",
+      "text": "Rent, staff and handling costs begin before a site is busy. An established location with repeat customers may perform differently from one that has just opened. Count useful demand as well as site openings."
     },
     {
-      "title": "Membership is part of the demand economics",
-      "text": "Benefits can encourage users to transact across services, but the cost of those benefits and repeat use must be considered. A subscription sold is not proof that each related order earns money."
+      "title": "Membership benefits have a cost",
+      "text": "A subscription can encourage people to return or try another service. Discounts and delivery benefits still have to be paid for; selling a membership does not show that every order placed with it makes money."
     },
     {
-      "title": "Business boundaries can change",
-      "text": "Service formats, pilots and disposals change over time. Read the period’s segment notes and current announcements rather than treating every historic app feature or acquired activity as permanently present."
+      "title": "The set of businesses can change",
+      "text": "The company can start trials, change services or sell an activity. Use the period’s business notes and later announcements rather than assuming every older feature or acquired business remains in the group indefinitely."
     }
   ],
   "watch": [
     [
-      "Are orders and repeat usage improving sustainably?",
-      "Growth bought through incentives can behave differently from repeat demand.",
-      "Read active transacting customers, frequency, orders and average value alongside promotions. Check the exact service and period, and do not compare cumulative registered users with a monthly paying-user measure."
+      "Are more people returning and placing orders?",
+      "Demand supported by repeat use can differ from demand bought through discounts.",
+      "Read paying-user activity, order frequency and the amounts ordered alongside promotions. Keep meal, grocery and dining activity separate, and do not substitute total registered accounts for actual purchasing customers."
     ],
     [
-      "Are Instamart economics improving as stores mature?",
-      "Site openings and profitable fulfilment are different outcomes.",
-      "Read orders, delivery and picking costs, store cohorts and expansion spending where disclosed. Check whether a cited margin is contribution, adjusted EBITDA or the statutory segment result; they are not interchangeable."
+      "Are Instamart locations becoming busy enough to support their costs?",
+      "More locations can increase spending before they improve earnings.",
+      "Compare older and newer sites where the company provides that information. Read rent, picking, delivery and availability with order activity, and check which costs any quoted profit measure leaves out."
     ],
     [
-      "What does each business actually earn?",
-      "Large revenue can come from low-margin distribution.",
-      "Read food delivery, out-of-home, quick commerce, supply chain and innovation results separately. Keep negative rows visible and use external-customer revenue after internal adjustments rather than adding overlapping headline measures."
+      "What remains from each business after its own costs?",
+      "Selling goods and charging service fees are different ways of earning money.",
+      "Read the reported meal-delivery, dining, grocery, distribution and newer-service results separately. Keep losses visible and remove sales between group businesses when comparing with the group’s final revenue."
     ],
     [
-      "Do restaurant and delivery relationships remain workable?",
-      "Service quality and partner terms influence demand and costs.",
-      "Read partner availability, fulfilment quality and relevant regulatory or official disclosures. Higher platform fees may improve revenue but can also affect consumer choice, restaurant relationships and competitive response."
+      "Do restaurants, sellers and delivery partners keep providing a useful service?",
+      "Customers return when selection, availability and delivery work well.",
+      "Read partner availability, delivery quality and changes in terms or operating rules. Higher fees may raise income but can also change what restaurants, sellers and customers choose to do."
     ],
     [
-      "Can the group fund its expansion and newer offerings?",
-      "Operating losses and capital spending use cash.",
-      "Compare the bridge from adjusted measures to reported earnings, operating cash flow, leases and investment. Check any disposal or restructuring before assuming that a past business’s revenue will recur."
+      "Can growth be funded without confusing profit with cash?",
+      "New sites and service trials can need money before they pay their way.",
+      "Read cash from running the business, equipment spending and future rental commitments. Follow the adjustments from headline earnings to final profit, and check business sales or closures before assuming old revenue will repeat."
     ]
   ],
   "risks": [
     [
-      "Competition and promotions",
-      "Discounts and service competition can hold back earnings."
+      "Orders become expensive to win",
+      "Discounts and advertising can prevent rising demand from producing enough earnings."
     ],
     [
-      "Delivery and availability",
-      "Poor fulfilment, merchant availability or stock handling can weaken repeat demand."
+      "Deliveries or stock disappoint customers",
+      "Late, missing or unavailable items can weaken repeat use and create extra costs."
     ],
     [
-      "Expansion losses",
-      "New sites and service experiments can consume cash before reaching scale."
+      "New sites and experiments keep losing money",
+      "Expansion can require continued funding while demand develops."
     ],
     [
-      "Regulatory and partner obligations",
-      "Labour, food safety, consumer protection, data and contractual issues can affect operating costs or continuity."
+      "Operating rules or relationships change",
+      "Food safety, consumer rights, worker arrangements, data protection or partner disputes can affect costs and service."
     ]
   ],
   "context": [
-    "One app contains several operating models",
-    "The official business directory describes restaurant food delivery, merchant fulfilment and dining solutions separately. The experience may feel unified to a user, while the financial statements have to distinguish the underlying activities."
+    "Storage and delivery are real jobs behind an online order",
+    "The group’s business services can help merchants hold and move goods before a household ever places an order. Read what customers are paying for in each activity rather than treating the entire company as only a restaurant-delivery app."
   ],
   "quiz": [
-    "Does a profitable food-delivery business guarantee that the group is profitable?",
-    "No. Losses in quick commerce or other activities and company-level expenses can outweigh a positive business result. Read the full table and its reconciliation."
+    "If restaurant delivery earns a profit, must the whole Swiggy group be profitable?",
+    "No. Grocery delivery, newer services and company-wide expenses can use more money than another activity earns. Read all the business results and the costs still left to deduct."
   ],
   "sources": [
     [

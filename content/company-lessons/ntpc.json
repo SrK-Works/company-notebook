@@ -1,121 +1,125 @@
 {
-  "summary": "A power-generation group supplying electricity from thermal and renewable assets, with fuel supply and newer energy activities alongside them.",
-  "description": "NTPC develops and operates electricity-generation assets and sells electricity under the applicable commercial and regulatory arrangements. Its activities also include coal mining, power trading and energy services. The route from a proposed plant to commissioned generation, billed electricity and cash collection is central to understanding the business.",
-  "money": "Electricity sales and the applicable tariff or contractual arrangements generate operating revenue. Fuel, operations, maintenance, financing and asset costs affect earnings. The terms can distinguish capacity availability and energy supplied; not every project earns on the same basis.",
-  "customers": "Distribution companies, utilities and other contracted electricity buyers, with different customers for trading and consultancy services.",
-  "drivers": "Asset commissioning, contracted terms, availability, dispatch, fuel supply and efficiency, customer collections and the cost of expansion.",
+  "summary": "NTPC runs power stations that make electricity and sells that electricity to contracted buyers, including companies that supply homes and businesses.",
+  "description": "At a coal-fired station, coal is burned to heat water. The steam turns a turbine connected to a generator, which produces electricity. NTPC also has other types of generation, including renewable power. Electricity leaves a station through the wider network of lines before it can reach users.",
+  "money": "Buyers pay under the station’s electricity agreement and pricing rules. Depending on the terms, charges can cover keeping the plant ready as well as electricity actually supplied. NTPC pays for fuel where needed, people, repairs, equipment and borrowing. Building a station uses money before it starts earning.",
+  "customers": "Distribution companies buy electricity to supply households and businesses, and other utilities and contracted buyers also purchase power. NTPC’s electricity sales are different from the local company sending a household its usual electricity bill. Trading and consultancy have their own customers.",
+  "drivers": "Whether stations are completed and ready to run, how much power buyers require, fuel availability and cost, plant efficiency, agreed charges, customer payments and spending on new projects.",
   "groups": [
     {
-      "title": "Thermal electricity generation",
-      "examples": "Coal-based and gas-based generating assets.",
-      "explanation": "Fuel supply, plant condition, availability, efficiency and dispatch affect the cost and quantity of power supplied."
+      "title": "Power stations using fuel",
+      "examples": "Coal-based and gas-based electricity generation.",
+      "explanation": "These turn fuel into electricity. They need a dependable fuel supply, functioning equipment and people to operate the station. They have costs even during periods when little electricity is produced."
     },
     {
-      "title": "Renewable generation and related development",
-      "examples": "Solar, wind and hydro activities across relevant group entities.",
-      "explanation": "Weather, resource quality, connection and project terms differ from fuel-based generation. Development capacity is not the same as operating output."
+      "title": "Renewable electricity",
+      "examples": "Solar, wind and hydro activities within the relevant group companies.",
+      "explanation": "Solar uses sunlight, wind turbines use moving air, and hydro stations use moving water to generate electricity. Weather and water conditions affect output differently from fuel-fired stations. The site also needs a usable connection to the electricity network."
     },
     {
-      "title": "Fuel and energy-support activities",
-      "examples": "Coal mining, power trading and relevant consultancy or training services.",
-      "explanation": "These can support the generation ecosystem but have different customers and accounting from a generating station."
+      "title": "Fuel, trading and support services",
+      "examples": "Coal mining, power trading, consultancy and training.",
+      "explanation": "Coal mining supplies fuel. Trading involves buying and selling power under the relevant arrangements. Consultancy means carrying out agreed advisory or technical work. These are different jobs from operating a generating station."
     },
     {
-      "title": "Emerging energy investments",
-      "examples": "Storage, green hydrogen, nuclear development and other disclosed energy-transition initiatives.",
-      "explanation": "Identify the project stage and commercial arrangement. A target, study or approval is not a completed operating asset."
+      "title": "Projects for newer energy activities",
+      "examples": "Disclosed storage, green-hydrogen, nuclear and other development initiatives.",
+      "explanation": "These can involve studies, approvals, partnerships or construction rather than a running business. Check the stage before treating a development plan as electricity already being sold."
     }
   ],
   "basics": [
     {
-      "title": "Capacity and generation measure different things",
-      "text": "Capacity describes how much power a plant can produce at a time under specified conditions. Generation measures energy actually produced over a period. A larger capacity total does not automatically establish more electricity sold, better efficiency or higher profit."
+      "title": "Capacity describes what a station can do; output describes what it did",
+      "text": "Capacity is its ability to produce power under stated conditions. Generation is the electricity actually produced over time. A completed station can be ready but not running at full output if it is not required or cannot operate."
+    },
+    {
+      "title": "Making power and carrying it are different jobs",
+      "text": "The station generates electricity. Transmission lines carry it over long distances, and local distribution networks take it towards customers. A new station needs these connections as well as its own equipment."
     }
   ],
   "steps": [
     {
-      "title": "Develop and finance the project",
-      "text": "Obtain the relevant permissions, fuel or resource arrangements, customer commitments and funding."
+      "title": "Plan the station and its buyer arrangements",
+      "text": "Arrange permissions, a suitable site, fuel or renewable resources, funding and the agreement governing electricity sales."
     },
     {
-      "title": "Construct and commission",
-      "text": "Build, test and connect the asset before it enters commercial operation under the applicable terms."
+      "title": "Build, test and connect it",
+      "text": "Construct the station, test the equipment and connect it to the network. Commissioning means bringing it into service under the relevant requirements."
     },
     {
-      "title": "Operate and supply power",
-      "text": "Keep equipment available, arrange fuel where needed and generate as dispatched or contracted."
+      "title": "Operate when required",
+      "text": "Keep equipment ready, arrange fuel where needed and generate under network instructions and contract terms. Workers and repairs keep the station usable."
     },
     {
-      "title": "Bill and collect",
-      "text": "Apply the relevant tariff or contract, recover eligible charges and collect from buyers."
+      "title": "Bill for the agreed charges and collect",
+      "text": "Calculate the bill under the agreement, receive payment and cover running and borrowing costs. A bill issued is not yet money received."
     }
   ],
   "specifics": [
     {
-      "title": "Availability and dispatch are not identical",
-      "text": "An available plant is ready to operate. Dispatch determines when and how much it is called to generate. Plant load factor describes actual utilisation on its stated basis. Read both technical performance and commercial terms before linking generation to earnings."
+      "title": "Ready to generate is different from being asked to generate",
+      "text": "Availability means the plant is ready. Dispatch means the network calls for it to produce electricity. Plant load factor measures actual use of capacity over time. Read these together rather than assuming every idle period is a breakdown."
     },
     {
-      "title": "Tariffs determine which costs and returns can be recovered",
-      "text": "Regulated or contracted arrangements can contain different capacity and energy components, efficiency norms and incentives. Do not assume every fuel-cost increase is instantly reimbursed or every plant receives the same guaranteed return."
+      "title": "The price agreement controls what costs can be recovered",
+      "text": "A tariff is the charge determined under the applicable agreement or rules. Some terms distinguish readiness charges from energy charges. Check conditions and allowed costs; a fuel-cost increase is not automatically reimbursed immediately."
     },
     {
-      "title": "Billing is different from collecting cash",
-      "text": "Electricity supplied can create receivables from distribution companies and other buyers. Delayed payments can leave a profitable operation funding customers while it also finances construction and fuel requirements."
+      "title": "Customers can owe money while construction bills continue",
+      "text": "Amounts billed but not collected are receivables. NTPC still needs to pay for fuel, workers and new projects while waiting. Reported profit and funds available for the next investment can therefore differ."
     }
   ],
   "watch": [
     [
-      "Are projects reaching commercial operation on useful terms?",
-      "Unfinished capacity uses money before regular earnings arrive.",
-      "Read commissioning dates, remaining construction, connection readiness, customer arrangements and costs. Keep planned, under-construction and operational capacity separate."
+      "Are new stations ready to sell electricity?",
+      "Unfinished projects use money before normal income begins.",
+      "Separate announced, under-construction and operating capacity. Check test completion, network connection, agreed customers and the remaining work and cost."
     ],
     [
-      "Do availability, generation and efficiency support earnings?",
-      "A plant can be available without being heavily dispatched.",
-      "Compare availability, plant load factor, heat-rate or other disclosed efficiency measures with fuel and demand commentary. Use the correct thermal or renewable measure."
+      "Are stations ready and operating efficiently?",
+      "More output can still be costly if more fuel is needed.",
+      "Read availability, actual generation and fuel used for output. If the company uses heat rate, it is a measure of the fuel energy needed to produce electricity; understand its basis before comparing stations."
     ],
     [
-      "What does the applicable tariff actually recover?",
-      "Revenue depends on the commercial mechanism.",
-      "Read regulated-tariff and power-purchase-agreement disclosures for recovery conditions, efficiency norms and incentives. Identify disallowances, adjustments and claims rather than assuming all costs pass through."
+      "Which charges does the agreement allow?",
+      "Sales depend on more than the amount generated.",
+      "Read the tariff rules and power-purchase agreement, meaning the contract with the buyer. Check readiness conditions, fuel-cost recovery, incentives and disputed charges."
     ],
     [
-      "Are buyers paying on time?",
-      "Receivables affect funding and cash.",
-      "Compare receivable ageing, collections, provisions and operating cash flow with billed revenue. A higher revenue total is not proof that buyers settled their bills."
+      "Are buyers settling their bills?",
+      "Payment delays can leave money tied up in customers.",
+      "Check amounts customers owe, how long they have been overdue, cash collected and provisions for amounts that may not be recovered. Compare these with billed sales."
     ],
     [
-      "Can the group finance its energy transition?",
-      "Expansion needs debt, equity and execution capacity.",
-      "Read capital spending, borrowings, interest, subsidiaries and joint ventures, and commitments for new technologies. A development target should not be counted as current earnings."
+      "Can new projects be funded without stretching the group?",
+      "Expansion requires money and people before it earns.",
+      "Read project spending, borrowing, interest and commitments through controlled companies and jointly owned businesses. Keep future technology targets separate from facilities actually running."
     ]
   ],
   "risks": [
     [
-      "Fuel, equipment or resource constraints",
-      "Supply interruptions, outages or weather variability can affect operation and costs."
+      "Fuel or equipment is unavailable",
+      "Fuel shortages, breakdowns and weather conditions can reduce output or raise costs."
     ],
     [
-      "Tariff and contractual outcomes",
-      "Regulatory decisions, efficiency norms or disputed recoveries can change earnings."
+      "Allowed charges disappoint",
+      "Pricing decisions, operating standards or disputed bills can prevent expected cost recovery."
     ],
     [
-      "Delayed customer collections",
-      "Distribution-company stress or disputes can tie up cash and increase funding needs."
+      "Customers pay late",
+      "Money can remain tied up in electricity buyers while NTPC’s own bills are due."
     ],
     [
-      "Construction and transition risks",
-      "Delayed projects, rising costs and unfamiliar technologies can reduce returns on expansion."
+      "New projects take longer or cost more",
+      "Construction delays, price increases and unfamiliar technology can reduce what the investment earns."
     ]
   ],
   "context": [
-    "A renewable target is not the same as renewable generation",
-    "A target describes ambition. The investor must follow permissions, construction, connection, commercial operation and actual output. Each stage provides different evidence about timing, cost and the ability to earn."
+    "Follow a new project beyond the announcement",
+    "A plan still needs permissions, construction, tests, a working network connection and customers who pay. These stages show why a future electricity target and a running station are different evidence about the business."
   ],
   "quiz": [
-    "If generating capacity rises, must cash collections rise at the same pace?",
-    "No. Capacity must become operational, supply power under its terms, be billed and then be collected. Dispatch, costs and payment delays can change the result."
+    "If a station is ready to run, must it be producing at full output?",
+    "No. It may not be called to generate that much. Read readiness, actual output and the payment terms together to understand the effect on earnings."
   ],
   "sources": [
     [

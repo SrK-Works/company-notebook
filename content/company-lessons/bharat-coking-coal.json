@@ -1,125 +1,125 @@
 {
-  "summary": "A coal-mining business supplying raw and washed coal, with coking coal serving the steel-making supply chain.",
-  "description": "Bharat Coking Coal extracts coal and supplies industrial customers. Its washeries process raw coal to improve the usable product mix. Mining, washing and dispatch are connected stages, but coal produced, coal sold and cash collected are different measures.",
-  "money": "The business earns from coal and washery-product sales under the relevant customer and pricing arrangements. Realised prices, grades, production, washing yield, transport, labour, mine development and environmental obligations affect what remains.",
-  "customers": "Steel-sector customers and other industrial or power users, depending on coal type and product; supply arrangements and dispatch logistics determine the route to each customer.",
-  "drivers": "Usable coal output, grade and ash characteristics, washed-coal recovery, selling arrangements, dispatch capability, operating costs and the cash required for mining and rehabilitation.",
+  "summary": "Bharat Coking Coal mines coal and sells it to steel-related and other industrial customers. Some coal is washed before sale to make it more suitable for the buyer.",
+  "description": "Coal is taken out of mines, prepared and moved to customers. Some suitable coal is used to make coke, a processed form of coal used to make iron for steel. That is why this business is connected to steel-making as well as to coal used as fuel.",
+  "money": "Customers pay for the coal or other saleable products they receive. The company must cover mine workers, contractors, machines, fuel, washing, transport arrangements and other costs. It also has to pay for developing mines and meeting land and environmental obligations.",
+  "customers": "Steel-related buyers purchase suitable coking coal, while power and other industrial customers buy products suited to their needs. The buyer pays for a specified quantity and quality; every load of coal is not equally useful or equally valuable.",
+  "drivers": "How much usable coal can be mined and sold, its quality, the agreed selling price, washing results, transport availability and the cost of keeping mines operating safely.",
   "groups": [
     {
-      "title": "Raw coking coal",
-      "examples": "Raw coal used in the supply chain for making coke for steel production.",
-      "explanation": "Coking coal is not interchangeable with every coal sold as a power-station fuel. Quality and customer specifications matter alongside tonnage."
+      "title": "Coal for the steel-making chain",
+      "examples": "Raw coking coal.",
+      "explanation": "Coking coal is coal with properties suitable for making coke for iron production. A buyer’s quality requirements matter: another type of coal sold mainly as fuel may not be a substitute."
     },
     {
-      "title": "Washed coking coal",
-      "examples": "Coal processed through a washery before supply to industrial buyers.",
-      "explanation": "Washing separates material to obtain a more suitable product. Input capacity is different from the amount of saleable clean coal recovered."
+      "title": "Coal cleaned before sale",
+      "examples": "Washed coking coal.",
+      "explanation": "A washery is a plant that separates coal from some unwanted material. The buyer receives a product better suited to its requirements. Not all the material entering the plant becomes the same clean-coal product."
     },
     {
-      "title": "Non-coking coal",
-      "examples": "Coal products supplied for other industrial and fuel uses.",
-      "explanation": "Different grades and customers can produce a different realised price and logistics requirement."
+      "title": "Coal for other fuel uses",
+      "examples": "Non-coking coal for power and industrial customers.",
+      "explanation": "These buyers need coal for their own fuel requirements. The quantity, quality and agreed price can differ from the coal bought for making coke."
     },
     {
-      "title": "Washery by-products",
-      "examples": "Middlings, slurry and rejects or other products depending on processing.",
-      "explanation": "Raw material does not all become the same premium output. By-product recovery, disposal and sale influence the economics of washing."
+      "title": "Other material from washing",
+      "examples": "Middlings, slurry, rejects and other washery outputs.",
+      "explanation": "Washing separates the incoming material into different outputs. Middlings are lower-quality mixed material; slurry contains fine material mixed with water. What can be sold or needs suitable handling affects the cost of running the washery."
     }
   ],
   "basics": [
     {
-      "title": "Grade is part of what the customer buys",
-      "text": "A tonne is a quantity measure, not a statement that every tonne has the same usefulness or value. Read quality, ash content, grade, contract terms and pricing together."
+      "title": "Quality matters as much as weight",
+      "text": "Coal contains different amounts of useful fuel and material that becomes ash when burned. Grade is the company’s quality classification. Customers pay under the agreed quality and pricing terms, not just for a truck’s weight."
     },
     {
-      "title": "Production and offtake answer different questions",
-      "text": "Production is output from operations; offtake is material dispatched or sold on the company’s stated basis. Stock and transport can make the two differ."
+      "title": "Mined, delivered and paid for are different stages",
+      "text": "Production means coal taken out through operations. Offtake means coal sent out to customers on the company’s stated basis. If transport is delayed, the company may produce coal but keep it in stock rather than sell and collect payment for it."
     }
   ],
   "steps": [
     {
-      "title": "Develop and operate mines",
-      "text": "Access the reserve, remove overlying material where needed and extract coal safely."
+      "title": "Prepare the mine and extract coal",
+      "text": "Arrange access, workers and machines. Where needed, remove earth and rock above the coal before mining it."
     },
     {
-      "title": "Prepare and wash",
-      "text": "Size or process coal as appropriate to the product and customer requirement."
+      "title": "Prepare the customer’s product",
+      "text": "Sort, size or wash coal as required. Check the amount and quality of the usable products obtained."
     },
     {
-      "title": "Move to the customer",
-      "text": "Arrange loading, rail or road dispatch and contractual quality measurement."
+      "title": "Load and send the coal",
+      "text": "Arrange road or rail movement and complete the agreed quantity and quality checks."
     },
     {
-      "title": "Bill and collect",
-      "text": "Recognise sales on the contractual basis and collect payment while funding ongoing operations."
+      "title": "Bill the buyer and collect",
+      "text": "Charge for the sale under its terms and receive payment. Meanwhile, wages, contractors and mine-development work still need funding."
     }
   ],
   "specifics": [
     {
-      "title": "A washery’s recovery matters as much as its capacity",
-      "text": "Capacity describes how much raw coal it can process. Recovery or yield describes the output obtained. Investigate uptime, feed quality, saleable output and operating cost rather than treating a capacity announcement as finished sales."
+      "title": "A bigger washery does not guarantee more clean coal",
+      "text": "Capacity is how much raw material a plant can process. Recovery, also called yield, is how much of the desired product comes out. Incoming quality, breakdowns and demand affect what the plant can sell."
     },
     {
-      "title": "Mining uses cash before and after the sale",
-      "text": "Equipment, mine development and removal of overlying material can require spending before output. Closure, rehabilitation and environmental obligations also belong in the economic picture."
+      "title": "Mining costs begin before coal is sold",
+      "text": "The company may spend on machinery, mine access and removing earth before it can produce coal. It also faces costs for restoring land and closing mines later. Those obligations are part of the business, even when payment comes in a different year."
     },
     {
-      "title": "A new asset still has to operate effectively",
-      "text": "The official May 2026 Bhojudih announcement records commercial commencement. That is a dated operational milestone; sustained utilisation, product quality and customer demand still determine its contribution."
+      "title": "Opening a plant is only the start",
+      "text": "The official Bhojudih disclosure records the washery starting commercial operations. The following test is practical: does raw coal arrive, does the plant run reliably, and will customers buy its output?"
     }
   ],
   "watch": [
     [
-      "Is usable production reaching customers?",
-      "Read production and offtake together.",
-      "Compare matched periods for output, dispatch and stock. Read whether rail, road, monsoon or mine conditions caused a gap; do not assume higher production became the same increase in collected sales."
+      "Is mined coal reaching paying customers?",
+      "Unsold coal does not pay the next wage or contractor bill.",
+      "Compare production with deliveries to customers and coal left in stock. Look for transport delays, weather and mine conditions that explain a gap; do not assume all new production has already been sold."
     ],
     [
-      "Are washeries improving the saleable mix?",
-      "Input tonnes and clean-coal output differ.",
-      "Read capacity, utilisation, washing recovery and product mix where disclosed. Compare clean coal and by-products with raw feed and processing costs before attributing better economics to a new washery."
+      "Does washing produce enough usable coal?",
+      "The incoming load and clean-coal output are different quantities.",
+      "Read the amount processed, usable output, by-products and operating costs. Ask whether a new washery runs reliably and has buyers for its products rather than relying on its advertised capacity alone."
     ],
     [
-      "What drives the realised selling price?",
-      "Grade and contract mix matter.",
-      "Read prices, customer arrangements, quality claims and coal grades in official results. Separate price or mix effects from a change in physical quantities rather than explaining all revenue growth through higher demand."
+      "Why is the price received changing?",
+      "A different quality or type of sale can change the average price.",
+      "Read coal grades, buyer agreements, quality disputes and selling-price commentary. Separate a higher price from selling more coal; they can affect the business differently."
     ],
     [
-      "Can costs and mine obligations be funded?",
-      "Mining is more than extracting the next tonne.",
-      "Read labour, contractors, fuel, mine development, overburden-removal policies and rehabilitation provisions. Compare operating cash flow with investment needs and recognise that provisions and cash payments can occur at different times."
+      "Can the mines pay for today’s work and future obligations?",
+      "Equipment, workers and restoring mined land all require money.",
+      "Read day-to-day cash generation with spending on mines, machines and removing overlying earth. Check provisions, which are estimated future obligations recorded in the accounts, and when the actual payments are expected."
     ],
     [
-      "Are safety, environmental and logistics constraints manageable?",
-      "Disruption can limit the amount available to sell.",
-      "Use official operational and regulatory disclosures for the affected site, date and scope. Identify actual restrictions, remediation and dependencies instead of treating every incident as either immaterial or group-wide."
+      "What could stop mining or delivery?",
+      "Safety, environmental permissions and transport can limit sales.",
+      "Use the company’s disclosures to identify the affected mine or route, the problem and what is being done. Check whether it is a local delay or something that affects a wider part of the company’s work."
     ]
   ],
   "risks": [
     [
-      "Operating interruption",
-      "Mine conditions, weather, equipment failure and safety incidents can restrict output."
+      "Mining is interrupted",
+      "Weather, unsafe conditions, machine failures or other incidents can reduce output."
     ],
     [
-      "Quality and recovery",
-      "Poorer feed quality or washery performance can reduce saleable product or realised prices."
+      "Coal quality is poorer than expected",
+      "More unwanted material or weak washing results can reduce the useful product or price received."
     ],
     [
-      "Customer and transport dependence",
-      "Industrial demand and dispatch bottlenecks can affect sales and collections."
+      "Buyers or transport slow down",
+      "Industrial demand, rail availability and road movement can hold up deliveries and payment."
     ],
     [
-      "Long-term obligations",
-      "Environmental compliance, land issues and mine closure can require funding beyond current extraction costs."
+      "Land and environmental work costs money",
+      "Permissions, restoration and mine closure may require spending beyond the immediate cost of extraction."
     ]
   ],
   "context": [
-    "Commissioning is the start of the operating test",
-    "The Bhojudih washery commencement disclosure supports a real addition to processing capability. The next questions are whether raw feed arrives, the facility runs reliably and its output can be sold on workable terms."
+    "Think of the whole route from mine to buyer",
+    "A mine needs more than coal underground. Workers must extract it, the right product must be prepared, transport must be available and a buyer must pay. Finding which stage is holding up that route is more useful than reading production alone."
   ],
   "quiz": [
-    "Does a higher washery input capacity automatically mean the same increase in washed-coal sales?",
-    "No. Uptime, feed quality, recovery, product mix and dispatch all intervene between input capacity and saleable output."
+    "If a washery can process more raw coal, must sales of clean coal rise by the same amount?",
+    "No. Some input becomes other products or unwanted material, and the plant still needs reliable operation, customer demand and transport."
   ],
   "sources": [
     [

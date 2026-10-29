@@ -163,3 +163,12 @@ Banks label total income explicitly rather than calling it product sales. NTPC, 
 The former pending-verification lesson notes are updated. All actual financial values and interpretations remain in the final Follow the money learning section. Revenue, gross profit, segment PBIT and PAT retain their distinct definitions; company tables do not form a valuation or cash-flow analysis.
 
 Validation: 31 automated checks pass, covering complete 35-company coverage, preservation of the original 17 snapshots, source metadata, signed losses, reconciliation, bank-income terminology and the learning order. Browser checks cover all 18 new financial sections at 320px and 390px, with no overflow or stale pending messages. Financial disclosures and source links are checked in the rendered pages.
+
+
+## Plain-language company review standard
+
+The repository-root `AGENTS.md` records the permanent editorial standard for existing profiles, new companies and future additions. Assume that a first-time reader may not know the industry. Explain the physical product or actual work before its technical name, who pays and for what, major costs, and the journey from work to billing and customer payment. Define essential technical words locally. Rewrite vague wording instead of adding repeated paragraphs. Preserve company-specific questions and scope boundaries, with actual financial values at the end.
+
+All 35 profiles were reviewed against Refex’s concrete explanation style. The other 28 JSON lessons were simplified independently, the six earlier consumer/retail walkthroughs were checked and refined, and Refex remains the reference. Captions for unfamiliar technical offerings now describe their purpose in everyday language. Verified financial snapshots and existing financial-interpretation notes are preserved. The overview’s next-question prompt uses the actual research question.
+
+Plain-language release validation: all 31 automated checks pass. Browser checks cover all 35 profiles at 390px, including the four overview answers, real next-question prompts, section targets, no horizontal overflow and financial tables only in the final learning section.

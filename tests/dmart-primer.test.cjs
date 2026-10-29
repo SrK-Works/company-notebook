@@ -27,7 +27,7 @@ test('DMart uses annual group figures without inventing category or online profi
 });
 test('DMart focuses on retail operations and updates the online fulfilment description',()=>{
  const b=c.companyPrimer.render(company,'basics'),s=c.companyPrimer.render(company,'specifics');
- for(const text of ['Foods and groceries','Non-food consumer goods','General merchandise and apparel','DMart Ready','Everyday Low Cost'])assert.ok(b.includes(text),text);
+ for(const text of ['Foods and groceries','Non-food consumer goods','Other household goods and clothing','DMart Ready','Everyday Low Cost'])assert.ok(b.includes(text),text);
  for(const text of ['gross profit','Inventory','Store maturity','Avenue E-Commerce Limited','not a clean estimate of DMart Ready'])assert.ok(s.includes(text),text);
  const ready=company.products.find(([name])=>name==='DMart Ready');assert.match(ready[1],/fulfilment varies by location/);
  assert.ok(!company.productSource.includes('canary'));

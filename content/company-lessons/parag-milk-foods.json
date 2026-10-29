@@ -1,125 +1,125 @@
 {
-  "summary": "A dairy business selling Gowardhan staples, Go cheese and dairy products, Pride of Cows offerings, Topp Up drinks and Avvatar nutrition products.",
-  "description": "Parag Milk Foods sources and processes milk into different products for households and business customers. Milk fat, solids and whey can support several outputs, so understanding the dairy process is more useful than treating every brand as an unrelated business.",
-  "money": "Revenue comes from branded dairy, ingredients and related product sales. Milk procurement, processing yield, packaging, storage, distribution, marketing and the balance of products sold affect earnings and cash needs.",
-  "customers": "Households, retailers and distributors, along with food-service and other institutional buyers. A consumer pack, a bulk ingredient order and a direct home-delivery relationship have different routes and terms.",
-  "drivers": "Milk availability and procurement price, product mix, processing and storage costs, demand, distribution, inventory ageing and the utilisation of existing and new capacity.",
+  "summary": "Parag turns milk into products such as Gowardhan ghee and paneer, Go cheese, Pride of Cows dairy, Topp Up milk drinks and Avvatar products made using the liquid left from cheese-making.",
+  "description": "The company arranges milk supply, checks it and processes it into products people can buy. Making cheese, selling fresh milk and supplying a restaurant with dairy ingredients need different equipment, storage and delivery arrangements.",
+  "money": "Households and business buyers pay for dairy products or ingredients. Parag pays for milk, processing, packaging, storage, transport, staff and advertising. Selling a premium product can bring a higher price, but producing and delivering it may also cost more.",
+  "customers": "Shoppers buy dairy products through shops and other sales channels. Restaurants and other food businesses buy products or ingredients in formats suited to their kitchens. Some customers receive dairy through direct home delivery.",
+  "drivers": "The cost and quality of milk, how much of each product sells, keeping products fresh, reliable delivery and how much money is tied up in unsold stock or unpaid bills.",
   "groups": [
     {
-      "title": "Gowardhan everyday dairy",
-      "examples": "Milk, ghee, paneer, curd, butter and other traditional dairy offerings.",
-      "explanation": "These products differ in fat content, processing and shelf life. The popularity of one product does not reveal the economics of the whole brand."
+      "title": "Everyday dairy for the home",
+      "examples": "Gowardhan milk, ghee, paneer, curd and butter.",
+      "explanation": "Think of buying ghee for cooking or paneer for a meal. The company must buy suitable milk, make and pack the product, and get it to the customer before its usable life ends."
     },
     {
-      "title": "Go products and ingredients",
-      "examples": "Cheese, cream, milk and related dairy products for consumer and food-service uses.",
-      "explanation": "Consumer packs and restaurant or institutional requirements can use different formats, pricing and distribution."
+      "title": "Cheese and other products for homes and kitchens",
+      "examples": "Go cheese, cream and related dairy products.",
+      "explanation": "A household may buy a small cheese pack while a restaurant needs a larger supply for repeated use. Packaging, prices and delivery arrangements can differ even when the products come from the same dairy process."
     },
     {
-      "title": "Pride of Cows and beverages",
-      "examples": "Farm-to-home dairy offerings and Topp Up flavoured milk.",
-      "explanation": "Direct distribution and different storage formats change the service and cost involved. Check each product’s actual availability and storage requirements."
+      "title": "Home-delivered dairy and milk drinks",
+      "examples": "Pride of Cows offerings and Topp Up flavoured milk.",
+      "explanation": "Supplying dairy directly to homes requires regular deliveries. Packaged milk drinks follow their own storage instructions and sales routes; do not assume every milk product needs the same handling."
     },
     {
-      "title": "Avvatar and whey products",
-      "examples": "Whey-based nutrition offerings and ingredients described in company disclosures.",
-      "explanation": "Whey is connected to cheese processing. Developing a higher-value use for a processing stream can help the mix, but demand, quality controls and marketing still have to cover costs."
+      "title": "Products made using whey",
+      "examples": "Avvatar whey-based products and related ingredients.",
+      "explanation": "Whey is the liquid left when milk is separated to make cheese. Processing it can create another product to sell. Turning it into a packaged brand still requires equipment, quality checks and paying customers; the brand name alone does not establish a health benefit."
     }
   ],
   "basics": [
     {
-      "title": "Milk is transformed into several saleable outputs",
-      "text": "Processing separates and recombines milk components for different uses. Yield is the amount of useful output obtained from inputs; the value of co-products matters alongside the headline selling price."
+      "title": "The same milk can produce several useful outputs",
+      "text": "Milk contains fat and other components. Processing can separate them for products such as cheese, cream and whey. The company needs to find useful buyers for the outputs, not just sell the most recognisable brand."
     },
     {
-      "title": "A dairy brand is not a nutrition verdict",
-      "text": "Product names and health positioning describe marketing and intended categories. This business page does not assess suitability or health benefits for an individual consumer."
+      "title": "Storage time is a business issue",
+      "text": "Products have different usable lives and storage needs. A fresh product that is not sold in time can be wasted. Products kept longer still use storage space, electricity and money that cannot yet be used elsewhere."
     }
   ],
   "steps": [
     {
-      "title": "Procure and test milk",
-      "text": "Arrange supply and check quality under the relevant controls."
+      "title": "Arrange and check milk supply",
+      "text": "Buy milk and check its quality before processing. Supply and cost can change with the season."
     },
     {
-      "title": "Process the product mix",
-      "text": "Use plants to make milk products, ingredients, cheese and associated outputs."
+      "title": "Make the products",
+      "text": "Process milk into the required dairy products and ingredients, controlling quality and using the different outputs."
     },
     {
-      "title": "Pack, store and distribute",
-      "text": "Apply the appropriate storage and shelf-life requirements for each offering."
+      "title": "Pack, store and deliver",
+      "text": "Choose packaging and storage appropriate to each product, then send it to shops, business buyers or homes."
     },
     {
-      "title": "Sell and collect",
-      "text": "Reach consumers or business buyers and collect while funding the next procurement cycle."
+      "title": "Collect payment and buy the next supply",
+      "text": "Receive payment under the sales terms while continuing to pay for milk, staff, transport and other running costs."
     }
   ],
   "specifics": [
     {
-      "title": "Different dairy products have different price cycles",
-      "text": "Procurement costs can change before selling prices adjust. Ghee, milk powder, fresh products and cheese may also face different demand and inventory cycles."
+      "title": "Milk can become dearer before pack prices change",
+      "text": "Parag may have to pay more for milk while selling products at the previous price. The effect depends on which products it sells and whether it can change prices without losing too many customers."
     },
     {
-      "title": "Cheese and whey economics are connected",
-      "text": "Whey arises in cheese processing. Read the combined production pathway, allocation of costs and demand for each output before assuming one branded product receives the entire benefit."
+      "title": "Cheese and whey are linked",
+      "text": "Making cheese also produces whey. Selling both can make better use of the milk, but the company still has to cover the equipment, processing, storage and selling costs involved."
     },
     {
-      "title": "Freshness and inventory use money",
-      "text": "Some products need rapid delivery while others can be stored longer. Storage, ageing, expiry and commodity-price changes can affect the value of stock and the cash needed to operate."
+      "title": "A full warehouse is not the same as a successful sale",
+      "text": "Stock is product waiting to be sold. It uses money and may lose value if demand or market prices fall. Customer bills that remain unpaid also leave less cash for the next milk purchase."
     }
   ],
   "watch": [
     [
-      "Can milk supply meet demand at a workable cost?",
-      "Procurement price and quality affect all downstream products.",
-      "Read milk collection, supply seasonality and input-cost commentary together. Check the timing of customer price changes and the product mix rather than assuming a rise in milk procurement translates directly into more profit."
+      "Is enough suitable milk available at a workable price?",
+      "Milk is the starting input for the dairy products.",
+      "Read supply and milk-cost commentary alongside changes in product prices. Check whether the company is paying more for milk before it can recover that increase from customers."
     ],
     [
-      "Which products are driving growth?",
-      "Revenue mix can matter as much as quantities.",
-      "Read consumer versus institutional sales and commentary on dairy staples, cheese, beverages and nutrition offerings. Distinguish higher prices from increased quantities, and do not assign company profit to an individual brand without disclosure."
+      "Which products and buyers are increasing sales?",
+      "More cheese sold to restaurants is different from a higher price on a home pack.",
+      "Read sales commentary for everyday dairy, cheese, drinks and whey products. Separate changes in quantities from changes in price, and household demand from business-customer demand."
     ],
     [
-      "Are cheese, whey and capacity working together?",
-      "Processing linkages can create opportunity and bottlenecks.",
-      "Read actual utilisation, commissioning and product demand, not just installed capacity. Consider co-product recovery, quality controls, energy and equipment costs; a new line needs orders and efficient operation to generate returns."
+      "Are the factories producing goods that buyers want?",
+      "New equipment does not earn money just because it can run.",
+      "Look for actual production, demand and use of the installed equipment. Check whether cheese and other outputs can be sold together and whether processing or storage limits hold up sales."
     ],
     [
-      "Is stock turning into cash without excessive ageing?",
-      "Longer storage and slow payment can absorb money.",
-      "Compare inventory, ageing where available, customer balances and operating cash flow. Separate stock built for seasonal supply or new capacity from goods whose sale or valuation has become less certain."
+      "Is product moving out before it loses value?",
+      "Unsold dairy and unpaid customer bills tie up money.",
+      "Compare stock, expiry or write-off disclosures, customer balances and cash from running the business. Ask whether stock is being held for a clear seasonal need or because sales are slower than expected."
     ],
     [
-      "Are quality and distribution supporting repeat purchases?",
-      "Consumer trust and product handling are operating necessities.",
-      "Use official compliance and quality disclosures, returns and channel commentary. Check whether growth requires more advertising, refrigeration, logistics or credit to customers; a premium label is not proof of a superior margin."
+      "Do quality and delivery support repeat buying?",
+      "A familiar brand still needs safe products and reliable availability.",
+      "Read quality, returns, storage and delivery disclosures. Check whether wider distribution needs extra refrigeration, transport, advertising or credit to shops, rather than assuming a premium price means a higher profit."
     ]
   ],
   "risks": [
     [
-      "Milk-cost volatility",
-      "Input inflation or supply disruption can pressure pricing and production."
+      "Milk supply becomes costly or unreliable",
+      "The company may struggle to obtain suitable milk or recover higher costs through selling prices."
     ],
     [
-      "Storage and quality",
-      "Spoilage, contamination, handling failures or compliance issues can cause waste and disruption."
+      "Products spoil or fail quality checks",
+      "Poor handling, storage or production problems can cause waste, recalls or lost trust."
     ],
     [
-      "Mix and commodity exposure",
-      "Unsold ingredients or changes in market prices can affect stock value and earnings."
+      "Stock sells for less than expected",
+      "Weak demand or changing dairy-product prices can reduce what stored products are worth."
     ],
     [
-      "Expansion and funding",
-      "New processing capacity, distribution and brand spending can consume cash before demand develops."
+      "Expansion uses cash before sales follow",
+      "Factories, delivery routes and new brands need money before they generate enough customer payments."
     ]
   ],
   "context": [
-    "A processing by-product can become a separate consumer proposition",
-    "The company’s disclosures connect whey processing with nutrition products. That connection is worth investigating, but the existence of the product does not establish its separate profit or the return on the capacity used to make it."
+    "A supermarket pack and a restaurant supply have different journeys",
+    "A household buys a convenient pack; a restaurant may order a larger amount repeatedly. Compare the packing, delivery and payment terms instead of treating all dairy sales as the same kind of business."
   ],
   "quiz": [
-    "Does selling a higher-priced dairy product automatically create a higher margin?",
-    "No. Ingredients, yield, processing, storage, packaging, distribution and marketing can also cost more. Read the matching costs and the company’s actual disclosure."
+    "Does a higher-priced dairy pack automatically leave more profit?",
+    "No. Milk, processing, packaging, storage, transport and advertising may cost more too. The price has to be compared with the costs of supplying that product."
   ],
   "sources": [
     [

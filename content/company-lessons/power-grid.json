@@ -1,121 +1,125 @@
 {
-  "summary": "A transmission-network business moving bulk electricity through high-voltage lines and substations, with telecom and consultancy activities alongside it.",
-  "description": "POWERGRID develops and operates infrastructure that transfers electricity between generation sources and demand centres. It is different from the power station that produces electricity and the local distribution business that bills most households. Its network requires construction, land access, technical reliability and the applicable tariff arrangement.",
-  "money": "The group earns transmission income under regulated or competitively awarded arrangements, with other income from services such as consultancy and telecom. Commissioned assets, availability, approved charges, operating costs, debt and collection affect the result.",
-  "customers": "Electricity-sector users and beneficiaries under the transmission framework, plus customers purchasing consultancy or telecommunications services.",
-  "drivers": "Project commissioning, tariff terms, network availability, investment cost, financing, customer collections and regulatory outcomes.",
+  "summary": "POWERGRID builds and runs the long-distance electricity lines and substations that connect power stations with places needing power.",
+  "description": "Electricity produced at a power station has to travel before it reaches a home or factory. POWERGRID supplies part of that route: high-voltage lines move power over long distances, and substations connect and control parts of the network, including changing voltage where needed. Local distribution networks then serve customers.",
+  "money": "Electricity companies pay for its network to be available to carry power under the relevant agreements and pricing rules. The group also earns from helping plan electricity networks and providing fibre connections. It pays to build and maintain lines and substations, employ people and fund borrowing. A proposed power line is different from one that has been built, tested and put into service.",
+  "customers": "Distribution companies and other electricity-sector users pay network charges under the applicable arrangements. POWERGRID usually does not send a household its local electricity bill. Businesses buying telecom connections or advisory work pay under separate service contracts.",
+  "drivers": "Completion of projects, the agreed or approved network charge, whether equipment remains ready to carry power, construction and maintenance costs, borrowing costs and customer payment.",
   "groups": [
     {
-      "title": "High-voltage transmission",
-      "examples": "Interstate lines, substations and related grid infrastructure.",
-      "explanation": "These move bulk electricity across regions and connect supply with demand. Transmission is a distinct job from generation or local distribution."
+      "title": "Long-distance electricity transmission",
+      "examples": "High-voltage lines, substations and connections between regions.",
+      "explanation": "These provide a route for electricity rather than making it. The network has to be connected, controlled and maintained so power can move where required under the electricity system’s operating rules."
     },
     {
-      "title": "HVDC and specialised network links",
+      "title": "Specialised transmission links",
       "examples": "High-voltage direct-current links and associated equipment.",
-      "explanation": "Different transmission technologies serve particular distance, capacity and system requirements. Technical operation and project costs matter."
+      "explanation": "Direct current means electrical current flows in one direction. These links use that transmission technology for the required connection. They are still part of the transmission job, with their own equipment, construction and maintenance needs."
     },
     {
-      "title": "Project development and consultancy",
-      "examples": "Engineering, transmission and relevant distribution or grid advisory work.",
-      "explanation": "A consulting assignment generates service revenue under its contract; a network project needs construction and commissioning before its operating economics can be assessed."
+      "title": "Project work and consultancy",
+      "examples": "Engineering and relevant network planning or advisory assignments.",
+      "explanation": "Consultancy means a customer pays for agreed advice or technical work. Building and operating a network asset is a different commitment, involving construction money and longer-term service obligations."
     },
     {
-      "title": "Telecommunications",
-      "examples": "Optical-fibre and related connectivity services using relevant network capabilities.",
-      "explanation": "Telecom customers and commercial terms differ from regulated transmission users. The activity should not be assumed to earn the same return as a power asset."
+      "title": "Telecom connections",
+      "examples": "Optical-fibre and related connectivity services.",
+      "explanation": "Optical fibre carries data using light. The group supplies relevant connectivity services alongside its electricity-network activities. The customer contract and costs differ from those of carrying power."
     }
   ],
   "basics": [
     {
-      "title": "Transmission provides a network service",
-      "text": "More electricity demanded nationally can create a need for new network investment, but does not automatically change the tariff on every existing line. Read the availability conditions and the specific revenue framework rather than treating the business as a simple electricity-volume seller."
+      "title": "A transmission charge is not a household electricity bill",
+      "text": "The power station earns for generating power; POWERGRID earns for the network service under its terms. The local supplier bills most households. These businesses can all be involved in electricity reaching the same customer, but they earn for different jobs."
+    },
+    {
+      "title": "Readiness can matter as much as the amount carried",
+      "text": "Availability means equipment is ready for service. Transmission charges can depend on agreed availability conditions and pricing rules. Higher national electricity use does not automatically increase the charge on every existing line."
     }
   ],
   "steps": [
     {
-      "title": "Obtain or win a project",
-      "text": "Secure the relevant mandate or competitive award and its commercial obligations."
+      "title": "Obtain a project with defined terms",
+      "text": "Receive the relevant assignment or win a competitive award. Read the promised completion date, charges and responsibilities."
     },
     {
-      "title": "Build and connect",
-      "text": "Arrange land access, permissions, equipment and construction, and coordinate with connected assets."
+      "title": "Arrange the route and build",
+      "text": "Obtain permissions to use the route, order equipment and construct lines and substations. Work must connect with the other parts of the electricity network."
     },
     {
-      "title": "Commission and maintain availability",
-      "text": "Bring the network into service and operate it within technical and reliability requirements."
+      "title": "Test and bring it into service",
+      "text": "Commissioning means completing the required testing and bringing the asset into service. Maintain it so it remains ready to carry power."
     },
     {
-      "title": "Bill, collect and reinvest",
-      "text": "Recover applicable transmission charges, pay running and finance costs and fund further projects."
+      "title": "Bill, collect and maintain the network",
+      "text": "Collect charges under the applicable arrangement while paying maintenance, staff and borrowing costs and funding further projects."
     }
   ],
   "specifics": [
     {
-      "title": "Construction work is not yet an earning asset",
-      "text": "Capital work in progress represents investment not yet ready for its intended use. Commissioning, tariff recognition and availability requirements affect when an asset starts contributing revenue. A large spending programme is therefore not the same as current income growth."
+      "title": "Spending on a line is different from having an earning line",
+      "text": "Capital work in progress means money spent on assets not yet ready for their intended use. A line may still need equipment, permissions, tests or a connection. Delays can postpone income while costs continue."
     },
     {
-      "title": "Regulated and competitively bid projects differ",
-      "text": "Under the relevant regulated framework, tariff determination reviews specified costs and norms. In tariff-based competitive bidding, the awarded tariff and bid obligations matter. Cost overruns cannot simply be assumed recoverable under either route."
+      "title": "An approved charge and a competitive bid work differently",
+      "text": "For a regulated project, the pricing authority reviews the relevant costs and rules when setting charges. In a competitively bid project, the promised charge and contract matter. Neither route means every cost overrun is automatically paid by customers."
     },
     {
-      "title": "Reliability and finance need to be read together",
-      "text": "High availability supports the network service, but earnings also depend on investment cost, debt terms and tariff treatment. A reliable asset funded at an excessive cost can still produce a disappointing return."
+      "title": "A reliable line can still have poor economics",
+      "text": "Keeping the network ready is necessary, but construction cost and borrowing terms also matter. A project that costs much more than planned may leave less after costs even when the equipment works well."
     }
   ],
   "watch": [
     [
-      "Are projects commissioned when expected?",
-      "Delay can postpone revenue while financing costs continue.",
-      "Read project schedules, commissioning, capital work in progress and dependencies on generation or connection infrastructure. Separate new awards from completed projects."
+      "Are projects becoming working connections on time?",
+      "A new award is future work, not a completed service.",
+      "Check the construction schedule, tests and commissioning. Read whether connected power stations or other lines must also be ready before the project can be useful and earn under its terms."
     ],
     [
-      "What is the tariff and recovery mechanism?",
-      "Commercial terms shape the return on investment.",
-      "Identify the regulated or competitive-bidding route, approved charges, availability conditions and any tariff disputes or adjustments. Do not substitute an assumed standard return for the actual project terms."
+      "What can the project charge customers?",
+      "The agreement controls which costs and returns can be recovered.",
+      "Identify whether charges are set through regulatory review or competitive bidding. Read availability conditions, disputed costs and later changes rather than assuming a standard guaranteed return."
     ],
     [
-      "Is the network technically reliable?",
-      "Outages and performance conditions matter.",
-      "Read availability, forced outages, maintenance and relevant incentive or penalty disclosures. A national demand increase is not a substitute for network-performance evidence."
+      "Is equipment remaining ready for service?",
+      "Faults and outages can affect charges and add repair costs.",
+      "Read availability, unexpected outages and maintenance. Check any rewards or deductions linked to performance, with the period and assets covered."
     ],
     [
-      "Does capital spending remain financially productive?",
-      "Expansion uses cash and can increase borrowing.",
-      "Compare capital expenditure, capitalisation and commissioned assets with revenue, operating cash flow, debt and interest costs. Spending and capitalisation are different stages."
+      "Does new construction justify the money committed?",
+      "More spending is not itself more income.",
+      "Compare investment still under construction with completed assets, later income, cash from operations and borrowing costs. Read when investment moves from construction into assets ready for use; distinguish this from starting construction."
     ],
     [
-      "Are bills collected and reporting scopes comparable?",
-      "Group structures and timing can change the totals.",
-      "Check customer receivables, collections, provisions and subsidiary/project-company scope. Distinguish telecom and consultancy from transmission and keep standalone and consolidated figures separate."
+      "Are customers paying, and which business is being measured?",
+      "Unpaid bills and group-company changes can alter the picture.",
+      "Check money customers owe and payments collected. Keep transmission, telecom and consultancy distinct, and do not mix the parent’s standalone accounts with consolidated accounts covering controlled companies."
     ]
   ],
   "risks": [
     [
-      "Construction and land-access delays",
-      "Permissions, right-of-way issues, equipment supply and connected-project delays can defer commissioning."
+      "Routes or construction are delayed",
+      "Permissions to use land, equipment supply or delays in connected projects can postpone service."
     ],
     [
-      "Tariff and regulatory changes",
-      "Disallowances, competitive bid economics or revised norms can affect recovery and returns."
+      "Allowed charges or bid costs disappoint",
+      "A pricing decision or an overly costly project can reduce what remains after costs."
     ],
     [
-      "Operational disruption",
-      "Grid faults, extreme weather and equipment failures can impair availability and increase costs."
+      "The network is disrupted",
+      "Equipment faults, severe weather and other outages can interrupt availability and require repairs."
     ],
     [
-      "Funding and collection pressure",
-      "Borrowing costs and delayed receipts can constrain cash while investment continues."
+      "Cash is stretched",
+      "Late customer payments and borrowing costs can squeeze funds while construction continues."
     ]
   ],
   "context": [
-    "Renewable growth also needs a usable connection",
-    "A generating project and its evacuation network have to be ready together. Investment announcements on either side are incomplete evidence until the connection is operational and the relevant commercial conditions are met."
+    "A new renewable station also needs a route to its buyer",
+    "A solar or wind project being finished does not by itself establish that the required transmission connection is ready. Follow both projects through to working connections and the conditions needed to begin charging."
   ],
   "quiz": [
-    "Is a transmission line the same business as the plant producing the electricity it carries?",
-    "No. Generation produces electricity; transmission moves bulk power under a network-service framework. Their customers, costs, performance measures and revenue mechanisms can differ."
+    "Does POWERGRID usually make the electricity carried by its transmission lines?",
+    "Its main transmission job is to carry power through a network. Generating stations produce it, and local distribution companies take it towards users. Check the specific business rather than treating them as the same job."
   ],
   "sources": [
     [

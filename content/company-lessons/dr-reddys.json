@@ -1,121 +1,125 @@
 {
-  "summary": "A pharmaceutical group supplying generic medicines, active ingredients and services, consumer health and innovative-medicine programmes.",
-  "description": "Dr. Reddy’s develops and supplies finished medicines and pharmaceutical inputs, and provides development and manufacturing services to partners. Its website describes Generics, API & Services, Innovative Medicines and Consumer Health. These business descriptions should be distinguished from the accounting segments used in a particular financial report.",
-  "money": "The group earns through medicine and ingredient sales and contracted pharmaceutical services and arrangements. Development, manufacturing, regulatory compliance, distribution, research and acquisition costs affect what remains. Rights and revenue recognition depend on the specific product, country and contract.",
-  "customers": "Pharmaceutical distributors, pharmacies, health systems and other drug developers or manufacturers buy different offerings; prescribers, patients, payers and regulators influence demand.",
-  "drivers": "Product mix, generic competition, launch timing, regulatory approvals, quality, contract delivery, research spending and market access.",
+  "summary": "Dr. Reddy’s supplies finished medicines, ingredients for other medicine makers, research and manufacturing services, and consumer-health products.",
+  "description": "The company can sell a pack of finished medicine, supply the active ingredient another manufacturer needs, or carry out agreed work for a drug developer. These are different jobs with different buyers. Its new-medicine programmes also involve research that may take time and may not reach sale.",
+  "money": "Customers pay for medicines, ingredients or the services and rights in their agreements. The company pays for ingredients, people, factories, quality checks, research and getting products to buyers. Stock and unpaid customer bills can use cash before the sale is collected.",
+  "customers": "Distributors, pharmacies and health systems buy finished medicines; other pharmaceutical developers and manufacturers buy ingredients or technical work. Patients use medicines, while doctors, buying organisations and the authorities that permit medicine sales influence which products can be supplied and paid for.",
+  "drivers": "Actual product sales, competition and prices, permissions to sell, dependable manufacturing, delivery of contracted work, research spending and the cost of adding new businesses.",
   "groups": [
     {
-      "title": "Generics and biosimilars",
-      "examples": "Branded and unbranded generic formulations and biosimilar medicines across served markets.",
-      "explanation": "A formulation is a finished dose. A biosimilar is developed against an approved reference biological medicine under the relevant regulatory pathway; it is not simply the same development task as a conventional generic tablet."
+      "title": "Finished generic and biological medicines",
+      "examples": "Branded and unbranded generic medicines, and biosimilars in served markets.",
+      "explanation": "A generic is a version of an existing medicine that must meet the relevant approval standards. Biological medicines are made using living systems; a biosimilar is developed against an already approved biological medicine under a separate set of requirements. Neither is simply an ingredient sale."
     },
     {
-      "title": "API and pharmaceutical services",
-      "examples": "Active ingredients and discovery, development and manufacturing services, including relevant Aurigene operations.",
-      "explanation": "These are often business-to-business offerings. The customer may be a pharmaceutical developer rather than a pharmacy or patient."
+      "title": "Ingredients and work for other medicine makers",
+      "examples": "Active ingredients and research, development and manufacturing services, including relevant Aurigene businesses.",
+      "explanation": "An active ingredient is the substance used for the intended effect of a medicine. A business customer may buy it or pay for a task such as developing or manufacturing a product. Payment depends on what has been supplied or completed under the contract."
     },
     {
-      "title": "Innovative medicines",
-      "examples": "Research programmes, differentiated therapies and commercial partnerships.",
-      "explanation": "A programme’s existence is not an approval or a sale. Check development stage, rights and funding obligations."
+      "title": "New and differentiated medicines",
+      "examples": "Innovative-medicine research programmes and relevant partnerships.",
+      "explanation": "Research is work towards a possible product. The company may still need testing, permission and a route to buyers. Announcing a programme does not mean a medicine is approved or already earning sales."
     },
     {
       "title": "Consumer health",
-      "examples": "Non-prescription and everyday health products, including acquired brand portfolios where rights apply.",
-      "explanation": "Country rights, distribution and integration matter. Product descriptions explain the business and are not advice to use a treatment."
+      "examples": "Non-prescription and everyday health products, including acquired portfolios where rights apply.",
+      "explanation": "Buying a portfolio means buying a collection of products or related business rights. Dr. Reddy’s still has to arrange supply, distribution and selling in the countries covered by those rights."
     }
   ],
   "basics": [
     {
-      "title": "A scientific capability can be sold in different ways",
-      "text": "The company might sell an ingredient, a finished medicine or development/manufacturing work. These create different prices, customer relationships, approval needs and working-capital requirements. A similar therapy name does not make their economics comparable."
+      "title": "Follow what the buyer receives",
+      "text": "A pharmacy buying finished packs is a different customer from a manufacturer buying ingredients or a developer buying research work. Ask what is delivered, when it is accepted and when the buyer must pay before comparing these activities."
+    },
+    {
+      "title": "The company must keep funding the next steps",
+      "text": "Research, factories and stock need money before all customer payments arrive. Selling a product at more than its manufacturing cost does not yet cover every cost of running and developing the business."
     }
   ],
   "steps": [
     {
-      "title": "Choose a product or partner programme",
-      "text": "Identify a formulation, ingredient, research project or contracted service with a defined market."
+      "title": "Agree on a product or a job",
+      "text": "Choose a medicine or ingredient to develop, or agree the work and payment terms with a business customer."
     },
     {
-      "title": "Develop and qualify it",
-      "text": "Complete the required technical work, evidence, regulatory steps and customer qualification."
+      "title": "Develop, test and obtain permissions",
+      "text": "Complete the technical work, required evidence and approvals. A business customer may also need to check and accept the supplier’s process."
     },
     {
-      "title": "Manufacture and supply",
-      "text": "Maintain quality, capacity and reliable delivery under applicable requirements."
+      "title": "Make and deliver what was promised",
+      "text": "Use suitable people and equipment, check quality and supply the product or completed work under the agreement."
     },
     {
-      "title": "Collect and reinvest",
-      "text": "Collect from customers while funding stock, research, commercial support and the next generation of offerings."
+      "title": "Collect payment and fund continuing work",
+      "text": "Bill and receive payment while paying suppliers, staff and other costs. Keep supporting existing products and funding further development."
     }
   ],
   "specifics": [
     {
-      "title": "A successful generic can face a changing market",
-      "text": "The arrival of more competitors and changes in customer purchasing can reduce prices. A new launch can temporarily change growth or margin, so investigate how sustainable the product contribution is rather than extrapolating its early period."
+      "title": "A strong generic launch may not keep the same price",
+      "text": "More competing versions or a large buyer changing suppliers can reduce earnings later. Investigate how much growth depends on particular products and whether alternatives are entering."
     },
     {
-      "title": "Consumer-health expansion needs integration",
-      "text": "Acquired portfolios can add products and market access while creating payments, financing costs, integration work and intangible-asset amortisation. Compare existing-business growth with the revenue added through an acquisition."
+      "title": "Buying a business adds more than sales",
+      "text": "An acquired portfolio can bring new customers, but also purchase payments, integration work and borrowing costs. Amortisation means spreading the accounting cost of certain purchased rights over their useful life; it can reduce later profit without being a fresh purchase payment each time."
     },
     {
-      "title": "Services require delivery, not just a contract announcement",
-      "text": "A discovery or manufacturing relationship can proceed in stages. Read contracted scope, customer milestones and the revenue-recognition basis. A headline deal value or capacity announcement need not be revenue already earned."
+      "title": "An announced service contract still needs delivery",
+      "text": "Research or manufacturing work may be paid in stages. A milestone is an agreed condition, such as completing a task, that can trigger payment. Check what work is done rather than treating the whole announced contract value as sales already earned."
     }
   ],
   "watch": [
     [
-      "What explains product and market growth?",
-      "New launches, pricing and acquisitions can move the total differently.",
-      "Read country and business reviews with the same period and currency basis. Separate base-business performance, launch effects and newly consolidated operations where disclosed."
+      "What is driving growth in products and markets?",
+      "New launches and purchased businesses can change the total differently.",
+      "Read the business reviews for the same period and currency. Separate products already sold before an acquisition from sales added by the acquired business, where the company explains them."
     ],
     [
-      "How durable are important generic contributions?",
-      "Competition can change economics after launch.",
-      "Check product concentration, regulatory approvals, exclusivity and pricing commentary. Use actual sales and supply evidence, not a filing count, as evidence of commercial performance."
+      "Can important generic products keep earning?",
+      "Competition can change prices after launch.",
+      "Check which products matter most, whether new alternatives are entering and what the company says about prices and supply. Permission to sell is different from actual customer purchases."
     ],
     [
-      "Are facilities and supply compliant?",
-      "Quality problems can interrupt sales to specific markets.",
-      "Read official findings and company responses by site, date and affected products. Distinguish an observation, restriction, remediation programme and subsequent regulatory outcome."
+      "Are factories able to deliver reliably?",
+      "Quality restrictions can affect particular products or countries.",
+      "Read official findings and company responses by site and date. Check what changes are required and whether the regulator has confirmed that restrictions were resolved."
     ],
     [
-      "Are acquisitions and research earning their cost?",
-      "Growth can require substantial cash and ongoing expenses.",
-      "Read acquisition consideration, goodwill, intangible assets, amortisation and research expense. Targets and pipeline valuations are not achieved earnings; identify the obligation and evidence for each project."
+      "What has expansion and research cost so far?",
+      "A larger product list does not prove the spending is worthwhile.",
+      "Read purchase payments, integration work, research spending and later charges for purchased rights. Goodwill is the purchase price left after identifying the acquired net assets; a later write-down can signal that expectations were too high."
     ],
     [
-      "Do contracts and accounting earnings convert into cash?",
-      "Stock and customer payment cycles can absorb money.",
-      "Read operating cash flow, receivables, inventory and contract balances alongside the relevant revenue-recognition policy. Separate segment results from consolidated after-tax profit."
+      "Are completed sales and services being paid for?",
+      "Stock and unpaid bills can absorb cash despite profit.",
+      "Compare cash from daily operations with customer amounts due, stock and contract payments. Keep profit after all group costs separate from earlier measures such as gross profit."
     ]
   ],
   "risks": [
     [
-      "Generic-price pressure",
-      "New competitors or purchasing changes can weaken important product earnings."
+      "Generic prices fall",
+      "More competitors or different purchasing decisions can weaken sales from important products."
     ],
     [
-      "Regulatory and supply disruptions",
-      "Quality findings, restrictions and shortages can affect launches and existing supplies."
+      "Quality or supply problems",
+      "Factory findings, restrictions or input shortages can interrupt sales and launches."
     ],
     [
-      "Development uncertainty",
-      "Research, trials and approvals may not deliver a commercially viable product."
+      "Development work does not reach a successful sale",
+      "Testing, permissions or demand may fail to support the spending."
     ],
     [
-      "Integration, legal and currency exposure",
-      "Acquisitions, intellectual-property disputes and overseas currencies can affect both earnings and cash."
+      "Expansion and overseas operations bring other costs",
+      "Integrating acquired products, disputes over intellectual property and changes in exchange rates can affect earnings and cash."
     ]
   ],
   "context": [
-    "Business headings can differ from financial segments",
-    "The website helps a beginner understand the offerings. An annual report may group results differently or change its presentation over time. Match each financial label to the period’s segment note instead of allocating earnings directly to website categories."
+    "Website categories and financial categories can differ",
+    "The website describes what customers can buy. The annual accounts may combine those offerings into different reporting groups. Match the final financial table to its own definitions instead of guessing a separate profit for each website heading or brand."
   ],
   "quiz": [
-    "Is an ingredient sale the same kind of business as a finished branded medicine sale?",
-    "No. The customer, development work, approvals, manufacturing and route to market can differ. Understand the offering and contract before comparing its sales and profit with another activity."
+    "Is supplying an ingredient the same transaction as selling a finished medicine?",
+    "No. An ingredient is an input another manufacturer uses. A finished medicine is supplied in its approved form for use. The buyer, required work and cost of reaching that buyer can differ."
   ],
   "sources": [
     [

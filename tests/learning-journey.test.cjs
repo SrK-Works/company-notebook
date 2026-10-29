@@ -27,6 +27,6 @@ test('investigation guidance is complete and the early business explanation does
   const opener=ctx.testOpeningSentence(c.money),detail=ctx.testBusinessDetail(c);assert.ok(detail.length>10,c.id);assert.ok(!detail.includes(opener),c.id);assert.equal((opener+' '+detail).trim(),c.money,c.id);
  }
  assert.equal(new Set(instructions).size,instructions.length);
- assert.match(ctx.companyPrimer.render(ctx.COMPANIES.find(c=>c.id==='glass-wall-systems'),'specifics'),/Retention is money held back/);
- assert.match(ctx.companyPrimer.render(ctx.COMPANIES.find(c=>c.id==='hdfc-bank'),'basics'),/provision is an accounting charge/i);
+ assert.match(ctx.companyPrimer.render(ctx.COMPANIES.find(c=>c.id==='glass-wall-systems'),'specifics'),/Retention means money the customer keeps/);
+ assert.match(ctx.companyPrimer.render(ctx.COMPANIES.find(c=>c.id==='hdfc-bank'),'basics'),/charge or allowance for possible loan losses, called a provision/i);
 });

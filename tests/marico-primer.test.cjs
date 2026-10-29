@@ -31,7 +31,7 @@ test('Marico keeps product revenue separate from geographical results and reconc
 test('Marico teaches its distinctive costs, run-rate definitions and brand rights without losing product images',()=>{
  const b=c.companyPrimer.render(company,'basics'),s=c.companyPrimer.render(company,'specifics');
  for(const text of ['Coconut oil and hair oils','Cooking oils and packaged foods','Grooming and personal care','Consumer products outside India','Parachute and Parachute Advansed are separate brands'])assert.ok(b.includes(text),text);
- for(const text of ['dried coconut kernel','annualised revenue run-rate','Constant-currency growth','outside Kaya clinics','does not mean Marico owns Kaya’s clinic business'])assert.ok((b+s).includes(text),text);
+ for(const text of ['dried flesh from inside a coconut','annualised revenue run-rate','Constant-currency growth','outside Kaya clinics','does not mean Marico owns Kaya’s clinic business'])assert.ok((b+s).includes(text),text);
  assert.deepEqual(Array.from(c.PRODUCT_VISUALS.marico,p=>p.image).sort(),originalImages);
  for(const p of c.PRODUCT_VISUALS.marico){assert.ok(fs.existsSync('dist/'+p.image));assert.equal(p.url,'https://marico.com/india/brands');}
  assert.ok(company.products.some(([name,type])=>name==='Kaya personal care'&&type.includes('rights')));

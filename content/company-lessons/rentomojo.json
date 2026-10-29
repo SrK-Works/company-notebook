@@ -1,122 +1,122 @@
 {
   "listingLabel": "Listing status not verified",
-  "summary": "A subscription rental service for furniture, appliances and other selected household products, with availability and terms varying by city and plan.",
-  "description": "Rentomojo helps customers use furniture and appliances without buying those items outright at the start. The service must arrange products, deliver and maintain them under the relevant terms, collect rent and manage returns and redeployment. A rented product can serve successive customers over its useful life.",
-  "money": "Revenue comes from rental subscriptions and applicable service or contractual charges. Product sourcing or financing, delivery, maintenance, storage, refurbishment and uncollected payments affect the economics. A refundable security deposit is an obligation under its terms, not automatically rental income.",
-  "customers": "Households, students and professionals seeking furniture or appliances for a location and duration, with different plans and product availability by market.",
-  "drivers": "Asset utilisation, realised rent, customer retention, collections, product life, logistics density, maintenance and financing costs.",
+  "summary": "A service that rents furniture and appliances to customers under plans that vary by product, city and rental period.",
+  "description": "Rentomojo lets a customer use household goods without buying them outright at the start. For example, someone moving to a city for a temporary job might rent a bed and washing machine. The company arranges the items, takes them to the home, provides the support covered by the plan and collects them when the rental ends.",
+  "money": "Customers pay rent and any service or other charges allowed by their agreement. The business pays to obtain or finance products, move and install them, maintain them, store them and prepare returned items for another customer. A refundable deposit remains money owed back under the terms; it is not automatically income or profit.",
+  "customers": "Households, students and professionals needing furniture or appliances for a period of time. What is available and the payment, support and return terms vary by city and plan.",
+  "drivers": "How long products earn paid rent, gaps between customers, payments actually collected, repairs, transport, storage and the cost of obtaining and funding the goods.",
   "groups": [
     {
-      "title": "Furniture rentals",
-      "examples": "Beds, sofas, wardrobes, tables, chairs and selected furnishing packages.",
-      "explanation": "Customers pay for use under the rental agreement. The operator must manage delivery, condition and the product’s ability to serve another customer after return."
+      "title": "Furniture for rent",
+      "examples": "Beds, sofas, wardrobes, tables, chairs and selected packages.",
+      "explanation": "The customer pays to use the furniture under the agreement. The company must bring it in usable condition and manage what happens when it is returned."
     },
     {
-      "title": "Appliance rentals",
-      "examples": "Refrigerators, washing machines, air conditioners, televisions and other available appliances.",
-      "explanation": "Installation, reliability, maintenance and energy or technical specifications influence customer choice and service costs."
+      "title": "Appliances for rent",
+      "examples": "Refrigerators, washing machines, air conditioners, televisions and other available items.",
+      "explanation": "Appliances need suitable installation and reliable operation. Maintenance covered by the plan still costs the company money."
     },
     {
-      "title": "Packages and subscription plans",
-      "examples": "Bundled furniture or appliance arrangements, including relevant subscription options.",
-      "explanation": "A lower monthly price may have different tenure and closure terms. Read the selected plan rather than assuming all rentals are interchangeable."
+      "title": "Packages and rental plans",
+      "examples": "Furniture or appliance combinations and subscription options.",
+      "explanation": "A subscription is an agreement to pay regularly for continued use. Compare how long the customer commits, what is included and what it costs to end early, rather than looking only at the monthly price."
     },
     {
-      "title": "Service and reverse logistics",
-      "examples": "Delivery, installation, relevant maintenance, relocation and return arrangements under the plan.",
-      "explanation": "The rental experience continues after delivery. Service quality and the cost of collecting, repairing and redeploying items are part of the business."
+      "title": "Support and collecting items back",
+      "examples": "Installation, covered maintenance, relocation and returns under the plan.",
+      "explanation": "The job continues after the product reaches the home. When it comes back, the company may need to inspect, repair, clean and store it before finding another paying user."
     }
   ],
   "basics": [
     {
-      "title": "The same asset can earn repeatedly, but not continuously by default",
-      "text": "An item earns while deployed with a paying customer. Time spent awaiting delivery, stored between customers or under repair can reduce utilisation. Products also wear out or become less desirable. Repeated rentals must cover the cost of obtaining, serving and eventually retiring the item."
+      "title": "One washing machine can earn rent from more than one customer",
+      "text": "It earns while someone is paying to use it. A machine in storage, awaiting transport or being repaired may earn nothing during that time. Utilisation means how much of the available product time is actually being used; check whether the reported measure means paid rentals."
     }
   ],
   "steps": [
     {
-      "title": "Arrange suitable rental products",
-      "text": "Source items and organise their funding, storage and readiness for use."
+      "title": "Obtain an item suitable for repeated rental",
+      "text": "Buy or arrange the product, fund it and make it ready for a customer. Storage and funding can cost money before rent starts."
     },
     {
-      "title": "Match and deliver",
-      "text": "Agree the customer’s plan and deliver or install the relevant product."
+      "title": "Agree the plan and take it to the home",
+      "text": "Confirm the price, period, deposit, included services and return terms, then transport and install the item as needed."
     },
     {
-      "title": "Collect rent and provide service",
-      "text": "Manage invoices, payment collection and covered maintenance during the term."
+      "title": "Collect rent and carry out promised support",
+      "text": "Send bills, receive payments and provide the maintenance or other support included in the agreement."
     },
     {
-      "title": "Return, refurbish and redeploy",
-      "text": "Inspect returned items, repair or prepare them, and seek the next suitable customer or disposal route."
+      "title": "Collect the item and prepare it for the next user",
+      "text": "Inspect its condition, make necessary repairs and seek another paying customer, or retire the item when it is no longer worth renting."
     }
   ],
   "specifics": [
     {
-      "title": "Utilisation is an operating and cash question",
-      "text": "A large product fleet is useful only if enough of it earns collectible rental income. Follow deployed versus idle assets, repair downtime and the time between customers where disclosed. Registered users or website orders do not establish paid utilisation."
+      "title": "A large stock of products is useful only if enough earn rent",
+      "text": "The company still pays for items sitting unused. Long gaps, damage or repairs can reduce what a product earns over its life. Website registrations and delivery counts are not the same as collected rent."
     },
     {
-      "title": "Customer tenure affects the recovery of acquisition costs",
-      "text": "Delivery, installation and bringing in a customer can require spending early in the relationship. A customer leaving sooner than expected changes the economics even if an early-closure charge applies. Contractual charges must still be collectible."
+      "title": "A short rental can be harder to earn back",
+      "text": "Taking a product to a home, installing it and winning the customer cost money early. If the customer leaves sooner, fewer rental payments cover those costs. An early-exit charge only helps if it is due and collected."
     },
     {
-      "title": "Deposits, recurring rent and asset spending are different",
-      "text": "A deposit may be refundable subject to the contract. Rent is earned over the relevant service period, while obtaining rental assets can require cash earlier. Accounting depreciation or lease expenses and actual cash payments may follow different schedules."
+      "title": "Rent, deposits and product spending happen at different times",
+      "text": "The company may pay for a product before receiving much rent. It may also have to return a deposit. Depreciation is the accounting charge for a product losing value over time; it need not match the date cash was spent buying it."
     }
   ],
   "watch": [
     [
-      "Do rental assets earn for enough of their useful life?",
-      "Idle or damaged products can reduce returns.",
-      "Read paid deployment, utilisation, downtime, average rental duration and useful-life assumptions where disclosed. Do not treat the fleet’s purchase value or a delivery count as rental revenue."
+      "Do products earn rent for enough of their usable life?",
+      "Idle or damaged items still cost the business money.",
+      "Look for time with paying users, time in storage or repair and expected product life. Do not treat the purchase value of all items as rental revenue."
     ],
     [
-      "Are rentals being collected and customers retained?",
-      "Invoiced rent and collected money can differ.",
-      "Examine overdue balances, credit losses, cancellations, refunds and renewal behaviour. Separate newly acquired customers from repeat or continuing rentals and identify the stated cohort and period."
+      "Are customers paying and continuing their rentals?",
+      "A rent bill is not the same as money received.",
+      "Read overdue payments, unpaid amounts written off, cancellations and renewals. Where customer groups are compared, check when those customers started and how long they have been observed."
     ],
     [
-      "Do service and logistics costs support the plan economics?",
-      "Each move and repair consumes resources.",
-      "Read delivery density, installation, maintenance, reverse-logistics and refurbishment costs. A plan advertised with covered maintenance still creates a cost for the operator."
+      "Do transport and support costs fit the plan price?",
+      "Every move, installation and repair needs people or money.",
+      "Read the costs of taking items to homes, collecting them, repairing them and storing them. Included maintenance is still a business expense."
     ],
     [
-      "Can the business fund products before rental cash arrives?",
-      "Growth can consume cash even when recurring revenue rises.",
-      "Check product purchasing or leasing, financing terms, depreciation, borrowing and operating cash flow. Refundable deposits should not be treated as freely distributable profit."
+      "Can the company fund products before rent pays back their cost?",
+      "Growth may need cash even while rental income increases.",
+      "Check product purchases or rental arrangements with suppliers, borrowing, repayments and cash from normal operations. Do not treat refundable deposits as spare profit."
     ],
     [
-      "Are plan promises and company identity clear?",
-      "City and contract terms differ, and investment status needs verification.",
-      "Use the current official plan and agreement for tenure, closure, damage and deposit terms. Separately verify company identity, exchange listing and audited reporting; an IPO filing or issue-information page alone is not proof that shares trade."
+      "Are the plan and the company’s investment status clear?",
+      "A rental plan and an exchange-traded share are different things to verify.",
+      "Use the current official agreement for rental length, damage, refunds and early closure. Separately check the legal company and exchange admission: an IPO document alone does not establish that shares have begun trading."
     ]
   ],
   "risks": [
     [
-      "Underutilised or obsolete products",
-      "Changing demand, wear and long idle periods can lower the return on the rental fleet."
+      "Products wait too long without paying users",
+      "Wear, outdated goods or weak demand can leave items idle and reduce their lifetime earnings."
     ],
     [
-      "Collection and early-exit losses",
-      "Customers may stop paying, leave early or dispute charges, reducing realised income."
+      "Customers stop paying or leave early",
+      "Missed rent, disputed charges and shorter rentals can leave costs unrecovered."
     ],
     [
-      "Service and return costs exceed expectations",
-      "Damage, repairs, storage and frequent moves can consume the benefit of recurring rent."
+      "Repairs and moves cost more than expected",
+      "Damage, storage and repeated transport can absorb regular rental payments."
     ],
     [
-      "Funding or expansion outruns cash recovery",
-      "A growing fleet and new locations need money before customer rentals repay that investment."
+      "Expansion needs cash faster than rentals provide it",
+      "More items and cities require spending before enough payments have arrived."
     ]
   ],
   "context": [
-    "Read the complete rental cycle",
-    "The business does not finish at delivery. The condition of returned goods, cost of refurbishment and speed of finding another paying user can materially change lifetime asset economics. This helps explain why recurring rental revenue alone is an incomplete measure of success."
+    "Follow the item after the first customer leaves",
+    "A successful first rental is only part of the story. The item’s condition, collection and repair costs, and time taken to find another user affect what it earns overall. Regular rent is useful only after those repeated costs are considered."
   ],
   "quiz": [
-    "Is a refundable customer deposit the same as profit from renting a product?",
-    "No. Its repayment and permitted deductions depend on the agreement. Rental earnings must be assessed after product, service, collection and financing costs, and the deposit obligation must remain separate."
+    "Is a refundable deposit the same as profit from renting a product?",
+    "No. The agreement determines when it must be returned and what may be deducted. Rental profit must cover the product, service, collection and funding costs separately."
   ],
   "sources": [
     [

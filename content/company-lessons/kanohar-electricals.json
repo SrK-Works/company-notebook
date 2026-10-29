@@ -1,126 +1,126 @@
 {
   "listingLabel": "Listing status not verified",
-  "summary": "Electrical equipment and project services for power networks, including transformers, reactors, substations and transmission-related work.",
-  "description": "Kanohar makes equipment that helps electricity move at the required voltage and provides engineering and construction services for parts of the network. It serves utilities, railways and other infrastructure customers. It is not simply a company selling electricity to households.",
-  "money": "Revenue comes from equipment supply and project contracts under the relevant delivery and completion terms. Material cost, engineering, manufacturing, testing, site work, warranty and collection affect earnings and cash.",
-  "customers": "Electricity utilities, railway and infrastructure customers, industrial buyers and project contractors. Customer approval and contract acceptance matter as well as the physical manufacture of equipment.",
-  "drivers": "Firm orders, product and project mix, customer specifications, material prices, factory and site execution, testing, acceptance, working capital and payment.",
+  "summary": "Kanohar makes electrical equipment such as transformers and helps build the substations and connections used to move electricity to where it is needed.",
+  "description": "Electricity travels from a generating plant through a network before reaching a railway, factory or home. Different stages need different voltages; voltage is often compared to electrical pressure. A transformer changes the voltage. Kanohar supplies this equipment and also carries out parts of the work needed to build the network.",
+  "money": "Customers pay for equipment or an agreed construction project. Kanohar pays for metals and other parts, engineers, factory workers, testing, delivery and any site work it has promised. Materials or equipment can need funding before a customer accepts the work and pays.",
+  "customers": "Electricity utilities, railway and infrastructure organisations, factories and project contractors. They buy specified equipment or a defined project; they do not simply pay Kanohar a household electricity bill.",
+  "drivers": "Firm customer orders, suitable designs, available materials, reliable manufacturing and testing, ready sites and timely customer payment.",
   "groups": [
     {
-      "title": "Power and distribution transformers",
-      "examples": "Transformers used at different parts of the electricity network.",
-      "explanation": "A transformer changes voltage to suit transmission or use. It is equipment within a network rather than an electricity-generating source."
+      "title": "Transformers for electricity networks",
+      "examples": "Power and distribution transformers.",
+      "explanation": "A transformer helps change voltage for moving electricity over the network or supplying users. For example, a utility may need equipment at a substation before electricity continues towards customers. The equipment changes voltage; it does not generate the electricity."
     },
     {
-      "title": "Railway transformers",
-      "examples": "Traction and Scott-connected transformer offerings.",
-      "explanation": "Railway applications have specific technical and customer requirements. A product’s existence does not establish the volume of railway demand or its separate profitability."
+      "title": "Equipment for railway power",
+      "examples": "Traction and Scott-connected transformers.",
+      "explanation": "Traction means the power used to move trains. These transformer designs meet particular railway supply needs. The buyer specifies what the equipment must do and how it will be checked; making a standard household electrical product is a different job."
     },
     {
-      "title": "Reactors and substations",
-      "examples": "Shunt reactors and substation-related equipment and systems.",
-      "explanation": "Reactors help manage electrical conditions in the network; switchgear and substations connect, control and protect equipment. These functions should not be confused with power generation."
+      "title": "Equipment at substations",
+      "examples": "Shunt reactors, switchgear and related substation systems.",
+      "explanation": "A substation is a place where electricity is connected, controlled or changed to the required voltage. Switchgear turns connections on or off and helps protect equipment. A shunt reactor helps control voltage conditions on the network. These are different jobs within the same electricity system."
     },
     {
-      "title": "Engineering and construction",
-      "examples": "Substations and transmission-related project work.",
-      "explanation": "EPC means engineering, procurement and construction. A project supplier may coordinate design, purchased equipment and site work as well as its own manufactured products."
+      "title": "Building parts of the network",
+      "examples": "Substation and transmission-related project work.",
+      "explanation": "The customer may ask Kanohar to arrange design, equipment purchases and construction, rather than buy a transformer alone. This combined responsibility is called engineering, procurement and construction, often shortened to EPC."
     }
   ],
   "basics": [
     {
-      "title": "Electricity needs a network as well as generators",
-      "text": "Generation produces electricity; transmission, substations and distribution move and adapt it for use. Equipment makers can benefit from network investment without owning the generating stations."
+      "title": "Selling equipment differs from delivering a whole project",
+      "text": "An equipment order may cover making, testing and supplying a transformer. A broader project can also require foundations, other suppliers, site installation and checks before use. Read exactly which jobs the company has agreed to do."
     },
     {
-      "title": "A supply contract and an EPC contract differ",
-      "text": "Making a transformer concentrates risk in production, testing and delivery. A broader project can add civil work, suppliers, site access, coordination and commissioning obligations."
+      "title": "The buyer’s approval is part of the sale",
+      "text": "The customer can require a design to be approved and equipment to pass tests. A completed unit waiting for inspection or installation may still need more work before it can be accepted and paid for."
     }
   ],
   "steps": [
     {
-      "title": "Qualify and win an order",
-      "text": "Meet the customer’s requirements and agree specifications, price and milestones."
+      "title": "Agree what the customer needs",
+      "text": "Confirm the design, quantity, price, testing, delivery dates and payment terms."
     },
     {
-      "title": "Engineer and procure",
-      "text": "Design the equipment or project and arrange the necessary materials and components."
+      "title": "Buy parts and make the equipment",
+      "text": "Arrange metals and components, then carry out factory work and the required tests."
     },
     {
-      "title": "Manufacture, test and execute",
-      "text": "Complete factory work and the contracted site activities and inspections."
+      "title": "Deliver and complete any site work",
+      "text": "Send equipment to the customer and do any agreed installation, construction or checks."
     },
     {
-      "title": "Obtain acceptance and collect",
-      "text": "Meet contractual milestones and recover payments, including any retentions or other conditions."
+      "title": "Obtain acceptance, bill and collect",
+      "text": "Meet the payment conditions and collect the customer’s money. Some payment may be held back until later checks or defect conditions have been satisfied."
     }
   ],
   "specifics": [
     {
-      "title": "Specifications shape both opportunity and cost",
-      "text": "Voltage, application, customer approval and testing requirements influence what a factory can supply. Announced capacity is not identical to certified, sold and accepted output."
+      "title": "The right type of factory capacity matters",
+      "text": "A factory that can make one kind of equipment is not automatically approved for every customer or application. Check what products it can actually make, test and deliver to accepted standards."
     },
     {
-      "title": "Metal costs interact with contract terms",
-      "text": "Copper, electrical steel and other materials can change in price. Whether customers compensate for those changes depends on the price-adjustment terms and timing of the contract."
+      "title": "A metal-price change can affect the order",
+      "text": "Transformers use materials such as copper and electrical steel. If their cost rises after a price is agreed, the contract determines whether the buyer pays more or the company bears the increase."
     },
     {
-      "title": "Joint operations require careful scope reading",
-      "text": "Work executed with another participant can have contractual sharing and accounting requirements. The value of an entire project is not automatically the revenue or profit attributable to Kanohar."
+      "title": "A shared project is not entirely Kanohar’s sale",
+      "text": "Some work is carried out with another participant through a joint operation. Responsibilities and shares of work are agreed between them. The full project value is not automatically the amount belonging to Kanohar."
     }
   ],
   "watch": [
     [
-      "Which orders are executable and on what schedule?",
-      "Awards need resources, approvals and customer readiness.",
-      "Read the order book alongside delivery timing, customer requirements and execution progress. Keep tender opportunities separate from firm contracts and identify whether an order is equipment-only or includes broader project obligations."
+      "Which announced opportunities have become firm orders?",
+      "A plan to build a power line is different from a purchase contract.",
+      "Read the customer, work required, delivery dates and payment terms. Separate equipment-only orders from projects with construction responsibilities, and possible bids from orders already agreed."
     ],
     [
-      "Can production turn into accepted deliveries?",
-      "Factory output may still need inspection or site completion.",
-      "Read manufacturing utilisation, testing, dispatch, commissioning and customer acceptance together. Check for bottlenecks, delays and inventory awaiting inspection rather than using capacity announcements as a substitute for delivery evidence."
+      "Are products being made, accepted and delivered?",
+      "A factory opening or finished unit alone does not prove a completed sale.",
+      "Read actual output with testing, dispatch and customer acceptance. Check whether units are waiting for inspections or for the site to be ready, and whether that delay ties up materials and money."
     ],
     [
-      "Do contract terms protect against changing costs?",
-      "A higher order value may include more material and execution expense.",
-      "Read escalation clauses and procurement timing, along with supplier exposure and project mix. Ask what happens when metal costs or a site schedule change before assuming new orders will earn the same margin as old ones."
+      "Who pays if materials or site work become dearer?",
+      "An agreed selling price can leave less profit when costs rise.",
+      "Read whether the customer price changes with metal costs and who bears construction delays. Compare the type of work in new orders with earlier work rather than assuming every contract leaves the same profit."
     ],
     [
-      "Are profits supported by cash collection?",
-      "Large contracts can tie money up in stock and customer balances.",
-      "Read advances, inventory, receivables, retention and operating cash flow. Distinguish a milestone achieved from an amount certified and paid, and investigate ageing or provisions where disclosed."
+      "Are customer bills becoming cash?",
+      "The company may buy materials and pay staff well before the buyer pays.",
+      "Look at unpaid customer amounts, stock and cash from operating the business. Check advances paid by buyers and retention, meaning money held back until contract conditions are met, when assessing collection."
     ],
     [
-      "Are warranty and project-sharing obligations understood?",
-      "Completion may not end the company’s responsibility.",
-      "Read guarantees, warranties, contingent liabilities, joint-operation notes and related funding. Match the company’s share of project activity to its reported accounts and avoid attributing the whole contract to the company without evidence."
+      "What obligations remain after delivery?",
+      "Repairs, guarantees and shared projects can still require money.",
+      "Read promised warranties, financial guarantees and joint-operation notes. Check what Kanohar itself must supply or fund, and what belongs to another participant, before attributing an entire project to the company."
     ]
   ],
   "risks": [
     [
-      "Customer and order concentration",
-      "Dependence on large customers or a few projects can make timing uneven."
+      "A large buyer delays work",
+      "A few major orders or customers can make production and payments uneven."
     ],
     [
-      "Materials and execution",
-      "Cost changes, suppliers, testing or site delays can reduce earnings."
+      "Materials or execution cost more",
+      "Dearer metals, supplier problems, failed tests or site delays can reduce what remains from an order."
     ],
     [
-      "Working capital",
-      "Inventory, receivables and retained payments can require borrowing or other funding."
+      "Cash stays tied up",
+      "Materials, finished equipment and unpaid customer bills can require extra funding."
     ],
     [
-      "Quality and contractual obligations",
-      "Rework, performance guarantees, warranties and project disputes can create costs after delivery."
+      "Equipment or project obligations continue",
+      "Defects, promised repairs, guarantees and contract disputes can add costs after supply."
     ]
   ],
   "context": [
-    "An equipment catalogue describes capability, not the sales mix",
-    "Transformer types, reactors and EPC services explain where the company can participate. Use the accounts to establish what it actually sold in the period; do not infer separate margins or market leadership from the number of catalogue entries."
+    "A catalogue shows what can be offered, not what was sold",
+    "A railway transformer and a network-construction project are useful examples of different jobs. To understand the current business, check which orders were actually delivered and what the accounts include; a long product list alone does not reveal the main source of earnings."
   ],
   "quiz": [
-    "Does a new transmission project announcement immediately become Kanohar revenue?",
-    "No. The company must first have a relevant contract, then meet its reporting and execution conditions. Even recognised revenue may precede cash collection."
+    "If a utility announces a new power line, has Kanohar already earned its value?",
+    "No. Kanohar needs an order for its own equipment or work, must meet the agreed conditions and then collect payment. The whole network project does not automatically belong to one supplier."
   ],
   "sources": [
     [

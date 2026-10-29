@@ -1,125 +1,125 @@
 {
-  "summary": "The Park Hospitals network supplies outpatient, inpatient, emergency and specialist care through hospitals with different service capabilities.",
-  "description": "Park Medi World operates a multispeciality hospital business. Its offering combines medical teams, beds, diagnostic and treatment facilities, nursing and hospital operations. A hospital building is capacity; services actually delivered, their costs and collection determine the business result.",
-  "money": "Revenue comes from consultations, hospital stays, procedures and related healthcare services. Staff, doctors, medicines, consumables, equipment, premises and administrative costs affect earnings; payment may come from patients, insurers or other agreed payers.",
-  "customers": "Patients use the services, while households, insurers, employers or government and other healthcare schemes can pay under different arrangements. The patient and payer are not always the same person or organisation.",
-  "drivers": "Operational capacity, patient activity, service mix, occupancy, costs, medical-team availability, payer terms, cash collection and the maturity of newer hospitals.",
+  "summary": "Park Medi World operates the Park Hospitals network, providing consultations, tests, hospital stays, procedures and specialist care.",
+  "description": "A patient may visit a doctor and leave the same day, or be admitted for a stay and treatment. Park provides the teams, beds, equipment, nursing and support needed for the services available at each hospital. A building alone cannot provide care: qualified people and functioning facilities must be in place.",
+  "money": "The hospital bills for delivered consultations, tests, stays, procedures and related services. A patient or family may pay directly, or an insurer, employer or healthcare scheme may pay under an agreement. Doctors, nurses, medicines, supplies, equipment and premises must be paid for; the whole bill is not profit.",
+  "customers": "Patients receive the care. The payer can be the household or another organisation covering the bill. An insurer or scheme can have agreed rates, documentation requirements and a payment timetable different from a patient paying directly.",
+  "drivers": "Patients using the available services, staffed beds, the kind of care provided, doctor and nurse availability, the rates payers agree, running costs and how quickly bills are collected.",
   "groups": [
     {
-      "title": "Outpatient and diagnostic services",
-      "examples": "Consultations, investigations and follow-up services.",
-      "explanation": "Patients may receive care without an overnight admission. Activity and revenue measures differ from bed-based inpatient services."
+      "title": "Visits and tests without an overnight stay",
+      "examples": "Outpatient consultations, investigations and follow-up services.",
+      "explanation": "Outpatient means a patient is not admitted for an overnight hospital stay. The hospital earns for the relevant consultations or tests and pays for the people, supplies and equipment needed to deliver them."
     },
     {
-      "title": "Inpatient and critical care",
-      "examples": "Admissions, intensive-care services and hospital stays.",
-      "explanation": "Operational beds, staffing, length of stay and the complexity of cases influence capacity and cost."
+      "title": "Hospital stays and intensive care",
+      "examples": "Inpatient admissions, intensive-care services and hospital stays.",
+      "explanation": "An inpatient is admitted to the hospital. Intensive care needs closer monitoring and the relevant specialist team and equipment. The number of beds is useful only alongside what services and staffing make them usable."
     },
     {
-      "title": "Medical and surgical specialties",
-      "examples": "Cardiac, neuro, renal, cancer, orthopaedic and other services shown in the official directory.",
-      "explanation": "Specialties describe what is offered; the directory does not establish separate profits or clinical superiority."
+      "title": "Specialist medical and surgical services",
+      "examples": "Heart, brain and nerve, kidney, cancer, bone and joint, and other listed services.",
+      "explanation": "A specialty is an area of medical work. A directory shows which services a facility offers; it does not prove every hospital has the same capability or disclose a separate profit for each specialty."
     },
     {
       "title": "Women’s, children’s and other care",
-      "examples": "Maternity, paediatric, internal-medicine and related services where available.",
-      "explanation": "Services and specialist teams vary by facility. A group catalogue should not be read as identical capability at every site."
+      "examples": "Maternity, children’s care, general adult medicine and related services where available.",
+      "explanation": "These involve different teams and patient needs. Check the particular hospital’s service list rather than assuming every service listed for the group is offered at every location."
     }
   ],
   "basics": [
     {
-      "title": "Occupancy is not a measure of treatment quality",
-      "text": "Bed occupancy measures use of the defined operational capacity. It helps explain hospital economics, but does not by itself establish clinical outcomes, appropriateness of care or patient experience."
+      "title": "A bed has to be ready and staffed before it can be used",
+      "text": "An operational bed is one the hospital can actually use with the required people, equipment and permissions. Planned beds and installed beds are not necessarily usable beds."
     },
     {
-      "title": "Revenue per occupied bed is a mix measure",
-      "text": "The company may use a measure of revenue per occupied bed over time. More complex cases, payer contracts and pricing can change it; it is not simply the price every patient pays."
+      "title": "A bill and a payment can arrive at different times",
+      "text": "The hospital records services and sends a bill. An insurer or scheme may check the claim before paying. Money still owed by customers is called receivables; staff and suppliers may need payment while that bill remains unpaid."
     }
   ],
   "steps": [
     {
-      "title": "Build the service capability",
-      "text": "Arrange facilities, equipment, licences and appropriately qualified teams."
+      "title": "Prepare a usable hospital service",
+      "text": "Arrange premises, equipment, permissions and appropriately qualified doctors, nurses and support teams."
     },
     {
-      "title": "Receive and treat patients",
-      "text": "Provide consultations or admissions according to clinical needs and available services."
+      "title": "Receive the patient and provide care",
+      "text": "Deliver a consultation, test, procedure or admission according to needs and the services the facility can provide."
     },
     {
-      "title": "Record and bill services",
-      "text": "Bills follow the services delivered and the relevant payer agreement."
+      "title": "Record the work and bill the relevant payer",
+      "text": "The charges follow delivered services and the applicable patient or payer agreement. Insurance and scheme claims need the relevant supporting records."
     },
     {
-      "title": "Collect and reinvest",
-      "text": "Receive payments and fund staff, supplies, maintenance and future capacity."
+      "title": "Collect payment and keep the hospital running",
+      "text": "Receive the money while paying teams and suppliers, maintaining equipment and funding any expansion."
     }
   ],
   "specifics": [
     {
-      "title": "Installed beds and operational beds differ",
-      "text": "A bed only contributes when the facility, equipment and staffing allow it to be used. Read which denominator is used in occupancy and capacity announcements."
+      "title": "A fuller hospital is a business measure, not proof of better care",
+      "text": "Occupancy measures how much defined bed capacity is being used over time. Read its denominator and staffing. Higher occupancy alone does not establish patient outcomes or the quality of treatment."
     },
     {
-      "title": "A hospital can grow before it matures",
-      "text": "New or acquired facilities need teams, local referral relationships and patient demand. Compare established and newer sites rather than assuming all capacity earns at the same rate."
+      "title": "Average revenue can change because the care changes",
+      "text": "A longer stay, a more complex case or a different insurer agreement can change the average bill. Revenue per occupied bed is an average business measure, not the price charged to every patient."
     },
     {
-      "title": "Payment terms affect cash",
-      "text": "A bill raised to an insurer or scheme may take longer to collect than a direct payment. Revenue growth and reported profit need to be read alongside receivables and operating cash flow."
+      "title": "A new hospital can have bills before it has many patients",
+      "text": "New or acquired facilities need teams, local awareness and patient activity. Compare established sites with newer ones where the company provides that information, rather than treating every added bed as equally productive."
     }
   ],
   "watch": [
     [
-      "Is the usable hospital network becoming more productive?",
-      "Separate operational capacity from announced additions.",
-      "Read operational beds, occupancy and patient volumes on a consistent basis. Identify newly opened, acquired or managed hospitals and avoid treating planned beds as currently staffed capacity."
+      "Which beds and services are actually operating?",
+      "An expansion announcement is not a staffed service.",
+      "Read operational beds and hospitals already treating patients. Separate planned additions and newly acquired or managed sites, then compare patient activity and occupancy on the same basis."
     ],
     [
-      "What explains the change in revenue per patient or bed?",
-      "Service and payer mix can change reported averages.",
-      "Read inpatient/outpatient activity, average length of stay, specialty mix and payer mix where disclosed. A higher average can reflect more complex treatment rather than the same service being priced higher."
+      "Why has the average bill changed?",
+      "Different treatments and payer agreements affect averages.",
+      "Read the mix of consultations, admissions, procedures, length of stay and payer types. Check whether changes reflect a different service mix rather than the same treatment simply costing more."
     ],
     [
-      "Are clinical teams and quality systems keeping pace?",
-      "Expansion requires people and dependable processes.",
-      "Use official accreditation, staffing and regulatory disclosures without treating marketing claims as outcome evidence. Assess the facility, date and scope of any issue and the response rather than recommending treatment from financial indicators."
+      "Are teams and service systems keeping pace?",
+      "Expansion requires qualified people and dependable processes.",
+      "Read staffing, licences, accreditation and dated regulatory disclosures. Accreditation is an assessment against specified standards, not proof of every patient’s outcome; check which facility and period it covers."
     ],
     [
-      "Are bills converting to cash?",
-      "Receivables can absorb operating money.",
-      "Compare revenue, receivable ageing, insurer or scheme exposure and operating cash flow. Ask whether delays reflect normal payer terms, disputed bills or deteriorating collection rather than assuming all outstanding bills are losses."
+      "Are delivered services being paid for?",
+      "Unpaid bills can use cash needed to run hospitals.",
+      "Compare amounts due from patients, insurers and schemes with collections and cash from operations. Look for how long bills are overdue and whether there are disputes, rather than assuming every unpaid bill is a loss."
     ],
     [
-      "Are new hospitals earning enough on their cost?",
-      "Scale needs investment and a maturity period.",
-      "Read project spending, acquisitions, lease or operating arrangements, start-up expenses and subsequent activity. Compare comparable hospitals and separate expansion-related costs from the performance of established sites."
+      "Are new hospitals covering their ongoing costs?",
+      "Premises and staffing need payment before patient activity matures.",
+      "Read expansion spending, purchase payments, leases and start-up costs. Compare newer and established hospitals where disclosed, including whether the company owns or only operates each site."
     ]
   ],
   "risks": [
     [
-      "Team availability",
-      "Difficulty recruiting or retaining qualified teams can restrict usable capacity."
+      "Specialist teams are unavailable",
+      "Difficulty hiring or keeping qualified doctors and nurses can limit the services and beds a hospital can use."
     ],
     [
-      "Clinical and regulatory obligations",
-      "Safety, compliance and service-quality failures can cause disruption and liabilities."
+      "Care or rule failures cause disruption",
+      "Safety, service and regulatory problems can lead to claims, restrictions and extra costs."
     ],
     [
-      "Payer and collection pressure",
-      "Contract rates, disputed claims and slow payments can affect earnings and cash."
+      "Payers change rates or pay late",
+      "Lower agreed rates, disputed bills or slow insurer and scheme payments can affect earnings and cash."
     ],
     [
-      "Expansion execution",
-      "New facilities may take longer to mature while staffing and property costs continue."
+      "New sites take longer to become busy",
+      "Rent, staff and other costs can continue while a new hospital builds patient activity."
     ]
   ],
   "context": [
-    "Operating agreements need their own reading",
-    "Park’s investor history includes acquisitions and an operation-and-maintenance agreement. Managing a facility, owning its property and owning its operating company can create different commitments; read the actual agreement and group scope."
+    "Owning a hospital building and operating its services are different",
+    "Park’s investor history includes acquisitions and an operation-and-maintenance agreement. An operator runs agreed hospital activities; that does not by itself mean it owns the property. Read what each arrangement requires, what income the company receives and which costs it must pay."
   ],
   "quiz": [
-    "Would adding beds alone prove that hospital earnings will rise?",
-    "No. The beds must be operational, staffed and used for appropriate care, with payment sufficient to cover the associated costs. Capacity and profitable utilisation are different measures."
+    "Would adding beds alone prove hospital earnings will rise?",
+    "No. Beds need staff, equipment, permissions and appropriate patient activity. Payments for the services also have to cover the associated costs."
   ],
   "sources": [
     [

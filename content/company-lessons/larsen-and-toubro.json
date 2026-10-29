@@ -1,126 +1,135 @@
 {
-  "summary": "An engineering group building infrastructure and energy projects, manufacturing complex equipment and supplying technology and financial services.",
-  "description": "Larsen & Toubro serves organisations commissioning buildings, transport links, energy facilities and industrial equipment. Its group also contains technology, finance and development businesses. A construction contract, a software service and a loan are different economic activities even when reported within the same group.",
-  "money": "Project businesses earn by delivering contracted engineering, procurement and construction work. Manufacturing and service businesses earn under their own supply arrangements, while financial services has lending economics. Contract execution, material costs, cash collection and group reporting determine how activity becomes earnings.",
-  "customers": "Governments, infrastructure owners, energy and industrial companies, technology clients, property customers and financial-services borrowers.",
-  "drivers": "Order quality, execution progress, project margins, customer certification and payment, funding costs, service demand and investment needs.",
+  "summary": "L&T builds buildings, transport links and energy facilities, makes specialised equipment, and has businesses providing computer and engineering services, loans and property development.",
+  "description": "Imagine an organisation needing a bridge, factory or energy facility. It can hire L&T to design and build specified work rather than do every task itself. The wider group also provides services such as software and lending, which have different customers and costs from construction.",
+  "money": "Project customers pay for agreed design, equipment supply and construction. Other customers pay for manufactured equipment or technology work; borrowers pay interest and charges on loans. The group must cover materials, workers, suppliers, funding and other costs before these activities produce profit.",
+  "customers": "Government bodies and infrastructure owners, energy and industrial companies, technology clients, property buyers and borrowers. Each pays for a defined asset, piece of equipment, service or access to money.",
+  "drivers": "Winning workable contracts, carrying out the work at the agreed cost, getting customer approval, collecting payment and funding staff, equipment and other commitments while work continues.",
   "groups": [
     {
-      "title": "Infrastructure construction",
-      "examples": "Buildings and factories, transport, heavy civil works, water, power networks and related engineering.",
-      "explanation": "Clients buy a completed asset or defined construction scope. Land, permits, design, suppliers and site execution must come together."
+      "title": "Building infrastructure",
+      "examples": "Buildings, factories, transport links, water works and power-network projects.",
+      "explanation": "The customer buys specified construction work or a completed asset. Designs, permits, materials, suppliers and site workers have to be organised. A bridge contract is a job to perform over time, not cash earned at the moment it is announced."
     },
     {
-      "title": "Energy projects",
-      "examples": "Hydrocarbon and power-related engineering and relevant low-carbon energy capabilities.",
-      "explanation": "Large technical contracts can run for long periods. Completion conditions, cost escalation and customer decisions affect execution."
+      "title": "Building energy facilities",
+      "examples": "Engineering and construction for oil, gas, power and related energy projects.",
+      "explanation": "An energy company can buy L&T’s work to build or equip a facility. L&T does not have to own the facility or sell the energy itself. Technical requirements, the customer’s decisions and site readiness affect delivery."
     },
     {
-      "title": "Hi-tech manufacturing",
-      "examples": "Heavy engineering, precision systems and specialised industrial equipment.",
-      "explanation": "Qualification, design expertise, manufacturing quality and delivery milestones can matter more than simple unit volume."
+      "title": "Making specialised equipment",
+      "examples": "Heavy engineering, precision systems and industrial equipment.",
+      "explanation": "Customers buy equipment made for demanding applications. Engineers, suitable materials, factory work and testing are needed before the buyer accepts it; selling more units is not the only measure of useful work."
     },
     {
-      "title": "Technology and financial services",
-      "examples": "Group IT and engineering services, alongside L&T Finance.",
-      "explanation": "Technology contracts depend on client spending and skilled people. Lending requires funding and credit assessment; it cannot be analysed as a construction contract."
+      "title": "Technology and engineering services",
+      "examples": "Group computer-software and engineering-services businesses.",
+      "explanation": "A client pays skilled people to develop, maintain or improve systems or designs. Staffing, the work agreed and the client’s technology budget matter more than a construction site’s progress."
     },
     {
-      "title": "Development and other businesses",
+      "title": "Loans through L&T Finance",
+      "examples": "Lending and related financial services.",
+      "explanation": "The customer borrows money and pays interest, the charge for using it, under the loan terms. The lender must obtain funds, assess whether borrowers can repay and collect the money. A growing loan book, meaning loans outstanding, does not guarantee that all borrowers will pay."
+    },
+    {
+      "title": "Property and other development businesses",
       "examples": "Property development, relevant infrastructure investments and industrial products.",
-      "explanation": "Some activities require investment before operating income or property sales arrive. Read which entity owns the asset and how it is accounted for."
+      "explanation": "Developing property or owning an infrastructure investment can require spending before sales or operating income arrives. This differs from a customer paying L&T to build for them. Check who owns the project and which company receives the payments."
     }
   ],
   "basics": [
     {
-      "title": "EPC means responsibility for delivering a project",
-      "text": "Engineering designs the asset, procurement arranges materials and equipment, and construction puts it into use. The contractor must deliver the agreed scope on the contract’s commercial terms; a large contract is not automatically a profitable one."
+      "title": "What does engineering, procurement and construction mean?",
+      "text": "Often shortened to EPC, it means designing the project, arranging materials and equipment, and carrying out construction. The contract says which tasks the company must complete, what the customer pays and who bears delays or extra costs."
+    },
+    {
+      "title": "An order is work still to be done",
+      "text": "The order book is the value of accepted work waiting to be carried out. Some jobs take a long time, change or are cancelled. A signed order is therefore different from work already earned, billed or paid for."
     }
   ],
   "steps": [
     {
-      "title": "Bid and agree scope",
-      "text": "Assess design, schedule, risk allocation and customer payment terms before accepting an order."
+      "title": "Understand the job and agree terms",
+      "text": "Estimate the work, suppliers, timetable, risks and price before accepting the order."
     },
     {
-      "title": "Execute and manage suppliers",
-      "text": "Arrange engineering, equipment, people and site work while controlling quality and cost."
+      "title": "Design, buy and build",
+      "text": "Arrange engineers, materials, equipment and workers, then manage the agreed factory or site work."
     },
     {
-      "title": "Record progress and bill",
-      "text": "Recognise work under the relevant accounting policy and seek milestone or progress certification."
+      "title": "Record progress and obtain approval to bill",
+      "text": "The accounts can record earned work before every billing condition has been met. Customers may need to inspect or certify completed stages."
     },
     {
-      "title": "Collect and complete obligations",
-      "text": "Collect payments, resolve claims and meet testing, handover and warranty commitments."
+      "title": "Collect payment and finish the remaining duties",
+      "text": "Receive amounts due, hand over work and meet testing, repair or warranty promises. Some customer payment may be held back until later conditions are satisfied."
     }
   ],
   "specifics": [
     {
-      "title": "An order book is future work, not current revenue",
-      "text": "Orders can execute over different periods and may face delays, changes or cancellation. Understand the executable portion, customer readiness and remaining obligations rather than treating the entire backlog as the next year’s sales."
+      "title": "A fixed price can leave the contractor with extra costs",
+      "text": "If the agreed price stays fixed while labour or materials become dearer, L&T may bear the increase. Other contracts allow certain costs to be passed to the customer. Order size alone does not explain this risk."
     },
     {
-      "title": "Progress, billing and cash can happen at different times",
-      "text": "Contract assets can arise when recorded work is not yet unconditionally billable; receivables represent amounts due. Advances, retention and certification create different cash patterns. Reported profit can rise while cash remains tied up."
+      "title": "Progress, a bill and cash are separate stages",
+      "text": "Work recorded before it can be billed without further conditions is called a contract asset. A receivable is an amount due from a customer. Retention is payment held back until specified conditions are met. None means all the money has already arrived."
     },
     {
-      "title": "The group has several profit engines",
-      "text": "Construction, technology and finance have different cost structures and capital needs. In particular, funding costs are part of a lender’s economics. Use each reported segment’s definition and the group reconciliation before ranking contributions."
+      "title": "Lending and software need their own questions",
+      "text": "A construction job depends on completing the project. A software service depends on client demand and skilled staff. A lender must collect repayments and cover the cost of obtaining its funds. The same performance measure cannot explain all three equally well."
     }
   ],
   "watch": [
     [
-      "Is the order book executable at acceptable terms?",
-      "Order size alone does not establish future earnings.",
-      "Read contract mix, geography, customer funding, schedule and management’s execution commentary. Distinguish signed orders, pipeline opportunities and work actually delivered."
+      "Can signed orders actually move into work?",
+      "Customers still need funding, approvals and ready sites.",
+      "Read the type of contract, timetable, country and customer readiness. Keep possible bids separate from signed orders and ask what could delay the work the company has already accepted."
     ],
     [
-      "Can execution protect margins?",
-      "Long contracts face material, labour and subcontracting changes.",
-      "Compare progress and segment results with pricing terms, escalation protection, delays and claims. A fixed-price order and a reimbursable contract transfer different risks."
+      "Does the agreed payment cover the cost of doing the job?",
+      "Long projects can face changing material, labour and supplier costs.",
+      "Check whether the price is fixed or can change with costs. Read delays, claims for extra work and the business’s reported result together instead of assuming a large new order carries the same profit as earlier work."
     ],
     [
-      "Is project profit becoming cash?",
-      "Recorded work may be awaiting billing or collection.",
-      "Read contract assets, receivables, retention, advances and operating cash flow. Investigate overdue balances and claims rather than assuming all accounting revenue has been collected."
+      "Are completed stages turning into cash?",
+      "Work can be recorded before the customer approves a bill or pays it.",
+      "Read contract assets, customer amounts due, retained payments and advances received. Compare them with cash generated by operations, and investigate older or disputed claims rather than counting them as collected money."
     ],
     [
-      "How do the service and finance businesses perform?",
-      "Their earnings do not follow the same project cycle.",
-      "Read technology client demand and staffing separately from finance growth, funding cost and credit losses. Check subsidiary and consolidated scope rather than treating the parent’s name as one uniform activity."
+      "Are technology clients and borrowers paying as expected?",
+      "Service work and loans have different risks from building a project.",
+      "Read technology demand and staffing costs separately from lending growth, funding costs and missed repayments. Check which companies are included in the group figures before comparing their earnings."
     ],
     [
-      "Is invested capital earning enough?",
-      "Development assets and new facilities can absorb funding.",
-      "Compare investment spending, asset commissioning, debt, guarantees and disposals with the cash and earnings they produce. Separate recurring operating performance from exceptional gains."
+      "Do investments eventually produce useful cash returns?",
+      "Property, infrastructure holdings and new facilities can require spending first.",
+      "Read money invested with the asset’s progress, income and cash received. Check debt and guarantees, which can require payment if agreed conditions occur, and separate normal activity from one-off gains on selling an asset."
     ]
   ],
   "risks": [
     [
-      "Execution delays and overruns",
-      "Permits, customer readiness, suppliers or site conditions can delay billing and increase costs."
+      "Work is late or costs more",
+      "Permits, suppliers, site conditions or customer changes can delay billing and raise costs."
     ],
     [
-      "Uncollectible claims and customer payments",
-      "Disputed work or financially stressed customers can leave cash trapped or require write-downs."
+      "Customers dispute or cannot pay bills",
+      "Extra-work claims or financial pressure on customers can leave earned amounts unpaid or require a loss to be recorded."
     ],
     [
-      "Different group exposures weaken together",
-      "Technology demand, credit losses and project cycles can all affect the group in different ways."
+      "Other group businesses weaken",
+      "Technology spending can slow, borrowers can miss repayments and property demand can change alongside project conditions."
     ],
     [
-      "Funding and overseas risk",
-      "Currency changes, guarantees, local regulations and capital-intensive investments can increase uncertainty."
+      "Funding and overseas commitments add pressure",
+      "Currency changes, local rules, borrowing and guarantees can increase costs or payment obligations."
     ]
   ],
   "context": [
-    "A completion milestone can change the cash story",
-    "A project approaching handover may still need testing, customer acceptance and release of retention. Finishing physical work is therefore different from completing every commercial obligation or collecting all the money."
+    "The bridge can be physically finished before the contract is financially finished",
+    "Testing, customer acceptance, repairs and release of retained payment can continue after construction. Check those remaining duties before assuming a near-complete project has produced all its promised cash."
   ],
   "quiz": [
-    "Does winning a very large contract mean L&T has earned its full value?",
-    "No. An order must be executed, recognised under the relevant accounting policy, billed and collected. Its costs and remaining obligations determine what earnings and cash ultimately result."
+    "When L&T wins a large construction contract, has it already earned the whole value?",
+    "No. It still needs to do the work, meet the reporting and billing conditions, collect payment and cover the costs and obligations it agreed to take on."
   ],
   "sources": [
     [

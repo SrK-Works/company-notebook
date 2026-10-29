@@ -1,125 +1,125 @@
 {
-  "summary": "A bank supplying deposits, lending, cards, payments and services to households and businesses, with group relationships beyond the banking entity.",
-  "description": "HDFC Bank accepts deposits and other funding, lends and invests under banking rules, and provides payment and transaction services. Its central job is to earn enough after funding costs and credit losses while keeping deposits accessible and maintaining financial strength.",
-  "money": "Interest earned on loans and other earning assets is offset by interest paid on funding. Fees and other income also contribute, while operating costs, provisions and tax affect profit.",
-  "customers": "Depositors, borrowers, cardholders, businesses and institutions using banking and transaction services. The same person can be both a depositor and a borrower.",
-  "drivers": "Deposit quality and cost, loan pricing, credit quality, operating efficiency, liquidity, capital and the mix of loans and fees.",
+  "summary": "HDFC Bank provides accounts for keeping and moving money, loans for homes and other needs, and services for businesses.",
+  "description": "Imagine a household saving money and another household borrowing to buy a home. HDFC Bank serves both. It accepts money in accounts, makes loans, holds investments and processes payments. It must keep serving withdrawals while collecting repayments over time.",
+  "money": "Borrowers pay interest for using money and customers pay fees for some services. The bank also earns interest on investments. From this income it pays interest on deposits and other borrowing, staff and technology costs, and charges for loans that may not be repaid. A deposit received is money the bank owes the customer, not profit.",
+  "customers": "A home buyer pays loan interest; a cardholder may pay applicable interest and fees; a business pays for borrowing or services such as handling payments. Savers may receive interest from the bank. One customer can use several of these services.",
+  "drivers": "Whether borrowers repay, what the bank earns on loans and investments, what it pays for funding, the cost of serving customers, and whether enough money is available when payments fall due.",
   "groups": [
     {
-      "title": "Accounts and deposits",
-      "examples": "Savings, current accounts and fixed or recurring deposits.",
-      "explanation": "Customer deposits are money owed to customers, not the bank’s sales revenue. They are part of the funding side of the balance sheet."
+      "title": "Accounts: keep and move money",
+      "examples": "Savings and current accounts, fixed and recurring deposits.",
+      "explanation": "Customers deposit money and use accounts to save, receive income or make payments. Fixed deposits keep money for an agreed period. The bank owes these balances to customers under the account terms."
     },
     {
-      "title": "Household lending and cards",
-      "examples": "Home, personal and vehicle loans, credit cards and related retail products.",
-      "explanation": "Interest and fees must compensate for funding, servicing and the risk of borrowers not repaying."
+      "title": "Household loans and credit cards",
+      "examples": "Home, vehicle and personal loans, and credit cards.",
+      "explanation": "A borrower receives money now and repays it under agreed terms. A credit card lets a customer pay for purchases using credit. Interest and relevant fees help cover the bank’s funding, service costs and repayment risk."
     },
     {
-      "title": "Business and institutional banking",
-      "examples": "Working-capital loans, corporate lending, trade finance and cash-management services.",
-      "explanation": "Credit assessment, security, concentration and payment activity differ from a household account."
+      "title": "Loans and payment services for businesses",
+      "examples": "Business loans, finance for daily operations, trade payments and collections.",
+      "explanation": "A shop may need money to buy stock before customers pay. A larger company may need a longer-term loan or help paying suppliers. The bank checks repayment ability and charges for the loan or service."
     },
     {
-      "title": "Payments, investment and distribution services",
-      "examples": "Digital payments, treasury-related activity and distribution of relevant financial products.",
-      "explanation": "A product sold through the bank can have a separate provider. Distribution fees are not the same as owning the product’s entire business."
+      "title": "Investments and products supplied by others",
+      "examples": "Bank investments and distribution of financial products.",
+      "explanation": "The bank invests some money and can help customers buy products from other providers. A fee for arranging an insurance or investment product is different from receiving all the money that provider earns."
     }
   ],
   "basics": [
     {
-      "title": "A loan is an asset and a deposit is an obligation",
-      "text": "The bank expects a borrower to repay a loan; it owes a depositor their money under the agreed terms. Neither the full loan disbursal nor a new deposit is ordinary sales revenue."
+      "title": "What part of a repayment is income?",
+      "text": "Returning the amount borrowed, called principal, gives the bank its money back. Interest is the extra amount charged for using that money. The whole loan repayment is not revenue or profit."
     },
     {
-      "title": "Credit provisions are different from capital",
-      "text": "A provision is an accounting charge for expected credit losses. A non-performing loan is classified as a problem loan under the applicable rules; it is not necessarily a final unrecoverable loss. Regulatory capital provides a loss-absorbing buffer, while liquidity concerns meeting payments when due. These measures answer different questions."
+      "title": "What happens when a borrower may not repay?",
+      "text": "The bank records a charge or allowance for possible loan losses, called a provision. A problem loan is not necessarily a complete loss: some money may still be recovered. Property pledged against a loan can help recovery, but selling it can take time."
     }
   ],
   "steps": [
     {
-      "title": "Attract suitable funding",
-      "text": "Serve depositors and arrange funding with a mix of cost, stability and liquidity."
+      "title": "Offer accounts and arrange funding",
+      "text": "The bank serves depositors and can borrow through other permitted routes. These sources have different costs and repayment terms."
     },
     {
-      "title": "Assess and deploy",
-      "text": "Evaluate borrowers and investments, price risk and meet regulatory constraints."
+      "title": "Check the borrower and agree a loan",
+      "text": "It examines income, existing debts and any property pledged as security before agreeing the amount, interest and repayment schedule."
     },
     {
-      "title": "Earn and service",
-      "text": "Collect interest and fees, pay funding costs and operate accounts and payment systems."
+      "title": "Run accounts and collect repayments",
+      "text": "Customers use payment services. Borrowers pay principal and interest; the bank pays deposit interest and its staff, systems and other bills."
     },
     {
-      "title": "Absorb losses and maintain buffers",
-      "text": "Provide for credit deterioration, maintain capital and liquidity and continue serving customers."
+      "title": "Handle late payments and keep money available",
+      "text": "It follows up overdue loans, records expected losses and keeps funds available for withdrawals and other obligations."
     }
   ],
   "specifics": [
     {
-      "title": "Net interest income is not the final profit",
-      "text": "Interest earned less interest paid is net interest income. It must still support operating costs, credit provisions and taxes, alongside other sources of income."
+      "title": "The interest difference still has costs to cover",
+      "text": "Interest earned minus interest paid is called net interest income. It still has to help cover branches, people, technology, loan losses and tax. A larger interest income total does not automatically mean a larger profit."
     },
     {
-      "title": "Loan growth needs dependable funding",
-      "text": "Rapid lending can create pressure if deposits or other funding do not grow on sustainable terms. Low-cost account balances and term deposits have different pricing and behaviour."
+      "title": "More loans need dependable funding",
+      "text": "Home loans can be repaid over a long time, while some account balances can be withdrawn quickly. The bank must manage that timing difference and the price it pays to attract deposits."
     },
     {
-      "title": "Credit quality can deteriorate before a loss is final",
-      "text": "Delinquencies, non-performing loans and provisions describe different stages and measures. Security against a loan does not guarantee immediate or complete recovery."
+      "title": "Financial strength and ready cash answer different questions",
+      "text": "Capital is the bank’s cushion for absorbing losses. Liquidity means being able to make payments when due. A bank needs both; earning a profit alone does not establish that either is sufficient."
     }
   ],
   "watch": [
     [
-      "Are deposits supporting lending sustainably?",
-      "Funding cost and stability matter together.",
-      "Read deposit mix, borrowing, liquidity and loan growth on the same reporting basis. A higher term-deposit share can have different cost implications from current and savings accounts; deposits are liabilities, not revenue."
+      "Can the bank fund its growing loans?",
+      "Deposits and other borrowing must remain available at a workable cost.",
+      "Compare lending with deposit balances, other borrowing and the interest paid for funding. Check whether growth depends increasingly on expensive deposits or borrowing."
     ],
     [
-      "Why is the net interest margin changing?",
-      "Loan yields and funding reprice at different times.",
-      "Identify the company’s average-asset denominator and margin definition. Read loan mix, deposit pricing and repricing commentary rather than treating a rate change as an automatic profit benefit."
+      "What is changing the interest difference?",
+      "Loan interest and deposit interest can change at different times.",
+      "Read the explanation of loan rates, deposit costs and loan types. If using net interest margin, check its definition: it compares net interest income with a stated average amount of assets, such as loans and investments, rather than showing final profit."
     ],
     [
-      "Are borrowers meeting their commitments?",
-      "Growth can conceal weaker new credit.",
-      "Compare gross and net non-performing assets, slippages, recoveries and provisions. Slippages are newly recognised problem loans. Read absolute amounts and ratios with loan growth and the stated credit classifications."
+      "Are borrowers paying as agreed?",
+      "New loans can develop problems later.",
+      "Check newly identified problem loans, repayments recovered and provisions for losses. Read the amount of troubled loans as well as its share of total lending; rapid new lending can make that share look smaller."
     ],
     [
-      "Are fees and service channels productive?",
-      "Activity must cover operating and control costs.",
-      "Read payments, cards, business banking and distribution commentary alongside fees, staff and technology costs. Product distribution does not imply the bank manufactures or owns every investment or insurance offering."
+      "Are services earning enough to cover their costs?",
+      "Busy payment channels still cost money to operate.",
+      "Compare fees with staff, branch and technology spending. Check which products the bank supplies itself and which it only helps another provider sell."
     ],
     [
-      "Are capital and group comparisons clear?",
-      "Bank strength requires buffers, not just earnings.",
-      "Use standalone bank and consolidated group statements separately. Read regulatory capital, liquidity, subsidiary disclosures and any merger-related comparability notes; a non-financial company’s cash-flow or EBITDA shortcut is unsuitable for judging a bank."
+      "Are the bank and the wider group being compared correctly?",
+      "Subsidiaries can add businesses with different costs.",
+      "Standalone accounts cover the bank itself; consolidated accounts include controlled companies. Use each consistently, and check capital and money available for payments alongside earnings."
     ]
   ],
   "risks": [
     [
-      "Borrower losses",
-      "Defaults and deterioration in collateral or recovery can increase provisions and reduce earnings."
+      "Borrowers cannot repay",
+      "Lost jobs, business difficulties or lower sale proceeds from pledged property can increase losses."
     ],
     [
-      "Funding and liquidity pressure",
-      "Deposits can reprice or move; meeting withdrawals and loan funding requires suitable liquid resources."
+      "Funding becomes expensive or leaves",
+      "The bank may need to pay more for deposits or find other money to meet withdrawals and fund loans."
     ],
     [
-      "Interest-rate and balance-sheet mismatch",
-      "Assets and liabilities can reprice or mature on different schedules."
+      "Interest rates change at different times",
+      "What the bank pays for deposits can rise before what it earns from existing loans."
     ],
     [
-      "Operational, cyber and compliance failures",
-      "Errors, outages, fraud or weak controls can create losses, restrictions and customer mistrust."
+      "Payments or controls fail",
+      "System outages, fraud, cyber incidents or rule breaches can cost money and damage customer trust."
     ]
   ],
   "context": [
-    "A growing balance sheet is not automatically better banking",
-    "Larger loans and deposits describe scale. Useful growth must also preserve underwriting quality, suitable funding, operating controls and capital strength; the cost of poor credit may emerge later than the loan was made."
+    "Growth needs follow-up",
+    "The work continues after a loan is approved. Repayments and signs of difficulty need monitoring throughout its life; lending quickly today can create losses that appear later."
   ],
   "quiz": [
-    "Is the full amount deposited by a customer revenue for the bank?",
-    "No. It is an obligation to that customer. Interest and fees earned are different from deposit balances; withdrawals are not an ordinary sales refund."
+    "Is a home-loan repayment entirely income for the bank?",
+    "No. The principal returns the money lent. Interest is income, but funding costs, running costs, loan losses and tax still have to be covered before profit remains."
   ],
   "sources": [
     [
