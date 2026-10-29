@@ -2881,6 +2881,50 @@
       "src": "Original SVG illustration by Company Notebook",
       "kind": "illustration",
       "alt": "Eat Right — conceptual illustration, not a product photograph"
+    },
+    {
+      "company": "itc",
+      "name": "Cigarettes business",
+      "category": "Cigarette brands · separate reporting segment",
+      "url": "https://itcportal.com/itc-businesses/fmcg/cigarette.html",
+      "image": "assets/products/itc-business-cigarettes.svg",
+      "kind": "illustration",
+      "alt": "Cigarettes business — conceptual illustration, not a product photograph",
+      "src": "Original SVG illustration by Company Notebook",
+      "reviewed": "2026-10-29"
+    },
+    {
+      "company": "itc",
+      "name": "Agri business",
+      "category": "Agricultural sourcing and business customers",
+      "url": "https://itcportal.com/itc-businesses/agri-business.html",
+      "image": "assets/products/itc-business-agri.svg",
+      "kind": "illustration",
+      "alt": "Agri business — conceptual illustration, not a product photograph",
+      "src": "Original SVG illustration by Company Notebook",
+      "reviewed": "2026-10-29"
+    },
+    {
+      "company": "itc",
+      "name": "Paper & packaging",
+      "category": "Materials and packs for business customers",
+      "url": "https://itcportal.com/itc-businesses/packaging.html",
+      "image": "assets/products/itc-business-paper-packaging.svg",
+      "kind": "illustration",
+      "alt": "Paper & packaging — conceptual illustration, not a product photograph",
+      "src": "Original SVG illustration by Company Notebook",
+      "reviewed": "2026-10-29"
+    },
+    {
+      "company": "itc",
+      "name": "ITC Infotech",
+      "category": "Technology services · group subsidiary",
+      "url": "https://itcportal.com/itc-businesses/Information-Technology.html",
+      "image": "assets/products/itc-business-technology.svg",
+      "kind": "illustration",
+      "alt": "ITC Infotech — conceptual illustration, not a product photograph",
+      "src": "Original SVG illustration by Company Notebook",
+      "reviewed": "2026-10-29"
     }
   ]
 }

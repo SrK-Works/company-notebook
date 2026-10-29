@@ -5,7 +5,7 @@ Mobile-friendly research prototype for Indian stock-market beginners.
 ## Run
 
 Serve `dist/` with a local HTTP server. No build or dependency installation is required.
-The entrypoint loads `data.js`, `company-expansion.js`, `overviews.js`, `product-images.js`, `gallery.js`, `financial-data.js`, `financials.js`, `research-guides.js`, `hul-primer.js`, `app.js` and `style.css`. Navigation uses hash routes,
+The entrypoint loads `data.js`, `company-expansion.js`, `overviews.js`, `product-images.js`, `gallery.js`, `financial-data.js`, `financials.js`, `research-guides.js`, `hul-primer.js`, `itc-primer.js`, `app.js` and `style.css`. Navigation uses hash routes,
 so company links work on static hosting. `.openai/hosting.json` retains the Sites project identity.
 
 ## Live website
@@ -92,3 +92,11 @@ Company facts link to HUL's FY 2025–26 annual report, category reviews and bra
 HUL validation: desktop plus 320px, 390px and 768px layouts; no overflow, duplicate section IDs or broken jump links. Pricing and ownership disclosures, dark/light themes and the derived margin examples were checked. The test suite verifies the other 34 profiles and all financial records are untouched by the HUL extension.
 
 HUL refinement: the ownership/share tutorial is omitted from HUL's company page. The practical cost explanation lives inside the product-to-customer foundations. HUL's contents menu and numbered sections reflect this shorter business-focused sequence.
+
+## Second detailed profile: ITC
+
+`dist/itc-primer.js` composes with the HUL primer and changes only ITC. It keeps products first, explains consumer versus business customers, maps cigarettes/other FMCG/agri/paper and packaging/ITC Infotech, and demonstrates connections and internal sales without showing financial values early. It omits the generic share-ownership section. Six investigation questions and five risk explanations are specific to ITC.
+
+The numbers slot follows the existing dated standalone segment table. It derives contributions to reported segment results, not product margins or shareholder returns, and explains internal-sales elimination, cigarette tax comparability and subsidiary scope. Source figures are unchanged. Business explanations have their own check date; this does not re-date every catalogue entry. Four original, labelled SVG business illustrations supplement the existing product photographs; the original photographs remain in the shelf.
+
+ITC validation: the full test suite preserves the other 34 profiles, all financial source records and HUL’s rendered primer sections. ITC was checked at 320px, 390px and 768px widths for overflow, links, six research questions and financial figures appearing only at the end. The tax explanation opens correctly.
