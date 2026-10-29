@@ -1,5 +1,5 @@
-// Figures transcribed from the linked primary disclosures. Check scope, units and measure before comparing.
-window.COMPANY_FINANCIALS={
+/* Verified annual disclosures; keep basis and profit measures with each record. */
+window.COMPANY_FINANCIALS = {
   "hindustan-unilever": {
     "period": "FY 2025–26 · year ended 31 March 2026",
     "basis": "Consolidated",
@@ -548,7 +548,7 @@ window.COMPANY_FINANCIALS={
         "name": "Life Sciences & Healthcare",
         "revenue": 27745,
         "profit": null,
-        "margin": 27.0
+        "margin": 27
       },
       {
         "name": "Manufacturing",
@@ -572,5 +572,54 @@ window.COMPANY_FINANCIALS={
     "profitKind": "margin",
     "revenueTotal": 267021,
     "status": "segments"
+  },
+  "nestle-india": {
+    "period": "FY 2025–26 · year ended 31 March 2026",
+    "basis": "Standalone · Nestlé India Limited",
+    "coverage": "One operating segment: Food · company profit only",
+    "unit": "₹ crore",
+    "profitMetric": "Profit after tax",
+    "definition": "Company profit for the period after expenses, exceptional items and tax. This is not a separate profit for each product group or brand.",
+    "rows": [
+      {
+        "name": "Nestlé India · whole company",
+        "revenue": 23154.6,
+        "profit": 3544.6
+      }
+    ],
+    "source": "https://www.nestle.in/sites/g/files/pydnoa451/files/2026-04/AFRs31032026signed.pdf",
+    "sourceLabel": "Official audited annual results",
+    "location": "Standalone annual results · year ended 31 March 2026; cross-checked with official Key Financial Figures",
+    "checked": "29 October 2026",
+    "notes": "Amounts converted from ₹ million by dividing by 10. Revenue from operations includes sale of products and other operating revenue. Annual report Note 42 reports one Food operating segment; the cited disclosure does not give separate profits for the four product groups. Figures are historical annual results, not the latest quarter.",
+    "insight": "Use the product-sales table below to see where sales come from. The profit figure above belongs to Nestlé India as a whole; it is not a separate result for each product group or brand.",
+    "status": "single",
+    "productSales": {
+      "basis": "Standalone · sale of products",
+      "unit": "₹ crore",
+      "rows": [
+        {
+          "name": "Milk Products and Nutrition",
+          "revenue": 7716.77
+        },
+        {
+          "name": "Prepared Dishes and Cooking Aids",
+          "revenue": 7274.01
+        },
+        {
+          "name": "Powdered and Liquid Beverages",
+          "revenue": 3638.12
+        },
+        {
+          "name": "Confectionery",
+          "revenue": 4442.56
+        }
+      ],
+      "total": 23071.46,
+      "otherOperatingRevenue": 83.14,
+      "source": "https://www.nestle.in/sites/g/files/pydnoa451/files/2026-06/AnnualReport2025-26andAGMNotice.pdf",
+      "location": "Note 24 · Class-Wise Details of Sales of Products; Note 42 · Segment Reporting · standalone financial statements",
+      "checked": "29 October 2026"
+    }
   }
 };

@@ -2925,6 +2925,50 @@
       "alt": "ITC Infotech — conceptual illustration, not a product photograph",
       "src": "Original SVG illustration by Company Notebook",
       "reviewed": "2026-10-29"
+    },
+    {
+      "company": "nestle-india",
+      "name": "Milk & nutrition",
+      "category": "Dairy and nutrition product group",
+      "url": "https://www.nestle.in/brands/dairy",
+      "image": "assets/products/nestle-business-milk-nutrition.svg",
+      "kind": "illustration",
+      "alt": "Milk & nutrition — conceptual illustration, not a product photograph",
+      "src": "Original SVG illustration by Company Notebook",
+      "reviewed": "2026-10-29"
+    },
+    {
+      "company": "nestle-india",
+      "name": "Confectionery",
+      "category": "Chocolate, wafers and sugar confectionery",
+      "url": "https://www.nestle.in/info/sitemap",
+      "image": "assets/products/nestle-business-confectionery.svg",
+      "kind": "illustration",
+      "alt": "Confectionery — conceptual illustration, not a product photograph",
+      "src": "Original SVG illustration by Company Notebook",
+      "reviewed": "2026-10-29"
+    },
+    {
+      "company": "nestle-india",
+      "name": "Purina PetCare",
+      "category": "Pet food · included in Prepared Dishes and Cooking Aids",
+      "url": "https://www.nestle.in/sites/g/files/pydnoa451/files/2026-06/AnnualReport2025-26andAGMNotice.pdf",
+      "image": "assets/products/nestle-business-petcare.svg",
+      "kind": "illustration",
+      "alt": "Purina PetCare — conceptual illustration, not a product photograph",
+      "src": "Original SVG illustration by Company Notebook",
+      "reviewed": "2026-10-29"
+    },
+    {
+      "company": "nestle-india",
+      "name": "Nestlé Professional",
+      "category": "Out-of-home offerings · customer channel",
+      "url": "https://www.nestle.in/media/pressreleases/allpressreleases/nestl%C3%A9-professional-reaches-landmark-1000th-retail-one-kiosk-india",
+      "image": "assets/products/nestle-business-professional.svg",
+      "kind": "illustration",
+      "alt": "Nestlé Professional — conceptual illustration, not a product photograph",
+      "src": "Original SVG illustration by Company Notebook",
+      "reviewed": "2026-10-29"
     }
   ]
 }
