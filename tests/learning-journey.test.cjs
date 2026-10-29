@@ -4,7 +4,7 @@ const fs=require('node:fs');
 const vm=require('node:vm');
 const ctx={Intl,main:{innerHTML:''},document:{},event(){},updateSaved(){},mono:()=>'',saveButton:()=>''};ctx.window=ctx;
 vm.createContext(ctx);
-for(const f of ['data','company-expansion','overviews','research-guides','financial-data','financials','hul-primer','itc-primer','nestle-primer','britannia-primer'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),ctx);
+for(const f of ['data','company-expansion','overviews','research-guides','financial-data','financials','hul-primer','itc-primer','nestle-primer','britannia-primer','marico-primer'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),ctx);
 ctx.safe=v=>String(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 ctx.productShelf={render:()=>'<section id="offerings"></section>',init(){}};
 const app=fs.readFileSync('dist/app.js','utf8');

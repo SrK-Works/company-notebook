@@ -399,7 +399,41 @@ window.COMPANY_FINANCIALS = {
     "insight": "India produces most sales and segment earnings. International has less revenue but a higher result relative to its sales.",
     "revenueTotal": 13611,
     "profitTotal": 2474,
-    "status": "segments"
+    "status": "segments",
+    "productRevenue": {
+      "basis": "Consolidated · revenue by major product category",
+      "unit": "₹ crore",
+      "period": "FY 2025–26 · year ended 31 March 2026",
+      "rows": [
+        {
+          "name": "Edible Oils",
+          "revenue": 7049
+        },
+        {
+          "name": "Hair oils",
+          "revenue": 2624
+        },
+        {
+          "name": "Personal care",
+          "revenue": 2020
+        },
+        {
+          "name": "Others",
+          "revenue": 1918
+        }
+      ],
+      "total": 13611,
+      "source": "https://marico.com/investorspdf/Marico_Annual_Report_FY26.pdf",
+      "location": "Consolidated Note 30 · PDF page 219 · printed pages 434–435",
+      "checked": "29 October 2026",
+      "financeCosts": 53,
+      "unallocatedNetExpense": 144,
+      "pbt": 2277,
+      "tax": 464,
+      "groupPat": 1813,
+      "nonControlling": 51,
+      "ownersPat": 1762
+    }
   },
   "park-medi-world": {
     "period": "FY 2025–26 · year ended 31 March 2026",

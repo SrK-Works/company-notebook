@@ -5,7 +5,7 @@ Mobile-friendly research prototype for Indian stock-market beginners.
 ## Run
 
 Serve `dist/` with a local HTTP server. No build or dependency installation is required.
-The entrypoint loads `data.js`, `company-expansion.js`, `overviews.js`, `product-images.js`, `gallery.js`, `financial-data.js`, `financials.js`, `research-guides.js`, `hul-primer.js`, `itc-primer.js`, `nestle-primer.js`, `britannia-primer.js`, `app.js` and `style.css`. Navigation uses hash routes,
+The entrypoint loads `data.js`, `company-expansion.js`, `overviews.js`, `product-images.js`, `gallery.js`, `financial-data.js`, `financials.js`, `research-guides.js`, `hul-primer.js`, `itc-primer.js`, `nestle-primer.js`, `britannia-primer.js`, `marico-primer.js`, `app.js` and `style.css`. Navigation uses hash routes,
 so company links work on static hosting. `.openai/hosting.json` retains the Sites project identity.
 
 ## Live website
@@ -117,3 +117,12 @@ Nestlé validation: 320px, 390px and 768px layouts have no overflow or broken ju
 The FY 2025–26 consolidated annual report is the primary financial source. Revenue and owners’ profit are shown as group totals, with no invented category profit. The BRSR approximate turnover mix is explicitly distinguished from exact category sales, biscuit-only sales and profit. The report’s consolidated reporting boundary is identified. Geographical revenues include other operating revenue and reconcile to the same group total. The profit explanation reconciles total group PAT to owners’ PAT; the separate Britannia Bel disclosure is an entity-level equity-accounted loss, not a cheese-product margin. Three original, labelled bakery illustrations supplement all retained product photos. Business-source checking does not re-date unrelated existing catalogue claims.
 
 Britannia validation: all 20 automated checks pass, including preservation of the other profiles and earlier financial records, financial reconciliation and signed equity-accounted losses. At 320px, 390px and 768px there is no horizontal overflow, no broken jump target and no failed image. All three tables are inside the final numbers section. Geography and joint-venture disclosures expand correctly, and light/dark layouts were checked with no browser errors.
+
+
+## Fifth detailed profile: Marico
+
+`dist/marico-primer.js` changes Marico only. It starts with coconut and hair oils, cooking oils and foods, grooming/personal care and international offerings. It explains copra, price/quantity/mix, reduced pack contents, digital-first versus direct sales, actual period revenue versus annualised revenue run-rate, repeat demand, constant currency, acquisitions and Kaya's marketing rights outside clinics. Six tailored questions and five risks precede the figures. The generic ownership tutorial is omitted; all existing shelf assets are retained with clearer references and labels.
+
+The existing verified India/International segment figures are preserved. A product-revenue table from FY 2025–26 consolidated Note 30 (printed pages 434–435) is stored separately and reconciles to the same group revenue, with no category profit estimates. The page warns against adding the two views together. Calculated segment-result-to-sales ratios are labelled separately from reported EBITDA margins. A disclosure traces segment result through finance costs, net unallocated expenditure, tax and non-controlling interests to owners’ profit, using the annual report's management review and accounts.
+
+Marico validation: all 23 automated checks pass. All earlier financial source values are unchanged; only the new Marico product-revenue and reconciliation record is added. At 320px, 390px and 768px there is no horizontal overflow, broken section link or failed image. Both financial tables remain in the final learning section. The profit-reconciliation disclosure and light/dark layouts were checked, with no browser errors.
