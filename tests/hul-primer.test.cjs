@@ -1,0 +1,29 @@
+const {test}=require('node:test');
+const assert=require('node:assert/strict');
+const fs=require('node:fs');
+const vm=require('node:vm');
+const c={};c.window=c;vm.createContext(c);
+for(const f of ['data','company-expansion','overviews','research-guides','financial-data'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
+const snapshot=JSON.stringify(c.COMPANIES.filter(x=>x.id!=='hindustan-unilever'));
+const otherGuides=JSON.stringify(Object.fromEntries(Object.entries(c.COMPANY_RESEARCH_GUIDES).filter(([id])=>id!=='hindustan-unilever')));
+const financialSnapshot=JSON.stringify(c.COMPANY_FINANCIALS);
+vm.runInContext(fs.readFileSync('dist/hul-primer.js','utf8'),c);
+const hul=c.COMPANIES.find(x=>x.id==='hindustan-unilever');
+test('the first deep dive leaves all 34 other profiles, guides and all financial figures unchanged',()=>{
+ assert.equal(JSON.stringify(c.COMPANIES.filter(x=>x.id!==hul.id)),snapshot);
+ assert.equal(JSON.stringify(Object.fromEntries(Object.entries(c.COMPANY_RESEARCH_GUIDES).filter(([id])=>id!==hul.id))),otherGuides);
+ assert.equal(JSON.stringify(c.COMPANY_FINANCIALS),financialSnapshot);
+ for(const company of c.COMPANIES.filter(x=>x.id!==hul.id))for(const slot of ['basics','specifics','ownership','numbers'])assert.equal(c.companyPrimer.render(company,slot),'');
+});
+test('HUL separates shopper economics, reported results and shareholder returns',()=>{
+ const basics=c.companyPrimer.render(hul,'basics'),specifics=c.companyPrimer.render(hul,'specifics'),ownership=c.companyPrimer.render(hul,'ownership'),numbers=c.companyPrimer.render(hul,'numbers');
+ assert.match(basics,/not HUL prices, forecasts or reported results/);
+ assert.match(basics,/100 packs × ₹10 = ₹1,000/);
+ assert.match(basics,/110 packs × ₹10 = ₹1,100/);
+ assert.match(numbers,/₹19\.10/);assert.match(numbers,/₹27\.76/);
+ assert.match(numbers,/not<\/strong> profit after tax/);
+ assert.match(ownership,/Neither a dividend nor a positive return is guaranteed/);
+ assert.match(specifics,/Kwality Wall/);
+ assert.equal(hul.watch.length,5);assert.equal(c.COMPANY_RESEARCH_GUIDES[hul.id].length,5);
+ for(const name of ['Clinic Plus','Sunsilk'])assert.match(hul.products.find(p=>p[0]===name)[1],/Beauty & wellbeing/);
+});

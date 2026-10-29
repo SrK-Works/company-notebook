@@ -4,7 +4,7 @@ const fs=require('node:fs');
 const vm=require('node:vm');
 const ctx={Intl,main:{innerHTML:''},document:{},event(){},updateSaved(){},mono:()=>'',saveButton:()=>''};ctx.window=ctx;
 vm.createContext(ctx);
-for(const f of ['data','company-expansion','overviews','research-guides','financial-data','financials'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),ctx);
+for(const f of ['data','company-expansion','overviews','research-guides','financial-data','financials','hul-primer'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),ctx);
 ctx.safe=v=>String(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 ctx.productShelf={render:()=>'<section id="offerings"></section>',init(){}};
 const app=fs.readFileSync('dist/app.js','utf8');
@@ -13,7 +13,7 @@ vm.runInContext('window.testOpeningSentence=openingSentence;window.testBusinessD
 test('every company teaches the business and its risks before the financial tables',()=>{
  for(const c of ctx.COMPANIES){ctx.profile(c);const html=ctx.main.innerHTML;const ordered=['offerings','overview','business','products','watch','risks','updates','money','financials','sources'];let last=-1;
   for(const id of ordered){const positions=[...html.matchAll(new RegExp(`id="${id}"`,'g'))];assert.equal(positions.length,1,`${c.id}: unique ${id}`);assert.ok(positions[0].index>last,`${c.id}: ${id} order`);last=positions[0].index;}
-  assert.equal((html.match(/class="research-hint"/g)||[]).length,3,c.id);
+  assert.equal((html.match(/class="research-hint"/g)||[]).length,c.watch.length,c.id);
   assert.ok(!html.includes('undefined')&&!html.includes('NaN'),c.id);
   assert.ok(html.includes('does not yet provide a verified cash-flow, debt or valuation analysis'),c.id);
   assert.ok(html.includes('ABOUT 1 MINUTE'),c.id);
