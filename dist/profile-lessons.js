@@ -2751,175 +2751,191 @@ window.COMPANY_LESSONS = {
     "checked": "29 October 2026"
   },
   "refex-industries": {
-    "summary": "Ash utilisation, coal-handling and related industrial services, with a wind-equipment business through Venwind Refex. Historic activities need separate, dated reading.",
-    "description": "Refex Industries helps industrial customers handle materials and operating needs around power plants. Ash is a by-product of burning coal; handling and finding approved uses for it is a different business from generating electricity. The wind-equipment subsidiary introduces a separate manufacturing and execution model.",
-    "money": "Contracts can earn service revenue and material-related sales under their own terms. Equipment, transport, labour, site operations, working capital and collection determine what remains. Wind equipment has its own order, manufacturing, installation and warranty cycle.",
-    "customers": "Thermal power plants and industrial customers, users of ash where appropriate, and customers of the wind-equipment business. Who pays for transport or material depends on the individual contract.",
-    "drivers": "Contract volumes and terms, plant activity, material handling, route efficiency, permitted utilisation, receivables and the execution and funding of new wind-equipment activity.",
+    "summary": "Refex helps coal-fired power plants manage coal before it is burned and remove ash afterwards. It also has wind-turbine and smaller solar businesses.",
+    "description": "A coal-fired power plant burns coal to make electricity. Coal must be unloaded, stored and moved to where it is needed; the ash left after burning must be collected and taken to a suitable reuse or disposal location. Refex takes on work along this chain under customer contracts.",
+    "money": "Refex earns fees for the work covered by its contracts and can also earn from supplying materials such as coal or ash. It pays for workers, fuel, vehicles, machines, repairs and other business costs; the customer’s entire payment is not profit.",
+    "customers": "Power plants that need coal and ash services, and businesses that buy materials such as coal or usable ash. In its other businesses, customers buy wind equipment, solar equipment or electricity. The contract determines who pays for each job or delivery.",
+    "drivers": "How much work customers give it, the price agreed, transport distance, fuel and repair costs, and whether customers pay on time. Wind and solar activities have different costs from the coal and ash work.",
     "products": [
       [
-        "Fly ash utilisation",
-        "Industrial by-product management"
+        "Fly ash collection and reuse",
+        "Collecting fine ash and arranging a suitable destination"
       ],
       [
-        "Pond ash utilisation",
-        "Ash reclamation and reuse"
+        "Pond ash removal and reuse",
+        "Removing ash previously stored in ash ponds"
       ],
       [
-        "Ash transportation and logistics",
-        "Movement to utilisation sites"
+        "Ash transport",
+        "Loading and moving ash to its destination"
       ],
       [
-        "Coal supply and handling",
-        "Fuel supply and material services"
+        "Coal supply",
+        "Buying and supplying coal to customers"
       ],
       [
         "Coal-yard management",
-        "On-site operating services"
+        "Unloading, storing and moving coal within a plant"
       ],
       [
-        "Coal-handling plant operation and maintenance",
-        "Plant operating service"
+        "Coal-handling equipment operation and upkeep",
+        "Running and maintaining equipment that moves coal"
       ],
       [
-        "Overburden excavation",
-        "Site and material services"
+        "Overburden removal",
+        "Removing earth or rock above a deposit at a work site"
       ],
       [
         "Venwind Refex wind turbines",
-        "Wind-energy equipment through a subsidiary"
+        "Equipment that uses wind to generate electricity, through a subsidiary"
       ],
       [
         "Solar-power generation and related activities",
-        "Reported energy activity"
+        "Producing electricity using sunlight"
       ],
       [
         "Solar-module trading",
-        "Reported trading activity"
+        "Buying and selling solar panels"
       ]
     ],
     "productNote": "Selected offerings within the issuer’s reported business boundary, including solar generation and solar-module trading in its audited annual segment disclosure. Refrigerants, power trading and green mobility are identified as discontinued in that disclosure; this does not establish completion of every legal transfer.",
     "groups": [
       {
-        "title": "Ash management and utilisation",
-        "examples": "Fly ash, pond ash and movement to appropriate utilisation sites.",
-        "explanation": "Handling, transportation and end-use arrangements form an operating chain. A reuse claim needs the relevant material suitability, permissions and actual destination."
+        "title": "Coal: getting fuel to where the plant needs it",
+        "examples": "Coal supply, unloading, storage and movement within the plant.",
+        "explanation": "Coal can arrive by truck or train. Depending on the contract, Refex may help unload it, keep it in the coal yard, move it, crush larger pieces and operate the equipment that feeds it towards use. A coal yard is the plant’s storage area for coal. The plant is buying a supply or service; Refex does not have to own the power plant to do this work."
       },
       {
-        "title": "Coal and site services",
-        "examples": "Supply and handling, coal-yard management and related operating services.",
-        "explanation": "Material volume, equipment availability, staffing and contract responsibilities affect execution. This does not mean the company owns every plant it serves."
+        "title": "Ash: removing what is left after coal burns",
+        "examples": "Ash collection, loading, transport and arrangements for reuse or disposal.",
+        "explanation": "Burning coal leaves ash behind. Refex collects or removes the ash, loads it into vehicles and takes it to an agreed destination. Suitable ash may go to a cement maker or another approved use; other material needs an appropriate disposal route. The job includes arranging where the ash goes, not simply dropping it somewhere."
       },
       {
-        "title": "Wind equipment through a subsidiary",
-        "examples": "Venwind Refex wind-turbine activity.",
-        "explanation": "Manufacturing, customer acceptance, service and warranties differ from recurring handling work. Read the subsidiary’s actual stage, orders and group funding separately."
+        "title": "Wind: a different business from moving coal and ash",
+        "examples": "Wind turbines through the Venwind Refex subsidiary.",
+        "explanation": "A wind turbine uses moving air to generate electricity. This business supplies equipment rather than carrying ash away from a power plant. It has to arrange production, delivery and the support promised to the customer. A subsidiary is a company controlled by another company."
       },
       {
-        "title": "Solar activities",
-        "examples": "Solar-power generation and related activities; solar-module trading.",
-        "explanation": "The company also reports a smaller solar activity. Generation and module trading are different businesses; use the issuer’s own reporting boundary rather than treating every Refex-branded business as part of this company."
+        "title": "Solar: electricity and equipment",
+        "examples": "Solar-power generation and solar-panel trading reported in the company’s accounts.",
+        "explanation": "Solar generation means producing electricity using sunlight. Solar-panel trading means buying panels and selling them to customers. Those are different ways of earning money, even though both involve solar energy."
       }
     ],
     "basics": [
       {
-        "title": "Fly ash and pond ash are related but different materials",
-        "text": "Fly ash is collected from a combustion process; ash stored in ponds needs its own reclamation and handling arrangements. Transport and suitability for an end use can change the economics."
+        "title": "What do “handling” and “transport” mean here?",
+        "text": "Handling means the practical work at the site: unloading, storing, loading, moving or preparing a material. Transport means carrying it from one place to another, such as taking ash from a power plant to a suitable destination. The exact tasks depend on the contract."
       },
       {
-        "title": "A group brand is not a reporting boundary",
-        "text": "Other businesses using the Refex name are not automatically operations or assets of Refex Industries. Use its consolidated notes and entity list to establish the scope."
+        "title": "What are fly ash and pond ash?",
+        "text": "Fly ash is fine ash collected from the gases produced when coal burns. Pond ash is ash that has been stored in an ash pond. Removing stored ash can require different machines and work from collecting fresh ash at a running plant."
+      },
+      {
+        "title": "Who pays Refex, and for what?",
+        "text": "A power plant can pay Refex to carry out agreed coal or ash work. Refex can also receive money from customers buying materials it supplies. For example, a contract may cover removing and transporting ash, while a material sale involves a buyer paying for the material. The same payment arrangement should not be assumed for every job."
+      },
+      {
+        "title": "A customer’s payment is different from profit",
+        "text": "Refex still has to pay drivers and other workers, buy fuel, use or hire equipment and pay for repairs. It also has costs of running and funding the business. What remains after the relevant costs and tax is profit. A completed job can be billed before the customer actually pays."
       }
     ],
     "steps": [
       {
-        "title": "Agree the contract",
-        "text": "Identify volumes, service duties, transport responsibility and payment terms."
+        "title": "The customer has a practical job to get done",
+        "text": "A power plant needs coal supplied or moved, or needs ash removed after burning coal. Refex and the customer agree which tasks Refex will carry out."
       },
       {
-        "title": "Mobilise and execute",
-        "text": "Arrange sites, people, equipment and permitted material movement."
+        "title": "Agree the work and payment",
+        "text": "The contract sets the work, responsibilities, price and payment terms. Check who pays for transport and where the material must be delivered."
       },
       {
-        "title": "Confirm and bill",
-        "text": "Measure completed work or supplied goods and obtain the required customer approvals."
+        "title": "Send people, vehicles and machines to do the work",
+        "text": "Depending on the job, workers unload or move coal, collect ash, load vehicles and deliver materials. Refex pays the costs of doing the tasks it has agreed to take on."
       },
       {
-        "title": "Collect and reinvest",
-        "text": "Recover receivables while paying operating costs and funding equipment or expansion."
+        "title": "Confirm the work, send a bill and collect payment",
+        "text": "The customer checks the work or delivery under the contract. Refex bills for what it has earned and collects payment when due. It must fund fuel, wages and other bills while waiting for customer payments."
       }
     ],
     "specifics": [
       {
-        "title": "Logistics can decide contract economics",
-        "text": "A short, reliable route and suitable destination differ from a long or disrupted one. More tonnes handled do not guarantee a better margin when mobilisation, fuel and maintenance also rise."
+        "title": "A longer truck journey can leave less profit",
+        "text": "Moving material farther can use more fuel, driver time and vehicle capacity. Repairs, waiting at a site and an unsuitable destination can add costs too. More work is useful only if the agreed payment covers the costs of doing it."
       },
       {
-        "title": "Continuing and discontinued results must stay separate",
-        "text": "The cited interim accounts classified several activities as discontinued. This is an accounting presentation with a specified period, not proof that all legal transfers had already finished or that the old activity never existed."
+        "title": "A busy business can still be short of cash",
+        "text": "Refex may have to pay wages and fuel bills before a customer pays its invoice. Money customers still owe is called receivables. If payment is delayed, Refex needs more money to keep the work going, even if it has recorded a profit."
       },
       {
-        "title": "Wind activity changes the execution questions",
-        "text": "Order conversion, technical qualification, production, acceptance and warranty obligations need reading. A project announcement is not the same as completed delivery or collected customer cash."
+        "title": "Separate the present businesses from older ones",
+        "text": "The audited annual accounts mark refrigerant gases, power trading and green mobility as discontinued operations: activities presented separately from the continuing business. That reporting label alone does not mean every legal transfer is complete. These older activities should not be mixed into today’s main service explanation."
+      },
+      {
+        "title": "A wind-equipment order still has to become a delivery",
+        "text": "An announced order is a promise of future work. Equipment must still be made, delivered and accepted under the contract, and the customer must pay. Promised repairs or support after the sale can also cost money."
       }
     ],
     "watch": [
       [
-        "What is inside the reported company now?",
-        "A historic website menu can outlive a reporting change.",
-        "Read continuing and discontinued operations, subsidiaries and disposal notes for the exact period. Track subsequent announcements before asserting current ownership, and keep the listed company distinct from the wider Refex group."
+        "Does the payment cover the cost of moving the material?",
+        "Distance, fuel and waiting time can change the cost of a job.",
+        "Read who pays for transport, where ash must go and what happens if fuel prices or delivery conditions change. A new contract announcement does not prove the work has started or that it will be profitable."
       ],
       [
-        "Are contracts producing collected cash?",
-        "Work performed may remain in receivables.",
-        "Compare operating cash flow with earnings, customer balances and collection commentary. Examine approval, billing and contract terms rather than assuming every tonne handled immediately produces cash."
+        "Are customers paying for completed work?",
+        "A bill sent to a customer is not yet money in the bank.",
+        "Look at money generated by day-to-day operations and the amount customers still owe. Check how long payments take and whether more money is tied up in unpaid bills as the business grows."
       ],
       [
-        "Do the ash routes and utilisation arrangements work?",
-        "Destination and distance affect delivery costs and compliance.",
-        "Read customer duties, permitted end uses, transport responsibilities and actual operating progress. Distinguish a contract award from mobilised capacity and completed utilisation."
+        "Does the business depend heavily on a few customers?",
+        "Work may fall if an important power plant slows down.",
+        "Look for the share of business coming from major customers and when contracts need renewal. Ask whether trucks, machines and workers could move to other jobs if a large contract ends or a plant stops operating."
       ],
       [
-        "Are equipment and customers becoming concentrated?",
-        "A contract or plant interruption can affect utilisation.",
-        "Read customer concentration, renewal conditions, equipment commitments and plant exposure. Ask whether assets and people can move to another contract if an important customer’s activity slows."
+        "Is the wind business delivering equipment and collecting payment?",
+        "Building equipment can require money before the customer pays.",
+        "Check which orders have become deliveries, whether production facilities are ready and what customers have paid in advance. Read who funds the subsidiary and who must pay if promised repairs or other commitments become due."
       ],
       [
-        "Is the wind business progressing beyond announcements?",
-        "Manufacturing commitments can require cash before acceptance.",
-        "Read capacity commissioning, firm orders, customer advances, delivery and service obligations. Separate subsidiary activity from the parent’s established handling operations, and investigate the funding and guarantees involved."
+        "Which businesses are included in the accounts?",
+        "An old website page may still describe a business that has changed.",
+        "Use the latest signed accounts to separate continuing businesses from discontinued ones. Check which companies the group controls and any later transfer announcements; sharing the Refex name does not mean every business belongs to Refex Industries."
       ]
     ],
     "risks": [
       [
-        "Contract and collection",
-        "Customer approvals, disputes or slow payment can delay cash."
+        "Customers pay late",
+        "Refex may still have to pay workers and fuel bills while waiting for customer payment."
       ],
       [
-        "Transport and site execution",
-        "Fuel, maintenance, utilisation and operating interruptions affect costs."
+        "A job costs more than expected",
+        "Longer routes, fuel prices, breakdowns or delays at a plant can reduce what remains from the agreed payment."
       ],
       [
-        "Environmental and operating compliance",
-        "Material handling requires appropriate permissions and safe execution."
+        "Ash does not reach a suitable destination",
+        "Collection, transport and reuse or disposal must meet the relevant rules. Refex needs appropriate destinations and permissions for the work it takes on."
       ],
       [
-        "New-business and scope changes",
-        "Manufacturing ramp-up, guarantees, disposals and group transactions can change risk and comparability."
+        "New activities need money before they earn it",
+        "Wind equipment, new sites and other expansion can require spending before deliveries and customer payments arrive."
       ]
     ],
     "context": [
-      "Use the disclosure date to resolve conflicting descriptions",
-      "The interim financial filing is the stronger source for its reported accounting scope when a marketing menu still lists older businesses. Read any later filing before carrying that conclusion forward to a different reporting date."
+      "Use the latest accounts to check what has changed",
+      "Older Refex pages may describe businesses that the audited annual accounts now show separately as discontinued. Start with the signed accounts for the period, then check later announcements. Use the wider group’s website as a starting point, not as proof that every activity sits inside Refex Industries."
     ],
     "quiz": [
-      "Does an ash-handling contract mean Refex owns the customer’s electricity-generation business?",
-      "No. It may provide material and operating services to that plant. Ownership, responsibilities, revenue and risks depend on the disclosed company and contract."
+      "If Refex bills a customer for moving ash, is the whole bill its profit?",
+      "No. It still has to cover workers, fuel, vehicles, equipment, repairs and other costs. The bill may also be paid later, so recorded revenue, profit and cash received are different things."
     ],
     "sources": [
       [
         "Official ash business",
         "https://refex.co.in/ash-utilization"
+      ],
+      [
+        "Coal-yard tasks and ash collection explained · FY2023–24 annual report",
+        "https://www.refex.co.in/pdf/RIL-Annual-Report-2023-24.pdf"
       ],
       [
         "Official wind business",

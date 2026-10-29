@@ -2214,52 +2214,52 @@ Object.assign(window.PRODUCT_VISUALS, {
   ],
   "refex-industries": [
     {
-      "name": "Fly ash utilisation",
-      "category": "Industrial by-product management",
+      "name": "Collecting and reusing fly ash",
+      "category": "Removing ash left after coal burns",
       "image": "assets/products/refex-industries-visual-47.webp",
       "url": "https://refex.co.in/ash-utilization",
       "kind": "photo",
-      "alt": "Fly ash utilisation — image from the official company website"
+      "alt": "Collecting and reusing fly ash — image from the official company website"
     },
     {
-      "name": "Coal supply and handling",
-      "category": "Fuel logistics for power plants",
+      "name": "Supplying and moving coal",
+      "category": "Getting coal to where a plant needs it",
       "image": "assets/products/refex-industries-visual-48.webp",
       "url": "https://refex.co.in/ash-utilization",
       "kind": "photo",
-      "alt": "Coal supply and handling — image from the official company website"
+      "alt": "Supplying and moving coal — image from the official company website"
     },
     {
       "name": "Venwind Refex wind turbines",
-      "category": "Wind-energy equipment through a subsidiary",
+      "category": "Equipment that turns wind into electricity",
       "image": "assets/products/refex-industries-visual-49.webp",
       "url": "https://refex.co.in/venwind-refex",
       "kind": "photo",
       "alt": "Venwind Refex wind turbines — image from the official company website"
     },
     {
-      "name": "Pond ash utilisation",
-      "category": "Ash reclamation and reuse",
+      "name": "Removing stored ash",
+      "category": "Taking ash out of ash ponds",
       "image": "assets/products/refex-industries-pond-ash-utilisation.svg",
       "url": "https://refex.co.in/",
       "kind": "illustration",
-      "alt": "Pond ash utilisation — conceptual illustration, not a product photograph"
+      "alt": "Removing stored ash — conceptual illustration, not a product photograph"
     },
     {
-      "name": "Ash transportation and logistics",
-      "category": "Movement to utilisation sites",
+      "name": "Moving ash to its destination",
+      "category": "Loading and transporting ash",
       "image": "assets/products/refex-industries-ash-transportation-and-logistics.svg",
       "url": "https://refex.co.in/",
       "kind": "illustration",
-      "alt": "Ash transportation and logistics — conceptual illustration, not a product photograph"
+      "alt": "Moving ash to its destination — conceptual illustration, not a product photograph"
     },
     {
-      "name": "Coal-yard management",
-      "category": "On-site operating services",
+      "name": "Work in the coal storage yard",
+      "category": "Unloading, storing and moving coal",
       "image": "assets/products/refex-industries-coal-yard-management.svg",
       "url": "https://refex.co.in/",
       "kind": "illustration",
-      "alt": "Coal-yard management — conceptual illustration, not a product photograph"
+      "alt": "Work in the coal storage yard — conceptual illustration, not a product photograph"
     }
   ],
   "tonbo-imaging": [
