@@ -5,7 +5,7 @@ Mobile-friendly research prototype for Indian stock-market beginners.
 ## Run
 
 Serve `dist/` with a local HTTP server. No build or dependency installation is required.
-The entrypoint loads `data.js`, `company-expansion.js`, `overviews.js`, `product-images.js`, `gallery.js`, `financial-data.js`, `financials.js`, `app.js` and `style.css`. Navigation uses hash routes,
+The entrypoint loads `data.js`, `company-expansion.js`, `overviews.js`, `product-images.js`, `gallery.js`, `financial-data.js`, `financials.js`, `research-guides.js`, `app.js` and `style.css`. Navigation uses hash routes,
 so company links work on static hosting. `.openai/hosting.json` retains the Sites project identity.
 
 ## Live website
@@ -72,3 +72,13 @@ Feedback must be exported by a pilot participant and shared separately.
 
 Review the three seed profiles with beginners, extend verified segment financials,
 then decide on shared feedback storage and editorial update tooling. Review image reuse permissions before commercial expansion.
+
+## Beginner learning sequence
+
+Company pages show products first, then the one-minute overview, ownership and business mechanics, offering details, company-specific investigation questions, risks and research context. The self-check precedes the final learning section, Follow the money; original sources and feedback follow it. The four-step path and desktop contents mirror this order.
+
+`dist/research-guides.js` supplies three editorial investigation instructions per company. They explain what to compare and what evidence to seek, not a finding that the business is doing well or a claim that every metric is disclosed. They are revealed on demand to keep the first read short. The final numbers section explicitly identifies cash flow, debt and valuation as work still to do. The overview’s opening explanation is not repeated in the business mechanics.
+
+Run `node --test tests/*.test.cjs` to check disclosure handling and the learning sequence across all 35 profiles.
+
+Learning sequence validation: all 35 profiles passed phone-width checks for section order, three investigation disclosures, valid jump links and no horizontal overflow. Desktop and phone interactions were checked on Glass Wall Systems and HDFC Bank.
