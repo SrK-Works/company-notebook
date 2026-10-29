@@ -17,7 +17,8 @@ GitHub Pages publishes `dist/` automatically after each push to `main`:
 
 - Product-first company pages: the visual shelf appears immediately after the company header, followed by the one-minute overview, ownership context and deeper research. The business description appears once; the ownership section explains the listed entity rather than repeating the overview.
 - A one-minute overview on all 35 profiles: activities, paying customers, earnings, profit drivers and a next research question. Summaries reuse existing sourced explanations; customer and profit-driver copy lives in `dist/overviews.js`.
-- Thirty-five company profiles, company/brand/ticker search and business-type filters.
+- Thirty-five company profiles, company/brand/ticker search and business-type filters. Multiword search matches words across company names, aliases and offerings (for example, “ITC Gold Flake”).
+- Cards and profile headers omit fixed reading-time estimates; the approximate one-minute overview label remains.
 - Device-local saved reading list, source references, business-model explanations,
   risks and self-check questions.
 - Light and dark themes with system preference detection and a saved manual choice.
@@ -29,7 +30,7 @@ GitHub Pages publishes `dist/` automatically after each push to `main`:
 
 ## Editorial boundaries
 
-Sources were inspected during 15–18 September 2026. No data refresh runs automatically.
+Initial sources were inspected during 15–18 September 2026. No data refresh runs automatically. Per-company review dates are shown only when recorded; the 24 original profiles have no individual review date and are labelled accordingly, rather than inheriting a fixed date.
 Company disclosures and product directories support business facts; watch items,
 risks and learning explanations are editorial interpretation. This is not stock advice.
 Profile sources are stored with each record in `dist/data.js` and `dist/company-expansion.js`. The 11 expansion profiles were reviewed on 27 October 2026; aliases support familiar names and common spelling variations.
@@ -46,6 +47,8 @@ and device; local-preview and hosted bookmarks do not migrate automatically.
 Feedback must be exported by a pilot participant and shared separately.
 
 ## Validation performed
+
+- 29 October usability audit: removed uniform five-minute labels, corrected multiword company/product matching in the UI and assistant tools, removed unsupported fallback review dates and prevented a successful feedback-save toast after a failed write. All 35 profiles passed browser checks for product-first order, overview presence, valid section targets, absence of the old reading label and desktop overflow. All 288 shelf assets have local files. Mobile explorer/profile, combined search, bookmark save/removal and local correction submission were checked. A blocked-storage check confirmed an accurate failure message.
 
 - One-minute overviews: all 35 records have customer and profit-driver explanations, a research question and valid section targets; summaries contain roughly 110–150 words including labels.
 - Overview layout checked in light/dark themes and at 390px; consumer, banking, pharmaceutical, platform and building-project profiles checked, with no page overflow. Research and source links scroll within the profile without changing routes.
