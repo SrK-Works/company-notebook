@@ -15,6 +15,7 @@ GitHub Pages publishes `dist/` automatically after each push to `main`:
 
 ## Features
 
+- Product-first company pages: the visual shelf appears immediately after the company header, followed by the one-minute overview and deeper research.
 - A one-minute overview on all 35 profiles: activities, paying customers, earnings, profit drivers and a next research question. Summaries reuse existing sourced explanations; customer and profit-driver copy lives in `dist/overviews.js`.
 - Thirty-five company profiles, company/brand/ticker search and business-type filters.
 - Device-local saved reading list, source references, business-model explanations,
