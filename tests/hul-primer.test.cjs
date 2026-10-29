@@ -16,13 +16,14 @@ test('the first deep dive leaves all 34 other profiles, guides and all financial
  for(const company of c.COMPANIES.filter(x=>x.id!==hul.id))for(const slot of ['basics','specifics','ownership','numbers'])assert.equal(c.companyPrimer.render(company,slot),'');
 });
 test('HUL separates shopper economics, reported results and shareholder returns',()=>{
- const basics=c.companyPrimer.render(hul,'basics'),specifics=c.companyPrimer.render(hul,'specifics'),ownership=c.companyPrimer.render(hul,'ownership'),numbers=c.companyPrimer.render(hul,'numbers');
+ const basics=c.companyPrimer.render(hul,'basics'),specifics=c.companyPrimer.render(hul,'specifics'),numbers=c.companyPrimer.render(hul,'numbers');
  assert.match(basics,/not HUL prices, forecasts or reported results/);
  assert.match(basics,/100 packs × ₹10 = ₹1,000/);
  assert.match(basics,/110 packs × ₹10 = ₹1,100/);
  assert.match(numbers,/₹19\.10/);assert.match(numbers,/₹27\.76/);
  assert.match(numbers,/not<\/strong> profit after tax/);
- assert.match(ownership,/Neither a dividend nor a positive return is guaranteed/);
+ assert.equal(c.companyPrimer.render(hul,'ownership'),'');
+ assert.match(basics,/How does HUL turn sales into earnings/);
  assert.match(specifics,/Kwality Wall/);
  assert.equal(hul.watch.length,5);assert.equal(c.COMPANY_RESEARCH_GUIDES[hul.id].length,5);
  for(const name of ['Clinic Plus','Sunsilk'])assert.match(hul.products.find(p=>p[0]===name)[1],/Beauty & wellbeing/);

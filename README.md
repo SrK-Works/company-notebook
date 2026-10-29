@@ -90,3 +90,5 @@ Learning sequence validation: all 35 profiles passed phone-width checks for sect
 Company facts link to HUL's FY 2025–26 annual report, category reviews and brand directory. Illustrative pack-price calculations are labelled as fictional; margin examples are calculated from the verified consolidated continuing-operations table and are not net profit or shareholder returns. Learning-source verification is separate from dates on the existing financial data.
 
 HUL validation: desktop plus 320px, 390px and 768px layouts; no overflow, duplicate section IDs or broken jump links. Pricing and ownership disclosures, dark/light themes and the derived margin examples were checked. The test suite verifies the other 34 profiles and all financial records are untouched by the HUL extension.
+
+HUL refinement: the ownership/share tutorial is omitted from HUL's company page. The practical cost explanation lives inside the product-to-customer foundations. HUL's contents menu and numbered sections reflect this shorter business-focused sequence.
