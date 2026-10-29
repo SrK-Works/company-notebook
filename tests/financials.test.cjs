@@ -4,7 +4,7 @@ const fs=require('node:fs');
 const vm=require('node:vm');
 const context={window:{},Intl};
 vm.createContext(context);
-for(const path of ['dist/financial-data.js','dist/financials.js'])vm.runInContext(fs.readFileSync(path,'utf8'),context);
+for(const path of ['dist/financial-data.js','dist/financial-expansion.js','dist/financials.js'])vm.runInContext(fs.readFileSync(path,'utf8'),context);
 const records=context.window.COMPANY_FINANCIALS;
 const render=context.window.companyFinancials.render;
 test('every financial record identifies its primary source, period, measure and scope',()=>{

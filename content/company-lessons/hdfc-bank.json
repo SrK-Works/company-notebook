@@ -138,7 +138,7 @@
   "financialNotes": [
     {
       "title": "Verify banking measures on the same basis",
-      "text": "This profile’s financial figures remain pending verification. The source should identify interest earned, interest paid, net interest income, provisions and the precise profit measure, together with the bank or group scope. Deposit and loan balances must not be entered as revenue."
+      "text": "The table pairs consolidated group total income with profit after tax attributable to owners. Total income is before funding, insurance, operating and credit-loss costs, and is different from net interest income. Deposit and loan balances are not revenue. Use the standalone bank accounts separately when investigating lending spreads and provisions."
     }
   ],
   "checked": "29 October 2026"

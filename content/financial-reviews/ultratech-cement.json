@@ -1,0 +1,24 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited annual financial results",
+  "checked": "29 October 2026",
+  "coverage": "Whole-group totals · no verified product profit split",
+  "profitMetric": "Profit after tax",
+  "definition": "Whole-group net profit after exceptional items, financing, depreciation and tax, including the non-controlling share. It is not adjusted PAT or EBITDA.",
+  "rows": [
+    {
+      "name": "Building materials and solutions · whole group",
+      "revenue": 88511.53,
+      "profit": 8188.35
+    }
+  ],
+  "source": "https://links.sgx.com/FileOpen/Outcome%20of%20Board%20meeting%2027.04.2026.ashx?App=Announcement&FileID=885981",
+  "location": "PDF page 9 (consolidated statement page 1/5), FY ended 31/03/2026 column, rows 1 and 10; PDF page 13, Notes 7, 9 and 11",
+  "notes": "Revenue excludes ₹577.51 crore other income. PAT includes ₹22.71 crore non-controlling interests; owners’ profit is ₹8,165.64 crore. Exceptional expenses remain included. Acquisition timing changes the comparative group scope, so revenue growth is not wholly evidence of organic growth.",
+  "insight": "The consolidated group made a net profit. These totals cannot identify separate profits from grey cement, white cement, putty, concrete or acquired businesses.",
+  "status": "totals",
+  "revenueTotal": 88511.53,
+  "profitTotal": 8188.35
+}

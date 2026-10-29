@@ -130,7 +130,7 @@
   "financialNotes": [
     {
       "title": "The model list is not a profit split",
-      "text": "The pending financial section needs the exact annual statement, scope and profit measure before numbers are entered. A model’s retail price includes items different from manufacturer revenue; bookings and factory capacity must not be converted into invented sales or profit."
+      "text": "The table shows audited consolidated revenue from operations and profit after tax. Revenue includes products, services and other operating revenue, and differs from a standalone net-sales headline. A model’s retail price, bookings or factory capacity cannot be used to invent its manufacturer revenue or profit."
     }
   ],
   "checked": "29 October 2026"

@@ -36,9 +36,17 @@
     [
       "Venwind Refex wind turbines",
       "Wind-energy equipment through a subsidiary"
+    ],
+    [
+      "Solar-power generation and related activities",
+      "Reported energy activity"
+    ],
+    [
+      "Solar-module trading",
+      "Reported trading activity"
     ]
   ],
-  "productNote": "These offerings describe the ash, coal and wind businesses in the cited materials. Power trading, refrigerant gases and green mobility were classified as discontinued in the financial disclosure for the quarter and nine months ended December 2025. That dated accounting classification does not by itself establish their subsequent legal ownership or completion of disposal; do not treat an older group website menu as a current company catalogue.",
+  "productNote": "Selected offerings within the issuer’s reported business boundary, including solar generation and solar-module trading in its audited annual segment disclosure. Refrigerants, power trading and green mobility are identified as discontinued in that disclosure; this does not establish completion of every legal transfer.",
   "groups": [
     {
       "title": "Ash management and utilisation",
@@ -54,6 +62,11 @@
       "title": "Wind equipment through a subsidiary",
       "examples": "Venwind Refex wind-turbine activity.",
       "explanation": "Manufacturing, customer acceptance, service and warranties differ from recurring handling work. Read the subsidiary’s actual stage, orders and group funding separately."
+    },
+    {
+      "title": "Solar activities",
+      "examples": "Solar-power generation and related activities; solar-module trading.",
+      "explanation": "The company also reports a smaller solar activity. Generation and module trading are different businesses; use the issuer’s own reporting boundary rather than treating every Refex-branded business as part of this company."
     }
   ],
   "basics": [
@@ -167,16 +180,20 @@
     [
       "Interim management explanation of business changes",
       "https://refex.co.in/wp-content/uploads/2026/01/RIL_Media_Release_Q3FY26_sd.pdf"
+    ],
+    [
+      "Audited FY2026 results and segment reporting",
+      "https://nsearchives.nseindia.com/corporate/REFEX2002_26052026125311_RIL_Outcome_26052026_sd.pdf"
     ]
   ],
   "financialNotes": [
     {
       "title": "Do not combine different operating scopes",
-      "text": "The cited filing classifies power trading, refrigerant gases and green mobility as discontinued for the quarter and nine months ended December 2025. A fresh final-year breakdown has not been added here. Use the signed reporting period’s continuing/discontinued reconciliation rather than combining a historic total with a newer business description."
+      "text": "The audited annual table identifies continuing and discontinued businesses separately. Use that annual reporting scope rather than combining an older group total with a newer business description. Segment results are not final group profit: read the unallocated-cost, financing, tax and discontinued-operation reconciliation."
     },
     {
       "title": "Read operating cash and subsidiary obligations",
-      "text": "Contract receivables, equipment investment, wind-business funding and guarantees can require cash despite accounting earnings. A group total does not establish a separate margin for ash, coal or wind without a matching segment disclosure."
+      "text": "Contract receivables, equipment investment, energy-business funding and guarantees can require cash despite accounting earnings. The segment table explains the source’s reported operating groups; it does not establish the cash return or profit of each customer contract."
     }
   ],
   "checked": "29 October 2026"

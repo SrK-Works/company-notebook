@@ -1,0 +1,22 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated · Ind AS",
+  "coverage": "Whole hospital group · single healthcare services segment",
+  "unit": "₹ crore",
+  "profitMetric": "PAT attributable to owners",
+  "definition": "Profit after tax attributable to owners of Rainbow Children’s Medicare, after excluding the earnings belonging to non-controlling shareholders of subsidiaries. This is not hospital EBITDA or profit by specialty.",
+  "rows": [
+    {
+      "name": "Rainbow Children’s Medicare group",
+      "revenue": 1703.077,
+      "profit": 278.323
+    }
+  ],
+  "source": "https://d31scedd5hpubp.cloudfront.net/investor_files/Audited_Finanical_Results_-_Q4FY26.pdf",
+  "sourceLabel": "Audited FY2026 consolidated financial results",
+  "location": "PDF page 12 · consolidated annual statement; PDF page 13 · notes 1, 5, 6 and 8",
+  "notes": "Source figures are ₹ million and are divided by 10. Revenue excludes other income. Total group PAT is ₹281.544 crore, of which ₹3.221 crore belongs to non-controlling interests. The company reports one healthcare segment; maternity, paediatrics and individual hospitals are not assigned invented profits. Acquired hospitals contribute only from their respective consolidation dates.",
+  "insight": "Hospital revenue must cover doctors, staff, consumables, facilities, depreciation, financing and tax before profit remains for owners. When investigating expansion, compare newer hospitals’ occupancy and cash needs with mature centres; this group total alone does not show whether every hospital is profitable.",
+  "status": "single",
+  "checked": "29 October 2026"
+}

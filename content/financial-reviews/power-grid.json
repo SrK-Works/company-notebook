@@ -1,0 +1,37 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "coverage": "Reported business segments · gross segment income",
+  "unit": "₹ crore",
+  "revenueLabel": "Segment income",
+  "incomeDefinition": "Reported segment revenue includes allocable other income and internal sales. The rows are before the internal-sales deduction; this is not external-customer sales alone.",
+  "profitMetric": "Segment PBIT",
+  "definition": "Reported segment profit before interest and tax, before unallocated finance charges and expenses, equity-accounted joint-venture results and tax/regulatory-deferral tax adjustments. It is not profit after tax.",
+  "rows": [
+    {
+      "name": "Transmission",
+      "revenue": 44082.74,
+      "profit": 26353.13
+    },
+    {
+      "name": "Consultancy",
+      "revenue": 2347.36,
+      "profit": 403.38
+    },
+    {
+      "name": "Telecom",
+      "revenue": 1195.07,
+      "profit": 565.99
+    }
+  ],
+  "source": "https://www.powergrid.in/sites/default/files/annual-results/BSENSEReg30_AFSOutcome.pdf",
+  "sourceLabel": "Official audited annual financial results",
+  "location": "PDF page19 · Statement of Consolidated Segment-wise Revenue, Results, Assets and Liabilities",
+  "checked": "29 October 2026",
+  "notes": "Audited full-year March 31, 2026 column. Already ₹ crore. Gross segment income ₹47,625.17 crore less ₹419.23 crore internal revenue plus ₹478.49 crore other unallocated income gives ₹47,684.43 crore total income. Segment PBIT ₹27,322.50 crore includes depreciation but not common unallocated expenses or finance charges. After joint-venture losses, unallocated income, finance/common costs and tax/regulatory-deferral tax adjustments, group PAT is ₹15,927.95 crore. Do not compare segment PBIT with net profit as if they were the same measure.",
+  "insight": "Transmission generates most segment income and earnings. Telecom earns a larger reported segment result than consultancy despite lower segment income; common financing and corporate costs still have to be considered.",
+  "status": "segments",
+  "revenueTotal": 47625.17,
+  "revenueTotalLabel": "Gross segment income before internal-sales deduction",
+  "profitTotal": 27322.5
+}

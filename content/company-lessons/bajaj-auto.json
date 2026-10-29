@@ -134,7 +134,7 @@
   "financialNotes": [
     {
       "title": "Use matching consolidation periods",
-      "text": "Financial values remain pending verification for this profile. When entering them, distinguish standalone and consolidated reporting, the post-control KTM period and exceptional or financing effects. Do not treat each familiar vehicle brand as a separate reported profit segment."
+      "text": "The reported segments are Automotive, Investments and Financing, rather than one segment for each familiar vehicle brand. Segment income includes sales and other income; segment earnings come before the remaining financing and tax deductions. Read the reconciliation and the post-control KTM consolidation period before comparing years."
     }
   ],
   "checked": "29 October 2026"

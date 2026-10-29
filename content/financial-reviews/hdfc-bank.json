@@ -1,0 +1,24 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated · bank group",
+  "coverage": "Whole group totals; no product-level profit allocation",
+  "unit": "₹ crore",
+  "revenueLabel": "Total income",
+  "incomeDefinition": "Interest earned plus other income, including insurance premium and other operating income from insurance businesses. This is gross group income before interest expense, insurance claims, operating expenses and provisions; it is not sales or net interest income.",
+  "profitMetric": "PAT attributable to owners",
+  "definition": "Consolidated net profit after tax, share of associates where applicable, and deduction of profit attributable to minority shareholders. Minority shareholders own stakes in group subsidiaries; their earnings are excluded from this profit figure.",
+  "rows": [
+    {
+      "name": "HDFC Bank group",
+      "revenue": 495462.81,
+      "profit": 76025.97
+    }
+  ],
+  "source": "https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/pdf/about-us/financial-results/2025-2026/quarter-4/financial-results-for-the-quarter-and-year-ended-March-31-2026.pdf",
+  "sourceLabel": "Audited FY2026 financial results",
+  "location": "PDF page 11 · consolidated annual results, year ended 31 March 2026 column, rows 1–3 and 12–16",
+  "notes": "Group totals include the bank and consolidated subsidiaries, including insurance operations. Total group PAT before minority interest is ₹79,219.46 crore; ₹3,193.49 crore belongs to minority shareholders. Product categories such as home loans and cards are not assigned individual profits here. A PAT-to-total-income ratio is not a manufacturing or retail operating margin.",
+  "insight": "The group earns income from lending, investments, fees and insurance. To investigate the bank itself, separately inspect standalone net interest income, funding costs and loan-loss provisions; group gross income alone cannot show whether lending quality improved.",
+  "status": "single",
+  "checked": "29 October 2026"
+}

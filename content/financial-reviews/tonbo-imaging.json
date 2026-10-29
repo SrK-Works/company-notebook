@@ -1,0 +1,24 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Restated consolidated",
+  "coverage": "Single reported segment · group totals",
+  "unit": "₹ crore",
+  "profitMetric": "Restated profit after tax",
+  "definition": "Restated consolidated profit for the year after tax, as summarised in the issuer’s abridged prospectus. This is not EBITDA, order value or operating cash flow.",
+  "rows": [
+    {
+      "name": "Whole group · single reported segment",
+      "revenue": 362.648,
+      "profit": 50.88
+    }
+  ],
+  "source": "https://www.sebi.gov.in/sebi_data/commondocs/oct-2026/Tonbo%20Imaging%20India%20Limited-Abridged%20Prospectus_p.pdf",
+  "sourceLabel": "SEBI-hosted issuer abridged prospectus",
+  "location": "PDF/printed page 7 · Summary of Restated Consolidated Financial Statements; page 4 · single-segment statement",
+  "checked": "29 October 2026",
+  "notes": "FY2026 annual column, not the three-month June 2026 column. Source amounts are ₹ million, divided by 10 for ₹ crore. The issuer reports one segment. Tactical/platform product revenue and geographical revenue disclosures do not provide paired product/category profits, so no such profit allocation is shown. Prospectus financial verification does not establish current exchange admission.",
+  "insight": "The annual group total is profitable on the disclosed restated basis. It does not tell us which product category earns the most, and a firm order book must not be substituted for recognised annual sales.",
+  "status": "single",
+  "revenueTotal": 362.648,
+  "profitTotal": 50.88
+}

@@ -134,7 +134,7 @@
   "financialNotes": [
     {
       "title": "Keep the source segment definitions",
-      "text": "Financial figures have not yet been verified for this profile. Obtain the audited period’s segment note and group accounts. Website business groups, geographical sales and product highlights should not be added together or used to invent a therapy-level profit split."
+      "text": "The table follows the audited IFRS segment note and shows external revenue with segment gross profit. Gross profit still has to cover research, selling and other later costs; it is not segment net profit. Internal PSAI sales are excluded from the displayed revenue, and geographical or therapeutic sales must not be added to it as separate businesses."
     }
   ],
   "checked": "29 October 2026"

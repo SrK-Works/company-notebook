@@ -1,0 +1,22 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated · Ind AS",
+  "coverage": "Whole pharmaceutical group · one reported segment",
+  "unit": "₹ crore",
+  "profitMetric": "PAT attributable to owners",
+  "definition": "Profit after tax, associates and joint-venture results, and deduction of non-controlling interests. This is reported profit, including exceptional items; it is not adjusted EBITDA.",
+  "rows": [
+    {
+      "name": "Sun Pharma group · Pharmaceuticals",
+      "revenue": 58462.04,
+      "profit": 11479.42
+    }
+  ],
+  "source": "https://sunpharma.com/wp-content/uploads/2026/05/BMOutcome22052026.pdf",
+  "sourceLabel": "Audited FY2026 consolidated financial results",
+  "location": "PDF page 18 · annual consolidated statement; PDF page 21, note 10 · single segment",
+  "notes": "Original table is in ₹ million; each amount is divided by 10 to show ₹ crore. The group reports one Pharmaceuticals segment. India, US and innovative-medicine sales descriptions do not establish separately audited profit for those categories. Group PAT before non-controlling interests is ₹11,508.65 crore; ₹29.23 crore belongs to non-controlling interests.",
+  "insight": "Revenue from operations is much larger than profit available to owners because manufacturing, research, selling costs, tax and other charges come between them. Compare recurring operating performance separately from the reported exceptional charges and tax effects before treating this profit as repeatable.",
+  "status": "single",
+  "checked": "29 October 2026"
+}

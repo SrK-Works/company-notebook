@@ -1,0 +1,37 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited annual financial statements",
+  "checked": "29 October 2026",
+  "coverage": "Reported business segments · sales and other income",
+  "profitMetric": "Segment result",
+  "definition": "Reported segment earnings before the remaining finance-cost deduction and income tax; financing-business costs already reflected in its segment result are not added back.",
+  "rows": [
+    {
+      "name": "Automotive",
+      "revenue": 60530.43,
+      "profit": 12016.19
+    },
+    {
+      "name": "Investments",
+      "revenue": 1309.18,
+      "profit": 1306.98
+    },
+    {
+      "name": "Financing",
+      "revenue": 3247.61,
+      "profit": 888.58
+    }
+  ],
+  "source": "https://investors.bajajauto.com/ar26/segment-information-2/",
+  "location": "Notes to consolidated financial statements, Note 44(a), Business segment, year ended 31 March 2026 table",
+  "notes": "Segment revenue includes other income: ₹65,087.22 crore reconciles to total income, not operating revenue of ₹62,905 crore. No intersegment sales are reported. Segment results of ₹14,211.75 crore less remaining finance costs of ₹260.21 crore give PBT of ₹13,951.54 crore; tax and non-controlling interests follow.",
+  "insight": "Automotive contributes the largest revenue and segment earnings here. Investments and lending earn differently from selling vehicles; segment result is not group PAT or profit per motorcycle.",
+  "status": "segments",
+  "revenueTotal": 65087.22,
+  "profitTotal": 14211.75,
+  "revenueLabel": "Segment income",
+  "incomeDefinition": "Reported segment income combines vehicle sales, financing income and investment or other income. It is broader than revenue from operations and is not entirely product sales.",
+  "revenueTotalLabel": "Reported segment income total"
+}

@@ -1,0 +1,56 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited annual financial results",
+  "checked": "29 October 2026",
+  "coverage": "Reported business segments · before central adjustments and eliminations",
+  "profitMetric": "Segment result",
+  "definition": "Segment profit before net finance costs, donations, exceptional items and tax, including the reported share of associates and joint ventures. This is not EBITDA or PAT.",
+  "rows": [
+    {
+      "name": "Mobile Services India",
+      "revenue": 112995.4,
+      "profit": 35766.1
+    },
+    {
+      "name": "Mobile Services Africa",
+      "revenue": 56806.4,
+      "profit": 18793.6
+    },
+    {
+      "name": "Airtel Business",
+      "revenue": 21176.6,
+      "profit": 6359.8
+    },
+    {
+      "name": "Passive Infrastructure Services",
+      "revenue": 32694.4,
+      "profit": 11227.3
+    },
+    {
+      "name": "Homes Services",
+      "revenue": 7774.7,
+      "profit": 1222.7
+    },
+    {
+      "name": "Digital TV Services",
+      "revenue": 3017.9,
+      "profit": -205.6
+    },
+    {
+      "name": "Others",
+      "revenue": 388.3,
+      "profit": 330.8
+    }
+  ],
+  "source": "https://assets.airtel.in/static-assets/cms/investor/docs/quarterly_results/2025-26/Q4/Published-Results.pdf",
+  "location": "PDF page 3, audited consolidated segment table, Year Ended 31 March 2026 column, sections 1–2 and footnotes",
+  "notes": "₹ million divided by 10. Gross segment revenue ₹234,853.7 crore less internal eliminations ₹23,880.9 crore gives group revenue ₹210,972.8 crore. Segment results sum to ₹73,494.7 crore; central costs ₹216.1 crore and eliminations ₹4,357.4 crore reduce this to ₹68,921.2 crore before later deductions. Passive Infrastructure is Indus Towers; Africa includes mobile money. South Asia has nil current-year figures.",
+  "insight": "India mobile leads revenue and segment earnings in this table. Digital TV reports a loss on this measure. Gross segment rows are not shares of net group sales.",
+  "status": "segments",
+  "revenueTotal": 234853.7,
+  "profitTotal": 73494.7,
+  "revenueTotalLabel": "Gross segment revenue before eliminations",
+  "profitTotalLabel": "Segment earnings before central adjustments"
+}

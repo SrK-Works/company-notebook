@@ -1,0 +1,24 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Restated consolidated",
+  "coverage": "Single reported segment · group totals",
+  "unit": "₹ crore",
+  "profitMetric": "Restated profit after tax",
+  "definition": "Restated consolidated profit after tax, including a material deferred-tax credit. It is not EBITDA, pre-tax operating earnings or cash collected from rentals.",
+  "rows": [
+    {
+      "name": "Furniture and appliance rentals · whole group",
+      "revenue": 386.988,
+      "profit": 104.299
+    }
+  ],
+  "source": "https://www.sebi.gov.in/sebi_data/attachdocs/sep-2026/1788501645342.pdf",
+  "sourceLabel": "SEBI-hosted issuer full red herring prospectus",
+  "location": "PDF page273 / printed266 · restated profit and loss; PDF292 / printed285 · Note29, tax",
+  "checked": "29 October 2026",
+  "notes": "Source ₹ million divided by 10 for ₹ crore. FY26 PBT ₹67.656 crore plus a ₹36.643 crore deferred-tax credit gives PAT ₹104.299 crore. Note29 identifies recognition of deferred-tax assets on brought-forward losses and unabsorbed depreciation. This credit raises accounting profit; it is not additional rental sales or customer cash. No separate reportable segments or furniture/appliance profit split. The prospectus is not evidence of current exchange admission.",
+  "insight": "The annual PAT is materially lifted by a deferred-tax credit. Read pre-tax earnings and rental-asset investment alongside PAT; the tax benefit should not be mistaken for additional rental operating profit.",
+  "status": "single",
+  "revenueTotal": 386.988,
+  "profitTotal": 104.299
+}

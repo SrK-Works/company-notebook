@@ -1,0 +1,34 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated · IFRS as issued by the IASB",
+  "coverage": "Reported operating segments · external revenue and gross profit",
+  "unit": "₹ crore",
+  "profitMetric": "Segment gross profit",
+  "definition": "Revenue less cost of revenues. Gross profit is before selling and administration, research and development, impairments, financing and tax. It is not segment net profit or cash available to shareholders.",
+  "rows": [
+    {
+      "name": "Global Generics",
+      "revenue": 29903.3,
+      "profit": 16969.8
+    },
+    {
+      "name": "Pharmaceutical Services and Active Ingredients",
+      "revenue": 3477.3,
+      "profit": 598.4
+    },
+    {
+      "name": "Others",
+      "revenue": 212.7,
+      "profit": 158.2
+    }
+  ],
+  "source": "https://www.drreddys.com/cms/sites/default/files/2026-05/Form_20F_March_2026.pdf",
+  "sourceLabel": "Audited FY2026 Form 20-F · consolidated IFRS statements",
+  "location": "PDF page 143 · printed page 140, note 5 Segment reporting; FY2026 columns",
+  "notes": "Original ₹ million figures are divided by 10. External segment revenues exclude ₹727 crore of internal PSAI sales to Global Generics. Gross profit totals ₹17,726.4 crore; after research, selling, other costs, financing and tax, total group profit is ₹4,246.6 crore. That includes a ₹38.4 crore loss belonging to non-controlling interests, so profit attributable to parent shareholders is ₹4,285 crore. Gross profit is not segment PAT; individual brand profits are not inferred.",
+  "insight": "Global Generics supplies most external revenue and gross profit. PSAI turns a smaller portion of its external revenue into gross profit in this reporting period. This comparison does not establish segment net returns because research, selling and other group costs are deducted later.",
+  "revenueTotal": 33593.3,
+  "profitTotal": 17726.4,
+  "status": "segments",
+  "checked": "29 October 2026"
+}

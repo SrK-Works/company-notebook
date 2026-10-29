@@ -1,0 +1,24 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated · bank group",
+  "coverage": "Whole group totals; no product-level profit allocation",
+  "unit": "₹ crore",
+  "revenueLabel": "Total income",
+  "incomeDefinition": "Interest earned plus other income, including insurance premium and other operating income from insurance businesses. This is gross group income before interest expense, insurance claims, operating expenses and provisions; it is not sales or net interest income.",
+  "profitMetric": "PAT attributable to owners",
+  "definition": "Consolidated net profit after tax, share of associates where applicable, and deduction of profit attributable to minority shareholders. Minority shareholders own stakes in group subsidiaries; their earnings are excluded from this profit figure.",
+  "rows": [
+    {
+      "name": "State Bank of India group",
+      "revenue": 709616.96,
+      "profit": 83298.78
+    }
+  ],
+  "source": "https://sbi.bank.in/documents/17826/24401/08052026_SBIresultmar26.pdf/0ed50cb7-e059-7086-c1c4-37f7dd5f133d?t=1778233749961",
+  "sourceLabel": "Audited FY2026 financial results",
+  "location": "PDF page 1 · consolidated section, year ended 31 March 2026 column, rows 1–3 and 12–17",
+  "notes": "Use the consolidated annual column, not the adjacent standalone or quarterly columns. Reported group PAT before adding associates and deducting minority interest is ₹85,168.47 crore; the statement adds ₹1,497.20 crore of associates’ profit and deducts ₹3,366.89 crore of minority interest. Group totals include insurance and other subsidiaries. Individual loan-product profits are not inferred.",
+  "insight": "Total income measures the size of group income before major costs. For the bank’s lending engine, investigate standalone interest spreads, deposit costs and bad-loan provisions; also separate exceptional gains from recurring earnings when comparing annual PAT.",
+  "status": "single",
+  "checked": "29 October 2026"
+}

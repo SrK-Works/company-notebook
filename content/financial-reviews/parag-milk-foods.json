@@ -1,0 +1,24 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited annual financial results",
+  "checked": "29 October 2026",
+  "coverage": "Single reported segment · whole-group totals",
+  "profitMetric": "Profit after tax",
+  "definition": "Consolidated net profit after finance costs, depreciation, the reported exceptional employee-benefit provision and tax. This is not EBITDA or PAT before exceptional items.",
+  "rows": [
+    {
+      "name": "Milk and milk-related products · whole group",
+      "revenue": 3817.5,
+      "profit": 135.05
+    }
+  ],
+  "source": "https://nsearchives.nseindia.com/corporate/PARAGMILK_07052026225545_Intimation.pdf",
+  "location": "PDF page 14, consolidated audited annual results, FY ended 31 March 2026 column, rows 1 and 9; PDF page 15, Notes 1, 3 and 7",
+  "notes": "Source and display use ₹ crore. Revenue excludes ₹53.46 crore other income. The exceptional provision is ₹5.72 crore. The group reports one milk-related operating segment; brand-level profit is not provided. Standalone-company PAT differs from this consolidated group figure.",
+  "insight": "The group earned a net profit overall. These totals cannot show how much Gowardhan, Go, Pride of Cows or Avvatar individually earned.",
+  "status": "single",
+  "revenueTotal": 3817.5,
+  "profitTotal": 135.05
+}

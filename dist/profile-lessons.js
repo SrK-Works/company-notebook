@@ -132,7 +132,7 @@ window.COMPANY_LESSONS = {
     "financialNotes": [
       {
         "title": "Check the business boundary before comparing",
-        "text": "Read whether decorative and home décor are combined and how industrial ventures enter the accounts. Website business highlights should not be summed as if every activity were fully consolidated. Financial figures remain pending here until the source table and profit definition are verified."
+        "text": "The audited group reports one business segment. The table shows revenue from operations and group profit after tax, including non-controlling interests. Decorative paints, industrial ventures, international activities and home décor are not assigned invented separate profits. Check how each venture enters the group accounts before comparing business highlights."
       }
     ],
     "checked": "29 October 2026"
@@ -273,7 +273,7 @@ window.COMPANY_LESSONS = {
     "financialNotes": [
       {
         "title": "Use matching consolidation periods",
-        "text": "Financial values remain pending verification for this profile. When entering them, distinguish standalone and consolidated reporting, the post-control KTM period and exceptional or financing effects. Do not treat each familiar vehicle brand as a separate reported profit segment."
+        "text": "The reported segments are Automotive, Investments and Financing, rather than one segment for each familiar vehicle brand. Segment income includes sales and other income; segment earnings come before the remaining financing and tax deductions. Read the reconciliation and the post-control KTM consolidation period before comparing years."
       }
     ],
     "checked": "29 October 2026"
@@ -418,7 +418,7 @@ window.COMPANY_LESSONS = {
     "financialNotes": [
       {
         "title": "Keep coal prices and quantities separate",
-        "text": "A newly verified financial split has not been added here. Compare the same period’s revenue, realised prices, production and offtake in signed results, and use the issuer’s unit conversions rather than confusing tonnes with monetary amounts."
+        "text": "Use the audited annual revenue and profit together with the stated reporting scope and accounting cautions. Coal output, dispatches and realised selling prices help explain the business but do not establish separate profit for each coal grade or customer. Read levy, tax and balance-reconciliation notes before treating reported profit as cash available for distribution."
       },
       {
         "title": "Check the reporting boundary",
@@ -559,7 +559,7 @@ window.COMPANY_LESSONS = {
     "financialNotes": [
       {
         "title": "Match service, country and measurement basis",
-        "text": "The financial breakdown remains pending verification. Use a dated group statement with its segment definitions and reconciliation; do not combine India ARPU, Africa revenue and a group EBITDA margin into an invented profit calculation."
+        "text": "The table preserves the audited segment definitions and separates segment sums from consolidated revenue after internal-sales eliminations. The reported earnings measure comes before financing, exceptional items and tax. Do not combine India customer-spending averages, Africa revenue and a group EBITDA margin into an invented profit calculation."
       }
     ],
     "checked": "29 October 2026"
@@ -700,7 +700,7 @@ window.COMPANY_LESSONS = {
     "financialNotes": [
       {
         "title": "Keep the source segment definitions",
-        "text": "Financial figures have not yet been verified for this profile. Obtain the audited period’s segment note and group accounts. Website business groups, geographical sales and product highlights should not be added together or used to invent a therapy-level profit split."
+        "text": "The table follows the audited IFRS segment note and shows external revenue with segment gross profit. Gross profit still has to cover research, selling and other later costs; it is not segment net profit. Internal PSAI sales are excluded from the displayed revenue, and geographical or therapeutic sales must not be added to it as separate businesses."
       }
     ],
     "checked": "29 October 2026"
@@ -1152,7 +1152,7 @@ window.COMPANY_LESSONS = {
     "financialNotes": [
       {
         "title": "Verify banking measures on the same basis",
-        "text": "This profile’s financial figures remain pending verification. The source should identify interest earned, interest paid, net interest income, provisions and the precise profit measure, together with the bank or group scope. Deposit and loan balances must not be entered as revenue."
+        "text": "The table pairs consolidated group total income with profit after tax attributable to owners. Total income is before funding, insurance, operating and credit-loss costs, and is different from net interest income. Deposit and loan balances are not revenue. Use the standalone bank accounts separately when investigating lending spreads and provisions."
       }
     ],
     "checked": "29 October 2026"
@@ -1297,7 +1297,7 @@ window.COMPANY_LESSONS = {
     "financialNotes": [
       {
         "title": "Use bank measures on a consistent basis",
-        "text": "The company-specific financial snapshot still needs verification here. When checking the original accounts, distinguish gross interest earned, net interest income, total income and profit after tax. Deposits, advances and assets are balance-sheet amounts, not revenue, and should not be placed in a product-sales table."
+        "text": "The audited figures cover the consolidated group, including insurance businesses. Gross total income, net interest income and profit after tax measure different stages of the business. Deposits, advances and assets are balance-sheet amounts. The table does not allocate profit to each card, account or loan product."
       }
     ],
     "checked": "29 October 2026"
@@ -2016,7 +2016,7 @@ window.COMPANY_LESSONS = {
     "financialNotes": [
       {
         "title": "The model list is not a profit split",
-        "text": "The pending financial section needs the exact annual statement, scope and profit measure before numbers are entered. A model’s retail price includes items different from manufacturer revenue; bookings and factory capacity must not be converted into invented sales or profit."
+        "text": "The table shows audited consolidated revenue from operations and profit after tax. Revenue includes products, services and other operating revenue, and differs from a standalone net-sales headline. A model’s retail price, bookings or factory capacity cannot be used to invent its manufacturer revenue or profit."
       }
     ],
     "checked": "29 October 2026"
@@ -2157,7 +2157,7 @@ window.COMPANY_LESSONS = {
     "financialNotes": [
       {
         "title": "Verify scope before comparing generation businesses",
-        "text": "This profile’s financial snapshot still awaits verification. Use the original audited company and group accounts, identifying subsidiaries and joint ventures. Capacity and generation are operating measures, not revenue or profit, and a tariff-based return is not the same as net profit."
+        "text": "Read the audited generation and other-business definitions, together with the internal-sales and other-income reconciliation. Capacity and power generation are operating measures, not revenue or profit. The reported segment result does not establish an individual plant’s net return or cash distribution."
       }
     ],
     "checked": "29 October 2026"
@@ -2302,7 +2302,7 @@ window.COMPANY_LESSONS = {
     "financialNotes": [
       {
         "title": "Verify scope before reading brand economics",
-        "text": "A new financial snapshot has not been added in this lesson. Use the signed period’s accounts for revenue, profit, cash flow and dairy-segment definitions; do not replace them with a brand’s marketing claims."
+        "text": "The table uses audited consolidated operating revenue and statutory profit after tax, including the reported exceptional provision. The group reports a milk-related operating segment; familiar dairy brands and product categories do not each have a separately disclosed profit. Marketing claims are not a replacement for the signed accounts."
       },
       {
         "title": "Read the balance sheet with the income statement",
@@ -2596,7 +2596,7 @@ window.COMPANY_LESSONS = {
     "financialNotes": [
       {
         "title": "Commissioned assets and profit are different measures",
-        "text": "The financial snapshot for this profile awaits verification. Use the audited period’s transmission, telecom and consultancy disclosures where available. Do not present capital expenditure, the value of project awards or asset capitalisation as revenue. Keep tariff-based economics separate from net profit after tax."
+        "text": "Use the reporting scope and earnings definition printed with the audited figures. Transmission charges, other business income and group profit are different measures. Regulated tariff calculations and system capacity do not substitute for recognised income, operating cash or the cost of funding new projects."
       }
     ],
     "checked": "29 October 2026"
@@ -2741,7 +2741,7 @@ window.COMPANY_LESSONS = {
     "financialNotes": [
       {
         "title": "Use the issuer’s financial period and scope",
-        "text": "A newly verified revenue or profit snapshot has not been added in this lesson. Use signed consolidated results and the matching operating period; a current network count should not be paired with an older year’s earnings as if both described the same period."
+        "text": "The table shows audited consolidated annual revenue and profit attributable to owners. The hospital group reports one healthcare segment. Match operating statistics and acquired-hospital consolidation dates to this same reporting period; a current network count and an older annual profit do not describe the same period."
       },
       {
         "title": "Avoid inventing service-line profit",
@@ -2788,9 +2788,17 @@ window.COMPANY_LESSONS = {
       [
         "Venwind Refex wind turbines",
         "Wind-energy equipment through a subsidiary"
+      ],
+      [
+        "Solar-power generation and related activities",
+        "Reported energy activity"
+      ],
+      [
+        "Solar-module trading",
+        "Reported trading activity"
       ]
     ],
-    "productNote": "These offerings describe the ash, coal and wind businesses in the cited materials. Power trading, refrigerant gases and green mobility were classified as discontinued in the financial disclosure for the quarter and nine months ended December 2025. That dated accounting classification does not by itself establish their subsequent legal ownership or completion of disposal; do not treat an older group website menu as a current company catalogue.",
+    "productNote": "Selected offerings within the issuer’s reported business boundary, including solar generation and solar-module trading in its audited annual segment disclosure. Refrigerants, power trading and green mobility are identified as discontinued in that disclosure; this does not establish completion of every legal transfer.",
     "groups": [
       {
         "title": "Ash management and utilisation",
@@ -2806,6 +2814,11 @@ window.COMPANY_LESSONS = {
         "title": "Wind equipment through a subsidiary",
         "examples": "Venwind Refex wind-turbine activity.",
         "explanation": "Manufacturing, customer acceptance, service and warranties differ from recurring handling work. Read the subsidiary’s actual stage, orders and group funding separately."
+      },
+      {
+        "title": "Solar activities",
+        "examples": "Solar-power generation and related activities; solar-module trading.",
+        "explanation": "The company also reports a smaller solar activity. Generation and module trading are different businesses; use the issuer’s own reporting boundary rather than treating every Refex-branded business as part of this company."
       }
     ],
     "basics": [
@@ -2919,16 +2932,20 @@ window.COMPANY_LESSONS = {
       [
         "Interim management explanation of business changes",
         "https://refex.co.in/wp-content/uploads/2026/01/RIL_Media_Release_Q3FY26_sd.pdf"
+      ],
+      [
+        "Audited FY2026 results and segment reporting",
+        "https://nsearchives.nseindia.com/corporate/REFEX2002_26052026125311_RIL_Outcome_26052026_sd.pdf"
       ]
     ],
     "financialNotes": [
       {
         "title": "Do not combine different operating scopes",
-        "text": "The cited filing classifies power trading, refrigerant gases and green mobility as discontinued for the quarter and nine months ended December 2025. A fresh final-year breakdown has not been added here. Use the signed reporting period’s continuing/discontinued reconciliation rather than combining a historic total with a newer business description."
+        "text": "The audited annual table identifies continuing and discontinued businesses separately. Use that annual reporting scope rather than combining an older group total with a newer business description. Segment results are not final group profit: read the unallocated-cost, financing, tax and discontinued-operation reconciliation."
       },
       {
         "title": "Read operating cash and subsidiary obligations",
-        "text": "Contract receivables, equipment investment, wind-business funding and guarantees can require cash despite accounting earnings. A group total does not establish a separate margin for ash, coal or wind without a matching segment disclosure."
+        "text": "Contract receivables, equipment investment, energy-business funding and guarantees can require cash despite accounting earnings. The segment table explains the source’s reported operating groups; it does not establish the cash return or profit of each customer contract."
       }
     ],
     "checked": "29 October 2026"
@@ -3220,7 +3237,7 @@ window.COMPANY_LESSONS = {
     "financialNotes": [
       {
         "title": "Verify the legal entity and financial scope first",
-        "text": "Financial figures and current exchange-listing status have not been verified for this profile. Obtain the relevant audited accounts before calculating profitability. Separate rental revenue, refundable deposits, asset purchasing or leasing, depreciation, financing costs and cash collection; subscription receipts are not automatically free cash."
+        "text": "The restated consolidated figures are verified from the issuer’s offer documents; current exchange admission remains separately unverified. The disclosed deferred-tax credit increased annual profit after tax, so the profit should not be read as rental operating performance alone. Separate recognised rental revenue, refundable deposits, depreciation, financing and cash needed for assets."
       }
     ],
     "checked": "29 October 2026"
@@ -3365,7 +3382,7 @@ window.COMPANY_LESSONS = {
     "financialNotes": [
       {
         "title": "Verify the bank-specific financial measures",
-        "text": "This profile’s financial snapshot awaits checking. Use the original period and distinguish interest earned, net interest income, fee income and profit. Deposit and loan balances are not product sales, and standalone-bank ratios cannot be mixed with consolidated-group profit."
+        "text": "Use the consolidated annual column and its owners’ profit definition, including the adjustments for associates and minority shareholders. Interest earned, total income and net interest income are different measures. Deposit and loan balances are not product sales, and standalone-bank ratios should not be combined with group profit."
       }
     ],
     "checked": "29 October 2026"
@@ -3506,7 +3523,7 @@ window.COMPANY_LESSONS = {
     "financialNotes": [
       {
         "title": "Match the profit definition to the period and scope",
-        "text": "The financial snapshot here awaits verification. Product sales, geographical sales and therapy-category commentary can overlap. Use the audited consolidated statement for group profit and do not assign an undisclosed profit to each medicine or therapy."
+        "text": "The audited group reports one Pharmaceuticals segment. The table uses revenue from operations and profit attributable to owners, including reported exceptional items. Product, geographical and therapy sales descriptions can overlap; none establishes a separately audited profit for each medicine or therapy."
       }
     ],
     "checked": "29 October 2026"
@@ -4095,7 +4112,7 @@ window.COMPANY_LESSONS = {
     "financialNotes": [
       {
         "title": "Check the entity and reporting period first",
-        "text": "A verified financial snapshot has not been added to this lesson. Use the issuer’s signed accounts or offer documents, check standalone versus consolidated scope and compare orders with recognised revenue and collections."
+        "text": "The table shows verified restated consolidated annual revenue and profit from the issuer’s offer document, with its reporting period stated explicitly. Orders, recognised revenue and collected cash are different stages. A profitable full year does not establish a profit for each product category or a current exchange listing."
       },
       {
         "title": "A catalogue does not verify a listing",
@@ -4236,7 +4253,7 @@ window.COMPANY_LESSONS = {
     "financialNotes": [
       {
         "title": "Match tonnes, periods and the profit measure",
-        "text": "Use a verified consolidated or standalone annual statement and the matching volume disclosure. Do not multiply capacity by a selling price to invent revenue, or assign company profit to grey cement, white cement or concrete without a reported allocation. The financial table remains pending verification."
+        "text": "The table uses audited consolidated revenue from operations and statutory group profit after tax, including exceptional items. It does not substitute a net-sales or adjusted-profit press-release headline. Match the reporting period with volume disclosures; capacity is not sales, and company profit is not a profit allocation to cement, concrete or individual brands."
       }
     ],
     "checked": "29 October 2026"

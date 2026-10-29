@@ -1,0 +1,32 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "checked": "29 October 2026",
+  "status": "segments",
+  "coverage": "Reported business segments · gross segment income",
+  "revenueLabel": "Segment income",
+  "incomeDefinition": "Reported gross segment income includes internal sales and allocated other income. It is before internal eliminations and is not external-customer product sales.",
+  "profitMetric": "Segment result",
+  "definition": "Reported segment result including net movements in regulatory deferral account balances, before unallocated corporate expenses, finance charges, share of equity-accounted joint-venture profits and tax. It is not profit after tax.",
+  "rows": [
+    {
+      "name": "Generation of energy",
+      "revenue": 182610.35,
+      "profit": 40437.27
+    },
+    {
+      "name": "Others",
+      "revenue": 19415.99,
+      "profit": 1234.21
+    }
+  ],
+  "source": "https://ntpc.co.in/sites/default/files/annual-report/complete-reports/Annual%20Report%202025-26%20%283%29.pdf",
+  "sourceLabel": "Official audited annual report",
+  "location": "PDF pages 239–240 · printed pages 475–477 · Note 67, consolidated operating segments",
+  "notes": "Gross segment income includes allocated other income. Row sum ₹202,026.34 crore less ₹12,884.28 crore intersegment eliminations plus ₹656.50 crore unallocated income gives ₹189,798.56 crore consolidated total income. Segment results total ₹41,671.48 crore; corporate costs, finance, joint-venture profit, tax and regulatory-deferral tax adjustments reconcile to ₹27,545.76 crore group PAT. Generation includes earlier-year sales adjustments. Others combines consultancy, project management, energy trading, oil/gas exploration and coal mining; it is not a pure renewable-energy row.",
+  "insight": "Generation accounts for most reported segment income and earnings. The table does not isolate coal-versus-renewable profit. Earlier-year tariff adjustments and regulatory accounts also influence reported results.",
+  "revenueTotal": 202026.34,
+  "revenueTotalLabel": "Gross segment income before internal eliminations",
+  "profitTotal": 41671.48
+}

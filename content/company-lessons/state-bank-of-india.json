@@ -138,7 +138,7 @@
   "financialNotes": [
     {
       "title": "Verify the bank-specific financial measures",
-      "text": "This profile’s financial snapshot awaits checking. Use the original period and distinguish interest earned, net interest income, fee income and profit. Deposit and loan balances are not product sales, and standalone-bank ratios cannot be mixed with consolidated-group profit."
+      "text": "Use the consolidated annual column and its owners’ profit definition, including the adjustments for associates and minority shareholders. Interest earned, total income and net interest income are different measures. Deposit and loan balances are not product sales, and standalone-bank ratios should not be combined with group profit."
     }
   ],
   "checked": "29 October 2026"

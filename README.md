@@ -5,7 +5,7 @@ Mobile-friendly research prototype for Indian stock-market beginners.
 ## Run
 
 Serve `dist/` with a local HTTP server. No dependency installation is required to run the checked-in site. After editing company lesson JSON files, regenerate their bundle with `node scripts/build-company-lessons.cjs`.
-The entrypoint loads `data.js`, `company-expansion.js`, `overviews.js`, `product-images.js`, `gallery.js`, `financial-data.js`, `financials.js`, `research-guides.js`, `hul-primer.js`, `itc-primer.js`, `nestle-primer.js`, `britannia-primer.js`, `marico-primer.js`, `dmart-primer.js`, `profile-lessons.js`, `company-lessons.js`, `app.js` and `style.css`. Navigation uses hash routes,
+The entrypoint loads `data.js`, `company-expansion.js`, `overviews.js`, `product-images.js`, `gallery.js`, `financial-data.js`, `financial-expansion.js`, `financials.js`, `research-guides.js`, `hul-primer.js`, `itc-primer.js`, `nestle-primer.js`, `britannia-primer.js`, `marico-primer.js`, `dmart-primer.js`, `profile-lessons.js`, `company-lessons.js`, `app.js` and `style.css`. Navigation uses hash routes,
 so company links work on static hosting. `.openai/hosting.json` retains the Sites project identity.
 
 ## Live website
@@ -35,11 +35,11 @@ Company disclosures and product directories support business facts; watch items,
 risks and learning explanations are editorial interpretation. This is not stock advice.
 Profile sources are stored with each record in `dist/data.js` and `dist/company-expansion.js`. The 11 expansion profiles were reviewed on 27 October 2026; aliases support familiar names and common spelling variations.
 
-Financial figures checked on 29 October 2026 are stored separately in `dist/financial-data.js` and rendered by `dist/financials.js`.
-The current release contains 17 verified snapshots, all for FY 2025–26:
+Financial figures checked on 29 October 2026 are stored in the original `dist/financial-data.js` plus generated `dist/financial-expansion.js`, and rendered by `dist/financials.js`. New financial authoring lives in `content/financial-reviews/` with primary-source evidence transcriptions.
+The current release contains 35 verified snapshots, all for FY 2025–26. The original 17 records remain unchanged:
 - Eleven profiles have business/segment disclosures: HUL, ITC, Reliance, Mahindra & Mahindra, L&T, Infosys, Titan, Swiggy, Marico, Eternal and TCS. TCS shows reported margins rather than reverse-calculated profit amounts. Reliance shows selected business highlights, not a complete group reconciliation.
 - Park Medi World reports one healthcare segment; Nestlé India reports one Food segment, with company profit and an additional sales-only product-group table. Britannia reports one Foods segment, with group profit attributable to owners, a separately labelled approximate turnover mix and geographical revenue. DMart’s consolidated retail results are also shown as group totals with no separate reportable segments. Glass Wall Systems and Kanohar show verified company totals, explicitly not product-level allocations.
-- The other 18 profiles explicitly await financial verification. Missing verification must never be labelled as a company not disclosing information.
+- The additional 18 profiles now have verified annual figures: six reported segment tables (Bajaj Auto, Airtel, Dr. Reddy’s, NTPC, POWERGRID and Refex) and twelve company/group total tables (Asian Paints, UltraTech, Maruti, HDFC Bank, ICICI Bank, SBI, Sun Pharma, Rainbow, Rentomojo, Tonbo, Bharat Coking Coal and Parag). Company totals never imply brand or product-level profit disclosure. The renderer retains an explicit verification-pending state for future uncovered companies.
 
 Every snapshot records reporting scope, source, table/page locator, profit definition, review date and reconciliation notes. ₹ million is divided by 10 and ₹ lakh by 100 where needed to present ₹ crore. Negative results retain a minus sign and a loss label. Revenue and profit amount bars use the same amount scale; margin bars use a separate 0–100% scale. Source figures are rounded only for display. ITC's independently rounded revenue rows differ from its reported subtotal by ₹1 crore; this is recorded and explained rather than silently adjusted.
 The former HUL partial percentage chart has been removed; its replacement covers the consolidated continuing-operation revenue and segment results from the annual report. These snapshots are historical annual disclosures, not current-quarter or live figures. Reviewing financial figures does not update the review date of unrelated company claims.
@@ -149,6 +149,17 @@ Three agents researched separate company sets while the parent reviewed Titan, i
 
 Corrections include neutral listing labels where exchange admission was not verified (Rentomojo, Tonbo Imaging, Glass Wall Systems and Kanohar), and a dated distinction between continuing and discontinued Refex activities. Titan explains gold price versus quantity, inventory funding, reporting definitions and acquisitions. Bank lessons explain provisions, problem loans, capital and liquidity before using them in research prompts. Business-source check dates are distinct from catalogue verification.
 
-Financial coverage remains 17 verified FY 2025–26 snapshots and 18 explicitly pending verification; a completed business lesson does not imply completed financial verification. Existing snapshots and their reporting definitions are unchanged.
+Business lessons and financial verification are separate workflows. Following the financial review below, all 35 companies have FY 2025–26 financial snapshots; the original 17 records and their reporting definitions remain unchanged.
 
 Validation: `node --test tests/*.test.cjs` (29 checks) and `node scripts/build-company-lessons.cjs --check`. Browser checks cover all 29 new lessons at 390px and 320px, with representative tablet and desktop checks. The checks cover overflow, section targets, investigation disclosures and financial tables staying in the final learning section. A long-company-name wrapping issue found at 320px was corrected.
+
+
+## Completing financial coverage for all 35 companies
+
+Eighteen independently maintained snapshots and evidence transcriptions live in `content/financial-reviews/`. Regenerate their checked-in bundle using `node scripts/build-financial-reviews.cjs`; `--check` verifies it is current. The builder rejects attempts to overwrite the original 17 verified snapshots. Primary company, exchange and issuer prospectus documents supply the figures, with exact annual columns, units, reporting scopes and table/page locators. Agents and the parent reviewed original tables, including scanned PDFs, and independently cross-checked the bank/pharma and Bajaj/Airtel records.
+
+Banks label total income explicitly rather than calling it product sales. NTPC, POWERGRID and Bajaj identify other-income-inclusive segment measures and internal eliminations where applicable. Dr. Reddy’s uses external segment revenue and gross profit under IFRS, with later costs and group PAT explained separately. Rentomojo’s material deferred-tax credit is explained beside its PAT. Refex distinguishes continuing and discontinued segments, retains losses and acknowledges the smaller solar activities actually reported by the issuer. BCCL’s policy changes and auditor emphasis matters accompany its totals. No product or brand profits have been invented.
+
+The former pending-verification lesson notes are updated. All actual financial values and interpretations remain in the final Follow the money learning section. Revenue, gross profit, segment PBIT and PAT retain their distinct definitions; company tables do not form a valuation or cash-flow analysis.
+
+Validation: 31 automated checks pass, covering complete 35-company coverage, preservation of the original 17 snapshots, source metadata, signed losses, reconciliation, bank-income terminology and the learning order. Browser checks cover all 18 new financial sections at 320px and 390px, with no overflow or stale pending messages. Financial disclosures and source links are checked in the rendered pages.

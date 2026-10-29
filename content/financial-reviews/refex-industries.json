@@ -1,0 +1,60 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "checked": "29 October 2026",
+  "status": "segments",
+  "coverage": "Reported segments · continuing and discontinued operations",
+  "profitMetric": "Segment PBIT",
+  "definition": "Reported segment profit/loss before interest and tax, before common unallocated expenses, other income and exceptional items. It is not net profit. Discontinued segments are explicitly marked.",
+  "rows": [
+    {
+      "name": "Ash & coal handling",
+      "revenue": 2012.669,
+      "profit": 353.7536
+    },
+    {
+      "name": "Refrigerant gases · discontinued",
+      "revenue": 34.5508,
+      "profit": -1.3435
+    },
+    {
+      "name": "Green mobility · discontinued",
+      "revenue": 99.5153,
+      "profit": -38.2351
+    },
+    {
+      "name": "Sale of services",
+      "revenue": 14.8658,
+      "profit": 3.6858
+    },
+    {
+      "name": "Power trading · discontinued",
+      "revenue": 0.8357,
+      "profit": -0.4261
+    },
+    {
+      "name": "Solar power generation and related activities",
+      "revenue": 10.3699,
+      "profit": 4.368
+    },
+    {
+      "name": "Wind power",
+      "revenue": 237.5323,
+      "profit": 2.2269
+    },
+    {
+      "name": "Others · solar-module trading",
+      "revenue": 1.2981,
+      "profit": 0.1221
+    }
+  ],
+  "source": "https://nsearchives.nseindia.com/corporate/REFEX2002_26052026125311_RIL_Outcome_26052026_sd.pdf",
+  "sourceLabel": "NSE-hosted audited annual financial results",
+  "location": "PDF page 16 · consolidated segment table; pages 17–18 · discontinued-operation notes",
+  "notes": "Source ₹ lakh divided by 100 for ₹ crore. Rows include continuing and discontinued businesses in the same year. Total segment revenue ₹2,411.6369 crore less ₹134.9018 crore discontinued revenue gives ₹2,276.7351 crore continuing revenue. Row PBIT sum ₹324.1517 crore less ₹26.9673 crore common unallocated expenses gives ₹297.1844 crore EBIT across both scopes. Removing discontinued segment losses gives ₹337.1891 crore continuing EBIT. Finance, other income, exceptional items and tax still affect net profit. Power trading, refrigerants and green mobility are classified as discontinued in this annual disclosure; that does not prove every legal transfer had completed.",
+  "insight": "Ash and coal handling contributes most segment earnings. Wind has sales but much less segment PBIT; discontinued mobility records a loss. Solar generation is also explicitly reported within this company.",
+  "revenueTotal": 2411.6369,
+  "revenueTotalLabel": "Continuing plus discontinued segment revenue",
+  "profitTotal": 324.1517
+}

@@ -1,0 +1,24 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited annual financial statements",
+  "checked": "29 October 2026",
+  "coverage": "Single reported segment · whole-group totals",
+  "profitMetric": "Profit after tax",
+  "definition": "Group profit after finance costs, depreciation, exceptional items and tax, including non-controlling interests. This is not EBITDA or cash flow.",
+  "rows": [
+    {
+      "name": "Paints and Home Decor · whole group",
+      "revenue": 35583.54,
+      "profit": 4394.69
+    }
+  ],
+  "source": "https://www.asianpaints.com/content/dam/asianpaints/website/secondary-navigation/investors/annual-reports/2025-2026/Consolidated-Financial-Statements.pdf",
+  "location": "PDF pages 11–12 (printed pages 462–463), consolidated profit and loss; PDF page 66, Note 23A; PDF page 101, Note 36",
+  "notes": "Revenue includes products, services and other operating revenue, excluding other income. Group PAT includes ₹69.34 crore attributable to non-controlling interests; owners’ profit is ₹4,325.35 crore. Note 36 identifies one reportable business.",
+  "insight": "The group earned a net profit overall. These totals do not establish separate profits for decorative paints, industrial coatings, international operations or home décor.",
+  "status": "single",
+  "revenueTotal": 35583.54,
+  "profitTotal": 4394.69
+}

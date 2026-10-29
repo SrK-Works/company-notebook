@@ -1,0 +1,24 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Standalone · Bharat Coking Coal Limited",
+  "coverage": "Single reported segment · company totals",
+  "unit": "₹ crore",
+  "profitMetric": "Profit after tax",
+  "definition": "Audited standalone profit for the full year after tax. This is not mine-level profit, coal output or total comprehensive income.",
+  "rows": [
+    {
+      "name": "Coal mining and related services · whole company",
+      "revenue": 13644.78,
+      "profit": 128.28
+    }
+  ],
+  "source": "https://nsearchives.nseindia.com/corporate/BCCL_23042026172810_Financial_OCR.pdf",
+  "sourceLabel": "NSE-hosted audited annual financial results",
+  "location": "PDF page9 · annual financial-results table; page14 Note2 · single segment; page5 · auditor emphasis matters",
+  "checked": "29 October 2026",
+  "notes": "Full-year annual March 31, 2026 column, not the March quarter. Source is already ₹ crore. The issuer reports no separate reportable segments, so no mine, washery, coking/non-coking profit split is inferred. Auditor emphasis matters include changed GST/certain levy accounting, pending store-verification impact and partially confirmed/reconciled balances. Certain coal levies are now included in revenue on a principal basis; year comparisons need the reporting-policy notes. Other income and mining inventory/stripping adjustments also affect the profit figure.",
+  "insight": "Company sales leave a much smaller reported annual net profit after all costs. Read coal dispatches, pricing, mining adjustments and cash collection with these totals; they cannot tell us which mine or washery is most profitable.",
+  "status": "single",
+  "revenueTotal": 13644.78,
+  "profitTotal": 128.28
+}

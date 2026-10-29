@@ -1,0 +1,24 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited annual financial results",
+  "checked": "29 October 2026",
+  "coverage": "Whole-group totals · no verified model profit split",
+  "profitMetric": "Profit after tax",
+  "definition": "Group profit after expenses and tax, including the reported share of associate and joint-venture earnings. This is not operating profit or cash flow.",
+  "rows": [
+    {
+      "name": "Maruti Suzuki · whole group",
+      "revenue": 183316,
+      "profit": 14679.5
+    }
+  ],
+  "source": "https://az-ci-afde-prd-arena-03-efddeyfchzf9akbb.z01.azurefd.net/msilintiwebpdfcopyfromdefault/SEBI_Standalone_and_Consolidated_FY_2025_26.pdf",
+  "location": "PDF page 5, consolidated audited results, FY ended 31 March 2026 column, rows I and IX; auditor’s report PDF pages 13–17",
+  "notes": "Source ₹ million divided by 10. Revenue includes products, services and other operating revenue but excludes other income. Profit equals the owners’ amount in this statement, with no non-controlling allocation shown. Consolidated totals must not be mixed with standalone press-release net sales or profit.",
+  "insight": "The group earned a net profit after its costs. These totals cannot establish separate earnings from SUVs, small cars, exports, servicing or individual models.",
+  "status": "totals",
+  "revenueTotal": 183316,
+  "profitTotal": 14679.5
+}
