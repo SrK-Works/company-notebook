@@ -1,0 +1,146 @@
+{
+  "summary": "Imaging electronics and integrated sensing systems for institutional customers, with modules also supplied to other equipment makers.",
+  "description": "Tonbo combines optical sensors, electronics, image-processing software and system integration. A finished observation device and a module sold to another manufacturer are different offerings, even when both use its imaging technology.",
+  "money": "Revenue comes from supplying equipment, subsystems and related development or integration work under customer arrangements. Engineering, components, qualification, production, warranty obligations and customer acceptance affect earnings and cash collection.",
+  "customers": "Government and institutional procurement customers, platform manufacturers and other equipment makers; the organisation placing the order can differ from the eventual user.",
+  "drivers": "Confirmed orders, delivery and acceptance schedules, component availability, engineering effort, quality requirements, customer concentration and the time taken to collect payment.",
+  "listingLabel": "Listing status not verified",
+  "groups": [
+    {
+      "title": "Finished imaging devices",
+      "examples": "Observation and thermal-imaging equipment in the official product directory.",
+      "explanation": "These combine sensing hardware and processing into a product a customer can evaluate and procure. A technical description establishes an offering, not its commercial sales or profitability."
+    },
+    {
+      "title": "Vehicle and platform vision",
+      "examples": "Driver-vision and surrounding-awareness products described in the land-systems catalogue.",
+      "explanation": "Integration with a customer’s platform adds design, validation and support requirements beyond supplying a stand-alone camera."
+    },
+    {
+      "title": "OEM imaging subsystems",
+      "examples": "Imaging engines, processing boards and other modules supplied to equipment manufacturers.",
+      "explanation": "OEM means original equipment manufacturer. A module can become part of another company’s finished system; its selling price and support responsibilities differ from the full system."
+    },
+    {
+      "title": "Integrated systems and development",
+      "examples": "Broader sensing and system-integration offerings described by Tonbo Systems.",
+      "explanation": "A product launch and a customer-approved, delivered contract are separate stages. Evaluate the commercial role and contractual scope without assuming every catalogue item is a large established business."
+    }
+  ],
+  "basics": [
+    {
+      "title": "Thermal imaging is a technology, not a revenue category by itself",
+      "text": "Thermal sensors detect infrared energy and processing turns their signals into useful images. The business can sell that capability as a component, a finished device or an integrated system; those routes have different costs and buyers."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Understand the requirement",
+      "text": "A customer specifies its application and acceptance requirements."
+    },
+    {
+      "title": "Engineer and qualify",
+      "text": "Design, components, software and validation must fit the agreed product or platform."
+    },
+    {
+      "title": "Build and deliver",
+      "text": "Procure parts, manufacture or assemble and carry out the required checks."
+    },
+    {
+      "title": "Secure acceptance and support",
+      "text": "Acceptance, invoicing, collection and later support follow the contract rather than a consumer checkout."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "An order pipeline is not the same as revenue",
+      "text": "A tender, demonstration or enquiry may not become a binding order. A confirmed order may still require engineering, delivery and acceptance before the relevant revenue is recognised."
+    },
+    {
+      "title": "Qualification creates both opportunity and delay",
+      "text": "Meeting customer requirements can support a long supply relationship, but repeated testing, design changes or component substitutions can consume time and money. Do not infer margins from the sophistication of a product."
+    },
+    {
+      "title": "Components and platforms have different economics",
+      "text": "Modules may sell repeatedly to another manufacturer while integrated work can require customer-specific engineering. Read the mix, intellectual-property arrangements and support commitments before comparing growth."
+    }
+  ],
+  "watch": [
+    [
+      "Which opportunities have become firm orders?",
+      "Separate enquiries and demonstrations from contractual commitments.",
+      "Read the offer documents and official order disclosures for contract scope, conditions and delivery dates. Ask which amount is a binding order rather than an addressable market or a marketing pipeline."
+    ],
+    [
+      "Are deliveries becoming accepted sales and cash?",
+      "Acceptance and collection can lag technical progress.",
+      "Compare the revenue-recognition policy with inventory, receivables and operating cash flow. Identify advances, milestones and customer acceptance rather than treating every dispatch as immediately collected revenue."
+    ],
+    [
+      "How concentrated are customers and programmes?",
+      "A small number of institutional purchases can make results uneven.",
+      "Read customer and programme concentration, repeat orders and related contractual conditions. A large opportunity should be considered alongside the effect of one customer delaying, reducing or cancelling procurement."
+    ],
+    [
+      "Can production and components keep up?",
+      "Parts availability and quality affect delivery.",
+      "Look for manufacturing capacity, supplier dependencies, imported components, lead times and qualification requirements in primary disclosures. Extra capacity matters only if orders can be fulfilled at the required quality and cost."
+    ],
+    [
+      "Does innovation pay for its development and support?",
+      "Research spending and product success are different.",
+      "Read development expenditure, capitalisation policies, warranty costs and subsequent sales evidence. Compare like periods and separate a new technical capability from a demonstrated commercial return."
+    ]
+  ],
+  "risks": [
+    [
+      "Procurement timing",
+      "Budget decisions, tenders and acceptance can delay orders or collections."
+    ],
+    [
+      "Customer concentration",
+      "Changes to a major programme can materially affect demand."
+    ],
+    [
+      "Engineering and supply risk",
+      "Qualification failures, component constraints and redesign can increase costs."
+    ],
+    [
+      "Regulatory and support obligations",
+      "Applicable approvals, export conditions, quality and contractual support can restrict delivery or add liabilities."
+    ]
+  ],
+  "context": [
+    "A component can be the important business",
+    "The OEM directory shows that Tonbo supplies subsystems as well as finished equipment. A less visible module can have a different repeat-order pattern from a headline integrated system; catalogue prominence is not a ranking of commercial importance."
+  ],
+  "quiz": [
+    "Does a successful demonstration mean the company has earned revenue?",
+    "No. Commercial terms, confirmed procurement, delivery and acceptance still matter. Use the contract and revenue-recognition policy rather than the demonstration alone."
+  ],
+  "sources": [
+    [
+      "Official OEM subsystems",
+      "https://tonboimaging.com/defense/products/oem/"
+    ],
+    [
+      "Official land-system product families",
+      "https://tonboimaging.com/defense/products/land/"
+    ],
+    [
+      "Official integrated-systems overview",
+      "https://tonboimaging.com/defense/products/systems/"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Check the entity and reporting period first",
+      "text": "A verified financial snapshot has not been added to this lesson. Use the issuer’s signed accounts or offer documents, check standalone versus consolidated scope and compare orders with recognised revenue and collections."
+    },
+    {
+      "title": "A catalogue does not verify a listing",
+      "text": "Product sources support the business explanation, not an exchange-admission claim. Confirm current listing and issuer identity in official exchange or offer documents before relying on a displayed symbol."
+    }
+  ],
+  "checked": "29 October 2026"
+}

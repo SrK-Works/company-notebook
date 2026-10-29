@@ -1,0 +1,141 @@
+{
+  "summary": "A consulting and technology-services company helping organisations build, change and operate systems, with cloud, AI and software-platform offerings.",
+  "description": "Infosys combines delivery teams, consulting, engineering and platforms to solve customer technology and operating problems. A retail website project, bank-system change and continuing business-process service have different contracts and delivery needs.",
+  "money": "Clients pay for services and relevant software or platform arrangements. Pricing, delivered work, employee and subcontractor costs, productivity, utilisation and currency influence earnings and collections.",
+  "customers": "Organisations in financial services, manufacturing, retail, communications and other industries. The industries in the financial table describe customers, not businesses that Infosys owns.",
+  "drivers": "Customer budgets, contract execution, service mix, pricing, people costs, automation, currency and collection of invoices.",
+  "groups": [
+    {
+      "title": "Consulting and application services",
+      "examples": "Application development, maintenance, enterprise systems and business consulting.",
+      "explanation": "Projects change a system; continuing support keeps it operating. Their revenue timing and responsibilities can differ."
+    },
+    {
+      "title": "Cloud and infrastructure",
+      "examples": "Infosys Cobalt and related cloud, infrastructure and security work.",
+      "explanation": "Cloud transformation needs implementation and operation, not simply a software label."
+    },
+    {
+      "title": "AI, data and experience",
+      "examples": "Infosys Topaz, analytics and the Aster marketing-services suite.",
+      "explanation": "These are sets of services, solutions and platforms; a brand name does not prove separately earned profit."
+    },
+    {
+      "title": "Platforms and business processes",
+      "examples": "Finacle and other enterprise platforms, alongside business-process-management services.",
+      "explanation": "Licensing, implementation, support and process operation can involve different commercial arrangements."
+    }
+  ],
+  "basics": [
+    {
+      "title": "Services and customer sectors overlap",
+      "text": "A financial-services client can buy cloud, AI and application maintenance together. Do not add a service-market estimate to a reported industry segment as though it were another independent sale."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Scope the business need",
+      "text": "Agree the problem, expected deliverables, contract basis and responsibility for outcomes."
+    },
+    {
+      "title": "Organise delivery",
+      "text": "Match skills, tools and partner technology to the work while managing cost and quality."
+    },
+    {
+      "title": "Perform and recognise revenue",
+      "text": "Deliver the service or contractual milestones under the relevant recognition policy."
+    },
+    {
+      "title": "Bill, collect and expand",
+      "text": "Invoice, collect payments and compete for renewal or additional work."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Growth measures need a currency label",
+      "text": "Dollar, rupee and constant-currency growth can differ. Constant currency adjusts the stated exchange-rate effect; it does not remove pricing or demand risk."
+    },
+    {
+      "title": "A deal needs time to become earnings",
+      "text": "Contract value can include renewals and work over future periods. Margin depends on staffing, transition costs, automation and actual scope delivered."
+    },
+    {
+      "title": "AI adoption needs a commercial test",
+      "text": "Productivity improvements may lower delivery effort, while clients may ask for lower prices or different outcomes. Paid demand and realised economics matter more than an offering’s name."
+    }
+  ],
+  "watch": [
+    [
+      "Are deal wins creating realised growth?",
+      "Contract size and current delivery are different.",
+      "Read large-deal commentary with revenue, ramp-up timing and renewals. Identify what is new scope versus replacement of an existing contract; do not equate pipeline or total contract value with annual sales."
+    ],
+    [
+      "Which client sectors are spending?",
+      "Financial services and retail can face different cycles.",
+      "Compare industry-segment commentary and results using the same period. A slowdown in a major sector can matter more than rapid growth from a small base elsewhere."
+    ],
+    [
+      "What is behind the operating margin?",
+      "Pricing and delivery efficiency interact with staff costs.",
+      "Read utilisation definitions, attrition, wage changes, subcontracting and onsite/offshore mix alongside achieved margin. Distinguish reported segment operating income from consolidated net profit."
+    ],
+    [
+      "Are billed and unbilled balances collected?",
+      "Accounting revenue can precede customer cash.",
+      "Review trade receivables, unbilled revenue, operating cash flow and contract terms. Explain a balance change in relation to sales and billing schedules rather than judging it from its absolute size alone."
+    ],
+    [
+      "Is transformation demand improving client economics?",
+      "Cloud and AI spending must solve a real problem.",
+      "Look for implemented customer work and the stated scope of AI or cloud revenue. Separate management’s forecasts and addressable-market estimates from completed, paid delivery."
+    ]
+  ],
+  "risks": [
+    [
+      "Budget and contract uncertainty",
+      "Customers may delay decisions, reduce scope or negotiate lower prices."
+    ],
+    [
+      "Skills and productivity pressure",
+      "Wages, reskilling, attrition or an unfavourable delivery mix can reduce earnings."
+    ],
+    [
+      "Execution, data and security",
+      "Complex transformations can run late or expose systems and information, creating costs and reputational damage."
+    ],
+    [
+      "Currency and structural change",
+      "Exchange rates, immigration and data rules and new automation models can change demand and delivery economics."
+    ]
+  ],
+  "context": [
+    "A platform and a service team can solve one client problem",
+    "A banking platform may require configuration, migration and continuing support. Understand which activities are contracted and billed rather than treating the software name as a standalone earnings engine."
+  ],
+  "quiz": [
+    "Does constant-currency growth show that profits grew at the same rate?",
+    "No. It adjusts a currency effect on the stated revenue measure. Staff costs, pricing, mix and other expenses still affect profit."
+  ],
+  "sources": [
+    [
+      "FY 2025–26 annual report",
+      "https://www.infosys.com/investors/reports-filings/annual-report/annual/documents/infosys-ar-26.pdf"
+    ],
+    [
+      "Official service and product directory",
+      "https://www.infosys.com/"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "The table groups customers, not platforms",
+      "text": "The verified segment rows cover industries such as Financial Services and Retail. Their segment operating income must be reconciled to company profit; it is not a disclosed profit for Cobalt, Topaz or Finacle."
+    },
+    {
+      "title": "Read cash separately",
+      "text": "An industry with high segment operating income can still have billing or collection timing differences. Continue with the consolidated cash-flow statement and customer balances before concluding how much cash was generated."
+    }
+  ],
+  "checked": "29 October 2026"
+}

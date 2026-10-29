@@ -1,0 +1,145 @@
+{
+  "summary": "A bank supplying deposits, lending, cards, payments and services to households and businesses, with group relationships beyond the banking entity.",
+  "description": "HDFC Bank accepts deposits and other funding, lends and invests under banking rules, and provides payment and transaction services. Its central job is to earn enough after funding costs and credit losses while keeping deposits accessible and maintaining financial strength.",
+  "money": "Interest earned on loans and other earning assets is offset by interest paid on funding. Fees and other income also contribute, while operating costs, provisions and tax affect profit.",
+  "customers": "Depositors, borrowers, cardholders, businesses and institutions using banking and transaction services. The same person can be both a depositor and a borrower.",
+  "drivers": "Deposit quality and cost, loan pricing, credit quality, operating efficiency, liquidity, capital and the mix of loans and fees.",
+  "groups": [
+    {
+      "title": "Accounts and deposits",
+      "examples": "Savings, current accounts and fixed or recurring deposits.",
+      "explanation": "Customer deposits are money owed to customers, not the bank’s sales revenue. They are part of the funding side of the balance sheet."
+    },
+    {
+      "title": "Household lending and cards",
+      "examples": "Home, personal and vehicle loans, credit cards and related retail products.",
+      "explanation": "Interest and fees must compensate for funding, servicing and the risk of borrowers not repaying."
+    },
+    {
+      "title": "Business and institutional banking",
+      "examples": "Working-capital loans, corporate lending, trade finance and cash-management services.",
+      "explanation": "Credit assessment, security, concentration and payment activity differ from a household account."
+    },
+    {
+      "title": "Payments, investment and distribution services",
+      "examples": "Digital payments, treasury-related activity and distribution of relevant financial products.",
+      "explanation": "A product sold through the bank can have a separate provider. Distribution fees are not the same as owning the product’s entire business."
+    }
+  ],
+  "basics": [
+    {
+      "title": "A loan is an asset and a deposit is an obligation",
+      "text": "The bank expects a borrower to repay a loan; it owes a depositor their money under the agreed terms. Neither the full loan disbursal nor a new deposit is ordinary sales revenue."
+    },
+    {
+      "title": "Credit provisions are different from capital",
+      "text": "A provision is an accounting charge for expected credit losses. A non-performing loan is classified as a problem loan under the applicable rules; it is not necessarily a final unrecoverable loss. Regulatory capital provides a loss-absorbing buffer, while liquidity concerns meeting payments when due. These measures answer different questions."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Attract suitable funding",
+      "text": "Serve depositors and arrange funding with a mix of cost, stability and liquidity."
+    },
+    {
+      "title": "Assess and deploy",
+      "text": "Evaluate borrowers and investments, price risk and meet regulatory constraints."
+    },
+    {
+      "title": "Earn and service",
+      "text": "Collect interest and fees, pay funding costs and operate accounts and payment systems."
+    },
+    {
+      "title": "Absorb losses and maintain buffers",
+      "text": "Provide for credit deterioration, maintain capital and liquidity and continue serving customers."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Net interest income is not the final profit",
+      "text": "Interest earned less interest paid is net interest income. It must still support operating costs, credit provisions and taxes, alongside other sources of income."
+    },
+    {
+      "title": "Loan growth needs dependable funding",
+      "text": "Rapid lending can create pressure if deposits or other funding do not grow on sustainable terms. Low-cost account balances and term deposits have different pricing and behaviour."
+    },
+    {
+      "title": "Credit quality can deteriorate before a loss is final",
+      "text": "Delinquencies, non-performing loans and provisions describe different stages and measures. Security against a loan does not guarantee immediate or complete recovery."
+    }
+  ],
+  "watch": [
+    [
+      "Are deposits supporting lending sustainably?",
+      "Funding cost and stability matter together.",
+      "Read deposit mix, borrowing, liquidity and loan growth on the same reporting basis. A higher term-deposit share can have different cost implications from current and savings accounts; deposits are liabilities, not revenue."
+    ],
+    [
+      "Why is the net interest margin changing?",
+      "Loan yields and funding reprice at different times.",
+      "Identify the company’s average-asset denominator and margin definition. Read loan mix, deposit pricing and repricing commentary rather than treating a rate change as an automatic profit benefit."
+    ],
+    [
+      "Are borrowers meeting their commitments?",
+      "Growth can conceal weaker new credit.",
+      "Compare gross and net non-performing assets, slippages, recoveries and provisions. Slippages are newly recognised problem loans. Read absolute amounts and ratios with loan growth and the stated credit classifications."
+    ],
+    [
+      "Are fees and service channels productive?",
+      "Activity must cover operating and control costs.",
+      "Read payments, cards, business banking and distribution commentary alongside fees, staff and technology costs. Product distribution does not imply the bank manufactures or owns every investment or insurance offering."
+    ],
+    [
+      "Are capital and group comparisons clear?",
+      "Bank strength requires buffers, not just earnings.",
+      "Use standalone bank and consolidated group statements separately. Read regulatory capital, liquidity, subsidiary disclosures and any merger-related comparability notes; a non-financial company’s cash-flow or EBITDA shortcut is unsuitable for judging a bank."
+    ]
+  ],
+  "risks": [
+    [
+      "Borrower losses",
+      "Defaults and deterioration in collateral or recovery can increase provisions and reduce earnings."
+    ],
+    [
+      "Funding and liquidity pressure",
+      "Deposits can reprice or move; meeting withdrawals and loan funding requires suitable liquid resources."
+    ],
+    [
+      "Interest-rate and balance-sheet mismatch",
+      "Assets and liabilities can reprice or mature on different schedules."
+    ],
+    [
+      "Operational, cyber and compliance failures",
+      "Errors, outages, fraud or weak controls can create losses, restrictions and customer mistrust."
+    ]
+  ],
+  "context": [
+    "A growing balance sheet is not automatically better banking",
+    "Larger loans and deposits describe scale. Useful growth must also preserve underwriting quality, suitable funding, operating controls and capital strength; the cost of poor credit may emerge later than the loan was made."
+  ],
+  "quiz": [
+    "Is the full amount deposited by a customer revenue for the bank?",
+    "No. It is an obligation to that customer. Interest and fees earned are different from deposit balances; withdrawals are not an ordinary sales refund."
+  ],
+  "sources": [
+    [
+      "Official banking-business directory",
+      "https://www.hdfc.bank.in/about-us/our-businesses"
+    ],
+    [
+      "Official financial-results library",
+      "https://www.hdfc.bank.in/about-us/investor-relations/financial-results"
+    ],
+    [
+      "Official annual reports",
+      "https://www.hdfc.bank.in/about-us/investor-relations/annual-reports"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Verify banking measures on the same basis",
+      "text": "This profile’s financial figures remain pending verification. The source should identify interest earned, interest paid, net interest income, provisions and the precise profit measure, together with the bank or group scope. Deposit and loan balances must not be entered as revenue."
+    }
+  ],
+  "checked": "29 October 2026"
+}

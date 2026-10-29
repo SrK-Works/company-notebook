@@ -1,0 +1,141 @@
+{
+  "summary": "A technology-services partner that builds, modernises and runs systems for organisations, with software platforms and business-process offerings alongside delivery services.",
+  "description": "Tata Consultancy Services supplies expertise and delivery teams to businesses and public institutions. Its work can include changing an application, running a technology estate, moving workloads to cloud systems or redesigning a business process.",
+  "money": "Revenue comes from contracted technology and business services and relevant platforms. Contract pricing, work delivered, employee costs, productivity, utilisation, subcontracting and currency affect what remains as earnings.",
+  "customers": "Banks, retailers, manufacturers, governments and other organisations buying projects or continuing services. They are customers of TCS, not industries owned by TCS.",
+  "drivers": "Client budgets, contract conversion, pricing, delivery quality, people costs, productivity, cash collection and demand for newer capabilities.",
+  "groups": [
+    {
+      "title": "Build and modernise technology",
+      "examples": "Application development, enterprise solutions, cloud and consulting.",
+      "explanation": "A client pays for a defined change or capability; agreeing a contract and recognising revenue are separate stages."
+    },
+    {
+      "title": "Run and protect operations",
+      "examples": "Managed technology services, cybersecurity and cognitive business operations.",
+      "explanation": "Continuing contracts require reliable delivery and meeting agreed service standards."
+    },
+    {
+      "title": "Data, AI and engineering",
+      "examples": "AI and analytics, industrial engineering and related transformation work.",
+      "explanation": "A technology capability needs paid implementation and customer outcomes; an AI announcement is not itself earned revenue."
+    },
+    {
+      "title": "Products and platforms",
+      "examples": "TCS BaNCS, TCS iON and other industry or operating platforms.",
+      "explanation": "A platform name describes an offering, not necessarily a separately disclosed profit segment."
+    }
+  ],
+  "basics": [
+    {
+      "title": "Client industries are a different view from services",
+      "text": "The financial table groups work by the customer’s industry. A bank can buy cloud, software and operations services within the same industry row."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Understand and contract",
+      "text": "Define a client problem, scope, price, responsibilities and delivery terms."
+    },
+    {
+      "title": "Staff and deliver",
+      "text": "Assign suitable teams and technology, then complete work or operate the contracted service."
+    },
+    {
+      "title": "Recognise and bill",
+      "text": "Record revenue as contractual performance is satisfied and issue bills on the agreed basis."
+    },
+    {
+      "title": "Collect and renew",
+      "text": "Collect customer payments, support the result and compete for further work while covering people and operating costs."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Bookings are a pipeline, not a bank balance",
+      "text": "Total contract value covers contracted opportunities over their terms. Timing, cancellations, scope and delivery determine how much becomes revenue and cash."
+    },
+    {
+      "title": "People costs and productivity interact",
+      "text": "Wages, skill mix, delivery location, subcontractors and the share of staff on billable work affect delivery economics. Higher utilisation can help but cannot rise indefinitely."
+    },
+    {
+      "title": "Automation changes the contract question",
+      "text": "AI may help clients do more with fewer resources. Whether TCS benefits depends on pricing, new demand, delivery costs and ownership of the resulting productivity gain."
+    }
+  ],
+  "watch": [
+    [
+      "Are signed deals converting into delivery?",
+      "Large contracts often span several years.",
+      "Read contract-value announcements with revenue and ramp-up commentary. Identify renewals versus new work and distinguish a deal’s total value from revenue expected in the current period."
+    ],
+    [
+      "Are customers funding discretionary projects?",
+      "Running essential systems and starting new projects differ.",
+      "Read industry and geography commentary for delays, spending priorities and deal timing. Broad digital enthusiasm does not establish that budgets have been approved or work has started."
+    ],
+    [
+      "What supports the delivery margin?",
+      "People, pricing and efficiency all contribute.",
+      "Follow wage changes, attrition, utilisation and subcontracting together with the margin definition. Productivity claims need evidence in achieved delivery economics, not just training counts."
+    ],
+    [
+      "Does profit turn into collections?",
+      "Billing and cash can have different timing.",
+      "Compare operating cash flow, receivables and unbilled revenue with contract terms. Unbilled revenue is recognised work not yet billed; investigate changes rather than assuming all growth is immediately collected."
+    ],
+    [
+      "Is the AI proposition commercially useful?",
+      "Tools need paid adoption and reliable outcomes.",
+      "Read actual client implementations, pricing and management’s definition of AI-related revenue. Avoid assuming every AI-tagged contract is entirely incremental or separately profitable."
+    ]
+  ],
+  "risks": [
+    [
+      "Client spending delays",
+      "Uncertain budgets can postpone projects and slow deal conversion."
+    ],
+    [
+      "Delivery and security failure",
+      "Missed service commitments or data incidents can create penalties, rework and lost trust."
+    ],
+    [
+      "Talent and pricing pressure",
+      "Wages, scarce skills and customer negotiation can offset efficiency gains."
+    ],
+    [
+      "Technology, currency and regulation",
+      "Automation, exchange rates, data rules and immigration restrictions can change delivery models and costs."
+    ]
+  ],
+  "context": [
+    "A long relationship still needs a fresh commercial case",
+    "Supporting a client for years can create valuable knowledge of its systems, but renewals remain subject to price, quality and competition. A familiar client name is a starting point for investigating demand, not proof of permanent earnings."
+  ],
+  "quiz": [
+    "Can a contract-value announcement be treated as current-year revenue?",
+    "No. Work is delivered over the contract’s term and revenue follows the applicable recognition policy. Billing and collection may happen at still different times."
+  ],
+  "sources": [
+    [
+      "Official services, products and industry directory",
+      "https://www.tcs.com/what-we-do/perpetually-adaptive-enterprise"
+    ],
+    [
+      "FY 2025–26 annual report",
+      "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2025-26/ar/annual-report-2025-2026.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Read margins as published",
+      "text": "The existing table contains customer-industry revenue and reported margin percentages. It deliberately does not multiply rounded percentages by revenue to manufacture profit amounts. A higher margin percentage does not establish the largest total profit contribution."
+    },
+    {
+      "title": "Do not turn a service brand into a segment",
+      "text": "Cloud, AI and BaNCS can serve several client industries. The table is not a profit report for each platform, nor a replacement for the consolidated profit and cash-flow reconciliation."
+    }
+  ],
+  "checked": "29 October 2026"
+}

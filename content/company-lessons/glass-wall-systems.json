@@ -1,0 +1,154 @@
+{
+  "listingLabel": "Listing status not verified",
+  "summary": "A building-façade specialist that designs, fabricates and installs exterior systems such as glass curtain walls, cladding and related architectural elements.",
+  "description": "Glass Wall Systems works on the outer envelope of a building. Its work combines engineering, factory fabrication and site installation, rather than simply reselling sheets of glass. Residential, commercial and hospitality projects create different designs, schedules and contract conditions.",
+  "money": "It earns through project contracts for façade systems and related work. Material procurement, fabrication, site labour, access, rework, timing and collection affect project earnings and cash.",
+  "customers": "Developers, building-project owners and other contracting customers. The buyer of an apartment or a visitor to a hotel is usually not the direct payer under a façade contract.",
+  "drivers": "Awarded work, project progress, material prices, design and site readiness, manufacturing utilisation, billing approval, retentions and customer payment.",
+  "groups": [
+    {
+      "title": "Glass curtain walls",
+      "examples": "Engineered exterior glazing systems.",
+      "explanation": "A curtain wall is an external enclosure rather than the building’s main load-bearing structure. Its design and installation must meet the applicable project requirements."
+    },
+    {
+      "title": "Cladding and architectural elements",
+      "examples": "External cladding, louvers and related building-envelope components.",
+      "explanation": "Different materials and details bring different fabrication, performance and installation needs."
+    },
+    {
+      "title": "Design and engineering",
+      "examples": "System design, drawings, engineering and project coordination.",
+      "explanation": "Engineering turns an architectural concept into a buildable system. It is part of contract execution, not automatically a separately disclosed revenue segment."
+    },
+    {
+      "title": "Fabrication and installation",
+      "examples": "Factory processing, assembly, dispatch and on-site execution.",
+      "explanation": "Factory-made assemblies still need transport, site access, installation, inspection and completion of contractual obligations."
+    }
+  ],
+  "basics": [
+    {
+      "title": "Façade means the building’s exterior face or envelope",
+      "text": "The spelling façade, with a cedilla, is correct; facade is also used. Here it describes the exterior system, not the construction of the entire building."
+    },
+    {
+      "title": "Unitised construction moves assembly into the factory",
+      "text": "Panels or modules can be assembled before site installation. This changes the balance between factory work and site work; it does not eliminate site dependencies or quality obligations."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Design for the project",
+      "text": "Coordinate specifications, interfaces, drawings and approvals."
+    },
+    {
+      "title": "Procure and fabricate",
+      "text": "Source glass, aluminium and other materials and manufacture the required components."
+    },
+    {
+      "title": "Install as the site becomes available",
+      "text": "Dispatch, assemble and complete the exterior work under the project schedule."
+    },
+    {
+      "title": "Certify, bill and collect",
+      "text": "Obtain the required confirmations and recover payments, including any retained amounts."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "An order book is future execution, not collected cash",
+      "text": "Awarded work can span a long project schedule. Design changes, customer readiness and installation access can alter how quickly it becomes recognised revenue and payment."
+    },
+    {
+      "title": "Recognised revenue and billing can differ",
+      "text": "Project accounting may recognise work before the customer has certified or paid it. Contract assets, receivables and advances describe different stages of the money cycle."
+    },
+    {
+      "title": "Retention is money held back under the contract",
+      "text": "Customers can retain part of payment until specified completion or defect conditions are met. That can protect the customer while making collection slower for the supplier."
+    }
+  ],
+  "watch": [
+    [
+      "Is awarded work converting into completed execution?",
+      "A growing backlog does not settle delivery timing.",
+      "Read project progress, completion schedules, additions and cancellations. Ask whether the site is ready and whether the company has the engineering, factory and installation resources to execute the work it has accepted."
+    ],
+    [
+      "Who bears material-price and design changes?",
+      "Glass, aluminium and specification changes can alter cost.",
+      "Read fixed-price versus escalation terms and variation approvals. A rise in the contract value may compensate for extra work or materials rather than improve the project’s economics."
+    ],
+    [
+      "Are earnings being collected?",
+      "Project revenue can precede certified bills and cash.",
+      "Compare contract assets, receivables, advances, retention and operating cash flow. Investigate ageing and customer disputes rather than treating every reported sale as an immediately payable invoice."
+    ],
+    [
+      "Can manufacturing and installation remain coordinated?",
+      "Factory output alone does not finish a façade.",
+      "Read capacity utilisation with dispatch, site access, labour availability and installation progress. Materials waiting for the site can consume inventory space and funding without bringing final acceptance closer."
+    ],
+    [
+      "Are quality and customer obligations controlled?",
+      "Defects and delays can have costs beyond initial fabrication.",
+      "Read warranty, claims, provisions and contingent liabilities alongside customer concentration. Use actual certifications and project requirements; do not treat a photograph of a completed tower as proof of every performance claim."
+    ]
+  ],
+  "risks": [
+    [
+      "Customer and construction cycle",
+      "Project postponements or developer cash constraints can interrupt work."
+    ],
+    [
+      "Cost and scope changes",
+      "Materials, design changes and rework can pressure fixed-price contracts."
+    ],
+    [
+      "Collection and retention",
+      "Billing disputes, ageing balances and retained sums can delay cash."
+    ],
+    [
+      "Installation and quality",
+      "Site execution, safety, defects and warranty obligations can create costs or delays."
+    ]
+  ],
+  "context": [
+    "Several services can belong to one project obligation",
+    "Design, fabrication and installation explain how the business works. They should not be portrayed as independent profit centres unless the accounts disclose that split; the customer may buy an integrated façade solution."
+  ],
+  "quiz": [
+    "Does an increase in the order book immediately increase cash in the bank?",
+    "No. Work must progress under the contract, billing conditions must be met and the customer must pay. An advance, if present, has its own obligations."
+  ],
+  "sources": [
+    [
+      "Official design and engineering description",
+      "https://www.glasswallsystems.in/design-and-engineering/"
+    ],
+    [
+      "Official manufacturing facility description",
+      "https://www.glasswallsystems.in/facility/"
+    ],
+    [
+      "Official offer document and contract disclosures",
+      "https://www.glasswallsystems.in/wp-content/uploads/2025/09/DRHP.pdf"
+    ],
+    [
+      "Audited company financial statements",
+      "https://www.glasswallsystems.in/ipo-docs/70768f2eb63447c19e077624facbc935.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "The verified snapshot is a company total",
+      "text": "The existing table uses standalone parent-company revenue and profit for the specified financial year. It does not establish separate revenue or profit for curtain walls, cladding, engineering or installation; those should not be invented from the offering list."
+    },
+    {
+      "title": "Read project cash alongside reported profit",
+      "text": "Contract assets, receivables and retention can explain why earnings and cash move differently. Keep standalone and consolidated scope distinct and review the actual accounting policy before comparing project performance across periods."
+    }
+  ],
+  "checked": "29 October 2026"
+}

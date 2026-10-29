@@ -1,0 +1,149 @@
+{
+  "summary": "A dairy business selling Gowardhan staples, Go cheese and dairy products, Pride of Cows offerings, Topp Up drinks and Avvatar nutrition products.",
+  "description": "Parag Milk Foods sources and processes milk into different products for households and business customers. Milk fat, solids and whey can support several outputs, so understanding the dairy process is more useful than treating every brand as an unrelated business.",
+  "money": "Revenue comes from branded dairy, ingredients and related product sales. Milk procurement, processing yield, packaging, storage, distribution, marketing and the balance of products sold affect earnings and cash needs.",
+  "customers": "Households, retailers and distributors, along with food-service and other institutional buyers. A consumer pack, a bulk ingredient order and a direct home-delivery relationship have different routes and terms.",
+  "drivers": "Milk availability and procurement price, product mix, processing and storage costs, demand, distribution, inventory ageing and the utilisation of existing and new capacity.",
+  "groups": [
+    {
+      "title": "Gowardhan everyday dairy",
+      "examples": "Milk, ghee, paneer, curd, butter and other traditional dairy offerings.",
+      "explanation": "These products differ in fat content, processing and shelf life. The popularity of one product does not reveal the economics of the whole brand."
+    },
+    {
+      "title": "Go products and ingredients",
+      "examples": "Cheese, cream, milk and related dairy products for consumer and food-service uses.",
+      "explanation": "Consumer packs and restaurant or institutional requirements can use different formats, pricing and distribution."
+    },
+    {
+      "title": "Pride of Cows and beverages",
+      "examples": "Farm-to-home dairy offerings and Topp Up flavoured milk.",
+      "explanation": "Direct distribution and different storage formats change the service and cost involved. Check each product’s actual availability and storage requirements."
+    },
+    {
+      "title": "Avvatar and whey products",
+      "examples": "Whey-based nutrition offerings and ingredients described in company disclosures.",
+      "explanation": "Whey is connected to cheese processing. Developing a higher-value use for a processing stream can help the mix, but demand, quality controls and marketing still have to cover costs."
+    }
+  ],
+  "basics": [
+    {
+      "title": "Milk is transformed into several saleable outputs",
+      "text": "Processing separates and recombines milk components for different uses. Yield is the amount of useful output obtained from inputs; the value of co-products matters alongside the headline selling price."
+    },
+    {
+      "title": "A dairy brand is not a nutrition verdict",
+      "text": "Product names and health positioning describe marketing and intended categories. This business page does not assess suitability or health benefits for an individual consumer."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Procure and test milk",
+      "text": "Arrange supply and check quality under the relevant controls."
+    },
+    {
+      "title": "Process the product mix",
+      "text": "Use plants to make milk products, ingredients, cheese and associated outputs."
+    },
+    {
+      "title": "Pack, store and distribute",
+      "text": "Apply the appropriate storage and shelf-life requirements for each offering."
+    },
+    {
+      "title": "Sell and collect",
+      "text": "Reach consumers or business buyers and collect while funding the next procurement cycle."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Different dairy products have different price cycles",
+      "text": "Procurement costs can change before selling prices adjust. Ghee, milk powder, fresh products and cheese may also face different demand and inventory cycles."
+    },
+    {
+      "title": "Cheese and whey economics are connected",
+      "text": "Whey arises in cheese processing. Read the combined production pathway, allocation of costs and demand for each output before assuming one branded product receives the entire benefit."
+    },
+    {
+      "title": "Freshness and inventory use money",
+      "text": "Some products need rapid delivery while others can be stored longer. Storage, ageing, expiry and commodity-price changes can affect the value of stock and the cash needed to operate."
+    }
+  ],
+  "watch": [
+    [
+      "Can milk supply meet demand at a workable cost?",
+      "Procurement price and quality affect all downstream products.",
+      "Read milk collection, supply seasonality and input-cost commentary together. Check the timing of customer price changes and the product mix rather than assuming a rise in milk procurement translates directly into more profit."
+    ],
+    [
+      "Which products are driving growth?",
+      "Revenue mix can matter as much as quantities.",
+      "Read consumer versus institutional sales and commentary on dairy staples, cheese, beverages and nutrition offerings. Distinguish higher prices from increased quantities, and do not assign company profit to an individual brand without disclosure."
+    ],
+    [
+      "Are cheese, whey and capacity working together?",
+      "Processing linkages can create opportunity and bottlenecks.",
+      "Read actual utilisation, commissioning and product demand, not just installed capacity. Consider co-product recovery, quality controls, energy and equipment costs; a new line needs orders and efficient operation to generate returns."
+    ],
+    [
+      "Is stock turning into cash without excessive ageing?",
+      "Longer storage and slow payment can absorb money.",
+      "Compare inventory, ageing where available, customer balances and operating cash flow. Separate stock built for seasonal supply or new capacity from goods whose sale or valuation has become less certain."
+    ],
+    [
+      "Are quality and distribution supporting repeat purchases?",
+      "Consumer trust and product handling are operating necessities.",
+      "Use official compliance and quality disclosures, returns and channel commentary. Check whether growth requires more advertising, refrigeration, logistics or credit to customers; a premium label is not proof of a superior margin."
+    ]
+  ],
+  "risks": [
+    [
+      "Milk-cost volatility",
+      "Input inflation or supply disruption can pressure pricing and production."
+    ],
+    [
+      "Storage and quality",
+      "Spoilage, contamination, handling failures or compliance issues can cause waste and disruption."
+    ],
+    [
+      "Mix and commodity exposure",
+      "Unsold ingredients or changes in market prices can affect stock value and earnings."
+    ],
+    [
+      "Expansion and funding",
+      "New processing capacity, distribution and brand spending can consume cash before demand develops."
+    ]
+  ],
+  "context": [
+    "A processing by-product can become a separate consumer proposition",
+    "The company’s disclosures connect whey processing with nutrition products. That connection is worth investigating, but the existence of the product does not establish its separate profit or the return on the capacity used to make it."
+  ],
+  "quiz": [
+    "Does selling a higher-priced dairy product automatically create a higher margin?",
+    "No. Ingredients, yield, processing, storage, packaging, distribution and marketing can also cost more. Read the matching costs and the company’s actual disclosure."
+  ],
+  "sources": [
+    [
+      "Official brand directory",
+      "https://www.paragmilkfoods.com/our-brands.php"
+    ],
+    [
+      "Historical processing background: cheese and whey",
+      "https://www.paragmilkfoods.com/parag_uploads/images/pdfs/AnnualReportFY1718.pdf"
+    ],
+    [
+      "Official investor library",
+      "https://www.paragmilkfoods.com/investors.php"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Verify scope before reading brand economics",
+      "text": "A new financial snapshot has not been added in this lesson. Use the signed period’s accounts for revenue, profit, cash flow and dairy-segment definitions; do not replace them with a brand’s marketing claims."
+    },
+    {
+      "title": "Read the balance sheet with the income statement",
+      "text": "Inventory, receivables, borrowing and investment can explain why a growing dairy business requires cash. A profit figure alone does not show how much remains after processing expansion and stock needs."
+    }
+  ],
+  "checked": "29 October 2026"
+}

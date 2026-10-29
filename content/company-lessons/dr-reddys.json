@@ -1,0 +1,141 @@
+{
+  "summary": "A pharmaceutical group supplying generic medicines, active ingredients and services, consumer health and innovative-medicine programmes.",
+  "description": "Dr. Reddy’s develops and supplies finished medicines and pharmaceutical inputs, and provides development and manufacturing services to partners. Its website describes Generics, API & Services, Innovative Medicines and Consumer Health. These business descriptions should be distinguished from the accounting segments used in a particular financial report.",
+  "money": "The group earns through medicine and ingredient sales and contracted pharmaceutical services and arrangements. Development, manufacturing, regulatory compliance, distribution, research and acquisition costs affect what remains. Rights and revenue recognition depend on the specific product, country and contract.",
+  "customers": "Pharmaceutical distributors, pharmacies, health systems and other drug developers or manufacturers buy different offerings; prescribers, patients, payers and regulators influence demand.",
+  "drivers": "Product mix, generic competition, launch timing, regulatory approvals, quality, contract delivery, research spending and market access.",
+  "groups": [
+    {
+      "title": "Generics and biosimilars",
+      "examples": "Branded and unbranded generic formulations and biosimilar medicines across served markets.",
+      "explanation": "A formulation is a finished dose. A biosimilar is developed against an approved reference biological medicine under the relevant regulatory pathway; it is not simply the same development task as a conventional generic tablet."
+    },
+    {
+      "title": "API and pharmaceutical services",
+      "examples": "Active ingredients and discovery, development and manufacturing services, including relevant Aurigene operations.",
+      "explanation": "These are often business-to-business offerings. The customer may be a pharmaceutical developer rather than a pharmacy or patient."
+    },
+    {
+      "title": "Innovative medicines",
+      "examples": "Research programmes, differentiated therapies and commercial partnerships.",
+      "explanation": "A programme’s existence is not an approval or a sale. Check development stage, rights and funding obligations."
+    },
+    {
+      "title": "Consumer health",
+      "examples": "Non-prescription and everyday health products, including acquired brand portfolios where rights apply.",
+      "explanation": "Country rights, distribution and integration matter. Product descriptions explain the business and are not advice to use a treatment."
+    }
+  ],
+  "basics": [
+    {
+      "title": "A scientific capability can be sold in different ways",
+      "text": "The company might sell an ingredient, a finished medicine or development/manufacturing work. These create different prices, customer relationships, approval needs and working-capital requirements. A similar therapy name does not make their economics comparable."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Choose a product or partner programme",
+      "text": "Identify a formulation, ingredient, research project or contracted service with a defined market."
+    },
+    {
+      "title": "Develop and qualify it",
+      "text": "Complete the required technical work, evidence, regulatory steps and customer qualification."
+    },
+    {
+      "title": "Manufacture and supply",
+      "text": "Maintain quality, capacity and reliable delivery under applicable requirements."
+    },
+    {
+      "title": "Collect and reinvest",
+      "text": "Collect from customers while funding stock, research, commercial support and the next generation of offerings."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "A successful generic can face a changing market",
+      "text": "The arrival of more competitors and changes in customer purchasing can reduce prices. A new launch can temporarily change growth or margin, so investigate how sustainable the product contribution is rather than extrapolating its early period."
+    },
+    {
+      "title": "Consumer-health expansion needs integration",
+      "text": "Acquired portfolios can add products and market access while creating payments, financing costs, integration work and intangible-asset amortisation. Compare existing-business growth with the revenue added through an acquisition."
+    },
+    {
+      "title": "Services require delivery, not just a contract announcement",
+      "text": "A discovery or manufacturing relationship can proceed in stages. Read contracted scope, customer milestones and the revenue-recognition basis. A headline deal value or capacity announcement need not be revenue already earned."
+    }
+  ],
+  "watch": [
+    [
+      "What explains product and market growth?",
+      "New launches, pricing and acquisitions can move the total differently.",
+      "Read country and business reviews with the same period and currency basis. Separate base-business performance, launch effects and newly consolidated operations where disclosed."
+    ],
+    [
+      "How durable are important generic contributions?",
+      "Competition can change economics after launch.",
+      "Check product concentration, regulatory approvals, exclusivity and pricing commentary. Use actual sales and supply evidence, not a filing count, as evidence of commercial performance."
+    ],
+    [
+      "Are facilities and supply compliant?",
+      "Quality problems can interrupt sales to specific markets.",
+      "Read official findings and company responses by site, date and affected products. Distinguish an observation, restriction, remediation programme and subsequent regulatory outcome."
+    ],
+    [
+      "Are acquisitions and research earning their cost?",
+      "Growth can require substantial cash and ongoing expenses.",
+      "Read acquisition consideration, goodwill, intangible assets, amortisation and research expense. Targets and pipeline valuations are not achieved earnings; identify the obligation and evidence for each project."
+    ],
+    [
+      "Do contracts and accounting earnings convert into cash?",
+      "Stock and customer payment cycles can absorb money.",
+      "Read operating cash flow, receivables, inventory and contract balances alongside the relevant revenue-recognition policy. Separate segment results from consolidated after-tax profit."
+    ]
+  ],
+  "risks": [
+    [
+      "Generic-price pressure",
+      "New competitors or purchasing changes can weaken important product earnings."
+    ],
+    [
+      "Regulatory and supply disruptions",
+      "Quality findings, restrictions and shortages can affect launches and existing supplies."
+    ],
+    [
+      "Development uncertainty",
+      "Research, trials and approvals may not deliver a commercially viable product."
+    ],
+    [
+      "Integration, legal and currency exposure",
+      "Acquisitions, intellectual-property disputes and overseas currencies can affect both earnings and cash."
+    ]
+  ],
+  "context": [
+    "Business headings can differ from financial segments",
+    "The website helps a beginner understand the offerings. An annual report may group results differently or change its presentation over time. Match each financial label to the period’s segment note instead of allocating earnings directly to website categories."
+  ],
+  "quiz": [
+    "Is an ingredient sale the same kind of business as a finished branded medicine sale?",
+    "No. The customer, development work, approvals, manufacturing and route to market can differ. Understand the offering and contract before comparing its sales and profit with another activity."
+  ],
+  "sources": [
+    [
+      "Official business overview",
+      "https://www.drreddys.com/our-business"
+    ],
+    [
+      "Generics business",
+      "https://www.drreddys.com/generics"
+    ],
+    [
+      "API manufacturing and services",
+      "https://www.drreddys.com/active-pharmaceutical-ingredients"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Keep the source segment definitions",
+      "text": "Financial figures have not yet been verified for this profile. Obtain the audited period’s segment note and group accounts. Website business groups, geographical sales and product highlights should not be added together or used to invent a therapy-level profit split."
+    }
+  ],
+  "checked": "29 October 2026"
+}

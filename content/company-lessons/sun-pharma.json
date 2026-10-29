@@ -1,0 +1,141 @@
+{
+  "summary": "A medicine business spanning branded and generic formulations, innovative medicines, active ingredients and consumer-health offerings.",
+  "description": "Sun Pharma develops, manufactures and markets medicines across markets with different approval, pricing and distribution systems. A finished medicine, an active ingredient sold to another manufacturer and an innovative therapy have different customers, development work and commercial risks.",
+  "money": "Revenue comes from selling approved medicines and ingredients and relevant commercial arrangements. Research, clinical development, manufacturing, quality systems, distribution, promotion and licensing costs affect earnings. A pipeline project is not yet an approved, revenue-generating product.",
+  "customers": "Distributors, pharmacies, hospitals and other pharmaceutical manufacturers are commercial customers; patients, prescribers, payers and regulators influence demand and access.",
+  "drivers": "Approvals, launches, product competition, selling prices, quality compliance, research spending and the costs of supplying different markets.",
+  "groups": [
+    {
+      "title": "Branded and generic finished medicines",
+      "examples": "Prescription formulations across areas including dermatology, ophthalmology, cardiology and other therapies.",
+      "explanation": "A formulation is the finished dose supplied for use. A brand name, dosage form and market approval describe different aspects of the offering."
+    },
+    {
+      "title": "Innovative medicines",
+      "examples": "Differentiated therapies developed or obtained through relevant partnerships and commercial rights.",
+      "explanation": "Development, evidence, approvals and market access can require substantial spending before sales arrive. Availability and rights differ by market."
+    },
+    {
+      "title": "Active pharmaceutical ingredients",
+      "examples": "APIs used in Sun’s formulations and sold to pharmaceutical customers.",
+      "explanation": "An API is the active substance used to make a medicine. Supplying it is different from selling the finished prescription product."
+    },
+    {
+      "title": "Consumer health",
+      "examples": "Selected non-prescription and consumer-health offerings, including brands in the existing catalogue.",
+      "explanation": "Consumer recognition can matter, but labels, allowed claims, product regulation and distribution still govern the business. Brand presence is not a medical recommendation."
+    }
+  ],
+  "basics": [
+    {
+      "title": "Approval, launch and commercial demand are separate stages",
+      "text": "A research programme can fail before approval. An approved product still needs manufacturing supply, distribution and access to customers. A successful launch must then earn enough to cover its commercial and development costs. None of these stages should be treated as guaranteed."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Develop or obtain an offering",
+      "text": "Research a medicine, develop a generic or agree relevant rights with a partner."
+    },
+    {
+      "title": "Build evidence and obtain permission",
+      "text": "Complete required testing and regulatory submissions for the specific product and market."
+    },
+    {
+      "title": "Manufacture consistently",
+      "text": "Operate validated processes, quality systems and reliable supply."
+    },
+    {
+      "title": "Reach the market and monitor performance",
+      "text": "Distribute through the applicable channels, support compliant use and monitor demand, quality and safety obligations."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "A generic and an innovative therapy have different economics",
+      "text": "Generics can face strong price competition as alternatives enter. Innovative products can need clinical and market-access investment and carry patent and development risk. Higher selling prices alone do not identify higher net returns."
+    },
+    {
+      "title": "Quality is a commercial requirement",
+      "text": "Inspections, manufacturing observations and corrective actions can affect a particular site or product’s supply. Read the actual finding and scope rather than assuming that an issue applies to every medicine or has no impact."
+    },
+    {
+      "title": "Research is both spending and uncertainty",
+      "text": "Pipeline counts show activity, not guaranteed future sales. Check development stage, rights, timelines, milestone obligations and whether costs are expensed or otherwise accounted for. A licensing payment and recurring product revenue are different."
+    }
+  ],
+  "watch": [
+    [
+      "Which businesses and markets drive the change?",
+      "A headline total can combine very different product trends.",
+      "Read innovative medicines, generics, India and other geographical commentary on matched definitions. Do not add overlapping geographical and product views as separate businesses."
+    ],
+    [
+      "Do launches replace pressure on older products?",
+      "New products can grow while established medicines face competition.",
+      "Check approvals, actual launch timing, supply and pricing commentary. An application filed or approval received is not a completed sale."
+    ],
+    [
+      "Are manufacturing and quality issues being resolved?",
+      "Supply reliability and compliance affect revenue and cost.",
+      "Read dated company and regulator disclosures by facility, product and market. Identify restrictions, remediation and subsequent evidence rather than relying on a general compliance claim."
+    ],
+    [
+      "What must be spent before new therapies earn?",
+      "Research and launch investment can precede returns by years.",
+      "Read research expense, clinical milestones, licensing obligations and commercial spending. Distinguish management targets from achieved profitability and avoid valuing every project as successful."
+    ],
+    [
+      "Do reported earnings become cash?",
+      "Stock, customer balances and acquisitions can use money.",
+      "Compare operating cash flow with profit, inventory, receivables, capital spending and licence or acquisition payments. Check currency, exceptional items and the consolidated reporting scope."
+    ]
+  ],
+  "risks": [
+    [
+      "Price competition and product concentration",
+      "Alternative medicines, payer decisions and patent events can reduce revenue from important products."
+    ],
+    [
+      "Regulatory or quality restrictions",
+      "Inspection findings, recalls or remediation can interrupt supply and add costs."
+    ],
+    [
+      "Development or launch disappointments",
+      "Trials, approvals, market access or demand may not support the expected return."
+    ],
+    [
+      "Legal and commercial obligations",
+      "Patent disputes, product liabilities and licensing commitments can create uncertain costs."
+    ]
+  ],
+  "context": [
+    "One approval does not open every market",
+    "Medicine permissions, commercial rights and reimbursement arrangements are market-specific. An approval announcement in one country should not be read as a worldwide launch or evidence that every patient can access the medicine."
+  ],
+  "quiz": [
+    "Does a larger research pipeline guarantee larger future profit?",
+    "No. Projects face scientific, regulatory and commercial uncertainty, and require spending. Read their stages and obligations; actual approvals, launches, demand and cash generation must follow."
+  ],
+  "sources": [
+    [
+      "Official product portfolio",
+      "https://sunpharma.com/products/"
+    ],
+    [
+      "Innovative medicines business",
+      "https://sunpharma.com/usa/innovative-medicines/"
+    ],
+    [
+      "FY 2025–26 company results commentary",
+      "https://sunpharma.com/wp-content/uploads/2026/05/Press-Release-Sun-Pharma-Q4FY26-Financial-Result.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Match the profit definition to the period and scope",
+      "text": "The financial snapshot here awaits verification. Product sales, geographical sales and therapy-category commentary can overlap. Use the audited consolidated statement for group profit and do not assign an undisclosed profit to each medicine or therapy."
+    }
+  ],
+  "checked": "29 October 2026"
+}

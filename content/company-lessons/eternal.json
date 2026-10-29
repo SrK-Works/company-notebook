@@ -1,0 +1,153 @@
+{
+  "summary": "The group connects food delivery through Zomato, quick commerce through Blinkit, going out through District and restaurant supplies through Hyperpure.",
+  "description": "Eternal brings together several businesses around meals, shopping and experiences. A restaurant-delivery marketplace, an inventory-owning retailer and a business supplying restaurants have different customers, costs and ways of recording revenue.",
+  "money": "The businesses earn through the relevant commissions, fees, advertising, goods sales and commercial arrangements. Delivery, fulfilment, discounts, stock, staff and platform costs affect each business differently, so order value and reported revenue are not interchangeable.",
+  "customers": "Consumers use Zomato, Blinkit and District; restaurant and other food-service businesses buy Hyperpure supplies. Restaurants, merchants and advertisers can also pay for relevant platform services.",
+  "drivers": "Orders, repeat use, basket value, revenue recognition, delivery and fulfilment costs, store productivity, customer incentives, advertising and the cash required to expand.",
+  "groups": [
+    {
+      "title": "Zomato food delivery",
+      "examples": "Restaurant discovery, ordering and delivery services.",
+      "explanation": "Restaurant partners prepare the food. The total bill paid by the customer is different from the platform’s own revenue."
+    },
+    {
+      "title": "Blinkit quick commerce",
+      "examples": "Groceries and other everyday goods delivered through a local fulfilment network.",
+      "explanation": "Inventory ownership matters: selling owned goods records revenue differently from earning a marketplace commission."
+    },
+    {
+      "title": "District going out",
+      "examples": "Dining, entertainment, events and related going-out services.",
+      "explanation": "Reservations, ticketing and restaurant experiences have different frequency and fulfilment needs from grocery delivery."
+    },
+    {
+      "title": "Hyperpure supplies",
+      "examples": "Ingredients, kitchen supplies and related food-service supply-chain services.",
+      "explanation": "This sells to businesses rather than delivering a restaurant meal to a household. Goods and logistics can produce large revenue with different margins."
+    }
+  ],
+  "basics": [
+    {
+      "title": "Order value is not the amount the platform earns",
+      "text": "Gross or net order-value measures describe transactions on a defined basis. Revenue reflects what the company records under its commercial model; a larger order-value number is not automatically more revenue or profit."
+    },
+    {
+      "title": "A dark store is a fulfilment site",
+      "text": "It is used to hold and pick goods for online orders rather than receive shoppers like a conventional store. Location, stock availability and orders per site affect its economics."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Attract users and partners",
+      "text": "Offer useful selection, availability and a reason to transact again."
+    },
+    {
+      "title": "Match and fulfil demand",
+      "text": "Coordinate restaurants, goods, inventory or experiences through the relevant business."
+    },
+    {
+      "title": "Collect and settle",
+      "text": "Receive payments and settle the amounts owed to partners while recognising the appropriate revenue."
+    },
+    {
+      "title": "Pay the operating costs",
+      "text": "Fund delivery, picking, rent, staff, promotions and technology, then invest in growth."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "An accounting-model change can magnify revenue growth",
+      "text": "Eternal’s results explain Blinkit’s transition towards inventory ownership. Recognising the full goods sale rather than a commission changes the revenue base, even before considering the change in demand."
+    },
+    {
+      "title": "Local density affects delivery economics",
+      "text": "More nearby orders can spread fulfilment and delivery costs, while adding sites and selection can raise costs. Read site maturity and demand together rather than treating every opening as equally productive."
+    },
+    {
+      "title": "Different earnings measures leave out different costs",
+      "text": "Contribution measures, adjusted EBITDA, segment result and group profit are distinct. Read the definition and reconciliation before comparing businesses or declaring a group profitable."
+    }
+  ],
+  "watch": [
+    [
+      "How much growth is demand and how much is reporting-model change?",
+      "Comparable growth needs a consistent revenue basis.",
+      "Read the inventory-model and like-for-like explanations with orders and order value. Identify which business and period changed; do not interpret a full-goods-sales revenue increase as the same increase in quantities or commissions."
+    ],
+    [
+      "Are customers returning without increasingly costly incentives?",
+      "Retention and subsidies affect the quality of growth.",
+      "Read customer frequency, order trends and promotions alongside the stated profitability measure. Download counts or registered users do not establish active paying demand; a membership benefit also has a cost."
+    ],
+    [
+      "Are quick-commerce sites becoming productive?",
+      "Store count alone is not unit economics.",
+      "Read site maturity, orders, assortment, availability and operating costs where disclosed. Consider inventory, stock losses, rent, picking and delivery rather than looking only at a contribution-margin headline."
+    ],
+    [
+      "Do the businesses fund their own operating needs?",
+      "Positive performance in one activity may coexist with losses elsewhere.",
+      "Read each business’s reported result using a common definition, then follow the bridge to group earnings. Hyperpure supplies, food delivery and going out should not be assumed to have the same cost structure or profit per order."
+    ],
+    [
+      "How much cash is expansion using?",
+      "Growth can require working capital and infrastructure.",
+      "Read operating cash flow, inventory, receivables, leases and capital spending together. Owning more inventory changes funding needs as well as revenue recognition; expansion announcements alone do not demonstrate a return."
+    ]
+  ],
+  "risks": [
+    [
+      "Competitive incentives",
+      "Discounting and customer acquisition can absorb the benefit of higher demand."
+    ],
+    [
+      "Fulfilment complexity",
+      "Availability, delivery quality and site operations affect repeat use and costs."
+    ],
+    [
+      "Inventory and funding",
+      "Owned stock introduces working-capital, spoilage and valuation exposure."
+    ],
+    [
+      "Regulation and trust",
+      "Food safety, consumer protection, labour arrangements and data or platform reliability can create obligations and disruption."
+    ]
+  ],
+  "context": [
+    "A restaurant supplier is a different kind of business",
+    "Hyperpure’s official overview describes sourcing, kitchen supplies and temperature-controlled distribution. It belongs in the group explanation even though a consumer may rarely see its name in a meal-ordering app."
+  ],
+  "quiz": [
+    "Can two platforms with similar order value report very different revenue?",
+    "Yes. Commissions, fees and owned-goods sales are recorded differently. Compare the commercial model and reporting definitions before drawing a conclusion about demand or earnings."
+  ],
+  "sources": [
+    [
+      "Official group businesses",
+      "https://www.eternal.com/"
+    ],
+    [
+      "Hyperpure business overview",
+      "https://www.eternal.com/our-businesses/hyperpure/"
+    ],
+    [
+      "Official inventory-model comparability explanation",
+      "https://www.eternal.com/blog/q3fy26/"
+    ],
+    [
+      "Official FY26 results announcement",
+      "https://www.eternal.com/blog/q4fy26/"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Keep the segment-result and inventory bases attached",
+      "text": "The existing verified table uses external-customer revenue and the financial statement’s segment result. Blinkit revenue after the inventory-model change cannot be compared directly with a marketplace commission total as if the two measured the same activity."
+    },
+    {
+      "title": "Largest revenue is not largest earnings",
+      "text": "The disclosed food-delivery result and the quick-commerce revenue answer different questions. Preserve losses in the other rows, exclude internal transactions as the source does, and reconcile segment results to company profit rather than calling them net earnings."
+    }
+  ],
+  "checked": "29 October 2026"
+}

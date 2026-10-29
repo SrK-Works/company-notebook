@@ -1,0 +1,146 @@
+{
+  "listingLabel": "Listing status not verified",
+  "summary": "A subscription rental service for furniture, appliances and other selected household products, with availability and terms varying by city and plan.",
+  "description": "Rentomojo helps customers use furniture and appliances without buying those items outright at the start. The service must arrange products, deliver and maintain them under the relevant terms, collect rent and manage returns and redeployment. A rented product can serve successive customers over its useful life.",
+  "money": "Revenue comes from rental subscriptions and applicable service or contractual charges. Product sourcing or financing, delivery, maintenance, storage, refurbishment and uncollected payments affect the economics. A refundable security deposit is an obligation under its terms, not automatically rental income.",
+  "customers": "Households, students and professionals seeking furniture or appliances for a location and duration, with different plans and product availability by market.",
+  "drivers": "Asset utilisation, realised rent, customer retention, collections, product life, logistics density, maintenance and financing costs.",
+  "groups": [
+    {
+      "title": "Furniture rentals",
+      "examples": "Beds, sofas, wardrobes, tables, chairs and selected furnishing packages.",
+      "explanation": "Customers pay for use under the rental agreement. The operator must manage delivery, condition and the product’s ability to serve another customer after return."
+    },
+    {
+      "title": "Appliance rentals",
+      "examples": "Refrigerators, washing machines, air conditioners, televisions and other available appliances.",
+      "explanation": "Installation, reliability, maintenance and energy or technical specifications influence customer choice and service costs."
+    },
+    {
+      "title": "Packages and subscription plans",
+      "examples": "Bundled furniture or appliance arrangements, including relevant subscription options.",
+      "explanation": "A lower monthly price may have different tenure and closure terms. Read the selected plan rather than assuming all rentals are interchangeable."
+    },
+    {
+      "title": "Service and reverse logistics",
+      "examples": "Delivery, installation, relevant maintenance, relocation and return arrangements under the plan.",
+      "explanation": "The rental experience continues after delivery. Service quality and the cost of collecting, repairing and redeploying items are part of the business."
+    }
+  ],
+  "basics": [
+    {
+      "title": "The same asset can earn repeatedly, but not continuously by default",
+      "text": "An item earns while deployed with a paying customer. Time spent awaiting delivery, stored between customers or under repair can reduce utilisation. Products also wear out or become less desirable. Repeated rentals must cover the cost of obtaining, serving and eventually retiring the item."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Arrange suitable rental products",
+      "text": "Source items and organise their funding, storage and readiness for use."
+    },
+    {
+      "title": "Match and deliver",
+      "text": "Agree the customer’s plan and deliver or install the relevant product."
+    },
+    {
+      "title": "Collect rent and provide service",
+      "text": "Manage invoices, payment collection and covered maintenance during the term."
+    },
+    {
+      "title": "Return, refurbish and redeploy",
+      "text": "Inspect returned items, repair or prepare them, and seek the next suitable customer or disposal route."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Utilisation is an operating and cash question",
+      "text": "A large product fleet is useful only if enough of it earns collectible rental income. Follow deployed versus idle assets, repair downtime and the time between customers where disclosed. Registered users or website orders do not establish paid utilisation."
+    },
+    {
+      "title": "Customer tenure affects the recovery of acquisition costs",
+      "text": "Delivery, installation and bringing in a customer can require spending early in the relationship. A customer leaving sooner than expected changes the economics even if an early-closure charge applies. Contractual charges must still be collectible."
+    },
+    {
+      "title": "Deposits, recurring rent and asset spending are different",
+      "text": "A deposit may be refundable subject to the contract. Rent is earned over the relevant service period, while obtaining rental assets can require cash earlier. Accounting depreciation or lease expenses and actual cash payments may follow different schedules."
+    }
+  ],
+  "watch": [
+    [
+      "Do rental assets earn for enough of their useful life?",
+      "Idle or damaged products can reduce returns.",
+      "Read paid deployment, utilisation, downtime, average rental duration and useful-life assumptions where disclosed. Do not treat the fleet’s purchase value or a delivery count as rental revenue."
+    ],
+    [
+      "Are rentals being collected and customers retained?",
+      "Invoiced rent and collected money can differ.",
+      "Examine overdue balances, credit losses, cancellations, refunds and renewal behaviour. Separate newly acquired customers from repeat or continuing rentals and identify the stated cohort and period."
+    ],
+    [
+      "Do service and logistics costs support the plan economics?",
+      "Each move and repair consumes resources.",
+      "Read delivery density, installation, maintenance, reverse-logistics and refurbishment costs. A plan advertised with covered maintenance still creates a cost for the operator."
+    ],
+    [
+      "Can the business fund products before rental cash arrives?",
+      "Growth can consume cash even when recurring revenue rises.",
+      "Check product purchasing or leasing, financing terms, depreciation, borrowing and operating cash flow. Refundable deposits should not be treated as freely distributable profit."
+    ],
+    [
+      "Are plan promises and company identity clear?",
+      "City and contract terms differ, and investment status needs verification.",
+      "Use the current official plan and agreement for tenure, closure, damage and deposit terms. Separately verify company identity, exchange listing and audited reporting; an IPO filing or issue-information page alone is not proof that shares trade."
+    ]
+  ],
+  "risks": [
+    [
+      "Underutilised or obsolete products",
+      "Changing demand, wear and long idle periods can lower the return on the rental fleet."
+    ],
+    [
+      "Collection and early-exit losses",
+      "Customers may stop paying, leave early or dispute charges, reducing realised income."
+    ],
+    [
+      "Service and return costs exceed expectations",
+      "Damage, repairs, storage and frequent moves can consume the benefit of recurring rent."
+    ],
+    [
+      "Funding or expansion outruns cash recovery",
+      "A growing fleet and new locations need money before customer rentals repay that investment."
+    ]
+  ],
+  "context": [
+    "Read the complete rental cycle",
+    "The business does not finish at delivery. The condition of returned goods, cost of refurbishment and speed of finding another paying user can materially change lifetime asset economics. This helps explain why recurring rental revenue alone is an incomplete measure of success."
+  ],
+  "quiz": [
+    "Is a refundable customer deposit the same as profit from renting a product?",
+    "No. Its repayment and permitted deductions depend on the agreement. Rental earnings must be assessed after product, service, collection and financing costs, and the deposit obligation must remain separate."
+  ],
+  "sources": [
+    [
+      "Official Bangalore rental catalogue and service description",
+      "https://www.rentomojo.com/bangalore"
+    ],
+    [
+      "Official Hyderabad rental and plan information",
+      "https://www.rentomojo.com/hyderabad"
+    ],
+    [
+      "Published rental agreement: check current applicable plan",
+      "https://www.rentomojo.com/public/tnc/rental-tnc.pdf"
+    ],
+    [
+      "Official contact and company identity",
+      "https://www.rentomojo.com/contact"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Verify the legal entity and financial scope first",
+      "text": "Financial figures and current exchange-listing status have not been verified for this profile. Obtain the relevant audited accounts before calculating profitability. Separate rental revenue, refundable deposits, asset purchasing or leasing, depreciation, financing costs and cash collection; subscription receipts are not automatically free cash."
+    }
+  ],
+  "checked": "29 October 2026"
+}

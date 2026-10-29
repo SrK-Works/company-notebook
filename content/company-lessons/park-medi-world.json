@@ -1,0 +1,149 @@
+{
+  "summary": "The Park Hospitals network supplies outpatient, inpatient, emergency and specialist care through hospitals with different service capabilities.",
+  "description": "Park Medi World operates a multispeciality hospital business. Its offering combines medical teams, beds, diagnostic and treatment facilities, nursing and hospital operations. A hospital building is capacity; services actually delivered, their costs and collection determine the business result.",
+  "money": "Revenue comes from consultations, hospital stays, procedures and related healthcare services. Staff, doctors, medicines, consumables, equipment, premises and administrative costs affect earnings; payment may come from patients, insurers or other agreed payers.",
+  "customers": "Patients use the services, while households, insurers, employers or government and other healthcare schemes can pay under different arrangements. The patient and payer are not always the same person or organisation.",
+  "drivers": "Operational capacity, patient activity, service mix, occupancy, costs, medical-team availability, payer terms, cash collection and the maturity of newer hospitals.",
+  "groups": [
+    {
+      "title": "Outpatient and diagnostic services",
+      "examples": "Consultations, investigations and follow-up services.",
+      "explanation": "Patients may receive care without an overnight admission. Activity and revenue measures differ from bed-based inpatient services."
+    },
+    {
+      "title": "Inpatient and critical care",
+      "examples": "Admissions, intensive-care services and hospital stays.",
+      "explanation": "Operational beds, staffing, length of stay and the complexity of cases influence capacity and cost."
+    },
+    {
+      "title": "Medical and surgical specialties",
+      "examples": "Cardiac, neuro, renal, cancer, orthopaedic and other services shown in the official directory.",
+      "explanation": "Specialties describe what is offered; the directory does not establish separate profits or clinical superiority."
+    },
+    {
+      "title": "Women’s, children’s and other care",
+      "examples": "Maternity, paediatric, internal-medicine and related services where available.",
+      "explanation": "Services and specialist teams vary by facility. A group catalogue should not be read as identical capability at every site."
+    }
+  ],
+  "basics": [
+    {
+      "title": "Occupancy is not a measure of treatment quality",
+      "text": "Bed occupancy measures use of the defined operational capacity. It helps explain hospital economics, but does not by itself establish clinical outcomes, appropriateness of care or patient experience."
+    },
+    {
+      "title": "Revenue per occupied bed is a mix measure",
+      "text": "The company may use a measure of revenue per occupied bed over time. More complex cases, payer contracts and pricing can change it; it is not simply the price every patient pays."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Build the service capability",
+      "text": "Arrange facilities, equipment, licences and appropriately qualified teams."
+    },
+    {
+      "title": "Receive and treat patients",
+      "text": "Provide consultations or admissions according to clinical needs and available services."
+    },
+    {
+      "title": "Record and bill services",
+      "text": "Bills follow the services delivered and the relevant payer agreement."
+    },
+    {
+      "title": "Collect and reinvest",
+      "text": "Receive payments and fund staff, supplies, maintenance and future capacity."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Installed beds and operational beds differ",
+      "text": "A bed only contributes when the facility, equipment and staffing allow it to be used. Read which denominator is used in occupancy and capacity announcements."
+    },
+    {
+      "title": "A hospital can grow before it matures",
+      "text": "New or acquired facilities need teams, local referral relationships and patient demand. Compare established and newer sites rather than assuming all capacity earns at the same rate."
+    },
+    {
+      "title": "Payment terms affect cash",
+      "text": "A bill raised to an insurer or scheme may take longer to collect than a direct payment. Revenue growth and reported profit need to be read alongside receivables and operating cash flow."
+    }
+  ],
+  "watch": [
+    [
+      "Is the usable hospital network becoming more productive?",
+      "Separate operational capacity from announced additions.",
+      "Read operational beds, occupancy and patient volumes on a consistent basis. Identify newly opened, acquired or managed hospitals and avoid treating planned beds as currently staffed capacity."
+    ],
+    [
+      "What explains the change in revenue per patient or bed?",
+      "Service and payer mix can change reported averages.",
+      "Read inpatient/outpatient activity, average length of stay, specialty mix and payer mix where disclosed. A higher average can reflect more complex treatment rather than the same service being priced higher."
+    ],
+    [
+      "Are clinical teams and quality systems keeping pace?",
+      "Expansion requires people and dependable processes.",
+      "Use official accreditation, staffing and regulatory disclosures without treating marketing claims as outcome evidence. Assess the facility, date and scope of any issue and the response rather than recommending treatment from financial indicators."
+    ],
+    [
+      "Are bills converting to cash?",
+      "Receivables can absorb operating money.",
+      "Compare revenue, receivable ageing, insurer or scheme exposure and operating cash flow. Ask whether delays reflect normal payer terms, disputed bills or deteriorating collection rather than assuming all outstanding bills are losses."
+    ],
+    [
+      "Are new hospitals earning enough on their cost?",
+      "Scale needs investment and a maturity period.",
+      "Read project spending, acquisitions, lease or operating arrangements, start-up expenses and subsequent activity. Compare comparable hospitals and separate expansion-related costs from the performance of established sites."
+    ]
+  ],
+  "risks": [
+    [
+      "Team availability",
+      "Difficulty recruiting or retaining qualified teams can restrict usable capacity."
+    ],
+    [
+      "Clinical and regulatory obligations",
+      "Safety, compliance and service-quality failures can cause disruption and liabilities."
+    ],
+    [
+      "Payer and collection pressure",
+      "Contract rates, disputed claims and slow payments can affect earnings and cash."
+    ],
+    [
+      "Expansion execution",
+      "New facilities may take longer to mature while staffing and property costs continue."
+    ]
+  ],
+  "context": [
+    "Operating agreements need their own reading",
+    "Park’s investor history includes acquisitions and an operation-and-maintenance agreement. Managing a facility, owning its property and owning its operating company can create different commitments; read the actual agreement and group scope."
+  ],
+  "quiz": [
+    "Would adding beds alone prove that hospital earnings will rise?",
+    "No. The beds must be operational, staffed and used for appropriate care, with payment sufficient to cover the associated costs. Capacity and profitable utilisation are different measures."
+  ],
+  "sources": [
+    [
+      "Official investor and hospital-network history",
+      "https://www.parkhospital.in/index.php/investor-relations"
+    ],
+    [
+      "Official service directory",
+      "https://www.parkhospital.in/"
+    ],
+    [
+      "FY 2025–26 annual report",
+      "https://www.parkhospital.in/public/uploads/financial-annual-report/Annual%20Report%202025-2026.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "The table is the healthcare group, not a specialty ranking",
+      "text": "The existing verified snapshot reports consolidated healthcare revenue and profit after tax. It does not show whether cardiology, oncology or a particular hospital earns the most."
+    },
+    {
+      "title": "Profit and cash answer different questions",
+      "text": "Read the stated group and tax basis, then check receivables, operating cash flow, capital expenditure and lease or other commitments before concluding how much money is available after expansion."
+    }
+  ],
+  "checked": "29 October 2026"
+}

@@ -1,0 +1,150 @@
+{
+  "summary": "An engineering group building infrastructure and energy projects, manufacturing complex equipment and supplying technology and financial services.",
+  "description": "Larsen & Toubro serves organisations commissioning buildings, transport links, energy facilities and industrial equipment. Its group also contains technology, finance and development businesses. A construction contract, a software service and a loan are different economic activities even when reported within the same group.",
+  "money": "Project businesses earn by delivering contracted engineering, procurement and construction work. Manufacturing and service businesses earn under their own supply arrangements, while financial services has lending economics. Contract execution, material costs, cash collection and group reporting determine how activity becomes earnings.",
+  "customers": "Governments, infrastructure owners, energy and industrial companies, technology clients, property customers and financial-services borrowers.",
+  "drivers": "Order quality, execution progress, project margins, customer certification and payment, funding costs, service demand and investment needs.",
+  "groups": [
+    {
+      "title": "Infrastructure construction",
+      "examples": "Buildings and factories, transport, heavy civil works, water, power networks and related engineering.",
+      "explanation": "Clients buy a completed asset or defined construction scope. Land, permits, design, suppliers and site execution must come together."
+    },
+    {
+      "title": "Energy projects",
+      "examples": "Hydrocarbon and power-related engineering and relevant low-carbon energy capabilities.",
+      "explanation": "Large technical contracts can run for long periods. Completion conditions, cost escalation and customer decisions affect execution."
+    },
+    {
+      "title": "Hi-tech manufacturing",
+      "examples": "Heavy engineering, precision systems and specialised industrial equipment.",
+      "explanation": "Qualification, design expertise, manufacturing quality and delivery milestones can matter more than simple unit volume."
+    },
+    {
+      "title": "Technology and financial services",
+      "examples": "Group IT and engineering services, alongside L&T Finance.",
+      "explanation": "Technology contracts depend on client spending and skilled people. Lending requires funding and credit assessment; it cannot be analysed as a construction contract."
+    },
+    {
+      "title": "Development and other businesses",
+      "examples": "Property development, relevant infrastructure investments and industrial products.",
+      "explanation": "Some activities require investment before operating income or property sales arrive. Read which entity owns the asset and how it is accounted for."
+    }
+  ],
+  "basics": [
+    {
+      "title": "EPC means responsibility for delivering a project",
+      "text": "Engineering designs the asset, procurement arranges materials and equipment, and construction puts it into use. The contractor must deliver the agreed scope on the contract’s commercial terms; a large contract is not automatically a profitable one."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Bid and agree scope",
+      "text": "Assess design, schedule, risk allocation and customer payment terms before accepting an order."
+    },
+    {
+      "title": "Execute and manage suppliers",
+      "text": "Arrange engineering, equipment, people and site work while controlling quality and cost."
+    },
+    {
+      "title": "Record progress and bill",
+      "text": "Recognise work under the relevant accounting policy and seek milestone or progress certification."
+    },
+    {
+      "title": "Collect and complete obligations",
+      "text": "Collect payments, resolve claims and meet testing, handover and warranty commitments."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "An order book is future work, not current revenue",
+      "text": "Orders can execute over different periods and may face delays, changes or cancellation. Understand the executable portion, customer readiness and remaining obligations rather than treating the entire backlog as the next year’s sales."
+    },
+    {
+      "title": "Progress, billing and cash can happen at different times",
+      "text": "Contract assets can arise when recorded work is not yet unconditionally billable; receivables represent amounts due. Advances, retention and certification create different cash patterns. Reported profit can rise while cash remains tied up."
+    },
+    {
+      "title": "The group has several profit engines",
+      "text": "Construction, technology and finance have different cost structures and capital needs. In particular, funding costs are part of a lender’s economics. Use each reported segment’s definition and the group reconciliation before ranking contributions."
+    }
+  ],
+  "watch": [
+    [
+      "Is the order book executable at acceptable terms?",
+      "Order size alone does not establish future earnings.",
+      "Read contract mix, geography, customer funding, schedule and management’s execution commentary. Distinguish signed orders, pipeline opportunities and work actually delivered."
+    ],
+    [
+      "Can execution protect margins?",
+      "Long contracts face material, labour and subcontracting changes.",
+      "Compare progress and segment results with pricing terms, escalation protection, delays and claims. A fixed-price order and a reimbursable contract transfer different risks."
+    ],
+    [
+      "Is project profit becoming cash?",
+      "Recorded work may be awaiting billing or collection.",
+      "Read contract assets, receivables, retention, advances and operating cash flow. Investigate overdue balances and claims rather than assuming all accounting revenue has been collected."
+    ],
+    [
+      "How do the service and finance businesses perform?",
+      "Their earnings do not follow the same project cycle.",
+      "Read technology client demand and staffing separately from finance growth, funding cost and credit losses. Check subsidiary and consolidated scope rather than treating the parent’s name as one uniform activity."
+    ],
+    [
+      "Is invested capital earning enough?",
+      "Development assets and new facilities can absorb funding.",
+      "Compare investment spending, asset commissioning, debt, guarantees and disposals with the cash and earnings they produce. Separate recurring operating performance from exceptional gains."
+    ]
+  ],
+  "risks": [
+    [
+      "Execution delays and overruns",
+      "Permits, customer readiness, suppliers or site conditions can delay billing and increase costs."
+    ],
+    [
+      "Uncollectible claims and customer payments",
+      "Disputed work or financially stressed customers can leave cash trapped or require write-downs."
+    ],
+    [
+      "Different group exposures weaken together",
+      "Technology demand, credit losses and project cycles can all affect the group in different ways."
+    ],
+    [
+      "Funding and overseas risk",
+      "Currency changes, guarantees, local regulations and capital-intensive investments can increase uncertainty."
+    ]
+  ],
+  "context": [
+    "A completion milestone can change the cash story",
+    "A project approaching handover may still need testing, customer acceptance and release of retention. Finishing physical work is therefore different from completing every commercial obligation or collecting all the money."
+  ],
+  "quiz": [
+    "Does winning a very large contract mean L&T has earned its full value?",
+    "No. An order must be executed, recognised under the relevant accounting policy, billed and collected. Its costs and remaining obligations determine what earnings and cash ultimately result."
+  ],
+  "sources": [
+    [
+      "Official group and business overview",
+      "https://www.larsentoubro.com/corporate/about-lt-group"
+    ],
+    [
+      "FY 2025–26 integrated annual report",
+      "https://investors.larsentoubro.com/upload/AnnualRep/FY2026AnnualRepLNTIARFY2026.pdf"
+    ],
+    [
+      "Audited FY 2025–26 segment results",
+      "https://investors.larsentoubro.com/upload/Quarterly/FY2026QuarterlyLTResultMarch2026.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Read construction size separately from earnings leadership",
+      "text": "The verified consolidated table groups several types of business. Infrastructure Projects has the largest revenue, while IT & Technology Services has the largest reported segment result in this period. That result is not net profit or cash collected."
+    },
+    {
+      "title": "Internal work and group adjustments still matter",
+      "text": "Reported segment revenue includes internal sales, which are removed when reconciling to net group revenue. Other finance costs, unallocated items, exceptional items and tax also separate the segment-result total from company profit."
+    }
+  ],
+  "checked": "29 October 2026"
+}

@@ -1,0 +1,145 @@
+{
+  "summary": "A banking network serving household savings, payments and loans alongside agriculture, small-business, corporate and international finance.",
+  "description": "State Bank of India supplies deposit accounts, payment services and finance to households, farms and businesses. It must fund lending, assess credit, operate a broad service network and collect repayments. Its digital platforms are routes to these services rather than separate products with automatically disclosed profits.",
+  "money": "SBI earns interest on loans and investments and fees from banking activities. Deposit and borrowing costs, staff, systems and credit losses reduce earnings. The bank and its wider financial-services group have different reporting scopes.",
+  "customers": "Retail depositors and borrowers, farmers, small enterprises, large companies, government-related customers and international clients.",
+  "drivers": "Funding cost, lending quality, loan and investment yields, fee income, operating costs, capital and liquidity.",
+  "groups": [
+    {
+      "title": "Everyday household banking",
+      "examples": "Savings and term deposits, payments, home, vehicle, personal and education loans.",
+      "explanation": "The bank combines a funding relationship with payments and relevant credit services; each has different costs and risks."
+    },
+    {
+      "title": "Agriculture and small-business finance",
+      "examples": "Farm lending, Kisan Credit Card facilities and SME banking.",
+      "explanation": "Cash flows may depend on crop seasons, local demand and business turnover. More lending requires careful borrower assessment."
+    },
+    {
+      "title": "Corporate, government and international services",
+      "examples": "Corporate finance, project lending, trade finance, collections and cross-border banking.",
+      "explanation": "Large customers can create concentrated exposures and complex contracts, with different repayment and liquidity needs."
+    },
+    {
+      "title": "Digital and wider group services",
+      "examples": "YONO SBI, yono Business and relevant group financial services.",
+      "explanation": "Apps provide access and distribution. Insurance, investment management and card businesses in the wider group must be read under their own entity and accounting scope."
+    }
+  ],
+  "basics": [
+    {
+      "title": "Being widely used is different from earning an attractive return",
+      "text": "A large branch network and customer base can support deposits and distribution, but need people, systems and controls. The business question is what those relationships earn after funding costs, servicing expenses and losses, relative to the capital required."
+    },
+    {
+      "title": "Credit quality, capital and liquidity answer different questions",
+      "text": "A provision recognises expected credit losses through an accounting allowance or charge. A non-performing loan is a loan classified as troubled under the applicable rules. Regulatory capital helps absorb losses, whereas liquidity is the ability to meet payments as due. A large deposit base does not remove the need to monitor these separately."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Gather and service deposits",
+      "text": "Offer customers accounts, payments and access while managing funding cost and withdrawal needs."
+    },
+    {
+      "title": "Evaluate and deploy funds",
+      "text": "Lend to eligible borrowers and hold investments within risk and regulatory limits."
+    },
+    {
+      "title": "Collect, monitor and provision",
+      "text": "Receive repayments, identify stress and recognise expected losses."
+    },
+    {
+      "title": "Maintain resilience",
+      "text": "Retain liquidity, capital and operational capacity to continue serving customers."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Credit quality is a flow as well as a stock",
+      "text": "The non-performing loan balance is a snapshot. Fresh slippages, recoveries, upgrades and write-offs explain how it changed. A falling balance alone does not prove that new lending has become safer."
+    },
+    {
+      "title": "Loan mix changes the business",
+      "text": "Home, agricultural, unsecured personal and corporate loans have different security, repayment patterns and economic sensitivities. Compare growth and losses by available category instead of treating every loan as equivalent."
+    },
+    {
+      "title": "YONO activity is a service indicator",
+      "text": "Digital adoption can improve access and efficiency, but transaction counts and registrations are not revenue. Read digital activity with customer retention, operating costs and fraud and resilience controls."
+    }
+  ],
+  "watch": [
+    [
+      "Can deposits fund the chosen pace of lending?",
+      "The bank needs stable funding as assets grow.",
+      "Compare deposit growth, current/savings and term-deposit mix, funding costs and liquidity. A higher loan-to-deposit ratio is a signal to investigate, not a stand-alone verdict."
+    ],
+    [
+      "Are new credit problems being contained?",
+      "A cleaner reported loan book can have several causes.",
+      "Read fresh slippages, recoveries, write-offs, restructuring and provisioning alongside gross and net problem loans. Check comparable definitions and periods."
+    ],
+    [
+      "What explains interest earnings and margin?",
+      "Asset and funding rates reset on different schedules.",
+      "Use the stated interest-margin basis and management’s explanation of funding costs, investment yields and loan mix. Keep trading gains and recurring lending income distinct."
+    ],
+    [
+      "Does the network operate efficiently and reliably?",
+      "Service reach has costs as well as benefits.",
+      "Read operating expenses, employee costs and technology investment with the cost-to-income ratio and service-risk disclosures. Account growth or app usage alone does not prove better efficiency."
+    ],
+    [
+      "What belongs to the bank and what belongs to the group?",
+      "Subsidiaries can change consolidated results.",
+      "Compare standalone and consolidated accounts consistently, identify subsidiary contributions and then check capital adequacy and liquidity. Do not use a group profit figure with only parent-bank assets to calculate returns."
+    ]
+  ],
+  "risks": [
+    [
+      "Credit losses rise with economic stress",
+      "Farm, household and corporate borrowers can face different shocks, increasing provisions and weakening collections."
+    ],
+    [
+      "Deposit costs rise faster than asset yields",
+      "Competition and rate-reset timing can compress interest earnings."
+    ],
+    [
+      "Scale makes control failures consequential",
+      "Cyber incidents, fraud, outages or compliance failures can affect a wide customer base."
+    ],
+    [
+      "Capital or liquidity constrains expansion",
+      "Regulatory buffers, concentration and funding needs limit the growth the bank can support."
+    ]
+  ],
+  "context": [
+    "Check how an interest-margin ratio is defined",
+    "Banks can calculate margin using specified domestic, overseas or total earning-asset bases. A ratio copied without its basis can produce a misleading comparison with another bank or another period. Read the footnote before ranking performance."
+  ],
+  "quiz": [
+    "If a bank’s bad-loan balance falls, must borrowers have repaid all of the reduction?",
+    "No. Recoveries are only one explanation. Upgrades, write-offs, sales and other movements can also change the balance. Read the movement and cash collection together."
+  ],
+  "sources": [
+    [
+      "SBI corporate and product overview",
+      "https://sbi.bank.in/web/about-us"
+    ],
+    [
+      "Official FY 2025–26 annual report",
+      "https://sbi.bank.in/documents/17836/58092042/Annual%2BReport%2BFY2026.pdf/0f165880-8752-4d67-6d87-422984f5cc3f?t=1778164340579"
+    ],
+    [
+      "yono Business service overview",
+      "https://yonobusiness.sbi.bank.in/"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Verify the bank-specific financial measures",
+      "text": "This profile’s financial snapshot awaits checking. Use the original period and distinguish interest earned, net interest income, fee income and profit. Deposit and loan balances are not product sales, and standalone-bank ratios cannot be mixed with consolidated-group profit."
+    }
+  ],
+  "checked": "29 October 2026"
+}

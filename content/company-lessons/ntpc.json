@@ -1,0 +1,141 @@
+{
+  "summary": "A power-generation group supplying electricity from thermal and renewable assets, with fuel supply and newer energy activities alongside them.",
+  "description": "NTPC develops and operates electricity-generation assets and sells electricity under the applicable commercial and regulatory arrangements. Its activities also include coal mining, power trading and energy services. The route from a proposed plant to commissioned generation, billed electricity and cash collection is central to understanding the business.",
+  "money": "Electricity sales and the applicable tariff or contractual arrangements generate operating revenue. Fuel, operations, maintenance, financing and asset costs affect earnings. The terms can distinguish capacity availability and energy supplied; not every project earns on the same basis.",
+  "customers": "Distribution companies, utilities and other contracted electricity buyers, with different customers for trading and consultancy services.",
+  "drivers": "Asset commissioning, contracted terms, availability, dispatch, fuel supply and efficiency, customer collections and the cost of expansion.",
+  "groups": [
+    {
+      "title": "Thermal electricity generation",
+      "examples": "Coal-based and gas-based generating assets.",
+      "explanation": "Fuel supply, plant condition, availability, efficiency and dispatch affect the cost and quantity of power supplied."
+    },
+    {
+      "title": "Renewable generation and related development",
+      "examples": "Solar, wind and hydro activities across relevant group entities.",
+      "explanation": "Weather, resource quality, connection and project terms differ from fuel-based generation. Development capacity is not the same as operating output."
+    },
+    {
+      "title": "Fuel and energy-support activities",
+      "examples": "Coal mining, power trading and relevant consultancy or training services.",
+      "explanation": "These can support the generation ecosystem but have different customers and accounting from a generating station."
+    },
+    {
+      "title": "Emerging energy investments",
+      "examples": "Storage, green hydrogen, nuclear development and other disclosed energy-transition initiatives.",
+      "explanation": "Identify the project stage and commercial arrangement. A target, study or approval is not a completed operating asset."
+    }
+  ],
+  "basics": [
+    {
+      "title": "Capacity and generation measure different things",
+      "text": "Capacity describes how much power a plant can produce at a time under specified conditions. Generation measures energy actually produced over a period. A larger capacity total does not automatically establish more electricity sold, better efficiency or higher profit."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Develop and finance the project",
+      "text": "Obtain the relevant permissions, fuel or resource arrangements, customer commitments and funding."
+    },
+    {
+      "title": "Construct and commission",
+      "text": "Build, test and connect the asset before it enters commercial operation under the applicable terms."
+    },
+    {
+      "title": "Operate and supply power",
+      "text": "Keep equipment available, arrange fuel where needed and generate as dispatched or contracted."
+    },
+    {
+      "title": "Bill and collect",
+      "text": "Apply the relevant tariff or contract, recover eligible charges and collect from buyers."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Availability and dispatch are not identical",
+      "text": "An available plant is ready to operate. Dispatch determines when and how much it is called to generate. Plant load factor describes actual utilisation on its stated basis. Read both technical performance and commercial terms before linking generation to earnings."
+    },
+    {
+      "title": "Tariffs determine which costs and returns can be recovered",
+      "text": "Regulated or contracted arrangements can contain different capacity and energy components, efficiency norms and incentives. Do not assume every fuel-cost increase is instantly reimbursed or every plant receives the same guaranteed return."
+    },
+    {
+      "title": "Billing is different from collecting cash",
+      "text": "Electricity supplied can create receivables from distribution companies and other buyers. Delayed payments can leave a profitable operation funding customers while it also finances construction and fuel requirements."
+    }
+  ],
+  "watch": [
+    [
+      "Are projects reaching commercial operation on useful terms?",
+      "Unfinished capacity uses money before regular earnings arrive.",
+      "Read commissioning dates, remaining construction, connection readiness, customer arrangements and costs. Keep planned, under-construction and operational capacity separate."
+    ],
+    [
+      "Do availability, generation and efficiency support earnings?",
+      "A plant can be available without being heavily dispatched.",
+      "Compare availability, plant load factor, heat-rate or other disclosed efficiency measures with fuel and demand commentary. Use the correct thermal or renewable measure."
+    ],
+    [
+      "What does the applicable tariff actually recover?",
+      "Revenue depends on the commercial mechanism.",
+      "Read regulated-tariff and power-purchase-agreement disclosures for recovery conditions, efficiency norms and incentives. Identify disallowances, adjustments and claims rather than assuming all costs pass through."
+    ],
+    [
+      "Are buyers paying on time?",
+      "Receivables affect funding and cash.",
+      "Compare receivable ageing, collections, provisions and operating cash flow with billed revenue. A higher revenue total is not proof that buyers settled their bills."
+    ],
+    [
+      "Can the group finance its energy transition?",
+      "Expansion needs debt, equity and execution capacity.",
+      "Read capital spending, borrowings, interest, subsidiaries and joint ventures, and commitments for new technologies. A development target should not be counted as current earnings."
+    ]
+  ],
+  "risks": [
+    [
+      "Fuel, equipment or resource constraints",
+      "Supply interruptions, outages or weather variability can affect operation and costs."
+    ],
+    [
+      "Tariff and contractual outcomes",
+      "Regulatory decisions, efficiency norms or disputed recoveries can change earnings."
+    ],
+    [
+      "Delayed customer collections",
+      "Distribution-company stress or disputes can tie up cash and increase funding needs."
+    ],
+    [
+      "Construction and transition risks",
+      "Delayed projects, rising costs and unfamiliar technologies can reduce returns on expansion."
+    ]
+  ],
+  "context": [
+    "A renewable target is not the same as renewable generation",
+    "A target describes ambition. The investor must follow permissions, construction, connection, commercial operation and actual output. Each stage provides different evidence about timing, cost and the ability to earn."
+  ],
+  "quiz": [
+    "If generating capacity rises, must cash collections rise at the same pace?",
+    "No. Capacity must become operational, supply power under its terms, be billed and then be collected. Dispatch, costs and payment delays can change the result."
+  ],
+  "sources": [
+    [
+      "NTPC official business overview",
+      "https://ntpc.co.in/about-us"
+    ],
+    [
+      "Business-development activities",
+      "https://ntpc.co.in/about-us/corporate-functions/business-development"
+    ],
+    [
+      "Annual-report library",
+      "https://ntpc.co.in/investors/financial-performance/annual-reports"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Verify scope before comparing generation businesses",
+      "text": "This profile’s financial snapshot still awaits verification. Use the original audited company and group accounts, identifying subsidiaries and joint ventures. Capacity and generation are operating measures, not revenue or profit, and a tariff-based return is not the same as net profit."
+    }
+  ],
+  "checked": "29 October 2026"
+}

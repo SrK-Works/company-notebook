@@ -4,8 +4,8 @@ Mobile-friendly research prototype for Indian stock-market beginners.
 
 ## Run
 
-Serve `dist/` with a local HTTP server. No build or dependency installation is required.
-The entrypoint loads `data.js`, `company-expansion.js`, `overviews.js`, `product-images.js`, `gallery.js`, `financial-data.js`, `financials.js`, `research-guides.js`, `hul-primer.js`, `itc-primer.js`, `nestle-primer.js`, `britannia-primer.js`, `marico-primer.js`, `dmart-primer.js`, `app.js` and `style.css`. Navigation uses hash routes,
+Serve `dist/` with a local HTTP server. No dependency installation is required to run the checked-in site. After editing company lesson JSON files, regenerate their bundle with `node scripts/build-company-lessons.cjs`.
+The entrypoint loads `data.js`, `company-expansion.js`, `overviews.js`, `product-images.js`, `gallery.js`, `financial-data.js`, `financials.js`, `research-guides.js`, `hul-primer.js`, `itc-primer.js`, `nestle-primer.js`, `britannia-primer.js`, `marico-primer.js`, `dmart-primer.js`, `profile-lessons.js`, `company-lessons.js`, `app.js` and `style.css`. Navigation uses hash routes,
 so company links work on static hosting. `.openai/hosting.json` retains the Sites project identity.
 
 ## Live website
@@ -15,8 +15,8 @@ GitHub Pages publishes `dist/` automatically after each push to `main`:
 
 ## Features
 
-- Product-first company pages: the visual shelf appears immediately after the company header, followed by the one-minute overview, ownership context and deeper research. The business description appears once; the ownership section explains the listed entity rather than repeating the overview.
-- A one-minute overview on all 35 profiles: activities, paying customers, earnings, profit drivers and a next research question. Summaries reuse existing sourced explanations; customer and profit-driver copy lives in `dist/overviews.js`.
+- Product-first company pages: the visual shelf appears immediately after the company header, followed by the one-minute overview, product and business foundations, operating mechanics and deeper research. All 35 profiles omit the generic share-ownership tutorial.
+- A one-minute overview on all 35 profiles: activities, paying customers, earnings, profit drivers and a next research question. The six earlier primers and 29 independently authored lessons supply the company-specific summaries, customers and profit drivers.
 - Thirty-five company profiles, company/brand/ticker search and business-type filters. Multiword search matches words across company names, aliases and offerings (for example, “ITC Gold Flake”).
 - Cards and profile headers omit fixed reading-time estimates; the approximate one-minute overview label remains.
 - Device-local saved reading list, source references, business-model explanations,
@@ -75,7 +75,7 @@ then decide on shared feedback storage and editorial update tooling. Review imag
 
 ## Beginner learning sequence
 
-Company pages show products first, then the one-minute overview, ownership and business mechanics, offering details, company-specific investigation questions, risks and research context. The self-check precedes the final learning section, Follow the money; original sources and feedback follow it. The four-step path and desktop contents mirror this order.
+Company pages show products first, then the one-minute overview, product foundations and business mechanics, offering details, company-specific investigation questions, risks and research context. The self-check precedes the final learning section, Follow the money; original sources and feedback follow it. The four-step path and desktop contents mirror this order.
 
 `dist/research-guides.js` supplies three editorial investigation instructions per base profile; the HUL deep dive extends its own list to five. They explain what to compare and what evidence to seek, not a finding that the business is doing well or a claim that every metric is disclosed. They are revealed on demand to keep the first read short. The final numbers section explicitly identifies cash flow, debt and valuation as work still to do. The overview’s opening explanation is not repeated in the business mechanics.
 
@@ -136,6 +136,19 @@ The new FY 2025–26 financial snapshot uses the audited consolidated annual col
 
 ### Review sequence
 
-Detailed profiles completed: HUL, ITC, Nestlé India, Britannia, Marico and DMart. The next company in collection order is Titan, followed by Asian Paints and UltraTech Cement. The remaining 29 profiles retain their earlier explanations until individually researched and reviewed. Completion requires product-first teaching, relevant mechanics, company-specific questions, dated primary sources, numbers-last reporting and responsive verification; adding length alone is not a completion criterion.
+Detailed business lessons now cover all 35 companies. The remaining 29, starting with Titan, were individually researched in this release. Completion requires product-first teaching, relevant mechanics, company-specific questions, dated primary sources, numbers-last reporting and responsive verification; adding length alone is not a completion criterion.
 
 DMart validation: all 26 automated checks pass. At 320px, 390px and 768px there is no horizontal overflow, broken section target or failed image; all financial content stays at the end. Parent/group and store-growth disclosures expand correctly. Light/dark themes and phone-width financial cells were inspected with no browser errors. Generic brain icons in Daily Essentials and Dairy/Frozen were replaced with original category-appropriate illustrations; the produce illustration was improved too. New asset paths prevent older cached images appearing, and provenance/alternative text are updated.
+
+
+## Independent company reviews: Titan and the remaining 28
+
+Authoring lives in `content/company-lessons/{company-id}.json`; `scripts/build-company-lessons.cjs` generates `dist/profile-lessons.js`. The shared `dist/company-lessons.js` renderer composes with the earlier six primers and preserves their content and all existing financial records. Each of these 29 lessons explains offering groups, unfamiliar terms, the customer-to-company operating route, distinctive business mechanisms, five investigation questions, risks, a self-check and final financial interpretation.
+
+Three agents researched separate company sets while the parent reviewed Titan, integrated the batch and checked the combined website. Future agents can own different company JSON files without competing to edit shared rendering code. `content/company-lessons/AGENTS.md` defines the source, scope and review rules. This is a reusable review workflow, not an automatic scheduled refresh.
+
+Corrections include neutral listing labels where exchange admission was not verified (Rentomojo, Tonbo Imaging, Glass Wall Systems and Kanohar), and a dated distinction between continuing and discontinued Refex activities. Titan explains gold price versus quantity, inventory funding, reporting definitions and acquisitions. Bank lessons explain provisions, problem loans, capital and liquidity before using them in research prompts. Business-source check dates are distinct from catalogue verification.
+
+Financial coverage remains 17 verified FY 2025–26 snapshots and 18 explicitly pending verification; a completed business lesson does not imply completed financial verification. Existing snapshots and their reporting definitions are unchanged.
+
+Validation: `node --test tests/*.test.cjs` (29 checks) and `node scripts/build-company-lessons.cjs --check`. Browser checks cover all 29 new lessons at 390px and 320px, with representative tablet and desktop checks. The checks cover overflow, section targets, investigation disclosures and financial tables staying in the final learning section. A long-company-name wrapping issue found at 320px was corrected.

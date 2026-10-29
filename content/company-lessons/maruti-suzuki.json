@@ -1,0 +1,137 @@
+{
+  "summary": "A passenger-vehicle manufacturer whose cars reach customers through ARENA, NEXA and related sales and service channels.",
+  "description": "Maruti Suzuki India develops, manufactures and supplies vehicles, parts and related offerings for domestic and export markets. A dealer sale, an export shipment and a service visit are connected activities but are not the same transaction.",
+  "money": "Vehicle and related-product sales generate revenue. Units sold, model mix, realised prices, discounts, materials, production efficiency and investment in new technology affect earnings.",
+  "customers": "Vehicle buyers and businesses served through dealers and related channels, alongside export customers. The manufacturer’s immediate customer can differ from the person registering the car.",
+  "drivers": "Demand, financing affordability, model mix, discounts, material costs, production capacity, exports and technology investment.",
+  "groups": [
+    {
+      "title": "Passenger vehicles",
+      "examples": "Swift, Dzire, WagonR, Ertiga and other models for different budgets and uses.",
+      "explanation": "A hatchback, sedan or multi-purpose vehicle can have different features, selling prices and costs."
+    },
+    {
+      "title": "Sales channels",
+      "examples": "ARENA and NEXA, with commercial-vehicle and institutional channels.",
+      "explanation": "These are routes to buyers, not separate manufacturers or automatically separate profit divisions."
+    },
+    {
+      "title": "Ownership support",
+      "examples": "Genuine parts, accessories, authorised service and related customer programmes.",
+      "explanation": "Availability and after-sales experience affect trust and the next purchase; partner and dealer arrangements matter."
+    },
+    {
+      "title": "Pre-owned and export activity",
+      "examples": "True Value used-car channels and vehicles supplied to overseas markets.",
+      "explanation": "Selling a used vehicle through a channel and manufacturing a new export car involve different roles and accounting."
+    }
+  ],
+  "basics": [
+    {
+      "title": "Dispatch and registration differ",
+      "text": "Wholesale dispatch is supply into the dealer channel. Retail or registration measures describe a later stage. A rise in dealer inventory can create a gap between them."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Develop and source",
+      "text": "Design the model and arrange components, technology and supplier capacity."
+    },
+    {
+      "title": "Manufacture and check",
+      "text": "Build and test vehicles while managing factory capability, quality and supply interruptions."
+    },
+    {
+      "title": "Supply the market",
+      "text": "Dispatch to domestic dealers or export channels, with logistics and stock needs."
+    },
+    {
+      "title": "Support ownership",
+      "text": "Parts, repairs and the buying experience influence customer satisfaction and replacement purchases."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Model mix changes the sales story",
+      "text": "Revenue can rise when buyers choose larger or better-equipped vehicles even without similar growth in unit sales. Extra features can also raise cost."
+    },
+    {
+      "title": "Affordability extends beyond the sticker price",
+      "text": "Interest rates, loan eligibility, running costs, taxes and used-car exchange values can influence a customer’s decision."
+    },
+    {
+      "title": "New powertrains and factories need returns",
+      "text": "CNG, hybrid and electric-related investment must be assessed against demand, sourcing, infrastructure and production economics. A technology announcement is not yet a profitable sale."
+    }
+  ],
+  "watch": [
+    [
+      "Are dispatches supported by retail demand?",
+      "Dealer stock can build before customers buy.",
+      "Compare company dispatches with its retail and inventory commentary. Use matching periods and definitions; festivals and delivery timing can shift sales between months."
+    ],
+    [
+      "Is a richer model mix offset by discounts or cost?",
+      "Higher-priced vehicles are not automatically higher-margin.",
+      "Read model/category mix, promotional discounts, material costs and realised prices together. Do not infer individual model profit from its list price."
+    ],
+    [
+      "Are plants and suppliers ready for demand?",
+      "Bottlenecks and unused capacity both cost money.",
+      "Follow production, capacity ramp-up, component availability and utilisation alongside orders. A waiting list may reflect limited supply as well as demand, and cancellations can change bookings."
+    ],
+    [
+      "How are exports and currencies affecting earnings?",
+      "Overseas sales have different markets and costs.",
+      "Read export units, market demand, currency sensitivity and imported-input costs. Separate a currency translation effect from stronger underlying vehicle demand."
+    ],
+    [
+      "What cash is required for future models?",
+      "Development and facilities precede some sales.",
+      "Review capital expenditure, research and development, cash flow, warranty and recall disclosures. Check the reporting scope and technology arrangements rather than treating all Suzuki group operations as Maruti Suzuki India."
+    ]
+  ],
+  "risks": [
+    [
+      "Purchase deferral",
+      "Cars are large financed purchases; weaker incomes or dearer credit can delay demand."
+    ],
+    [
+      "Supply and quality disruption",
+      "Component shortages, recalls or supplier issues can interrupt production and damage confidence."
+    ],
+    [
+      "Technology and competitive change",
+      "New models and powertrains can require investment while making an older range less attractive."
+    ],
+    [
+      "Cost, regulation and currency",
+      "Materials, emissions and safety requirements and exchange rates can change vehicle economics."
+    ]
+  ],
+  "context": [
+    "A booking is a different stage from earnings",
+    "A customer enquiry, booking, dealer dispatch and final delivery do not all become revenue at the same moment. Follow the company’s recognition policy and channel stock before converting a popularity story into an earnings conclusion."
+  ],
+  "quiz": [
+    "If vehicle revenue rises faster than unit sales, must demand have increased equally?",
+    "No. Prices, model mix, exports and related revenue can change the total. Read physical units and commercial terms alongside sales."
+  ],
+  "sources": [
+    [
+      "Official vehicle and channel directory",
+      "https://www.marutisuzuki.com/"
+    ],
+    [
+      "FY 2025–26 annual-report announcement",
+      "https://www.marutisuzuki.com/corporate/media/press-releases/2026/august/maruti-suzuki-annual-integrated-report-2025-26"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "The model list is not a profit split",
+      "text": "The pending financial section needs the exact annual statement, scope and profit measure before numbers are entered. A model’s retail price includes items different from manufacturer revenue; bookings and factory capacity must not be converted into invented sales or profit."
+    }
+  ],
+  "checked": "29 October 2026"
+}

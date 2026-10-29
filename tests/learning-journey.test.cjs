@@ -4,7 +4,7 @@ const fs=require('node:fs');
 const vm=require('node:vm');
 const ctx={Intl,main:{innerHTML:''},document:{},event(){},updateSaved(){},mono:()=>'',saveButton:()=>''};ctx.window=ctx;
 vm.createContext(ctx);
-for(const f of ['data','company-expansion','overviews','research-guides','financial-data','financials','hul-primer','itc-primer','nestle-primer','britannia-primer','marico-primer','dmart-primer'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),ctx);
+for(const f of ['data','company-expansion','overviews','research-guides','financial-data','financials','hul-primer','itc-primer','nestle-primer','britannia-primer','marico-primer','dmart-primer','profile-lessons','company-lessons'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),ctx);
 ctx.safe=v=>String(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 ctx.productShelf={render:()=>'<section id="offerings"></section>',init(){}};
 const app=fs.readFileSync('dist/app.js','utf8');
@@ -27,6 +27,6 @@ test('investigation guidance is complete and the early business explanation does
   const opener=ctx.testOpeningSentence(c.money),detail=ctx.testBusinessDetail(c);assert.ok(detail.length>10,c.id);assert.ok(!detail.includes(opener),c.id);assert.equal((opener+' '+detail).trim(),c.money,c.id);
  }
  assert.equal(new Set(instructions).size,instructions.length);
- assert.match(ctx.COMPANY_RESEARCH_GUIDES['glass-wall-systems'][2],/Retention is payment held back/);
- assert.match(ctx.COMPANY_RESEARCH_GUIDES['hdfc-bank'][1],/provision/i);
+ assert.match(ctx.companyPrimer.render(ctx.COMPANIES.find(c=>c.id==='glass-wall-systems'),'specifics'),/Retention is money held back/);
+ assert.match(ctx.companyPrimer.render(ctx.COMPANIES.find(c=>c.id==='hdfc-bank'),'basics'),/provision is an accounting charge/i);
 });

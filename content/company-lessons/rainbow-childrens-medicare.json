@@ -1,0 +1,149 @@
+{
+  "summary": "A specialist hospital network for children and women’s care, using larger hub hospitals, smaller spoke facilities and clinics.",
+  "description": "Rainbow Children’s Medicare provides paediatric, maternity, women’s-health and fertility services under its hospital brands. Its hub-and-spoke model brings routine and emergency services closer to patients while larger hubs support more complex care.",
+  "money": "Revenue comes from consultations, admissions, procedures and related healthcare services. The cost of specialist teams, nursing, equipment, supplies and premises must be covered while the network funds new facilities and collects bills.",
+  "customers": "Children, women and families use the services. Payments can come directly from households or through insurance and other payer arrangements, which can have different rates and collection periods.",
+  "drivers": "Operational beds, patient activity, occupancy, service mix, full-time specialist capacity, referrals, payer mix, hospital maturity and the cost of expanding into new catchments.",
+  "groups": [
+    {
+      "title": "Rainbow Children’s Hospital",
+      "examples": "Paediatric consultations, admissions, intensive care and children’s specialties.",
+      "explanation": "Age-focused care requires the relevant teams, equipment and operating processes, rather than a generic bed count."
+    },
+    {
+      "title": "BirthRight by Rainbow",
+      "examples": "Maternity, obstetric, gynaecology and related women’s services.",
+      "explanation": "Services include routine and complex care according to each facility’s capabilities; a brand name does not establish clinical outcomes."
+    },
+    {
+      "title": "Fertility and fetal medicine",
+      "examples": "Fertility care and specialist pregnancy-related services in the official directory.",
+      "explanation": "These involve different consultation and treatment patterns from an inpatient paediatric stay."
+    },
+    {
+      "title": "Hub hospitals, spokes and clinics",
+      "examples": "A network of facilities with different roles.",
+      "explanation": "The hub handles more complex services while spokes and clinics support local access and referral. Their capacity, cost and patient mix need not be identical."
+    }
+  ],
+  "basics": [
+    {
+      "title": "The network is intended to connect different levels of care",
+      "text": "Hub-and-spoke means smaller facilities can refer patients needing more specialised services to a larger hospital. Assess the operating pathway and capacity at each facility rather than counting all sites as equivalent."
+    },
+    {
+      "title": "Operational capacity needs a team",
+      "text": "A planned bed or completed building is not yet a staffed service. Specialist availability, equipment and approvals determine what can actually be delivered."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Create local access",
+      "text": "Establish consultation, emergency and appropriate inpatient services in the catchment."
+    },
+    {
+      "title": "Coordinate specialist care",
+      "text": "Use the relevant clinical team and refer within the network when required."
+    },
+    {
+      "title": "Bill the service and collect",
+      "text": "Recognise revenue for delivered care under the applicable payer terms."
+    },
+    {
+      "title": "Fund quality and expansion",
+      "text": "Pay teams and suppliers, maintain facilities and invest in additional capabilities."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Full-time consultants are part of the model",
+      "text": "The company describes full-time consultant-led teams. Understand the staffing commitment and availability it aims to support; financial scale does not demonstrate treatment effectiveness."
+    },
+    {
+      "title": "New catchments need time to develop",
+      "text": "A new hospital may initially carry property, staffing and operating costs before activity builds. Read the contribution of mature and newer facilities separately where disclosed."
+    },
+    {
+      "title": "Different measures capture different parts of demand",
+      "text": "Occupancy relates to occupied operational beds; consultations and maternity or fertility activity capture other services. A change in one measure need not describe the whole network."
+    }
+  ],
+  "watch": [
+    [
+      "How are hubs and spokes working together?",
+      "Facility count alone misses the operating model.",
+      "Read the service capability, referral role and maturity of each type of site. Look at whether new facilities add useful access and appropriate referrals without assuming every patient or service must move through a hub."
+    ],
+    [
+      "Are new beds operational and used?",
+      "Announced capacity is different from staffed capacity.",
+      "Check commissioning, operational beds and occupancy definitions over comparable periods. Separate expansions still being developed from facilities already serving patients, and consider seasonal changes in paediatric activity."
+    ],
+    [
+      "What drives revenue per occupied bed or patient?",
+      "Case complexity and payer mix affect averages.",
+      "Read average length of stay, inpatient/outpatient mix, maternity and specialty commentary alongside pricing. These measures explain business mix; none should be used alone as a clinical-quality indicator."
+    ],
+    [
+      "Can teams and quality systems support expansion?",
+      "Specialist services depend on people and processes.",
+      "Use official staffing, accreditation and compliance disclosures. Read the actual scope of any regulatory or quality issue and the response; avoid equating a hospital brand, high occupancy or a technology purchase with better outcomes."
+    ],
+    [
+      "Does expansion preserve cash and returns?",
+      "New facilities can use cash before maturing.",
+      "Compare operating cash flow, patient receivables, leases and development spending with the activity of older hospitals. A new city announcement is not evidence of a return until its costs and operating performance are demonstrated."
+    ]
+  ],
+  "risks": [
+    [
+      "Specialist staffing",
+      "Recruitment or retention issues can constrain service capacity."
+    ],
+    [
+      "Demand and payer mix",
+      "Seasonality, local competition and contract terms can alter activity and realised revenue."
+    ],
+    [
+      "Quality and compliance",
+      "Clinical, safety and regulatory problems can disrupt operations and damage trust."
+    ],
+    [
+      "Ramp-up costs",
+      "New hospitals can take time to build utilisation while fixed costs continue."
+    ]
+  ],
+  "context": [
+    "A hub announcement and a working hub are different",
+    "The company’s dated expansion releases describe plans as well as operating additions. Keep agreement signing, commissioning and ongoing patient activity separate when assessing the network’s development."
+  ],
+  "quiz": [
+    "Does an additional hospital mean the network has gained an equally mature earning unit?",
+    "No. New sites can differ in services, staffing, referral role and utilisation. Read their maturity and cost alongside the established network."
+  ],
+  "sources": [
+    [
+      "Official clinical and investor directory",
+      "https://www.rainbowhospitals.in/"
+    ],
+    [
+      "Official financial-results library",
+      "https://www.rainbowhospitals.in/investors-relations/financials"
+    ],
+    [
+      "October 2026 release explaining hub/spoke and consultant model",
+      "https://www.rainbowhospitals.in/media/press-release/rainbow-childrens-hospital-inaugurates-new-hospital-guntur"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Use the issuer’s financial period and scope",
+      "text": "A newly verified revenue or profit snapshot has not been added in this lesson. Use signed consolidated results and the matching operating period; a current network count should not be paired with an older year’s earnings as if both described the same period."
+    },
+    {
+      "title": "Avoid inventing service-line profit",
+      "text": "Hospital totals do not allocate profit between children’s care, maternity, fertility or individual facilities unless the company supplies that disclosure. Check cash flow, development spending and lease obligations separately."
+    }
+  ],
+  "checked": "29 October 2026"
+}

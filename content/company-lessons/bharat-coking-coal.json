@@ -1,0 +1,149 @@
+{
+  "summary": "A coal-mining business supplying raw and washed coal, with coking coal serving the steel-making supply chain.",
+  "description": "Bharat Coking Coal extracts coal and supplies industrial customers. Its washeries process raw coal to improve the usable product mix. Mining, washing and dispatch are connected stages, but coal produced, coal sold and cash collected are different measures.",
+  "money": "The business earns from coal and washery-product sales under the relevant customer and pricing arrangements. Realised prices, grades, production, washing yield, transport, labour, mine development and environmental obligations affect what remains.",
+  "customers": "Steel-sector customers and other industrial or power users, depending on coal type and product; supply arrangements and dispatch logistics determine the route to each customer.",
+  "drivers": "Usable coal output, grade and ash characteristics, washed-coal recovery, selling arrangements, dispatch capability, operating costs and the cash required for mining and rehabilitation.",
+  "groups": [
+    {
+      "title": "Raw coking coal",
+      "examples": "Raw coal used in the supply chain for making coke for steel production.",
+      "explanation": "Coking coal is not interchangeable with every coal sold as a power-station fuel. Quality and customer specifications matter alongside tonnage."
+    },
+    {
+      "title": "Washed coking coal",
+      "examples": "Coal processed through a washery before supply to industrial buyers.",
+      "explanation": "Washing separates material to obtain a more suitable product. Input capacity is different from the amount of saleable clean coal recovered."
+    },
+    {
+      "title": "Non-coking coal",
+      "examples": "Coal products supplied for other industrial and fuel uses.",
+      "explanation": "Different grades and customers can produce a different realised price and logistics requirement."
+    },
+    {
+      "title": "Washery by-products",
+      "examples": "Middlings, slurry and rejects or other products depending on processing.",
+      "explanation": "Raw material does not all become the same premium output. By-product recovery, disposal and sale influence the economics of washing."
+    }
+  ],
+  "basics": [
+    {
+      "title": "Grade is part of what the customer buys",
+      "text": "A tonne is a quantity measure, not a statement that every tonne has the same usefulness or value. Read quality, ash content, grade, contract terms and pricing together."
+    },
+    {
+      "title": "Production and offtake answer different questions",
+      "text": "Production is output from operations; offtake is material dispatched or sold on the company’s stated basis. Stock and transport can make the two differ."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Develop and operate mines",
+      "text": "Access the reserve, remove overlying material where needed and extract coal safely."
+    },
+    {
+      "title": "Prepare and wash",
+      "text": "Size or process coal as appropriate to the product and customer requirement."
+    },
+    {
+      "title": "Move to the customer",
+      "text": "Arrange loading, rail or road dispatch and contractual quality measurement."
+    },
+    {
+      "title": "Bill and collect",
+      "text": "Recognise sales on the contractual basis and collect payment while funding ongoing operations."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "A washery’s recovery matters as much as its capacity",
+      "text": "Capacity describes how much raw coal it can process. Recovery or yield describes the output obtained. Investigate uptime, feed quality, saleable output and operating cost rather than treating a capacity announcement as finished sales."
+    },
+    {
+      "title": "Mining uses cash before and after the sale",
+      "text": "Equipment, mine development and removal of overlying material can require spending before output. Closure, rehabilitation and environmental obligations also belong in the economic picture."
+    },
+    {
+      "title": "A new asset still has to operate effectively",
+      "text": "The official May 2026 Bhojudih announcement records commercial commencement. That is a dated operational milestone; sustained utilisation, product quality and customer demand still determine its contribution."
+    }
+  ],
+  "watch": [
+    [
+      "Is usable production reaching customers?",
+      "Read production and offtake together.",
+      "Compare matched periods for output, dispatch and stock. Read whether rail, road, monsoon or mine conditions caused a gap; do not assume higher production became the same increase in collected sales."
+    ],
+    [
+      "Are washeries improving the saleable mix?",
+      "Input tonnes and clean-coal output differ.",
+      "Read capacity, utilisation, washing recovery and product mix where disclosed. Compare clean coal and by-products with raw feed and processing costs before attributing better economics to a new washery."
+    ],
+    [
+      "What drives the realised selling price?",
+      "Grade and contract mix matter.",
+      "Read prices, customer arrangements, quality claims and coal grades in official results. Separate price or mix effects from a change in physical quantities rather than explaining all revenue growth through higher demand."
+    ],
+    [
+      "Can costs and mine obligations be funded?",
+      "Mining is more than extracting the next tonne.",
+      "Read labour, contractors, fuel, mine development, overburden-removal policies and rehabilitation provisions. Compare operating cash flow with investment needs and recognise that provisions and cash payments can occur at different times."
+    ],
+    [
+      "Are safety, environmental and logistics constraints manageable?",
+      "Disruption can limit the amount available to sell.",
+      "Use official operational and regulatory disclosures for the affected site, date and scope. Identify actual restrictions, remediation and dependencies instead of treating every incident as either immaterial or group-wide."
+    ]
+  ],
+  "risks": [
+    [
+      "Operating interruption",
+      "Mine conditions, weather, equipment failure and safety incidents can restrict output."
+    ],
+    [
+      "Quality and recovery",
+      "Poorer feed quality or washery performance can reduce saleable product or realised prices."
+    ],
+    [
+      "Customer and transport dependence",
+      "Industrial demand and dispatch bottlenecks can affect sales and collections."
+    ],
+    [
+      "Long-term obligations",
+      "Environmental compliance, land issues and mine closure can require funding beyond current extraction costs."
+    ]
+  ],
+  "context": [
+    "Commissioning is the start of the operating test",
+    "The Bhojudih washery commencement disclosure supports a real addition to processing capability. The next questions are whether raw feed arrives, the facility runs reliably and its output can be sold on workable terms."
+  ],
+  "quiz": [
+    "Does a higher washery input capacity automatically mean the same increase in washed-coal sales?",
+    "No. Uptime, feed quality, recovery, product mix and dispatch all intervene between input capacity and saleable output."
+  ],
+  "sources": [
+    [
+      "Official washery commencement disclosure",
+      "https://bcclweb.in/newpdfs/Investor_relation/27052026/Bhojudih%20washery%20Announcement%20Signed.pdf"
+    ],
+    [
+      "Official annual business report",
+      "https://www.bcclweb.in/files/2025/08/MGT7_2425.pdf"
+    ],
+    [
+      "Official financial-result notes and business scope",
+      "https://bcclweb.in/newpdfs/Investor_relation/Financial_statements/Q3_financial_result.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Keep coal prices and quantities separate",
+      "text": "A newly verified financial split has not been added here. Compare the same period’s revenue, realised prices, production and offtake in signed results, and use the issuer’s unit conversions rather than confusing tonnes with monetary amounts."
+    },
+    {
+      "title": "Check the reporting boundary",
+      "text": "The cited result notes describe coal mining and related services without separate reportable segments. Do not create a profit allocation between raw coal, washed coal and individual mines from sales or output proportions."
+    }
+  ],
+  "checked": "29 October 2026"
+}

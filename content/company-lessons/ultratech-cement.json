@@ -1,0 +1,137 @@
+{
+  "summary": "A building-materials producer selling grey cement, ready-mix concrete, white cement and related construction products.",
+  "description": "UltraTech turns mineral and other inputs into cement and supplies construction materials through dealers and business channels. A bag used by a homebuilder and a truck of ready-mix concrete serve different jobs, with different delivery requirements.",
+  "money": "The business earns from selling cement, concrete and related products. Realised selling prices, tonnes sold, fuel, power, freight and factory efficiency influence the earnings left after costs.",
+  "customers": "Individual homebuilders buying through dealers, contractors, developers, infrastructure projects and other construction customers.",
+  "drivers": "Construction demand, local selling prices, plant utilisation, energy and transport costs, product mix and returns on expansion.",
+  "groups": [
+    {
+      "title": "Grey cement",
+      "examples": "UltraTech cement ranges used in buildings and infrastructure.",
+      "explanation": "Cement binds materials together when mixed appropriately. It is an input into concrete, not the same thing as concrete."
+    },
+    {
+      "title": "Ready-mix concrete",
+      "examples": "Concrete mixed to an agreed specification and supplied to a construction site.",
+      "explanation": "Delivery timing, local plant access and specification compliance matter because the product cannot be stored like a cement bag."
+    },
+    {
+      "title": "White cement and surface products",
+      "examples": "Birla White cement, wall putty and associated finishing products.",
+      "explanation": "Appearance and finishing applications differ from the main grey-cement use case."
+    },
+    {
+      "title": "Building products and solutions",
+      "examples": "Related construction products and support for different building applications.",
+      "explanation": "Product names and distribution formats are not automatically separate reported profit segments."
+    }
+  ],
+  "basics": [
+    {
+      "title": "Understand the conversion chain",
+      "text": "Cement production involves raw-material preparation, clinker production and grinding/blending. Clinker is an intermediate material; a grinding unit and an integrated plant are different assets."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Secure inputs",
+      "text": "Arrange limestone, other materials, fuel and energy under relevant operating and environmental permissions."
+    },
+    {
+      "title": "Produce and blend",
+      "text": "Use kilns and grinding equipment to produce consistent material for the intended application."
+    },
+    {
+      "title": "Move to customers",
+      "text": "Distribute bags or bulk material; freight and distance can substantially affect the economics."
+    },
+    {
+      "title": "Use the assets productively",
+      "text": "Sufficient profitable demand must cover running costs, maintenance, financing and the cost of new capacity."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Cement economics are local",
+      "text": "Construction activity, competing plants and delivery distance affect what a producer can realise in a market. National demand growth can hide regional pressure."
+    },
+    {
+      "title": "Capacity is not output",
+      "text": "A plant’s rated capability is different from the tonnes it actually produces and sells. Commissioning, maintenance and ramp-up can affect utilisation."
+    },
+    {
+      "title": "A tonne needs a cost explanation",
+      "text": "Selling prices must be read alongside fuel, electricity, materials and freight. Blended products and alternative fuels can change inputs, but savings need to be demonstrated."
+    }
+  ],
+  "watch": [
+    [
+      "Are prices keeping pace with local competition?",
+      "Demand and supply differ by region.",
+      "Read regional demand, price and sales-volume commentary together. Avoid treating a national construction headline as the same price environment for every UltraTech plant."
+    ],
+    [
+      "What remains from each tonne sold?",
+      "Energy and freight can move differently from revenue.",
+      "Follow the disclosed per-tonne measures and their definitions, including fuel, power, materials and transport. Compare the same operating-profit basis and period; a product price is not a profit per tonne."
+    ],
+    [
+      "Is added capacity being used?",
+      "New plants need time and demand.",
+      "Track commissioning dates, ramp-up and utilisation alongside sales and capital spending. Separate an acquisition of existing capacity from new capacity added to industry supply."
+    ],
+    [
+      "Does scale improve cash generation?",
+      "Stocks, customer collections and expansion use funding.",
+      "Read operating cash flow and working capital before deducting capital expenditure and acquisition payments. A higher earnings figure does not establish that expansion funds itself."
+    ],
+    [
+      "Are operating permissions and integration on track?",
+      "Quarries, plants and acquired operations need execution.",
+      "Read environmental, mining, safety and acquisition disclosures for actual scope and dates. Distinguish a project announcement from approvals, construction completion and commercial production."
+    ]
+  ],
+  "risks": [
+    [
+      "Regional oversupply",
+      "Competing capacity can hold down cement prices even when volumes grow."
+    ],
+    [
+      "Energy and logistics shocks",
+      "Coal, other fuels, electricity and freight can raise the cost of each sale."
+    ],
+    [
+      "Capital-heavy expansion",
+      "Plants and acquisitions can absorb cash before utilisation and returns improve."
+    ],
+    [
+      "Operational and environmental disruption",
+      "Mining access, permits, safety events or plant outages can interrupt production and add costs."
+    ]
+  ],
+  "context": [
+    "Compare delivery jobs, not just product labels",
+    "A ready-mix order needs suitable local batching and timely delivery; bagged cement can move through a different distribution chain. Growth in both is useful only when each route covers its own operating and investment needs."
+  ],
+  "quiz": [
+    "Does acquiring more cement capacity guarantee a matching increase in profit?",
+    "No. Prices, utilisation, fuel, freight, integration costs and the amount paid for the asset determine the result."
+  ],
+  "sources": [
+    [
+      "Official building-materials overview",
+      "https://www.ultratechcement.com/for-homebuilders/products/overview"
+    ],
+    [
+      "Infrastructure and concrete solutions",
+      "https://www.ultratechcement.com/for-infrastructure/infrastructure-solution"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Match tonnes, periods and the profit measure",
+      "text": "Use a verified consolidated or standalone annual statement and the matching volume disclosure. Do not multiply capacity by a selling price to invent revenue, or assign company profit to grey cement, white cement or concrete without a reported allocation. The financial table remains pending verification."
+    }
+  ],
+  "checked": "29 October 2026"
+}

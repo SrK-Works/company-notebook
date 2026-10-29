@@ -1,0 +1,145 @@
+{
+  "summary": "A bank supplying savings and payment accounts, loans, cards and business banking, with digital access through iMobile and other channels.",
+  "description": "ICICI Bank connects people who need secure payment and saving facilities with households and businesses that need finance. It assesses borrowers, funds loans and investments, runs payment systems and collects repayments. These activities create interest income, fees, funding costs and credit risk.",
+  "money": "The bank earns interest on loans and investments and fees from relevant banking services. It pays for deposits and other funding, staff, technology and expected credit losses. Deposit balances are money owed to customers, not sales income.",
+  "customers": "Households, salaried customers, businesses, corporate clients and overseas Indians use different combinations of accounts, finance and payment services.",
+  "drivers": "Deposit availability and cost, loan pricing, credit quality, fees, operating efficiency, liquidity and regulatory capital.",
+  "groups": [
+    {
+      "title": "Accounts, deposits and payments",
+      "examples": "Savings and current accounts, fixed and recurring deposits, debit cards, transfers and iMobile access.",
+      "explanation": "These help customers store and move money. Deposits also fund the bank, but must remain repayable under their terms."
+    },
+    {
+      "title": "Household borrowing",
+      "examples": "Home, vehicle, personal and education loans, secured lending and credit cards.",
+      "explanation": "Different borrowers, collateral and repayment terms create different interest income and loss risks."
+    },
+    {
+      "title": "Business and corporate banking",
+      "examples": "Working-capital finance, business loans, trade finance, cash management and foreign-exchange services.",
+      "explanation": "A business can need short-term stock funding, payment collection or longer-term investment finance; these are different credit decisions."
+    },
+    {
+      "title": "Investments and wider financial services",
+      "examples": "Investment distribution, wealth services and relevant group financial businesses.",
+      "explanation": "Distributing a product, lending money and owning a financial subsidiary are different activities. Read the entity and fee arrangement."
+    }
+  ],
+  "basics": [
+    {
+      "title": "A deposit is a funding obligation; a loan is an asset with risk",
+      "text": "A customer depositing money creates a liability for the bank. A loan creates an asset expected to generate interest and repayments. The bank must manage the timing of both: a long-duration loan cannot always be converted into cash as quickly as customers may withdraw deposits."
+    },
+    {
+      "title": "Recognise losses before confusing them with recovery",
+      "text": "A provision is an accounting allowance or charge for expected losses on credit. A write-off changes the accounting treatment and is different from a borrower repaying. Capital buffers absorb losses; liquidity measures help assess whether payments can be met on time. Read all three rather than treating one strong ratio as a complete assessment."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Attract and retain funding",
+      "text": "Build deposit relationships and arrange other eligible funding at an appropriate cost."
+    },
+    {
+      "title": "Assess borrowers and price risk",
+      "text": "Check ability to repay, collateral and concentration before agreeing loan terms."
+    },
+    {
+      "title": "Service accounts and collect money",
+      "text": "Operate payment channels, monitor loans and collect interest and principal."
+    },
+    {
+      "title": "Recognise losses and maintain buffers",
+      "text": "Provide for expected losses while keeping the liquidity and capital needed to operate."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Interest income is not the interest spread",
+      "text": "Net interest income subtracts interest expense from interest earned. Net interest margin relates that net income to the stated earning-asset base. It still comes before several other costs and is not the net profit margin of an ordinary retailer."
+    },
+    {
+      "title": "A growing loan book can hide later losses",
+      "text": "Credit problems often emerge after lending. A non-performing asset is a loan classified as impaired under the applicable rules. Slippages describe fresh deterioration; provisions recognise expected losses. Loan growth should be read with all three."
+    },
+    {
+      "title": "Digital use and financial returns are different",
+      "text": "More app users or transactions can improve engagement and lower some servicing costs, but may also need technology investment and controls. Payment volume is not automatically fee revenue or profit."
+    }
+  ],
+  "watch": [
+    [
+      "Are deposits growing on sustainable terms?",
+      "Funding must support lending without excessive cost or liquidity pressure.",
+      "Compare deposit growth, funding cost and the current/savings account mix with loan growth and liquidity disclosures. A change in mix can matter even when the deposit total rises."
+    ],
+    [
+      "Is lending growth accompanied by sound repayments?",
+      "New lending has to remain collectible.",
+      "Read gross and net impaired loans, fresh slippages, recoveries, write-offs and provisions together. A write-off can reduce a reported problem-loan stock without meaning the borrower repaid."
+    ],
+    [
+      "What is moving net interest income?",
+      "Loan and deposit rates can reset at different times.",
+      "Use the stated net interest margin basis, funding-cost discussion and asset mix. Compare matched periods rather than reading a policy-rate change as an immediate equal change in all bank rates."
+    ],
+    [
+      "Do fees and digital relationships cover their costs?",
+      "Transaction activity is not the same as earnings.",
+      "Read fee categories, operating expenses and technology spending alongside customer activity. Identify recurring banking fees separately from trading or one-off gains."
+    ],
+    [
+      "Are capital and liquidity adequate for the growth?",
+      "Accounting profit alone does not fund unlimited lending.",
+      "Check regulatory capital, liquidity measures, concentration and standalone versus consolidated scope. Inspect group-company contributions separately from the bank’s own lending results."
+    ]
+  ],
+  "risks": [
+    [
+      "Borrowers fail to repay",
+      "Unsecured lending, business stress or concentrated exposures can increase losses and provisions."
+    ],
+    [
+      "Funding reprices or leaves",
+      "Competition for deposits and withdrawal needs can raise funding costs or limit lending flexibility."
+    ],
+    [
+      "Operations and controls fail",
+      "Fraud, cyber incidents, outages or compliance problems can create losses and damage trust."
+    ],
+    [
+      "Rates and markets move",
+      "Rate changes affect margins and investment values; the timing and balance-sheet mix determine the impact."
+    ]
+  ],
+  "context": [
+    "Read a recovery differently from a write-off",
+    "A recovery brings money back from a stressed borrower. A write-off changes the accounting treatment of a loan; collection may continue afterward. The distinction helps explain why an improving problem-loan ratio should be checked against cash recoveries and fresh deterioration."
+  ],
+  "quiz": [
+    "Does a larger deposit balance mean the bank earned more revenue?",
+    "No. A deposit is an obligation to the customer and a source of funding. Earnings depend on how funding is deployed, interest and fees earned, funding and operating costs, and credit losses."
+  ],
+  "sources": [
+    [
+      "Official banking and product overview",
+      "https://www.icici.bank.in/about-us"
+    ],
+    [
+      "ICICI Bank annual-report library",
+      "https://www.icicibank.com/about-us/annual"
+    ],
+    [
+      "FY 2025–26 annual report filed with the SEC",
+      "https://www.sec.gov/Archives/edgar/data/1103838/000095010326011004/dp250272_ex9901.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Use bank measures on a consistent basis",
+      "text": "The company-specific financial snapshot still needs verification here. When checking the original accounts, distinguish gross interest earned, net interest income, total income and profit after tax. Deposits, advances and assets are balance-sheet amounts, not revenue, and should not be placed in a product-sales table."
+    }
+  ],
+  "checked": "29 October 2026"
+}

@@ -1,0 +1,150 @@
+{
+  "listingLabel": "Listing status not verified",
+  "summary": "Electrical equipment and project services for power networks, including transformers, reactors, substations and transmission-related work.",
+  "description": "Kanohar makes equipment that helps electricity move at the required voltage and provides engineering and construction services for parts of the network. It serves utilities, railways and other infrastructure customers. It is not simply a company selling electricity to households.",
+  "money": "Revenue comes from equipment supply and project contracts under the relevant delivery and completion terms. Material cost, engineering, manufacturing, testing, site work, warranty and collection affect earnings and cash.",
+  "customers": "Electricity utilities, railway and infrastructure customers, industrial buyers and project contractors. Customer approval and contract acceptance matter as well as the physical manufacture of equipment.",
+  "drivers": "Firm orders, product and project mix, customer specifications, material prices, factory and site execution, testing, acceptance, working capital and payment.",
+  "groups": [
+    {
+      "title": "Power and distribution transformers",
+      "examples": "Transformers used at different parts of the electricity network.",
+      "explanation": "A transformer changes voltage to suit transmission or use. It is equipment within a network rather than an electricity-generating source."
+    },
+    {
+      "title": "Railway transformers",
+      "examples": "Traction and Scott-connected transformer offerings.",
+      "explanation": "Railway applications have specific technical and customer requirements. A product’s existence does not establish the volume of railway demand or its separate profitability."
+    },
+    {
+      "title": "Reactors and substations",
+      "examples": "Shunt reactors and substation-related equipment and systems.",
+      "explanation": "Reactors help manage electrical conditions in the network; switchgear and substations connect, control and protect equipment. These functions should not be confused with power generation."
+    },
+    {
+      "title": "Engineering and construction",
+      "examples": "Substations and transmission-related project work.",
+      "explanation": "EPC means engineering, procurement and construction. A project supplier may coordinate design, purchased equipment and site work as well as its own manufactured products."
+    }
+  ],
+  "basics": [
+    {
+      "title": "Electricity needs a network as well as generators",
+      "text": "Generation produces electricity; transmission, substations and distribution move and adapt it for use. Equipment makers can benefit from network investment without owning the generating stations."
+    },
+    {
+      "title": "A supply contract and an EPC contract differ",
+      "text": "Making a transformer concentrates risk in production, testing and delivery. A broader project can add civil work, suppliers, site access, coordination and commissioning obligations."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Qualify and win an order",
+      "text": "Meet the customer’s requirements and agree specifications, price and milestones."
+    },
+    {
+      "title": "Engineer and procure",
+      "text": "Design the equipment or project and arrange the necessary materials and components."
+    },
+    {
+      "title": "Manufacture, test and execute",
+      "text": "Complete factory work and the contracted site activities and inspections."
+    },
+    {
+      "title": "Obtain acceptance and collect",
+      "text": "Meet contractual milestones and recover payments, including any retentions or other conditions."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Specifications shape both opportunity and cost",
+      "text": "Voltage, application, customer approval and testing requirements influence what a factory can supply. Announced capacity is not identical to certified, sold and accepted output."
+    },
+    {
+      "title": "Metal costs interact with contract terms",
+      "text": "Copper, electrical steel and other materials can change in price. Whether customers compensate for those changes depends on the price-adjustment terms and timing of the contract."
+    },
+    {
+      "title": "Joint operations require careful scope reading",
+      "text": "Work executed with another participant can have contractual sharing and accounting requirements. The value of an entire project is not automatically the revenue or profit attributable to Kanohar."
+    }
+  ],
+  "watch": [
+    [
+      "Which orders are executable and on what schedule?",
+      "Awards need resources, approvals and customer readiness.",
+      "Read the order book alongside delivery timing, customer requirements and execution progress. Keep tender opportunities separate from firm contracts and identify whether an order is equipment-only or includes broader project obligations."
+    ],
+    [
+      "Can production turn into accepted deliveries?",
+      "Factory output may still need inspection or site completion.",
+      "Read manufacturing utilisation, testing, dispatch, commissioning and customer acceptance together. Check for bottlenecks, delays and inventory awaiting inspection rather than using capacity announcements as a substitute for delivery evidence."
+    ],
+    [
+      "Do contract terms protect against changing costs?",
+      "A higher order value may include more material and execution expense.",
+      "Read escalation clauses and procurement timing, along with supplier exposure and project mix. Ask what happens when metal costs or a site schedule change before assuming new orders will earn the same margin as old ones."
+    ],
+    [
+      "Are profits supported by cash collection?",
+      "Large contracts can tie money up in stock and customer balances.",
+      "Read advances, inventory, receivables, retention and operating cash flow. Distinguish a milestone achieved from an amount certified and paid, and investigate ageing or provisions where disclosed."
+    ],
+    [
+      "Are warranty and project-sharing obligations understood?",
+      "Completion may not end the company’s responsibility.",
+      "Read guarantees, warranties, contingent liabilities, joint-operation notes and related funding. Match the company’s share of project activity to its reported accounts and avoid attributing the whole contract to the company without evidence."
+    ]
+  ],
+  "risks": [
+    [
+      "Customer and order concentration",
+      "Dependence on large customers or a few projects can make timing uneven."
+    ],
+    [
+      "Materials and execution",
+      "Cost changes, suppliers, testing or site delays can reduce earnings."
+    ],
+    [
+      "Working capital",
+      "Inventory, receivables and retained payments can require borrowing or other funding."
+    ],
+    [
+      "Quality and contractual obligations",
+      "Rework, performance guarantees, warranties and project disputes can create costs after delivery."
+    ]
+  ],
+  "context": [
+    "An equipment catalogue describes capability, not the sales mix",
+    "Transformer types, reactors and EPC services explain where the company can participate. Use the accounts to establish what it actually sold in the period; do not infer separate margins or market leadership from the number of catalogue entries."
+  ],
+  "quiz": [
+    "Does a new transmission project announcement immediately become Kanohar revenue?",
+    "No. The company must first have a relevant contract, then meet its reporting and execution conditions. Even recognised revenue may precede cash collection."
+  ],
+  "sources": [
+    [
+      "Official transformer portfolio and manufacturing description",
+      "https://www.kanohar.com/transformers"
+    ],
+    [
+      "Official equipment and project-services directory",
+      "https://www.kanohar.com/"
+    ],
+    [
+      "Audited financial statements and joint-operation scope",
+      "https://www.kanohar.com/Asset/newkanweb/Audited_Financial_Statements_25-26.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Do not turn the catalogue into a financial split",
+      "text": "The existing verified snapshot reports company-level revenue and profit on the audited statement’s basis, including its described joint-operation scope. It does not establish separate transformer, reactor or EPC earnings."
+    },
+    {
+      "title": "Compare matching accounting boundaries",
+      "text": "Read the joint-operation policy, equipment and project revenue recognition and cash-flow statement with the totals. Contract value, backlog, customer advances, recognised sales and profit are different measures and must not be added together."
+    }
+  ],
+  "checked": "29 October 2026"
+}

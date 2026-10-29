@@ -1,0 +1,146 @@
+{
+  "summary": "A group connecting energy and materials with Jio connectivity, retail, media and investment in new-energy manufacturing.",
+  "description": "Reliance serves several different markets. It processes and supplies fuels and materials, produces oil and gas, operates digital services, sells merchandise through retail channels and participates in media and entertainment. New-energy investments add another development task rather than making every activity a single business model.",
+  "money": "Consumer businesses earn through retail purchases, connectivity subscriptions and relevant digital or media services. Energy and materials businesses earn under commodity and industrial supply conditions. Operating costs, network and factory investment, financing and ownership structures differ across these activities.",
+  "customers": "Households, telecom and broadband users, retail shoppers, advertisers, content audiences and industrial or energy customers.",
+  "drivers": "Commodity spreads, demand and utilisation, subscriber spending, retail productivity, content costs, capital investment and the terms of group partnerships.",
+  "groups": [
+    {
+      "title": "Energy and materials",
+      "examples": "Oil-to-Chemicals fuels, polymers and polyester-related materials, alongside the separate upstream oil-and-gas business.",
+      "explanation": "Processing crude into products is different from extracting oil or gas. Prices, input costs and production conditions affect them differently."
+    },
+    {
+      "title": "Retail",
+      "examples": "Grocery, electronics, fashion and beauty channels, including relevant store networks and digital commerce platforms.",
+      "explanation": "Buying, stocking and selling goods creates merchandise margins and operating costs. Individual retail brands and formats need not have separate published profits."
+    },
+    {
+      "title": "Digital services",
+      "examples": "Jio mobile connectivity, home broadband and business digital services.",
+      "explanation": "A network needs spectrum, equipment, investment and service reliability. Subscribers and traffic must translate into revenue and cash after those costs."
+    },
+    {
+      "title": "Media and entertainment",
+      "examples": "Relevant JioStar, studios, news and other media operations within the group’s disclosed structure.",
+      "explanation": "Content rights, advertising, subscriptions, distribution and partner interests affect economics. Changes in the perimeter can make historical comparisons difficult."
+    },
+    {
+      "title": "New energy",
+      "examples": "Solar manufacturing, storage and green-hydrogen-related development.",
+      "explanation": "Announced capacity, construction, commissioning, output and paying customers are distinct stages. Investment is not the same as operating profit."
+    }
+  ],
+  "basics": [
+    {
+      "title": "Begin with the customer for each business",
+      "text": "A mobile subscriber buys connectivity; a retailer sells a shopping basket; an industrial buyer buys material or energy. Different customers create different pricing, costs and capital requirements. A familiar app or store does not reveal how much it contributes to the wider group."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Build the required capability",
+      "text": "Invest in refineries, production assets, networks, stores or other infrastructure appropriate to the business."
+    },
+    {
+      "title": "Source, produce or distribute",
+      "text": "Arrange inputs, develop offerings and deliver products or services through the relevant channel."
+    },
+    {
+      "title": "Win and serve demand",
+      "text": "Earn purchases, subscriptions or industrial orders at commercially workable prices."
+    },
+    {
+      "title": "Collect and allocate cash",
+      "text": "Pay operating costs, finance investment and decide how much to reinvest, borrow or distribute."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "A commodity price is not the processing margin",
+      "text": "Oil-to-Chemicals depends on the relationship between feedstock costs and the prices of products sold, along with product mix and utilisation. Higher crude prices can raise the sales value without an equivalent improvement in earnings."
+    },
+    {
+      "title": "Digital reach and retail reach need different checks",
+      "text": "For connectivity, examine subscribers, customer spending, retention and network investment. For retail, examine sales productivity, stock and fulfilment. Registered customers or traffic alone do not establish the profit generated."
+    },
+    {
+      "title": "Partnerships change who receives the economics",
+      "text": "Subsidiaries, joint ventures and non-controlling investors create different reporting boundaries. Understand which entity owns an operation and the basis of a reported business highlight before treating it as profit fully attributable to Reliance owners."
+    }
+  ],
+  "watch": [
+    [
+      "What is driving the energy and materials cycle?",
+      "Revenue can move with commodity prices as well as physical activity.",
+      "Read feedstock and product-spread commentary, production, utilisation and segment earnings. Separate upstream production economics from refining and petrochemicals."
+    ],
+    [
+      "Is digital growth paying for network needs?",
+      "A bigger customer base still requires substantial investment.",
+      "Read subscriber quality, average revenue per user on its stated basis, service costs, spectrum obligations and capital spending. A higher EBITDA figure does not remove depreciation or funding needs."
+    ],
+    [
+      "Are retail sales productive and cash-generative?",
+      "More stores and online activity can carry more costs.",
+      "Compare revenue basis, merchandise and format mix, inventory, store productivity and operating expenses. Check whether quoted sales include taxes or other presentation differences."
+    ],
+    [
+      "Are media and new-energy comparisons meaningful?",
+      "Changed entities and development stages can distort a headline.",
+      "Identify acquisitions, combinations, partner interests and the comparable period. Distinguish new-energy targets, commissioned assets and actual commercial output."
+    ],
+    [
+      "Does the group fund growth sustainably?",
+      "Several businesses can need cash simultaneously.",
+      "Read operating cash flow, investment spending, debt, lease and spectrum obligations, minority interests and capital commitments. Do not treat EBITDA as cash available to shareholders."
+    ]
+  ],
+  "risks": [
+    [
+      "Commodity and demand cycles",
+      "Energy-product spreads, industrial demand and feedstock prices can move adversely."
+    ],
+    [
+      "Large investment needs",
+      "Networks, stores and manufacturing projects can require funding before they generate enough cash."
+    ],
+    [
+      "Competition and execution",
+      "Telecom, retail and media face changing customer preferences, regulation and strong competitors."
+    ],
+    [
+      "Group and reporting complexity",
+      "Partnerships, restructurings and overlapping business presentations can obscure the earnings attributable to the listed group."
+    ]
+  ],
+  "context": [
+    "Commissioning is a milestone, not the end of an investment test",
+    "A plant or network becoming operational enables sales but does not establish demand, efficient utilisation or a satisfactory return. Follow its output, customer adoption, cash costs and continuing investment after the opening announcement."
+  ],
+  "quiz": [
+    "Can the revenue figures from every Reliance business highlight be added and called consolidated revenue?",
+    "Not safely. Highlights can use different presentations, include inter-business activity or omit other operations. Use the official consolidated reconciliation and retain each figure’s stated scope."
+  ],
+  "sources": [
+    [
+      "FY 2025–26 integrated annual report",
+      "https://www.ril.com/ar2025-26/index.html"
+    ],
+    [
+      "Management discussion and analysis",
+      "https://www.ril.com/ar2025-26/mda.html"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "These are selected business highlights",
+      "text": "The verified table is a set of report business highlights, not a full consolidated revenue or profit reconciliation. Retail uses the report’s value-of-sales presentation. The rows must not be treated as exact shares of group revenue."
+    },
+    {
+      "title": "EBITDA is not net profit or shareholder cash",
+      "text": "The earnings column is EBITDA. Depreciation, financing, tax, ownership interests and investment needs matter afterward. Oil to Chemicals leads the displayed revenue, while Digital Services leads the displayed EBITDA; those answer different questions."
+    }
+  ],
+  "checked": "29 October 2026"
+}
