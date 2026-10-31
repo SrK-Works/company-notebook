@@ -110,8 +110,8 @@
     ]
   ],
   "context": [
-    "Start with the job each customer pays for",
-    "The Mahindra name may appear on a tractor, an SUV or a loan agreement. One customer pays for a machine, another for transport and another for borrowed money. Understanding those jobs makes the combined accounts easier to interpret."
+    "One month’s comparison can mislead",
+    "Mahindra’s 1 October 2026 tractor sales release reports fewer tractors sold in India in September 2026 than in September 2025. The company says this was mainly because the festival season, when many buyers make purchases, began in October this year but in September last year, and because September 2025 had been helped by a cut in GST (Goods and Services Tax, a tax added to the price of goods). Tractor sales for the year so far were still higher than a year earlier. Compare longer periods and read the company’s explanation before treating one month’s fall as weaker farm demand. These are sales quantities, not profit."
   ],
   "quiz": [
     "Should a lending business be judged in exactly the same way as a vehicle factory?",
@@ -125,6 +125,10 @@
     [
       "Automotive and farm business review",
       "https://www.mahindra.com/annual-report-FY2026/index.html"
+    ],
+    [
+      "September 2026 vehicle and tractor sales releases · 1 October 2026",
+      "https://www.mahindra.com/sites/default/files/2026-10/SEIntimationOctober2026PR.pdf"
     ]
   ],
   "financialNotes": [
@@ -137,5 +141,5 @@
       "text": "Lending has financing costs within its own business economics. Read the remaining group-level finance costs and unallocated items in the reconciliation rather than subtracting the same cost twice."
     }
   ],
-  "checked": "29 October 2026"
+  "checked": "31 October 2026"
 }

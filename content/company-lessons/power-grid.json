@@ -114,8 +114,8 @@
     ]
   ],
   "context": [
-    "A new renewable station also needs a route to its buyer",
-    "A solar or wind project being finished does not by itself establish that the required transmission connection is ready. Follow both projects through to working connections and the conditions needed to begin charging."
+    "Two renewable-power routes won in 2026 are still years from service",
+    "A solar or wind farm needs lines and substations to send its power to buyers. POWERGRID’s 4 August 2026 release says it won two such projects through tariff-based competitive bidding, where companies compete on the charge they would collect for building and running the line. Winning meant taking over a special purpose vehicle (SPV), a company set up for one project, from the government agency running the bid. Bhadla Ramgarh Power Transmission will add equipment at existing substations in Rajasthan and Uttar Pradesh and is scheduled for commissioning, meaning testing and bringing into service, by 20 January 2029. Krishnagiri REZ Transmission will build two new substations and lines across Andhra Pradesh, Telangana and Karnataka within 36 months. POWERGRID will build, own and run these assets for the contract period and later hand them over. Until they are working, they need construction money but do not yet earn their charges."
   ],
   "quiz": [
     "Does POWERGRID usually make the electricity carried by its transmission lines?",
@@ -133,6 +133,10 @@
     [
       "Official investor information",
       "https://www.powergrid.in/"
+    ],
+    [
+      "Two renewable-energy transmission projects won through competitive bidding · 4 August 2026",
+      "https://www.powergrid.in/sites/default/files/press_document/Press%20Release%202%20SPVs%20%28hindi-english%29.pdf"
     ]
   ],
   "financialNotes": [
@@ -141,5 +145,5 @@
       "text": "Use the reporting scope and earnings definition printed with the audited figures. Transmission charges, other business income and group profit are different measures. Regulated tariff calculations and system capacity do not substitute for recognised income, operating cash or the cost of funding new projects."
     }
   ],
-  "checked": "29 October 2026"
+  "checked": "31 October 2026"
 }

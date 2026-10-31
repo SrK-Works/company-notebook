@@ -114,8 +114,8 @@
     ]
   ],
   "context": [
-    "A supermarket pack and a restaurant supply have different journeys",
-    "A household buys a convenient pack; a restaurant may order a larger amount repeatedly. Compare the packing, delivery and payment terms instead of treating all dairy sales as the same kind of business."
+    "Milk became dearer, so Parag raised prices",
+    "In its 7 August 2026 presentation for April–June 2026, Parag said the milk it buys cost noticeably more than a year earlier. It raised selling prices and sold more of its higher-priced products, so the share of sales left after paying for milk and other materials stayed about the same. Sales grew mainly because of higher prices: the total quantity sold grew only a little, and the quantity of its main products (ghee, cheese, paneer and curd) dipped slightly. Profit after tax fell, which the company mainly explains by a higher tax charge. The board also approved doubling cheese-making capacity. That is an approved plan; the extra equipment still has to be built, and the added cheese and whey still have to be sold."
   ],
   "quiz": [
     "Does a higher-priced dairy pack automatically leave more profit?",
@@ -133,6 +133,10 @@
     [
       "Official investor library",
       "https://www.paragmilkfoods.com/investors.php"
+    ],
+    [
+      "Milk costs, price increases and cheese-capacity approval · investor presentation 7 August 2026",
+      "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d169b71b-4b8f-4ee8-a818-599393f514f7.pdf"
     ]
   ],
   "financialNotes": [
@@ -145,5 +149,5 @@
       "text": "Inventory, receivables, borrowing and investment can explain why a growing dairy business requires cash. A profit figure alone does not show how much remains after processing expansion and stock needs."
     }
   ],
-  "checked": "29 October 2026"
+  "checked": "31 October 2026"
 }

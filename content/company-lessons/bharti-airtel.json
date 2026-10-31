@@ -115,8 +115,8 @@
     ]
   ],
   "context": [
-    "A bundled bill still covers several jobs",
-    "A household may buy mobile, home internet and television together. The company still has to install and run each service. Keeping a household longer helps only if the payments cover those costs and obligations."
+    "One postpaid bill can pay for several services",
+    "Airtel’s 7 October 2026 release describes new postpaid plans, where the customer pays a monthly bill rather than recharging in advance. They combine unlimited calls and data, spam and fraud protection, subscriptions to other companies’ entertainment and storage apps and, from 8 October 2026, one free international-roaming pack per SIM each year. Roaming means using the phone on networks abroad. One bill therefore covers Airtel’s own network service as well as items supplied by other companies or used abroad. The release does not say what Airtel pays for those items, so the plan price is not all Airtel’s to keep. Keeping a household longer helps only if the payments cover these costs."
   ],
   "quiz": [
     "Is EBITDA the cash left after paying for all network expansion?",
@@ -134,6 +134,10 @@
     [
       "Indus Towers: tower, power and space services",
       "https://www.industowers.com/offerings/"
+    ],
+    [
+      "New postpaid plans with bundled subscriptions and roaming · 7 October 2026",
+      "https://www.airtel.in/press-release/10-2026/airtel-offers-free-international-roaming-on-all-postpaid-plans/"
     ]
   ],
   "financialNotes": [
@@ -142,5 +146,5 @@
       "text": "The table preserves the audited segment definitions and separates segment sums from consolidated revenue after internal-sales eliminations. The reported earnings measure comes before financing, exceptional items and tax. Do not combine India customer-spending averages, Africa revenue and a group EBITDA margin into an invented profit calculation."
     }
   ],
-  "checked": "29 October 2026"
+  "checked": "31 October 2026"
 }

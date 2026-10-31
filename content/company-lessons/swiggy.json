@@ -13,7 +13,7 @@
     {
       "title": "Instamart grocery shopping",
       "examples": "Groceries and household goods delivered from nearby sites.",
-      "explanation": "A dark store is a place where workers store, pick and pack goods for online orders rather than serve shoppers in aisles. A grocery order needs the right stock, packing and a delivery route; the merchant and stock arrangements determine who earns which part of the payment."
+      "explanation": "A dark store is a place where workers store, pick and pack goods for online orders rather than serve shoppers in aisles. A grocery order needs the right stock, packing and a delivery route; the merchant and stock arrangements determine who earns which part of the payment. Swiggy’s October 2026 shareholders’ letter says Instamart plans to start owning the goods it sells from late 2026, a change expected to take two to three quarters. Owning goods means recording their full sale value, but also paying for the stock."
     },
     {
       "title": "Dining and experiences",
@@ -23,7 +23,7 @@
     {
       "title": "Storage, distribution and newer services",
       "examples": "Services for merchants and brands, plus newer offerings being developed.",
-      "explanation": "Distribution means getting goods from suppliers towards the businesses that sell or use them. Storage and movement can create a large goods-sales total but also involve buying goods, running warehouses and transporting them. A new app feature is not automatically a separate profitable business."
+      "explanation": "Distribution means getting goods from suppliers towards the businesses that sell or use them. Storage and movement can create a large goods-sales total but also involve buying goods, running warehouses and transporting them. In September 2026 Swiggy agreed to sell the part that distributed brands’ goods to shops; other storage and delivery services for sellers continue. A new app feature is not automatically a separate profitable business."
     }
   ],
   "basics": [
@@ -114,8 +114,8 @@
     ]
   ],
   "context": [
-    "Storage and delivery are real jobs behind an online order",
-    "The group’s business services can help merchants hold and move goods before a household ever places an order. Read what customers are paying for in each activity rather than treating the entire company as only a restaurant-delivery app."
+    "Swiggy sold one distribution business in September 2026",
+    "Authorised distribution means supplying a brand’s goods to shops and wholesalers on the brand’s behalf. Swiggy’s 7 September 2026 disclosure says this business-to-business activity would be moved into a subsidiary, Lynks Logistics, and sold to Trustroot Internet, the parent of the wholesale-trading business Udaan. Swiggy is paid in Trustroot shares rather than cash. The October 2026 shareholders’ letter says this business stops being part of Swiggy’s reported results from the October–December 2026 quarter. Other storage and delivery services for sellers remain, so read what customers pay for in each remaining activity rather than assuming earlier sales will repeat."
   ],
   "quiz": [
     "If restaurant delivery earns a profit, must the whole Swiggy group be profitable?",
@@ -133,6 +133,14 @@
     [
       "Current corporate announcements",
       "https://www.swiggy.com/corporate/governance/corporate-announcements/"
+    ],
+    [
+      "Sale of Lynks Logistics distribution business · 7 September 2026",
+      "https://www.swiggy.com/corporate/wp-content/uploads/2026/09/SE-Intimation_Sale-of-Stake.pdf"
+    ],
+    [
+      "Q2 FY2027 shareholders’ letter · 22 October 2026",
+      "https://www.swiggy.com/corporate/wp-content/uploads/2026/10/Q2-FY2027-Shareholder-letter.pdf"
     ]
   ],
   "financialNotes": [
@@ -145,5 +153,5 @@
       "text": "The verified snapshot shows different outcomes across food delivery, out-of-home, quick commerce, supply chain and innovations. Segment results still require the source’s reconciliation for other income, share-based payments, finance, depreciation and other items before group net profit."
     }
   ],
-  "checked": "29 October 2026"
+  "checked": "31 October 2026"
 }

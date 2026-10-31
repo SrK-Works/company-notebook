@@ -110,8 +110,8 @@
     ]
   ],
   "context": [
-    "The customer wants a finished surface",
-    "A shade card helps choose a colour, but the customer also needs a prepared wall, the right materials and a good painting job. Look at how the company helps that whole purchase work, not just how many colours it offers."
+    "Price increases can make sales grow faster than litres",
+    "Asian Paints’ 29 October 2026 results presentation says its decorative business in India, meaning paints for homes and buildings, sold more paint by volume in July–September 2026. Its sales value grew faster because the company had raised prices after the cost of its ingredients rose sharply earlier in the year. Paint made with ingredients bought at those higher costs was still being sold, so gross margin, the share of sales left after paying for materials, fell. Group profit grew more slowly than sales. The same presentation says the first stage of a new plant at Dahej in Gujarat has started making VAE emulsion, a liquid ingredient used in its paint formulas, which the company would otherwise have to buy. The company expects a stronger cost benefit only after a second stage is running, so a plant start does not yet prove a saving."
   ],
   "quiz": [
     "Does selling more litres of paint guarantee more profit?",
@@ -125,6 +125,10 @@
     [
       "Official annual-report library",
       "https://www.asianpaints.com/AnnualReports.html"
+    ],
+    [
+      "Volume versus value, ingredient costs and Dahej plant · results presentation 29 October 2026",
+      "https://www.bseindia.com/xml-data/corpfiling/AttachLive/83b2bead-08c8-4789-a658-7985de0c772f.pdf"
     ]
   ],
   "financialNotes": [
@@ -133,5 +137,5 @@
       "text": "The audited group reports one business segment. The table shows revenue from operations and group profit after tax, including non-controlling interests. Decorative paints, industrial ventures, international activities and home décor are not assigned invented separate profits. Check how each venture enters the group accounts before comparing business highlights."
     }
   ],
-  "checked": "29 October 2026"
+  "checked": "31 October 2026"
 }

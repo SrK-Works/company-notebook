@@ -1,9 +1,9 @@
 {
-  "listingLabel": "Listing status not verified",
+  "listingLabel": "NSE: GLASSWALL · listed 16 September 2026",
   "summary": "Glass Wall Systems designs, makes and installs the outside surfaces of buildings, including glass walls, covering panels and ventilation slats.",
   "description": "Picture an office tower with glass across its exterior. Those panels need supporting frames, connections and careful fitting. Glass Wall Systems works on this outer surface, called the façade or building envelope. It does not have to construct the entire tower to supply this part of it.",
   "money": "A project customer pays for the agreed design, materials, manufacturing and installation work. The company pays for glass, aluminium and other materials, factory workers, transport, site labour and running costs. Delays, repairs or unpaid bills can reduce what remains.",
-  "customers": "Developers, building owners and other project-contracting customers. They pay for specified exterior work. An apartment purchaser or a hotel guest normally uses the finished building rather than directly buying the façade contract.",
+  "customers": "Real-estate developers, hospitals, airport authorities, building contractors and companies putting up offices, homes or institutional buildings in India. Overseas, the company also sells made-to-order façade parts to façade contractors in the USA and Australia, who fit them on site. Each customer pays for its specified exterior work. An apartment purchaser or a hotel guest normally uses the finished building rather than directly buying the façade contract.",
   "drivers": "Winning workable contracts, obtaining materials, making panels, getting access to the building site, fitting them correctly and receiving customer payment.",
   "groups": [
     {
@@ -24,7 +24,12 @@
     {
       "title": "Making and fitting the parts",
       "examples": "Factory fabrication, delivery and site installation.",
-      "explanation": "Fabrication means making or assembling the parts. Workers may prepare panels in the factory, transport them and fit them at the building. Factory completion alone does not finish the customer’s project."
+      "explanation": "Fabrication means making or assembling the parts. For Indian projects, workers prepare panels in the factory, transport them and fit them at the building. For customers in the USA and Australia, the company makes and ships the parts and a local contractor fits them. Factory completion alone does not finish the customer’s project."
+    },
+    {
+      "title": "Windows, doors and skylights for expensive homes",
+      "examples": "Custom windows, doors, skylights and partition walls, mainly through its subsidiary Yes Systems.",
+      "explanation": "Fenestration is the industry word for windows, doors and other openings in a building. A subsidiary is a company owned by Glass Wall Systems; Yes Systems was bought during the year to March 2026 and fits these products in homes and commercial buildings. It is smaller than the façade work in the offer document’s figures."
     }
   ],
   "basics": [
@@ -115,8 +120,8 @@
     ]
   ],
   "context": [
-    "A façade is the outside of the building",
-    "The spelling façade is correct; facade is also used. The useful business distinction is between supplying that exterior and building or owning the whole property. The developer’s project creates the job; the company earns by completing its agreed part."
+    "The share sale funds a planned glass factory; the factory is not yet built",
+    "Glass Wall Systems’ shares began trading on 16 September 2026. Most shares sold in the offer came from existing owners, and that money went to them, not to the company. The smaller part, new shares issued by the company, is meant mainly to pay for a glass processing unit at its Vile Bhagad factory in Maharashtra. Backward integration means doing an earlier step yourself: here, cutting and preparing glass that it would otherwise buy ready-processed. Treat it as a plan until the company reports that the unit is built and running."
   ],
   "quiz": [
     "If exterior panels have been made in the factory, is the full job finished and paid for?",
@@ -132,12 +137,16 @@
       "https://www.glasswallsystems.in/facility/"
     ],
     [
-      "Official offer document and contract disclosures",
-      "https://www.glasswallsystems.in/wp-content/uploads/2025/09/DRHP.pdf"
-    ],
-    [
       "Audited company financial statements",
       "https://www.glasswallsystems.in/ipo-docs/70768f2eb63447c19e077624facbc935.pdf"
+    ],
+    [
+      "Abridged prospectus: business lines, customers and use of money raised · September 2026",
+      "https://www.sebi.gov.in/sebi_data/commondocs/sep-2026/GLASS%20WALL%20SYSTEMS%20(INDIA)%20LIMITED%20-%20AP_p.pdf"
+    ],
+    [
+      "June 2026 quarter results notes: IPO completed and listing on 16 September 2026 · filed 6 October 2026",
+      "https://www.bseindia.com/xml-data/corpfiling/AttachHis/374c07e1-c277-4593-81d8-1bd7e9b41c72.pdf"
     ]
   ],
   "financialNotes": [
@@ -150,5 +159,5 @@
       "text": "Contract assets, receivables and retention can explain why earnings and cash move differently. Keep standalone and consolidated scope distinct and review the actual accounting policy before comparing project performance across periods."
     }
   ],
-  "checked": "29 October 2026"
+  "checked": "31 October 2026"
 }

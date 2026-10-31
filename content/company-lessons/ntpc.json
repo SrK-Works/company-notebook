@@ -114,8 +114,8 @@
     ]
   ],
   "context": [
-    "Follow a new project beyond the announcement",
-    "A plan still needs permissions, construction, tests, a working network connection and customers who pay. These stages show why a future electricity target and a running station are different evidence about the business."
+    "One Patratu unit moved from testing to regular service in 2026",
+    "Patratu Vidyut Utpadan Nigam Limited (PVUNL) is an NTPC subsidiary, meaning a company NTPC controls. On 18 May 2026 NTPC told the stock exchanges that PVUNL’s Unit 2 at Patratu, able to produce 800 megawatts (MW, a measure of how much power it can supply at one moment), had finished its trial run, a test period of running under approved standards, so it was added to the group’s installed capacity. A later disclosure dated 23 June 2026 said the same unit was declared in commercial operation from 25 June 2026, meaning it moved from testing into regular commercial service, the stage from which a unit normally operates and bills under its sales agreement. NTPC therefore reports installed capacity and commercial capacity as two separate totals. Neither disclosure says how much electricity the unit has sold or what it has earned."
   ],
   "quiz": [
     "If a station is ready to run, must it be producing at full output?",
@@ -133,6 +133,14 @@
     [
       "Annual-report library",
       "https://ntpc.co.in/investors/financial-performance/annual-reports"
+    ],
+    [
+      "Patratu Unit 2 trial-run completion · 18 May 2026",
+      "https://ntpc.co.in/sites/default/files/announcement/2026/2026-05/20260518_Completion%20of%20Trail%20Operation_STEX.pdf"
+    ],
+    [
+      "Patratu Unit 2 commercial-operation declaration · 23 June 2026",
+      "https://ntpc.co.in/sites/default/files/announcement/2026/2026-06/202060623_COD_PVUNL_0.pdf"
     ]
   ],
   "financialNotes": [
@@ -141,5 +149,5 @@
       "text": "Read the audited generation and other-business definitions, together with the internal-sales and other-income reconciliation. Capacity and power generation are operating measures, not revenue or profit. The reported segment result does not establish an individual plant’s net return or cash distribution."
     }
   ],
-  "checked": "29 October 2026"
+  "checked": "31 October 2026"
 }

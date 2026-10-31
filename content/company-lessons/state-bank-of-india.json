@@ -114,8 +114,8 @@
     ]
   ],
   "context": [
-    "Read a loan balance as an unfinished relationship",
-    "A loan is not a completed sale when money is handed over. SBI still has to service and collect it, sometimes over a long period. A lending increase is therefore a starting point for investigating repayment quality, not proof of a successful outcome."
+    "Loans grew faster than deposits",
+    "SBI’s 7 August 2026 release for April–June 2026 reports loans growing roughly twice as fast as deposits compared with a year earlier. When lending rises by more than deposits, the difference has to come from other money, such as funds the bank already holds or borrowing. SBI’s list of exchange filings for the following months records the raising of senior unsecured bonds in July and August 2026. A bond is money borrowed from investors that must be repaid with interest; unsecured means no specific asset is pledged against it. Compare what each funding source costs with what new loans earn, and remember that a loan still has to be repaid over time before lending growth becomes a successful result."
   ],
   "quiz": [
     "Does a falling bad-loan balance prove borrowers paid back the whole reduction?",
@@ -133,6 +133,14 @@
     [
       "yono Business service overview",
       "https://yonobusiness.sbi.bank.in/"
+    ],
+    [
+      "April–June 2026 results press release · 7 August 2026",
+      "https://sbi.bank.in/documents/17826/58855131/346.pdf/78eeda40-8741-016c-75f9-30eb645b184e?t=1786364282832"
+    ],
+    [
+      "Exchange-filing list including bond raising · July–October 2026",
+      "https://sbi.bank.in/web/corporate-governance/2nd-quarter-2026-27-"
     ]
   ],
   "financialNotes": [
@@ -141,5 +149,5 @@
       "text": "Use the consolidated annual column and its owners’ profit definition, including the adjustments for associates and minority shareholders. Interest earned, total income and net interest income are different measures. Deposit and loan balances are not product sales, and standalone-bank ratios should not be combined with group profit."
     }
   ],
-  "checked": "29 October 2026"
+  "checked": "31 October 2026"
 }

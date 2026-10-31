@@ -114,8 +114,8 @@
     ]
   ],
   "context": [
-    "Growth needs follow-up",
-    "The work continues after a loan is approved. Repayments and signs of difficulty need monitoring throughout its life; lending quickly today can create losses that appear later."
+    "Profit can grow more slowly than the everyday banking business",
+    "HDFC Bank’s 17 October 2026 release for July–September 2026 reports higher net interest income (interest earned minus interest paid) and higher fees than a year earlier, while profit after tax grew more slowly. The same release shows treasury trading gains—profits from buying and selling bonds and other investments, which rise and fall with market prices—were much smaller than a year earlier, and reports that profit excluding those gains grew faster. Separate income from lending and services from investment gains before judging a change in profit. These quarterly figures had a limited review by the auditors, a lighter check than a full audit; the audited full-year table below covers an earlier period."
   ],
   "quiz": [
     "Is a home-loan repayment entirely income for the bank?",
@@ -133,6 +133,10 @@
     [
       "Official annual reports",
       "https://www.hdfc.bank.in/about-us/investor-relations/annual-reports"
+    ],
+    [
+      "July–September 2026 results release · 17 October 2026",
+      "https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/pdf/press-release/2026/q4-oct-dec/october/press-release-september-2026.pdf"
     ]
   ],
   "financialNotes": [
@@ -141,5 +145,5 @@
       "text": "The table pairs consolidated group total income with profit after tax attributable to owners. Total income is before funding, insurance, operating and credit-loss costs, and is different from net interest income. Deposit and loan balances are not revenue. Use the standalone bank accounts separately when investigating lending spreads and provisions."
     }
   ],
-  "checked": "29 October 2026"
+  "checked": "31 October 2026"
 }

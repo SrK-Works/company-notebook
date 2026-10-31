@@ -2,13 +2,13 @@
   "summary": "Tonbo makes camera-like equipment that helps organisations see and observe, including devices that form pictures from heat. It also supplies parts that other equipment makers build into their products.",
   "description": "A normal camera forms a picture using light. Thermal-imaging equipment detects heat energy given off by objects and turns differences into an image. Tonbo combines sensors, electronics and software to make observation devices or parts for a larger machine, such as a vehicle’s vision system.",
   "money": "Customers pay for equipment, parts and agreed design or fitting work. Tonbo must pay engineers, buy components, arrange production, test products and provide promised support. The amount billed is different from the profit left after these and other costs.",
-  "customers": "Government and security organisations buy equipment for their users. Other manufacturers buy Tonbo parts to put inside their own equipment. The organisation paying Tonbo may therefore be different from the person who eventually uses the finished device.",
+  "customers": "Armed forces, police and other security agencies in India and abroad buy equipment for their users. Other defence equipment makers buy Tonbo parts to put inside their own equipment. In the offer document, a large share of recent sales came from exports, especially to Europe. The organisation paying Tonbo may therefore be different from the person who eventually uses the finished device.",
   "drivers": "Winning firm orders, getting the required parts, completing tests, delivering working equipment and receiving customer payment. A delayed order or a problem with an important component can hold up several stages.",
-  "listingLabel": "Listing status not verified",
+  "listingLabel": "NSE: TONBO · listed 23 October 2026",
   "groups": [
     {
       "title": "Devices that help users observe",
-      "examples": "Finished observation and thermal-imaging devices.",
+      "examples": "Finished thermal cameras and sights, including sights used to aim weapons from military vehicles.",
       "explanation": "The customer buys a working device rather than a bag of electronic parts. Its sensors collect signals, software turns them into images, and the finished equipment must pass the checks agreed with the buyer."
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "title": "Designing equipment to work together",
-      "examples": "Combined sensing systems and related development work.",
+      "examples": "Combined sensing systems, plus newer defence systems listed on its website such as a drone interceptor.",
       "explanation": "Some customers need several pieces of equipment and software to work as a system. Agreeing the design, building it and showing that it works can take longer than selling a standard device."
     }
   ],
@@ -115,8 +115,8 @@
     ]
   ],
   "context": [
-    "Tonbo can sell the part inside the product",
-    "A finished device may attract more attention, but another manufacturer can keep ordering the imaging unit inside its own equipment. Check which route brings repeat purchases and what Tonbo must supply and support in each case."
+    "Tonbo’s share sale paid existing owners, not the company",
+    "Tonbo’s shares began trading on NSE on 23 October 2026. The whole offer was an offer for sale: existing shareholders sold some of their shares to new investors. The prospectus states that Tonbo itself receives none of that money, so the listing does not pay for new factories, parts or research. Its engineering, parts and production must still be paid for from customer payments or other funding. Separately, a finished device may attract more attention, but another manufacturer can keep ordering the imaging unit inside its own equipment; check which route brings repeat purchases."
   ],
   "quiz": [
     "If a customer likes a demonstration, has Tonbo already earned a sale?",
@@ -134,6 +134,14 @@
     [
       "Official integrated-systems overview",
       "https://tonboimaging.com/defense/products/systems/"
+    ],
+    [
+      "Abridged prospectus: offer for sale only, customers and export dependence · October 2026",
+      "https://www.sebi.gov.in/sebi_data/commondocs/oct-2026/Tonbo%20Imaging%20India%20Limited-Abridged%20Prospectus_p.pdf"
+    ],
+    [
+      "NSE security information: listed, date of listing 23 October 2026 · viewed 31 October 2026",
+      "https://www.nseindia.com/get-quote/equity/TONBO/Tonbo-Imaging-India-Limited"
     ]
   ],
   "financialNotes": [
@@ -143,8 +151,8 @@
     },
     {
       "title": "A catalogue does not verify a listing",
-      "text": "Product sources support the business explanation, not an exchange-admission claim. Confirm current listing and issuer identity in official exchange or offer documents before relying on a displayed symbol."
+      "text": "Product sources support the business explanation, not an exchange-admission claim. The NSE security page shows the shares listed on 23 October 2026; the annual table still comes from the earlier offer document and covers the year before listing."
     }
   ],
-  "checked": "29 October 2026"
+  "checked": "31 October 2026"
 }

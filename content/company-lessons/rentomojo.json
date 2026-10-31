@@ -1,5 +1,5 @@
 {
-  "listingLabel": "Listing status not verified",
+  "listingLabel": "NSE: RENTOMOJO · listed 17 September 2026",
   "summary": "A service that rents furniture and appliances to customers under plans that vary by product, city and rental period.",
   "description": "Rentomojo lets a customer use household goods without buying them outright at the start. For example, someone moving to a city for a temporary job might rent a bed and washing machine. The company arranges the items, takes them to the home, provides the support covered by the plan and collects them when the rental ends.",
   "money": "Customers pay rent and any service or other charges allowed by their agreement. The business pays to obtain or finance products, move and install them, maintain them, store them and prepare returned items for another customer. A refundable deposit remains money owed back under the terms; it is not automatically income or profit.",
@@ -89,7 +89,7 @@
     [
       "Are the plan and the company’s investment status clear?",
       "A rental plan and an exchange-traded share are different things to verify.",
-      "Use the current official agreement for rental length, damage, refunds and early closure. Separately check the legal company and exchange admission: an IPO document alone does not establish that shares have begun trading."
+      "Use the current official agreement for rental length, damage, refunds and early closure. The shares of Rentomojo Limited have traded on BSE and NSE since 17 September 2026, so later results and announcements appear in its stock-exchange filings; a rental plan bought on the website is a separate thing from owning a share."
     ]
   ],
   "risks": [
@@ -112,7 +112,7 @@
   ],
   "context": [
     "Follow the item after the first customer leaves",
-    "A successful first rental is only part of the story. The item’s condition, collection and repair costs, and time taken to find another user affect what it earns overall. Regular rent is useful only after those repeated costs are considered."
+    "Rentomojo’s annual report for the year to March 2026, filed with the stock exchanges on 16 October 2026, describes the cycle: deliver and install the item, collect it when the rental ends, then clean, repair and send it to another customer. It reports 20 warehouses and 82 showrooms, which it calls experience stores, across 29 cities. Each extra round of collection, repair and storage costs money, and an item earns rent only while a customer has it. Regular rent is useful only after those repeated costs are considered."
   ],
   "quiz": [
     "Is a refundable deposit the same as profit from renting a product?",
@@ -134,13 +134,17 @@
     [
       "Official contact and company identity",
       "https://www.rentomojo.com/contact"
+    ],
+    [
+      "Annual report 2025–26 with stock-exchange cover letter, listing date and rental cycle · filed 16 October 2026",
+      "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3f6fadf7-0a29-4e18-9714-9cf163a9f01d.pdf"
     ]
   ],
   "financialNotes": [
     {
       "title": "Verify the legal entity and financial scope first",
-      "text": "The restated consolidated figures are verified from the issuer’s offer documents; current exchange admission remains separately unverified. The disclosed deferred-tax credit increased annual profit after tax, so the profit should not be read as rental operating performance alone. Separate recognised rental revenue, refundable deposits, depreciation, financing and cash needed for assets."
+      "text": "The restated consolidated figures are verified from the issuer’s offer documents; the shares were admitted to trading later, on 17 September 2026. The disclosed deferred-tax credit increased annual profit after tax, so the profit should not be read as rental operating performance alone. Separate recognised rental revenue, refundable deposits, depreciation, financing and cash needed for assets."
     }
   ],
-  "checked": "29 October 2026"
+  "checked": "31 October 2026"
 }

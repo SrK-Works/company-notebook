@@ -1,5 +1,5 @@
 {
-  "listingLabel": "Listing status not verified",
+  "listingLabel": "NSE: KANOHAR · listed 16 September 2026",
   "summary": "Kanohar makes electrical equipment such as transformers and helps build the substations and connections used to move electricity to where it is needed.",
   "description": "Electricity travels from a generating plant through a network before reaching a railway, factory or home. Different stages need different voltages; voltage is often compared to electrical pressure. A transformer changes the voltage. Kanohar supplies this equipment and also carries out parts of the work needed to build the network.",
   "money": "Customers pay for equipment or an agreed construction project. Kanohar pays for metals and other parts, engineers, factory workers, testing, delivery and any site work it has promised. Materials or equipment can need funding before a customer accepts the work and pays.",
@@ -18,8 +18,8 @@
     },
     {
       "title": "Equipment at substations",
-      "examples": "Shunt reactors, switchgear and related substation systems.",
-      "explanation": "A substation is a place where electricity is connected, controlled or changed to the required voltage. Switchgear turns connections on or off and helps protect equipment. A shunt reactor helps control voltage conditions on the network. These are different jobs within the same electricity system."
+      "examples": "Shunt reactors, gas-insulated switchgear and related substation systems.",
+      "explanation": "A substation is a place where electricity is connected, controlled or changed to the required voltage. Switchgear turns connections on or off and helps protect equipment; gas-insulated switchgear packs this equipment inside sealed metal enclosures filled with an insulating gas, so it needs less space. A shunt reactor helps control voltage conditions on the network. These are different jobs within the same electricity system."
     },
     {
       "title": "Building parts of the network",
@@ -115,8 +115,8 @@
     ]
   ],
   "context": [
-    "A catalogue shows what can be offered, not what was sold",
-    "A railway transformer and a network-construction project are useful examples of different jobs. To understand the current business, check which orders were actually delivered and what the accounts include; a long product list alone does not reveal the main source of earnings."
+    "Listed in September 2026; quarterly reports have only just started",
+    "Kanohar’s shares began trading on 16 September 2026. Its offer combined new shares issued by the company, whose money goes to Kanohar, with existing shares sold by current owners, whose money goes to those sellers. Being listed also means it now publishes results every three months. The first, for April to June 2026, was approved on 6 October 2026, and the company itself notes that some earlier comparison quarters were not reviewed by its auditor. With so few published quarters, a single three-month period can mislead: transformer orders are large and uneven, so check deliveries and payments over several periods."
   ],
   "quiz": [
     "If a utility announces a new power line, has Kanohar already earned its value?",
@@ -134,6 +134,10 @@
     [
       "Audited financial statements and joint-operation scope",
       "https://www.kanohar.com/Asset/newkanweb/Audited_Financial_Statements_25-26.pdf"
+    ],
+    [
+      "June 2026 quarter results notes: listing on 16 September 2026 and single power-system segment · approved 6 October 2026",
+      "https://beta.bseindia.com/XBRLFILES/IFIndasDuplicateUploadDocument/Integrated_Finance_Ind_As_544911_61020262147_IFIndAs.html"
     ]
   ],
   "financialNotes": [
@@ -146,5 +150,5 @@
       "text": "Read the joint-operation policy, equipment and project revenue recognition and cash-flow statement with the totals. Contract value, backlog, customer advances, recognised sales and profit are different measures and must not be added together."
     }
   ],
-  "checked": "29 October 2026"
+  "checked": "31 October 2026"
 }

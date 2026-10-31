@@ -124,8 +124,8 @@
     ]
   ],
   "context": [
-    "Follow the customer’s payment through the relevant business",
-    "A Jio recharge pays for connectivity, a shop purchase pays for merchandise, and an industrial order pays for specified materials. Start with that job and its costs, then use the final financial section to compare the activities without adding overlapping group figures."
+    "Jio’s shares began trading separately on 28 October 2026",
+    "A BSE notice dated 27 October 2026 says shares of Jio Platforms, the Reliance company that runs Jio’s mobile, broadband and digital services, were listed and admitted to trading from 28 October 2026. Listing means its shares can now be bought and sold on the stock exchange in their own right. The offer document names Reliance Industries as Jio’s promoter, meaning the shareholder in control, and describes the offer as new shares only. So the money raised went to Jio, not to Reliance selling its own Jio shares. Jio remains part of the Reliance group, but it now also has public shareholders, so not all of Jio’s profit belongs to Reliance’s shareholders. The annual figures below cover the period before this listing."
   ],
   "quiz": [
     "Can sales numbers from every Reliance business presentation simply be added together?",
@@ -139,6 +139,14 @@
     [
       "Management discussion and analysis",
       "https://www.ril.com/ar2025-26/mda.html"
+    ],
+    [
+      "BSE notice: Jio Platforms shares listed from 28 October 2026 · 27 October 2026",
+      "https://www.bseindia.com/downloads/UploadDocs/Notices/20261027-9/20261027-9.pdf"
+    ],
+    [
+      "Jio Platforms red herring prospectus (offer document) · October 2026",
+      "https://www.sebi.gov.in/sebi_data/commondocs/oct-2026/Jio%20Platforms%20Limited%20-%20Red%20Herring%20Prospectus%20and%20Abridged%20Prospectus_p.pdf"
     ]
   ],
   "financialNotes": [
@@ -151,5 +159,5 @@
       "text": "The earnings column is EBITDA. Depreciation, financing, tax, ownership interests and investment needs matter afterward. Oil to Chemicals leads the displayed revenue, while Digital Services leads the displayed EBITDA; those answer different questions."
     }
   ],
-  "checked": "29 October 2026"
+  "checked": "31 October 2026"
 }

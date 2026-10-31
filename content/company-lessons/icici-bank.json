@@ -114,8 +114,8 @@
     ]
   ],
   "context": [
-    "A useful service needs a workable business behind it",
-    "Easy payments and convenient apps help explain why customers use ICICI Bank. The investing question is whether serving those customers earns enough after funding, running costs and losses, while the bank remains able to meet its obligations."
+    "A jump in loans and deposits needs its explanation",
+    "ICICI Bank’s 17 October 2026 release for July–September 2026 reports a large rise in deposits and loans, and also gives slower growth figures that leave out FCNR(B) deposits and loans linked to them. FCNR(B) deposits are deposits kept in a foreign currency, such as US dollars, by Indians living abroad; the release links some loans made by the bank’s international branches to these deposits. Read the bank’s own breakdown before treating a jump as ordinary new borrowing by Indian households and businesses. The same release reports a small treasury loss—a loss from trading bonds and other investments—which is separate from income earned by serving customers."
   ],
   "quiz": [
     "If a bank writes off a loan, does that mean the borrower paid it back?",
@@ -128,11 +128,15 @@
     ],
     [
       "ICICI Bank annual-report library",
-      "https://www.icicibank.com/about-us/annual"
+      "https://www.icici.bank.in/about-us/annual"
     ],
     [
       "FY 2025–26 annual report filed with the SEC",
       "https://www.sec.gov/Archives/edgar/data/1103838/000095010326011004/dp250272_ex9901.pdf"
+    ],
+    [
+      "July–September 2026 performance review · 17 October 2026",
+      "https://www.icici.bank.in/content/dam/icicibank/india/managed-assets/docs/about-us/2027/performance-review-for-quarter-ended-sep-30-2026.pdf"
     ]
   ],
   "financialNotes": [
@@ -141,5 +145,5 @@
       "text": "The audited figures cover the consolidated group, including insurance businesses. Gross total income, net interest income and profit after tax measure different stages of the business. Deposits, advances and assets are balance-sheet amounts. The table does not allocate profit to each card, account or loan product."
     }
   ],
-  "checked": "29 October 2026"
+  "checked": "31 October 2026"
 }

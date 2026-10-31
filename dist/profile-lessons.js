@@ -112,8 +112,8 @@ window.COMPANY_LESSONS = {
       ]
     ],
     "context": [
-      "The customer wants a finished surface",
-      "A shade card helps choose a colour, but the customer also needs a prepared wall, the right materials and a good painting job. Look at how the company helps that whole purchase work, not just how many colours it offers."
+      "Price increases can make sales grow faster than litres",
+      "Asian Paints’ 29 October 2026 results presentation says its decorative business in India, meaning paints for homes and buildings, sold more paint by volume in July–September 2026. Its sales value grew faster because the company had raised prices after the cost of its ingredients rose sharply earlier in the year. Paint made with ingredients bought at those higher costs was still being sold, so gross margin, the share of sales left after paying for materials, fell. Group profit grew more slowly than sales. The same presentation says the first stage of a new plant at Dahej in Gujarat has started making VAE emulsion, a liquid ingredient used in its paint formulas, which the company would otherwise have to buy. The company expects a stronger cost benefit only after a second stage is running, so a plant start does not yet prove a saving."
     ],
     "quiz": [
       "Does selling more litres of paint guarantee more profit?",
@@ -127,6 +127,10 @@ window.COMPANY_LESSONS = {
       [
         "Official annual-report library",
         "https://www.asianpaints.com/AnnualReports.html"
+      ],
+      [
+        "Volume versus value, ingredient costs and Dahej plant · results presentation 29 October 2026",
+        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/83b2bead-08c8-4789-a658-7985de0c772f.pdf"
       ]
     ],
     "financialNotes": [
@@ -135,7 +139,7 @@ window.COMPANY_LESSONS = {
         "text": "The audited group reports one business segment. The table shows revenue from operations and group profit after tax, including non-controlling interests. Decorative paints, industrial ventures, international activities and home décor are not assigned invented separate profits. Check how each venture enters the group accounts before comparing business highlights."
       }
     ],
-    "checked": "29 October 2026"
+    "checked": "31 October 2026"
   },
   "bajaj-auto": {
     "summary": "Motorcycles such as Pulsar, Chetak electric scooters and three-wheelers used to carry passengers or goods, sold in India and overseas.",
@@ -249,8 +253,8 @@ window.COMPANY_LESSONS = {
       ]
     ],
     "context": [
-      "Parts and repairs affect the buyer’s ability to work",
-      "A commercial vehicle that waits for a repair cannot earn for its driver during that time. Parts availability, service and running costs therefore matter to future purchases, as well as new-model launches."
+      "Electric scooter demand ran ahead of supply",
+      "Bajaj Auto’s 27 October 2026 standalone results release for July–September 2026 says Chetak electric scooter sales more than doubled from a year earlier even though supply was severely limited and demand exceeded what could be delivered; production is being increased. Standalone means Bajaj Auto Ltd itself, without its group companies such as KTM. The release says Chetak profitability kept improving but gives no separate Chetak profit, so none should be calculated from its sales. A shortage can leave buyers waiting or choosing another brand, and adding production costs money before the extra scooters are sold."
     ],
     "quiz": [
       "Can group sales growth be compared without checking which companies were included?",
@@ -268,6 +272,10 @@ window.COMPANY_LESSONS = {
       [
         "Directors’ report and group boundaries",
         "https://investors.bajajauto.com/ar26/directors-report/"
+      ],
+      [
+        "July–September 2026 standalone results release · 27 October 2026",
+        "https://www.bajajauto.com/-/media/images/bajajauto/media-kit/quarterly-results/2026/press-release-q2-fy27.pdf"
       ]
     ],
     "financialNotes": [
@@ -276,7 +284,7 @@ window.COMPANY_LESSONS = {
         "text": "The reported segments are Automotive, Investments and Financing, rather than one segment for each familiar vehicle brand. Segment income includes sales and other income; segment earnings come before the remaining financing and tax deductions. Read the reconciliation and the post-control KTM consolidation period before comparing years."
       }
     ],
-    "checked": "29 October 2026"
+    "checked": "31 October 2026"
   },
   "bharat-coking-coal": {
     "summary": "Bharat Coking Coal mines coal and sells it to steel-related and other industrial customers. Some coal is washed before sale to make it more suitable for the buyer.",
@@ -394,8 +402,8 @@ window.COMPANY_LESSONS = {
       ]
     ],
     "context": [
-      "Think of the whole route from mine to buyer",
-      "A mine needs more than coal underground. Workers must extract it, the right product must be prepared, transport must be available and a buyer must pay. Finding which stage is holding up that route is more useful than reading production alone."
+      "April–June 2026: less coal mined, more coal sent out than mined",
+      "BCCL’s results for the quarter to 30 June 2026, published on 22 July 2026, show production (coal dug out) lower than a year earlier. Offtake (coal sent out to customers) was higher than production in that quarter, which suggests some deliveries came from coal already stockpiled from earlier mining. Sales were a little lower than a year earlier, and the company reported a loss for the quarter after a profit in the same quarter a year before. These are unaudited figures for BCCL alone, checked by its auditors in a limited review, which gives less assurance than a full audit. One quarter shows why production, deliveries and profit need to be read separately; the full-year audited table below covers an earlier period."
     ],
     "quiz": [
       "If a washery can process more raw coal, must sales of clean coal rise by the same amount?",
@@ -413,6 +421,10 @@ window.COMPANY_LESSONS = {
       [
         "Official financial-result notes and business scope",
         "https://bcclweb.in/newpdfs/Investor_relation/Financial_statements/Q3_financial_result.pdf"
+      ],
+      [
+        "Unaudited results for the quarter ended 30 June 2026, with coal production and offtake · 22 July 2026",
+        "https://bcclweb.in/newpdfs/Investor_relation/Financial_statements/Financial%20Results.pdf"
       ]
     ],
     "financialNotes": [
@@ -425,7 +437,7 @@ window.COMPANY_LESSONS = {
         "text": "The cited result notes describe coal mining and related services without separate reportable segments. Do not create a profit allocation between raw coal, washed coal and individual mines from sales or output proportions."
       }
     ],
-    "checked": "29 October 2026"
+    "checked": "31 October 2026"
   },
   "bharti-airtel": {
     "summary": "Mobile calling and data, home internet, television and business connections, with African operations and the group’s tower-infrastructure business.",
@@ -544,8 +556,8 @@ window.COMPANY_LESSONS = {
       ]
     ],
     "context": [
-      "A bundled bill still covers several jobs",
-      "A household may buy mobile, home internet and television together. The company still has to install and run each service. Keeping a household longer helps only if the payments cover those costs and obligations."
+      "One postpaid bill can pay for several services",
+      "Airtel’s 7 October 2026 release describes new postpaid plans, where the customer pays a monthly bill rather than recharging in advance. They combine unlimited calls and data, spam and fraud protection, subscriptions to other companies’ entertainment and storage apps and, from 8 October 2026, one free international-roaming pack per SIM each year. Roaming means using the phone on networks abroad. One bill therefore covers Airtel’s own network service as well as items supplied by other companies or used abroad. The release does not say what Airtel pays for those items, so the plan price is not all Airtel’s to keep. Keeping a household longer helps only if the payments cover these costs."
     ],
     "quiz": [
       "Is EBITDA the cash left after paying for all network expansion?",
@@ -563,6 +575,10 @@ window.COMPANY_LESSONS = {
       [
         "Indus Towers: tower, power and space services",
         "https://www.industowers.com/offerings/"
+      ],
+      [
+        "New postpaid plans with bundled subscriptions and roaming · 7 October 2026",
+        "https://www.airtel.in/press-release/10-2026/airtel-offers-free-international-roaming-on-all-postpaid-plans/"
       ]
     ],
     "financialNotes": [
@@ -571,7 +587,7 @@ window.COMPANY_LESSONS = {
         "text": "The table preserves the audited segment definitions and separates segment sums from consolidated revenue after internal-sales eliminations. The reported earnings measure comes before financing, exceptional items and tax. Do not combine India customer-spending averages, Africa revenue and a group EBITDA margin into an invented profit calculation."
       }
     ],
-    "checked": "29 October 2026"
+    "checked": "31 October 2026"
   },
   "dr-reddys": {
     "summary": "Dr. Reddy’s supplies finished medicines, ingredients for other medicine makers, research and manufacturing services, and consumer-health products.",
@@ -689,8 +705,8 @@ window.COMPANY_LESSONS = {
       ]
     ],
     "context": [
-      "Website categories and financial categories can differ",
-      "The website describes what customers can buy. The annual accounts may combine those offerings into different reporting groups. Match the final financial table to its own definitions instead of guessing a separate profit for each website heading or brand."
+      "When one large product fades, look at the rest",
+      "Lenalidomide is Dr. Reddy’s generic version of the brand-name medicine Revlimid. The company launched it in the US in 2022 with limits on the quantity it could sell. In its 23 October 2026 results presentation, Dr. Reddy’s said total sales for July–September 2026 were slightly lower than a year earlier because lenalidomide sales fell. Sales excluding lenalidomide in North America, which the company calls its base business, grew by a double-digit percentage, meaning 10 percent or more. The same update says some batches of an ingredient called semaglutide did not meet their required quality standard and that the company is working to resolve this. Ask whether the remaining products can replace a fading product’s sales and profit, and whether quality problems delay new ones."
     ],
     "quiz": [
       "Is supplying an ingredient the same transaction as selling a finished medicine?",
@@ -708,6 +724,10 @@ window.COMPANY_LESSONS = {
       [
         "API manufacturing and services",
         "https://www.drreddys.com/active-pharmaceutical-ingredients"
+      ],
+      [
+        "Lenalidomide decline, base business and semaglutide quality issue · results presentation 23 October 2026",
+        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/3787a62c-6056-45bf-a566-3851ca03f88c.pdf"
       ]
     ],
     "financialNotes": [
@@ -716,7 +736,7 @@ window.COMPANY_LESSONS = {
         "text": "The table follows the audited IFRS segment note and shows external revenue with segment gross profit. Gross profit still has to cover research, selling and other later costs; it is not segment net profit. Internal PSAI sales are excluded from the displayed revenue, and geographical or therapeutic sales must not be added to it as separate businesses."
       }
     ],
-    "checked": "29 October 2026"
+    "checked": "31 October 2026"
   },
   "eternal": {
     "summary": "Eternal runs Zomato for restaurant orders, Blinkit for delivered shopping, District for dining and entertainment, and Hyperpure for supplies used by restaurants.",
@@ -834,8 +854,8 @@ window.COMPANY_LESSONS = {
       ]
     ],
     "context": [
-      "The restaurant customer can be on both sides of the group",
-      "A restaurant can receive a household’s meal order through Zomato and separately buy ingredients from Hyperpure. These are different transactions: one helps sell a meal, while the other supplies what the kitchen needs to make meals."
+      "A restaurant can be a Zomato seller and a Hyperpure customer",
+      "A restaurant can receive a household’s meal order through Zomato and separately buy ingredients from Hyperpure. One transaction helps sell a meal; the other supplies the kitchen. In its 21 October 2026 shareholders’ letter, Eternal says Hyperpure now delivers within two hours in all major cities, so restaurants need not buy and store as many perishable ingredients in advance. It also says Hyperpure helps some restaurants set up complete kitchens, including equipment, and stores and moves goods for some large restaurant chains. Each is a separate paid job with its own stock, storage and transport costs."
     ],
     "quiz": [
       "If Blinkit starts owning goods instead of only arranging sales, does a larger revenue figure prove the same increase in demand?",
@@ -857,6 +877,10 @@ window.COMPANY_LESSONS = {
       [
         "Official FY26 results announcement",
         "https://www.eternal.com/blog/q4fy26/"
+      ],
+      [
+        "Q2FY27 shareholders’ letter, including Hyperpure update · 21 October 2026",
+        "https://www.eternal.com/blog/q2fy27/"
       ]
     ],
     "financialNotes": [
@@ -869,14 +893,14 @@ window.COMPANY_LESSONS = {
         "text": "The disclosed food-delivery result and the quick-commerce revenue answer different questions. Preserve losses in the other rows, exclude internal transactions as the source does, and reconcile segment results to company profit rather than calling them net earnings."
       }
     ],
-    "checked": "29 October 2026"
+    "checked": "31 October 2026"
   },
   "glass-wall-systems": {
-    "listingLabel": "Listing status not verified",
+    "listingLabel": "NSE: GLASSWALL · listed 16 September 2026",
     "summary": "Glass Wall Systems designs, makes and installs the outside surfaces of buildings, including glass walls, covering panels and ventilation slats.",
     "description": "Picture an office tower with glass across its exterior. Those panels need supporting frames, connections and careful fitting. Glass Wall Systems works on this outer surface, called the façade or building envelope. It does not have to construct the entire tower to supply this part of it.",
     "money": "A project customer pays for the agreed design, materials, manufacturing and installation work. The company pays for glass, aluminium and other materials, factory workers, transport, site labour and running costs. Delays, repairs or unpaid bills can reduce what remains.",
-    "customers": "Developers, building owners and other project-contracting customers. They pay for specified exterior work. An apartment purchaser or a hotel guest normally uses the finished building rather than directly buying the façade contract.",
+    "customers": "Real-estate developers, hospitals, airport authorities, building contractors and companies putting up offices, homes or institutional buildings in India. Overseas, the company also sells made-to-order façade parts to façade contractors in the USA and Australia, who fit them on site. Each customer pays for its specified exterior work. An apartment purchaser or a hotel guest normally uses the finished building rather than directly buying the façade contract.",
     "drivers": "Winning workable contracts, obtaining materials, making panels, getting access to the building site, fitting them correctly and receiving customer payment.",
     "groups": [
       {
@@ -897,7 +921,12 @@ window.COMPANY_LESSONS = {
       {
         "title": "Making and fitting the parts",
         "examples": "Factory fabrication, delivery and site installation.",
-        "explanation": "Fabrication means making or assembling the parts. Workers may prepare panels in the factory, transport them and fit them at the building. Factory completion alone does not finish the customer’s project."
+        "explanation": "Fabrication means making or assembling the parts. For Indian projects, workers prepare panels in the factory, transport them and fit them at the building. For customers in the USA and Australia, the company makes and ships the parts and a local contractor fits them. Factory completion alone does not finish the customer’s project."
+      },
+      {
+        "title": "Windows, doors and skylights for expensive homes",
+        "examples": "Custom windows, doors, skylights and partition walls, mainly through its subsidiary Yes Systems.",
+        "explanation": "Fenestration is the industry word for windows, doors and other openings in a building. A subsidiary is a company owned by Glass Wall Systems; Yes Systems was bought during the year to March 2026 and fits these products in homes and commercial buildings. It is smaller than the façade work in the offer document’s figures."
       }
     ],
     "basics": [
@@ -988,8 +1017,8 @@ window.COMPANY_LESSONS = {
       ]
     ],
     "context": [
-      "A façade is the outside of the building",
-      "The spelling façade is correct; facade is also used. The useful business distinction is between supplying that exterior and building or owning the whole property. The developer’s project creates the job; the company earns by completing its agreed part."
+      "The share sale funds a planned glass factory; the factory is not yet built",
+      "Glass Wall Systems’ shares began trading on 16 September 2026. Most shares sold in the offer came from existing owners, and that money went to them, not to the company. The smaller part, new shares issued by the company, is meant mainly to pay for a glass processing unit at its Vile Bhagad factory in Maharashtra. Backward integration means doing an earlier step yourself: here, cutting and preparing glass that it would otherwise buy ready-processed. Treat it as a plan until the company reports that the unit is built and running."
     ],
     "quiz": [
       "If exterior panels have been made in the factory, is the full job finished and paid for?",
@@ -1005,12 +1034,16 @@ window.COMPANY_LESSONS = {
         "https://www.glasswallsystems.in/facility/"
       ],
       [
-        "Official offer document and contract disclosures",
-        "https://www.glasswallsystems.in/wp-content/uploads/2025/09/DRHP.pdf"
-      ],
-      [
         "Audited company financial statements",
         "https://www.glasswallsystems.in/ipo-docs/70768f2eb63447c19e077624facbc935.pdf"
+      ],
+      [
+        "Abridged prospectus: business lines, customers and use of money raised · September 2026",
+        "https://www.sebi.gov.in/sebi_data/commondocs/sep-2026/GLASS%20WALL%20SYSTEMS%20(INDIA)%20LIMITED%20-%20AP_p.pdf"
+      ],
+      [
+        "June 2026 quarter results notes: IPO completed and listing on 16 September 2026 · filed 6 October 2026",
+        "https://www.bseindia.com/xml-data/corpfiling/AttachHis/374c07e1-c277-4593-81d8-1bd7e9b41c72.pdf"
       ]
     ],
     "financialNotes": [
@@ -1023,7 +1056,7 @@ window.COMPANY_LESSONS = {
         "text": "Contract assets, receivables and retention can explain why earnings and cash move differently. Keep standalone and consolidated scope distinct and review the actual accounting policy before comparing project performance across periods."
       }
     ],
-    "checked": "29 October 2026"
+    "checked": "31 October 2026"
   },
   "hdfc-bank": {
     "summary": "HDFC Bank provides accounts for keeping and moving money, loans for homes and other needs, and services for businesses.",
@@ -1141,8 +1174,8 @@ window.COMPANY_LESSONS = {
       ]
     ],
     "context": [
-      "Growth needs follow-up",
-      "The work continues after a loan is approved. Repayments and signs of difficulty need monitoring throughout its life; lending quickly today can create losses that appear later."
+      "Profit can grow more slowly than the everyday banking business",
+      "HDFC Bank’s 17 October 2026 release for July–September 2026 reports higher net interest income (interest earned minus interest paid) and higher fees than a year earlier, while profit after tax grew more slowly. The same release shows treasury trading gains—profits from buying and selling bonds and other investments, which rise and fall with market prices—were much smaller than a year earlier, and reports that profit excluding those gains grew faster. Separate income from lending and services from investment gains before judging a change in profit. These quarterly figures had a limited review by the auditors, a lighter check than a full audit; the audited full-year table below covers an earlier period."
     ],
     "quiz": [
       "Is a home-loan repayment entirely income for the bank?",
@@ -1160,6 +1193,10 @@ window.COMPANY_LESSONS = {
       [
         "Official annual reports",
         "https://www.hdfc.bank.in/about-us/investor-relations/annual-reports"
+      ],
+      [
+        "July–September 2026 results release · 17 October 2026",
+        "https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/pdf/press-release/2026/q4-oct-dec/october/press-release-september-2026.pdf"
       ]
     ],
     "financialNotes": [
@@ -1168,7 +1205,7 @@ window.COMPANY_LESSONS = {
         "text": "The table pairs consolidated group total income with profit after tax attributable to owners. Total income is before funding, insurance, operating and credit-loss costs, and is different from net interest income. Deposit and loan balances are not revenue. Use the standalone bank accounts separately when investigating lending spreads and provisions."
       }
     ],
-    "checked": "29 October 2026"
+    "checked": "31 October 2026"
   },
   "icici-bank": {
     "summary": "ICICI Bank provides accounts, loans, cards and business payment services, accessible through branches and digital channels such as iMobile.",
@@ -1286,8 +1323,8 @@ window.COMPANY_LESSONS = {
       ]
     ],
     "context": [
-      "A useful service needs a workable business behind it",
-      "Easy payments and convenient apps help explain why customers use ICICI Bank. The investing question is whether serving those customers earns enough after funding, running costs and losses, while the bank remains able to meet its obligations."
+      "A jump in loans and deposits needs its explanation",
+      "ICICI Bank’s 17 October 2026 release for July–September 2026 reports a large rise in deposits and loans, and also gives slower growth figures that leave out FCNR(B) deposits and loans linked to them. FCNR(B) deposits are deposits kept in a foreign currency, such as US dollars, by Indians living abroad; the release links some loans made by the bank’s international branches to these deposits. Read the bank’s own breakdown before treating a jump as ordinary new borrowing by Indian households and businesses. The same release reports a small treasury loss—a loss from trading bonds and other investments—which is separate from income earned by serving customers."
     ],
     "quiz": [
       "If a bank writes off a loan, does that mean the borrower paid it back?",
@@ -1300,11 +1337,15 @@ window.COMPANY_LESSONS = {
       ],
       [
         "ICICI Bank annual-report library",
-        "https://www.icicibank.com/about-us/annual"
+        "https://www.icici.bank.in/about-us/annual"
       ],
       [
         "FY 2025–26 annual report filed with the SEC",
         "https://www.sec.gov/Archives/edgar/data/1103838/000095010326011004/dp250272_ex9901.pdf"
+      ],
+      [
+        "July–September 2026 performance review · 17 October 2026",
+        "https://www.icici.bank.in/content/dam/icicibank/india/managed-assets/docs/about-us/2027/performance-review-for-quarter-ended-sep-30-2026.pdf"
       ]
     ],
     "financialNotes": [
@@ -1313,7 +1354,7 @@ window.COMPANY_LESSONS = {
         "text": "The audited figures cover the consolidated group, including insurance businesses. Gross total income, net interest income and profit after tax measure different stages of the business. Deposits, advances and assets are balance-sheet amounts. The table does not allocate profit to each card, account or loan product."
       }
     ],
-    "checked": "29 October 2026"
+    "checked": "31 October 2026"
   },
   "infosys": {
     "summary": "Infosys helps organisations build, change and run computer systems, with consulting, cloud, AI, software and routine business-work services.",
@@ -1427,8 +1468,8 @@ window.COMPANY_LESSONS = {
       ]
     ],
     "context": [
-      "Selling software can also mean helping someone use it",
-      "A reusable banking program still needs to be set up, connected to other systems and supported. Check which of those jobs the contract pays for. The software name alone does not identify all the costs or earnings."
+      "A bank choosing Finacle is the start of the work",
+      "Infosys’s 23 October 2026 results release says the bank Investec selected Finacle, Infosys’s banking software, as software as a service (SaaS) on Microsoft Azure. SaaS means the customer uses software that the provider runs and updates on remote computers, here Microsoft’s cloud service, instead of installing and running it itself. Being selected is an early step: the software still has to be set up, connected to the bank’s other systems, tested and supported before customers use it. Check which of those jobs the contract pays for. The software name alone does not identify all the costs or earnings."
     ],
     "quiz": [
       "Does constant-currency sales growth mean profit grew at the same rate?",
@@ -1442,6 +1483,10 @@ window.COMPANY_LESSONS = {
       [
         "Official service and product directory",
         "https://www.infosys.com/"
+      ],
+      [
+        "Results for the quarter ended 30 September 2026, with client examples · 23 October 2026",
+        "https://www.infosys.com/investors/reports-filings/quarterly-results/2026-2027/q2.html"
       ]
     ],
     "financialNotes": [
@@ -1454,10 +1499,10 @@ window.COMPANY_LESSONS = {
         "text": "An industry with high segment operating income can still have billing or collection timing differences. Continue with the consolidated cash-flow statement and customer balances before concluding how much cash was generated."
       }
     ],
-    "checked": "29 October 2026"
+    "checked": "31 October 2026"
   },
   "kanohar-electricals": {
-    "listingLabel": "Listing status not verified",
+    "listingLabel": "NSE: KANOHAR · listed 16 September 2026",
     "summary": "Kanohar makes electrical equipment such as transformers and helps build the substations and connections used to move electricity to where it is needed.",
     "description": "Electricity travels from a generating plant through a network before reaching a railway, factory or home. Different stages need different voltages; voltage is often compared to electrical pressure. A transformer changes the voltage. Kanohar supplies this equipment and also carries out parts of the work needed to build the network.",
     "money": "Customers pay for equipment or an agreed construction project. Kanohar pays for metals and other parts, engineers, factory workers, testing, delivery and any site work it has promised. Materials or equipment can need funding before a customer accepts the work and pays.",
@@ -1476,8 +1521,8 @@ window.COMPANY_LESSONS = {
       },
       {
         "title": "Equipment at substations",
-        "examples": "Shunt reactors, switchgear and related substation systems.",
-        "explanation": "A substation is a place where electricity is connected, controlled or changed to the required voltage. Switchgear turns connections on or off and helps protect equipment. A shunt reactor helps control voltage conditions on the network. These are different jobs within the same electricity system."
+        "examples": "Shunt reactors, gas-insulated switchgear and related substation systems.",
+        "explanation": "A substation is a place where electricity is connected, controlled or changed to the required voltage. Switchgear turns connections on or off and helps protect equipment; gas-insulated switchgear packs this equipment inside sealed metal enclosures filled with an insulating gas, so it needs less space. A shunt reactor helps control voltage conditions on the network. These are different jobs within the same electricity system."
       },
       {
         "title": "Building parts of the network",
@@ -1573,8 +1618,8 @@ window.COMPANY_LESSONS = {
       ]
     ],
     "context": [
-      "A catalogue shows what can be offered, not what was sold",
-      "A railway transformer and a network-construction project are useful examples of different jobs. To understand the current business, check which orders were actually delivered and what the accounts include; a long product list alone does not reveal the main source of earnings."
+      "Listed in September 2026; quarterly reports have only just started",
+      "Kanohar’s shares began trading on 16 September 2026. Its offer combined new shares issued by the company, whose money goes to Kanohar, with existing shares sold by current owners, whose money goes to those sellers. Being listed also means it now publishes results every three months. The first, for April to June 2026, was approved on 6 October 2026, and the company itself notes that some earlier comparison quarters were not reviewed by its auditor. With so few published quarters, a single three-month period can mislead: transformer orders are large and uneven, so check deliveries and payments over several periods."
     ],
     "quiz": [
       "If a utility announces a new power line, has Kanohar already earned its value?",
@@ -1592,6 +1637,10 @@ window.COMPANY_LESSONS = {
       [
         "Audited financial statements and joint-operation scope",
         "https://www.kanohar.com/Asset/newkanweb/Audited_Financial_Statements_25-26.pdf"
+      ],
+      [
+        "June 2026 quarter results notes: listing on 16 September 2026 and single power-system segment · approved 6 October 2026",
+        "https://beta.bseindia.com/XBRLFILES/IFIndasDuplicateUploadDocument/Integrated_Finance_Ind_As_544911_61020262147_IFIndAs.html"
       ]
     ],
     "financialNotes": [
@@ -1604,7 +1653,7 @@ window.COMPANY_LESSONS = {
         "text": "Read the joint-operation policy, equipment and project revenue recognition and cash-flow statement with the totals. Contract value, backlog, customer advances, recognised sales and profit are different measures and must not be added together."
       }
     ],
-    "checked": "29 October 2026"
+    "checked": "31 October 2026"
   },
   "larsen-and-toubro": {
     "summary": "L&T builds buildings, transport links and energy facilities, makes specialised equipment, and has businesses providing computer and engineering services, loans and property development.",
@@ -1732,8 +1781,8 @@ window.COMPANY_LESSONS = {
       ]
     ],
     "context": [
-      "The bridge can be physically finished before the contract is financially finished",
-      "Testing, customer acceptance, repairs and release of retained payment can continue after construction. Check those remaining duties before assuming a near-complete project has produced all its promised cash."
+      "The Hyderabad metro sale is agreed but not yet completed",
+      "L&T’s results for the quarter to 30 September 2026, published on 27 October 2026, say it agreed on 29 April 2026 to sell its whole stake in L&T Metro Rail (Hyderabad) Limited, the company that runs the Hyderabad metro, to a Telangana government company. The sale is still in progress, with expected completion moved to 31 December 2026. Until then the accounts show the metro business as “held for sale”: kept separate because it is expected to leave the group. An agreed sale and a completed, paid sale are different stages. The same results also rename L&T’s reporting groups from 1 April 2026. For example, Infrastructure Projects is now Infrastructure & Utilities, IT & Technology Services is now Technology, Platforms & Services, and solar and wind construction now sits in a new Energy – Green group. The audited 2025–26 figures below use the older names."
     ],
     "quiz": [
       "When L&T wins a large construction contract, has it already earned the whole value?",
@@ -1751,6 +1800,10 @@ window.COMPANY_LESSONS = {
       [
         "Audited FY 2025–26 segment results",
         "https://investors.larsentoubro.com/upload/Quarterly/FY2026QuarterlyLTResultMarch2026.pdf"
+      ],
+      [
+        "Quarter and half-year results, metro sale status and renamed reporting segments · 27 October 2026",
+        "https://investors.larsentoubro.com/upload/Quarterly/FY2027QuarterlyLnTResultsSeptember2026.pdf"
       ]
     ],
     "financialNotes": [
@@ -1763,7 +1816,7 @@ window.COMPANY_LESSONS = {
         "text": "Reported segment revenue includes internal sales, which are removed when reconciling to net group revenue. Other finance costs, unallocated items, exceptional items and tax also separate the segment-result total from company profit."
       }
     ],
-    "checked": "29 October 2026"
+    "checked": "31 October 2026"
   },
   "mahindra-and-mahindra": {
     "summary": "SUVs, pickups and tractors are central Mahindra businesses, alongside lending and other group companies providing products and services.",
@@ -1877,8 +1930,8 @@ window.COMPANY_LESSONS = {
       ]
     ],
     "context": [
-      "Start with the job each customer pays for",
-      "The Mahindra name may appear on a tractor, an SUV or a loan agreement. One customer pays for a machine, another for transport and another for borrowed money. Understanding those jobs makes the combined accounts easier to interpret."
+      "One month’s comparison can mislead",
+      "Mahindra’s 1 October 2026 tractor sales release reports fewer tractors sold in India in September 2026 than in September 2025. The company says this was mainly because the festival season, when many buyers make purchases, began in October this year but in September last year, and because September 2025 had been helped by a cut in GST (Goods and Services Tax, a tax added to the price of goods). Tractor sales for the year so far were still higher than a year earlier. Compare longer periods and read the company’s explanation before treating one month’s fall as weaker farm demand. These are sales quantities, not profit."
     ],
     "quiz": [
       "Should a lending business be judged in exactly the same way as a vehicle factory?",
@@ -1892,6 +1945,10 @@ window.COMPANY_LESSONS = {
       [
         "Automotive and farm business review",
         "https://www.mahindra.com/annual-report-FY2026/index.html"
+      ],
+      [
+        "September 2026 vehicle and tractor sales releases · 1 October 2026",
+        "https://www.mahindra.com/sites/default/files/2026-10/SEIntimationOctober2026PR.pdf"
       ]
     ],
     "financialNotes": [
@@ -1904,7 +1961,7 @@ window.COMPANY_LESSONS = {
         "text": "Lending has financing costs within its own business economics. Read the remaining group-level finance costs and unallocated items in the reconciliation rather than subtracting the same cost twice."
       }
     ],
-    "checked": "29 October 2026"
+    "checked": "31 October 2026"
   },
   "maruti-suzuki": {
     "summary": "The manufacturer behind cars sold through ARENA and NEXA, with parts, servicing-related offerings and exports.",
@@ -2018,8 +2075,8 @@ window.COMPANY_LESSONS = {
       ]
     ],
     "context": [
-      "A booking is an earlier stage than a completed sale",
-      "An enquiry, a booking, a car sent to a dealer and a driver taking it home are different events. Read when the company records its sale and whether vehicles are waiting in the dealer chain before treating popularity as earned profit."
+      "Record car sales and lower profit in the same quarter",
+      "Maruti Suzuki’s October 2026 results release for July–September 2026 reports its highest-ever quarterly vehicle sales and sales value, while net profit was lower than a year earlier. The company gives two reasons: higher prices for raw materials such as metals, which it links to the West Asia conflict, and mark-to-market losses on its invested spare cash—a fall in the recorded value of those investments, separate from selling cars. It also says demand outpaced supply, leaving low dealer stock and many pending bookings. A booking is an order not yet delivered and can still be cancelled. More cars sold does not automatically mean more profit."
     ],
     "quiz": [
       "If revenue rises faster than the number of cars sold, did customer demand necessarily rise equally?",
@@ -2033,6 +2090,10 @@ window.COMPANY_LESSONS = {
       [
         "FY 2025–26 annual-report announcement",
         "https://www.marutisuzuki.com/corporate/media/press-releases/2026/august/maruti-suzuki-annual-integrated-report-2025-26"
+      ],
+      [
+        "July–September 2026 results release · October 2026",
+        "https://www.marutisuzuki.com/corporate/media/press-releases/2026/october/maruti-suzuki-india-limited-financial-results-q2-and-h1-fy-2026-27"
       ]
     ],
     "financialNotes": [
@@ -2041,7 +2102,7 @@ window.COMPANY_LESSONS = {
         "text": "The table shows audited consolidated revenue from operations and profit after tax. Revenue includes products, services and other operating revenue, and differs from a standalone net-sales headline. A model’s retail price, bookings or factory capacity cannot be used to invent its manufacturer revenue or profit."
       }
     ],
-    "checked": "29 October 2026"
+    "checked": "31 October 2026"
   },
   "ntpc": {
     "summary": "NTPC runs power stations that make electricity and sells that electricity to contracted buyers, including companies that supply homes and businesses.",
@@ -2159,8 +2220,8 @@ window.COMPANY_LESSONS = {
       ]
     ],
     "context": [
-      "Follow a new project beyond the announcement",
-      "A plan still needs permissions, construction, tests, a working network connection and customers who pay. These stages show why a future electricity target and a running station are different evidence about the business."
+      "One Patratu unit moved from testing to regular service in 2026",
+      "Patratu Vidyut Utpadan Nigam Limited (PVUNL) is an NTPC subsidiary, meaning a company NTPC controls. On 18 May 2026 NTPC told the stock exchanges that PVUNL’s Unit 2 at Patratu, able to produce 800 megawatts (MW, a measure of how much power it can supply at one moment), had finished its trial run, a test period of running under approved standards, so it was added to the group’s installed capacity. A later disclosure dated 23 June 2026 said the same unit was declared in commercial operation from 25 June 2026, meaning it moved from testing into regular commercial service, the stage from which a unit normally operates and bills under its sales agreement. NTPC therefore reports installed capacity and commercial capacity as two separate totals. Neither disclosure says how much electricity the unit has sold or what it has earned."
     ],
     "quiz": [
       "If a station is ready to run, must it be producing at full output?",
@@ -2178,6 +2239,14 @@ window.COMPANY_LESSONS = {
       [
         "Annual-report library",
         "https://ntpc.co.in/investors/financial-performance/annual-reports"
+      ],
+      [
+        "Patratu Unit 2 trial-run completion · 18 May 2026",
+        "https://ntpc.co.in/sites/default/files/announcement/2026/2026-05/20260518_Completion%20of%20Trail%20Operation_STEX.pdf"
+      ],
+      [
+        "Patratu Unit 2 commercial-operation declaration · 23 June 2026",
+        "https://ntpc.co.in/sites/default/files/announcement/2026/2026-06/202060623_COD_PVUNL_0.pdf"
       ]
     ],
     "financialNotes": [
@@ -2186,7 +2255,7 @@ window.COMPANY_LESSONS = {
         "text": "Read the audited generation and other-business definitions, together with the internal-sales and other-income reconciliation. Capacity and power generation are operating measures, not revenue or profit. The reported segment result does not establish an individual plant’s net return or cash distribution."
       }
     ],
-    "checked": "29 October 2026"
+    "checked": "31 October 2026"
   },
   "parag-milk-foods": {
     "summary": "Parag turns milk into products such as Gowardhan ghee and paneer, Go cheese, Pride of Cows dairy, Topp Up milk drinks and Avvatar products made using the liquid left from cheese-making.",
@@ -2304,8 +2373,8 @@ window.COMPANY_LESSONS = {
       ]
     ],
     "context": [
-      "A supermarket pack and a restaurant supply have different journeys",
-      "A household buys a convenient pack; a restaurant may order a larger amount repeatedly. Compare the packing, delivery and payment terms instead of treating all dairy sales as the same kind of business."
+      "Milk became dearer, so Parag raised prices",
+      "In its 7 August 2026 presentation for April–June 2026, Parag said the milk it buys cost noticeably more than a year earlier. It raised selling prices and sold more of its higher-priced products, so the share of sales left after paying for milk and other materials stayed about the same. Sales grew mainly because of higher prices: the total quantity sold grew only a little, and the quantity of its main products (ghee, cheese, paneer and curd) dipped slightly. Profit after tax fell, which the company mainly explains by a higher tax charge. The board also approved doubling cheese-making capacity. That is an approved plan; the extra equipment still has to be built, and the added cheese and whey still have to be sold."
     ],
     "quiz": [
       "Does a higher-priced dairy pack automatically leave more profit?",
@@ -2323,6 +2392,10 @@ window.COMPANY_LESSONS = {
       [
         "Official investor library",
         "https://www.paragmilkfoods.com/investors.php"
+      ],
+      [
+        "Milk costs, price increases and cheese-capacity approval · investor presentation 7 August 2026",
+        "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d169b71b-4b8f-4ee8-a818-599393f514f7.pdf"
       ]
     ],
     "financialNotes": [
@@ -2335,7 +2408,7 @@ window.COMPANY_LESSONS = {
         "text": "Inventory, receivables, borrowing and investment can explain why a growing dairy business requires cash. A profit figure alone does not show how much remains after processing expansion and stock needs."
       }
     ],
-    "checked": "29 October 2026"
+    "checked": "31 October 2026"
   },
   "park-medi-world": {
     "summary": "Park Medi World operates the Park Hospitals network, providing consultations, tests, hospital stays, procedures and specialist care.",
@@ -2453,8 +2526,8 @@ window.COMPANY_LESSONS = {
       ]
     ],
     "context": [
-      "Owning a hospital building and operating its services are different",
-      "Park’s investor history includes acquisitions and an operation-and-maintenance agreement. An operator runs agreed hospital activities; that does not by itself mean it owns the property. Read what each arrangement requires, what income the company receives and which costs it must pay."
+      "Owning a hospital building and running it are different",
+      "On 16 September 2026, a Park subsidiary agreed to run an existing 300-bed hospital in Kanpur for 28 years. Axis Educational Society keeps ownership of the land and building. Park will pay for renovation and medical equipment and run the hospital; in return, it pays the owner a share of the money collected from patients, with a minimum monthly amount. The agreement takes effect no later than 1 April 2027, after renovation, so it does not yet add patients to Park’s network. Separately, on 26 August 2026 Park won a public–private partnership (PPP) mandate, an agreement with a government body, to build a 550-bed hospital in Prayagraj over about two years and then run it under a 45-year lease. Keep track of which sites Park owns, which it only runs, and which are already treating patients."
     ],
     "quiz": [
       "Would adding beds alone prove hospital earnings will rise?",
@@ -2472,6 +2545,10 @@ window.COMPANY_LESSONS = {
       [
         "FY 2025–26 annual report",
         "https://www.parkhospital.in/public/uploads/financial-annual-report/Annual%20Report%202025-2026.pdf"
+      ],
+      [
+        "Kanpur operation-and-management agreement · exchange filing 16 September 2026",
+        "https://www.parkhospital.in/public/uploads/stock-report/Intimation%20-%20Operations%20and%20Management%20Agreement%20with%20AES%20-%20September%2016,%202026.pdf"
       ]
     ],
     "financialNotes": [
@@ -2484,7 +2561,7 @@ window.COMPANY_LESSONS = {
         "text": "Read the stated group and tax basis, then check receivables, operating cash flow, capital expenditure and lease or other commitments before concluding how much money is available after expansion."
       }
     ],
-    "checked": "29 October 2026"
+    "checked": "31 October 2026"
   },
   "power-grid": {
     "summary": "POWERGRID builds and runs the long-distance electricity lines and substations that connect power stations with places needing power.",
@@ -2602,8 +2679,8 @@ window.COMPANY_LESSONS = {
       ]
     ],
     "context": [
-      "A new renewable station also needs a route to its buyer",
-      "A solar or wind project being finished does not by itself establish that the required transmission connection is ready. Follow both projects through to working connections and the conditions needed to begin charging."
+      "Two renewable-power routes won in 2026 are still years from service",
+      "A solar or wind farm needs lines and substations to send its power to buyers. POWERGRID’s 4 August 2026 release says it won two such projects through tariff-based competitive bidding, where companies compete on the charge they would collect for building and running the line. Winning meant taking over a special purpose vehicle (SPV), a company set up for one project, from the government agency running the bid. Bhadla Ramgarh Power Transmission will add equipment at existing substations in Rajasthan and Uttar Pradesh and is scheduled for commissioning, meaning testing and bringing into service, by 20 January 2029. Krishnagiri REZ Transmission will build two new substations and lines across Andhra Pradesh, Telangana and Karnataka within 36 months. POWERGRID will build, own and run these assets for the contract period and later hand them over. Until they are working, they need construction money but do not yet earn their charges."
     ],
     "quiz": [
       "Does POWERGRID usually make the electricity carried by its transmission lines?",
@@ -2621,6 +2698,10 @@ window.COMPANY_LESSONS = {
       [
         "Official investor information",
         "https://www.powergrid.in/"
+      ],
+      [
+        "Two renewable-energy transmission projects won through competitive bidding · 4 August 2026",
+        "https://www.powergrid.in/sites/default/files/press_document/Press%20Release%202%20SPVs%20%28hindi-english%29.pdf"
       ]
     ],
     "financialNotes": [
@@ -2629,7 +2710,7 @@ window.COMPANY_LESSONS = {
         "text": "Use the reporting scope and earnings definition printed with the audited figures. Transmission charges, other business income and group profit are different measures. Regulated tariff calculations and system capacity do not substitute for recognised income, operating cash or the cost of funding new projects."
       }
     ],
-    "checked": "29 October 2026"
+    "checked": "31 October 2026"
   },
   "rainbow-childrens-medicare": {
     "summary": "Rainbow Children’s Medicare runs hospitals and clinics for children and women, including maternity and fertility services.",
@@ -3126,8 +3207,8 @@ window.COMPANY_LESSONS = {
       ]
     ],
     "context": [
-      "Follow the customer’s payment through the relevant business",
-      "A Jio recharge pays for connectivity, a shop purchase pays for merchandise, and an industrial order pays for specified materials. Start with that job and its costs, then use the final financial section to compare the activities without adding overlapping group figures."
+      "Jio’s shares began trading separately on 28 October 2026",
+      "A BSE notice dated 27 October 2026 says shares of Jio Platforms, the Reliance company that runs Jio’s mobile, broadband and digital services, were listed and admitted to trading from 28 October 2026. Listing means its shares can now be bought and sold on the stock exchange in their own right. The offer document names Reliance Industries as Jio’s promoter, meaning the shareholder in control, and describes the offer as new shares only. So the money raised went to Jio, not to Reliance selling its own Jio shares. Jio remains part of the Reliance group, but it now also has public shareholders, so not all of Jio’s profit belongs to Reliance’s shareholders. The annual figures below cover the period before this listing."
     ],
     "quiz": [
       "Can sales numbers from every Reliance business presentation simply be added together?",
@@ -3141,6 +3222,14 @@ window.COMPANY_LESSONS = {
       [
         "Management discussion and analysis",
         "https://www.ril.com/ar2025-26/mda.html"
+      ],
+      [
+        "BSE notice: Jio Platforms shares listed from 28 October 2026 · 27 October 2026",
+        "https://www.bseindia.com/downloads/UploadDocs/Notices/20261027-9/20261027-9.pdf"
+      ],
+      [
+        "Jio Platforms red herring prospectus (offer document) · October 2026",
+        "https://www.sebi.gov.in/sebi_data/commondocs/oct-2026/Jio%20Platforms%20Limited%20-%20Red%20Herring%20Prospectus%20and%20Abridged%20Prospectus_p.pdf"
       ]
     ],
     "financialNotes": [
@@ -3153,10 +3242,10 @@ window.COMPANY_LESSONS = {
         "text": "The earnings column is EBITDA. Depreciation, financing, tax, ownership interests and investment needs matter afterward. Oil to Chemicals leads the displayed revenue, while Digital Services leads the displayed EBITDA; those answer different questions."
       }
     ],
-    "checked": "29 October 2026"
+    "checked": "31 October 2026"
   },
   "rentomojo": {
-    "listingLabel": "Listing status not verified",
+    "listingLabel": "NSE: RENTOMOJO · listed 17 September 2026",
     "summary": "A service that rents furniture and appliances to customers under plans that vary by product, city and rental period.",
     "description": "Rentomojo lets a customer use household goods without buying them outright at the start. For example, someone moving to a city for a temporary job might rent a bed and washing machine. The company arranges the items, takes them to the home, provides the support covered by the plan and collects them when the rental ends.",
     "money": "Customers pay rent and any service or other charges allowed by their agreement. The business pays to obtain or finance products, move and install them, maintain them, store them and prepare returned items for another customer. A refundable deposit remains money owed back under the terms; it is not automatically income or profit.",
@@ -3246,7 +3335,7 @@ window.COMPANY_LESSONS = {
       [
         "Are the plan and the company’s investment status clear?",
         "A rental plan and an exchange-traded share are different things to verify.",
-        "Use the current official agreement for rental length, damage, refunds and early closure. Separately check the legal company and exchange admission: an IPO document alone does not establish that shares have begun trading."
+        "Use the current official agreement for rental length, damage, refunds and early closure. The shares of Rentomojo Limited have traded on BSE and NSE since 17 September 2026, so later results and announcements appear in its stock-exchange filings; a rental plan bought on the website is a separate thing from owning a share."
       ]
     ],
     "risks": [
@@ -3269,7 +3358,7 @@ window.COMPANY_LESSONS = {
     ],
     "context": [
       "Follow the item after the first customer leaves",
-      "A successful first rental is only part of the story. The item’s condition, collection and repair costs, and time taken to find another user affect what it earns overall. Regular rent is useful only after those repeated costs are considered."
+      "Rentomojo’s annual report for the year to March 2026, filed with the stock exchanges on 16 October 2026, describes the cycle: deliver and install the item, collect it when the rental ends, then clean, repair and send it to another customer. It reports 20 warehouses and 82 showrooms, which it calls experience stores, across 29 cities. Each extra round of collection, repair and storage costs money, and an item earns rent only while a customer has it. Regular rent is useful only after those repeated costs are considered."
     ],
     "quiz": [
       "Is a refundable deposit the same as profit from renting a product?",
@@ -3291,15 +3380,19 @@ window.COMPANY_LESSONS = {
       [
         "Official contact and company identity",
         "https://www.rentomojo.com/contact"
+      ],
+      [
+        "Annual report 2025–26 with stock-exchange cover letter, listing date and rental cycle · filed 16 October 2026",
+        "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3f6fadf7-0a29-4e18-9714-9cf163a9f01d.pdf"
       ]
     ],
     "financialNotes": [
       {
         "title": "Verify the legal entity and financial scope first",
-        "text": "The restated consolidated figures are verified from the issuer’s offer documents; current exchange admission remains separately unverified. The disclosed deferred-tax credit increased annual profit after tax, so the profit should not be read as rental operating performance alone. Separate recognised rental revenue, refundable deposits, depreciation, financing and cash needed for assets."
+        "text": "The restated consolidated figures are verified from the issuer’s offer documents; the shares were admitted to trading later, on 17 September 2026. The disclosed deferred-tax credit increased annual profit after tax, so the profit should not be read as rental operating performance alone. Separate recognised rental revenue, refundable deposits, depreciation, financing and cash needed for assets."
       }
     ],
-    "checked": "29 October 2026"
+    "checked": "31 October 2026"
   },
   "state-bank-of-india": {
     "summary": "State Bank of India helps households save, make payments and borrow, and lends to farmers, small businesses and large companies.",
@@ -3417,8 +3510,8 @@ window.COMPANY_LESSONS = {
       ]
     ],
     "context": [
-      "Read a loan balance as an unfinished relationship",
-      "A loan is not a completed sale when money is handed over. SBI still has to service and collect it, sometimes over a long period. A lending increase is therefore a starting point for investigating repayment quality, not proof of a successful outcome."
+      "Loans grew faster than deposits",
+      "SBI’s 7 August 2026 release for April–June 2026 reports loans growing roughly twice as fast as deposits compared with a year earlier. When lending rises by more than deposits, the difference has to come from other money, such as funds the bank already holds or borrowing. SBI’s list of exchange filings for the following months records the raising of senior unsecured bonds in July and August 2026. A bond is money borrowed from investors that must be repaid with interest; unsecured means no specific asset is pledged against it. Compare what each funding source costs with what new loans earn, and remember that a loan still has to be repaid over time before lending growth becomes a successful result."
     ],
     "quiz": [
       "Does a falling bad-loan balance prove borrowers paid back the whole reduction?",
@@ -3436,6 +3529,14 @@ window.COMPANY_LESSONS = {
       [
         "yono Business service overview",
         "https://yonobusiness.sbi.bank.in/"
+      ],
+      [
+        "April–June 2026 results press release · 7 August 2026",
+        "https://sbi.bank.in/documents/17826/58855131/346.pdf/78eeda40-8741-016c-75f9-30eb645b184e?t=1786364282832"
+      ],
+      [
+        "Exchange-filing list including bond raising · July–October 2026",
+        "https://sbi.bank.in/web/corporate-governance/2nd-quarter-2026-27-"
       ]
     ],
     "financialNotes": [
@@ -3444,7 +3545,7 @@ window.COMPANY_LESSONS = {
         "text": "Use the consolidated annual column and its owners’ profit definition, including the adjustments for associates and minority shareholders. Interest earned, total income and net interest income are different measures. Deposit and loan balances are not product sales, and standalone-bank ratios should not be combined with group profit."
       }
     ],
-    "checked": "29 October 2026"
+    "checked": "31 October 2026"
   },
   "sun-pharma": {
     "summary": "Sun Pharma develops and makes finished medicines, supplies ingredients used to make medicines, and sells selected consumer-health products.",
@@ -3562,8 +3663,8 @@ window.COMPANY_LESSONS = {
       ]
     ],
     "context": [
-      "Follow each country’s permission and selling rights",
-      "A product announced in one market is not automatically available elsewhere. Check where Sun has permission and commercial rights, whether it has started selling there and how buyers pay. These steps explain why a medicine announcement is not the same as worldwide income."
+      "A signed purchase agreement is not yet a combined company",
+      "On 27 April 2026, Sun signed an agreement to buy all the shares of another medicine company, Organon & Co., for cash. Sun’s 30 October 2026 results say approvals from most of the required government authorities have been received, a few are still pending, and the two companies continue to operate separately until the deal closes; Sun indicates closing by the January–March 2027 quarter. Meanwhile Sun is already paying advisers, lawyers and lenders for the deal. It reported these costs, together with a US legal settlement, as exceptional items, meaning unusual charges shown separately from regular business. In that quarter, sales grew while reported net profit fell. Keep the signed agreement, the completed purchase and the later combined results as separate stages."
     ],
     "quiz": [
       "Does an approved medicine automatically earn back its development costs?",
@@ -3581,6 +3682,10 @@ window.COMPANY_LESSONS = {
       [
         "FY 2025–26 company results commentary",
         "https://sunpharma.com/wp-content/uploads/2026/05/Press-Release-Sun-Pharma-Q4FY26-Financial-Result.pdf"
+      ],
+      [
+        "Organon purchase status and exceptional charges · results filing 30 October 2026",
+        "https://www.bseindia.com/xml-data/corpfiling/AttachLive/658231ad-7203-4355-be99-2a162b722c0c.pdf"
       ]
     ],
     "financialNotes": [
@@ -3589,7 +3694,7 @@ window.COMPANY_LESSONS = {
         "text": "The audited group reports one Pharmaceuticals segment. The table uses revenue from operations and profit attributable to owners, including reported exceptional items. Product, geographical and therapy sales descriptions can overlap; none establishes a separately audited profit for each medicine or therapy."
       }
     ],
-    "checked": "29 October 2026"
+    "checked": "31 October 2026"
   },
   "swiggy": {
     "summary": "Swiggy helps people order restaurant meals, receive groceries through Instamart, and use dining or event services. The group also provides storage and distribution services to businesses.",
@@ -3606,7 +3711,7 @@ window.COMPANY_LESSONS = {
       {
         "title": "Instamart grocery shopping",
         "examples": "Groceries and household goods delivered from nearby sites.",
-        "explanation": "A dark store is a place where workers store, pick and pack goods for online orders rather than serve shoppers in aisles. A grocery order needs the right stock, packing and a delivery route; the merchant and stock arrangements determine who earns which part of the payment."
+        "explanation": "A dark store is a place where workers store, pick and pack goods for online orders rather than serve shoppers in aisles. A grocery order needs the right stock, packing and a delivery route; the merchant and stock arrangements determine who earns which part of the payment. Swiggy’s October 2026 shareholders’ letter says Instamart plans to start owning the goods it sells from late 2026, a change expected to take two to three quarters. Owning goods means recording their full sale value, but also paying for the stock."
       },
       {
         "title": "Dining and experiences",
@@ -3616,7 +3721,7 @@ window.COMPANY_LESSONS = {
       {
         "title": "Storage, distribution and newer services",
         "examples": "Services for merchants and brands, plus newer offerings being developed.",
-        "explanation": "Distribution means getting goods from suppliers towards the businesses that sell or use them. Storage and movement can create a large goods-sales total but also involve buying goods, running warehouses and transporting them. A new app feature is not automatically a separate profitable business."
+        "explanation": "Distribution means getting goods from suppliers towards the businesses that sell or use them. Storage and movement can create a large goods-sales total but also involve buying goods, running warehouses and transporting them. In September 2026 Swiggy agreed to sell the part that distributed brands’ goods to shops; other storage and delivery services for sellers continue. A new app feature is not automatically a separate profitable business."
       }
     ],
     "basics": [
@@ -3707,8 +3812,8 @@ window.COMPANY_LESSONS = {
       ]
     ],
     "context": [
-      "Storage and delivery are real jobs behind an online order",
-      "The group’s business services can help merchants hold and move goods before a household ever places an order. Read what customers are paying for in each activity rather than treating the entire company as only a restaurant-delivery app."
+      "Swiggy sold one distribution business in September 2026",
+      "Authorised distribution means supplying a brand’s goods to shops and wholesalers on the brand’s behalf. Swiggy’s 7 September 2026 disclosure says this business-to-business activity would be moved into a subsidiary, Lynks Logistics, and sold to Trustroot Internet, the parent of the wholesale-trading business Udaan. Swiggy is paid in Trustroot shares rather than cash. The October 2026 shareholders’ letter says this business stops being part of Swiggy’s reported results from the October–December 2026 quarter. Other storage and delivery services for sellers remain, so read what customers pay for in each remaining activity rather than assuming earlier sales will repeat."
     ],
     "quiz": [
       "If restaurant delivery earns a profit, must the whole Swiggy group be profitable?",
@@ -3726,6 +3831,14 @@ window.COMPANY_LESSONS = {
       [
         "Current corporate announcements",
         "https://www.swiggy.com/corporate/governance/corporate-announcements/"
+      ],
+      [
+        "Sale of Lynks Logistics distribution business · 7 September 2026",
+        "https://www.swiggy.com/corporate/wp-content/uploads/2026/09/SE-Intimation_Sale-of-Stake.pdf"
+      ],
+      [
+        "Q2 FY2027 shareholders’ letter · 22 October 2026",
+        "https://www.swiggy.com/corporate/wp-content/uploads/2026/10/Q2-FY2027-Shareholder-letter.pdf"
       ]
     ],
     "financialNotes": [
@@ -3738,7 +3851,7 @@ window.COMPANY_LESSONS = {
         "text": "The verified snapshot shows different outcomes across food delivery, out-of-home, quick commerce, supply chain and innovations. Segment results still require the source’s reconciliation for other income, share-based payments, finance, depreciation and other items before group net profit."
       }
     ],
-    "checked": "29 October 2026"
+    "checked": "31 October 2026"
   },
   "tcs": {
     "summary": "TCS builds, changes and runs computer systems and related business work for organisations such as banks, shops and manufacturers.",
@@ -3852,8 +3965,8 @@ window.COMPANY_LESSONS = {
       ]
     ],
     "context": [
-      "An old customer still has to choose to stay",
-      "Knowing a customer’s systems can help TCS do useful work, but contracts still face price and quality checks and competition. A long relationship does not guarantee that future projects or renewals will be won."
+      "A customer’s own technology team can move to TCS",
+      "On 1 October 2026 TCS announced an agreement under which Best Buy’s technology centre in India, and its employees, will move to TCS. A capability centre of this kind is an office a company runs for its own technology work. After the move, the work for Best Buy continues under a multi-year agreement with TCS instead of being done by Best Buy’s own staff. In August 2026 TCS also announced a five-year deal with Porsche that includes buying MHP, Porsche’s consulting subsidiary, subject to regulatory approval. Taking over a team brings work but also wages, offices and the job of keeping the customer satisfied. An announced agreement is not yet completed, earned or paid work."
     ],
     "quiz": [
       "Can the whole announced value of a long contract be counted as this year’s sales?",
@@ -3867,6 +3980,18 @@ window.COMPANY_LESSONS = {
       [
         "FY 2025–26 annual report",
         "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2025-26/ar/annual-report-2025-2026.pdf"
+      ],
+      [
+        "Best Buy India technology centre moving to TCS · 1 October 2026",
+        "https://www.tcs.com/who-we-are/newsroom/press-release/best-buys-global-capability-center-india-transition-tcs"
+      ],
+      [
+        "Porsche partnership and proposed MHP acquisition, subject to approvals · 24 August 2026",
+        "https://www.tcs.com/who-we-are/newsroom/press-release/tcs-porsche-ag-partner-accelerate-future-of-ai-powered-mobility"
+      ],
+      [
+        "Results for the quarter ended 30 September 2026 · 8 October 2026",
+        "https://www.tcs.com/who-we-are/newsroom/press-release/tcs-financial-results-q2-fy-2027"
       ]
     ],
     "financialNotes": [
@@ -3879,7 +4004,7 @@ window.COMPANY_LESSONS = {
         "text": "Cloud, AI and BaNCS can serve several client industries. The table is not a profit report for each platform, nor a replacement for the consolidated profit and cash-flow reconciliation."
       }
     ],
-    "checked": "29 October 2026"
+    "checked": "31 October 2026"
   },
   "titan-company": {
     "summary": "The business behind Tanishq jewellery, Titan and Fastrack watches, Titan Eye+ eyewear and other lifestyle products.",
@@ -3997,8 +4122,8 @@ window.COMPANY_LESSONS = {
       ]
     ],
     "context": [
-      "Buying another company changes the comparison",
-      "The cited annual results describe the completed majority acquisition of Damas. That brings an existing jewellery business into Titan’s reported group. Separate sales added through that purchase from growth in shops and businesses Titan already had."
+      "More sales can come from bigger bills, not many more buyers",
+      "Titan’s 6 October 2026 quarterly update says jewellery sales in India grew strongly in July–September 2026 compared with a year earlier, but the number of buyers grew only in the mid-single digits. Most of the increase came from a larger average bill, the amount spent per purchase, which can rise when gold costs more or customers choose pieces set with diamonds and other stones. The update also includes Damas, a majority-owned jewellery business in the Gulf countries that Titan has included in its accounts since January 2026, in its international figures. Part of that international growth therefore comes from a purchased business rather than more customers at existing shops. The update is provisional: the auditors had not yet reviewed it."
     ],
     "quiz": [
       "Does a higher jewellery sales value prove that Titan sold more gold by weight?",
@@ -4020,6 +4145,10 @@ window.COMPANY_LESSONS = {
       [
         "FY 2025–26 earnings presentation and measurement notes",
         "https://www.titancompany.in/sites/default/files/2026-05/Q4FY26%20Earnings%20Presentation%20-%20Uploaded.pdf"
+      ],
+      [
+        "Buyer growth, average bill and Damas in international figures · quarterly update 6 October 2026",
+        "https://www.titancompany.in/sites/default/files/2026-10/Q2update202627.pdf"
       ]
     ],
     "financialNotes": [
@@ -4036,19 +4165,19 @@ window.COMPANY_LESSONS = {
         "text": "The corporate unallocated line has a ₹201 crore loss, reducing the combined segment result. The Others row is not a profit measure for every new lifestyle brand. Read the reconciliation, inventory funding, acquisition payments and cash flow before treating the segment total as cash available to shareholders."
       }
     ],
-    "checked": "29 October 2026"
+    "checked": "31 October 2026"
   },
   "tonbo-imaging": {
     "summary": "Tonbo makes camera-like equipment that helps organisations see and observe, including devices that form pictures from heat. It also supplies parts that other equipment makers build into their products.",
     "description": "A normal camera forms a picture using light. Thermal-imaging equipment detects heat energy given off by objects and turns differences into an image. Tonbo combines sensors, electronics and software to make observation devices or parts for a larger machine, such as a vehicle’s vision system.",
     "money": "Customers pay for equipment, parts and agreed design or fitting work. Tonbo must pay engineers, buy components, arrange production, test products and provide promised support. The amount billed is different from the profit left after these and other costs.",
-    "customers": "Government and security organisations buy equipment for their users. Other manufacturers buy Tonbo parts to put inside their own equipment. The organisation paying Tonbo may therefore be different from the person who eventually uses the finished device.",
+    "customers": "Armed forces, police and other security agencies in India and abroad buy equipment for their users. Other defence equipment makers buy Tonbo parts to put inside their own equipment. In the offer document, a large share of recent sales came from exports, especially to Europe. The organisation paying Tonbo may therefore be different from the person who eventually uses the finished device.",
     "drivers": "Winning firm orders, getting the required parts, completing tests, delivering working equipment and receiving customer payment. A delayed order or a problem with an important component can hold up several stages.",
-    "listingLabel": "Listing status not verified",
+    "listingLabel": "NSE: TONBO · listed 23 October 2026",
     "groups": [
       {
         "title": "Devices that help users observe",
-        "examples": "Finished observation and thermal-imaging devices.",
+        "examples": "Finished thermal cameras and sights, including sights used to aim weapons from military vehicles.",
         "explanation": "The customer buys a working device rather than a bag of electronic parts. Its sensors collect signals, software turns them into images, and the finished equipment must pass the checks agreed with the buyer."
       },
       {
@@ -4063,7 +4192,7 @@ window.COMPANY_LESSONS = {
       },
       {
         "title": "Designing equipment to work together",
-        "examples": "Combined sensing systems and related development work.",
+        "examples": "Combined sensing systems, plus newer defence systems listed on its website such as a drone interceptor.",
         "explanation": "Some customers need several pieces of equipment and software to work as a system. Agreeing the design, building it and showing that it works can take longer than selling a standard device."
       }
     ],
@@ -4155,8 +4284,8 @@ window.COMPANY_LESSONS = {
       ]
     ],
     "context": [
-      "Tonbo can sell the part inside the product",
-      "A finished device may attract more attention, but another manufacturer can keep ordering the imaging unit inside its own equipment. Check which route brings repeat purchases and what Tonbo must supply and support in each case."
+      "Tonbo’s share sale paid existing owners, not the company",
+      "Tonbo’s shares began trading on NSE on 23 October 2026. The whole offer was an offer for sale: existing shareholders sold some of their shares to new investors. The prospectus states that Tonbo itself receives none of that money, so the listing does not pay for new factories, parts or research. Its engineering, parts and production must still be paid for from customer payments or other funding. Separately, a finished device may attract more attention, but another manufacturer can keep ordering the imaging unit inside its own equipment; check which route brings repeat purchases."
     ],
     "quiz": [
       "If a customer likes a demonstration, has Tonbo already earned a sale?",
@@ -4174,6 +4303,14 @@ window.COMPANY_LESSONS = {
       [
         "Official integrated-systems overview",
         "https://tonboimaging.com/defense/products/systems/"
+      ],
+      [
+        "Abridged prospectus: offer for sale only, customers and export dependence · October 2026",
+        "https://www.sebi.gov.in/sebi_data/commondocs/oct-2026/Tonbo%20Imaging%20India%20Limited-Abridged%20Prospectus_p.pdf"
+      ],
+      [
+        "NSE security information: listed, date of listing 23 October 2026 · viewed 31 October 2026",
+        "https://www.nseindia.com/get-quote/equity/TONBO/Tonbo-Imaging-India-Limited"
       ]
     ],
     "financialNotes": [
@@ -4183,10 +4320,10 @@ window.COMPANY_LESSONS = {
       },
       {
         "title": "A catalogue does not verify a listing",
-        "text": "Product sources support the business explanation, not an exchange-admission claim. Confirm current listing and issuer identity in official exchange or offer documents before relying on a displayed symbol."
+        "text": "Product sources support the business explanation, not an exchange-admission claim. The NSE security page shows the shares listed on 23 October 2026; the annual table still comes from the earlier offer document and covers the year before listing."
       }
     ],
-    "checked": "29 October 2026"
+    "checked": "31 October 2026"
   },
   "ultratech-cement": {
     "summary": "Grey cement, ready-mix concrete, white cement and related materials used to build and finish homes and other structures.",
@@ -4212,8 +4349,8 @@ window.COMPANY_LESSONS = {
       },
       {
         "title": "Other building products and support",
-        "examples": "Related construction products and building-support offerings.",
-        "explanation": "A product name helps identify what the customer buys. It does not mean the company separately reports that product’s profit."
+        "examples": "Ultravolt electrical wires and cables, launched in July–September 2026, plus other construction products and building-support offerings.",
+        "explanation": "Wires and cables carry electricity through a building. They are made mainly from copper and aluminium and sold through retailers to electricians and other buyers, so their materials and customers differ from cement’s. A product name helps identify what the customer buys. It does not mean the company separately reports that product’s profit; UltraTech reports all its building materials as one business."
       }
     ],
     "basics": [
@@ -4300,8 +4437,8 @@ window.COMPANY_LESSONS = {
       ]
     ],
     "context": [
-      "A concrete truck and a cement bag solve different delivery problems",
-      "Prepared concrete needs nearby mixing and timely arrival at the site. Bagged cement can move through shops before it is used. Check the cost of serving each kind of order instead of assuming their profits are identical."
+      "New factory capacity and a new product in the September 2026 quarter",
+      "UltraTech’s 19 October 2026 results release says that in July–September 2026 it started a new cement plant at Petnikota, Andhra Pradesh, and squeezed extra output from three existing plants. It also says it sold more grey cement in India than a year earlier and used a larger share of its factories’ capacity. Capacity utilisation means how much of the possible production was actually used. Sales and profit both rose. In the same quarter it launched Ultravolt wires and cables, made at a newly started factory in Jhagadia, Gujarat. A new factory or product begins with spending; whether it earns depends on buyers ordering enough over the following years."
     ],
     "quiz": [
       "Does buying more cement factories guarantee more profit?",
@@ -4315,6 +4452,10 @@ window.COMPANY_LESSONS = {
       [
         "Infrastructure and concrete solutions",
         "https://www.ultratechcement.com/for-infrastructure/infrastructure-solution"
+      ],
+      [
+        "Results for the quarter ended 30 September 2026, new capacity and Ultravolt launch · 19 October 2026",
+        "https://www.ultratechcement.com/corporate/media/press-releases/financial-results-q2fy27"
       ]
     ],
     "financialNotes": [
@@ -4323,6 +4464,6 @@ window.COMPANY_LESSONS = {
         "text": "The table uses audited consolidated revenue from operations and statutory group profit after tax, including exceptional items. It does not substitute a net-sales or adjusted-profit press-release headline. Match the reporting period with volume disclosures; capacity is not sales, and company profit is not a profit allocation to cement, concrete or individual brands."
       }
     ],
-    "checked": "29 October 2026"
+    "checked": "31 October 2026"
   }
 };

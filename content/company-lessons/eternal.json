@@ -114,8 +114,8 @@
     ]
   ],
   "context": [
-    "The restaurant customer can be on both sides of the group",
-    "A restaurant can receive a household’s meal order through Zomato and separately buy ingredients from Hyperpure. These are different transactions: one helps sell a meal, while the other supplies what the kitchen needs to make meals."
+    "A restaurant can be a Zomato seller and a Hyperpure customer",
+    "A restaurant can receive a household’s meal order through Zomato and separately buy ingredients from Hyperpure. One transaction helps sell a meal; the other supplies the kitchen. In its 21 October 2026 shareholders’ letter, Eternal says Hyperpure now delivers within two hours in all major cities, so restaurants need not buy and store as many perishable ingredients in advance. It also says Hyperpure helps some restaurants set up complete kitchens, including equipment, and stores and moves goods for some large restaurant chains. Each is a separate paid job with its own stock, storage and transport costs."
   ],
   "quiz": [
     "If Blinkit starts owning goods instead of only arranging sales, does a larger revenue figure prove the same increase in demand?",
@@ -137,6 +137,10 @@
     [
       "Official FY26 results announcement",
       "https://www.eternal.com/blog/q4fy26/"
+    ],
+    [
+      "Q2FY27 shareholders’ letter, including Hyperpure update · 21 October 2026",
+      "https://www.eternal.com/blog/q2fy27/"
     ]
   ],
   "financialNotes": [
@@ -149,5 +153,5 @@
       "text": "The disclosed food-delivery result and the quick-commerce revenue answer different questions. Preserve losses in the other rows, exclude internal transactions as the source does, and reconcile segment results to company profit rather than calling them net earnings."
     }
   ],
-  "checked": "29 October 2026"
+  "checked": "31 October 2026"
 }

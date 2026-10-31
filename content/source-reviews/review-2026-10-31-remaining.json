@@ -1,0 +1,644 @@
+{
+  "checked": "31 October 2026",
+  "requestedProvider": "TinyFish",
+  "providerStatus": "TinyFish search and fetch_content used. Where official sites blocked the reader, PDFs were downloaded directly or the release text was read from an official distribution copy; each case is recorded in limits.",
+  "method": "Six parallel reviewers, each owning separate company files, compared repository profiles with official company, exchange and regulator sources. Integrated, rebuilt and tested by the parent reviewer.",
+  "scope": "Follows pilot-2026-10-31.json for the remaining 32 profiles. Targeted business explanation, listing-status and dated context review; not a new financial audit or exhaustive latest-filing check.",
+  "financialPolicy": "Existing verified annual amounts, dates, definitions and reporting scope unchanged. No quarterly amounts added; recent results are described in words only. Two financialNotes sentences (Rentomojo, Tonbo) reworded only to remove a now-contradicted 'listing unverified' statement.",
+  "findings": [
+    {
+      "company": "itc",
+      "status": "updated; September 2026 quarter results not yet reviewed",
+      "evidence": "ITC Infotech media statement, 31 August 2026: ITC Infotech (wholly owned subsidiary of ITC) board approved buying about 22.1% of Happiest Minds from its promoter in two tranches and a scheme to merge Happiest Minds into ITC Infotech, after which ITC Infotech shares would be listed. Subject to shareholder, CCI, stock-exchange and NCLT approvals; expected within 15 months; the companies continue to operate independently until then. Endorsed by ITC's board.",
+      "source": "https://www.itcinfotech.com/news-and-updates/strategic-combination-of-itc-infotech-and-happiest-minds-technologies-to-create-a-scaled-future-ready-ai-first-global-technology-services-enterprise-with-us-1-billion-revenue-by-fy28/",
+      "changes": [
+        "Replaced the generic group-relationship context with the dated, proposed ITC Infotech / Happiest Minds deal, with promoter, listed and approval steps explained, and kept 'proposal, not completed' distinct.",
+        "Kept the ITC Hotels associate explanation and the reminder that the parent-company figures are not a group-wide total.",
+        "Added the 31 August 2026 media statement to sources; set checked to 31 Oct 2026."
+      ],
+      "alreadyCorrect": [
+        "ITC Infotech described as a subsidiary; ITC Hotels as a separate listed associate.",
+        "Existing itcportal.com business pages and the FY 2025–26 results presentation still resolve."
+      ],
+      "limits": [
+        "ITC's quarterly-results page listed Q1 FY2027 as the latest release when checked. No September 2026 quarter release was read.",
+        "The deal value, share-exchange ratio and ITC's ownership after completion were not added; the ratio was seen only in non-official posts.",
+        "Completion and approvals were not established."
+      ]
+    },
+    {
+      "company": "nestle-india",
+      "status": "not reviewed; official site blocked automated reading",
+      "evidence": "nestle.in returned bot-blocked / 403 for the 15 October 2026 results outcome PDF, the at-a-glance page, key figures and the results library. A search snippet shows the 15 October 2026 release exists (quarter ended 30 September 2026).",
+      "source": "https://www.nestle.in/sites/g/files/pydnoa451/files/2026-10/BSENSEOutcomeResults15102026signed.pdf",
+      "changes": [],
+      "alreadyCorrect": [
+        "No contradiction found, but none could be checked against readable primary text."
+      ],
+      "limits": [
+        "No primary Nestlé India document could be read through TinyFish or a direct request, so the primer was left unchanged and checked was not updated.",
+        "News and search snippets were not used as evidence."
+      ]
+    },
+    {
+      "company": "britannia",
+      "status": "updated; September 2026 quarter results not yet published",
+      "evidence": "Q1 FY 2026–27 earnings call transcript, 7 August 2026, pages 8 and 15–16: most of what Britannia sells is in ₹5 and ₹10 packs; price increases are often made through lower grammage at the same price; after the GST cut the shopper got slightly more product rather than a lower price; the stated volume growth is total tonnage, not pack count.",
+      "source": "https://media.britannia.co.in/Britannia_Earnings_Aug07_2026_Updated_6288b5faf7.pdf",
+      "changes": [
+        "Replaced the FY 2025–26 overseas-logistics context with a dated example: packs, weight and money received can tell different stories. GST and 'earnings call' are explained where they appear.",
+        "Added the transcript to sources; set checked to 31 Oct 2026."
+      ],
+      "alreadyCorrect": [
+        "Category descriptions, the cheese joint venture and the annual report, Bel press release and about-us links still resolve."
+      ],
+      "limits": [
+        "The financial-results page appears to list a board-meeting notice for 5 November 2026; the September quarter results were not available.",
+        "The transcript is management commentary rather than audited disclosure. The quarter's volume and margin numbers were not added.",
+        "The overseas context was removed from the update box, not contradicted."
+      ]
+    },
+    {
+      "company": "marico",
+      "status": "updated",
+      "evidence": "Quarterly Update Q2 FY27 (quarter ended 30 September 2026): Parachute Coconut Oil had early-teens volume growth; copra about 35% below peak; Saffola Oils had price-led growth with lower volumes as Marico protected profitability and reduced supply of some variants; the update was issued before board approval of the results.",
+      "source": "https://marico.com/investorspdf/Quarterly_Update_Q2FY27.pdf",
+      "changes": [
+        "Replaced the July 2026 shampoo-launch context with a dated contrast: Parachute grew through quantity, Saffola grew through price on lower quantity. Copra is defined in the text, and the update is marked as a pre-results description.",
+        "Kept the shampoo campaign in sources; added the quarterly update; set checked to 31 Oct 2026."
+      ],
+      "alreadyCorrect": [
+        "The brand portfolio matches the update's brand list (Parachute, Saffola, Livon, Set Wet, Beardo, Just Herbs, True Elements, Plix, Cosmix, 4700BC and international brands).",
+        "The annual report, brand directory and shampoo release links resolve."
+      ],
+      "limits": [
+        "The PDF shows no publication date; news dates it 5 October 2026, but the text does not state a date.",
+        "The final September quarter results / information update were not read.",
+        "No percentages were added to the page."
+      ]
+    },
+    {
+      "company": "avenue-supermarts",
+      "status": "updated; October 2026 press release not readable",
+      "evidence": "Unaudited results approved 10 October 2026. Standalone: revenue from operations up versus the September 2025 quarter, with profit after tax up by a smaller proportion. Six-month cash flow shows an inventory increase and lower net cash from operating activities than the prior-year half. A limited review was performed, not an audit. Note 6: the parent company trades through offline channels; the group uses offline and online channels.",
+      "source": "https://api.dmartindia.com/corporate/content/file/v1/3/1ggMhhkLrQ4aKoc9maT3KvJT1791627050/ASL%20-%20Financial%20Results%20for%20the%20Q2%20(FY%2027).pdf",
+      "changes": [
+        "Replaced the May 2026 DMart Ready coverage context with a dated lesson on sales versus profit versus cash, explaining inventory and limited review in words with no amounts.",
+        "Added the 10 October 2026 results to sources; set checked to 31 Oct 2026."
+      ],
+      "alreadyCorrect": [
+        "Avenue E-Commerce is still listed as a subsidiary; the parent company is store-based and the group adds online.",
+        "The May 2026 release, the FY 2025–26 results, about-us and dmart.in links resolve."
+      ],
+      "limits": [
+        "The 10 October 2026 press release and investor presentation were listed on the investor page but returned no readable content, so store-count and DMart Ready commentary were not checked.",
+        "The newly listed subsidiary Reflect Healthcare and Retail Private Limited was not explained; it was not checked further.",
+        "Interim results were not substituted for the verified annual figures."
+      ]
+    },
+    {
+      "company": "hdfc-bank",
+      "status": "updated",
+      "evidence": "Official release: results for the quarter ended 30 September 2026, board meeting 17 October 2026 (limited review). Net interest income and fees higher year on year; treasury trading gains much lower; profit after tax grew more slowly, with profit excluding treasury gains reported as growing faster.",
+      "source": "https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/pdf/press-release/2026/q4-oct-dec/october/press-release-september-2026.pdf",
+      "changes": [
+        "Replaced generic 'Growth needs follow-up' context with a dated example separating lending/fee income from treasury trading gains; defined net interest income, treasury trading gains and limited review in place.",
+        "Added the September 2026 quarter release to sources."
+      ],
+      "alreadyCorrect": [
+        "Business directory, results library and annual-report library URLs resolve; directory still lists retail, home loans, wholesale/corporate banking as described.",
+        "Account, loan, business-banking and distribution groups match the official business directory and release (subsidiaries HDB Financial, HDFC Life, HDFC ERGO, HDFC AMC, HDFC Securities remain separate companies)."
+      ],
+      "limits": [
+        "No quarterly amounts or percentages added; direction described in words only.",
+        "Quarterly limited-review figures not substituted for the audited annual table.",
+        "Annual report itself not re-read; only the library page was confirmed to list the 2025-26 report (18 July 2026)."
+      ]
+    },
+    {
+      "company": "icici-bank",
+      "status": "updated",
+      "evidence": "Official News Release 'Performance Review: Quarter ended September 30, 2026', dated 17 October 2026: headline deposit and loan growth plus separate growth excluding FCNR(B) deposits and loans by international branches against them; treasury loss for the quarter.",
+      "source": "https://www.icici.bank.in/content/dam/icicibank/india/managed-assets/docs/about-us/2027/performance-review-for-quarter-ended-sep-30-2026.pdf",
+      "changes": [
+        "Replaced generic context with a dated example about reading headline loan/deposit growth alongside the FCNR(B) exclusion; defined FCNR(B) deposits and treasury loss in everyday words.",
+        "Updated the annual-report library URL from icicibank.com to its current icici.bank.in address (old URL redirects there).",
+        "Added the 17 October 2026 performance review to sources."
+      ],
+      "alreadyCorrect": [
+        "About-us overview resolves and supports the bank/product description.",
+        "Accounts, household loans, business/trade services and group financial businesses match the release and investor page."
+      ],
+      "limits": [
+        "No quarterly amounts added.",
+        "The release refers to 'ICICI Life Insurance Limited' (in which the bank bought an extra 2% stake in the quarter); the lesson does not name the life-insurance subsidiary, so no rename was needed, but the name change was not separately verified.",
+        "SEC-filed annual report URL not re-fetched this session.",
+        "The RBI-directed additional provision on part of the agricultural priority-sector portfolio was noted but not added to the lesson."
+      ]
+    },
+    {
+      "company": "state-bank-of-india",
+      "status": "updated; latest quarter not yet published",
+      "evidence": "Official press release on results for the quarter ended 30 June 2026, filed 7 August 2026: loans grew about twice as fast as deposits year on year; problem-loan ratios lower. SBI's 2nd-quarter 2026-27 exchange-filing list records 'Raising of Senior Unsecured Bond' intimations dated 13 July and 10 August 2026.",
+      "source": "https://sbi.bank.in/documents/17826/58855131/346.pdf/78eeda40-8741-016c-75f9-30eb645b184e?t=1786364282832",
+      "changes": [
+        "Replaced generic loan-relationship context with a dated example: loans outgrowing deposits and the need for other funding; defined bond and unsecured; kept the point that a loan still has to be repaid.",
+        "Added the 7 August 2026 press release and the exchange-filing list page to sources."
+      ],
+      "alreadyCorrect": [
+        "About-us page resolves and supports SBI as a public-sector bank with household, farm, SME and corporate lending.",
+        "YONO digital-account role consistent with the release (majority of savings accounts opened digitally through YONO)."
+      ],
+      "limits": [
+        "July–September 2026 results had not been published on SBI's site at the time of checking; the June-quarter release is the latest used.",
+        "Bond-raising intimation PDFs themselves were not opened; only their titles and dates on SBI's official filing list were read. Amounts and terms not stated.",
+        "yono Business URL returned a proxy error through the reader and could not be confirmed this session.",
+        "No quarterly amounts added."
+      ]
+    },
+    {
+      "company": "maruti-suzuki",
+      "status": "updated",
+      "evidence": "Official press release 'Maruti Suzuki India Limited Financial Results Q2 and H1 FY 2026-27': record quarterly volume and net sales; operating profit and net profit lower year on year, attributed to West Asia conflict-linked commodity increases and mark-to-market losses on invested surplus; demand outpaced supply with low network inventory and pending bookings.",
+      "source": "https://www.marutisuzuki.com/corporate/media/press-releases/2026/october/maruti-suzuki-india-limited-financial-results-q2-and-h1-fy-2026-27",
+      "changes": [
+        "Replaced generic booking context with a dated sales-up/profit-down example; explained commodity costs and mark-to-market losses in everyday words; kept the booking-versus-delivery teaching.",
+        "Added the October 2026 results release to sources."
+      ],
+      "alreadyCorrect": [
+        "FY 2025-26 annual-report announcement URL resolves.",
+        "ARENA/NEXA described as sales routes, not separate makers; parts, used-car and export groupings unchanged."
+      ],
+      "limits": [
+        "The release page carries no dateline; search-index timing suggests about 28 October 2026, so the lesson says 'October 2026' only.",
+        "No quarterly amounts, unit counts or booking numbers added.",
+        "Homepage vehicle directory not re-fetched this session."
+      ]
+    },
+    {
+      "company": "bajaj-auto",
+      "status": "updated",
+      "evidence": "Official 'Press Release: Q2 FY27 Results (Standalone)', Pune, 27 October 2026: Chetak volumes more than doubled year on year despite severe supply issues, demand outstripping supply, production being ramped up; release says Chetak profitability continued to improve without a separate profit figure.",
+      "source": "https://www.bajajauto.com/-/media/images/bajajauto/media-kit/quarterly-results/2026/press-release-q2-fy27.pdf",
+      "changes": [
+        "Replaced generic repair/parts context with a dated Chetak supply-shortage example; defined standalone; stated that no Chetak profit should be calculated from sales.",
+        "Added the 27 October 2026 standalone release to sources."
+      ],
+      "alreadyCorrect": [
+        "All three FY2026 annual-report pages resolve; chairman's letter still states control of KTM acquired in November 2025.",
+        "Motorcycles, Chetak, three-wheelers and KTM/Triumph roles match the release (KTM and Triumph sold domestically; electric three-wheelers in commercial vehicles)."
+      ],
+      "limits": [
+        "No quarterly amounts or volumes added.",
+        "Consolidated quarterly results (including KTM) were not read; the context is limited to the standalone release."
+      ]
+    },
+    {
+      "company": "mahindra-and-mahindra",
+      "status": "updated; latest quarterly results not yet published",
+      "evidence": "Official exchange filing dated 1 October 2026 enclosing three press releases: September 2026 domestic tractor sales below September 2025, attributed mainly to the festive season starting in October this year versus September last year and a high base helped by the GST rate cut; year-to-date domestic tractor sales still higher.",
+      "source": "https://www.mahindra.com/sites/default/files/2026-10/SEIntimationOctober2026PR.pdf",
+      "changes": [
+        "Replaced generic 'job each customer pays for' context with a dated example on how festival timing and a tax change distort a one-month comparison; defined GST.",
+        "Added the 1 October 2026 sales-release filing to sources."
+      ],
+      "alreadyCorrect": [
+        "FY2026 integrated annual report resolves and still describes SUVs, tractors, Mahindra Finance, Tech Mahindra and other group businesses as in the lesson.",
+        "Group boundaries (subsidiaries such as Mahindra Electric Automobile and Mahindra Last Mile Mobility included in auto sales figures) consistent with the lesson's group explanation."
+      ],
+      "limits": [
+        "July–September 2026 financial results had not appeared in Mahindra's press-release list at the time of checking.",
+        "October 2026 launches (XUV 3XO ZNG, MAXSEEDER production start) noted but not added.",
+        "No sales quantities or percentages added."
+      ]
+    },
+    {
+      "company": "tcs",
+      "status": "updated",
+      "evidence": "TCS press releases: 1 October 2026 (Best Buy's India capability centre and its employees transition to TCS under a multi-year agreement); 24 August 2026 (five-year Porsche deal; TCS to acquire 100% of MHP, subject to regulatory approvals); 8 October 2026 Q2 FY27 results release naming both deals.",
+      "source": "https://www.tcs.com/who-we-are/newsroom/press-release/best-buys-global-capability-center-india-transition-tcs",
+      "changes": [
+        "Replaced generic 'old customer still has to choose to stay' context with a dated example: a customer's in-house technology team moving to TCS (Best Buy) and the proposed MHP purchase (Porsche), with a capability centre defined in everyday words.",
+        "Kept announcement separate from completed, earned or paid work; Porsche/MHP described as subject to regulatory approval.",
+        "Added three dated TCS sources (Best Buy, Porsche/MHP, Q2 FY27 results release)."
+      ],
+      "alreadyCorrect": [
+        "Build/run/AI/platform groups and contract-to-bill-to-payment steps match the current releases.",
+        "Unbilled revenue and contract-value explanations remain accurate."
+      ],
+      "limits": [
+        "No deal price or quarterly figures added; MHP completion status after approvals not established.",
+        "The existing 'perpetually adaptive enterprise' source page resolves but now carries only a short marketing paragraph; the annual-report PDF is indexed by search but blocks direct download, so it was not re-read."
+      ]
+    },
+    {
+      "company": "infosys",
+      "status": "updated; official PDFs not directly readable",
+      "evidence": "23 October 2026 Q2 FY27 results release (Infosys results page lists it; text read from the company's PR Newswire distribution): Investec selected Infosys Finacle via the Finacle SaaS platform on Microsoft Azure; other client examples; FY27 guidance revised.",
+      "source": "https://www.infosys.com/investors/reports-filings/quarterly-results/2026-2027/q2.html",
+      "changes": [
+        "Replaced generic Finacle context with the dated Investec selection, defining software as a service (SaaS) and separating 'selected' from set up, connected, tested and in use.",
+        "Added the Q2 FY27 results page as a dated source."
+      ],
+      "alreadyCorrect": [
+        "Groups (software work, Cobalt cloud, Topaz/Aster, Finacle and business-process services) match the current release and site.",
+        "Constant-currency explanation matches the release's footnote definition."
+      ],
+      "limits": [
+        "Infosys PDFs (press release, annual report) returned 'unreachable'/403 to both TinyFish and direct download; release text read via PR Newswire copy of the official release.",
+        "Revised FY27 guidance not added (forecast percentages are financial amounts).",
+        "No claim that Investec's system is live or paid."
+      ]
+    },
+    {
+      "company": "bharti-airtel",
+      "status": "updated; Q2 FY27 results not yet published",
+      "evidence": "Airtel press release, 7 October 2026: new postpaid plans from 8 October 2026 bundling unlimited calls/data, spam/fraud protection, third-party subscriptions (e.g. Netflix, Amazon Prime, Apple iCloud+, Google One) and one free international-roaming pack per SIM per year.",
+      "source": "https://www.airtel.in/press-release/10-2026/airtel-offers-free-international-roaming-on-all-postpaid-plans/",
+      "changes": [
+        "Replaced generic bundled-bill context with the dated postpaid-plan example; defined postpaid and roaming; noted the release does not say what Airtel pays for third-party items, so the plan price is not all Airtel's to keep.",
+        "Added the 7 October 2026 release as a source."
+      ],
+      "alreadyCorrect": [
+        "Business overview page still lists India mobile, home Wi-Fi, DTH, Airtel Business, Africa and Indus Towers (passive infrastructure).",
+        "Indus offerings page still describes tower, power and space services.",
+        "Lesson makes no claim about an Airtel Money listing. Airtel Africa's 23 July 2026 Q1 release says a London IPO of Airtel Money is proposed for 2026, subject to approvals; no completed listing was verified, so nothing was added."
+      ],
+      "limits": [
+        "Bharti Airtel's September 2026 quarter results were not found as published by 31 October 2026; Airtel Africa's 30 October half-year release was not yet on its results page.",
+        "Annual-results library page resolves but renders only AGM links in the reader; the annual report PDF was located by search, not re-read.",
+        "Plan prices deliberately not quoted."
+      ]
+    },
+    {
+      "company": "reliance-industries",
+      "status": "updated; Q2 FY27 media release not readable",
+      "evidence": "BSE notice 20261027-9 (27 October 2026): Jio Platforms equity shares listed and admitted to dealing from 28 October 2026. SEBI-hosted Jio Platforms red herring prospectus: promoter Reliance Industries Limited; fresh issue only, offer for sale 'Not applicable'.",
+      "source": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261027-9/20261027-9.pdf",
+      "changes": [
+        "Replaced generic payment-tracing context with the dated Jio Platforms listing: what listing means, promoter defined, new-shares-only offer so money went to Jio, and public shareholders meaning not all Jio profit belongs to Reliance shareholders.",
+        "Noted that the annual figures cover the period before the listing.",
+        "Added the BSE listing notice and the offer document as sources."
+      ],
+      "alreadyCorrect": [
+        "Existing basics item on partly owned companies already explains the ownership point; Jio, retail, media, O2C, oil and gas and new-energy groups remain correct.",
+        "Annual report and MD&A source pages resolve."
+      ],
+      "limits": [
+        "Reliance's post-listing percentage ownership of Jio not stated (shareholding annexure not read); no issue price or IPO size added.",
+        "RIL's 30 October 2026 Q2 FY27 media release PDF was unreachable; no quarterly content used.",
+        "NSE's quote page showing the listing did not render; BSE notice used as the exchange evidence."
+      ]
+    },
+    {
+      "company": "eternal",
+      "status": "updated",
+      "evidence": "Q2FY27 shareholders' letter, 21 October 2026 (Q12 Hyperpure: two-hour delivery in all major cities, restaurants needing to store fewer perishables, kitchen set-up including equipment, third-party logistics for large restaurant chains; headline notes confirm Blinkit's move to owning inventory raises revenue).",
+      "source": "https://www.eternal.com/blog/q2fy27/",
+      "changes": [
+        "Kept the restaurant-on-both-sides context and made it concrete and dated with the Hyperpure update, attributed to the company.",
+        "Added the Q2FY27 shareholders' letter page as a source."
+      ],
+      "alreadyCorrect": [
+        "Blinkit inventory-ownership explanation matches the letter's statement that quick-commerce revenue now includes the full value of goods sold.",
+        "Zomato, Blinkit, District and Hyperpure groups match the site."
+      ],
+      "limits": [
+        "Full letter read from the Google Drive file linked by the official blog post.",
+        "The letter announces dark.ai, a private AI assistant expected to launch 'hopefully within 2026'; it is a plan, so it was not added as a business.",
+        "No restaurant counts or quarterly amounts added; Bistro (in 'Others') not added."
+      ]
+    },
+    {
+      "company": "swiggy",
+      "status": "updated",
+      "evidence": "7 September 2026 Regulation 30 disclosure: B2B authorised distribution business moved into Lynks Logistics and sold to Trustroot Internet (cash-and-carry wholesale trading) for preference shares. 22 October 2026 Q2 FY27 shareholders' letter: Lynks reported in Supply Chain & Distribution, deconsolidated in September and excluded from results from Q3 FY27; Instamart inventory-ownership transition to start mid-Q3 FY27 over 2-3 quarters.",
+      "source": "https://www.swiggy.com/corporate/wp-content/uploads/2026/09/SE-Intimation_Sale-of-Stake.pdf",
+      "changes": [
+        "Replaced generic storage-and-delivery context with the dated Lynks sale; defined authorised distribution; payment in shares, not cash; drops out of results from October-December 2026.",
+        "Distribution group now says the brand-to-shop distribution part was agreed to be sold in September 2026 while other seller services continue.",
+        "Instamart group now notes the planned (not completed) move to owning goods, with its effect on recorded sales and stock costs.",
+        "Added the sale disclosure and Q2 FY2027 shareholders' letter as sources."
+      ],
+      "alreadyCorrect": [
+        "Summary still accurate: the Supply Chain & Distribution segment continues for wholesalers, retailers and brands.",
+        "Food delivery, Instamart, Dineout/Scenes descriptions match the business page and letter."
+      ],
+      "limits": [
+        "Swiggy PDFs were unreadable via TinyFish; downloaded directly and read locally.",
+        "The letter says both that Q2 includes Lynks for the full quarter and that Lynks was deconsolidated from 15 September 2026; the lesson only says it leaves reported results from Q3 FY27.",
+        "The corporate-announcements page also lists a 6 July 2026 FSSAI prohibition order about the Toing app; not read and not added.",
+        "No sale consideration, segment or quarterly amounts added; FY26 financial notes (which include the sold business) unchanged."
+      ]
+    },
+    {
+      "company": "sun-pharma",
+      "status": "updated",
+      "evidence": "30 October 2026 BSE results filing (Q2 FY27): press release 'Organon Acquisition Update', investor slide on deal closure (definitive agreement 27 April 2026; majority of approvals received, a few pending; companies independent until closing; indicative closure by Q4 FY27), consolidated note 4 (exceptional items = Organon diligence/legal/financing fees plus a US generic-pricing antitrust settlement), note 8 (definitive agreement terms). Consolidated net profit attributable to owners lower than Q2 FY26 while sales grew.",
+      "source": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/658231ad-7203-4355-be99-2a162b722c0c.pdf",
+      "changes": [
+        "Replaced generic country-permission context with the dated Organon example: signed agreement vs completed purchase vs later combined results.",
+        "Defined exceptional items in plain words and explained why sales grew while reported net profit fell (deal costs plus a US legal settlement), without adding amounts.",
+        "Added the results filing to sources; checked date set to 31 October 2026."
+      ],
+      "alreadyCorrect": [
+        "Existing three sources resolve (HTTP 200); product portfolio, innovative-medicines and FY26 release pages still support the finished-medicine / innovative / API / consumer-health description.",
+        "Single 'Pharmaceuticals' reportable segment in financialNotes matches note 10 of the filing."
+      ],
+      "limits": [
+        "Organon's own products were not described because they were not read from a primary source.",
+        "PDF text extraction was partly scrambled; prior-year comparison read from the consolidated half-year/quarter columns (Q2 FY26 profit attributable to owners higher than Q2 FY27).",
+        "Innovcare Lifesciences acquisition (July 2026) and lerodalcibep licensing noted in the filing but not added to the lesson."
+      ]
+    },
+    {
+      "company": "dr-reddys",
+      "status": "updated",
+      "evidence": "23 October 2026 Q2 FY27 results presentation (BSE): reported revenue down slightly YoY due to lower lenalidomide sales; double-digit base-business growth excluding lenalidomide in North America; semaglutide API batches out of specification, company 'on track to resolve'. Official generics page: lenalidomide (generic Revlimid) volume-limited US launch in September 2022.",
+      "source": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/3787a62c-6056-45bf-a566-3851ca03f88c.pdf",
+      "changes": [
+        "Replaced generic 'website vs financial categories' context with a dated lenalidomide example showing how one fading product can hide growth in the rest, with 'base business' defined.",
+        "Mentioned the semaglutide ingredient quality issue as a dated example of quality problems delaying new products (no amounts).",
+        "Added the results presentation to sources; checked date set to 31 October 2026."
+      ],
+      "alreadyCorrect": [
+        "Generics, API/services (incl. Aurigene CDMO) and consumer-health groups match the official business pages, read via TinyFish.",
+        "Segment-definition financial note (Global Generics / PSAI) consistent with the presentation's revenue split."
+      ],
+      "limits": [
+        "drreddys.com pages return 403 to plain curl but were readable through TinyFish.",
+        "The full Q2 press release and IFRS results were not read; only the exchange-filed presentation.",
+        "Several US FDA Form 483 observations (Jul–Oct 2026) and the end of the Novartis India distribution agreement are in the presentation but not added."
+      ]
+    },
+    {
+      "company": "park-medi-world",
+      "status": "updated",
+      "evidence": "16 September 2026 exchange filing: subsidiary signed a 28-year operation-and-management agreement for the 300-bed Axis Hospital, Kanpur (owner Axis Educational Society keeps land/building; Park funds renovation and equipment; revenue share of collections with monthly minimum; effective no later than 1 April 2027). 26 August 2026 filing: PPP mandate from Prayagraj Municipal Corporation to build a 550-bed hospital over two years and operate it under a 45-year lease.",
+      "source": "https://www.parkhospital.in/public/uploads/stock-report/Intimation%20-%20Operations%20and%20Management%20Agreement%20with%20AES%20-%20September%2016,%202026.pdf",
+      "changes": [
+        "Replaced the generic owning-versus-operating context with the dated Kanpur agreement and the Prayagraj PPP mandate; defined PPP; kept agreement, construction and patient activity separate.",
+        "Added the Kanpur filing to sources; checked date set to 31 October 2026."
+      ],
+      "alreadyCorrect": [
+        "Existing three sources resolve; hospital-network and service-directory description still matches (Rudrapur hospital launched 2 August 2026 is consistent with the lesson's general expansion framing).",
+        "Existing distinction between owning and operating is supported by the new filings."
+      ],
+      "limits": [
+        "Revenue-share percentage, minimum fee, Prayagraj investment and concession fee deliberately not added (financial amounts).",
+        "Income Tax Department verification at some company premises (12–17 October 2026; company states no impact on operations) found in 14 and 23 October filings; not added to the lesson — parent may decide whether to mention it.",
+        "Q1 FY27 results not reviewed in detail; Q2 FY27 results not yet published at time of check."
+      ]
+    },
+    {
+      "company": "titan-company",
+      "status": "updated",
+      "evidence": "6 October 2026 Quarterly Update – Q2 FY27 (company website PDF): domestic jewellery c.21% YoY, buyer growth mid-single digits, average ticket size double-digit growth; studded jewellery outgrew plain gold; International includes Damas (67% holding) consolidated from January 2026; figures provisional and subject to auditor limited review.",
+      "source": "https://www.titancompany.in/sites/default/files/2026-10/Q2update202627.pdf",
+      "changes": [
+        "Replaced Damas-only context with a dated example separating buyer growth from average bill, and kept the Damas point (purchased business in international figures).",
+        "Defined average bill; marked the update as provisional.",
+        "Added the quarterly update to sources; checked date set to 31 October 2026."
+      ],
+      "alreadyCorrect": [
+        "Damas majority acquisition and its inclusion in reported figures, and exclusion of bullion/digi-gold from headline metrics, match the update.",
+        "Brand portfolio and existing FY26 sources resolve (HTTP 200)."
+      ],
+      "limits": [
+        "Q2 FY27 audited/reviewed results not yet published at time of check; no growth percentages added to the lesson.",
+        "Watches, EyeCare and emerging-business growth in the update not added."
+      ]
+    },
+    {
+      "company": "asian-paints",
+      "status": "updated",
+      "evidence": "29 October 2026 Q2/H1 FY27 investor presentation (BSE): decorative India volume +6.4%, value +14.5% aided by pricing; gross margin down as higher-cost inventory flowed through after steep Q1 inflation; consolidated PAT grew more slowly than net sales; Phase 1 of the Dahej VAE plant commissioned, with stronger margin benefit expected once Phase 2 (VAM) is on stream.",
+      "source": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/83b2bead-08c8-4789-a658-7985de0c772f.pdf",
+      "changes": [
+        "Replaced the generic 'finished surface' context with a dated volume-versus-value and ingredient-cost example; defined decorative business and gross margin.",
+        "Added the Dahej VAE plant start as a plan-versus-proven-saving example (plain description of VAE emulsion as a paint ingredient).",
+        "Added the presentation to sources; checked date set to 31 October 2026."
+      ],
+      "alreadyCorrect": [
+        "Product groups (wall paints, waterproofing, services incl. Beautiful Homes, home décor, industrial PPG joint ventures, international) match the presentation.",
+        "Existing annual-report sources resolve (HTTP 200)."
+      ],
+      "limits": [
+        "No percentages or amounts added to the lesson; 'profit grew more slowly than sales' refers to consolidated figures (standalone profit grew roughly in line with sales).",
+        "Separate press release (BSE 67b1b091…) not read; the investor presentation was used."
+      ]
+    },
+    {
+      "company": "parag-milk-foods",
+      "status": "updated; latest quarter not yet published",
+      "evidence": "7 August 2026 Q1 FY27 investor presentation (BSE): milk prices up 13% YoY; calibrated price increases and better mix kept gross margin roughly flat; value growth 11% vs volume growth 3%; flagship categories volume -2%; PAT down mainly due to current tax impact; board approved doubling cheese capacity.",
+      "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d169b71b-4b8f-4ee8-a818-599393f514f7.pdf",
+      "changes": [
+        "Replaced the generic supermarket-versus-restaurant context with a dated milk-cost and price-increase example.",
+        "Kept the cheese-capacity doubling as an approved plan, not built capacity or sales.",
+        "Added the presentation to sources; checked date set to 31 October 2026."
+      ],
+      "alreadyCorrect": [
+        "Brands (Gowardhan, Go, Pride of Cows, Topp Up on brand page, Avvatar whey) and the cheese-whey link match the brand page and presentation.",
+        "No health or nutritional benefit claims added."
+      ],
+      "limits": [
+        "Q2 FY27 (July–September) results not found as published by 31 October 2026; the August 2026 presentation is the latest official update read.",
+        "Presentation notes some figures are internal metrics that may differ from accounting-standard results; no amounts added."
+      ]
+    },
+    {
+      "company": "ntpc",
+      "status": "updated",
+      "evidence": "NTPC exchange disclosures dated 18 May 2026 (Patratu Unit 2 of subsidiary PVUNL completed trial run, added to installed capacity) and 23 June 2026 (same unit declared in commercial operation from 25 June 2026; group installed and commercial capacity reported as separate totals). Corporate-announcements page read through 30 October 2026.",
+      "source": "https://ntpc.co.in/sites/default/files/announcement/2026/2026-06/202060623_COD_PVUNL_0.pdf",
+      "changes": [
+        "Replaced generic 'follow a project beyond the announcement' context with the dated Patratu Unit 2 trial-run-to-commercial-operation example; defined subsidiary, megawatt, trial run and commercial operation in place.",
+        "Added the 18 May 2026 and 23 June 2026 disclosures to sources; checked date set to 31 October 2026."
+      ],
+      "alreadyCorrect": [
+        "About-us page still supports the business description (generation across coal, renewables, hydro, plus mining, trading and newer energy activities).",
+        "Business-development page still supports subsidiaries/joint ventures and diversification into storage, hydrogen and nuclear as development activities.",
+        "Annual-report library URL resolves."
+      ],
+      "limits": [
+        "Q2 FY27 results (conference call 31 October 2026) were not read; no quarterly figures added.",
+        "Disclosures do not state the unit's electricity sold, tariff or earnings; context says so.",
+        "Phrase 'normally operates and bills under its sales agreement' is a general explanation of commercial operation, not a statement from the disclosure about this unit's billing."
+      ]
+    },
+    {
+      "company": "power-grid",
+      "status": "updated",
+      "evidence": "POWERGRID press release dated 4 August 2026: acquired two project SPVs under tariff-based competitive bidding (Bhadla Ramgarh, acquired 29 July 2026, commissioning scheduled by 20 January 2029; Krishnagiri REZ, acquired 3 August 2026, to be commissioned within 36 months), on a build, own, operate and transfer basis.",
+      "source": "https://www.powergrid.in/sites/default/files/press_document/Press%20Release%202%20SPVs%20%28hindi-english%29.pdf",
+      "changes": [
+        "Replaced generic renewable-connection context with the dated two-SPV example; explained competitive bidding, SPV, commissioning and build-own-operate-transfer in everyday words; separated winning a project from earning its charges.",
+        "Added the 4 August 2026 release to sources; checked date set to 31 October 2026."
+      ],
+      "alreadyCorrect": [
+        "Company overview page still supports the description (listed transmission utility, government majority holding).",
+        "Regulated versus competitively bid project explanation is consistent with the release.",
+        "FY 2024-25 annual report and homepage URLs resolve."
+      ],
+      "limits": [
+        "Q2 FY27 results are due at a 1 November 2026 board meeting, after this review; latest results read only as a listing on the press page (Q1 FY27), not used.",
+        "No project cost, tariff or expected income figures added.",
+        "1 August 2026 release on two commissioned Andhra Pradesh projects was read but not used."
+      ]
+    },
+    {
+      "company": "larsen-and-toubro",
+      "status": "updated",
+      "evidence": "Unaudited consolidated results for the quarter and six months ended 30 September 2026 (dated 27 October 2026): note on 29 April 2026 share purchase agreement to divest the entire stake in L&T Metro Rail (Hyderabad) Limited to Hyderabad Metro Rail Limited (Telangana government enterprise), completion revised to 31 December 2026, assets held for sale; segment note renaming reporting segments from 1 April 2026 (Infrastructure & Utilities, Energy - Conventional, new Energy - Green, Manufacturing & Products, Technology, Platforms & Services, separate Realty).",
+      "source": "https://investors.larsentoubro.com/upload/Quarterly/FY2027QuarterlyLnTResultsSeptember2026.pdf",
+      "changes": [
+        "Replaced generic bridge-completion context with the dated Hyderabad metro sale (agreed, not completed; 'held for sale' explained) and the 1 April 2026 renaming of reporting segments, noting that the audited 2025-26 figures use the older names.",
+        "Added the 27 October 2026 results to sources; checked date set to 31 October 2026."
+      ],
+      "alreadyCorrect": [
+        "Business groups (construction, energy projects, equipment, technology services, L&T Finance lending, property and development projects) still match the revised segment composition.",
+        "financialNotes text naming Infrastructure Projects and IT & Technology Services correctly describes the audited FY 2025-26 table; left unchanged.",
+        "About-group page, FY2026 annual report and March 2026 results URLs resolve."
+      ],
+      "limits": [
+        "Only the results PDF notes were read; analyst presentation and press release not read.",
+        "The segment note also refers to a thermal power asset 'up to the date of divestment'; not investigated or added.",
+        "No quarterly figures added; sale price and gain not stated."
+      ]
+    },
+    {
+      "company": "ultratech-cement",
+      "status": "updated",
+      "evidence": "UltraTech press release and exchange outcome dated 19 October 2026 (quarter ended 30 September 2026): Petnikota plant commissioned and debottlenecking at three plants; higher domestic grey cement volumes and capacity utilisation than a year earlier; net sales and profit up; launch of Ultravolt wires and cables with a commissioned Jhagadia, Gujarat facility. Exchange outcome note: group operates in a single segment of building materials.",
+      "source": "https://www.ultratechcement.com/corporate/media/press-releases/financial-results-q2fy27",
+      "changes": [
+        "Added Ultravolt wires and cables to the 'Other building products' group, explaining what wires do, their copper/aluminium inputs and different buyers, and that UltraTech reports one single business segment.",
+        "Replaced generic concrete-versus-bag context with the dated new-capacity and new-product example, defining capacity utilisation and describing sales and profit direction in words only.",
+        "Added the 19 October 2026 release to sources; checked date set to 31 October 2026."
+      ],
+      "alreadyCorrect": [
+        "Grey cement, ready-mix concrete, white cement/wall putty groups still supported by the product overview and infrastructure-solutions pages.",
+        "Birla White WallCare acquisition (completed May 2025) and India Cements subsidiary noted in the filing do not contradict the lesson."
+      ],
+      "limits": [
+        "No Ultravolt-specific sales, profit or capacity-use figures were disclosed or added; launch does not establish demand.",
+        "The exchange outcome PDF uses a generic URL likely to be overwritten next quarter, so it was not added as a source.",
+        "Quarterly amounts (sales, PBIDT, PAT, tonnes, percentages) intentionally not added."
+      ]
+    },
+    {
+      "company": "bharat-coking-coal",
+      "status": "updated; listing verified",
+      "evidence": "Listing: NSE circular NSE/CML/72353 dated 16 January 2026 admits BCCL equity shares (symbol BHARATCOAL, ISIN INE05XR01022) to dealings from 19 January 2026 (read via a broker-hosted copy); NSE quote page search result shows Status Listed, Date of Listing 19-Jan-2026; company's own post-listing filings (27 May 2026, 22 July 2026) are addressed to BSE (scrip 544678) and NSE. Business: 22 July 2026 unaudited standalone results for the quarter ended 30 June 2026 (production lower than a year earlier, offtake above production, revenue slightly lower, loss versus prior-year profit, limited review, no separate segments). Bhojudih washery commercial operation from 26 May 2026 confirmed from the existing source.",
+      "source": "https://bcclweb.in/newpdfs/Investor_relation/Financial_statements/Financial%20Results.pdf",
+      "changes": [
+        "Replaced generic mine-to-buyer context with the dated April-June 2026 example contrasting production, offtake and profit, in words only; explained limited review.",
+        "Added the 22 July 2026 results to sources; checked date set to 31 October 2026.",
+        "No listingLabel added: exchange admission on NSE from 19 January 2026 is established, so the existing 'NSE: BHARATCOAL' catalogue display is correct."
+      ],
+      "alreadyCorrect": [
+        "Bhojudih washery specifics (commercial operation started, capacity versus usable output) match the 27 May 2026 disclosure.",
+        "Coking/non-coking coal, washery outputs and no-separate-segment financial note match the filings.",
+        "All three existing source URLs return PDFs."
+      ],
+      "limits": [
+        "bcclweb.in is a JavaScript site and its archive returned 403 to the web reader; PDFs were downloaded directly and read. MGT-7 and Q3 result PDFs were checked as resolving but not re-read.",
+        "The NSE listing circular was read from a broker-hosted copy; the NSE-hosted PDF and quote page could not be rendered (bot-blocked), only seen via search snippets. Company filings independently confirm post-listing status.",
+        "Q2 FY27 (July-September 2026) results were not found; the Financial Results.pdf URL is generic and may be replaced by a later quarter.",
+        "'Suggests some deliveries came from stockpiled coal' is an inference from offtake exceeding production, not a statement in the filing."
+      ]
+    },
+    {
+      "company": "glass-wall-systems",
+      "status": "updated; listing corrected",
+      "evidence": "Results for the June 2026 quarter, approved 6 October 2026 and filed with BSE and NSE. The notes say the IPO was completed and the shares listed on NSE and BSE on 16 September 2026. The abridged prospectus (SEBI, September 2026) describes three business lines: façade work in India (design, manufacture, supply and installation), supply-only façade products for the USA and Australia, and windows, doors and skylights through Yes Systems. It also lists customer types and says the fresh-issue money is mainly for a glass processing unit at Vile Bhagad. NSE circular of 15 September 2026 gives the symbol GLASSWALL.",
+      "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/374c07e1-c277-4593-81d8-1bd7e9b41c72.pdf",
+      "changes": [
+        "Replaced the 'Listing status not verified' label with a dated NSE label: NSE: GLASSWALL, listed 16 September 2026.",
+        "Customer text now names the customer types in the offer document, including overseas façade contractors who fit the parts themselves.",
+        "Explained the supply-only overseas work in the 'Making and fitting the parts' group.",
+        "Added a group for windows, doors and skylights sold through the Yes Systems subsidiary, with 'fenestration' and 'subsidiary' defined.",
+        "Replaced the generic façade-spelling context with a dated one: listed on 16 September 2026, sellers' money versus company money, and the glass processing unit still a plan. Backward integration is defined.",
+        "Removed the old DRHP link, which now redirects to the IPO page. Added the abridged prospectus and the dated results filing."
+      ],
+      "alreadyCorrect": [
+        "Curtain walls, cladding and louvers, design and engineering, factory fabrication and installation all match the official design and facility pages.",
+        "Points on retention, contract assets, site readiness and payment timing are consistent with a project business.",
+        "The audited-financials link (ipo-docs PDF) still resolves."
+      ],
+      "limits": [
+        "No quarterly figures added. Financial notes and the financial table are unchanged.",
+        "The company website's RHP, prospectus and abridged-prospectus PDFs redirect to the IPO page. The SEBI-hosted abridged prospectus was used instead.",
+        "The NSE quote page did not render. The listing date comes from the company's own results notes.",
+        "The glass processing unit is a stated use of money raised, not a verified built or operating plant."
+      ]
+    },
+    {
+      "company": "kanohar-electricals",
+      "status": "updated; listing corrected",
+      "evidence": "BSE integrated finance filing for the June 2026 quarter, approved 6 October 2026. Note 5 says the shares listed on the Main Board of BSE and NSE from 16 September 2026, and that the IPO combined a fresh issue with an offer for sale. The filing also states that the company reports one segment, 'power system', and that some earlier comparison quarters were not reviewed by the auditor. A board-meeting notice dated 26 October 2026 schedules the September quarter results for 2 November 2026. The official homepage lists gas-insulated switchgear, EPC substations and transmission lines.",
+      "source": "https://beta.bseindia.com/XBRLFILES/IFIndasDuplicateUploadDocument/Integrated_Finance_Ind_As_544911_61020262147_IFIndAs.html",
+      "changes": [
+        "Replaced the 'Listing status not verified' label with a dated NSE label: NSE: KANOHAR, listed 16 September 2026.",
+        "Named gas-insulated switchgear, as on the official homepage, and explained it in plain words.",
+        "Replaced the generic catalogue context with a dated one: the listing, where IPO money goes, the start of quarterly reporting, and why a single quarter can mislead.",
+        "Added the dated results filing as a source."
+      ],
+      "alreadyCorrect": [
+        "Power, traction and Scott-connected transformers, shunt reactors and EPC substation and transmission work all match the official transformers page and homepage.",
+        "The joint-operation and financial-scope cautions are unchanged and still valid.",
+        "All three existing source URLs resolve."
+      ],
+      "limits": [
+        "No quarterly amounts added, even though the filing contains them.",
+        "September 2026 quarter results are due on 2 November 2026 and were not available.",
+        "The NSE quote page did not render. The listing date comes from the company's own BSE filing."
+      ]
+    },
+    {
+      "company": "rentomojo",
+      "status": "updated; listing corrected; product pages unreadable",
+      "evidence": "Annual report for 2025–26, filed with BSE and NSE on 16 October 2026 (scrip 544915, symbol RENTOMOJO). It states that the shares listed on BSE and NSE on 17 September 2026. It describes the rental cycle (deliver and install, pick up, refurbish, redeploy) and reports 29 cities, 20 warehouses and 82 experience stores. NSE circular of 16 September 2026 confirms the symbol RENTOMOJO and ISIN.",
+      "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3f6fadf7-0a29-4e18-9714-9cf163a9f01d.pdf",
+      "changes": [
+        "Replaced the 'Listing status not verified' label with a dated NSE label: NSE: RENTOMOJO, listed 17 September 2026. The test that requires a listingLabel still passes because the label is non-empty.",
+        "Rewrote the fifth watch item's guidance: shares have traded since 17 September 2026, and a rental plan is separate from owning a share.",
+        "Made the context concrete with the annual report's dated description of the rental cycle and its network counts.",
+        "Text-only fix in financialNotes: removed 'current exchange admission remains separately unverified', which the filing now contradicts. No amounts were touched.",
+        "Added the annual report as a source."
+      ],
+      "alreadyCorrect": [
+        "Furniture and appliance rentals, plans, delivery, installation, maintenance, pickup and refurbishment all match the annual report.",
+        "The warnings about deposits, depreciation and the deferred-tax credit are unchanged."
+      ],
+      "limits": [
+        "rentomojo.com city pages, the contact page and the rental terms PDF returned 403 or could not be reached, so the existing product and plan sources could not be re-read.",
+        "NSE and BSE quote pages did not render. The listing date comes from the company's annual report.",
+        "The annual report was read through keyword searches of the extracted text, not page by page. No new financial amounts were taken from it."
+      ]
+    },
+    {
+      "company": "tonbo-imaging",
+      "status": "updated; listing corrected",
+      "evidence": "NSE security page, read 31 October 2026: Status Listed, Date of Listing 23-Oct-2026, symbol TONBO. BSE IPO page: issue period 15–19 October 2026. The abridged prospectus (SEBI, October 2026) says the offer was an offer for sale only and the company receives none of the proceeds. It lists customers as armed forces, police, paramilitary, NATO forces, US Special Operations Command and other defence makers, and says exports, mainly to Europe, were a large share of revenue. The official land and systems pages list vehicle weapon sights, fire-control equipment and drone-interceptor products.",
+      "source": "https://www.sebi.gov.in/sebi_data/commondocs/oct-2026/Tonbo%20Imaging%20India%20Limited-Abridged%20Prospectus_p.pdf",
+      "changes": [
+        "Replaced the 'Listing status not verified' label with a dated NSE label: NSE: TONBO, listed 23 October 2026. The test that requires a listingLabel still passes.",
+        "Customer text now says plainly that the buyers are defence and security agencies at home and abroad, and that exports have been large.",
+        "Group examples now name weapon sights and newer defence systems, matching the official product pages, instead of only 'observation devices'.",
+        "Replaced the context with a dated one: listed 23 October 2026 through an offer for sale, so Tonbo received none of the money. The existing point about selling parts versus whole devices is kept.",
+        "Text-only fix in financialNotes: the second note now reflects the verified listing. No amounts were touched.",
+        "Added the abridged prospectus and the NSE security page as sources."
+      ],
+      "alreadyCorrect": [
+        "The OEM modules, vehicle vision equipment and systems pages all still resolve and support the descriptions of the parts business and the systems work."
+      ],
+      "limits": [
+        "Listed only 8 days before this review. No post-listing results or announcements were found.",
+        "The NSE quote page is a live page, not a dated document.",
+        "No quarterly or listing-price figures added."
+      ]
+    }
+  ]
+}

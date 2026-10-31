@@ -114,8 +114,8 @@
     ]
   ],
   "context": [
-    "Website categories and financial categories can differ",
-    "The website describes what customers can buy. The annual accounts may combine those offerings into different reporting groups. Match the final financial table to its own definitions instead of guessing a separate profit for each website heading or brand."
+    "When one large product fades, look at the rest",
+    "Lenalidomide is Dr. Reddy’s generic version of the brand-name medicine Revlimid. The company launched it in the US in 2022 with limits on the quantity it could sell. In its 23 October 2026 results presentation, Dr. Reddy’s said total sales for July–September 2026 were slightly lower than a year earlier because lenalidomide sales fell. Sales excluding lenalidomide in North America, which the company calls its base business, grew by a double-digit percentage, meaning 10 percent or more. The same update says some batches of an ingredient called semaglutide did not meet their required quality standard and that the company is working to resolve this. Ask whether the remaining products can replace a fading product’s sales and profit, and whether quality problems delay new ones."
   ],
   "quiz": [
     "Is supplying an ingredient the same transaction as selling a finished medicine?",
@@ -133,6 +133,10 @@
     [
       "API manufacturing and services",
       "https://www.drreddys.com/active-pharmaceutical-ingredients"
+    ],
+    [
+      "Lenalidomide decline, base business and semaglutide quality issue · results presentation 23 October 2026",
+      "https://www.bseindia.com/xml-data/corpfiling/AttachLive/3787a62c-6056-45bf-a566-3851ca03f88c.pdf"
     ]
   ],
   "financialNotes": [
@@ -141,5 +145,5 @@
       "text": "The table follows the audited IFRS segment note and shows external revenue with segment gross profit. Gross profit still has to cover research, selling and other later costs; it is not segment net profit. Internal PSAI sales are excluded from the displayed revenue, and geographical or therapeutic sales must not be added to it as separate businesses."
     }
   ],
-  "checked": "29 October 2026"
+  "checked": "31 October 2026"
 }

@@ -114,8 +114,8 @@
     ]
   ],
   "context": [
-    "Think of the whole route from mine to buyer",
-    "A mine needs more than coal underground. Workers must extract it, the right product must be prepared, transport must be available and a buyer must pay. Finding which stage is holding up that route is more useful than reading production alone."
+    "April–June 2026: less coal mined, more coal sent out than mined",
+    "BCCL’s results for the quarter to 30 June 2026, published on 22 July 2026, show production (coal dug out) lower than a year earlier. Offtake (coal sent out to customers) was higher than production in that quarter, which suggests some deliveries came from coal already stockpiled from earlier mining. Sales were a little lower than a year earlier, and the company reported a loss for the quarter after a profit in the same quarter a year before. These are unaudited figures for BCCL alone, checked by its auditors in a limited review, which gives less assurance than a full audit. One quarter shows why production, deliveries and profit need to be read separately; the full-year audited table below covers an earlier period."
   ],
   "quiz": [
     "If a washery can process more raw coal, must sales of clean coal rise by the same amount?",
@@ -133,6 +133,10 @@
     [
       "Official financial-result notes and business scope",
       "https://bcclweb.in/newpdfs/Investor_relation/Financial_statements/Q3_financial_result.pdf"
+    ],
+    [
+      "Unaudited results for the quarter ended 30 June 2026, with coal production and offtake · 22 July 2026",
+      "https://bcclweb.in/newpdfs/Investor_relation/Financial_statements/Financial%20Results.pdf"
     ]
   ],
   "financialNotes": [
@@ -145,5 +149,5 @@
       "text": "The cited result notes describe coal mining and related services without separate reportable segments. Do not create a profit allocation between raw coal, washed coal and individual mines from sales or output proportions."
     }
   ],
-  "checked": "29 October 2026"
+  "checked": "31 October 2026"
 }

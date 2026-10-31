@@ -110,8 +110,8 @@
     ]
   ],
   "context": [
-    "An old customer still has to choose to stay",
-    "Knowing a customer’s systems can help TCS do useful work, but contracts still face price and quality checks and competition. A long relationship does not guarantee that future projects or renewals will be won."
+    "A customer’s own technology team can move to TCS",
+    "On 1 October 2026 TCS announced an agreement under which Best Buy’s technology centre in India, and its employees, will move to TCS. A capability centre of this kind is an office a company runs for its own technology work. After the move, the work for Best Buy continues under a multi-year agreement with TCS instead of being done by Best Buy’s own staff. In August 2026 TCS also announced a five-year deal with Porsche that includes buying MHP, Porsche’s consulting subsidiary, subject to regulatory approval. Taking over a team brings work but also wages, offices and the job of keeping the customer satisfied. An announced agreement is not yet completed, earned or paid work."
   ],
   "quiz": [
     "Can the whole announced value of a long contract be counted as this year’s sales?",
@@ -125,6 +125,18 @@
     [
       "FY 2025–26 annual report",
       "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2025-26/ar/annual-report-2025-2026.pdf"
+    ],
+    [
+      "Best Buy India technology centre moving to TCS · 1 October 2026",
+      "https://www.tcs.com/who-we-are/newsroom/press-release/best-buys-global-capability-center-india-transition-tcs"
+    ],
+    [
+      "Porsche partnership and proposed MHP acquisition, subject to approvals · 24 August 2026",
+      "https://www.tcs.com/who-we-are/newsroom/press-release/tcs-porsche-ag-partner-accelerate-future-of-ai-powered-mobility"
+    ],
+    [
+      "Results for the quarter ended 30 September 2026 · 8 October 2026",
+      "https://www.tcs.com/who-we-are/newsroom/press-release/tcs-financial-results-q2-fy-2027"
     ]
   ],
   "financialNotes": [
@@ -137,5 +149,5 @@
       "text": "Cloud, AI and BaNCS can serve several client industries. The table is not a profit report for each platform, nor a replacement for the consolidated profit and cash-flow reconciliation."
     }
   ],
-  "checked": "29 October 2026"
+  "checked": "31 October 2026"
 }

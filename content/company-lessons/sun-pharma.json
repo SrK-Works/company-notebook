@@ -114,8 +114,8 @@
     ]
   ],
   "context": [
-    "Follow each country’s permission and selling rights",
-    "A product announced in one market is not automatically available elsewhere. Check where Sun has permission and commercial rights, whether it has started selling there and how buyers pay. These steps explain why a medicine announcement is not the same as worldwide income."
+    "A signed purchase agreement is not yet a combined company",
+    "On 27 April 2026, Sun signed an agreement to buy all the shares of another medicine company, Organon & Co., for cash. Sun’s 30 October 2026 results say approvals from most of the required government authorities have been received, a few are still pending, and the two companies continue to operate separately until the deal closes; Sun indicates closing by the January–March 2027 quarter. Meanwhile Sun is already paying advisers, lawyers and lenders for the deal. It reported these costs, together with a US legal settlement, as exceptional items, meaning unusual charges shown separately from regular business. In that quarter, sales grew while reported net profit fell. Keep the signed agreement, the completed purchase and the later combined results as separate stages."
   ],
   "quiz": [
     "Does an approved medicine automatically earn back its development costs?",
@@ -133,6 +133,10 @@
     [
       "FY 2025–26 company results commentary",
       "https://sunpharma.com/wp-content/uploads/2026/05/Press-Release-Sun-Pharma-Q4FY26-Financial-Result.pdf"
+    ],
+    [
+      "Organon purchase status and exceptional charges · results filing 30 October 2026",
+      "https://www.bseindia.com/xml-data/corpfiling/AttachLive/658231ad-7203-4355-be99-2a162b722c0c.pdf"
     ]
   ],
   "financialNotes": [
@@ -141,5 +145,5 @@
       "text": "The audited group reports one Pharmaceuticals segment. The table uses revenue from operations and profit attributable to owners, including reported exceptional items. Product, geographical and therapy sales descriptions can overlap; none establishes a separately audited profit for each medicine or therapy."
     }
   ],
-  "checked": "29 October 2026"
+  "checked": "31 October 2026"
 }

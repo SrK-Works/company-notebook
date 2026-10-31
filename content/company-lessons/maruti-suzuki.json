@@ -110,8 +110,8 @@
     ]
   ],
   "context": [
-    "A booking is an earlier stage than a completed sale",
-    "An enquiry, a booking, a car sent to a dealer and a driver taking it home are different events. Read when the company records its sale and whether vehicles are waiting in the dealer chain before treating popularity as earned profit."
+    "Record car sales and lower profit in the same quarter",
+    "Maruti Suzuki’s October 2026 results release for July–September 2026 reports its highest-ever quarterly vehicle sales and sales value, while net profit was lower than a year earlier. The company gives two reasons: higher prices for raw materials such as metals, which it links to the West Asia conflict, and mark-to-market losses on its invested spare cash—a fall in the recorded value of those investments, separate from selling cars. It also says demand outpaced supply, leaving low dealer stock and many pending bookings. A booking is an order not yet delivered and can still be cancelled. More cars sold does not automatically mean more profit."
   ],
   "quiz": [
     "If revenue rises faster than the number of cars sold, did customer demand necessarily rise equally?",
@@ -125,6 +125,10 @@
     [
       "FY 2025–26 annual-report announcement",
       "https://www.marutisuzuki.com/corporate/media/press-releases/2026/august/maruti-suzuki-annual-integrated-report-2025-26"
+    ],
+    [
+      "July–September 2026 results release · October 2026",
+      "https://www.marutisuzuki.com/corporate/media/press-releases/2026/october/maruti-suzuki-india-limited-financial-results-q2-and-h1-fy-2026-27"
     ]
   ],
   "financialNotes": [
@@ -133,5 +137,5 @@
       "text": "The table shows audited consolidated revenue from operations and profit after tax. Revenue includes products, services and other operating revenue, and differs from a standalone net-sales headline. A model’s retail price, bookings or factory capacity cannot be used to invent its manufacturer revenue or profit."
     }
   ],
-  "checked": "29 October 2026"
+  "checked": "31 October 2026"
 }

@@ -110,8 +110,8 @@
     ]
   ],
   "context": [
-    "Selling software can also mean helping someone use it",
-    "A reusable banking program still needs to be set up, connected to other systems and supported. Check which of those jobs the contract pays for. The software name alone does not identify all the costs or earnings."
+    "A bank choosing Finacle is the start of the work",
+    "Infosys’s 23 October 2026 results release says the bank Investec selected Finacle, Infosys’s banking software, as software as a service (SaaS) on Microsoft Azure. SaaS means the customer uses software that the provider runs and updates on remote computers, here Microsoft’s cloud service, instead of installing and running it itself. Being selected is an early step: the software still has to be set up, connected to the bank’s other systems, tested and supported before customers use it. Check which of those jobs the contract pays for. The software name alone does not identify all the costs or earnings."
   ],
   "quiz": [
     "Does constant-currency sales growth mean profit grew at the same rate?",
@@ -125,6 +125,10 @@
     [
       "Official service and product directory",
       "https://www.infosys.com/"
+    ],
+    [
+      "Results for the quarter ended 30 September 2026, with client examples · 23 October 2026",
+      "https://www.infosys.com/investors/reports-filings/quarterly-results/2026-2027/q2.html"
     ]
   ],
   "financialNotes": [
@@ -137,5 +141,5 @@
       "text": "An industry with high segment operating income can still have billing or collection timing differences. Continue with the consolidated cash-flow statement and customer balances before concluding how much cash was generated."
     }
   ],
-  "checked": "29 October 2026"
+  "checked": "31 October 2026"
 }
