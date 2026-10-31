@@ -53,7 +53,7 @@ Feedback must be exported by a pilot participant and shared separately.
 
 ## Validation performed
 
-- Financial UI: all 35 phone-width profiles render either verified financial content (17) or an explicit pending state (18); no horizontal overflow or broken section targets. Desktop loss labels and expandable measurement notes were checked, with no console errors.
+- Financial UI: all 35 phone-width profiles render verified financial content (the explicit pending state is retained only for future uncovered companies); no horizontal overflow or broken section targets. Desktop loss labels and expandable measurement notes were checked, with no console errors.
 - Financial checks: run `node --test tests/financials.test.cjs` for source metadata, finite values, signed losses, reported-total reconciliation, margin handling, totals-only handling, pending verification and safe rendering.
 
 - 29 October usability audit: removed uniform five-minute labels, corrected multiword company/product matching in the UI and assistant tools, removed unsupported fallback review dates and prevented a successful feedback-save toast after a failed write. All 35 profiles passed browser checks for product-first order, overview presence, valid section targets, absence of the old reading label and desktop overflow. All 288 shelf assets have local files. Mobile explorer/profile, combined search, bookmark save/removal and local correction submission were checked. A blocked-storage check confirmed an accurate failure message.
@@ -70,7 +70,7 @@ Feedback must be exported by a pilot participant and shared separately.
 
 ## Next iteration
 
-Review the three seed profiles with beginners, extend verified segment financials,
+Test the 35 profiles with beginners, repeat the source check once the July–September 2026 results of SBI, Mahindra, Airtel, Britannia, Parag, POWERGRID and Kanohar are published, re-read Nestlé India's sources (its website blocked automated reading on 31 October 2026), extend verified segment financials,
 then decide on shared feedback storage and editorial update tooling. Review image reuse permissions before commercial expansion.
 
 ## Beginner learning sequence
@@ -147,7 +147,7 @@ Authoring lives in `content/company-lessons/{company-id}.json`; `scripts/build-c
 
 Three agents researched separate company sets while the parent reviewed Titan, integrated the batch and checked the combined website. Future agents can own different company JSON files without competing to edit shared rendering code. `content/company-lessons/AGENTS.md` defines the source, scope and review rules. This is a reusable review workflow, not an automatic scheduled refresh.
 
-Corrections include neutral listing labels where exchange admission was not verified (Rentomojo, Tonbo Imaging, Glass Wall Systems and Kanohar), and a dated distinction between continuing and discontinued Refex activities. Titan explains gold price versus quantity, inventory funding, reporting definitions and acquisitions. Bank lessons explain provisions, problem loans, capital and liquidity before using them in research prompts. Business-source check dates are distinct from catalogue verification.
+Corrections include neutral listing labels where exchange admission was not verified; on 31 October 2026 these were replaced for Rentomojo, Tonbo Imaging, Glass Wall Systems and Kanohar with dated NSE listing labels (see the source review below). Lessons also carry a dated distinction between continuing and discontinued Refex activities, and a dated distinction between continuing and discontinued Refex activities. Titan explains gold price versus quantity, inventory funding, reporting definitions and acquisitions. Bank lessons explain provisions, problem loans, capital and liquidity before using them in research prompts. Business-source check dates are distinct from catalogue verification.
 
 Business lessons and financial verification are separate workflows. Following the financial review below, all 35 companies have FY 2025–26 financial snapshots; the original 17 records and their reporting definitions remain unchanged.
 
@@ -172,3 +172,11 @@ The repository-root `AGENTS.md` records the permanent editorial standard for exi
 All 35 profiles were reviewed against Refex’s concrete explanation style. The other 28 JSON lessons were simplified independently, the six earlier consumer/retail walkthroughs were checked and refined, and Refex remains the reference. Captions for unfamiliar technical offerings now describe their purpose in everyday language. Verified financial snapshots and existing financial-interpretation notes are preserved. The overview’s next-question prompt uses the actual research question.
 
 Plain-language release validation: all 31 automated checks pass. Browser checks cover all 35 profiles at 390px, including the four overview answers, real next-question prompts, section targets, no horizontal overflow and financial tables only in the final learning section.
+
+## Source review of 31 October 2026
+
+All 35 profiles have now had a targeted source check, logged in `content/source-reviews/`: `pilot-2026-10-31.json` (HUL, Refex, Rainbow) and `review-2026-10-31-remaining.json` (the other 32). The checks used official company, exchange and regulator pages, read with the TinyFish web tools. Each profile's dated "what has changed" item now cites a recent official development, described in plain words, and its source list was extended. No new financial amounts were added and the verified annual snapshots are unchanged, apart from wording that said listing was unverified for Rentomojo and Tonbo Imaging.
+
+Main corrections: Glass Wall Systems, Kanohar, Rentomojo and Tonbo Imaging now show their NSE listing dates (16, 16 and 17 September and 23 October 2026), and Bharat Coking Coal's listing is confirmed. The dates for the first three come from the companies' own exchange filings, because the NSE quote pages would not load; Tonbo's was read from NSE. Reliance's lesson covers the 28 October 2026 listing of Jio Platforms, Swiggy's lesson covers its sale of Lynks Logistics, and L&T, Sun Pharma and ITC describe pending transactions as pending.
+
+Limits: Nestlé India could not be read (website blocked automated requests) and keeps its earlier review date. Several official PDFs for Infosys, Reliance and DMart could not be read, and the visible source notes on the ITC, Britannia, Marico and DMart primers still say they were checked on 29 October 2026. Open items are a Park Medi World income-tax inspection notice (October 2026) that the lesson does not yet mention, a new DMart subsidiary and a Swiggy food-safety order about its Toing app. These checks are targeted, not an exhaustive filing review, and there is still no automatic refresh.
