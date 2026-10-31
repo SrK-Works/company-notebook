@@ -173,6 +173,10 @@ All 35 profiles were reviewed against Refex’s concrete explanation style. The 
 
 Plain-language release validation: all 31 automated checks pass. Browser checks cover all 35 profiles at 390px, including the four overview answers, real next-question prompts, section targets, no horizontal overflow and financial tables only in the final learning section.
 
+## Checking source links
+
+`node scripts/check-sources.cjs` makes a read-only check of every distinct source link in the lessons and earlier profiles and reports links that are missing (404), have moved, fail to load, or refuse automated requests. It never edits content. Add `--tinyfish` with a `TINYFISH_API_KEY` environment variable to retry the failed links through the TinyFish Fetch API and see which can still be read; `--company <lesson-id>` limits the check, `--json <file>` saves the report and `--strict` exits with an error for CI. The key is read only from the environment and is never stored. A reachable link does not prove the page still supports the claim; that still needs a person.
+
 ## Source review of 31 October 2026
 
 All 35 profiles have now had a targeted source check, logged in `content/source-reviews/`: `pilot-2026-10-31.json` (HUL, Refex, Rainbow) and `review-2026-10-31-remaining.json` (the other 32). The checks used official company, exchange and regulator pages, read with the TinyFish web tools. Each profile's dated "what has changed" item now cites a recent official development, described in plain words, and its source list was extended. No new financial amounts were added and the verified annual snapshots are unchanged, apart from wording that said listing was unverified for Rentomojo and Tonbo Imaging.
