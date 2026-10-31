@@ -2694,7 +2694,7 @@ window.COMPANY_LESSONS = {
       },
       {
         "title": "A new location needs time to develop",
-        "text": "A hospital can have premises and staff costs before many patients use it. A catchment is the surrounding area from which patients may come. Compare newer facilities with established ones where information is disclosed."
+        "text": "A hospital can have premises and staff costs before many patients use it. A catchment is the surrounding area from which patients may come. For example, Rainbow’s October 2026 Guntur opening adds a place where patients can receive care; it does not by itself tell us how busy the hospital is. Compare newer facilities with established ones where information is disclosed."
       },
       {
         "title": "Bed use does not capture every service",
@@ -2747,8 +2747,8 @@ window.COMPANY_LESSONS = {
       ]
     ],
     "context": [
-      "A signed expansion agreement is an early stage",
-      "An agreement still needs to become a usable facility with permissions, equipment, staff and patients. Keep plans, openings and ongoing patient activity separate when following the network into a new location."
+      "Guntur has opened; Amaravati is still described as planned",
+      "Rainbow’s 16 October 2026 release announces the opening of its Guntur hospital, with children’s care, pregnancy and childbirth services, and fertility services. It describes Amaravati as a planned larger centre. An opened hospital and a planned hospital are different stages. For the new Guntur site, ask whether enough patients are using the services to cover doctors, nurses, supplies and premises costs. The opening announcement does not establish that this hospital is profitable; the full-year financial table below covers an earlier period."
     ],
     "quiz": [
       "Does another hospital site immediately add the same earnings as an established one?",
@@ -2902,7 +2902,7 @@ window.COMPANY_LESSONS = {
       },
       {
         "title": "A wind-equipment order still has to become a delivery",
-        "text": "An announced order is a promise of future work. Equipment must still be made, delivered and accepted under the contract, and the customer must pay. Promised repairs or support after the sale can also cost money."
+        "text": "A wind turbine is a large machine whose blades turn in the wind to generate electricity. In its 18 December 2025 disclosure, Venwind Refex agreed to supply turbines and provide technical help for a wind project, with work scheduled by September 2026. That date is a contract deadline, not proof of delivery. To understand progress, look for later evidence that equipment was delivered, accepted and paid for. Making equipment, transporting it and providing promised support all cost money."
       }
     ],
     "watch": [
@@ -2924,7 +2924,7 @@ window.COMPANY_LESSONS = {
       [
         "Is the wind business delivering equipment and collecting payment?",
         "Building equipment can require money before the customer pays.",
-        "Check which orders have become deliveries, whether production facilities are ready and what customers have paid in advance. Read who funds the subsidiary and who must pay if promised repairs or other commitments become due."
+        "Start with the dated order disclosure, then look for later delivery and payment updates. A scheduled completion date passing does not prove completion. Check what customers have paid in advance, what remains unpaid and who funds the subsidiary or promised repairs."
       ],
       [
         "Which businesses are included in the accounts?",
@@ -2982,6 +2982,10 @@ window.COMPANY_LESSONS = {
       [
         "Audited FY2026 results and segment reporting",
         "https://nsearchives.nseindia.com/corporate/REFEX2002_26052026125311_RIL_Outcome_26052026_sd.pdf"
+      ],
+      [
+        "Wind-turbine supply contract and scheduled completion · 18 December 2025",
+        "https://refex.co.in/wp-content/uploads/2025/12/RIL_VRPL_WTG_sd.pdf"
       ]
     ],
     "financialNotes": [

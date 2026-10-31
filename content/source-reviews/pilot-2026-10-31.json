@@ -1,0 +1,63 @@
+{
+  "checked": "31 October 2026",
+  "requestedProvider": "TinyFish",
+  "providerStatus": "Plugin confirmed installed and enabled, but no TinyFish tools exposed in this chat. No TinyFish research run was performed.",
+  "method": "Available web search and direct official-source reading; compared with repository profiles.",
+  "scope": "Targeted business explanation and dated context review; not a new financial audit or exhaustive latest-filing check.",
+  "financialPolicy": "Existing verified annual amounts, dates, definitions and reporting scope unchanged. No new quarterly numbers added.",
+  "findings": [
+    {
+      "company": "hindustan-unilever",
+      "status": "updated",
+      "evidence": "Official release: September 2026 results, published 28 October 2026. Key highlights, comparison-period tax benefit, and footnotes [a]/[b].",
+      "source": "https://www.hul.co.in/news/press-releases/2026/results-for-the-quarter-ended-30th-september-2026/",
+      "changes": [
+        "Replaced older generic context with dated sales-versus-profit teaching example.",
+        "Corrected UVG explanation to explicitly include product mix; defined USG exclusion of acquisitions/disposals."
+      ],
+      "alreadyCorrect": [
+        "Ice-cream demerger excluded from continuing-operation explanation."
+      ],
+      "limits": [
+        "Quarterly release is not substituted for the audited annual table.",
+        "No fresh per-product inventory or clinical/nutritional claims verified."
+      ]
+    },
+    {
+      "company": "refex-industries",
+      "status": "clarified; latest filing coverage incomplete",
+      "evidence": "18 December 2025 exchange disclosure, pages 1–2: turbine supply, technical assistance and scheduled September 2026 completion.",
+      "source": "https://refex.co.in/wp-content/uploads/2025/12/RIL_VRPL_WTG_sd.pdf",
+      "changes": [
+        "Explained turbine supply through a real dated contract.",
+        "Separated scheduled completion from verified delivery, acceptance and payment."
+      ],
+      "alreadyCorrect": [
+        "Coal/ash work, costs and customer payment already explained concretely.",
+        "Continuing/discontinued presentation not equated with completed legal transfer."
+      ],
+      "limits": [
+        "Ash, wind and current investor-library pages returned no readable body through the available web reader.",
+        "No claim that this historical order is the newest, completed or paid.",
+        "Current legal transfer status and exhaustive new filings not established."
+      ]
+    },
+    {
+      "company": "rainbow-childrens-medicare",
+      "status": "updated",
+      "evidence": "16 October 2026 Guntur opening release: opening, offered services and Amaravati described as planned.",
+      "source": "https://www.rainbowhospitals.in/media/press-release/rainbow-childrens-hospital-inaugurates-new-hospital-guntur",
+      "changes": [
+        "Replaced generic expansion context with opened Guntur versus planned Amaravati example.",
+        "Explained why opening does not establish patient demand or site profit."
+      ],
+      "alreadyCorrect": [
+        "Children/women/fertility services, payer and network explanation match the release."
+      ],
+      "limits": [
+        "No new site-level profit, occupancy or clinical-outcome claims.",
+        "October opening not represented as included in earlier annual results."
+      ]
+    }
+  ]
+}
