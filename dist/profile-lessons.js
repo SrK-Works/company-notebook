@@ -126,7 +126,7 @@ window.COMPANY_LESSONS = {
       ],
       [
         "Official annual-report library",
-        "https://www.asianpaints.com/AnnualReports.html"
+        "https://www.asianpaints.com/more/investors/investors-landing-page.html?q=annual-reports"
       ],
       [
         "Volume versus value, ingredient costs and Dahej plant · results presentation 29 October 2026",

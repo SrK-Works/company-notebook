@@ -492,8 +492,8 @@ window.COMPANIES.push(...[
         "https://www.parkhospital.in/"
       ],
       [
-        "Official exchange disclosure — PARKHOSPS",
-        "https://www.parkhospital.in/storage/app/public/images/stock-report/dRqqkSGsH28cd3083vJfoVC2wLMFVppQifLzc5AS.pdf"
+        "Park Medi World results filings by period",
+        "https://www.parkhospital.in/investor-relations/financial-information/financial-reports"
       ]
     ],
     "update": [
