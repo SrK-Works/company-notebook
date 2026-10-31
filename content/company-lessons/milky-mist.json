@@ -1,0 +1,171 @@
+{
+  "summary": "Milky Mist buys milk from farmers and turns it into paneer, cheese, curd, ice cream, yogurt and other dairy products sold across India.",
+  "description": "Milk spoils within days, so a dairy company must collect it, cool it and process it quickly. Milky Mist collects milk from farmers and dairy operators, cools it at chilling centres, and makes it into products with a longer shelf life and a higher price: paneer (a fresh Indian cheese), cheese, curd, ice cream, yogurt, ghee and butter. It makes most of them at a large, highly automated plant in Perundurai in Tamil Nadu, and moves them in its own vehicles to distributors, who supply shops across India. Its shares began trading on the exchanges in August 2026.",
+  "money": "Milky Mist earns money when distributors and shops pay for its products. Its largest cost is raw milk, which it buys from farmers and other dairy operators and whose price changes with seasons and farm conditions. It also pays for sugar, packaging, cultures and other ingredients, factory work, transport, advertising, and the fridges and freezers it places in shops. A rise in milk prices cuts what is left from each sale unless the company can raise its own prices.",
+  "customers": "Distributors buy from Milky Mist and supply shops, which sell to households and restaurants. Shoppers see the product on a shelf or in a freezer, so the shop is where the choice is made, not Milky Mist’s own outlet. A small part of its sales goes to customers outside India.",
+  "drivers": "The price of milk and other ingredients, how much it can charge for its products, how many shops stock and chill them, how much of the plant is being used, and how much cash is tied up in fridges, stock and unpaid bills.",
+  "listingLabel": "NSE: MILKYMIST · listed August 2026",
+  "groups": [
+    {
+      "title": "Paneer, curd, butter, ghee and long-life milk",
+      "examples": "Paneer, set curd, butter, ghee and UHT milk.",
+      "explanation": "Paneer is a fresh cheese made by curdling hot milk and pressing it, used widely in Indian cooking. Curd is milk that has been set into a thick, soft solid. Ghee is butter that has been heated to remove water and milk solids. UHT milk has been heated at very high temperature so it lasts months without a fridge. These are everyday foods that households buy repeatedly."
+    },
+    {
+      "title": "Cheese",
+      "examples": "Cheese for cooking and eating, and by-products such as whey.",
+      "explanation": "Cheese is made by curdling milk and draining the liquid, called whey, from the solid part. Whey is a by-product that the company can dry into powder and sell. The plant that makes cheese therefore produces more than one thing from the same milk."
+    },
+    {
+      "title": "Ice cream and desserts",
+      "examples": "Ice cream, mishti doi, gulab jamun and shrikhand.",
+      "explanation": "Ice cream must stay frozen from the factory to the shop, so Milky Mist places freezers in shops. Sales are higher in warm months and festivals, which can make results uneven from one quarter to another."
+    },
+    {
+      "title": "Yogurt, lassi and milkshakes",
+      "examples": "Flavoured and plain yogurt, lassi (a yogurt drink), buttermilk and milkshakes.",
+      "explanation": "These are ready-to-eat and ready-to-drink products bought for convenience. The company says yogurt was its fastest-growing category in the quarter to September 2026. A fast-growing category can start from a small base."
+    },
+    {
+      "title": "High-protein dairy",
+      "examples": "Greek yogurt, skyr and cheese and paneer that the company describes as high-protein.",
+      "explanation": "Greek yogurt and skyr are thick yogurts made by straining off liquid. The company markets them as high-protein products. This notebook does not assess any health claim; the point to check is whether these products sell well and earn a good margin."
+    }
+  ],
+  "basics": [
+    {
+      "title": "Why does a dairy company make products instead of selling milk?",
+      "text": "Plain milk is cheap and its price is close to what every seller charges. Turning it into paneer, cheese, yogurt or ice cream creates a branded product that can fetch a higher price per litre of milk used. Milky Mist describes itself as a value-added dairy company. The catch is that making these products needs plants, freezers and advertising."
+    },
+    {
+      "title": "Why does the price of milk matter so much?",
+      "text": "Milk is both the biggest input and a product of farming, so its price moves with feed costs, weather and how much farmers are paid. The company’s 29 October 2026 presentation says the dairy industry faced higher input costs in the quarter to September. A dairy company can protect its profit only by raising prices, making more from each litre or cutting other costs."
+    },
+    {
+      "title": "What is a visi cooler?",
+      "text": "A visi cooler is a glass-fronted fridge placed in a shop so that customers can see chilled products. Milky Mist puts tens of thousands of them, plus freezers, in shops. The company pays for them, so they are a cost that must be recovered through sales."
+    },
+    {
+      "title": "What does an IPO’s new-share money pay for?",
+      "text": "In an initial public offering (IPO), a company can sell new shares, called a fresh issue, and its existing owners can sell some of theirs, called an offer for sale. Money from new shares goes to the company; money from shares sold by owners goes to the owners. Milky Mist’s offer document said the company’s new-share money would pay back borrowings, expand the Perundurai plant and buy shop coolers and freezers."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Collect milk from farmers and dairy operators",
+      "text": "Milk is gathered on collection routes and cooled at chilling centres and bulk coolers near the farms. The company says it buys milk directly from tens of thousands of farmers and also buys from other dairy operators."
+    },
+    {
+      "title": "Make the products at the plant",
+      "text": "At Perundurai the milk is processed into paneer, cheese, curd, yogurt, ice cream and other items, mostly using automated machines. Whey left from cheese and paneer can be dried and sold."
+    },
+    {
+      "title": "Keep the products cold and move them",
+      "text": "Fresh dairy needs a cold chain: refrigeration from the factory to the shop shelf. The company runs its own fleet of vehicles."
+    },
+    {
+      "title": "Sell through distributors to shops",
+      "text": "Distributors buy from the company and deliver to thousands of shops. Milky Mist places branded coolers and freezers in many of them."
+    },
+    {
+      "title": "Collect payment and pay for milk",
+      "text": "The company must pay for milk and ingredients while waiting to be paid by distributors. The gap decides how much cash it needs to keep working."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Most milk comes without long-term contracts",
+      "text": "Milky Mist’s offer document says it buys most of its milk directly from farmers with no formal arrangements, so farmers can sell to rivals instead. It also says the share it buys from other dairy operators has risen over the last three years. Milk supply is the foundation of the business, so look at who supplies it."
+    },
+    {
+      "title": "Fridges and freezers are part of the cost of winning shops",
+      "text": "The company places its own coolers in shops to display chilled products. Part of its new-share money was meant for more of them. Each one has to earn enough sales to repay its cost."
+    },
+    {
+      "title": "Market-share claims come from one study",
+      "text": "The company says it is the largest private packaged paneer brand in India’s organised market, citing a research report. Treat this as the company’s claim based on one study, not an independent audit."
+    },
+    {
+      "title": "A newly listed company has a short public record",
+      "text": "Milky Mist has reported only a few quarters since listing. Quarterly results are generally reviewed by auditors, not fully audited, so check what each document says before relying on it."
+    }
+  ],
+  "watch": [
+    [
+      "Is the cost of milk rising faster than the prices Milky Mist can charge?",
+      "Milk is the biggest cost and farm prices change with the seasons and weather.",
+      "Compare sales growth with the gross margin, which is what is left after the cost of ingredients. Read what the company says about price increases it has made and whether sales volumes held up afterwards."
+    ],
+    [
+      "Which products are driving growth, and for how long?",
+      "A category growing fast from a small base can look better than it is.",
+      "Look at the sales split by category, such as paneer, cheese, curd, ice cream and yogurt, and compare each category’s growth. Check whether new products are replacing sales of older ones."
+    ],
+    [
+      "How dependable is the milk supply?",
+      "The company’s own documents say most farmers have no formal agreement with it.",
+      "Read the table of milk bought from farmers and from other dairy operators, and note the shift between them. Look for comments on farmers’ prices, weather effects and competition for milk."
+    ],
+    [
+      "Is the expanded plant being used?",
+      "Extra capacity adds costs whether or not it is full.",
+      "Look for capacity use by product in the offer document and later results. Check progress on the Perundurai expansion, delays, cost increases and whether new capacity is for whey, cheese or other products."
+    ],
+    [
+      "How much cash is tied up in coolers, stock and unpaid bills?",
+      "Growth that needs a lot of cash can strain a company even when profit is rising.",
+      "Compare profit with cash from operations, and look at money spent on equipment, stock held and amounts customers owe. Check how much of the IPO money has been spent on its stated purposes."
+    ]
+  ],
+  "risks": [
+    [
+      "Milk costs rise or supply falls",
+      "Farmers are not obliged to sell to Milky Mist, so a shortage or a price spike can reduce output or squeeze margins."
+    ],
+    [
+      "Spoilage and cold-chain failures",
+      "Dairy is perishable. A fridge breakdown, a delayed truck or a power cut can spoil stock and harm the brand."
+    ],
+    [
+      "Strong competitors",
+      "Large cooperative and private dairy brands compete for the same shelf space and customers, which can limit pricing."
+    ],
+    [
+      "Environmental and permit rules",
+      "The offer document discloses two notices dated 31 December 2024 from the Tamil Nadu Pollution Control Board about water and air rules. Compliance problems can lead to extra costs or restrictions."
+    ],
+    [
+      "Expansion goes over budget or runs late",
+      "The plant expansion depends on outside contractors and equipment suppliers, and the offer document says costs and timing may change."
+    ]
+  ],
+  "context": [
+    "October 2026: costs rose across dairy, yet profit grew faster than sales",
+    "Milky Mist’s investor presentation of 29 October 2026 covers the quarter to September 2026. Management says the dairy industry faced higher input costs and cautious consumers, and that the company still reported higher sales, better margins and much faster profit growth. It credits price increases, higher use of its plant, a wide range of products and efficiency gains. Yogurt was its fastest-growing category. These are the company’s own explanations, from its early quarterly reports as a listed company. Compare them with the full-year figures at the end of this page, which cover an earlier period."
+  ],
+  "quiz": [
+    "When a company sells new shares in an IPO and its existing owners also sell shares, does all the money go to the company?",
+    "No. Money from newly issued shares goes to the company. Money from shares sold by existing owners goes to those owners. Check which part is which to see how much the business receives."
+  ],
+  "sources": [
+    [
+      "Quarterly investor presentation · 29 October 2026",
+      "https://nsearchives.nseindia.com/corporate/MILKYMIST_29102026165402_intimationoninvestorpresentation29102026.pdf"
+    ],
+    [
+      "Offer document (red herring prospectus) · 6 August 2026",
+      "https://www.bseindia.com/corporates/download/386960/IPO%20Open/RHPSigned_20260806221222.pdf"
+    ],
+    [
+      "NSE circular announcing the listing · 17 August 2026",
+      "https://nsearchives.nseindia.com/content/circulars/CML75775.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Read a dairy company’s numbers in context",
+      "text": "Compare sales growth with the cost of milk and the profit left after it. Look at which categories grow and how much cash goes into coolers, stock and unpaid bills. Verified full-year figures for this profile have not yet been added, so the financial table below is marked as awaiting verification."
+    }
+  ],
+  "checked": "31 October 2026"
+}

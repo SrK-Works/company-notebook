@@ -2379,3 +2379,444 @@ Object.assign(window.PRODUCT_VISUALS, {
     }
   ]
 });
+
+// BEGIN 31 October 2026 company additions (generated)
+Object.assign(window.PRODUCT_VISUALS, {
+  "ireda": [
+    {
+      "name": "Solar power loans",
+      "category": "Lending for solar farms and rooftop solar",
+      "image": "assets/products/ireda-solar-power-loans.svg",
+      "url": "https://www.ireda.in/IredaWebPortal/",
+      "kind": "illustration",
+      "alt": "Solar power loans — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Wind power loans",
+      "category": "Lending for wind farms",
+      "image": "assets/products/ireda-wind-power-loans.svg",
+      "url": "https://www.ireda.in/IredaWebPortal/",
+      "kind": "illustration",
+      "alt": "Wind power loans — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Hydropower loans",
+      "category": "Lending for river and dam power stations",
+      "image": "assets/products/ireda-hydropower-loans.svg",
+      "url": "https://www.ireda.in/IredaWebPortal/",
+      "kind": "illustration",
+      "alt": "Hydropower loans — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Biomass and compressed biogas loans",
+      "category": "Lending for fuel and power made from farm and food waste",
+      "image": "assets/products/ireda-biomass-and-compressed-biogas-loans.svg",
+      "url": "https://www.ireda.in/IredaWebPortal/",
+      "kind": "illustration",
+      "alt": "Biomass and compressed biogas loans — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Waste-to-energy loans",
+      "category": "Lending for power made from rubbish",
+      "image": "assets/products/ireda-waste-to-energy-loans.svg",
+      "url": "https://www.ireda.in/IredaWebPortal/",
+      "kind": "illustration",
+      "alt": "Waste-to-energy loans — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Energy storage loans",
+      "category": "Lending for large batteries",
+      "image": "assets/products/ireda-energy-storage-loans.svg",
+      "url": "https://www.ireda.in/IredaWebPortal/",
+      "kind": "illustration",
+      "alt": "Energy storage loans — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Green hydrogen loans",
+      "category": "Lending for hydrogen fuel made with clean electricity",
+      "image": "assets/products/ireda-green-hydrogen-loans.svg",
+      "url": "https://www.ireda.in/IredaWebPortal/",
+      "kind": "illustration",
+      "alt": "Green hydrogen loans — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Power transmission loans",
+      "category": "Lending for lines that carry electricity",
+      "image": "assets/products/ireda-power-transmission-loans.svg",
+      "url": "https://www.ireda.in/IredaWebPortal/",
+      "kind": "illustration",
+      "alt": "Power transmission loans — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Ethanol and equipment-factory loans",
+      "category": "Lending for clean-fuel and solar-equipment makers",
+      "image": "assets/products/ireda-ethanol-and-equipment-factory-loans.svg",
+      "url": "https://www.ireda.in/IredaWebPortal/",
+      "kind": "illustration",
+      "alt": "Ethanol and equipment-factory loans — conceptual illustration, not a product photograph"
+    }
+  ],
+  "hcg": [
+    {
+      "name": "Cancer diagnosis scans and tests",
+      "category": "Finding and staging cancer",
+      "image": "assets/products/hcg-cancer-diagnosis-scans-and-tests.svg",
+      "url": "https://www.hcgoncology.com/annual-reports/",
+      "kind": "illustration",
+      "alt": "Cancer diagnosis scans and tests — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Radiation treatment",
+      "category": "Machine-guided radiation for cancer",
+      "image": "assets/products/hcg-radiation-treatment.svg",
+      "url": "https://www.hcgoncology.com/annual-reports/",
+      "kind": "illustration",
+      "alt": "Radiation treatment — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Cancer surgery, including robotic surgery",
+      "category": "Operations to remove tumours",
+      "image": "assets/products/hcg-cancer-surgery-including-robotic-surgery.svg",
+      "url": "https://www.hcgoncology.com/annual-reports/",
+      "kind": "illustration",
+      "alt": "Cancer surgery, including robotic surgery — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Chemotherapy and day-care cancer medicines",
+      "category": "Medicine given without an overnight stay",
+      "image": "assets/products/hcg-chemotherapy-and-day-care-cancer-medicines.svg",
+      "url": "https://www.hcgoncology.com/annual-reports/",
+      "kind": "illustration",
+      "alt": "Chemotherapy and day-care cancer medicines — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Multispecialty hospital care",
+      "category": "Hospital treatment beyond cancer",
+      "image": "assets/products/hcg-multispecialty-hospital-care.svg",
+      "url": "https://www.hcgoncology.com/annual-reports/",
+      "kind": "illustration",
+      "alt": "Multispecialty hospital care — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Overseas patients and the Nairobi centre",
+      "category": "Care for patients from other countries",
+      "image": "assets/products/hcg-overseas-patients-and-the-nairobi-centre.svg",
+      "url": "https://www.hcgoncology.com/annual-reports/",
+      "kind": "illustration",
+      "alt": "Overseas patients and the Nairobi centre — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Cancer follow-up and survivorship care",
+      "category": "Support after treatment",
+      "image": "assets/products/hcg-cancer-follow-up-and-survivorship-care.svg",
+      "url": "https://www.hcgoncology.com/annual-reports/",
+      "kind": "illustration",
+      "alt": "Cancer follow-up and survivorship care — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Fertility treatment (Milann)",
+      "category": "Historical offering, sold June 2026",
+      "image": "assets/products/hcg-fertility-treatment-milann.svg",
+      "url": "https://www.hcgoncology.com/annual-reports/",
+      "kind": "illustration",
+      "alt": "Fertility treatment (Milann) — conceptual illustration, not a product photograph"
+    }
+  ],
+  "fredun-pharmaceuticals": [
+    {
+      "name": "Export medicines (Fredun Gx brand)",
+      "category": "Branded generic medicines sold abroad",
+      "image": "assets/products/fredun-pharmaceuticals-export-medicines-fredun-gx-brand.svg",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2dcc16c8-0163-4b42-9e8e-ffe1e1b74c2e.pdf",
+      "kind": "illustration",
+      "alt": "Export medicines (Fredun Gx brand) — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Medicines made for other companies (OEM)",
+      "category": "Products sold under another company’s name",
+      "image": "assets/products/fredun-pharmaceuticals-medicines-made-for-other-companies-oem.svg",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2dcc16c8-0163-4b42-9e8e-ffe1e1b74c2e.pdf",
+      "kind": "illustration",
+      "alt": "Medicines made for other companies (OEM) — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Government hospital supply contracts",
+      "category": "Medicines sold through public tenders",
+      "image": "assets/products/fredun-pharmaceuticals-government-hospital-supply-contracts.svg",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2dcc16c8-0163-4b42-9e8e-ffe1e1b74c2e.pdf",
+      "kind": "illustration",
+      "alt": "Government hospital supply contracts — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Pet medicines and diagnostics (Freossi)",
+      "category": "Animal health care",
+      "image": "assets/products/fredun-pharmaceuticals-pet-medicines-and-diagnostics-freossi.svg",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2dcc16c8-0163-4b42-9e8e-ffe1e1b74c2e.pdf",
+      "kind": "illustration",
+      "alt": "Pet medicines and diagnostics (Freossi) — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Pet food and pet shops",
+      "category": "Functional pet foods and retail",
+      "image": "assets/products/fredun-pharmaceuticals-pet-food-and-pet-shops.svg",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2dcc16c8-0163-4b42-9e8e-ffe1e1b74c2e.pdf",
+      "kind": "illustration",
+      "alt": "Pet food and pet shops — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Nutrition supplements (Fredun Nutrition)",
+      "category": "Food-supplement brands such as Mamalait and Fredmax",
+      "image": "assets/products/fredun-pharmaceuticals-nutrition-supplements-fredun-nutrition.svg",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2dcc16c8-0163-4b42-9e8e-ffe1e1b74c2e.pdf",
+      "kind": "illustration",
+      "alt": "Nutrition supplements (Fredun Nutrition) — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Skin-care products (BeautyFred)",
+      "category": "Skin products with added active ingredients",
+      "image": "assets/products/fredun-pharmaceuticals-skin-care-products-beautyfred.svg",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2dcc16c8-0163-4b42-9e8e-ffe1e1b74c2e.pdf",
+      "kind": "illustration",
+      "alt": "Skin-care products (BeautyFred) — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Support braces and home-health devices",
+      "category": "Orthopaedic supports, nebulisers and monitors",
+      "image": "assets/products/fredun-pharmaceuticals-support-braces-and-home-health-devices.svg",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2dcc16c8-0163-4b42-9e8e-ffe1e1b74c2e.pdf",
+      "kind": "illustration",
+      "alt": "Support braces and home-health devices — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Premium wellness and hormone-health range",
+      "category": "Newest, least proven business lines",
+      "image": "assets/products/fredun-pharmaceuticals-premium-wellness-and-hormone-health-range.svg",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2dcc16c8-0163-4b42-9e8e-ffe1e1b74c2e.pdf",
+      "kind": "illustration",
+      "alt": "Premium wellness and hormone-health range — conceptual illustration, not a product photograph"
+    }
+  ],
+  "milky-mist": [
+    {
+      "name": "Paneer",
+      "category": "Fresh Indian cheese for cooking",
+      "image": "assets/products/milky-mist-paneer.svg",
+      "url": "https://nsearchives.nseindia.com/corporate/MILKYMIST_29102026165402_intimationoninvestorpresentation29102026.pdf",
+      "kind": "illustration",
+      "alt": "Paneer — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Curd and butter",
+      "category": "Everyday dairy foods",
+      "image": "assets/products/milky-mist-curd-and-butter.svg",
+      "url": "https://nsearchives.nseindia.com/corporate/MILKYMIST_29102026165402_intimationoninvestorpresentation29102026.pdf",
+      "kind": "illustration",
+      "alt": "Curd and butter — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Ghee and long-life milk",
+      "category": "Cooking fat and packaged milk",
+      "image": "assets/products/milky-mist-ghee-and-long-life-milk.svg",
+      "url": "https://nsearchives.nseindia.com/corporate/MILKYMIST_29102026165402_intimationoninvestorpresentation29102026.pdf",
+      "kind": "illustration",
+      "alt": "Ghee and long-life milk — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Cheese",
+      "category": "Made from milk, with whey left over",
+      "image": "assets/products/milky-mist-cheese.svg",
+      "url": "https://nsearchives.nseindia.com/corporate/MILKYMIST_29102026165402_intimationoninvestorpresentation29102026.pdf",
+      "kind": "illustration",
+      "alt": "Cheese — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Ice cream and desserts",
+      "category": "Frozen and sweet dairy products",
+      "image": "assets/products/milky-mist-ice-cream-and-desserts.svg",
+      "url": "https://nsearchives.nseindia.com/corporate/MILKYMIST_29102026165402_intimationoninvestorpresentation29102026.pdf",
+      "kind": "illustration",
+      "alt": "Ice cream and desserts — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Yogurt, lassi and milkshakes",
+      "category": "Ready-to-drink and ready-to-eat dairy",
+      "image": "assets/products/milky-mist-yogurt-lassi-and-milkshakes.svg",
+      "url": "https://nsearchives.nseindia.com/corporate/MILKYMIST_29102026165402_intimationoninvestorpresentation29102026.pdf",
+      "kind": "illustration",
+      "alt": "Yogurt, lassi and milkshakes — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Greek yogurt and skyr",
+      "category": "Thicker yogurts the company sells as high-protein",
+      "image": "assets/products/milky-mist-greek-yogurt-and-skyr.svg",
+      "url": "https://nsearchives.nseindia.com/corporate/MILKYMIST_29102026165402_intimationoninvestorpresentation29102026.pdf",
+      "kind": "illustration",
+      "alt": "Greek yogurt and skyr — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Milk from farmers and chilling centres",
+      "category": "How raw milk is collected",
+      "image": "assets/products/milky-mist-milk-from-farmers-and-chilling-centres.svg",
+      "url": "https://nsearchives.nseindia.com/corporate/MILKYMIST_29102026165402_intimationoninvestorpresentation29102026.pdf",
+      "kind": "illustration",
+      "alt": "Milk from farmers and chilling centres — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Cold-chain delivery and shop coolers",
+      "category": "Moving and displaying chilled products",
+      "image": "assets/products/milky-mist-cold-chain-delivery-and-shop-coolers.svg",
+      "url": "https://nsearchives.nseindia.com/corporate/MILKYMIST_29102026165402_intimationoninvestorpresentation29102026.pdf",
+      "kind": "illustration",
+      "alt": "Cold-chain delivery and shop coolers — conceptual illustration, not a product photograph"
+    }
+  ],
+  "hfcl": [
+    {
+      "name": "Optical fibre",
+      "category": "Hair-thin glass strands that carry data as light",
+      "image": "assets/products/hfcl-optical-fibre.svg",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/132196fb-d145-48aa-bc31-3a633389e9f5.pdf",
+      "kind": "illustration",
+      "alt": "Optical fibre — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Optical fibre cables",
+      "category": "Fibre bundled and protected for laying underground or on poles",
+      "image": "assets/products/hfcl-optical-fibre-cables.svg",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/132196fb-d145-48aa-bc31-3a633389e9f5.pdf",
+      "kind": "illustration",
+      "alt": "Optical fibre cables — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Data-centre connectivity products",
+      "category": "Cabling and connectors inside large computer buildings",
+      "image": "assets/products/hfcl-data-centre-connectivity-products.svg",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/132196fb-d145-48aa-bc31-3a633389e9f5.pdf",
+      "kind": "illustration",
+      "alt": "Data-centre connectivity products — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Wi-Fi systems and routers",
+      "category": "Equipment that sends data through the air and between networks",
+      "image": "assets/products/hfcl-wi-fi-systems-and-routers.svg",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/132196fb-d145-48aa-bc31-3a633389e9f5.pdf",
+      "kind": "illustration",
+      "alt": "Wi-Fi systems and routers — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Backhaul radios",
+      "category": "Wireless links that carry mobile-tower traffic to the main network",
+      "image": "assets/products/hfcl-backhaul-radios.svg",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/132196fb-d145-48aa-bc31-3a633389e9f5.pdf",
+      "kind": "illustration",
+      "alt": "Backhaul radios — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Thermal weapon sights",
+      "category": "Heat-sensing sights for military use",
+      "image": "assets/products/hfcl-thermal-weapon-sights.svg",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/132196fb-d145-48aa-bc31-3a633389e9f5.pdf",
+      "kind": "illustration",
+      "alt": "Thermal weapon sights — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Surveillance radars",
+      "category": "Radars that detect movement over ground or sea",
+      "image": "assets/products/hfcl-surveillance-radars.svg",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/132196fb-d145-48aa-bc31-3a633389e9f5.pdf",
+      "kind": "illustration",
+      "alt": "Surveillance radars — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Wire harnesses and tactical cables",
+      "category": "Cable assemblies for defence, aerospace and cars",
+      "image": "assets/products/hfcl-wire-harnesses-and-tactical-cables.svg",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/132196fb-d145-48aa-bc31-3a633389e9f5.pdf",
+      "kind": "illustration",
+      "alt": "Wire harnesses and tactical cables — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Network building for customers",
+      "category": "Designing and installing telecom networks to order",
+      "image": "assets/products/hfcl-network-building-for-customers.svg",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/132196fb-d145-48aa-bc31-3a633389e9f5.pdf",
+      "kind": "illustration",
+      "alt": "Network building for customers — conceptual illustration, not a product photograph"
+    }
+  ],
+  "genus-power": [
+    {
+      "name": "Smart prepaid electricity meters",
+      "category": "Meters that send readings automatically and take payment in advance",
+      "image": "assets/products/genus-power-smart-prepaid-electricity-meters.svg",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_31250_GENUSPOWER_2025_2026_A_7862122_03092026171428.pdf",
+      "kind": "illustration",
+      "alt": "Smart prepaid electricity meters — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Business and industrial meters",
+      "category": "Meters for factories, shops and offices",
+      "image": "assets/products/genus-power-business-and-industrial-meters.svg",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_31250_GENUSPOWER_2025_2026_A_7862122_03092026171428.pdf",
+      "kind": "illustration",
+      "alt": "Business and industrial meters — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Grid and substation meters",
+      "category": "Meters on power lines and transformers",
+      "image": "assets/products/genus-power-grid-and-substation-meters.svg",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_31250_GENUSPOWER_2025_2026_A_7862122_03092026171428.pdf",
+      "kind": "illustration",
+      "alt": "Grid and substation meters — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Gas and water meters",
+      "category": "Newer smart meters beyond electricity",
+      "image": "assets/products/genus-power-gas-and-water-meters.svg",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_31250_GENUSPOWER_2025_2026_A_7862122_03092026171428.pdf",
+      "kind": "illustration",
+      "alt": "Gas and water meters — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Meter data software",
+      "category": "Systems that collect and check meter readings",
+      "image": "assets/products/genus-power-meter-data-software.svg",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_31250_GENUSPOWER_2025_2026_A_7862122_03092026171428.pdf",
+      "kind": "illustration",
+      "alt": "Meter data software — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Communication devices",
+      "category": "Equipment that links meters to the network",
+      "image": "assets/products/genus-power-communication-devices.svg",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_31250_GENUSPOWER_2025_2026_A_7862122_03092026171428.pdf",
+      "kind": "illustration",
+      "alt": "Communication devices — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Meter installation",
+      "category": "Fitting meters at homes and businesses",
+      "image": "assets/products/genus-power-meter-installation.svg",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_31250_GENUSPOWER_2025_2026_A_7862122_03092026171428.pdf",
+      "kind": "illustration",
+      "alt": "Meter installation — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Running smart-meter projects for utilities",
+      "category": "Multi-year projects for electricity companies",
+      "image": "assets/products/genus-power-running-smart-meter-projects-for-utilities.svg",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_31250_GENUSPOWER_2025_2026_A_7862122_03092026171428.pdf",
+      "kind": "illustration",
+      "alt": "Running smart-meter projects for utilities — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Meter factories",
+      "category": "Plants in Rajasthan, Uttarakhand and Assam",
+      "image": "assets/products/genus-power-meter-factories.svg",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_31250_GENUSPOWER_2025_2026_A_7862122_03092026171428.pdf",
+      "kind": "illustration",
+      "alt": "Meter factories — conceptual illustration, not a product photograph"
+    }
+  ]
+});
+// END 31 October 2026 company additions

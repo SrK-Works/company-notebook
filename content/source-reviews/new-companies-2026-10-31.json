@@ -1,0 +1,50 @@
+{
+  "checked": "31 October 2026",
+  "scope": "Six new profiles: IREDA, HCG, Fredun Pharmaceuticals, Milky Mist Dairy Food, HFCL and Genus Power Infrastructures. Business explanation, listing status and one dated context example each; not a financial audit.",
+  "method": "TinyFish search and fetch for company, exchange and regulator pages; annual reports and offer documents downloaded and read locally. Each claim was compared with the source text before it was written.",
+  "financialPolicy": "No financial amounts in the lessons. Verified full-year snapshots are not yet added, so the financial section for each profile shows the verification-pending state.",
+  "findings": [
+    {
+      "company": "ireda",
+      "status": "added",
+      "evidence": "FY 2025–26 annual report (lending model, sectors, funding, asset-quality table, Gensol account) and 19 October 2026 results release.",
+      "source": "https://www.ireda.in/IredaWebPortal/documents/investors/annual-reports/ar-2025-26.pdf",
+      "limits": ["Listing read from IREDA's own site links to NSE and BSE quote pages; exchange listing circular not opened.", "The loan application, sanction and disbursement flow was taken from the annual report and general lending practice; the website's process-flow page loaded only as images."]
+    },
+    {
+      "company": "hcg",
+      "status": "added",
+      "evidence": "FY 2025–26 annual report (network, payer mix, risks, change of control, Milann held for sale) and 6 August 2026 results release (new north Bengaluru hospital, fertility business sold June 2026).",
+      "source": "https://www.hcgoncology.com/uploads/ir/HCG%20Annual%20Report%20FY2026.pdf",
+      "limits": ["How doctors are engaged and paid was not found in the report and is not described.", "The term 'non-institutional revenue' used in the release was left out because it is not defined there."]
+    },
+    {
+      "company": "fredun-pharmaceuticals",
+      "status": "added; official site is http-only",
+      "evidence": "FY 2025–26 annual report (generics, exports, newer businesses, risk list) and 6 August 2026 results release (bonus issue, quarterly results).",
+      "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2dcc16c8-0163-4b42-9e8e-ffe1e1b74c2e.pdf",
+      "limits": ["Fredun's own website does not load over https, so lesson sources use BSE filings; the company's http pages are linked only from the profile record.", "Listed on BSE only according to the annual report; no NSE listing was verified.", "Management's text is promotional; the lesson states this and describes health and wellness claims as the company's own."]
+    },
+    {
+      "company": "milky-mist",
+      "status": "added; very recent listing",
+      "evidence": "29 October 2026 investor presentation, offer document of 6 August 2026 (milk procurement, use of proceeds, notices), NSE circular of 17 August 2026.",
+      "source": "https://nsearchives.nseindia.com/corporate/MILKYMIST_29102026165402_intimationoninvestorpresentation29102026.pdf",
+      "limits": ["Exact listing date not read from an exchange document; the label says 'listed August 2026'.", "Market-share claims are the company's, citing one research report."]
+    },
+    {
+      "company": "hfcl",
+      "status": "added; acquisition and ammunition plant described as plans",
+      "evidence": "FY 2025–26 annual report and 22 July 2026 results release and presentation.",
+      "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/132196fb-d145-48aa-bc31-3a633389e9f5.pdf",
+      "limits": ["The annual report refers to both 'definitive agreements' and a memorandum of understanding for the aerospace acquisition, so the lesson says only 'proposed'.", "The very large supply agreement with an unnamed global hyperscaler is mentioned without amounts."]
+    },
+    {
+      "company": "genus-power",
+      "status": "added; buyback terms not verified from a filing",
+      "evidence": "FY 2025–26 annual report (smart-metering model, risks, key audit matter, borrowings) and exchange intimation of 19 October 2026 about considering a buyback.",
+      "source": "https://nsearchives.nseindia.com/annual_reports/AR_31250_GENUSPOWER_2025_2026_A_7862122_03092026171428.pdf",
+      "limits": ["The 19 October notice could not be opened by the web reader; its content was read from the search excerpt.", "The 26 October approval is shown on the company's investor page as a board resolution; the buyback's number of shares, price and dates come only from news reports, so the lesson does not state them.", "Genus's website refuses automated downloads (HTTP 403), so annual-report and presentation copies are cited from NSE."]
+    }
+  ]
+}

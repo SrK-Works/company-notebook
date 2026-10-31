@@ -6,14 +6,22 @@ for(const f of ['data','company-expansion','financial-data'])vm.runInContext(fs.
 const original=JSON.stringify(c.COMPANY_FINANCIALS);
 const originalIds=Object.keys(c.COMPANY_FINANCIALS);
 for(const f of ['financial-expansion','financials'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
-test('all 35 companies have verified snapshots and the original 17 are preserved',()=>{
- assert.equal(c.COMPANIES.length,35);
+const addedLater=['ireda','hcg','fredun-pharmaceuticals','milky-mist','hfcl','genus-power'];
+test('the 35 companies with a verified review have snapshots, the original 17 are preserved, and 6 later additions are explicitly pending',()=>{
+ assert.equal(c.COMPANIES.length,41);
  assert.equal(Object.keys(c.COMPANY_FINANCIALS).length,35);
+ for(const id of addedLater){
+  assert.ok(c.COMPANIES.some(x=>x.id===id),id+': profile exists');
+  assert.equal(c.COMPANY_FINANCIALS[id],undefined,id+': no unverified figures');
+  const html=c.companyFinancials.render(c.COMPANIES.find(x=>x.id===id));
+  assert.ok(html.includes('AWAITING VERIFICATION'),id+': pending state');
+  assert.ok(!html.includes('<table'),id+': no invented table');
+ }
  const preserved=Object.fromEntries(originalIds.map(id=>[id,c.COMPANY_FINANCIALS[id]]));
  assert.equal(JSON.stringify(preserved),original);
  const files=fs.readdirSync('content/financial-reviews').filter(f=>f.endsWith('.json'));
  assert.equal(files.length,18);
- for(const company of c.COMPANIES){
+ for(const company of c.COMPANIES.filter(x=>!addedLater.includes(x.id))){
   const record=c.COMPANY_FINANCIALS[company.id];assert.ok(record,company.id);
   const html=c.companyFinancials.render(company);assert.ok(html.includes('<table'),company.id);
   assert.ok(!html.includes('AWAITING VERIFICATION'),company.id);

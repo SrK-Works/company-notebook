@@ -16,13 +16,13 @@ GitHub Pages publishes `dist/` automatically after each push to `main`:
 ## Features
 
 - Product-first company pages: the visual shelf appears immediately after the company header, followed by the one-minute overview, product and business foundations, operating mechanics and deeper research. All 35 profiles omit the generic share-ownership tutorial.
-- A one-minute overview on all 35 profiles: activities, paying customers, earnings, profit drivers and a next research question. The six earlier primers and 29 independently authored lessons supply the company-specific summaries, customers and profit drivers.
-- Thirty-five company profiles, company/brand/ticker search and business-type filters. Multiword search matches words across company names, aliases and offerings (for example, “ITC Gold Flake”).
+- A one-minute overview on all 41 profiles: activities, paying customers, earnings, profit drivers and a next research question. The six earlier primers and 35 independently authored lessons supply the company-specific summaries, customers and profit drivers.
+- Forty-one company profiles, company/brand/ticker search and business-type filters. Multiword search matches words across company names, aliases and offerings (for example, “ITC Gold Flake”).
 - Cards and profile headers omit fixed reading-time estimates; the approximate one-minute overview label remains.
 - Device-local saved reading list, source references, business-model explanations,
   risks and self-check questions.
 - Light and dark themes with system preference detection and a saved manual choice.
-- Product and service visual shelves across all 35 profiles, with a smooth, continuous loop at 22 pixels per second, pause on interaction, native touch scrolling, and reduced-motion support.
+- Product and service visual shelves across all 41 profiles, with a smooth, continuous loop at 22 pixels per second, pause on interaction, native touch scrolling, and reduced-motion support.
 - Starter guide and glossary.
 - Local feedback, correction notes, coverage requests and JSON export for pilot sessions.
 - Device-local reading events: opening and completing profiles, revealing explanations and bookmarks.
@@ -36,7 +36,7 @@ risks and learning explanations are editorial interpretation. This is not stock 
 Profile sources are stored with each record in `dist/data.js` and `dist/company-expansion.js`. The 11 expansion profiles were reviewed on 27 October 2026; aliases support familiar names and common spelling variations.
 
 Financial figures checked on 29 October 2026 are stored in the original `dist/financial-data.js` plus generated `dist/financial-expansion.js`, and rendered by `dist/financials.js`. New financial authoring lives in `content/financial-reviews/` with primary-source evidence transcriptions.
-The current release contains 35 verified snapshots, all for FY 2025–26. The original 17 records remain unchanged:
+The current release contains 35 verified snapshots, all for FY 2025–26, covering the 35 companies added before 31 October 2026; the six companies added on that date show the explicit verification-pending state. The original 17 records remain unchanged:
 - Eleven profiles have business/segment disclosures: HUL, ITC, Reliance, Mahindra & Mahindra, L&T, Infosys, Titan, Swiggy, Marico, Eternal and TCS. TCS shows reported margins rather than reverse-calculated profit amounts. Reliance shows selected business highlights, not a complete group reconciliation.
 - Park Medi World reports one healthcare segment; Nestlé India reports one Food segment, with company profit and an additional sales-only product-group table. Britannia reports one Foods segment, with group profit attributable to owners, a separately labelled approximate turnover mix and geographical revenue. DMart’s consolidated retail results are also shown as group totals with no separate reportable segments. Glass Wall Systems and Kanohar show verified company totals, explicitly not product-level allocations.
 - The additional 18 profiles now have verified annual figures: six reported segment tables (Bajaj Auto, Airtel, Dr. Reddy’s, NTPC, POWERGRID and Refex) and twelve company/group total tables (Asian Paints, UltraTech, Maruti, HDFC Bank, ICICI Bank, SBI, Sun Pharma, Rainbow, Rentomojo, Tonbo, Bharat Coking Coal and Parag). Company totals never imply brand or product-level profit disclosure. The renderer retains an explicit verification-pending state for future uncovered companies.
@@ -53,7 +53,7 @@ Feedback must be exported by a pilot participant and shared separately.
 
 ## Validation performed
 
-- Financial UI: all 35 phone-width profiles render verified financial content (the explicit pending state is retained only for future uncovered companies); no horizontal overflow or broken section targets. Desktop loss labels and expandable measurement notes were checked, with no console errors.
+- Financial UI: the 35 earlier phone-width profiles render verified financial content, and the 6 later additions render the explicit pending state, with no invented figures; no horizontal overflow or broken section targets. Desktop loss labels and expandable measurement notes were checked, with no console errors.
 - Financial checks: run `node --test tests/financials.test.cjs` for source metadata, finite values, signed losses, reported-total reconciliation, margin handling, totals-only handling, pending verification and safe rendering.
 
 - 29 October usability audit: removed uniform five-minute labels, corrected multiword company/product matching in the UI and assistant tools, removed unsupported fallback review dates and prevented a successful feedback-save toast after a failed write. All 35 profiles passed browser checks for product-first order, overview presence, valid section targets, absence of the old reading label and desktop overflow. All 288 shelf assets have local files. Mobile explorer/profile, combined search, bookmark save/removal and local correction submission were checked. A blocked-storage check confirmed an accurate failure message.
@@ -172,6 +172,14 @@ The repository-root `AGENTS.md` records the permanent editorial standard for exi
 All 35 profiles were reviewed against Refex’s concrete explanation style. The other 28 JSON lessons were simplified independently, the six earlier consumer/retail walkthroughs were checked and refined, and Refex remains the reference. Captions for unfamiliar technical offerings now describe their purpose in everyday language. Verified financial snapshots and existing financial-interpretation notes are preserved. The overview’s next-question prompt uses the actual research question.
 
 Plain-language release validation: all 31 automated checks pass. Browser checks cover all 35 profiles at 390px, including the four overview answers, real next-question prompts, section targets, no horizontal overflow and financial tables only in the final learning section.
+
+## Six additions of 31 October 2026
+
+IREDA, HealthCare Global Enterprises (HCG), Fredun Pharmaceuticals, Milky Mist Dairy Food, HFCL and Genus Power Infrastructures were added with the same plain-language lesson pattern as the other companies: recognisable products or services first, who pays and for what, costs, the path from work to payment, company-specific questions and risks, and a dated "what has changed" example. They are numbered 36–41 in the company list. "Paragh Milk Foods" was treated as Parag Milk Foods, which was already in the notebook.
+
+Sources are company, exchange and regulator documents read through TinyFish and local PDF extraction. Each profile has original, labelled illustrations of the kinds of product or service, not copied photographs or logos; profiles without a logo show initials. No financial amounts appear in the lessons. Verified full-year figures have not been added for these six, so each financial section shows the explicit pending state until a separate audited-source review is done. The findings and their limits are in `content/source-reviews/new-companies-2026-10-31.json`.
+
+Listing labels follow the sources: Fredun is shown as BSE-listed, Milky Mist as listed in August 2026, and HCG's fertility business is flagged as a historical offering because it was sold in June 2026. Tests in `tests/new-companies.test.cjs` check the illustrations, listing labels, the historical-offering flag and the absence of unverified figures.
 
 ## Checking source links
 

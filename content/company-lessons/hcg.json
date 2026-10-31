@@ -1,0 +1,173 @@
+{
+  "summary": "HCG runs a network of hospitals that diagnose and treat cancer, plus some hospitals for other illnesses.",
+  "description": "When a doctor suspects cancer, a patient needs scans and tests to confirm it and see how far it has spread. Treatment may then combine an operation, radiation from a large machine and cancer medicines, planned by several specialist doctors together. HCG puts these under one roof in comprehensive cancer centres across 19 Indian cities, plus a centre in Nairobi, Kenya. Some HCG hospitals also treat other illnesses, and its day-care centres give cancer medicines without an overnight stay. Its fertility business, Milann, was sold in June 2026.",
+  "money": "A patient or someone paying on their behalf pays HCG for each test, treatment, procedure and hospital stay. Its main costs are doctors and nurses, medicines and supplies, very expensive machines that must be bought, maintained and eventually replaced, and the rent or cost of its buildings. It also pays interest on money it has borrowed. A busy centre spreads those costs over more patients; an empty one does not.",
+  "customers": "Patients pay directly in cash, or insurers and government health schemes pay for them. Insurers often use a third-party administrator (TPA): a company that checks each claim and arranges payment for the insurer. Employers with health tie-ups and patients who travel from other countries for treatment also pay. HCG says it is aiming to raise the share of patients who pay in cash or through TPAs, compared with those covered by government schemes.",
+  "drivers": "How many patients come and how complex their treatment is, how they pay and how quickly they are paid, how full each centre is, the cost of doctors, equipment and borrowing, and how long new hospitals take to fill up.",
+  "groups": [
+    {
+      "title": "Cancer scans and tests",
+      "examples": "Imaging scans such as PET-CT, laboratory tests and tissue checks.",
+      "explanation": "A PET-CT scanner shows how active cells are in the body, which helps doctors see where cancer is and how far it has spread. The scanner is costly, so a hospital earns a return only if enough patients use it."
+    },
+    {
+      "title": "Radiation, surgery and cancer medicines",
+      "examples": "Radiation treatment, operations including robot-assisted surgery, and chemotherapy.",
+      "explanation": "Radiation treatment aims beams of radiation at a tumour using a large machine called a linear accelerator, or LINAC. A surgical robot is a machine that a surgeon controls to carry out an operation. Chemotherapy is medicine that attacks cancer cells, often given in day-care centres. These are the main services a cancer patient pays for."
+    },
+    {
+      "title": "Hospitals beyond cancer",
+      "examples": "Multispecialty hospitals for other illnesses, alongside cancer care.",
+      "explanation": "Some HCG hospitals treat a wider range of illnesses, which brings in patients other than those with cancer and can keep the building busier. The same hospital then needs doctors and equipment for several different kinds of care."
+    },
+    {
+      "title": "Patients from other countries and Kenya",
+      "examples": "Overseas patients who travel to India, and a cancer centre in Nairobi.",
+      "explanation": "Patients from other countries who travel to India for treatment are a payer group HCG calls medical value travel. The Nairobi centre treats patients in Kenya and nearby countries and has its own costs, laws and currency."
+    },
+    {
+      "title": "Fertility treatment (sold June 2026)",
+      "examples": "Fertility clinics under the Milann name.",
+      "explanation": "Fertility treatment helps people who have difficulty having a child. HCG’s FY 2025–26 annual report treats the Milann business as held for sale, and its 6 August 2026 results release says the business was sold in June 2026. It no longer belongs to the group, although earlier figures may still include it."
+    }
+  ],
+  "basics": [
+    {
+      "title": "Why are cancer machines such a big cost?",
+      "text": "Radiation machines (LINACs), PET-CT scanners and surgical robots cost a great deal to buy and run, and they need trained staff. A hospital pays for them before the first patient arrives, so its earnings depend on how many patients use each machine."
+    },
+    {
+      "title": "Who actually pays the hospital bill?",
+      "text": "The patient may pay directly, or an insurer, a government health scheme or an employer may pay. Insurers usually have a third-party administrator check the claim, and a claim can be paid late or in part. The hospital still delivered the treatment and carried its costs while it waited."
+    },
+    {
+      "title": "What does 'revenue per patient' tell you?",
+      "text": "HCG reports a figure it calls ARPP, which is average revenue per patient. It rises when patients have more complex treatment or pay at higher rates, and falls when the mix shifts to cheaper treatment or to patients covered by schemes that pay less. Growth in the number of patients and growth in revenue per patient are separate questions."
+    }
+  ],
+  "steps": [
+    {
+      "title": "A patient is diagnosed and a plan is made",
+      "text": "Scans and tests confirm the cancer. HCG describes tumour boards: meetings in which surgeons, radiation doctors and medicine specialists decide on a treatment plan together."
+    },
+    {
+      "title": "Treatment takes place over weeks or months",
+      "text": "The plan may include an operation, a course of radiation sessions, chemotherapy or a mix. Each uses doctors, nurses, medicines and equipment."
+    },
+    {
+      "title": "The bill goes to whoever pays",
+      "text": "HCG bills the patient, the insurer’s administrator, a government scheme or an employer. A claim can be questioned or part-rejected, so billing and collection take effort."
+    },
+    {
+      "title": "Money arrives, sometimes later",
+      "text": "Payment can take time. HCG’s annual report lists delays, disallowed claims and changes in reimbursement policy among its risks, because they affect cash coming in."
+    },
+    {
+      "title": "Money goes into the next centre or machine",
+      "text": "HCG spends on new beds, machines and hospitals, such as the new hospital in north Bengaluru. It has to pay for them before they earn anything."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "The way patients pay shapes earnings",
+      "text": "HCG’s FY 2025–26 report says it is increasing the share of patients who pay in cash or through TPAs. It also says changes to a state government scheme in Odisha reduced revenue per patient in its eastern centres. The mix of who pays is therefore a business decision and a risk."
+    },
+    {
+      "title": "A new hospital needs time to fill",
+      "text": "HCG opened a hospital in north Bengaluru in May 2026 with 56 beds working in the first phase. A new hospital must be approved by insurers and its doctors must build up their patients before it covers its costs. HCG’s results release left the new hospital’s early loss out of one of its adjusted profit measures."
+    },
+    {
+      "title": "Group accounts combine several entities",
+      "text": "Some centres are run through partnerships and subsidiaries, and the FY 2025–26 report records changes in the value of investments in some of them. When a group is not fully owned, part of the profit belongs to other owners. Read which entities are included before comparing years."
+    },
+    {
+      "title": "Ownership changed in 2025",
+      "text": "In February 2025 the then majority owner agreed to sell up to 54 per cent of the company to new investors, according to the annual report, and the company later raised money by issuing new shares to existing shareholders (a rights issue). A change of owner can change plans, so it is worth reading the stated strategy."
+    }
+  ],
+  "watch": [
+    [
+      "Are more patients coming, and for what treatment?",
+      "More patients and more complex treatment can raise earnings in different ways.",
+      "Compare the number of patients with revenue per patient, and the split between radiation, surgery, cancer medicines and other care. Check whether growth comes from new centres or from existing ones."
+    ],
+    [
+      "How are patients paying, and how fast does the money arrive?",
+      "Cash, insurance, government schemes and overseas patients pay differently and on different timetables.",
+      "Read the payer split in the annual report and results commentary. Look for the time taken to collect payments, rejected claims, and any change in a state or national scheme that affects rates."
+    ],
+    [
+      "Are new hospitals filling up?",
+      "A hospital that is open but quiet still has staff, equipment and building costs.",
+      "Look for beds added, how many are in use and how long new centres take to reach a steady level. Check whether the company reports a new centre’s loss separately or excludes it from an adjusted measure."
+    ],
+    [
+      "How heavy is the cost of machines and borrowing?",
+      "Expensive equipment and loans are paid for whether or not patients arrive.",
+      "Compare spending on new equipment and hospitals with operating cash flow, debt and interest paid. Check the age of key machines and what is planned to be replaced."
+    ],
+    [
+      "What changed in how the group is made up?",
+      "Sales, partner-run centres and a new owner can change what the accounts include.",
+      "Note the fertility business sale, centres held through partnerships or marked for sale, and any change in the owner’s plans. When comparing years, check whether the figures include the same businesses."
+    ]
+  ],
+  "risks": [
+    [
+      "Payers delay or reject bills",
+      "Insurers, administrators or government schemes may pay late, pay less than billed or change rates, which can reduce cash and profit."
+    ],
+    [
+      "New hospitals take longer to fill",
+      "Costs start when a hospital opens, but patients, insurer approvals and established doctors take time to arrive."
+    ],
+    [
+      "Specialist doctors are hard to find and keep",
+      "Cancer care depends on skilled specialists. Losing key doctors or struggling to hire can limit what a centre can offer."
+    ],
+    [
+      "Equipment becomes costly or outdated",
+      "Treatment machines need regular upgrades and replacements. A machine that is underused or overtaken by newer technology is a drag on earnings."
+    ],
+    [
+      "Partnerships and acquisitions do not work out",
+      "HCG expands partly through partners and purchases. Disputes, weak performance or write-downs in those investments can reduce earnings."
+    ],
+    [
+      "Rules and prices are changed",
+      "Government pricing rules and changes to health schemes can alter what a hospital may charge or be paid."
+    ]
+  ],
+  "context": [
+    "August 2026: a new hospital opened and the fertility business was sold",
+    "HCG’s 6 August 2026 results release says it opened a hospital in north Bengaluru in May 2026, with 56 beds working in the first phase, and sold its Milann fertility business in June 2026. The release reports that revenue and its adjusted operating profit (profit from running the hospitals, before interest, tax and charges for the wear of equipment) grew compared with a year earlier, and that the new hospital’s early loss was left out of its adjusted measure. An adjusted measure is the company’s own version of profit with some items removed, so always check what was removed. The full-year figures at the end of this page cover an earlier period."
+  ],
+  "quiz": [
+    "If a hospital group treats more patients, does its profit rise by the same amount?",
+    "Not necessarily. Profit also depends on how the patients pay, how complex their treatment is, the cost of doctors, machines and borrowing, and whether new hospitals are still filling up."
+  ],
+  "sources": [
+    [
+      "HCG annual reports page",
+      "https://www.hcgoncology.com/annual-reports/"
+    ],
+    [
+      "FY 2025–26 annual report",
+      "https://www.hcgoncology.com/uploads/ir/HCG%20Annual%20Report%20FY2026.pdf"
+    ],
+    [
+      "Quarterly results release · 6 August 2026",
+      "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b8f1369a-1bef-4222-ad7e-ffd1b424135d.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Read a hospital group’s numbers in context",
+      "text": "Check revenue with the number of patients and revenue per patient, then look at how much is left after doctors, supplies, equipment and rent. Check which businesses are included, because the fertility business and partner-run centres change the picture. Verified full-year figures for this profile have not yet been added, so the financial table below is marked as awaiting verification."
+    }
+  ],
+  "historicalOfferings": [
+    "Fertility treatment (Milann)"
+  ],
+  "checked": "31 October 2026"
+}

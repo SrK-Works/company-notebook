@@ -895,6 +895,351 @@ window.COMPANY_LESSONS = {
     ],
     "checked": "31 October 2026"
   },
+  "fredun-pharmaceuticals": {
+    "summary": "Fredun Pharmaceuticals makes medicines in a factory near Mumbai and sells most of them abroad, and is now adding pet-health, supplement and wellness brands.",
+    "description": "A medicine such as a blood-pressure tablet must be made, packed, approved in each country that buys it, and sold to someone who will pay. Fredun does this for generic medicines (copies of medicines whose original patents have ended) in its own factory in Palghar, near Mumbai. Distributors and importers in many countries buy them, mostly in Africa, Southeast Asia, the former Soviet region and Latin America. Government agencies also buy medicines through public tenders. Over the past few years Fredun has added pet medicines, food supplements, skin-care products, support braces and a wellness range, which it presents as a wider healthcare business.",
+    "money": "Fredun earns money when a distributor, importer, government agency or other customer pays for the medicines and products it ships. Its main costs are the chemical ingredients, factory work, getting each product approved in each country, selling and advertising, and interest on loans. Newer consumer brands usually cost money to launch before they bring in much, so adding many at once can hold back profit.",
+    "customers": "Overseas distributors and importers are the main buyers of its medicines. State government agencies buy through tenders, which are formal bids to supply a fixed quantity. Other drug companies sometimes pay Fredun to make products that they sell under their own names. Pet owners, vets, shops and online sellers buy the consumer and pet products.",
+    "drivers": "How many countries approve and buy its medicines, the price of ingredients, what it earns on each product, how quickly overseas customers pay, and whether the new brands bring in sales that cover their launch costs.",
+    "listingLabel": "BSE: FREDUN · scrip 539730",
+    "groups": [
+      {
+        "title": "Branded generic medicines for export",
+        "examples": "Medicines sold under its own Fredun Gx brand, such as treatments for high blood pressure and diabetes, and antiretroviral medicines used to treat HIV.",
+        "explanation": "A generic medicine has the same active ingredient as an older, original medicine. Fredun sells many under its own brand name. To sell in a country, each product needs a registration, the local drug regulator’s approval. Its annual report says it holds more than 800 registrations and has more being prepared. It describes this as the company’s largest and longest-established business."
+      },
+      {
+        "title": "Medicines made for others and sold through tenders",
+        "examples": "Products made for other companies to sell under their own names, and medicines supplied to government agencies.",
+        "explanation": "When Fredun makes a product for another company, that company sells it under its own name, which is called OEM (original equipment manufacturer) work. In a tender, an agency such as a state medical-supplies body invites suppliers to bid. The winner supplies a fixed quantity at the agreed price, which can mean steady orders but little room to raise prices."
+      },
+      {
+        "title": "Pet health and veterinary products",
+        "examples": "Animal medicines, pet diagnostics, pet food and pet shops under the Freossi, One Pet Stop and Wagr names.",
+        "explanation": "Freossi is Fredun’s pet-health brand. One Pet Stop is a pet retail business that it bought, and Wagr is a retail and online platform in which it has invested. Fredun describes these as an ecosystem that serves a pet owner from medicines to food. They are newer than its medicine exports, so there is less history to show how profitable they will be."
+      },
+      {
+        "title": "Supplements, skin care and home-health products",
+        "examples": "Supplement brands such as Mamalait and Fredmax, the BeautyFred skin-care range, and braces, nebulisers and home monitors.",
+        "explanation": "Nutraceuticals are food supplements sold for health purposes. Cosmeceuticals are skin products that contain added active ingredients. A nebuliser turns liquid medicine into a mist that can be breathed in. These are sold to consumers and through shops, so they depend on advertising and shelf space as well as on the product."
+      },
+      {
+        "title": "Premium wellness and hormone-health range",
+        "examples": "The DAULCÉL wellness brand and a range of hormone-health products, both launched in FY 2025–26.",
+        "explanation": "These are the newest lines. Fredun describes them with terms such as longevity and cellular vitality, which are the company’s own marketing language. This notebook does not assess any health claim made for a product, and there is not yet history showing how these lines will sell."
+      }
+    ],
+    "basics": [
+      {
+        "title": "What is a generic medicine?",
+        "text": "A generic medicine has the same active ingredient as an original medicine that was developed and patented by another company. Once the patent ends, other makers can sell it, usually at a lower price. Many companies make the same generics, so price competition is a constant feature of the business."
+      },
+      {
+        "title": "Why does a medicine need registration in every country?",
+        "text": "Each country’s drug regulator decides which medicines may be sold. A company must submit documents and often samples before it can sell a product there. The approvals take time and money, but a registered product can be hard for a rival to copy quickly. Fredun’s report says it owns or co-owns many of its registrations."
+      },
+      {
+        "title": "What is a bonus issue?",
+        "text": "In a bonus issue a company gives existing shareholders extra shares for free in proportion to what they hold. Fredun gave shareholders two new shares for every one held in July 2026, so the number of shares tripled. Nothing is paid in and the company is not worth more because of it. Per-share figures are therefore restated, so check the share count before comparing them across years."
+      }
+    ],
+    "steps": [
+      {
+        "title": "Get the product approved for a country",
+        "text": "Fredun prepares the registration documents and waits for the country’s regulator to approve each medicine."
+      },
+      {
+        "title": "Make the medicine in the factory",
+        "text": "Buy active ingredients and other materials, make tablets, capsules or other forms, test them and pack them. Its annual report says it runs one integrated factory and plans a new facility, which it expected to start operating in October 2026."
+      },
+      {
+        "title": "Ship to the buyer",
+        "text": "The buyer may be a distributor in another country, a government agency that won a tender, or another drug company that sells the product under its own name."
+      },
+      {
+        "title": "Invoice and wait for payment",
+        "text": "Overseas customers may pay in a foreign currency and take some time. Revenue is recorded when the sale is made, but cash arrives later, and some customers may pay late or not in full."
+      },
+      {
+        "title": "Spend on the next set of products",
+        "text": "Fredun spends on new registrations, new brands and extra factory space before they earn. This is why growth and profit can move differently."
+      }
+    ],
+    "specifics": [
+      {
+        "title": "The medicine business pays for the experiments",
+        "text": "Fredun’s report calls the medicine business the main cash-generating engine that supports its newer ventures. If medicine prices or export orders weaken, the money available for pet, supplement and wellness launches also shrinks."
+      },
+      {
+        "title": "Many new businesses at once",
+        "text": "In one year the company bought a pet retail network, opened a pet diagnostic centre, new brands and a new factory plot. Each needs people, stock and marketing. Read whether each new business reports its own sales, because the company’s own description does not show how much each one earns."
+      },
+      {
+        "title": "The company’s description is promotional",
+        "text": "Management’s section of the annual report uses words such as landmark year, record and stellar. These are the company’s views, not independent findings. Look for the figures and dates they rest on."
+      },
+      {
+        "title": "Bonus shares change the share count, not the business",
+        "text": "After the July 2026 bonus issue the number of shares tripled. Profit per share would fall by the same factor if profit stayed the same, so per-share numbers from before and after must be put on the same basis before comparing."
+      }
+    ],
+    "watch": [
+      [
+        "How much of sales still comes from medicines sold abroad?",
+        "The export medicine business is the established part; the new businesses are not yet proven.",
+        "Look in the annual report and results notes for the split between exports, government supply, contract manufacturing and the new consumer brands. Check whether the share of the new brands is rising and whether they are reported separately."
+      ],
+      [
+        "Does profit keep pace as sales grow?",
+        "Sales can rise quickly without profit rising by as much.",
+        "Compare the growth in sales with the growth in operating profit and the profit margin, which is profit as a share of sales. In its 6 August 2026 results, sales and profit rose by similar proportions, so the margin hardly moved."
+      ],
+      [
+        "How long does Fredun wait to be paid?",
+        "Overseas distributors and government agencies pay on different schedules and some in foreign currencies.",
+        "Check receivables, which are bills issued but not yet paid, as a share of sales, and compare them across years. Read what the company says about foreign-currency risk and about customers in particular countries."
+      ],
+      [
+        "Will the new factory space be used?",
+        "A new facility adds costs such as depreciation and staff even if orders do not arrive.",
+        "Look for the date the new facility actually starts operating, what it will make, and whether capital spending was funded by borrowing. Compare planned capacity with orders already in hand."
+      ],
+      [
+        "Are the new brands earning their launch costs?",
+        "Pet, supplement, skin-care and wellness brands need advertising and stock before sales build.",
+        "Look for separate sales or profit for each new line, any acquisition costs, and the stock held in shops. Treat claims about the size of future markets as the company’s view and check what sales it has actually reported."
+      ]
+    ],
+    "risks": [
+      [
+        "Regulators or buyers change the rules",
+        "A country can delay or refuse a registration, change its import rules or change what it will pay. Fredun sells in many such markets."
+      ],
+      [
+        "Product quality problems",
+        "A failed quality check or a recall can stop sales and damage the relationship with distributors."
+      ],
+      [
+        "Ingredient prices and currency swings",
+        "The cost of active ingredients and the exchange rate can change faster than Fredun can change its selling prices."
+      ],
+      [
+        "Overseas customers pay late",
+        "Distributors and agencies in other countries can delay payment or fail to pay, which ties up cash."
+      ],
+      [
+        "Too many new businesses at once",
+        "Launching pet, supplement, skin-care, device and wellness lines together stretches management and money, and some may not earn back their costs."
+      ],
+      [
+        "A small company with a short record on its new lines",
+        "The new lines are recent and their results are described mainly by the company itself."
+      ]
+    ],
+    "context": [
+      "August 2026: sales almost doubled but the profit margin hardly moved",
+      "Fredun’s 6 August 2026 results release says total income for April–June 2026 was almost twice that of a year earlier, and profit also nearly doubled, while the profit margin was almost unchanged. The extra profit therefore came from selling more, not from earning more on each sale. The figures are unaudited, meaning not yet fully checked by the auditors. The company also gave shareholders two bonus shares for every share held in July 2026. The full-year figures at the end of this page cover an earlier period."
+    ],
+    "quiz": [
+      "If a company’s sales almost double, has its profit per rupee of sales improved?",
+      "Not necessarily. If profit also nearly doubled, the margin (profit as a share of sales) stayed about the same. Compare profit growth with sales growth to see whether it is selling more or earning more on each sale."
+    ],
+    "sources": [
+      [
+        "Results press release · 6 August 2026 (BSE filing)",
+        "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2dcc16c8-0163-4b42-9e8e-ffe1e1b74c2e.pdf"
+      ],
+      [
+        "Annual report filing intimation · 23 June 2026 (BSE filing)",
+        "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3be196be-c2ec-415f-b849-4f8308943486.pdf"
+      ]
+    ],
+    "financialNotes": [
+      {
+        "title": "Read the medicine business and the new lines separately",
+        "text": "Check how much of sales comes from exports and government supply compared with the new consumer lines, and compare profit growth with sales growth. A per-share figure must be put on the same share count after the July 2026 bonus issue. Verified full-year figures for this profile have not yet been added, so the financial table below is marked as awaiting verification."
+      }
+    ],
+    "checked": "31 October 2026"
+  },
+  "genus-power": {
+    "summary": "Genus Power makes electricity meters and, increasingly, installs and runs smart-meter systems for state electricity distribution companies.",
+    "description": "A traditional electricity meter counts how much power a home uses, and someone has to read it before a bill can be sent. A smart prepaid meter sends its readings automatically over a network, lets a household pay in advance, and shows the electricity company in close to real time how much power is used and lost. Genus Power makes meters in factories in Rajasthan, Uttarakhand and Assam. It has also taken on a larger job: for electricity distribution companies, it supplies, installs, runs and maintains smart-meter systems for years, and is paid over the life of each contract.",
+    "money": "Genus earns money by selling meters and equipment, and by being paid over several years to install, run and maintain smart-meter systems. The second kind of payment arrives gradually, so Genus must pay for meters, fitting and software first, often with borrowed money. Its costs include electronic parts, factory and installation work, software, bank guarantees (a bank’s promise to pay the customer if Genus fails to deliver, which Genus pays for) and interest on its loans.",
+    "customers": "Electricity distribution companies, usually state-owned and called DISCOMs, are the main customers. They buy meters or hire Genus to run smart metering across an area. Households use the meters and pay their electricity bills to the DISCOM, not to Genus. Industrial and commercial users and gas and water utilities buy other products. Some DISCOMs are slow to pay, and Genus’s annual report lists delayed collections from utilities among its financial risks.",
+    "drivers": "How many meters are ordered and installed, the prices won in tenders, how quickly utilities pay, how much Genus must borrow to fund projects, and how well the factories and installation teams perform.",
+    "groups": [
+      {
+        "title": "Smart prepaid electricity meters",
+        "examples": "Meters for homes, shops and small businesses, including prepaid meters.",
+        "explanation": "A prepaid meter works like a mobile recharge: the household pays first and uses electricity until the balance runs out. The meter reports usage over a communications link, which helps the electricity company bill and collect payment, and spot where power is being lost."
+      },
+      {
+        "title": "Meters for large users and power lines",
+        "examples": "Meters for factories and offices, and for transformers and substations on the grid.",
+        "explanation": "Large users consume more power and need more detailed readings. Meters on transformers and substations show how much electricity enters and leaves each part of the network, so a utility can find where it is lost."
+      },
+      {
+        "title": "Gas and water meters",
+        "examples": "Smart gas meters and ultrasonic water meters.",
+        "explanation": "These apply the same idea of automatic readings to gas and water. Genus describes them as newer and still developing, so they are a smaller part of its business."
+      },
+      {
+        "title": "Data software and communication equipment",
+        "examples": "Systems that collect, store and check meter readings, and devices that connect meters to the network.",
+        "explanation": "Millions of meters would be useless without a system to receive and organise their readings. The head-end system receives the signals; the meter data management system stores and checks them. Genus says it develops much of this software itself."
+      },
+      {
+        "title": "Running whole smart-meter projects",
+        "examples": "Supplying, installing, running and maintaining smart meters for a DISCOM over several years.",
+        "explanation": "This is called the AMISP model, short for advanced metering infrastructure service provider. Under it, Genus designs, builds, finances, owns and operates the system for years, then transfers it to the utility. Genus’s report calls this a source of predictable, annuity-style payments over the contract, but Genus has to fund the equipment first."
+      }
+    ],
+    "basics": [
+      {
+        "title": "Why do electricity companies want smart meters?",
+        "text": "Electricity is lost in the lines and some of what is delivered is never billed or paid for. India’s electricity companies call the total aggregate technical and commercial (AT&C) losses. A meter that reports readings automatically and takes payment in advance gives the DISCOM more accurate billing and fewer unpaid bills."
+      },
+      {
+        "title": "What is a DISCOM?",
+        "text": "A DISCOM is an electricity distribution company: it buys power and delivers it to homes and businesses through local wires. Most are state-owned, and Genus’s report describes government schemes, including UDAY and the current one, meant to improve their finances. A DISCOM’s ability to pay Genus on time is therefore important."
+      },
+      {
+        "title": "What is a special purpose project company?",
+        "text": "Genus often runs a project through a separate company set up only for it, called a special purpose vehicle (SPV). The SPV holds that project’s contract, meters and loans. This keeps one project’s risks apart from the rest of Genus, but the group’s accounts still combine them."
+      },
+      {
+        "title": "What is a share buyback?",
+        "text": "In a buyback, a company uses its own cash to buy some of its shares from shareholders who choose to sell. This reduces the number of shares in the market. It does not grow the business itself, so whether it is a good use of money depends on what else the company could have done with the cash."
+      }
+    ],
+    "steps": [
+      {
+        "title": "A DISCOM invites bids",
+        "text": "The electricity company announces a tender for smart metering in an area and invites companies to bid on price and ability."
+      },
+      {
+        "title": "Genus wins the contract and sets up a project company",
+        "text": "It signs the contract, often through a separate project company that will own the meters and take on the loans."
+      },
+      {
+        "title": "Make and install the meters",
+        "text": "Meters are made in its factories and fitted at homes and businesses, along with the communication links and data systems."
+      },
+      {
+        "title": "Run the system and get paid over the years",
+        "text": "Genus keeps the meters working and the data flowing. Payments come over the contract period, so the money earned for installing meters arrives slowly."
+      },
+      {
+        "title": "Transfer to the utility at the end",
+        "text": "When the contract ends, the system is handed to the DISCOM. Until then Genus carries the cost of the equipment and the loans taken to pay for it."
+      }
+    ],
+    "specifics": [
+      {
+        "title": "The business now needs a lot of financing",
+        "text": "Genus’s annual report says it borrowed much more in FY 2025–26, to cover working capital and bank guarantees for a larger order book. Borrowing helps it win and deliver work, but interest and repayments are due whether or not a DISCOM pays on time."
+      },
+      {
+        "title": "A large order book is not cash",
+        "text": "Genus reported a very large order book, which is work it has been awarded but not yet carried out or been paid for. Meters still have to be made, installed and operated for years before the money arrives."
+      },
+      {
+        "title": "A government scheme provides the push",
+        "text": "Much of this work comes under the Revamped Distribution Sector Scheme, a Government programme to modernise electricity distribution, including smart prepaid meters. The report says the scheme has been extended to March 2028. Changes to its funding or deadlines would affect how much work is available."
+      },
+      {
+        "title": "Accounting for long contracts needs judgement",
+        "text": "The auditors named revenue and money owed from these long smart-meter contracts as a key audit matter, which means an area where they had to use particular care. For a beginner, it is a reminder to read the accounting notes on when revenue is recorded."
+      }
+    ],
+    "watch": [
+      [
+        "Are utilities paying Genus on time?",
+        "Slow payment from DISCOMs ties up cash and raises borrowing.",
+        "Look at receivables, which are bills issued but not yet paid, as a share of sales across years, and read the annual report’s comments on delayed collections. Check which states or utilities are the largest customers."
+      ],
+      [
+        "How much is Genus borrowing, and what does it cost?",
+        "Projects need money first, and interest is paid whether or not customers pay.",
+        "Compare total borrowing, finance costs and bank guarantees with profit and cash from operations over several years. Check how much borrowing sits in project companies compared with the main company."
+      ],
+      [
+        "Is the order book becoming installed meters and billed work?",
+        "Awarded work only becomes revenue as it is carried out and accepted.",
+        "Compare awarded meters with those installed and operating, and look for delays or contracts that were cancelled or changed. Check how each project’s revenue is recognised."
+      ],
+      [
+        "Do projects earn enough over their full life?",
+        "Payments arrive slowly but costs come first.",
+        "Look for the profit margin on projects compared with meter sales, the prices won in tenders, and maintenance costs over the contract. Check what the company says about returns on money put into projects."
+      ],
+      [
+        "How does the company use its cash?",
+        "Cash spent on a buyback or dividends cannot be used for projects.",
+        "Read the company’s stated reasons for any buyback, dividend or investment, and compare them with its borrowing and cash needs. Check how large each use is compared with cash from operations."
+      ]
+    ],
+    "risks": [
+      [
+        "Utilities pay late or not in full",
+        "The report lists delayed collections from utilities as a financial risk, and slower payments increase Genus’s need for borrowing."
+      ],
+      [
+        "Government scheme or funding changes",
+        "A large part of demand comes from one government programme, so changes to its funding, deadlines or rules matter."
+      ],
+      [
+        "Installation delays and customer resistance",
+        "Fitting millions of meters in homes depends on access, local approval and skilled crews, and delays raise costs."
+      ],
+      [
+        "Competition and low tender prices",
+        "Contracts are won by bidding, and aggressive bids from rivals can reduce what Genus earns on a project."
+      ],
+      [
+        "Technology and cybersecurity failures",
+        "Smart meters rely on networks and software, so failures or attacks can affect many customers at once."
+      ],
+      [
+        "Heavy financing",
+        "High borrowing makes the business sensitive to interest rates and delays in being paid."
+      ]
+    ],
+    "context": [
+      "October 2026: the board considered a share buyback",
+      "Genus Power’s board-meeting notice of 19 October 2026 said its board would consider a proposal to buy back its shares, and its investor page lists a board resolution passed on 26 October 2026. News reports describe an approved buyback of a small share of its shares through a tender offer, in which shareholders choose whether to sell. Read the exchange filing for the exact terms, which this lesson does not state. A buyback uses the company’s own cash and does not grow the business, so ask what else the money could have done. Genus’s annual report says its borrowings rose sharply in FY 2025–26 to fund a larger order book. The full-year figures at the end of this page cover an earlier period."
+    ],
+    "quiz": [
+      "If a company spends its cash buying back its own shares, has its business grown?",
+      "No. A buyback reduces the number of shares but does not add customers, factories or sales. Whether it is sensible depends on the cash available and what else the company could do with the money, such as repay borrowing or fund new projects."
+    ],
+    "sources": [
+      [
+        "FY 2025–26 annual report (NSE filing)",
+        "https://nsearchives.nseindia.com/annual_reports/AR_31250_GENUSPOWER_2025_2026_A_7862122_03092026171428.pdf"
+      ],
+      [
+        "Results presentation · 19 May 2026 (NSE filing)",
+        "https://nsearchives.nseindia.com/corporate/GENUSPOWER_19052026115652_IP_signed.pdf"
+      ],
+      [
+        "Board-meeting notice on buyback proposal · 19 October 2026 (NSE filing)",
+        "https://nsearchives.nseindia.com/corporate/GENUSPOWER_19102026170143_Intimation_signed.pdf"
+      ],
+      [
+        "Genus Power investor announcements page",
+        "https://genuspower.com/investor/"
+      ]
+    ],
+    "financialNotes": [
+      {
+        "title": "Read a project-financing business carefully",
+        "text": "Compare revenue and profit with cash from operations, bills not yet paid and borrowing. Check how much sits in project companies and how revenue is recorded for long contracts. Verified full-year figures for this profile have not yet been added, so the financial table below is marked as awaiting verification."
+      }
+    ],
+    "checked": "31 October 2026"
+  },
   "glass-wall-systems": {
     "listingLabel": "NSE: GLASSWALL · listed 16 September 2026",
     "summary": "Glass Wall Systems designs, makes and installs the outside surfaces of buildings, including glass walls, covering panels and ventilation slats.",
@@ -1058,6 +1403,179 @@ window.COMPANY_LESSONS = {
     ],
     "checked": "31 October 2026"
   },
+  "hcg": {
+    "summary": "HCG runs a network of hospitals that diagnose and treat cancer, plus some hospitals for other illnesses.",
+    "description": "When a doctor suspects cancer, a patient needs scans and tests to confirm it and see how far it has spread. Treatment may then combine an operation, radiation from a large machine and cancer medicines, planned by several specialist doctors together. HCG puts these under one roof in comprehensive cancer centres across 19 Indian cities, plus a centre in Nairobi, Kenya. Some HCG hospitals also treat other illnesses, and its day-care centres give cancer medicines without an overnight stay. Its fertility business, Milann, was sold in June 2026.",
+    "money": "A patient or someone paying on their behalf pays HCG for each test, treatment, procedure and hospital stay. Its main costs are doctors and nurses, medicines and supplies, very expensive machines that must be bought, maintained and eventually replaced, and the rent or cost of its buildings. It also pays interest on money it has borrowed. A busy centre spreads those costs over more patients; an empty one does not.",
+    "customers": "Patients pay directly in cash, or insurers and government health schemes pay for them. Insurers often use a third-party administrator (TPA): a company that checks each claim and arranges payment for the insurer. Employers with health tie-ups and patients who travel from other countries for treatment also pay. HCG says it is aiming to raise the share of patients who pay in cash or through TPAs, compared with those covered by government schemes.",
+    "drivers": "How many patients come and how complex their treatment is, how they pay and how quickly they are paid, how full each centre is, the cost of doctors, equipment and borrowing, and how long new hospitals take to fill up.",
+    "groups": [
+      {
+        "title": "Cancer scans and tests",
+        "examples": "Imaging scans such as PET-CT, laboratory tests and tissue checks.",
+        "explanation": "A PET-CT scanner shows how active cells are in the body, which helps doctors see where cancer is and how far it has spread. The scanner is costly, so a hospital earns a return only if enough patients use it."
+      },
+      {
+        "title": "Radiation, surgery and cancer medicines",
+        "examples": "Radiation treatment, operations including robot-assisted surgery, and chemotherapy.",
+        "explanation": "Radiation treatment aims beams of radiation at a tumour using a large machine called a linear accelerator, or LINAC. A surgical robot is a machine that a surgeon controls to carry out an operation. Chemotherapy is medicine that attacks cancer cells, often given in day-care centres. These are the main services a cancer patient pays for."
+      },
+      {
+        "title": "Hospitals beyond cancer",
+        "examples": "Multispecialty hospitals for other illnesses, alongside cancer care.",
+        "explanation": "Some HCG hospitals treat a wider range of illnesses, which brings in patients other than those with cancer and can keep the building busier. The same hospital then needs doctors and equipment for several different kinds of care."
+      },
+      {
+        "title": "Patients from other countries and Kenya",
+        "examples": "Overseas patients who travel to India, and a cancer centre in Nairobi.",
+        "explanation": "Patients from other countries who travel to India for treatment are a payer group HCG calls medical value travel. The Nairobi centre treats patients in Kenya and nearby countries and has its own costs, laws and currency."
+      },
+      {
+        "title": "Fertility treatment (sold June 2026)",
+        "examples": "Fertility clinics under the Milann name.",
+        "explanation": "Fertility treatment helps people who have difficulty having a child. HCG’s FY 2025–26 annual report treats the Milann business as held for sale, and its 6 August 2026 results release says the business was sold in June 2026. It no longer belongs to the group, although earlier figures may still include it."
+      }
+    ],
+    "basics": [
+      {
+        "title": "Why are cancer machines such a big cost?",
+        "text": "Radiation machines (LINACs), PET-CT scanners and surgical robots cost a great deal to buy and run, and they need trained staff. A hospital pays for them before the first patient arrives, so its earnings depend on how many patients use each machine."
+      },
+      {
+        "title": "Who actually pays the hospital bill?",
+        "text": "The patient may pay directly, or an insurer, a government health scheme or an employer may pay. Insurers usually have a third-party administrator check the claim, and a claim can be paid late or in part. The hospital still delivered the treatment and carried its costs while it waited."
+      },
+      {
+        "title": "What does 'revenue per patient' tell you?",
+        "text": "HCG reports a figure it calls ARPP, which is average revenue per patient. It rises when patients have more complex treatment or pay at higher rates, and falls when the mix shifts to cheaper treatment or to patients covered by schemes that pay less. Growth in the number of patients and growth in revenue per patient are separate questions."
+      }
+    ],
+    "steps": [
+      {
+        "title": "A patient is diagnosed and a plan is made",
+        "text": "Scans and tests confirm the cancer. HCG describes tumour boards: meetings in which surgeons, radiation doctors and medicine specialists decide on a treatment plan together."
+      },
+      {
+        "title": "Treatment takes place over weeks or months",
+        "text": "The plan may include an operation, a course of radiation sessions, chemotherapy or a mix. Each uses doctors, nurses, medicines and equipment."
+      },
+      {
+        "title": "The bill goes to whoever pays",
+        "text": "HCG bills the patient, the insurer’s administrator, a government scheme or an employer. A claim can be questioned or part-rejected, so billing and collection take effort."
+      },
+      {
+        "title": "Money arrives, sometimes later",
+        "text": "Payment can take time. HCG’s annual report lists delays, disallowed claims and changes in reimbursement policy among its risks, because they affect cash coming in."
+      },
+      {
+        "title": "Money goes into the next centre or machine",
+        "text": "HCG spends on new beds, machines and hospitals, such as the new hospital in north Bengaluru. It has to pay for them before they earn anything."
+      }
+    ],
+    "specifics": [
+      {
+        "title": "The way patients pay shapes earnings",
+        "text": "HCG’s FY 2025–26 report says it is increasing the share of patients who pay in cash or through TPAs. It also says changes to a state government scheme in Odisha reduced revenue per patient in its eastern centres. The mix of who pays is therefore a business decision and a risk."
+      },
+      {
+        "title": "A new hospital needs time to fill",
+        "text": "HCG opened a hospital in north Bengaluru in May 2026 with 56 beds working in the first phase. A new hospital must be approved by insurers and its doctors must build up their patients before it covers its costs. HCG’s results release left the new hospital’s early loss out of one of its adjusted profit measures."
+      },
+      {
+        "title": "Group accounts combine several entities",
+        "text": "Some centres are run through partnerships and subsidiaries, and the FY 2025–26 report records changes in the value of investments in some of them. When a group is not fully owned, part of the profit belongs to other owners. Read which entities are included before comparing years."
+      },
+      {
+        "title": "Ownership changed in 2025",
+        "text": "In February 2025 the then majority owner agreed to sell up to 54 per cent of the company to new investors, according to the annual report, and the company later raised money by issuing new shares to existing shareholders (a rights issue). A change of owner can change plans, so it is worth reading the stated strategy."
+      }
+    ],
+    "watch": [
+      [
+        "Are more patients coming, and for what treatment?",
+        "More patients and more complex treatment can raise earnings in different ways.",
+        "Compare the number of patients with revenue per patient, and the split between radiation, surgery, cancer medicines and other care. Check whether growth comes from new centres or from existing ones."
+      ],
+      [
+        "How are patients paying, and how fast does the money arrive?",
+        "Cash, insurance, government schemes and overseas patients pay differently and on different timetables.",
+        "Read the payer split in the annual report and results commentary. Look for the time taken to collect payments, rejected claims, and any change in a state or national scheme that affects rates."
+      ],
+      [
+        "Are new hospitals filling up?",
+        "A hospital that is open but quiet still has staff, equipment and building costs.",
+        "Look for beds added, how many are in use and how long new centres take to reach a steady level. Check whether the company reports a new centre’s loss separately or excludes it from an adjusted measure."
+      ],
+      [
+        "How heavy is the cost of machines and borrowing?",
+        "Expensive equipment and loans are paid for whether or not patients arrive.",
+        "Compare spending on new equipment and hospitals with operating cash flow, debt and interest paid. Check the age of key machines and what is planned to be replaced."
+      ],
+      [
+        "What changed in how the group is made up?",
+        "Sales, partner-run centres and a new owner can change what the accounts include.",
+        "Note the fertility business sale, centres held through partnerships or marked for sale, and any change in the owner’s plans. When comparing years, check whether the figures include the same businesses."
+      ]
+    ],
+    "risks": [
+      [
+        "Payers delay or reject bills",
+        "Insurers, administrators or government schemes may pay late, pay less than billed or change rates, which can reduce cash and profit."
+      ],
+      [
+        "New hospitals take longer to fill",
+        "Costs start when a hospital opens, but patients, insurer approvals and established doctors take time to arrive."
+      ],
+      [
+        "Specialist doctors are hard to find and keep",
+        "Cancer care depends on skilled specialists. Losing key doctors or struggling to hire can limit what a centre can offer."
+      ],
+      [
+        "Equipment becomes costly or outdated",
+        "Treatment machines need regular upgrades and replacements. A machine that is underused or overtaken by newer technology is a drag on earnings."
+      ],
+      [
+        "Partnerships and acquisitions do not work out",
+        "HCG expands partly through partners and purchases. Disputes, weak performance or write-downs in those investments can reduce earnings."
+      ],
+      [
+        "Rules and prices are changed",
+        "Government pricing rules and changes to health schemes can alter what a hospital may charge or be paid."
+      ]
+    ],
+    "context": [
+      "August 2026: a new hospital opened and the fertility business was sold",
+      "HCG’s 6 August 2026 results release says it opened a hospital in north Bengaluru in May 2026, with 56 beds working in the first phase, and sold its Milann fertility business in June 2026. The release reports that revenue and its adjusted operating profit (profit from running the hospitals, before interest, tax and charges for the wear of equipment) grew compared with a year earlier, and that the new hospital’s early loss was left out of its adjusted measure. An adjusted measure is the company’s own version of profit with some items removed, so always check what was removed. The full-year figures at the end of this page cover an earlier period."
+    ],
+    "quiz": [
+      "If a hospital group treats more patients, does its profit rise by the same amount?",
+      "Not necessarily. Profit also depends on how the patients pay, how complex their treatment is, the cost of doctors, machines and borrowing, and whether new hospitals are still filling up."
+    ],
+    "sources": [
+      [
+        "HCG annual reports page",
+        "https://www.hcgoncology.com/annual-reports/"
+      ],
+      [
+        "FY 2025–26 annual report",
+        "https://www.hcgoncology.com/uploads/ir/HCG%20Annual%20Report%20FY2026.pdf"
+      ],
+      [
+        "Quarterly results release · 6 August 2026",
+        "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b8f1369a-1bef-4222-ad7e-ffd1b424135d.pdf"
+      ]
+    ],
+    "financialNotes": [
+      {
+        "title": "Read a hospital group’s numbers in context",
+        "text": "Check revenue with the number of patients and revenue per patient, then look at how much is left after doctors, supplies, equipment and rent. Check which businesses are included, because the fertility business and partner-run centres change the picture. Verified full-year figures for this profile have not yet been added, so the financial table below is marked as awaiting verification."
+      }
+    ],
+    "historicalOfferings": [
+      "Fertility treatment (Milann)"
+    ],
+    "checked": "31 October 2026"
+  },
   "hdfc-bank": {
     "summary": "HDFC Bank provides accounts for keeping and moving money, loans for homes and other needs, and services for businesses.",
     "description": "Imagine a household saving money and another household borrowing to buy a home. HDFC Bank serves both. It accepts money in accounts, makes loans, holds investments and processes payments. It must keep serving withdrawals while collecting repayments over time.",
@@ -1203,6 +1721,176 @@ window.COMPANY_LESSONS = {
       {
         "title": "Verify banking measures on the same basis",
         "text": "The table pairs consolidated group total income with profit after tax attributable to owners. Total income is before funding, insurance, operating and credit-loss costs, and is different from net interest income. Deposit and loan balances are not revenue. Use the standalone bank accounts separately when investigating lending spreads and provisions."
+      }
+    ],
+    "checked": "31 October 2026"
+  },
+  "hfcl": {
+    "summary": "HFCL makes the glass fibre cables that carry internet data, plus telecom equipment and defence electronics.",
+    "description": "Phone calls, video, cloud services and AI programs all reach you as pulses of light along hair-thin strands of glass called optical fibre. HFCL makes that fibre, wraps many strands into protected cables, and makes the equipment at the ends of the network, such as Wi-Fi systems, routers and radio links. Its customers are phone companies, very large technology companies that run data centres, governments and armed forces. It also makes defence electronics such as thermal sights and radars, and builds telecom networks to order. Its factories are in Hyderabad, Goa, Chennai and Hosur.",
+    "money": "HFCL earns money when customers pay for the cables and equipment it ships, and for network-building work under contract. Its costs are the glass and plastic materials for fibre and cable, factory running costs, engineers and research, and interest on loans. Large orders take months to make and deliver, so HFCL spends before it is paid.",
+    "customers": "Telecom companies buy cables and equipment to build and expand their networks. Hyperscalers are the very large technology companies that run huge data centres; they buy fibre cables and connection products in large quantities. Government agencies and armed forces buy network and defence equipment. HFCL says most of its customers are private companies and that a large and growing share of its sales goes to customers abroad.",
+    "drivers": "How much fibre and equipment customers order, the prices they pay, how well the factories are used, what raw materials cost, and whether big orders are delivered and paid for on time.",
+    "groups": [
+      {
+        "title": "Optical fibre and cables",
+        "examples": "Optical fibre, cables for telecom networks, fibre-to-the-home cables and cables for data centres.",
+        "explanation": "Optical fibre is a thin strand of glass that carries data as pulses of light. A cable bundles many fibres in protective layers so it can be laid underground or hung from poles. A cable maker earns money by making many kilometres of fibre and cable at a cost lower than the selling price."
+      },
+      {
+        "title": "Connectivity products for data centres",
+        "examples": "Cable assemblies, connectors, patch panels and splitters.",
+        "explanation": "A data centre is a building full of computers. Thousands of fibre links inside it must be connected, organised and protected. Hyperscalers building new data centres need large numbers of these parts, which is why HFCL has approved building a dedicated factory for them."
+      },
+      {
+        "title": "Telecom equipment",
+        "examples": "Wi-Fi access points, routers and wireless links for mobile networks.",
+        "explanation": "A router is a device that sends data to the right place. A backhaul radio is a wireless link that carries traffic from a mobile tower to the rest of the network. HFCL says this equipment is built on its own design and technology that it owns."
+      },
+      {
+        "title": "Defence and aerospace equipment",
+        "examples": "Thermal weapon sights, electronic fuzes, surveillance radars, radio links, wire harnesses and planned ammunition manufacturing.",
+        "explanation": "Thermal sights show heat instead of light. An electronic fuze is the part of a shell or grenade that controls when it works. Armed forces buy such equipment through government procurement, with long approval times and large but irregular orders. HFCL says it is setting up an ammunition manufacturing complex and has proposed to buy an aerospace business; the lesson treats both as plans until they are completed."
+      },
+      {
+        "title": "Building networks to order",
+        "examples": "Fibre networks, mobile backhaul, rural networks and government programmes such as BharatNet.",
+        "explanation": "System integration means designing, building and testing a network for a customer. BharatNet is a government programme to connect villages with fibre. HFCL says it is moving away from high-volume building work towards products that earn better returns and need less cash."
+      }
+    ],
+    "basics": [
+      {
+        "title": "What is an order book?",
+        "text": "An order book is the total value of confirmed orders that have not yet been delivered. It shows demand that is already booked. It is not revenue yet, because the goods still have to be made, delivered and accepted, and orders can be delayed or changed."
+      },
+      {
+        "title": "Why is a customer’s size a risk as well as an opportunity?",
+        "text": "A single very large customer can fill the factories and lift sales. If that customer slows its orders, changes supplier or delays payment, the effect on a company of HFCL’s size can be large."
+      },
+      {
+        "title": "What does making your own glass rod mean?",
+        "text": "Optical fibre is drawn from a glass rod called a preform. HFCL is building a factory to make preform itself, instead of buying it. This is called backward integration: moving back along the supply chain to make a part you currently buy. It can lower costs and reduce shortages, but it needs money and skill up front."
+      }
+    ],
+    "steps": [
+      {
+        "title": "Win an order",
+        "text": "A telecom company, cloud company, government body or armed force places an order or signs a supply agreement, sometimes for several years."
+      },
+      {
+        "title": "Make the fibre",
+        "text": "Glass preform is heated and drawn into fibre. Strands are coated, tested and wound onto reels."
+      },
+      {
+        "title": "Build cables and equipment",
+        "text": "Fibre is covered with protective layers to make cables. Separate factories make routers, radios, Wi-Fi systems and defence electronics."
+      },
+      {
+        "title": "Deliver, install and get accepted",
+        "text": "Customers check that what arrives meets their specification. For network projects, work is installed and tested before it is accepted."
+      },
+      {
+        "title": "Invoice and collect",
+        "text": "HFCL bills the customer. Some customers pay on delivery; large projects and government orders may pay in stages or later."
+      }
+    ],
+    "specifics": [
+      {
+        "title": "One very large customer can change the picture",
+        "text": "HFCL’s FY 2025–26 report describes a five-year cable supply agreement with a leading global hyperscaler. Exports rose from a small share of sales to more than half in the quarter to June 2026. This helps growth, but it also means HFCL depends on fewer, larger customers."
+      },
+      {
+        "title": "Growth rates can look huge after a weak year",
+        "text": "In April–June 2025 HFCL was making a loss. When the next year’s quarter is compared with that low starting point, the percentage rises look very large. Look at the actual level of profit and margins in later quarters, not just the growth rate."
+      },
+      {
+        "title": "An order book is a promise, not revenue",
+        "text": "HFCL reported its largest order book ever, several times its previous year’s revenue. Orders are delivered over years and may be delayed, so the order book shows potential, not the next year’s sales."
+      },
+      {
+        "title": "Defence expansion is partly still a plan",
+        "text": "The ammunition complex is being set up and the aerospace purchase is proposed. Until a factory is running and an acquisition is completed, they do not yet produce earnings."
+      }
+    ],
+    "watch": [
+      [
+        "How dependent is HFCL on a few very large customers?",
+        "Sales that rely on a few customers can swing sharply if one changes its plans.",
+        "Look in the annual report and results notes for the share of sales from the largest customers, the split between exports and India, and how long the main supply agreements run. Check what happens if a customer reduces orders."
+      ],
+      [
+        "Are orders turning into delivered goods and cash?",
+        "An order book only helps if it is delivered and paid for.",
+        "Compare the order book with each quarter’s revenue, and look at receivables, which are bills issued but not yet paid, and cash from operations. Note delivery delays, cancelled orders and projects that pay late."
+      ],
+      [
+        "Are the new factories ready and will they be used?",
+        "Extra capacity costs money before it earns any.",
+        "Read the progress of fibre, cable and preform expansion and the data-centre products plant. Compare capacity added with orders, and check spending on equipment against cash generated."
+      ],
+      [
+        "Is defence turning into reliable earnings?",
+        "Defence orders can be large but irregular and slow to be approved and paid.",
+        "Look for defence revenue shown separately, the status of the proposed aerospace purchase, and how long customers take to pay. Check which parts are planned and which already produce sales."
+      ],
+      [
+        "Do profit margins hold when growth settles?",
+        "A very strong quarter after a weak one may not repeat.",
+        "Compare operating profit margin across several quarters, prices of cables and the cost of glass and other materials. Check how much profit comes from one-off orders and how much from regular business."
+      ]
+    ],
+    "risks": [
+      [
+        "A big customer cuts back or changes supplier",
+        "A small number of large buyers account for much of growth, so losing or reducing one has a big effect."
+      ],
+      [
+        "Cable prices fall",
+        "If many makers add capacity, prices can drop, which reduces what is left after costs."
+      ],
+      [
+        "Expansion plans run late or over budget",
+        "New factories and the proposed acquisition need approvals, equipment and skilled people, and may take longer or cost more than planned."
+      ],
+      [
+        "Government and defence orders are delayed",
+        "Public-sector customers can take a long time to approve orders and pay."
+      ],
+      [
+        "Currency and export risks",
+        "A large share of sales is abroad, so exchange-rate changes and trade rules matter more than before."
+      ]
+    ],
+    "context": [
+      "July 2026: sales more than doubled after a weak year, and exports passed half of sales",
+      "HFCL’s 22 July 2026 results release says revenue for April–June 2026 was more than twice that of a year earlier, and exports made up more than half of revenue, compared with about a quarter a year before. A year earlier the company had made a loss and this quarter it made a profit, so the growth percentages look very large. It reported its largest order book yet, and said the proposed aerospace purchase and an ammunition complex were still being developed. These are unaudited quarterly results, not yet fully checked by auditors. The full-year figures at the end of this page cover an earlier period."
+    ],
+    "quiz": [
+      "If a company’s order book is several times last year’s revenue, will next year’s revenue be that many times higher?",
+      "No. Orders are delivered over several years, may be delayed or changed, and revenue is counted only when goods are delivered and accepted. The order book shows booked demand, not guaranteed next-year sales."
+    ],
+    "sources": [
+      [
+        "Quarterly results release · 22 July 2026",
+        "https://www.bseindia.com/xml-data/corpfiling/AttachHis/132196fb-d145-48aa-bc31-3a633389e9f5.pdf"
+      ],
+      [
+        "Investor presentation · 22 July 2026",
+        "https://www.bseindia.com/xml-data/corpfiling/AttachHis/04062a8c-13f7-4769-8d46-8232a221febc.pdf"
+      ],
+      [
+        "FY 2025–26 annual report",
+        "https://cdn.prod.website-files.com/69e0036b695965871f0524ab/6a9bd8dd438c66dfaba5a878_HFCL_AR_2025-26.pdf"
+      ],
+      [
+        "HFCL company website",
+        "https://hfcl.com/"
+      ]
+    ],
+    "financialNotes": [
+      {
+        "title": "Read a fast-growing manufacturer’s numbers in context",
+        "text": "Compare revenue with operating profit, then look at cash from operations, bills not yet paid and spending on new factories. Check which year each growth rate is compared with, and how much comes from exports and one-off orders. Verified full-year figures for this profile have not yet been added, so the financial table below is marked as awaiting verification."
       }
     ],
     "checked": "31 October 2026"
@@ -1497,6 +2185,171 @@ window.COMPANY_LESSONS = {
       {
         "title": "Read cash separately",
         "text": "An industry with high segment operating income can still have billing or collection timing differences. Continue with the consolidated cash-flow statement and customer balances before concluding how much cash was generated."
+      }
+    ],
+    "checked": "31 October 2026"
+  },
+  "ireda": {
+    "summary": "IREDA is a government-owned lender that gives loans to people building solar, wind, water-power and other clean-energy projects.",
+    "description": "A company that wants to build a solar farm must pay for land, panels, cables and workers long before it sells any electricity. IREDA lends that money. The developer repays the loan, with interest, over many years out of the electricity it later sells. IREDA is owned by the Government of India and registered with the Reserve Bank of India as a non-banking financial company (NBFC): a business that gives loans in the way a bank does, but does not open everyday savings accounts for the public. It does not build or run the power plants itself.",
+    "money": "IREDA earns interest on the loans it has given, plus smaller fees for arranging them. Its biggest cost is the interest it pays on the money it borrowed in order to lend. It also pays staff and running costs, and it sets aside provisions: money kept aside in its accounts because some loans may not be repaid in full. A loan that is approved but not yet paid out earns no interest.",
+    "customers": "Companies and government bodies that build or run clean-energy projects borrow from IREDA, and so do makers of equipment such as solar panels. Both private companies and public-sector borrowers are served. They pay IREDA interest and fees. The households and businesses that use the electricity pay the project owner, not IREDA, and that payment is what the project uses to repay its loan.",
+    "drivers": "How much IREDA lends, the gap between what it earns on loans and what it pays to borrow, whether borrowers repay on time, and how cheaply it can raise new money.",
+    "groups": [
+      {
+        "title": "Solar, wind and water-power plants",
+        "examples": "Loans to build solar farms, wind farms and hydropower stations.",
+        "explanation": "A developer needs money for land, equipment and construction before any electricity is sold. The loan is repaid from electricity sales over many years, often under a long-term contract with a power company or another large buyer. Whether that buyer will really take and pay for the electricity matters as much as whether the plant gets built."
+      },
+      {
+        "title": "Newer clean-energy projects",
+        "examples": "Large batteries (energy storage), green hydrogen, compressed biogas, power from rubbish (waste-to-energy) and biomass.",
+        "explanation": "Energy storage means big batteries that keep electricity for later. Green hydrogen is a fuel made by splitting water using clean electricity. Compressed biogas is gas from farm and food waste, cleaned and squeezed so it can be used as fuel. These are newer, so there is less history for IREDA to judge whether a project will earn enough to repay."
+      },
+      {
+        "title": "Factories and fuel supply",
+        "examples": "Plants that make solar panels and other clean-energy equipment, and ethanol production.",
+        "explanation": "Ethanol is an alcohol fuel made from crops and mixed into petrol. A factory loan is repaid from selling what the factory makes, not from selling electricity, so IREDA has to judge a manufacturer’s sales instead of a power plant’s output."
+      },
+      {
+        "title": "Power lines and government schemes",
+        "examples": "Transmission lines, and Ministry of New and Renewable Energy schemes that IREDA helps carry out.",
+        "explanation": "Transmission lines carry electricity from where it is made to where it is used. IREDA is also named by the Ministry of New and Renewable Energy as the agency that carries out some of its programmes, such as payments that reward electricity generated from wind and solar and a national bioenergy programme. Carrying out a scheme for the Government is different from lending its own money."
+      }
+    ],
+    "basics": [
+      {
+        "title": "What is a loan book?",
+        "text": "The loan book is the total of all loans a lender has given and not yet been repaid. It is the lender’s main asset because it is what earns interest. A bigger loan book means more money out earning interest, and also more money that could go wrong."
+      },
+      {
+        "title": "Why does a lender borrow before it lends?",
+        "text": "IREDA does not lend only its own cash. It borrows from bond investors, banks and overseas lenders, then lends the money on at a higher interest rate. The gap between the rate it earns and the rate it pays is called the spread. If its borrowing costs rise faster than the rates on its loans, it earns less on each loan."
+      },
+      {
+        "title": "What is an NPA?",
+        "text": "NPA stands for non-performing asset: a loan where repayments have been overdue for longer than the Reserve Bank’s rules allow, generally more than three months. A rising share of NPAs suggests more borrowers are struggling. Lenders set aside provisions against them, which reduces profit."
+      }
+    ],
+    "steps": [
+      {
+        "title": "A developer applies for a loan",
+        "text": "The developer brings a project plan: where it will be built, what equipment it will use, the permits, and, where there is one, the contract to sell the electricity."
+      },
+      {
+        "title": "IREDA checks the project and the people behind it",
+        "text": "IREDA looks at how proven the technology is, the sponsor’s track record, the suppliers, how similar plants have performed and whether a buyer has agreed to take the electricity (known as offtake). Approval is called sanction. It is a promise to lend, not a payment."
+      },
+      {
+        "title": "Money is paid out as the project moves forward",
+        "text": "Paying out the money is called disbursement. IREDA’s own report describes monitoring a project through approval, paperwork, disbursement, start of operation and the running years. Interest is earned only on money actually paid out and still owed."
+      },
+      {
+        "title": "The plant sells electricity and the loan is repaid",
+        "text": "IREDA’s report mentions watching a trust and retention account. This is a separate bank account into which a project’s income is paid first, so that money for loan repayments is collected before the project owner can spend it elsewhere."
+      },
+      {
+        "title": "IREDA acts if payments are missed",
+        "text": "The report lists steps such as reminders and meetings, reporting to the Reserve Bank and credit agencies, changing the repayment schedule where that is workable, changing the borrower’s management, taking over the security pledged for the loan, and legal action."
+      }
+    ],
+    "specifics": [
+      {
+        "title": "Almost all of the money IREDA lends has been borrowed",
+        "text": "IREDA funds its lending through bonds, loans from banks and loans from overseas lenders, including some in Japanese yen, plus money from shareholders. When it borrows in a foreign currency, changes in the exchange rate could raise what it must repay, so it uses hedging contracts, which are agreements that fix or limit that risk. It has also issued perpetual bonds: bonds with no fixed repayment date that count towards its financial cushion."
+      },
+      {
+        "title": "Government ownership helps with borrowing but not with every loan",
+        "text": "IREDA’s annual report says its credit rating is closely linked to the Government of India’s own rating. That helps it borrow. It does not mean the Government pays IREDA’s losses. Whether its borrowers repay is IREDA’s own business."
+      },
+      {
+        "title": "Troubled loans are mostly to private borrowers",
+        "text": "In IREDA’s FY 2025–26 annual report, almost all the loans classed as troubled are to private companies, not government-owned borrowers. A large share of IREDA’s book is lent to private developers, so it is worth asking how each of them will be repaid."
+      },
+      {
+        "title": "Lending more is not the same as earning more straight away",
+        "text": "Approved loans earn nothing until they are paid out, and new loans may take a while to build up interest. IREDA reports sanctions and disbursements separately for this reason. Rapid growth also means it must keep finding new money to lend."
+      }
+    ],
+    "watch": [
+      [
+        "Are borrowers repaying on time?",
+        "A lender’s earnings depend on loans being repaid, not just given.",
+        "Compare the share of troubled loans before and after money set aside for them, and the split between private and government borrowers. If the share falls, check whether the cause is repayments, loans written off the books, or changed repayment schedules."
+      ],
+      [
+        "What does IREDA pay to borrow compared with what it earns on loans?",
+        "The gap between the two decides how much each loan contributes before other costs.",
+        "Read the average rate earned on loans and the average cost of borrowing in the results commentary. Check whether the gap, called net interest margin, is widening or narrowing, and whether foreign-currency borrowing is hedged."
+      ],
+      [
+        "Does the loan book depend on a few borrowers or one type of project?",
+        "A few troubled large loans can matter more than many small ones.",
+        "Look for the split by solar, wind, hydro and newer technologies, by state, and by the largest borrowers in the annual report. Check how much is lent to projects that have not yet begun to sell electricity."
+      ],
+      [
+        "Can IREDA keep raising enough money as it grows?",
+        "Every new loan has to be funded by new borrowing or new shareholder money.",
+        "Compare bond, bank and overseas borrowing, perpetual bonds and any share sale. Check its debt compared with shareholders’ money, and whether raising new shares changes the Government’s ownership share."
+      ],
+      [
+        "How much does its government role shape what it does?",
+        "A government-owned lender may be asked to support policy goals as well as earn a return.",
+        "Read the yearly performance agreement with the Ministry, the schemes it carries out, dividend decisions and any leadership changes. Ask whether policy goals and returns point the same way for the loans it chooses to make."
+      ]
+    ],
+    "risks": [
+      [
+        "Borrowers fail to repay",
+        "Construction delays, weak electricity sales or a borrower’s own problems can stop repayments. IREDA’s FY 2025–26 report describes loans to a solar-construction and electric-vehicle-leasing group, Gensol, that it recalled after the market regulator, SEBI, issued an interim order about irregularities at the group. IREDA complained to the police, began insolvency proceedings and classed the accounts as fraud."
+      ],
+      [
+        "The electricity buyer is slow to pay",
+        "Many projects depend on a power company or other large buyer paying on time. If the buyer pays late, the project may not be able to repay IREDA."
+      ],
+      [
+        "Borrowing gets more expensive",
+        "If IREDA must pay more to borrow while loans already given carry fixed or slow-to-change rates, its earnings per loan can narrow."
+      ],
+      [
+        "Newer technologies do not work as hoped",
+        "Hydrogen, storage and other newer projects have less history, so it is harder to predict whether they will earn enough to repay."
+      ],
+      [
+        "Government priorities change",
+        "As a government-owned company, IREDA can be affected by changes in policy, schemes, ownership and leadership."
+      ]
+    ],
+    "context": [
+      "September 2026: lending grew faster than profit",
+      "IREDA’s 19 October 2026 results release says it paid out more loans and its loan book grew, while its profit after tax was only slightly higher than a year earlier. It also reports a lower share of troubled loans after setting aside money for them than a year before. A lender’s profit can rise more slowly than its lending if new loans have only just begun earning interest, if its own borrowing becomes more expensive, or if more money must be set aside. Treat this as one quarter’s explanation, not a forecast. The full-year figures that will appear at the end of this page cover a different period."
+    ],
+    "quiz": [
+      "If IREDA approves a very large loan to a solar developer, does it start earning interest on the full amount straight away?",
+      "No. Approval, called sanction, is a promise to lend. Interest is earned only on the money actually paid out, called disbursement, and still owed. That is why lenders report sanctions and disbursements separately."
+    ],
+    "sources": [
+      [
+        "IREDA background: government ownership, NBFC registration, 1987",
+        "https://www.ireda.in/IredaWebPortal/about/background"
+      ],
+      [
+        "IREDA financing sectors and loan-book overview",
+        "https://www.ireda.in/IredaWebPortal/"
+      ],
+      [
+        "FY 2025–26 annual report",
+        "https://www.ireda.in/IredaWebPortal/documents/investors/annual-reports/ar-2025-26.pdf"
+      ],
+      [
+        "Quarterly results release · 19 October 2026",
+        "https://www.ireda.in/IredaWebPortal/press-releases/view/826c867c1c594f34a0183f164d7df4ee"
+      ]
+    ],
+    "financialNotes": [
+      {
+        "title": "Read a lender’s numbers differently",
+        "text": "For IREDA, the loan book is the total of loans still owed, not sales. Its main income is interest earned, and its main cost is interest paid. Compare the two, then check the share of troubled loans and the money set aside for them. Verified full-year figures for this profile have not yet been added, so the financial table below is marked as awaiting verification."
       }
     ],
     "checked": "31 October 2026"
@@ -2100,6 +2953,177 @@ window.COMPANY_LESSONS = {
       {
         "title": "The model list is not a profit split",
         "text": "The table shows audited consolidated revenue from operations and profit after tax. Revenue includes products, services and other operating revenue, and differs from a standalone net-sales headline. A model’s retail price, bookings or factory capacity cannot be used to invent its manufacturer revenue or profit."
+      }
+    ],
+    "checked": "31 October 2026"
+  },
+  "milky-mist": {
+    "summary": "Milky Mist buys milk from farmers and turns it into paneer, cheese, curd, ice cream, yogurt and other dairy products sold across India.",
+    "description": "Milk spoils within days, so a dairy company must collect it, cool it and process it quickly. Milky Mist collects milk from farmers and dairy operators, cools it at chilling centres, and makes it into products with a longer shelf life and a higher price: paneer (a fresh Indian cheese), cheese, curd, ice cream, yogurt, ghee and butter. It makes most of them at a large, highly automated plant in Perundurai in Tamil Nadu, and moves them in its own vehicles to distributors, who supply shops across India. Its shares began trading on the exchanges in August 2026.",
+    "money": "Milky Mist earns money when distributors and shops pay for its products. Its largest cost is raw milk, which it buys from farmers and other dairy operators and whose price changes with seasons and farm conditions. It also pays for sugar, packaging, cultures and other ingredients, factory work, transport, advertising, and the fridges and freezers it places in shops. A rise in milk prices cuts what is left from each sale unless the company can raise its own prices.",
+    "customers": "Distributors buy from Milky Mist and supply shops, which sell to households and restaurants. Shoppers see the product on a shelf or in a freezer, so the shop is where the choice is made, not Milky Mist’s own outlet. A small part of its sales goes to customers outside India.",
+    "drivers": "The price of milk and other ingredients, how much it can charge for its products, how many shops stock and chill them, how much of the plant is being used, and how much cash is tied up in fridges, stock and unpaid bills.",
+    "listingLabel": "NSE: MILKYMIST · listed August 2026",
+    "groups": [
+      {
+        "title": "Paneer, curd, butter, ghee and long-life milk",
+        "examples": "Paneer, set curd, butter, ghee and UHT milk.",
+        "explanation": "Paneer is a fresh cheese made by curdling hot milk and pressing it, used widely in Indian cooking. Curd is milk that has been set into a thick, soft solid. Ghee is butter that has been heated to remove water and milk solids. UHT milk has been heated at very high temperature so it lasts months without a fridge. These are everyday foods that households buy repeatedly."
+      },
+      {
+        "title": "Cheese",
+        "examples": "Cheese for cooking and eating, and by-products such as whey.",
+        "explanation": "Cheese is made by curdling milk and draining the liquid, called whey, from the solid part. Whey is a by-product that the company can dry into powder and sell. The plant that makes cheese therefore produces more than one thing from the same milk."
+      },
+      {
+        "title": "Ice cream and desserts",
+        "examples": "Ice cream, mishti doi, gulab jamun and shrikhand.",
+        "explanation": "Ice cream must stay frozen from the factory to the shop, so Milky Mist places freezers in shops. Sales are higher in warm months and festivals, which can make results uneven from one quarter to another."
+      },
+      {
+        "title": "Yogurt, lassi and milkshakes",
+        "examples": "Flavoured and plain yogurt, lassi (a yogurt drink), buttermilk and milkshakes.",
+        "explanation": "These are ready-to-eat and ready-to-drink products bought for convenience. The company says yogurt was its fastest-growing category in the quarter to September 2026. A fast-growing category can start from a small base."
+      },
+      {
+        "title": "High-protein dairy",
+        "examples": "Greek yogurt, skyr and cheese and paneer that the company describes as high-protein.",
+        "explanation": "Greek yogurt and skyr are thick yogurts made by straining off liquid. The company markets them as high-protein products. This notebook does not assess any health claim; the point to check is whether these products sell well and earn a good margin."
+      }
+    ],
+    "basics": [
+      {
+        "title": "Why does a dairy company make products instead of selling milk?",
+        "text": "Plain milk is cheap and its price is close to what every seller charges. Turning it into paneer, cheese, yogurt or ice cream creates a branded product that can fetch a higher price per litre of milk used. Milky Mist describes itself as a value-added dairy company. The catch is that making these products needs plants, freezers and advertising."
+      },
+      {
+        "title": "Why does the price of milk matter so much?",
+        "text": "Milk is both the biggest input and a product of farming, so its price moves with feed costs, weather and how much farmers are paid. The company’s 29 October 2026 presentation says the dairy industry faced higher input costs in the quarter to September. A dairy company can protect its profit only by raising prices, making more from each litre or cutting other costs."
+      },
+      {
+        "title": "What is a visi cooler?",
+        "text": "A visi cooler is a glass-fronted fridge placed in a shop so that customers can see chilled products. Milky Mist puts tens of thousands of them, plus freezers, in shops. The company pays for them, so they are a cost that must be recovered through sales."
+      },
+      {
+        "title": "What does an IPO’s new-share money pay for?",
+        "text": "In an initial public offering (IPO), a company can sell new shares, called a fresh issue, and its existing owners can sell some of theirs, called an offer for sale. Money from new shares goes to the company; money from shares sold by owners goes to the owners. Milky Mist’s offer document said the company’s new-share money would pay back borrowings, expand the Perundurai plant and buy shop coolers and freezers."
+      }
+    ],
+    "steps": [
+      {
+        "title": "Collect milk from farmers and dairy operators",
+        "text": "Milk is gathered on collection routes and cooled at chilling centres and bulk coolers near the farms. The company says it buys milk directly from tens of thousands of farmers and also buys from other dairy operators."
+      },
+      {
+        "title": "Make the products at the plant",
+        "text": "At Perundurai the milk is processed into paneer, cheese, curd, yogurt, ice cream and other items, mostly using automated machines. Whey left from cheese and paneer can be dried and sold."
+      },
+      {
+        "title": "Keep the products cold and move them",
+        "text": "Fresh dairy needs a cold chain: refrigeration from the factory to the shop shelf. The company runs its own fleet of vehicles."
+      },
+      {
+        "title": "Sell through distributors to shops",
+        "text": "Distributors buy from the company and deliver to thousands of shops. Milky Mist places branded coolers and freezers in many of them."
+      },
+      {
+        "title": "Collect payment and pay for milk",
+        "text": "The company must pay for milk and ingredients while waiting to be paid by distributors. The gap decides how much cash it needs to keep working."
+      }
+    ],
+    "specifics": [
+      {
+        "title": "Most milk comes without long-term contracts",
+        "text": "Milky Mist’s offer document says it buys most of its milk directly from farmers with no formal arrangements, so farmers can sell to rivals instead. It also says the share it buys from other dairy operators has risen over the last three years. Milk supply is the foundation of the business, so look at who supplies it."
+      },
+      {
+        "title": "Fridges and freezers are part of the cost of winning shops",
+        "text": "The company places its own coolers in shops to display chilled products. Part of its new-share money was meant for more of them. Each one has to earn enough sales to repay its cost."
+      },
+      {
+        "title": "Market-share claims come from one study",
+        "text": "The company says it is the largest private packaged paneer brand in India’s organised market, citing a research report. Treat this as the company’s claim based on one study, not an independent audit."
+      },
+      {
+        "title": "A newly listed company has a short public record",
+        "text": "Milky Mist has reported only a few quarters since listing. Quarterly results are generally reviewed by auditors, not fully audited, so check what each document says before relying on it."
+      }
+    ],
+    "watch": [
+      [
+        "Is the cost of milk rising faster than the prices Milky Mist can charge?",
+        "Milk is the biggest cost and farm prices change with the seasons and weather.",
+        "Compare sales growth with the gross margin, which is what is left after the cost of ingredients. Read what the company says about price increases it has made and whether sales volumes held up afterwards."
+      ],
+      [
+        "Which products are driving growth, and for how long?",
+        "A category growing fast from a small base can look better than it is.",
+        "Look at the sales split by category, such as paneer, cheese, curd, ice cream and yogurt, and compare each category’s growth. Check whether new products are replacing sales of older ones."
+      ],
+      [
+        "How dependable is the milk supply?",
+        "The company’s own documents say most farmers have no formal agreement with it.",
+        "Read the table of milk bought from farmers and from other dairy operators, and note the shift between them. Look for comments on farmers’ prices, weather effects and competition for milk."
+      ],
+      [
+        "Is the expanded plant being used?",
+        "Extra capacity adds costs whether or not it is full.",
+        "Look for capacity use by product in the offer document and later results. Check progress on the Perundurai expansion, delays, cost increases and whether new capacity is for whey, cheese or other products."
+      ],
+      [
+        "How much cash is tied up in coolers, stock and unpaid bills?",
+        "Growth that needs a lot of cash can strain a company even when profit is rising.",
+        "Compare profit with cash from operations, and look at money spent on equipment, stock held and amounts customers owe. Check how much of the IPO money has been spent on its stated purposes."
+      ]
+    ],
+    "risks": [
+      [
+        "Milk costs rise or supply falls",
+        "Farmers are not obliged to sell to Milky Mist, so a shortage or a price spike can reduce output or squeeze margins."
+      ],
+      [
+        "Spoilage and cold-chain failures",
+        "Dairy is perishable. A fridge breakdown, a delayed truck or a power cut can spoil stock and harm the brand."
+      ],
+      [
+        "Strong competitors",
+        "Large cooperative and private dairy brands compete for the same shelf space and customers, which can limit pricing."
+      ],
+      [
+        "Environmental and permit rules",
+        "The offer document discloses two notices dated 31 December 2024 from the Tamil Nadu Pollution Control Board about water and air rules. Compliance problems can lead to extra costs or restrictions."
+      ],
+      [
+        "Expansion goes over budget or runs late",
+        "The plant expansion depends on outside contractors and equipment suppliers, and the offer document says costs and timing may change."
+      ]
+    ],
+    "context": [
+      "October 2026: costs rose across dairy, yet profit grew faster than sales",
+      "Milky Mist’s investor presentation of 29 October 2026 covers the quarter to September 2026. Management says the dairy industry faced higher input costs and cautious consumers, and that the company still reported higher sales, better margins and much faster profit growth. It credits price increases, higher use of its plant, a wide range of products and efficiency gains. Yogurt was its fastest-growing category. These are the company’s own explanations, from its early quarterly reports as a listed company. Compare them with the full-year figures at the end of this page, which cover an earlier period."
+    ],
+    "quiz": [
+      "When a company sells new shares in an IPO and its existing owners also sell shares, does all the money go to the company?",
+      "No. Money from newly issued shares goes to the company. Money from shares sold by existing owners goes to those owners. Check which part is which to see how much the business receives."
+    ],
+    "sources": [
+      [
+        "Quarterly investor presentation · 29 October 2026",
+        "https://nsearchives.nseindia.com/corporate/MILKYMIST_29102026165402_intimationoninvestorpresentation29102026.pdf"
+      ],
+      [
+        "Offer document (red herring prospectus) · 6 August 2026",
+        "https://www.bseindia.com/corporates/download/386960/IPO%20Open/RHPSigned_20260806221222.pdf"
+      ],
+      [
+        "NSE circular announcing the listing · 17 August 2026",
+        "https://nsearchives.nseindia.com/content/circulars/CML75775.pdf"
+      ]
+    ],
+    "financialNotes": [
+      {
+        "title": "Read a dairy company’s numbers in context",
+        "text": "Compare sales growth with the cost of milk and the profit left after it. Look at which categories grow and how much cash goes into coolers, stock and unpaid bills. Verified full-year figures for this profile have not yet been added, so the financial table below is marked as awaiting verification."
       }
     ],
     "checked": "31 October 2026"
