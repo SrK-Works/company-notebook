@@ -1,0 +1,17 @@
+{
+  "note": "Open items for the next source review. Notes only: nothing here is shown on the website, and nothing here changes a lesson until a person reads the source.",
+  "items": [
+    {
+      "company": "park-medi-world",
+      "raised": "31 October 2026",
+      "topic": "Income Tax Department verification, 12–17 October 2026",
+      "whereToLook": "https://www.parkhospital.in/investor-relations/shareholders-information/stock-exchange-filings",
+      "lookFor": [
+        "Any filing after 23 October 2026 that reports an outcome, a tax demand, a penalty or an order, or that says what the verification examined.",
+        "The July–September 2026 results filing and any comment on the verification in it."
+      ],
+      "currentLessonWording": "Risks entry 'A tax authority check can bring uncertainty' repeats only what the 14 and 23 October 2026 filings say: verification at some premises, no alleged violation listed, no impact on operations, commitments or expansion plans.",
+      "ifSomethingNew": "Update that risk entry and the checked date using the filing's own wording. Do not describe it as a raid or imply wrongdoing unless a filing says so. Do not add amounts unless a verified financial review covers them."
+    }
+  ]
+}
