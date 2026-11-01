@@ -1439,7 +1439,7 @@ window.COMPANIES.push(...[
     "question": "If IREDA approves a very large loan to a solar developer, does it start earning interest on the full amount straight away?",
     "answer": "No. Approval, called sanction, is a promise to lend. Interest is earned only on the money actually paid out, called disbursement, and still owed. That is why lenders report sanctions and disbursements separately.",
     "productSource": "https://www.ireda.in/IredaWebPortal/",
-    "productNote": "Financing sectors reviewed on IREDA’s website on 31 October 2026. Each picture is an original illustration of the kind of project IREDA lends to, not a photograph of a project it has financed.",
+    "productNote": "Financing sectors reviewed on IREDA’s website on 31 October 2026. Each picture is a real photograph from Wikimedia Commons of the kind of project IREDA lends to, with the photographer credited. None is a photograph of a project IREDA has financed.",
     "checked": "31 Oct 2026",
     "reviewed": "31 October 2026",
     "aliases": [
@@ -1564,7 +1564,7 @@ window.COMPANIES.push(...[
     "question": "If a hospital group treats more patients, does its profit rise by the same amount?",
     "answer": "Not necessarily. Profit also depends on how the patients pay, how complex their treatment is, the cost of doctors, machines and borrowing, and whether new hospitals are still filling up.",
     "productSource": "https://www.hcgoncology.com/annual-reports/",
-    "productNote": "Services reviewed on HCG’s annual report and results release on 31 October 2026. Each picture is an original illustration of a type of service, not a photograph of an HCG centre. The fertility business was sold in June 2026.",
+    "productNote": "Services reviewed on HCG’s annual report and results release on 31 October 2026. Pictures of scans, radiation, surgery, chemotherapy, the hospital and follow-up care are from HCG’s own website. The overseas-patients and fertility cards remain labelled original illustrations. The fertility business was sold in June 2026.",
     "checked": "31 Oct 2026",
     "reviewed": "31 October 2026",
     "aliases": [
@@ -1699,7 +1699,7 @@ window.COMPANIES.push(...[
     "question": "If a company’s sales almost double, has its profit per rupee of sales improved?",
     "answer": "Not necessarily. If profit also nearly doubled, the margin (profit as a share of sales) stayed about the same. Compare profit growth with sales growth to see whether it is selling more or earning more on each sale.",
     "productSource": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2dcc16c8-0163-4b42-9e8e-ffe1e1b74c2e.pdf",
-    "productNote": "Business lines reviewed in Fredun’s FY 2025–26 annual report and 6 August 2026 results release on 31 October 2026. Each picture is an original illustration of a type of product, not a photograph of a Fredun product. The newer consumer and wellness lines are described in the company’s own words and are not independent evidence of sales.",
+    "productNote": "Business lines reviewed in Fredun’s FY 2025–26 annual report and 6 August 2026 results release on 31 October 2026. Pictures for export medicines, hospital supply, pet food and support braces are real photographs from Wikimedia Commons showing the kind of product, not Fredun’s own packs, with the photographer credited. The other cards remain labelled original illustrations because no suitable photograph was found. The newer consumer and wellness lines are described in the company’s own words and are not independent evidence of sales.",
     "checked": "31 Oct 2026",
     "reviewed": "31 October 2026",
     "aliases": [
@@ -1827,7 +1827,7 @@ window.COMPANIES.push(...[
     "question": "When a company sells new shares in an IPO and its existing owners also sell shares, does all the money go to the company?",
     "answer": "No. Money from newly issued shares goes to the company. Money from shares sold by existing owners goes to those owners. Check which part is which to see how much the business receives.",
     "productSource": "https://nsearchives.nseindia.com/corporate/MILKYMIST_29102026165402_intimationoninvestorpresentation29102026.pdf",
-    "productNote": "Product categories reviewed in Milky Mist’s Q2 FY27 investor presentation (29 October 2026) and offer document on 31 October 2026. The company groups more than 600 products into broad categories. Each picture is an original illustration of a type of product, not a photograph of a Milky Mist pack.",
+    "productNote": "Product categories reviewed in Milky Mist’s Q2 FY27 investor presentation (29 October 2026) and offer document on 31 October 2026. The company groups more than 600 products into broad categories. Product pictures are from Milky Mist’s own website. The milk-collection and shop-freezer pictures are real photographs from Wikimedia Commons of that kind of work, with the photographer credited.",
     "checked": "31 Oct 2026",
     "reviewed": "31 October 2026",
     "aliases": [
@@ -1958,7 +1958,7 @@ window.COMPANIES.push(...[
     "question": "If a company’s order book is several times last year’s revenue, will next year’s revenue be that many times higher?",
     "answer": "No. Orders are delivered over several years, may be delayed or changed, and revenue is counted only when goods are delivered and accepted. The order book shows booked demand, not guaranteed next-year sales.",
     "productSource": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/132196fb-d145-48aa-bc31-3a633389e9f5.pdf",
-    "productNote": "Product families reviewed in HFCL’s FY 2025–26 annual report and 22 July 2026 results release on 31 October 2026. Each picture is an original illustration of a type of product, not a photograph of an HFCL product. Defence products are listed as described by the company.",
+    "productNote": "Product families reviewed in HFCL’s FY 2025–26 annual report and 22 July 2026 results release on 31 October 2026. Fibre, cable, switch, Wi-Fi, radio and network-tower pictures are from HFCL’s own website. The thermal sight, radar and cable-assembly pictures are real photographs from Wikimedia Commons of that type of product, not HFCL’s own, with the photographer credited. Defence products are listed as described by the company.",
     "checked": "31 Oct 2026",
     "reviewed": "31 October 2026",
     "aliases": [
@@ -2093,7 +2093,7 @@ window.COMPANIES.push(...[
     "question": "If a company spends its cash buying back its own shares, has its business grown?",
     "answer": "No. A buyback reduces the number of shares but does not add customers, factories or sales. Whether it is sensible depends on the cash available and what else the company could do with the money, such as repay borrowing or fund new projects.",
     "productSource": "https://nsearchives.nseindia.com/annual_reports/AR_31250_GENUSPOWER_2025_2026_A_7862122_03092026171428.pdf",
-    "productNote": "Product and service families reviewed in Genus Power’s FY 2025–26 annual report on 31 October 2026. Each picture is an original illustration of a type of product or service, not a photograph of a Genus product.",
+    "productNote": "Product and service families reviewed in Genus Power’s FY 2025–26 annual report on 31 October 2026. Meter, gateway, vending-software and factory pictures are from Genus’s own website. The meter-installation picture is a real photograph from Wikimedia Commons of that kind of work, not Genus’s own, with the photographer credited. The smart-meter-projects card remains a labelled original illustration.",
     "checked": "31 Oct 2026",
     "reviewed": "31 October 2026",
     "aliases": [

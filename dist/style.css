@@ -135,3 +135,6 @@ html[data-theme="dark"] .company-overview{background:#121315}
 
 /* Give financial tables and explanations the reading width on smaller desktops. */
 @media(max-width:1000px){.profile-layout{grid-template-columns:1fr}.profile-aside{display:none}}
+
+.offering-credit{display:block;font-size:11px;line-height:1.35;color:var(--muted);margin:-4px 0 10px}
+.offering-image.is-wide{padding:0}.offering-image.is-wide img{object-fit:contain}

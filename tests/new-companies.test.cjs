@@ -14,10 +14,15 @@ test('each added company has a complete profile, local original illustrations an
   assert.equal(c.COMPANY_FINANCIALS[id],undefined,id+': figures await a separate verified review');
   const visuals=c.PRODUCT_VISUALS[id];assert.ok(visuals&&visuals.length>=7,id+': visual shelf');
   for(const v of visuals){
-   assert.equal(v.kind,'illustration',`${id}: ${v.name}`);
-   assert.match(v.alt,/not a product photograph/,`${id}: ${v.name}`);
+   assert.ok(['illustration','pack','photo','generic'].includes(v.kind),`${id}: ${v.name}`);
    assert.ok(fs.existsSync(`dist/${v.image}`),`${id}: missing ${v.image}`);
-   assert.ok(fs.readFileSync(`dist/${v.image}`,'utf8').includes('Offering illustration · Company Notebook'),`${id}: labelled`);
+   if(v.kind==='illustration'){
+    assert.match(v.alt,/not a product photograph/,`${id}: ${v.name}`);
+    assert.ok(fs.readFileSync(`dist/${v.image}`,'utf8').includes('Offering illustration · Company Notebook'),`${id}: labelled`);
+   }else{
+    assert.match(v.image,/\.webp$/,`${id}: ${v.name}`);
+    if(v.kind==='generic'){assert.match(v.credit,/Wikimedia Commons/,`${id}: ${v.name} credit`);assert.match(v.alt,/not the company's own item/,`${id}: ${v.name}`);}
+   }
   }
   const lesson=c.COMPANY_LESSONS[id];assert.ok(lesson,id+': lesson');
   assert.equal(lesson.checked,'31 October 2026',id);
