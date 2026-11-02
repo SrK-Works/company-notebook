@@ -9,8 +9,6 @@
     "color": "#4f7a2a",
     "bg": "#f0f6e8",
     "tag": "The business behind the offering",
-    "summary": "IREDA is a government-owned lender that gives loans to people building solar, wind, water-power and other clean-energy projects.",
-    "description": "A company that wants to build a solar farm must pay for land, panels, cables and workers long before it sells any electricity. IREDA lends that money. The developer repays the loan, with interest, over many years out of the electricity it later sells. IREDA is owned by the Government of India and registered with the Reserve Bank of India as a non-banking financial company (NBFC): a business that gives loans in the way a bank does, but does not open everyday savings accounts for the public. It does not build or run the power plants itself.",
     "ownership": "This profile covers Indian Renewable Energy Development Agency Limited, a company owned by the Government of India and registered with the Reserve Bank of India as a non-banking financial company. It lends money to clean-energy projects; it does not build or run the power plants itself.",
     "products": [
       [
@@ -50,75 +48,7 @@
         "Lending for clean-fuel and solar-equipment makers"
       ]
     ],
-    "money": "IREDA earns interest on the loans it has given, plus smaller fees for arranging them. Its biggest cost is the interest it pays on the money it borrowed in order to lend. It also pays staff and running costs, and it sets aside provisions: money kept aside in its accounts because some loans may not be repaid in full. A loan that is approved but not yet paid out earns no interest.",
-    "watch": [
-      [
-        "Are borrowers repaying on time?",
-        "A lender’s earnings depend on loans being repaid, not just given."
-      ],
-      [
-        "What does IREDA pay to borrow compared with what it earns on loans?",
-        "The gap between the two decides how much each loan contributes before other costs."
-      ],
-      [
-        "Does the loan book depend on a few borrowers or one type of project?",
-        "A few troubled large loans can matter more than many small ones."
-      ],
-      [
-        "Can IREDA keep raising enough money as it grows?",
-        "Every new loan has to be funded by new borrowing or new shareholder money."
-      ],
-      [
-        "How much does its government role shape what it does?",
-        "A government-owned lender may be asked to support policy goals as well as earn a return."
-      ]
-    ],
-    "risks": [
-      [
-        "Borrowers fail to repay",
-        "Construction delays, weak electricity sales or a borrower’s own problems can stop repayments. IREDA’s FY 2025–26 report describes loans to a solar-construction and electric-vehicle-leasing group, Gensol, that it recalled after the market regulator, SEBI, issued an interim order about irregularities at the group. IREDA complained to the police, began insolvency proceedings and classed the accounts as fraud."
-      ],
-      [
-        "The electricity buyer is slow to pay",
-        "Many projects depend on a power company or other large buyer paying on time. If the buyer pays late, the project may not be able to repay IREDA."
-      ],
-      [
-        "Borrowing gets more expensive",
-        "If IREDA must pay more to borrow while loans already given carry fixed or slow-to-change rates, its earnings per loan can narrow."
-      ],
-      [
-        "Newer technologies do not work as hoped",
-        "Hydrogen, storage and other newer projects have less history, so it is harder to predict whether they will earn enough to repay."
-      ],
-      [
-        "Government priorities change",
-        "As a government-owned company, IREDA can be affected by changes in policy, schemes, ownership and leadership."
-      ]
-    ],
-    "sources": [
-      [
-        "IREDA background: government ownership, NBFC registration, 1987",
-        "https://www.ireda.in/IredaWebPortal/about/background"
-      ],
-      [
-        "IREDA financing sectors and loan-book overview",
-        "https://www.ireda.in/IredaWebPortal/"
-      ],
-      [
-        "FY 2025–26 annual report",
-        "https://www.ireda.in/IredaWebPortal/documents/investors/annual-reports/ar-2025-26.pdf"
-      ],
-      [
-        "Quarterly results release · 19 October 2026",
-        "https://www.ireda.in/IredaWebPortal/press-releases/view/826c867c1c594f34a0183f164d7df4ee"
-      ]
-    ],
-    "update": [
-      "September 2026: lending grew faster than profit",
-      "IREDA’s 19 October 2026 results release says it paid out more loans and its loan book grew, while its profit after tax was only slightly higher than a year earlier. It also reports a lower share of troubled loans after setting aside money for them than a year before. A lender’s profit can rise more slowly than its lending if new loans have only just begun earning interest, if its own borrowing becomes more expensive, or if more money must be set aside. Treat this as one quarter’s explanation, not a forecast. The full-year figures that will appear at the end of this page cover a different period."
-    ],
-    "question": "If IREDA approves a very large loan to a solar developer, does it start earning interest on the full amount straight away?",
-    "answer": "No. Approval, called sanction, is a promise to lend. Interest is earned only on the money actually paid out, called disbursement, and still owed. That is why lenders report sanctions and disbursements separately.",
+    "sources": [],
     "productSource": "https://www.ireda.in/IredaWebPortal/",
     "productNote": "Financing sectors reviewed on IREDA’s website on 31 October 2026. Each picture is a real photograph from Wikimedia Commons of the kind of project IREDA lends to, with the photographer credited. None is a photograph of a project IREDA has financed.",
     "checked": "31 Oct 2026",

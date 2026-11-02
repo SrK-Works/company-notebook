@@ -9,8 +9,6 @@
     "color": "#91662d",
     "bg": "#faf3e5",
     "tag": "The business behind the offering",
-    "summary": "A Coal India subsidiary supplying coking coal and other coal products to industrial customers.",
-    "description": "Bharat Coking Coal mines and processes coal, with operations associated with the Jharia and Raniganj coalfields. Coking coal is an input to coke-making for steel production. Coal quality, washing recovery and transport capacity matter alongside the number of tonnes mined.",
     "ownership": "This profile covers Bharat Coking Coal Limited, a subsidiary of Coal India Limited. Owning its shares gives exposure to this subsidiary, rather than every coal business owned by the parent.",
     "products": [
       [
@@ -38,37 +36,6 @@
         "By-products · grade dependent"
       ]
     ],
-    "money": "Revenue comes from coal and washery-product sales through supply arrangements and auctions. Realisation per tonne, saleable quality, employee costs, mining costs and transportation affect earnings.",
-    "watch": [
-      [
-        "Saleable output and dispatch",
-        "How much mined coal is actually processed and shipped to customers?"
-      ],
-      [
-        "Quality and realisations",
-        "Are grade, ash content and washing recovery supporting prices?"
-      ],
-      [
-        "Cost per tonne",
-        "How do wages, overburden removal and transport costs change with production?"
-      ]
-    ],
-    "risks": [
-      [
-        "Mining and land constraints",
-        "Safety requirements, land access, underground conditions and mine fires can disrupt work."
-      ],
-      [
-        "Environmental obligations",
-        "Rehabilitation, pollution controls and statutory approvals can add costs."
-      ],
-      [
-        "Industrial demand",
-        "Steel demand, alternative supplies and customer procurement affect sales."
-      ]
-    ],
-    "question": "Is producing more raw coal always the same as selling more usable coal?",
-    "answer": "No. Washing losses, quality, stockpiles and dispatch constraints can separate raw production from saleable deliveries.",
     "sources": [
       [
         "BCCL business overview",
@@ -82,10 +49,6 @@
         "NSE company filing — BHARATCOAL",
         "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_GOVERNANCE_179464_28072026194952_iXBRL_WEB.html"
       ]
-    ],
-    "update": [
-      "Quality and dispatch connect production to revenue",
-      "Read production, washery output and dispatch together. Coal grades and customer arrangements influence the amount earned per tonne."
     ],
     "productSource": "https://bcclweb.in/?page_id=4259",
     "productNote": "Major offering families reviewed on 27 October 2026. Variants, locations and individual models are grouped; availability can vary.",

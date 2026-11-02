@@ -9,8 +9,6 @@
     "color": "#c07a1f",
     "bg": "#fbf3e5",
     "tag": "The business behind the offering",
-    "summary": "HFCL makes the glass fibre cables that carry internet data, plus telecom equipment and defence electronics.",
-    "description": "Phone calls, video, cloud services and AI programs all reach you as pulses of light along hair-thin strands of glass called optical fibre. HFCL makes that fibre, wraps many strands into protected cables, and makes the equipment at the ends of the network, such as Wi-Fi systems, routers and radio links. Its customers are phone companies, very large technology companies that run data centres, governments and armed forces. It also makes defence electronics such as thermal sights and radars, and builds telecom networks to order. Its factories are in Hyderabad, Goa, Chennai and Hosur.",
     "ownership": "This profile covers HFCL Limited, formerly Himachal Futuristic Communications Limited, and its subsidiary HTL Limited. It makes cables and equipment and builds networks for customers; it is not a mobile phone company and does not sell broadband to households. A proposed purchase of an aerospace business was announced but is described by the company as proposed, not completed.",
     "products": [
       [
@@ -50,75 +48,7 @@
         "Designing and installing telecom networks to order"
       ]
     ],
-    "money": "HFCL earns money when customers pay for the cables and equipment it ships, and for network-building work under contract. Its costs are the glass and plastic materials for fibre and cable, factory running costs, engineers and research, and interest on loans. Large orders take months to make and deliver, so HFCL spends before it is paid.",
-    "watch": [
-      [
-        "How dependent is HFCL on a few very large customers?",
-        "Sales that rely on a few customers can swing sharply if one changes its plans."
-      ],
-      [
-        "Are orders turning into delivered goods and cash?",
-        "An order book only helps if it is delivered and paid for."
-      ],
-      [
-        "Are the new factories ready and will they be used?",
-        "Extra capacity costs money before it earns any."
-      ],
-      [
-        "Is defence turning into reliable earnings?",
-        "Defence orders can be large but irregular and slow to be approved and paid."
-      ],
-      [
-        "Do profit margins hold when growth settles?",
-        "A very strong quarter after a weak one may not repeat."
-      ]
-    ],
-    "risks": [
-      [
-        "A big customer cuts back or changes supplier",
-        "A small number of large buyers account for much of growth, so losing or reducing one has a big effect."
-      ],
-      [
-        "Cable prices fall",
-        "If many makers add capacity, prices can drop, which reduces what is left after costs."
-      ],
-      [
-        "Expansion plans run late or over budget",
-        "New factories and the proposed acquisition need approvals, equipment and skilled people, and may take longer or cost more than planned."
-      ],
-      [
-        "Government and defence orders are delayed",
-        "Public-sector customers can take a long time to approve orders and pay."
-      ],
-      [
-        "Currency and export risks",
-        "A large share of sales is abroad, so exchange-rate changes and trade rules matter more than before."
-      ]
-    ],
-    "sources": [
-      [
-        "Quarterly results release · 22 July 2026",
-        "https://www.bseindia.com/xml-data/corpfiling/AttachHis/132196fb-d145-48aa-bc31-3a633389e9f5.pdf"
-      ],
-      [
-        "Investor presentation · 22 July 2026",
-        "https://www.bseindia.com/xml-data/corpfiling/AttachHis/04062a8c-13f7-4769-8d46-8232a221febc.pdf"
-      ],
-      [
-        "FY 2025–26 annual report",
-        "https://cdn.prod.website-files.com/69e0036b695965871f0524ab/6a9bd8dd438c66dfaba5a878_HFCL_AR_2025-26.pdf"
-      ],
-      [
-        "HFCL company website",
-        "https://hfcl.com/"
-      ]
-    ],
-    "update": [
-      "July 2026: sales more than doubled after a weak year, and exports passed half of sales",
-      "HFCL’s 22 July 2026 results release says revenue for April–June 2026 was more than twice that of a year earlier, and exports made up more than half of revenue, compared with about a quarter a year before. A year earlier the company had made a loss and this quarter it made a profit, so the growth percentages look very large. It reported its largest order book yet, and said the proposed aerospace purchase and an ammunition complex were still being developed. These are unaudited quarterly results, not yet fully checked by auditors. The full-year figures at the end of this page cover an earlier period."
-    ],
-    "question": "If a company’s order book is several times last year’s revenue, will next year’s revenue be that many times higher?",
-    "answer": "No. Orders are delivered over several years, may be delayed or changed, and revenue is counted only when goods are delivered and accepted. The order book shows booked demand, not guaranteed next-year sales.",
+    "sources": [],
     "productSource": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/132196fb-d145-48aa-bc31-3a633389e9f5.pdf",
     "productNote": "Product families reviewed in HFCL’s FY 2025–26 annual report and 22 July 2026 results release on 31 October 2026. Fibre, cable, switch, Wi-Fi, radio and network-tower pictures are from HFCL’s own website. The thermal sight, radar and cable-assembly pictures are real photographs from Wikimedia Commons of that type of product, not HFCL’s own, with the photographer credited. Defence products are listed as described by the company.",
     "checked": "31 Oct 2026",

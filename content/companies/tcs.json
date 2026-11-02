@@ -9,8 +9,6 @@
     "color": "#7340a9",
     "bg": "#f2edfc",
     "tag": "Beyond physical products",
-    "summary": "The technology partner helping large organisations run and change their businesses.",
-    "description": "TCS provides technology services, consulting and business solutions to organisations across industries and countries. Its customers are businesses rather than individual shoppers.",
     "products": [
       [
         "AI and Data & Analytics",
@@ -125,48 +123,8 @@
         "Smart-city platform"
       ]
     ],
-    "money": "Clients pay for technology projects and ongoing services. Contract pricing, employee costs and how efficiently teams deliver work all influence profit.",
     "ownership": "Tata Consultancy Services Limited is the listed business covered here. Other Tata group companies are separate businesses; buying TCS shares does not give you direct ownership of the entire Tata group.",
-    "watch": [
-      [
-        "Revenue growth",
-        "Are clients spending more on services, after considering currency changes?"
-      ],
-      [
-        "Operating margin",
-        "How well does pricing cover delivery costs?"
-      ],
-      [
-        "Order book",
-        "New contracts can indicate demand, but are not all immediate revenue."
-      ]
-    ],
-    "risks": [
-      [
-        "Client spending",
-        "Customers can postpone technology projects when their own outlook weakens."
-      ],
-      [
-        "Delivery costs",
-        "Employee and subcontracting costs affect profitability."
-      ],
-      [
-        "Technology shifts",
-        "Automation changes what clients buy and the skills needed to serve them."
-      ]
-    ],
-    "sources": [
-      [
-        "FY 2025–26 annual report",
-        "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2025-26/ar/annual-report-2025-2026.pdf"
-      ]
-    ],
-    "update": [
-      "FY 2025–26 report available",
-      "Use the report to compare industry exposure and results across reporting periods."
-    ],
-    "question": "Does a newly announced contract become revenue immediately?",
-    "answer": "Usually not in full. Revenue is recognised as the company delivers work under the contract; an order book is different from sales already earned.",
+    "sources": [],
     "productSource": "https://www.tcs.com/",
     "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
     "logo": "assets/logos/tcs.svg"

@@ -9,8 +9,6 @@
     "color": "#167a75",
     "bg": "#e9f7f5",
     "tag": "Technology sold to businesses",
-    "summary": "Consulting, digital services and software platforms used by organisations around the world.",
-    "description": "Infosys helps organisations change and operate their technology. Its work includes consulting, software development, cloud, artificial intelligence, engineering and business-process services.",
     "products": [
       [
         "Infosys Topaz",
@@ -105,36 +103,7 @@
         "Cloud-management platform"
       ]
     ],
-    "money": "Clients pay for projects, managed services and software platforms. Revenue depends on client spending and delivery, while employee costs, pricing, utilisation and currency movements influence margins.",
     "ownership": "This profile covers Infosys Limited and its consolidated businesses. Infosys is separate from other Indian technology companies, even when they serve similar clients.",
-    "watch": [
-      [
-        "Client spending",
-        "Are customers starting, expanding or delaying technology programmes?"
-      ],
-      [
-        "Large deals",
-        "How much contracted work is converting into revenue?"
-      ],
-      [
-        "Operating margin",
-        "How effectively do pricing, utilisation and employee costs balance?"
-      ]
-    ],
-    "risks": [
-      [
-        "Demand slowdowns",
-        "Large customers can postpone discretionary technology work."
-      ],
-      [
-        "Talent costs",
-        "Hiring, retention and wages influence delivery capacity and margins."
-      ],
-      [
-        "Technology change",
-        "AI and automation can alter demand, pricing and the skills clients require."
-      ]
-    ],
     "sources": [
       [
         "Infosys company overview",
@@ -149,12 +118,6 @@
         "https://www.infosys.com/products-and-platforms.html"
       ]
     ],
-    "update": [
-      "AI, cloud and core services belong in one picture",
-      "The official portfolio spans consulting and delivery services as well as platforms such as Finacle. A single AI announcement does not describe the full business."
-    ],
-    "question": "Does every large contract announced by Infosys become revenue immediately?",
-    "answer": "No. Revenue is generally recognised as work is delivered. Contract value, timing and reported revenue describe different stages.",
     "productSource": "https://www.infosys.com/products-and-platforms.html",
     "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
     "logo": "assets/logos/infosys.svg"

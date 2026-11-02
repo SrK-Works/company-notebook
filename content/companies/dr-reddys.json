@@ -9,8 +9,6 @@
     "color": "#6944a0",
     "bg": "#f3eefb",
     "tag": "From ingredients to patient products",
-    "summary": "Generics, pharmaceutical services, innovative medicines and consumer health under one company.",
-    "description": "Dr. Reddy's develops and sells generic medicines, supplies active ingredients and pharmaceutical services, works on innovative medicines and participates in consumer health.",
     "products": [
       [
         "Global Generics",
@@ -89,36 +87,7 @@
         "Women’s health"
       ]
     ],
-    "money": "The company earns from medicines sold in India and other markets and from ingredients and services supplied to partners. Product launches, pricing, manufacturing, regulation and research costs influence earnings.",
     "ownership": "This profile covers Dr. Reddy's Laboratories Limited and its consolidated operations. The business mix spans products sold to patients and services or ingredients sold to other companies.",
-    "watch": [
-      [
-        "Market mix",
-        "Which regions and business lines are driving growth?"
-      ],
-      [
-        "Product launches",
-        "Are new approvals replacing products facing competition?"
-      ],
-      [
-        "Compliance",
-        "What do regulators report about manufacturing and quality systems?"
-      ]
-    ],
-    "risks": [
-      [
-        "Regulatory compliance",
-        "Site observations or product issues can disrupt supply."
-      ],
-      [
-        "Generic competition",
-        "Prices can fall quickly after multiple suppliers enter."
-      ],
-      [
-        "Development risk",
-        "Investment in complex or innovative products may not produce expected returns."
-      ]
-    ],
     "sources": [
       [
         "Dr. Reddy's company overview",
@@ -129,12 +98,6 @@
         "https://www.drreddys.com/cms/cms/sites/default/files/2025-06/rdy-20250331.pdf"
       ]
     ],
-    "update": [
-      "Follow each pharmaceutical business separately",
-      "The official overview groups the company into Generics, API & Services, Innovative Medicines and Consumer Health. Each has different economics and risks."
-    ],
-    "question": "Is an active pharmaceutical ingredient the same as a finished medicine?",
-    "answer": "No. An API is the active input used in a medicine. A finished formulation also requires manufacturing, dosage design, packaging and regulatory approval.",
     "productSource": "https://www.drreddys.com/our-business",
     "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
     "logo": "assets/logos/dr-reddys.jpg"

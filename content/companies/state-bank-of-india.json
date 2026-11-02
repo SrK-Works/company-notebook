@@ -9,8 +9,6 @@
     "color": "#1768a8",
     "bg": "#eaf4fc",
     "tag": "A large public-sector bank",
-    "summary": "Deposits, lending, payments and financial services delivered across a broad customer network.",
-    "description": "State Bank of India provides personal, business, agricultural, corporate and international banking. Its website also connects customers to digital services such as YONO.",
     "products": [
       [
         "Savings accounts",
@@ -89,52 +87,13 @@
         "Services for government"
       ]
     ],
-    "money": "SBI earns interest on loans and investments, pays for deposits and other funding, and earns fees. Credit quality, operating costs and the economics of subsidiaries also affect consolidated results.",
     "ownership": "This profile covers State Bank of India. SBI Life, SBI Cards, SBI Mutual Fund and other SBI-named businesses have distinct legal and ownership structures; owning SBI shares is not identical to directly owning each one.",
-    "watch": [
-      [
-        "Loan and deposit growth",
-        "Are lending and funding expanding together?"
-      ],
-      [
-        "Asset quality",
-        "How are bad loans and provisions changing?"
-      ],
-      [
-        "Capital adequacy",
-        "Does the bank have enough capital for its risks and growth?"
-      ]
-    ],
-    "risks": [
-      [
-        "Credit cycle",
-        "Economic stress can increase borrower defaults."
-      ],
-      [
-        "Interest-rate changes",
-        "Rates affect funding costs, loan yields and investment values."
-      ],
-      [
-        "Scale and controls",
-        "A large network requires strong technology, service and risk controls."
-      ]
-    ],
     "sources": [
-      [
-        "SBI about page",
-        "https://sbi.bank.in/web/about-us"
-      ],
       [
         "SBI products and services",
         "https://sbi.bank.in/"
       ]
     ],
-    "update": [
-      "A familiar name covers several legal entities",
-      "SBI’s official page identifies subsidiaries in insurance, cards and asset management. Check which results are consolidated into the bank."
-    ],
-    "question": "Does an SBI-branded credit card automatically mean the card company is wholly owned by SBI?",
-    "answer": "No. Brand relationships and legal ownership are separate questions. Check the listed entity and current shareholding.",
     "productSource": "https://sbi.bank.in/",
     "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
     "logo": "assets/logos/state-bank-of-india.svg"

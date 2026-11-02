@@ -9,8 +9,6 @@
     "color": "#b85d24",
     "bg": "#fff2e9",
     "tag": "Deposits, loans and financial services",
-    "summary": "A diversified bank serving individuals and businesses through branches and digital channels.",
-    "description": "ICICI Bank provides deposits, payments, loans, cards, corporate banking and other financial services. It also has interests in financial-services businesses through subsidiaries and group relationships.",
     "products": [
       [
         "Savings accounts",
@@ -93,52 +91,8 @@
         "Digital banking"
       ]
     ],
-    "money": "The bank earns interest on loans and investments and pays interest on deposits and other funding. Fees add revenue, while credit losses and operating costs reduce profit.",
     "ownership": "This profile covers ICICI Bank Limited. ICICI-branded insurance, securities and asset-management businesses can be separate legal entities or subsidiaries, so their ownership and reporting treatment must be checked.",
-    "watch": [
-      [
-        "Net interest margin",
-        "How much net interest is earned relative to assets?"
-      ],
-      [
-        "Asset quality",
-        "Are borrowers repaying, and how much has the bank provided for possible losses?"
-      ],
-      [
-        "Deposit growth",
-        "Can deposits fund lending at a sustainable cost?"
-      ]
-    ],
-    "risks": [
-      [
-        "Credit losses",
-        "Borrowers may not repay as expected."
-      ],
-      [
-        "Funding pressure",
-        "Competition for deposits can raise funding costs."
-      ],
-      [
-        "Operational and regulatory risk",
-        "Controls, technology and compliance failures can damage the bank and its customers."
-      ]
-    ],
-    "sources": [
-      [
-        "ICICI Bank company history",
-        "https://www.icici.bank.in/about-us"
-      ],
-      [
-        "ICICI Bank annual reports",
-        "https://www.icici.bank.in/about-us/annual"
-      ]
-    ],
-    "update": [
-      "Separate the bank from the wider group",
-      "The official company page lists several related financial businesses. Their familiar ICICI name does not make them the same listed entity."
-    ],
-    "question": "Are customer deposits revenue for ICICI Bank?",
-    "answer": "No. Deposits are funding the bank owes customers. Interest income and fees are revenue, while interest paid and credit losses are important costs.",
+    "sources": [],
     "productSource": "https://www.icici.bank.in/home",
     "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
     "logo": "assets/logos/icici-bank.svg"

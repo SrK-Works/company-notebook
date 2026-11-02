@@ -9,8 +9,6 @@
     "color": "#244776",
     "bg": "#ebf0f8",
     "tag": "Understanding a different business model",
-    "summary": "A bank connecting deposits, lending, payments and services for people and businesses.",
-    "description": "HDFC Bank offers accounts, deposits, loans, cards and banking services to personal and business customers. Its product directory illustrates both lending and transaction services.",
     "products": [
       [
         "Savings accounts",
@@ -97,48 +95,8 @@
         "Third-party financial products"
       ]
     ],
-    "money": "A bank earns interest on loans and other earning assets, while paying interest on funding. It also earns fees. Credit losses and operating expenses affect how much becomes profit.",
     "ownership": "The listed entity is HDFC Bank Limited. A financial product distributed by the bank is not automatically manufactured by it; check the provider and the specific group relationship.",
-    "watch": [
-      [
-        "Net interest margin",
-        "How much net interest does the bank earn relative to earning assets?"
-      ],
-      [
-        "Bad loans",
-        "Are borrowers keeping up with payments?"
-      ],
-      [
-        "Deposit growth",
-        "Can the bank attract funding at a sustainable cost?"
-      ]
-    ],
-    "risks": [
-      [
-        "Credit losses",
-        "Borrowers may fail to repay loans."
-      ],
-      [
-        "Funding costs",
-        "Paying more for deposits can reduce interest margins."
-      ],
-      [
-        "Operational risk",
-        "Service disruptions and control failures can hurt customers and the business."
-      ]
-    ],
-    "sources": [
-      [
-        "HDFC Bank business overview",
-        "https://www.hdfc.bank.in/about-us/our-businesses"
-      ]
-    ],
-    "update": [
-      "Banking needs different measures",
-      "Compare lending, funding and credit quality together. A bank’s financial statements should not be read like a packaged-food company’s."
-    ],
-    "question": "Is the money customers deposit into a bank the bank’s revenue?",
-    "answer": "No. A deposit is money the bank owes the customer. Interest and fees earned are different from customer deposit balances.",
+    "sources": [],
     "productSource": "https://www.hdfc.bank.in/about-us",
     "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
     "logo": "assets/logos/hdfc-bank.svg"

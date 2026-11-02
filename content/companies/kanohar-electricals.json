@@ -9,8 +9,6 @@
     "color": "#65518c",
     "bg": "#f2eef8",
     "tag": "The business behind the offering",
-    "summary": "Transformers, gas-insulated switchgear, substations and transmission-line projects.",
-    "description": "Kanohar Electricals manufactures equipment that changes voltage levels or controls power flow in electricity networks and railway systems. It also executes substation and transmission projects. The business combines customised manufacturing, testing and delivery with engineering and construction services.",
     "ownership": "This profile covers Kanohar Electricals Limited. It supplies equipment and project services to the power system; it is not itself a consumer electricity distribution utility. Equipment orders and EPC projects can have different cash and risk profiles.",
     "products": [
       [
@@ -50,54 +48,11 @@
         "Equipment lifecycle services"
       ]
     ],
-    "money": "It earns from supplying transformers and other equipment and from executing engineering, procurement and construction contracts. Steel, copper and other inputs, factory utilisation, test approvals, delivery and milestone collections affect earnings.",
-    "watch": [
-      [
-        "Order book and deliveries",
-        "Are equipment orders and EPC milestones being executed on time?"
-      ],
-      [
-        "Working capital",
-        "How much cash is needed for materials, work in progress and customer receivables?"
-      ],
-      [
-        "Mix and input costs",
-        "How do product mix and metal prices influence margins?"
-      ]
-    ],
-    "risks": [
-      [
-        "Project and approval delays",
-        "Customer inspections, site readiness and grid projects can delay deliveries."
-      ],
-      [
-        "Material-price exposure",
-        "Copper, steel and other inputs can move before a contract is completed."
-      ],
-      [
-        "Quality and warranty",
-        "Equipment failures and warranty claims can be costly and harm customer relationships."
-      ]
-    ],
-    "question": "Why can a transformer manufacturer need cash even with a strong order book?",
-    "answer": "It may have to purchase materials and manufacture equipment before delivery, customer inspection and milestone payments release cash.",
     "sources": [
-      [
-        "Kanohar official business overview",
-        "https://www.kanohar.com/"
-      ],
-      [
-        "Transformer product families",
-        "https://www.kanohar.com/transformers"
-      ],
       [
         "NSE company filing — KANOHAR",
         "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_INDAS_199809_06102026210522_iXBRL_WEB.html"
       ]
-    ],
-    "update": [
-      "Equipment supply and project execution are related, but different",
-      "Read transformer deliveries, EPC milestones, input costs and collections together when assessing how orders become earnings."
     ],
     "productSource": "https://www.kanohar.com/",
     "productNote": "Major offering families reviewed on 27 October 2026. Variants, locations and individual models are grouped; availability can vary.",

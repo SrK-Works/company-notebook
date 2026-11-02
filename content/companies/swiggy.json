@@ -9,8 +9,6 @@
     "color": "#ad5536",
     "bg": "#fff1e8",
     "tag": "The business behind the offering",
-    "summary": "Food delivery, Instamart quick commerce, dining-out and other convenience services.",
-    "description": "Swiggy connects consumers with restaurant and merchant partners and delivery networks. Its major consumer services include food delivery, Instamart and Dineout. Memberships, faster-delivery formats and other features sit around these services; they are not all separate operating segments.",
     "ownership": "This profile covers Swiggy Limited. Its restaurant and grocery partners are not automatically owned by Swiggy. Older business pages mention Genie, Minis and Lynks; the current list here excludes those legacy or disposed businesses.",
     "products": [
       [
@@ -54,54 +52,11 @@
         "Delivery for rail journeys · selected locations"
       ]
     ],
-    "money": "Revenue can include marketplace commissions, service and delivery fees, advertising, memberships and sales within relevant businesses. Delivery density, incentives, fulfilment spending and store expansion affect profitability. Order value is distinct from recognised revenue.",
-    "watch": [
-      [
-        "Food-delivery contribution",
-        "Are order growth and operating discipline improving the money retained per order?"
-      ],
-      [
-        "Instamart store economics",
-        "Are basket sizes and orders per store supporting fulfilment costs?"
-      ],
-      [
-        "Cash and competitive intensity",
-        "How much funding is used for expansion and customer incentives?"
-      ]
-    ],
-    "risks": [
-      [
-        "Pricing competition",
-        "Incentives can attract orders without creating sustainable profit."
-      ],
-      [
-        "Operational execution",
-        "Food safety, merchant availability and delivery reliability influence customer trust."
-      ],
-      [
-        "New-business spending",
-        "Expansion can increase losses before volumes cover costs."
-      ]
-    ],
-    "question": "Why can growing order value coexist with operating losses?",
-    "answer": "The fees and margins earned on orders may still be smaller than delivery, store, staff, technology, marketing and expansion costs.",
     "sources": [
-      [
-        "Swiggy business overview",
-        "https://www.swiggy.com/corporate/our-business/"
-      ],
       [
         "FY26 shareholder letter — current service formats",
         "https://www.swiggy.com/corporate/wp-content/uploads/2026/05/Covering-Letter_Letter-to-Shareholders_Signed.pdf"
-      ],
-      [
-        "Current corporate announcements and Lynks disposal",
-        "https://www.swiggy.com/corporate/governance/corporate-announcements/"
       ]
-    ],
-    "update": [
-      "Use current disclosures alongside the brand directory",
-      "The corporate announcements record the completion of the Lynks disposal in October 2026. Legacy website entries should not be read as a current ownership list."
     ],
     "productSource": "https://www.swiggy.com/corporate/our-business/",
     "productNote": "Major offering families reviewed on 27 October 2026. Variants, locations and individual models are grouped; availability can vary.",

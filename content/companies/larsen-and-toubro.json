@@ -9,8 +9,6 @@
     "color": "#286397",
     "bg": "#edf5fb",
     "tag": "Projects that take years to deliver",
-    "summary": "Engineering, construction and manufacturing activities behind large infrastructure and industrial projects.",
-    "description": "Larsen & Toubro works across engineering, procurement, construction, manufacturing and services. Its projects can include transportation, buildings, water, energy and industrial infrastructure.",
     "products": [
       [
         "Buildings and Factories",
@@ -113,52 +111,8 @@
         "Development project"
       ]
     ],
-    "money": "Customers pay as projects and services are delivered. Order intake, execution milestones, working capital, project costs and contract terms determine how orders become revenue, cash and profit.",
     "ownership": "This profile covers Larsen & Toubro Limited and its consolidated group. Some L&T-associated businesses are separately listed subsidiaries, so study the parent and each listed entity separately.",
-    "watch": [
-      [
-        "Order book",
-        "How much work is contracted, and when is it expected to execute?"
-      ],
-      [
-        "Project margins",
-        "Are costs and contract terms supporting profitable delivery?"
-      ],
-      [
-        "Working capital",
-        "How quickly do billed amounts and project spending turn into cash?"
-      ]
-    ],
-    "risks": [
-      [
-        "Execution overruns",
-        "Delays and cost increases can reduce project profit."
-      ],
-      [
-        "Customer concentration",
-        "Large public or private customers can affect payment timing."
-      ],
-      [
-        "Order quality",
-        "A large order book is less useful if pricing or contract risk is poor."
-      ]
-    ],
-    "sources": [
-      [
-        "L&T group overview",
-        "https://www.larsentoubro.com/corporate/about-lt-group"
-      ],
-      [
-        "FY 2025–26 corporate overview",
-        "https://investors.larsentoubro.com/upload/AnnualRep/FY2026AnnualRepLNTIARFY2026.pdf"
-      ]
-    ],
-    "update": [
-      "Orders are the beginning of the story",
-      "An order book indicates contracted opportunity. Execution, cost control and collection determine the financial outcome."
-    ],
-    "question": "Is L&T’s order book the same as revenue already earned?",
-    "answer": "No. The order book represents work yet to be executed. Revenue is recognised as contractual work is performed under applicable accounting rules.",
+    "sources": [],
     "productSource": "https://www.larsentoubro.com/hyderabad-metro",
     "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
     "logo": "assets/logos/larsen-and-toubro.svg"

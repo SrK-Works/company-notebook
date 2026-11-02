@@ -9,8 +9,6 @@
     "color": "#65518c",
     "bg": "#f2eef8",
     "tag": "The business behind the offering",
-    "summary": "Thermal imaging and electro-optical systems used for surveillance, sensing and defence applications.",
-    "description": "Tonbo Imaging designs and makes systems that combine sensors, optics, electronics and image processing. Its portfolio spans thermal cameras, sights, surveillance equipment and integrated defence systems. Buyers include defence organisations and equipment manufacturers; these are specialised procurement markets rather than everyday retail.",
     "ownership": "This profile covers Tonbo Imaging India Limited. Products shown on its official defence site include both imaging equipment and integrated systems. An announced platform or technology is not evidence of a booked customer order.",
     "products": [
       [
@@ -74,37 +72,6 @@
         "Components for other manufacturers"
       ]
     ],
-    "money": "It earns from supplying specialised equipment and integrated systems. Engineering, manufacturing, qualification, delivery schedules and after-sales support influence margins. A long procurement cycle can make revenue uneven between quarters.",
-    "watch": [
-      [
-        "Order conversion",
-        "Are announced requirements becoming signed orders and completed deliveries?"
-      ],
-      [
-        "Customer concentration",
-        "How dependent is revenue on a small number of defence customers or programmes?"
-      ],
-      [
-        "Cash collection",
-        "Do customer payments keep pace with inventory and project spending?"
-      ]
-    ],
-    "risks": [
-      [
-        "Procurement delays",
-        "Testing, approvals and budget decisions can shift delivery timing."
-      ],
-      [
-        "Technology and qualification",
-        "Products need reliable performance and may require sustained development spending."
-      ],
-      [
-        "Export and supply restrictions",
-        "Licences and specialised component availability can affect contracts and deliveries."
-      ]
-    ],
-    "question": "Does demonstrating a new imaging system automatically create revenue?",
-    "answer": "No. A demonstration must be followed by qualification, an order, delivery and the relevant revenue-recognition conditions.",
     "sources": [
       [
         "Tonbo Imaging company overview",
@@ -118,10 +85,6 @@
         "Exchange directory — TONBO, ISIN INE0LDG01026",
         "https://www.msei.in/corporates/corporate-securities-information/company-directory"
       ]
-    ],
-    "update": [
-      "Separate product capability from commercial delivery",
-      "The product directory describes capabilities. Use financial disclosures to check orders, delivery and cash collection."
     ],
     "productSource": "https://tonboimaging.com/main/",
     "productNote": "Major offering families reviewed on 27 October 2026. Variants, locations and individual models are grouped; availability can vary.",

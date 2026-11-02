@@ -9,8 +9,6 @@
     "color": "#65518c",
     "bg": "#f2eef8",
     "tag": "The business behind the offering",
-    "summary": "Architectural façades, glass curtain walls, louvers and external cladding for buildings.",
-    "description": "Glass Wall Systems designs, manufactures and installs building-envelope systems. Its façades form the outer skin of residential, commercial and hospitality buildings. It combines engineering and fabrication with project execution, so a building project’s timing matters to both revenue and cash collection.",
     "ownership": "This profile covers Glass Wall Systems (India) Limited. Its clients and named project buildings are not subsidiaries merely because they appear in the project portfolio. It supplies façade solutions rather than being a general glass retailer.",
     "products": [
       [
@@ -38,54 +36,15 @@
         "On-site delivery service"
       ]
     ],
-    "money": "It earns from façade-engineering and supply-and-installation contracts. Project progress, material procurement, installation productivity, retention amounts and collection timing affect margins and operating cash flow.",
-    "watch": [
-      [
-        "Orders and execution",
-        "Does the order pipeline turn into completed, billed work on schedule?"
-      ],
-      [
-        "Materials and margins",
-        "Are aluminium, glass and other input costs reflected in contract pricing?"
-      ],
-      [
-        "Collections and retention",
-        "How much cash remains tied up until milestones or project completion?"
-      ]
-    ],
-    "risks": [
-      [
-        "Construction delays",
-        "Client approvals, site readiness and project funding can delay installation."
-      ],
-      [
-        "Cost overruns",
-        "Custom engineering and material-price changes can reduce contract profitability."
-      ],
-      [
-        "Quality and safety obligations",
-        "Façade performance, installation safety and warranty claims create execution risk."
-      ]
-    ],
-    "question": "Does a large façade order book mean the same amount of cash is already in the bank?",
-    "answer": "No. Orders still need to be executed, billed and collected, and some payments may be retained until completion or other contractual conditions are met.",
     "sources": [
       [
         "Glass Wall Systems product directory",
         "https://www.glasswallsystems.in/products"
       ],
       [
-        "Design and fabrication facilities",
-        "https://www.glasswallsystems.in/facility/"
-      ],
-      [
         "NSE company filing — GLASSWALL",
         "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_INDAS_199797_06102026201750_iXBRL_WEB.html"
       ]
-    ],
-    "update": [
-      "A project portfolio shows capability, not ownership",
-      "Buildings on the website illustrate projects supplied by the company. Assess execution, margins and receivables separately."
     ],
     "productSource": "https://www.glasswallsystems.in/products",
     "productNote": "Major offering families reviewed on 27 October 2026. Variants, locations and individual models are grouped; availability can vary.",

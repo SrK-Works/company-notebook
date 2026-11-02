@@ -9,8 +9,6 @@
     "color": "#3d5a99",
     "bg": "#eceff9",
     "tag": "The business behind the offering",
-    "summary": "Genus Power makes electricity meters and, increasingly, installs and runs smart-meter systems for state electricity distribution companies.",
-    "description": "A traditional electricity meter counts how much power a home uses, and someone has to read it before a bill can be sent. A smart prepaid meter sends its readings automatically over a network, lets a household pay in advance, and shows the electricity company in close to real time how much power is used and lost. Genus Power makes meters in factories in Rajasthan, Uttarakhand and Assam. It has also taken on a larger job: for electricity distribution companies, it supplies, installs, runs and maintains smart-meter systems for years, and is paid over the life of each contract.",
     "ownership": "This profile covers Genus Power Infrastructures Limited, based in Jaipur, Rajasthan. It makes electricity, gas and water meters, and runs smart-meter projects through its own project companies. It does not generate or sell electricity to households. Many projects are held in separate project companies, so the group’s accounts combine more than one entity.",
     "products": [
       [
@@ -50,79 +48,7 @@
         "Plants in Rajasthan, Uttarakhand and Assam"
       ]
     ],
-    "money": "Genus earns money by selling meters and equipment, and by being paid over several years to install, run and maintain smart-meter systems. The second kind of payment arrives gradually, so Genus must pay for meters, fitting and software first, often with borrowed money. Its costs include electronic parts, factory and installation work, software, bank guarantees (a bank’s promise to pay the customer if Genus fails to deliver, which Genus pays for) and interest on its loans.",
-    "watch": [
-      [
-        "Are utilities paying Genus on time?",
-        "Slow payment from DISCOMs ties up cash and raises borrowing."
-      ],
-      [
-        "How much is Genus borrowing, and what does it cost?",
-        "Projects need money first, and interest is paid whether or not customers pay."
-      ],
-      [
-        "Is the order book becoming installed meters and billed work?",
-        "Awarded work only becomes revenue as it is carried out and accepted."
-      ],
-      [
-        "Do projects earn enough over their full life?",
-        "Payments arrive slowly but costs come first."
-      ],
-      [
-        "How does the company use its cash?",
-        "Cash spent on a buyback or dividends cannot be used for projects."
-      ]
-    ],
-    "risks": [
-      [
-        "Utilities pay late or not in full",
-        "The report lists delayed collections from utilities as a financial risk, and slower payments increase Genus’s need for borrowing."
-      ],
-      [
-        "Government scheme or funding changes",
-        "A large part of demand comes from one government programme, so changes to its funding, deadlines or rules matter."
-      ],
-      [
-        "Installation delays and customer resistance",
-        "Fitting millions of meters in homes depends on access, local approval and skilled crews, and delays raise costs."
-      ],
-      [
-        "Competition and low tender prices",
-        "Contracts are won by bidding, and aggressive bids from rivals can reduce what Genus earns on a project."
-      ],
-      [
-        "Technology and cybersecurity failures",
-        "Smart meters rely on networks and software, so failures or attacks can affect many customers at once."
-      ],
-      [
-        "Heavy financing",
-        "High borrowing makes the business sensitive to interest rates and delays in being paid."
-      ]
-    ],
-    "sources": [
-      [
-        "FY 2025–26 annual report (NSE filing)",
-        "https://nsearchives.nseindia.com/annual_reports/AR_31250_GENUSPOWER_2025_2026_A_7862122_03092026171428.pdf"
-      ],
-      [
-        "Results presentation · 19 May 2026 (NSE filing)",
-        "https://nsearchives.nseindia.com/corporate/GENUSPOWER_19052026115652_IP_signed.pdf"
-      ],
-      [
-        "Board-meeting notice on buyback proposal · 19 October 2026 (NSE filing)",
-        "https://nsearchives.nseindia.com/corporate/GENUSPOWER_19102026170143_Intimation_signed.pdf"
-      ],
-      [
-        "Genus Power investor announcements page",
-        "https://genuspower.com/investor/"
-      ]
-    ],
-    "update": [
-      "October 2026: the board considered a share buyback",
-      "Genus Power’s board-meeting notice of 19 October 2026 said its board would consider a proposal to buy back its shares, and its investor page lists a board resolution passed on 26 October 2026. News reports describe an approved buyback of a small share of its shares through a tender offer, in which shareholders choose whether to sell. Read the exchange filing for the exact terms, which this lesson does not state. A buyback uses the company’s own cash and does not grow the business, so ask what else the money could have done. Genus’s annual report says its borrowings rose sharply in FY 2025–26 to fund a larger order book. The full-year figures at the end of this page cover an earlier period."
-    ],
-    "question": "If a company spends its cash buying back its own shares, has its business grown?",
-    "answer": "No. A buyback reduces the number of shares but does not add customers, factories or sales. Whether it is sensible depends on the cash available and what else the company could do with the money, such as repay borrowing or fund new projects.",
+    "sources": [],
     "productSource": "https://nsearchives.nseindia.com/annual_reports/AR_31250_GENUSPOWER_2025_2026_A_7862122_03092026171428.pdf",
     "productNote": "Product and service families reviewed in Genus Power’s FY 2025–26 annual report on 31 October 2026. Meter, gateway, vending-software and factory pictures are from Genus’s own website. The meter-installation picture is a real photograph from Wikimedia Commons of that kind of work, not Genus’s own, with the photographer credited. The smart-meter-projects card remains a labelled original illustration.",
     "checked": "31 Oct 2026",

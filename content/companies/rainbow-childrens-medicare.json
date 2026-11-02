@@ -9,8 +9,6 @@
     "color": "#247d88",
     "bg": "#eaf7f8",
     "tag": "The business behind the offering",
-    "summary": "Specialist hospitals and clinics focused on children, maternity, women’s health and fertility care.",
-    "description": "Rainbow Children’s Medicare operates a specialist hospital network. Rainbow Children’s Hospital focuses on paediatric services, while its women’s and fertility services include maternity, high-risk pregnancy and assisted reproduction. Intensive care and specialist referrals are important parts of the clinical model.",
     "ownership": "This profile covers Rainbow Children’s Medicare Limited, the listed company behind Rainbow Children’s Hospital and BirthRight by Rainbow. Each hospital has its own service capabilities; the group directory is not a promise of availability at every location.",
     "products": [
       [
@@ -78,51 +76,7 @@
         "Children’s respiratory care"
       ]
     ],
-    "money": "It earns from admissions, consultations, procedures, diagnostics and specialist maternity and fertility services. Occupancy, case complexity, clinician availability and the time taken for new hospitals to mature influence earnings.",
-    "watch": [
-      [
-        "Capacity utilisation",
-        "Are mature hospitals and newer locations using their beds effectively?"
-      ],
-      [
-        "Clinical mix",
-        "How are paediatrics, maternity and fertility contributing to the business?"
-      ],
-      [
-        "Expansion returns",
-        "Is new capacity generating cash after equipment and staffing costs?"
-      ]
-    ],
-    "risks": [
-      [
-        "Specialist availability",
-        "A focused clinical model depends on recruiting and retaining skilled teams."
-      ],
-      [
-        "New-hospital ramp-up",
-        "Patient referrals and volumes can take time to develop."
-      ],
-      [
-        "Clinical quality and regulation",
-        "Safety, outcomes and compliance are essential to patient trust and continuity."
-      ]
-    ],
-    "question": "Does a higher bed count alone show a hospital business is improving?",
-    "answer": "No. Occupancy, clinical mix, service quality, costs and the return on new capacity also matter.",
-    "sources": [
-      [
-        "Rainbow clinical service directory",
-        "https://www.rainbowhospitals.in/"
-      ],
-      [
-        "Official investor relations and exchange listing",
-        "https://www.rainbowhospitals.in/investors-relations/financials"
-      ]
-    ],
-    "update": [
-      "A specialist network has a different mix of demand",
-      "Read paediatric, maternity and fertility services together with hospital maturity and occupancy. These business notes are not treatment recommendations."
-    ],
+    "sources": [],
     "productSource": "https://www.rainbowhospitals.in/",
     "productNote": "Major offering families reviewed on 27 October 2026. Variants, locations and individual models are grouped; availability can vary.",
     "checked": "27 Oct 2026",

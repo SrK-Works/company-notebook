@@ -9,8 +9,6 @@
     "color": "#28714b",
     "bg": "#edf7ef",
     "tag": "The business behind the offering",
-    "summary": "The dairy business behind Gowardhan, Go, Pride of Cows, Topp Up and Avvatar.",
-    "description": "Parag Milk Foods processes milk into consumer and institutional dairy products. It sells traditional dairy foods, cheese, beverages, premium milk and whey-based nutrition through several brands. The same milk supply can produce a mix of products with different selling prices, shelf lives and distribution needs.",
     "ownership": "This profile covers Parag Milk Foods Limited. Its dairy brands are different from unrelated companies that use the word Parag. Brand imagery identifies offerings and does not imply a nutritional or medical endorsement.",
     "products": [
       [
@@ -82,42 +80,7 @@
         "Dairy-based dessert mix"
       ]
     ],
-    "money": "It earns from dairy-product sales across retail, institutional and other channels. Milk procurement costs, product mix, manufacturing efficiency and distribution determine the profit left from those sales.",
-    "watch": [
-      [
-        "Milk procurement cost",
-        "How fast are raw-milk costs changing relative to selling prices?"
-      ],
-      [
-        "Value-added product mix",
-        "Are cheese, premium dairy and nutrition products contributing profitable growth?"
-      ],
-      [
-        "Working capital",
-        "How much cash is tied up in milk-powder inventory and customer credit?"
-      ]
-    ],
-    "risks": [
-      [
-        "Milk supply and pricing",
-        "Seasonality and procurement competition can change input costs."
-      ],
-      [
-        "Perishability and quality",
-        "Cold-chain failures and product-quality issues can damage sales and reputation."
-      ],
-      [
-        "Inventory exposure",
-        "Dairy commodity prices can affect the value and profitability of stored products."
-      ]
-    ],
-    "question": "Why can cheese and whey nutrition change the economics of a dairy company?",
-    "answer": "They change the mix of products obtained from milk and may earn different margins, while requiring their own processing, branding and distribution spending.",
     "sources": [
-      [
-        "Parag Milk Foods brands",
-        "https://www.paragmilkfoods.com/our-brands.php"
-      ],
       [
         "Gowardhan ghee",
         "https://www.paragmilkfoods.com/gowardhan-ghee.php"
@@ -125,15 +88,7 @@
       [
         "Go cheese portfolio",
         "https://www.paragmilkfoods.com/go-cheese.php"
-      ],
-      [
-        "Company investor disclosures",
-        "https://www.paragmilkfoods.com/investors.php"
       ]
-    ],
-    "update": [
-      "A milk company is also a product-mix business",
-      "Consider milk procurement, the mix of branded and institutional products, and inventory together. A popular dairy brand alone does not determine stock value."
     ],
     "productSource": "https://www.paragmilkfoods.com/our-brands.php",
     "productNote": "Major offering families reviewed on 27 October 2026. Variants, locations and individual models are grouped; availability can vary.",

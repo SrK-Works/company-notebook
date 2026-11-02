@@ -9,8 +9,6 @@
     "color": "#a93743",
     "bg": "#fff0f1",
     "tag": "Medicines across several markets",
-    "summary": "A pharmaceutical company spanning specialty medicines, generics and consumer healthcare.",
-    "description": "Sun Pharma develops, manufactures and markets pharmaceutical products across chronic and acute therapies. Its portfolio includes specialty medicines, generics, branded generics, over-the-counter products and active pharmaceutical ingredients.",
     "products": [
       [
         "Specialty medicines",
@@ -77,52 +75,13 @@
         "Throat-care consumer health"
       ]
     ],
-    "money": "Revenue comes from selling medicines and pharmaceutical ingredients across markets. Product approvals, competition, pricing, manufacturing quality and research spending shape profit and cash flow.",
     "ownership": "This profile covers Sun Pharmaceutical Industries Limited and its consolidated group. A medicine sold by a subsidiary can sit within the group, while a distributed or licensed product may involve another owner.",
-    "watch": [
-      [
-        "Product mix",
-        "How much growth comes from specialty products, generics and different markets?"
-      ],
-      [
-        "Research pipeline",
-        "Are development investments producing approved products?"
-      ],
-      [
-        "Regulatory quality",
-        "Are manufacturing sites meeting the standards of each market?"
-      ]
-    ],
-    "risks": [
-      [
-        "Regulatory action",
-        "Quality failures can lead to warnings, recalls or sales restrictions."
-      ],
-      [
-        "Price competition",
-        "Generic medicine prices can fall when competitors enter."
-      ],
-      [
-        "Research uncertainty",
-        "Development spending does not guarantee approval or commercial success."
-      ]
-    ],
     "sources": [
       [
         "Sun Pharma company overview",
         "https://sunpharma.com/about-us/"
-      ],
-      [
-        "Sun Pharma product portfolio",
-        "https://sunpharma.com/products/"
       ]
     ],
-    "update": [
-      "Products are broader than familiar OTC brands",
-      "The official portfolio spans specialty, generic and active-ingredient businesses across many countries."
-    ],
-    "question": "Why can a medicine company spend on research without generating a successful new product?",
-    "answer": "Drug development and approval are uncertain. A project can fail scientifically, commercially or during regulatory review.",
     "productSource": "https://sunpharma.com/products/",
     "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
     "logo": "assets/logos/sun-pharma.png"

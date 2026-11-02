@@ -9,8 +9,6 @@
     "color": "#8a6030",
     "bg": "#faf2e7",
     "tag": "Lifestyle brands and retail",
-    "summary": "Jewellery, watches, eyewear and newer lifestyle categories sold through recognised brands and stores.",
-    "description": "Titan Company operates lifestyle businesses led by jewellery, watches and wearables, and eyewear. It also participates in fragrances, fashion accessories and other newer categories.",
     "products": [
       [
         "Tanishq",
@@ -109,36 +107,7 @@
         "Bags and accessories"
       ]
     ],
-    "money": "Customers buy products through stores and other channels. Store growth, jewellery demand, gold prices, product mix, inventory and brand investment all influence revenue and returns.",
     "ownership": "Titan Company Limited is the listed entity. It is associated with the Tata group and TIDCO, but buying Titan shares does not provide direct ownership of other Tata companies.",
-    "watch": [
-      [
-        "Jewellery growth",
-        "How are same-store sales, new stores and product mix changing?"
-      ],
-      [
-        "Inventory and cash",
-        "How much capital is tied up in jewellery and retail expansion?"
-      ],
-      [
-        "New businesses",
-        "Are smaller categories moving toward sustainable profitability?"
-      ]
-    ],
-    "risks": [
-      [
-        "Gold and demand volatility",
-        "Gold prices and discretionary spending can affect jewellery purchases."
-      ],
-      [
-        "Execution",
-        "A larger store network requires inventory, people and consistent customer experience."
-      ],
-      [
-        "Competition",
-        "Local jewellers and national brands compete on trust, design and pricing."
-      ]
-    ],
     "sources": [
       [
         "Titan company overview",
@@ -149,12 +118,6 @@
         "https://www.titancompany.in/titan-overview"
       ]
     ],
-    "update": [
-      "The watch brand is only one part of Titan",
-      "Titan’s official overview identifies jewellery, watches and eyewear as major categories, alongside newer lifestyle businesses."
-    ],
-    "question": "Can rising gold prices increase jewellery revenue without meaningfully increasing jewellery volume?",
-    "answer": "Yes. A higher value per gram can lift reported sales even if customers buy similar or lower quantities. Volume and value need separate attention.",
     "productSource": "https://www.titancompany.in/our-brands",
     "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
     "logo": "assets/logos/titan-company.png"

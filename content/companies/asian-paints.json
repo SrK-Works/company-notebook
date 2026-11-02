@@ -9,8 +9,6 @@
     "color": "#854ba8",
     "bg": "#f3ecf9",
     "tag": "A business behind your walls",
-    "summary": "Paints and finishes that connect home improvement with a manufacturing business.",
-    "description": "Asian Paints offers paint products across different surfaces, finishes and price points. Its ranges give homeowners and painters choices for decorating and protecting surfaces.",
     "products": [
       [
         "Royale",
@@ -105,36 +103,7 @@
         "Home services"
       ]
     ],
-    "money": "Sales depend on painting demand, product selection and distribution. Manufacturing and selling higher-value products can change earnings, but so can raw-material and marketing costs.",
     "ownership": "Asian Paints Limited is the listed company covered here. Individual product ranges such as Royale and Tractor are part of its offering, not separate listed companies.",
-    "watch": [
-      [
-        "Volume growth",
-        "Is the quantity of paint sold increasing?"
-      ],
-      [
-        "Product mix",
-        "Are customers choosing premium or economy products?"
-      ],
-      [
-        "Operating margin",
-        "Can the company defend profit while competing on price and service?"
-      ]
-    ],
-    "risks": [
-      [
-        "Competition",
-        "New capacity and competing brands can put pressure on pricing and dealer relationships."
-      ],
-      [
-        "Input costs",
-        "Ingredients and packaging influence manufacturing costs."
-      ],
-      [
-        "Painting demand",
-        "Home improvement can be postponed when household budgets tighten."
-      ]
-    ],
     "sources": [
       [
         "Tractor paint and related ranges",
@@ -145,12 +114,6 @@
         "https://www.asianpaints.com/content/dam/asianpaints/website/secondary-navigation/investors/analyst-presentations-2/2024-2025/InvestorsPresentation_PDF_copy.pdf"
       ]
     ],
-    "update": [
-      "Distinguish products from performance",
-      "The product catalogue explains the offering. Financial reports are needed to establish the current sales and earnings mix."
-    ],
-    "question": "Does a premium paint selling at a higher price guarantee higher company profit?",
-    "answer": "No. Production costs, selling expenses, discounts and the amount sold also influence profit.",
     "productSource": "https://www.asianpaints.com/products/product-template.html",
     "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
     "logo": "assets/logos/asian-paints.svg"

@@ -9,8 +9,6 @@
     "color": "#444f8f",
     "bg": "#eef0fa",
     "tag": "The network between generators and users",
-    "summary": "High-voltage transmission infrastructure that moves electricity across regions.",
-    "description": "POWERGRID builds, owns and operates electricity transmission networks. It carries power over high-voltage lines and substations and also provides telecom and consultancy services.",
     "products": [
       [
         "Interstate transmission",
@@ -57,52 +55,8 @@
         "Transmission development"
       ]
     ],
-    "money": "The company earns regulated transmission charges and income from related services. Network availability, approved returns, capital projects, borrowing costs and collections influence performance.",
     "ownership": "This profile covers Power Grid Corporation of India Limited. It is a transmission company; electricity generation and household distribution are generally performed by other entities.",
-    "watch": [
-      [
-        "Asset commissioning",
-        "Are new transmission projects entering service on schedule?"
-      ],
-      [
-        "Network availability",
-        "Is the system meeting required operating performance?"
-      ],
-      [
-        "Capital and regulation",
-        "How do approved returns and borrowing costs affect new investment?"
-      ]
-    ],
-    "risks": [
-      [
-        "Project delays",
-        "Land, approvals and construction issues can postpone revenue."
-      ],
-      [
-        "Regulatory returns",
-        "Changes in tariff rules can affect project economics."
-      ],
-      [
-        "Capital intensity",
-        "A large infrastructure programme creates financing and execution risk."
-      ]
-    ],
-    "sources": [
-      [
-        "POWERGRID company overview",
-        "https://www.powergrid.in/en/company-overview"
-      ],
-      [
-        "POWERGRID official website",
-        "https://www.powergrid.in/"
-      ]
-    ],
-    "update": [
-      "Transmission is different from generation",
-      "POWERGRID mainly moves electricity through its network. It should be analysed differently from a company that produces electricity."
-    ],
-    "question": "Does POWERGRID earn money mainly by selling electricity it generates?",
-    "answer": "No. Its central business is transmitting electricity through its network and earning transmission charges; generators produce the power.",
+    "sources": [],
     "productSource": "https://www.powergrid.in/en/company-overview",
     "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
     "logo": "assets/logos/power-grid.svg"

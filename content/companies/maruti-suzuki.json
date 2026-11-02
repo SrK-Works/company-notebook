@@ -9,8 +9,6 @@
     "color": "#24569a",
     "bg": "#eaf3fd",
     "tag": "From the road to the business",
-    "summary": "Passenger vehicles, sales channels and services built around car ownership.",
-    "description": "Maruti Suzuki India sells vehicles through its ARENA and NEXA channels and provides related ownership services. Its website also covers commercial vehicles, parts and accessories.",
     "products": [
       [
         "Alto K10",
@@ -117,52 +115,13 @@
         "Vehicle service"
       ]
     ],
-    "money": "Selling vehicles is central to the business. Unit sales, the type of vehicles sold, discounts and production costs help explain changes in earnings.",
     "ownership": "This profile covers Maruti Suzuki India Limited. ARENA and NEXA are sales channels, not independent listed car manufacturers. Do not confuse the Indian entity with the worldwide Suzuki group.",
-    "watch": [
-      [
-        "Unit sales",
-        "Separate the number of vehicles sold from their selling prices."
-      ],
-      [
-        "Vehicle mix",
-        "Different models and categories have different economics."
-      ],
-      [
-        "Capacity use",
-        "Factories need sufficient demand to use investments efficiently."
-      ]
-    ],
-    "risks": [
-      [
-        "Purchase cycles",
-        "Cars are large purchases that customers may defer."
-      ],
-      [
-        "Competition",
-        "Rival models and discounts can affect demand and margins."
-      ],
-      [
-        "Production costs",
-        "Materials, components and investment needs influence cash generation."
-      ]
-    ],
     "sources": [
-      [
-        "Maruti Suzuki corporate and vehicle site",
-        "https://www.marutisuzuki.com/"
-      ],
       [
         "Vehicle directory",
         "https://www.marutisuzuki.com/sitemap"
       ]
     ],
-    "update": [
-      "Use the right sales channel",
-      "The official site separates ARENA, NEXA and other channels. A channel name is different from a vehicle brand or legal entity."
-    ],
-    "question": "Why is the number of cars sold not enough to explain revenue?",
-    "answer": "Different models sell at different prices. Revenue also depends on the mix, discounts and other sales.",
     "productSource": "https://www.marutisuzuki.com/sitemap",
     "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
     "logo": "assets/logos/maruti-suzuki.svg"

@@ -9,8 +9,6 @@
     "color": "#ad5536",
     "bg": "#fff1e8",
     "tag": "The business behind the offering",
-    "summary": "The listed parent connecting Zomato, Blinkit, District and Hyperpure.",
-    "description": "Eternal is the company formerly named Zomato Limited. Its businesses cover restaurant food delivery, quick commerce, going-out experiences and supplies for restaurants. These businesses share a digital-commerce theme but have different operating costs and revenue models.",
     "ownership": "Buying Eternal shares is exposure to the listed group, not a separately listed Zomato or Blinkit share. Zomato remains a consumer brand after the corporate name changed. District and Hyperpure are also part of the group portfolio.",
     "products": [
       [
@@ -30,42 +28,7 @@
         "B2B restaurant supplies"
       ]
     ],
-    "money": "The group earns through combinations of commissions, service and delivery charges, advertising, and product sales, depending on the business. The value of orders placed on an app is not the same as the company’s recognised revenue or profit.",
-    "watch": [
-      [
-        "Economics by business",
-        "How do food delivery and quick commerce contribute after fulfilment and marketing costs?"
-      ],
-      [
-        "Repeat usage and order value",
-        "Are customers ordering more frequently without relying only on discounts?"
-      ],
-      [
-        "Expansion and cash use",
-        "How much cash is needed to build and operate the growing network?"
-      ]
-    ],
-    "risks": [
-      [
-        "Competitive spending",
-        "Discounts, advertising and delivery incentives can reduce profitability."
-      ],
-      [
-        "Fulfilment costs",
-        "Store density, inventory, delivery and staffing influence quick-commerce economics."
-      ],
-      [
-        "Regulation and partner relations",
-        "Food safety, gig-work rules and relationships with merchants affect operations."
-      ]
-    ],
-    "question": "Is the full value of a restaurant order automatically Eternal’s revenue?",
-    "answer": "No. Marketplace order value includes amounts belonging to restaurants and other participants. Accounting treatment differs between marketplace services and product-sales businesses.",
     "sources": [
-      [
-        "Eternal group businesses",
-        "https://www.eternal.com/"
-      ],
       [
         "Corporate name-change explanation",
         "https://www.eternal.com/letter/"
@@ -74,10 +37,6 @@
         "Official investor relations",
         "https://www.eternal.com/investor-relations/"
       ]
-    ],
-    "update": [
-      "One listed company, several different business models",
-      "Use business-level disclosures to separate Zomato, Blinkit, District and Hyperpure rather than treating every order as identical."
     ],
     "productSource": "https://www.eternal.com/",
     "productNote": "Major offering families reviewed on 27 October 2026. Variants, locations and individual models are grouped; availability can vary.",

@@ -9,8 +9,6 @@
     "color": "#a42f34",
     "bg": "#fff0f0",
     "tag": "Vehicles, tractors and group investments",
-    "summary": "An auto and farm business connected to SUVs, commercial vehicles, tractors and a wider group.",
-    "description": "Mahindra & Mahindra’s core operations include automotive and farm equipment. Its consolidated results also reflect investments and interests in several group businesses.",
     "products": [
       [
         "Thar",
@@ -121,56 +119,17 @@
         "Motorcycles · Classic Legends"
       ]
     ],
-    "money": "Vehicle and tractor volumes, selling prices, model mix and manufacturing costs drive the core businesses. Consolidated performance can also include finance, technology and other group investments.",
     "ownership": "This profile covers Mahindra & Mahindra Limited. Other Mahindra-named listed companies, such as Tech Mahindra and Mahindra & Mahindra Financial Services, are separate legal entities even when M&M owns stakes in them.",
-    "watch": [
-      [
-        "Auto and farm volumes",
-        "How are vehicles and tractors performing separately?"
-      ],
-      [
-        "Model mix",
-        "Are customers choosing products with different prices and margins?"
-      ],
-      [
-        "Subsidiary value and cash",
-        "How do group investments affect reported results and capital allocation?"
-      ]
-    ],
-    "risks": [
-      [
-        "Demand cycles",
-        "Vehicle and tractor purchases can slow with financing or rural conditions."
-      ],
-      [
-        "Technology transition",
-        "Electric vehicles require investment and face changing competition."
-      ],
-      [
-        "Group complexity",
-        "Consolidated results can be misunderstood without separating core operations and investments."
-      ]
-    ],
     "sources": [
       [
         "Mahindra business overview",
         "https://www.mahindra.com/our-businesses"
       ],
       [
-        "FY 2025–26 annual report",
-        "https://www.mahindra.com/annual-report-FY2026/"
-      ],
-      [
         "Mahindra brand portfolio",
         "https://www.mahindra.com/our-brands"
       ]
     ],
-    "update": [
-      "Start with auto and farm, then map the group",
-      "The company’s disclosures separate core Automotive and Farm activities from investments and other consolidated businesses."
-    ],
-    "question": "Does buying M&M shares give you the same direct ownership as buying Tech Mahindra shares?",
-    "answer": "No. They are separate listed entities. M&M may own an interest, but each share represents a different company.",
     "productSource": "https://www.mahindra.com/our-brands",
     "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
     "logo": "assets/logos/mahindra-and-mahindra.png"
