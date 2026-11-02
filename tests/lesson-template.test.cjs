@@ -42,3 +42,13 @@ test('the checker warns, without failing, about unexplained jargon and long sent
  const r=validateLesson(l);assert.deepEqual(r.errors,[]);
  assert.ok(r.warnings.some(w=>w.includes('integrated solutions')));assert.ok(r.warnings.some(w=>w.includes('"platform"')));
 });
+test('an illustration may use made-up amounts only when it says it is fictional',()=>{
+ const ok=clone(load('ireda'));ok.illustration=[{title:'A fictional loan, step by step',text:'Imagine a made-up solar project that borrows ₹100 crore at an imaginary rate. These numbers are illustrative only.'}];
+ assert.deepEqual(errorsOf(ok),[]);
+ const unlabelled=clone(load('ireda'));unlabelled.illustration=[{title:'A loan, step by step',text:'A project borrows ₹100 crore and pays interest each year.'}];
+ assert.ok(errorsOf(unlabelled).some(e=>e.startsWith('illustration[0]: must say it is fictional')));
+ const elsewhere=clone(load('ireda'));elsewhere.illustration=ok.illustration;elsewhere.money+=' For example ₹100 crore.';
+ assert.ok(errorsOf(elsewhere).some(e=>e.startsWith('money:')&&e.includes('actual amounts')));
+ const empty=clone(load('ireda'));empty.illustration=[];
+ assert.ok(errorsOf(empty).some(e=>e.startsWith('illustration:')));
+});

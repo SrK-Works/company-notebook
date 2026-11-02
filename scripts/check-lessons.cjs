@@ -55,6 +55,15 @@ function validateLesson(lesson,ownNames=[]){
    });
   }
  }
+ // optional worked example with made-up numbers: must be labelled as fictional
+ if(lesson.illustration!==undefined){
+  const il=template.optional.find(o=>o.key==='illustration'),label=new RegExp(R.illustrationLabelPattern,'i'),v=lesson.illustration;
+  if(!Array.isArray(v)||v.length<il.minItems||v.length>il.maxItems)errors.push(`illustration: needs ${il.minItems} to ${il.maxItems} items`);
+  else v.forEach((item,i)=>{
+   for(const f of il.itemShape)if(!isText(item&&item[f]))errors.push(`illustration[${i}]: "${f}" is missing or empty`);
+   if(isText(item&&item.title)&&isText(item&&item.text)&&!label.test(item.title+' '+item.text))errors.push(`illustration[${i}]: must say it is fictional or illustrative`);
+  });
+ }
  // sources
  if(Array.isArray(lesson.sources)){
   const urls=lesson.sources.map(x=>x&&x[1]);
