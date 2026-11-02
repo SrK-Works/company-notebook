@@ -196,3 +196,15 @@ Limits: Nestlé India could not be read (website blocked automated requests) and
 ## Lesson template and checker
 
 `content/lesson-template/template.json` defines the one format every company lesson follows: the sections, what each answers for a beginner, size limits and the rules (no money amounts outside `financialNotes`, https sources, a dated check). `node scripts/check-lessons.cjs [company…]` validates lessons against it. All 35 current lessons pass with no errors; the remaining warnings (for example EBITDA, DISCOM or EPC used without a definition) are real beginner-clarity gaps to fix in a separate content review. The same template will drive drafting lessons for new companies.
+
+## Drafting a lesson for a new company
+
+The drafting step turns official sources into a lesson that follows `content/lesson-template/template.json`. A person approves it before it goes live.
+
+1. **Identity first.** The company needs `content/companies/<company>.json` (name, ticker, sector, colours, offering cards).
+2. **See the size, free:** `node scripts/draft-lesson.cjs <company> --source <https link> --source <https link> --dry-run`. It fetches the sources and prints the size of the request. Give at least two sources, a company or exchange document first. A full annual report PDF can be several hundred pages and costs the most; one section of it is cheaper.
+3. **Draft (paid API call):** the same command without `--dry-run`, with `ANTHROPIC_API_KEY` set (see `.env.example`) or after `ant auth login`. It uses `claude-opus-5-5`, asks the API to retry on another model if a request is declined (`--no-fallback` turns that off), and saves `content/drafts/<company>.json` with status `needs-review`. Nothing is read by the site yet.
+4. **Review.** The draft file holds the lesson, the checker result, and an evidence list: each claim with the source link and a quote. Quotes from web pages are checked automatically against the page text; quotes from PDFs are marked "to check by hand". Edit the lesson in the draft if anything is wrong.
+5. **Publish:** `node scripts/publish-draft.cjs <company>` shows the result and changes nothing; add `--approve` to move the lesson into `content/company-lessons/`. It re-runs the checker first and refuses if there are errors. Then run `node scripts/build-company-lessons.cjs` and `node --test tests/`.
+
+The drafting script needs one package, installed with `npm install`. The site and every other script need none.

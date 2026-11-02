@@ -144,3 +144,9 @@ scripts/
 5. Build the facts layer and weekly job, then the database and API as the list grows.
 
 **One pipeline.** Name a company, draft it, check it, review it, publish it, and keep it fresh. Each step is a script, so the same path works for the first company and the thousandth.
+
+## 11. Drafting step (built 2 November 2026)
+
+`scripts/draft-lesson.cjs` takes a company that already has an identity file plus two or more https sources, and asks `claude-opus-5-5` to fill the lesson template. The answer comes back in a fixed format; the script converts it to the lesson shape, stamps today's date, rejects any source link that was not provided, runs the lesson checker, and checks each evidence quote against the page text. The result goes to `content/drafts/<company>.json` with status `needs-review`, and `scripts/publish-draft.cjs <company> --approve` is the review gate. Fake-model tests cover the request, refusals, invented links, overwriting and the gate. No live call has been made yet; it needs an API key and your approval of the cost.
+
+**Not built yet:** creating a new company's identity file and offering cards automatically, finding the sources for you, PDF text checking, and running it for batches of companies.
