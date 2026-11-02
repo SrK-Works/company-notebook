@@ -1,0 +1,248 @@
+{
+  "order": 22,
+  "company": {
+    "id": "reliance-industries",
+    "name": "Reliance Industries",
+    "ticker": "RELIANCE",
+    "sector": "Diversified business",
+    "initial": "R",
+    "color": "#987423",
+    "bg": "#faf2de",
+    "tag": "One company, many businesses",
+    "summary": "A group connecting energy and materials with retail and digital services.",
+    "description": "Reliance Industries spans energy and materials, digital services, retail and other businesses. Understanding it means looking at the different activities within the group.",
+    "products": [
+      [
+        "Jio mobile",
+        "Digital connectivity"
+      ],
+      [
+        "JioFiber",
+        "Home broadband"
+      ],
+      [
+        "JioAirFiber",
+        "Fixed wireless broadband"
+      ],
+      [
+        "JioBusiness",
+        "Enterprise digital services"
+      ],
+      [
+        "Jio Platforms",
+        "Digital platforms"
+      ],
+      [
+        "JioStar",
+        "Media and entertainment"
+      ],
+      [
+        "Jio Studios",
+        "Film and entertainment"
+      ],
+      [
+        "Network18",
+        "News and media"
+      ],
+      [
+        "Reliance Smart and Smart Point",
+        "Grocery retail"
+      ],
+      [
+        "Fresh Signature and Freshpik",
+        "Premium grocery retail"
+      ],
+      [
+        "JioMart",
+        "Digital commerce"
+      ],
+      [
+        "Milkbasket",
+        "Daily-needs delivery"
+      ],
+      [
+        "Reliance Digital",
+        "Electronics retail"
+      ],
+      [
+        "MyJio Stores",
+        "Devices and connectivity retail"
+      ],
+      [
+        "resQ",
+        "Electronics service"
+      ],
+      [
+        "AJIO",
+        "Fashion e-commerce"
+      ],
+      [
+        "Tira",
+        "Beauty retail"
+      ],
+      [
+        "Trends",
+        "Fashion retail"
+      ],
+      [
+        "Reliance Jewels",
+        "Jewellery retail"
+      ],
+      [
+        "Netmeds",
+        "Digital pharmacy"
+      ],
+      [
+        "METRO India",
+        "Wholesale retail"
+      ],
+      [
+        "Justdial",
+        "Local search platform"
+      ],
+      [
+        "Transportation fuels",
+        "Oil-to-chemicals"
+      ],
+      [
+        "Polymers and elastomers",
+        "Materials"
+      ],
+      [
+        "Polyesters and intermediates",
+        "Materials"
+      ],
+      [
+        "Oil and gas exploration",
+        "Energy"
+      ],
+      [
+        "Solar manufacturing",
+        "New energy"
+      ],
+      [
+        "Battery storage",
+        "New energy"
+      ],
+      [
+        "Green hydrogen",
+        "New energy"
+      ]
+    ],
+    "money": "Different divisions earn money in different ways: selling fuels and materials, selling retail goods and providing digital services. Group revenue alone does not explain which divisions drive profit.",
+    "ownership": "This profile covers Reliance Industries Limited and its group businesses. Jio and retail operations sit within group entities. Other companies with “Reliance” in their names are not automatically part of this listed business.",
+    "watch": [
+      [
+        "Segment earnings",
+        "Which businesses contribute operating earnings, and how is that changing?"
+      ],
+      [
+        "Capital spending",
+        "How much is being invested before projects generate cash?"
+      ],
+      [
+        "Debt and cash flow",
+        "Can cash generation support investment and obligations?"
+      ]
+    ],
+    "risks": [
+      [
+        "Commodity cycles",
+        "Energy and chemical profitability can change with global demand and pricing."
+      ],
+      [
+        "Large investments",
+        "New projects can take time to generate returns."
+      ],
+      [
+        "Different competitors",
+        "Retail and digital services face competition distinct from the energy business."
+      ]
+    ],
+    "sources": [
+      [
+        "FY 2025–26 business overview",
+        "https://www.ril.com/ar2025-26/index.html"
+      ],
+      [
+        "Management discussion",
+        "https://www.ril.com/ar2025-26/mda.html"
+      ]
+    ],
+    "update": [
+      "FY 2025–26 report available",
+      "Read each business discussion separately before drawing conclusions from the group total."
+    ],
+    "question": "Must the division with the most sales also generate the most profit?",
+    "answer": "No. Divisions have different margins and costs. Revenue share and profit contribution answer different questions.",
+    "productSource": "https://www.ril.com/about/products-brands",
+    "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
+    "logo": "assets/logos/reliance-industries.png"
+  },
+  "offerings": [
+    {
+      "name": "JioMart",
+      "category": "Retail / digital brand",
+      "image": "assets/products/reliance-industries-130.webp",
+      "url": "https://www.ril.com/about/products-brands",
+      "kind": "brand",
+      "alt": "JioMart brand mark from Reliance’s official brand directory"
+    },
+    {
+      "name": "Reliance Digital",
+      "category": "Retail / digital brand",
+      "image": "assets/products/reliance-industries-131.webp",
+      "url": "https://www.ril.com/about/products-brands",
+      "kind": "brand",
+      "alt": "Reliance Digital brand mark from Reliance’s official brand directory"
+    },
+    {
+      "name": "Trends",
+      "category": "Retail / digital brand",
+      "image": "assets/products/reliance-industries-132.webp",
+      "url": "https://www.ril.com/about/products-brands",
+      "kind": "brand",
+      "alt": "Trends brand mark from Reliance’s official brand directory"
+    },
+    {
+      "name": "AJIO",
+      "category": "Retail / digital brand",
+      "image": "assets/products/reliance-industries-133.webp",
+      "url": "https://www.ril.com/about/products-brands",
+      "kind": "brand",
+      "alt": "AJIO brand mark from Reliance’s official brand directory"
+    },
+    {
+      "name": "JioPhone",
+      "category": "Digital devices",
+      "image": "assets/products/reliance-industries-134.webp",
+      "url": "https://www.ril.com/about/products-brands",
+      "kind": "brand",
+      "alt": "JioPhone brand mark from Reliance’s official brand directory"
+    },
+    {
+      "name": "JioBharat",
+      "category": "Digital devices",
+      "image": "assets/products/reliance-industries-135.webp",
+      "url": "https://www.ril.com/about/products-brands",
+      "kind": "brand",
+      "alt": "JioBharat brand mark from Reliance’s official brand directory"
+    },
+    {
+      "name": "Hamleys",
+      "category": "Retail / digital brand",
+      "image": "assets/products/reliance-industries-136.webp",
+      "url": "https://www.ril.com/about/products-brands",
+      "kind": "brand",
+      "alt": "Hamleys brand mark from Reliance’s official brand directory"
+    },
+    {
+      "name": "Tira",
+      "category": "Retail / digital brand",
+      "image": "assets/products/reliance-industries-137.webp",
+      "url": "https://www.ril.com/about/products-brands",
+      "kind": "brand",
+      "alt": "Tira brand mark from Reliance’s official brand directory"
+    }
+  ]
+}

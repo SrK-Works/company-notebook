@@ -1,0 +1,222 @@
+{
+  "order": 25,
+  "company": {
+    "id": "rentomojo",
+    "name": "Rentomojo",
+    "ticker": "RENTOMOJO",
+    "sector": "Homes & mobility",
+    "initial": "R",
+    "color": "#36716a",
+    "bg": "#edf7f4",
+    "tag": "The business behind the offering",
+    "summary": "Furniture and appliance rentals that help people furnish a home through monthly payments.",
+    "description": "Rentomojo supplies furniture, home appliances and furnishing packages on rental plans. Customers choose products and a tenure, while delivery, installation, maintenance and return logistics support the rental service. The business must keep its inventory earning across successive customers.",
+    "ownership": "This profile covers Rentomojo Limited, formerly Edunetwork and Rentomojo Private Limited. Renting an appliance through its platform does not mean Rentomojo manufactures that appliance brand.",
+    "products": [
+      [
+        "Furniture rental packages",
+        "Bundled home furnishings"
+      ],
+      [
+        "Beds",
+        "Furniture rental"
+      ],
+      [
+        "Sofas",
+        "Furniture rental"
+      ],
+      [
+        "Mattresses",
+        "Home furnishing rental"
+      ],
+      [
+        "Wardrobes and organisers",
+        "Furniture rental"
+      ],
+      [
+        "Study tables",
+        "Furniture rental"
+      ],
+      [
+        "Chairs and stools",
+        "Furniture rental"
+      ],
+      [
+        "Dining tables",
+        "Furniture rental"
+      ],
+      [
+        "Refrigerators and freezers",
+        "Appliance rental"
+      ],
+      [
+        "Washing machines",
+        "Appliance rental"
+      ],
+      [
+        "Air conditioners",
+        "Appliance rental"
+      ],
+      [
+        "Televisions",
+        "Electronics rental"
+      ],
+      [
+        "Water purifiers",
+        "Appliance rental"
+      ],
+      [
+        "Microwaves and induction cooktops",
+        "Appliance rental"
+      ],
+      [
+        "Limitless subscriptions",
+        "Bundled rental plans"
+      ],
+      [
+        "Laptops",
+        "Electronics rental · selected locations"
+      ]
+    ],
+    "money": "Recurring rental payments are the core revenue stream. Inventory purchases, financing, repairs, delivery and collection costs affect how much profit remains. A product sitting unused still ties up cash.",
+    "watch": [
+      [
+        "Inventory utilisation",
+        "How much of the available furniture and appliance stock is on rent?"
+      ],
+      [
+        "Revenue per asset",
+        "Do rental receipts cover purchase, repairs, funding and delivery over the asset’s useful life?"
+      ],
+      [
+        "Customer retention",
+        "Do customers renew, and how expensive is it to acquire their replacements?"
+      ]
+    ],
+    "risks": [
+      [
+        "Idle or damaged inventory",
+        "Returns, wear and damage can reduce the income earned from an item."
+      ],
+      [
+        "Funding needs",
+        "Buying inventory before collecting months of rent can require substantial capital."
+      ],
+      [
+        "Logistics and collections",
+        "Relocation, failed collections and late payments can raise operating costs."
+      ]
+    ],
+    "question": "Why is a rented refrigerator sitting in a warehouse a business issue?",
+    "answer": "It has used cash and may still incur financing and storage costs, but earns no rental income until it reaches a paying customer.",
+    "sources": [
+      [
+        "Rentomojo rental catalogue",
+        "https://www.rentomojo.com/bangalore"
+      ],
+      [
+        "Official company identity",
+        "https://www.rentomojo.com/contact"
+      ],
+      [
+        "NSE issue information — RENTOMOJO",
+        "https://www.nseindia.com/market-data/issue-information?series=EQ&symbol=RENTOMOJO&type=Past"
+      ]
+    ],
+    "update": [
+      "Rental income needs productive assets",
+      "Compare rental receipts with asset utilisation and the costs of funding and maintaining inventory. This profile does not display live rental prices."
+    ],
+    "productSource": "https://www.rentomojo.com/bangalore",
+    "productNote": "Major offering families reviewed on 27 October 2026. Variants, locations and individual models are grouped; availability can vary.",
+    "checked": "27 Oct 2026",
+    "reviewed": "27 October 2026",
+    "aliases": [
+      "RentoMojo",
+      "Edunetwork"
+    ],
+    "logo": "assets/logos/rentomojo.svg"
+  },
+  "offerings": [
+    {
+      "name": "Furniture rental packages",
+      "category": "Bundled home furnishings",
+      "image": "assets/products/rentomojo-visual-0.webp",
+      "url": "https://www.rentomojo.com/bangalore",
+      "kind": "pack",
+      "alt": "Furniture rental packages — image from the official company website"
+    },
+    {
+      "name": "Beds",
+      "category": "Furniture rental",
+      "image": "assets/products/rentomojo-visual-1.webp",
+      "url": "https://www.rentomojo.com/bangalore",
+      "kind": "pack",
+      "alt": "Beds — image from the official company website"
+    },
+    {
+      "name": "Sofas",
+      "category": "Furniture rental",
+      "image": "assets/products/rentomojo-visual-2.webp",
+      "url": "https://www.rentomojo.com/bangalore",
+      "kind": "pack",
+      "alt": "Sofas — image from the official company website"
+    },
+    {
+      "name": "Mattresses",
+      "category": "Home furnishing rental",
+      "image": "assets/products/rentomojo-visual-3.webp",
+      "url": "https://www.rentomojo.com/bangalore",
+      "kind": "pack",
+      "alt": "Mattresses — image from the official company website"
+    },
+    {
+      "name": "Wardrobes and organisers",
+      "category": "Furniture rental",
+      "image": "assets/products/rentomojo-visual-4.webp",
+      "url": "https://www.rentomojo.com/bangalore",
+      "kind": "pack",
+      "alt": "Wardrobes and organisers — image from the official company website"
+    },
+    {
+      "name": "Refrigerators and freezers",
+      "category": "Appliance rental",
+      "image": "assets/products/rentomojo-visual-5.webp",
+      "url": "https://www.rentomojo.com/bangalore",
+      "kind": "pack",
+      "alt": "Refrigerators and freezers — image from the official company website"
+    },
+    {
+      "name": "Televisions",
+      "category": "Electronics rental",
+      "image": "assets/products/rentomojo-visual-6.webp",
+      "url": "https://www.rentomojo.com/bangalore",
+      "kind": "pack",
+      "alt": "Televisions — image from the official company website"
+    },
+    {
+      "name": "Washing machines",
+      "category": "Appliance rental",
+      "image": "assets/products/rentomojo-visual-7.webp",
+      "url": "https://www.rentomojo.com/bangalore",
+      "kind": "pack",
+      "alt": "Washing machines — image from the official company website"
+    },
+    {
+      "name": "Air conditioners",
+      "category": "Appliance rental",
+      "image": "assets/products/rentomojo-visual-8.webp",
+      "url": "https://www.rentomojo.com/bangalore",
+      "kind": "pack",
+      "alt": "Air conditioners — image from the official company website"
+    },
+    {
+      "name": "Study tables",
+      "category": "Furniture rental",
+      "image": "assets/products/rentomojo-visual-9.webp",
+      "url": "https://www.rentomojo.com/bangalore",
+      "kind": "pack",
+      "alt": "Study tables — image from the official company website"
+    }
+  ]
+}

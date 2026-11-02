@@ -1,0 +1,166 @@
+{
+  "order": 33,
+  "company": {
+    "id": "refex-industries",
+    "name": "Refex Industries",
+    "ticker": "REFEX",
+    "sector": "Industrials & infrastructure",
+    "initial": "RI",
+    "color": "#65518c",
+    "bg": "#f2eef8",
+    "tag": "The business behind the offering",
+    "summary": "Ash utilisation, coal-handling services and a wind-turbine business through Venwind Refex.",
+    "description": "Refex Industries provides services around the handling, movement and utilisation of ash and coal at thermal power plants. Its portfolio also includes wind-energy equipment through Venwind Refex. The key distinction is between the operating businesses reported today and older Refex group activities shown in historical material.",
+    "ownership": "This profile covers Refex Industries Limited, not every Refex-branded company. January 2026 results classified power trading, refrigerant gases and green mobility as discontinued operations. Group websites still discuss mobility; check the latest scheme and financial disclosures before mapping ownership.",
+    "products": [
+      [
+        "Fly ash utilisation",
+        "Industrial by-product management"
+      ],
+      [
+        "Pond ash utilisation",
+        "Ash reclamation and reuse"
+      ],
+      [
+        "Ash transportation and logistics",
+        "Movement to utilisation sites"
+      ],
+      [
+        "Coal supply and handling",
+        "Fuel logistics for power plants"
+      ],
+      [
+        "Coal-yard management",
+        "On-site operating services"
+      ],
+      [
+        "Coal handling plant operations and maintenance",
+        "Plant support services"
+      ],
+      [
+        "Overburden excavation",
+        "Mining and material-handling services"
+      ],
+      [
+        "Venwind Refex wind turbines",
+        "Wind-energy equipment through a subsidiary"
+      ]
+    ],
+    "money": "Core services earn contract-based revenue for handling and moving materials and managing sites. Fleet utilisation, throughput, fuel and equipment costs, customer payments and project execution affect earnings. Wind-equipment orders add a different manufacturing and delivery cycle.",
+    "watch": [
+      [
+        "Contract execution",
+        "Are new sites and handling volumes converting into profitable work?"
+      ],
+      [
+        "Working capital",
+        "Do customer collections keep pace with fleet and operating costs?"
+      ],
+      [
+        "Business perimeter",
+        "Which businesses are continuing, discontinued or subject to restructuring?"
+      ]
+    ],
+    "risks": [
+      [
+        "Customer and project exposure",
+        "Large contracts can make performance sensitive to a few sites and customer decisions."
+      ],
+      [
+        "Execution and compliance",
+        "Safety, environmental obligations, weather and logistics can affect operations."
+      ],
+      [
+        "Restructuring and expansion",
+        "Changes in the group perimeter and newer manufacturing operations can complicate comparisons."
+      ]
+    ],
+    "question": "Should a historical Refex group business automatically be counted in current Refex Industries revenue?",
+    "answer": "No. Check the listed company’s continuing operations, subsidiaries, disposals and restructuring disclosures for the relevant reporting period.",
+    "sources": [
+      [
+        "Refex current business overview",
+        "https://refex.co.in/"
+      ],
+      [
+        "Ash utilisation and coal handling",
+        "https://refex.co.in/ash-utilization"
+      ],
+      [
+        "Venwind Refex",
+        "https://refex.co.in/venwind-refex"
+      ],
+      [
+        "January 2026 results — discontinued operations",
+        "https://refex.co.in/wp-content/uploads/2026/01/RIL_Outcome-of-the-BM_21.01.2026-1.pdf"
+      ],
+      [
+        "Current financial disclosures",
+        "https://refex.co.in/investors/financial-information/"
+      ]
+    ],
+    "update": [
+      "Continuing operations matter more than an old brand list",
+      "Power trading and refrigerant-gas activities were classified as discontinued in the January 2026 results. Read newer reports and restructuring updates alongside the group website."
+    ],
+    "productSource": "https://refex.co.in/",
+    "productNote": "Major offering families reviewed on 27 October 2026. Variants, locations and individual models are grouped; availability can vary.",
+    "checked": "27 Oct 2026",
+    "reviewed": "27 October 2026",
+    "aliases": [
+      "Refex",
+      "Venwind Refex"
+    ],
+    "logo": "assets/logos/refex-industries.svg"
+  },
+  "offerings": [
+    {
+      "name": "Collecting and reusing fly ash",
+      "category": "Removing ash left after coal burns",
+      "image": "assets/products/refex-industries-visual-47.webp",
+      "url": "https://refex.co.in/ash-utilization",
+      "kind": "photo",
+      "alt": "Collecting and reusing fly ash — image from the official company website"
+    },
+    {
+      "name": "Supplying and moving coal",
+      "category": "Getting coal to where a plant needs it",
+      "image": "assets/products/refex-industries-visual-48.webp",
+      "url": "https://refex.co.in/ash-utilization",
+      "kind": "photo",
+      "alt": "Supplying and moving coal — image from the official company website"
+    },
+    {
+      "name": "Venwind Refex wind turbines",
+      "category": "Equipment that turns wind into electricity",
+      "image": "assets/products/refex-industries-visual-49.webp",
+      "url": "https://refex.co.in/venwind-refex",
+      "kind": "photo",
+      "alt": "Venwind Refex wind turbines — image from the official company website"
+    },
+    {
+      "name": "Removing stored ash",
+      "category": "Taking ash out of ash ponds",
+      "image": "assets/products/refex-industries-pond-ash-utilisation.svg",
+      "url": "https://refex.co.in/",
+      "kind": "illustration",
+      "alt": "Removing stored ash — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Moving ash to its destination",
+      "category": "Loading and transporting ash",
+      "image": "assets/products/refex-industries-ash-transportation-and-logistics.svg",
+      "url": "https://refex.co.in/",
+      "kind": "illustration",
+      "alt": "Moving ash to its destination — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Work in the coal storage yard",
+      "category": "Unloading, storing and moving coal",
+      "image": "assets/products/refex-industries-coal-yard-management.svg",
+      "url": "https://refex.co.in/",
+      "kind": "illustration",
+      "alt": "Work in the coal storage yard — conceptual illustration, not a product photograph"
+    }
+  ]
+}

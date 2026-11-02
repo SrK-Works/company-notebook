@@ -1,0 +1,177 @@
+{
+  "order": 35,
+  "company": {
+    "id": "kanohar-electricals",
+    "name": "Kanohar Electricals",
+    "ticker": "KANOHAR",
+    "sector": "Industrials & infrastructure",
+    "initial": "KE",
+    "color": "#65518c",
+    "bg": "#f2eef8",
+    "tag": "The business behind the offering",
+    "summary": "Transformers, gas-insulated switchgear, substations and transmission-line projects.",
+    "description": "Kanohar Electricals manufactures equipment that changes voltage levels or controls power flow in electricity networks and railway systems. It also executes substation and transmission projects. The business combines customised manufacturing, testing and delivery with engineering and construction services.",
+    "ownership": "This profile covers Kanohar Electricals Limited. It supplies equipment and project services to the power system; it is not itself a consumer electricity distribution utility. Equipment orders and EPC projects can have different cash and risk profiles.",
+    "products": [
+      [
+        "Power transformers",
+        "Transmission and power-network equipment"
+      ],
+      [
+        "Traction transformers",
+        "Railway power equipment"
+      ],
+      [
+        "Scott-connected transformers",
+        "Railway power-conversion equipment"
+      ],
+      [
+        "Distribution transformers",
+        "Distribution-network equipment"
+      ],
+      [
+        "Shunt reactors",
+        "Reactive-power equipment"
+      ],
+      [
+        "Gas-insulated switchgear",
+        "High-voltage switching equipment"
+      ],
+      [
+        "AIS and GIS substations",
+        "Turnkey substation projects"
+      ],
+      [
+        "Transmission lines",
+        "Design, construction and commissioning"
+      ],
+      [
+        "Installation and commissioning support",
+        "Equipment lifecycle services"
+      ]
+    ],
+    "money": "It earns from supplying transformers and other equipment and from executing engineering, procurement and construction contracts. Steel, copper and other inputs, factory utilisation, test approvals, delivery and milestone collections affect earnings.",
+    "watch": [
+      [
+        "Order book and deliveries",
+        "Are equipment orders and EPC milestones being executed on time?"
+      ],
+      [
+        "Working capital",
+        "How much cash is needed for materials, work in progress and customer receivables?"
+      ],
+      [
+        "Mix and input costs",
+        "How do product mix and metal prices influence margins?"
+      ]
+    ],
+    "risks": [
+      [
+        "Project and approval delays",
+        "Customer inspections, site readiness and grid projects can delay deliveries."
+      ],
+      [
+        "Material-price exposure",
+        "Copper, steel and other inputs can move before a contract is completed."
+      ],
+      [
+        "Quality and warranty",
+        "Equipment failures and warranty claims can be costly and harm customer relationships."
+      ]
+    ],
+    "question": "Why can a transformer manufacturer need cash even with a strong order book?",
+    "answer": "It may have to purchase materials and manufacture equipment before delivery, customer inspection and milestone payments release cash.",
+    "sources": [
+      [
+        "Kanohar official business overview",
+        "https://www.kanohar.com/"
+      ],
+      [
+        "Transformer product families",
+        "https://www.kanohar.com/transformers"
+      ],
+      [
+        "NSE company filing — KANOHAR",
+        "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_INDAS_199809_06102026210522_iXBRL_WEB.html"
+      ]
+    ],
+    "update": [
+      "Equipment supply and project execution are related, but different",
+      "Read transformer deliveries, EPC milestones, input costs and collections together when assessing how orders become earnings."
+    ],
+    "productSource": "https://www.kanohar.com/",
+    "productNote": "Major offering families reviewed on 27 October 2026. Variants, locations and individual models are grouped; availability can vary.",
+    "checked": "27 Oct 2026",
+    "reviewed": "27 October 2026",
+    "aliases": [
+      "Kanohar"
+    ],
+    "logo": "assets/logos/kanohar-electricals.webp"
+  },
+  "offerings": [
+    {
+      "name": "Traction transformers",
+      "category": "Adapting electricity for railway use",
+      "image": "assets/products/kanohar-electricals-visual-37.webp",
+      "url": "https://www.kanohar.com/transformers",
+      "kind": "pack",
+      "alt": "Traction transformers — image from the official company website"
+    },
+    {
+      "name": "Scott-connected transformers",
+      "category": "Adapting the power supply for railway systems",
+      "image": "assets/products/kanohar-electricals-visual-38.webp",
+      "url": "https://www.kanohar.com/transformers",
+      "kind": "pack",
+      "alt": "Scott-connected transformers — image from the official company website"
+    },
+    {
+      "name": "Shunt reactors",
+      "category": "Equipment used to control voltage on power lines",
+      "image": "assets/products/kanohar-electricals-visual-39.webp",
+      "url": "https://www.kanohar.com/transformers",
+      "kind": "pack",
+      "alt": "Shunt reactors — image from the official company website"
+    },
+    {
+      "name": "Distribution transformers",
+      "category": "Changing voltage before electricity reaches local users",
+      "image": "assets/products/kanohar-electricals-visual-40.webp",
+      "url": "https://www.kanohar.com/transformers",
+      "kind": "pack",
+      "alt": "Distribution transformers — image from the official company website"
+    },
+    {
+      "name": "Gas-insulated switchgear",
+      "category": "Equipment that switches and protects electrical circuits",
+      "image": "assets/products/kanohar-electricals-visual-41.webp",
+      "url": "https://www.kanohar.com/",
+      "kind": "photo",
+      "alt": "Gas-insulated switchgear — image from the official company website"
+    },
+    {
+      "name": "AIS and GIS substations",
+      "category": "Building places that switch and route electricity",
+      "image": "assets/products/kanohar-electricals-visual-42.webp",
+      "url": "https://www.kanohar.com/",
+      "kind": "photo",
+      "alt": "AIS and GIS substations — image from the official company website"
+    },
+    {
+      "name": "Transmission lines",
+      "category": "Building power lines and checking they are ready for use",
+      "image": "assets/products/kanohar-electricals-visual-43.webp",
+      "url": "https://www.kanohar.com/",
+      "kind": "photo",
+      "alt": "Transmission lines — image from the official company website"
+    },
+    {
+      "name": "Power transformers",
+      "category": "Changing voltage for the electricity network",
+      "image": "assets/products/kanohar-electricals-power-transformers.webp",
+      "url": "https://www.kanohar.com/transformers",
+      "kind": "pack",
+      "alt": "Power transformers — official company image"
+    }
+  ]
+}

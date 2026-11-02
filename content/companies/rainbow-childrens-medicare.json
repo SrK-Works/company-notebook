@@ -1,0 +1,187 @@
+{
+  "order": 29,
+  "company": {
+    "id": "rainbow-childrens-medicare",
+    "name": "Rainbow Children’s Medicare",
+    "ticker": "RAINBOW",
+    "sector": "Healthcare",
+    "initial": "RC",
+    "color": "#247d88",
+    "bg": "#eaf7f8",
+    "tag": "The business behind the offering",
+    "summary": "Specialist hospitals and clinics focused on children, maternity, women’s health and fertility care.",
+    "description": "Rainbow Children’s Medicare operates a specialist hospital network. Rainbow Children’s Hospital focuses on paediatric services, while its women’s and fertility services include maternity, high-risk pregnancy and assisted reproduction. Intensive care and specialist referrals are important parts of the clinical model.",
+    "ownership": "This profile covers Rainbow Children’s Medicare Limited, the listed company behind Rainbow Children’s Hospital and BirthRight by Rainbow. Each hospital has its own service capabilities; the group directory is not a promise of availability at every location.",
+    "products": [
+      [
+        "Rainbow Children’s Hospital",
+        "Paediatric hospital services"
+      ],
+      [
+        "BirthRight by Rainbow",
+        "Women’s and maternity care"
+      ],
+      [
+        "General paediatrics",
+        "Child consultations and treatment"
+      ],
+      [
+        "Neonatal intensive care",
+        "Care for newborns"
+      ],
+      [
+        "Paediatric intensive care",
+        "Critical care for children"
+      ],
+      [
+        "Paediatric surgery",
+        "Surgical services for children"
+      ],
+      [
+        "Paediatric cardiology and cardiac surgery",
+        "Children’s heart care"
+      ],
+      [
+        "Paediatric neurology",
+        "Children’s neurological care"
+      ],
+      [
+        "Paediatric oncology and bone marrow transplant",
+        "Specialist cancer and blood-disorder care"
+      ],
+      [
+        "High-risk pregnancy",
+        "Specialist maternity care"
+      ],
+      [
+        "Obstetrics and gynaecology",
+        "Women’s health"
+      ],
+      [
+        "Fetal medicine",
+        "Prenatal specialist care"
+      ],
+      [
+        "IVF and fertility care",
+        "Assisted reproduction"
+      ],
+      [
+        "Child development and rehabilitation",
+        "Developmental support"
+      ],
+      [
+        "Paediatric nephrology",
+        "Children’s kidney care"
+      ],
+      [
+        "Paediatric pulmonology",
+        "Children’s respiratory care"
+      ]
+    ],
+    "money": "It earns from admissions, consultations, procedures, diagnostics and specialist maternity and fertility services. Occupancy, case complexity, clinician availability and the time taken for new hospitals to mature influence earnings.",
+    "watch": [
+      [
+        "Capacity utilisation",
+        "Are mature hospitals and newer locations using their beds effectively?"
+      ],
+      [
+        "Clinical mix",
+        "How are paediatrics, maternity and fertility contributing to the business?"
+      ],
+      [
+        "Expansion returns",
+        "Is new capacity generating cash after equipment and staffing costs?"
+      ]
+    ],
+    "risks": [
+      [
+        "Specialist availability",
+        "A focused clinical model depends on recruiting and retaining skilled teams."
+      ],
+      [
+        "New-hospital ramp-up",
+        "Patient referrals and volumes can take time to develop."
+      ],
+      [
+        "Clinical quality and regulation",
+        "Safety, outcomes and compliance are essential to patient trust and continuity."
+      ]
+    ],
+    "question": "Does a higher bed count alone show a hospital business is improving?",
+    "answer": "No. Occupancy, clinical mix, service quality, costs and the return on new capacity also matter.",
+    "sources": [
+      [
+        "Rainbow clinical service directory",
+        "https://www.rainbowhospitals.in/"
+      ],
+      [
+        "Official investor relations and exchange listing",
+        "https://www.rainbowhospitals.in/investors-relations/financials"
+      ]
+    ],
+    "update": [
+      "A specialist network has a different mix of demand",
+      "Read paediatric, maternity and fertility services together with hospital maturity and occupancy. These business notes are not treatment recommendations."
+    ],
+    "productSource": "https://www.rainbowhospitals.in/",
+    "productNote": "Major offering families reviewed on 27 October 2026. Variants, locations and individual models are grouped; availability can vary.",
+    "checked": "27 Oct 2026",
+    "reviewed": "27 October 2026",
+    "aliases": [
+      "Rainbow Children's Hospital",
+      "Rainbow Children Hospitals",
+      "Rainbow Children’s Hospitals"
+    ],
+    "logo": "assets/logos/rainbow-childrens-medicare.svg"
+  },
+  "offerings": [
+    {
+      "name": "Rainbow Children’s Hospital",
+      "category": "Paediatric hospital services",
+      "image": "assets/products/rainbow-childrens-medicare-visual-18.webp",
+      "url": "https://www.rainbowhospitals.in/",
+      "kind": "photo",
+      "alt": "Rainbow Children’s Hospital — image from the official company website"
+    },
+    {
+      "name": "BirthRight by Rainbow",
+      "category": "Women’s and maternity care",
+      "image": "assets/products/rainbow-childrens-medicare-visual-19.webp",
+      "url": "https://www.rainbowhospitals.in/",
+      "kind": "photo",
+      "alt": "BirthRight by Rainbow — image from the official company website"
+    },
+    {
+      "name": "IVF and fertility care",
+      "category": "Assisted reproduction",
+      "image": "assets/products/rainbow-childrens-medicare-visual-20.webp",
+      "url": "https://www.rainbowhospitals.in/",
+      "kind": "photo",
+      "alt": "IVF and fertility care — image from the official company website"
+    },
+    {
+      "name": "General paediatrics",
+      "category": "Child consultations and treatment",
+      "image": "assets/products/rainbow-childrens-medicare-general-paediatrics.svg",
+      "url": "https://www.rainbowhospitals.in/",
+      "kind": "illustration",
+      "alt": "General paediatrics — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Neonatal intensive care",
+      "category": "Care for newborns",
+      "image": "assets/products/rainbow-childrens-medicare-neonatal-intensive-care.svg",
+      "url": "https://www.rainbowhospitals.in/",
+      "kind": "illustration",
+      "alt": "Neonatal intensive care — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Paediatric cardiology and cardiac surgery",
+      "category": "Children’s heart care",
+      "image": "assets/products/rainbow-childrens-medicare-paediatric-cardiology-and-cardiac-surgery.svg",
+      "url": "https://www.rainbowhospitals.in/",
+      "kind": "illustration",
+      "alt": "Paediatric cardiology and cardiac surgery — conceptual illustration, not a product photograph"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "order": 23,
+  "company": {
+    "id": "ntpc",
+    "name": "NTPC",
+    "ticker": "NTPC",
+    "sector": "Energy & utilities",
+    "initial": "NTPC",
+    "color": "#326f78",
+    "bg": "#eaf6f6",
+    "tag": "Generating the electricity system uses",
+    "summary": "A power producer spanning thermal generation, renewables and related energy activities.",
+    "description": "NTPC develops and operates power-generation capacity. Its portfolio includes thermal, hydro and renewable generation, alongside coal mining, power trading and emerging energy activities.",
+    "products": [
+      [
+        "Coal-based power",
+        "Thermal electricity generation"
+      ],
+      [
+        "Gas-based power",
+        "Thermal electricity generation"
+      ],
+      [
+        "Hydropower",
+        "Renewable electricity generation"
+      ],
+      [
+        "Solar power",
+        "Renewable electricity generation"
+      ],
+      [
+        "Wind power",
+        "Renewable electricity generation"
+      ],
+      [
+        "Nuclear power development",
+        "Emerging generation business"
+      ],
+      [
+        "Coal mining",
+        "Fuel supply"
+      ],
+      [
+        "Power trading",
+        "Electricity transactions"
+      ],
+      [
+        "Power consultancy",
+        "Engineering and advisory"
+      ],
+      [
+        "Ash utilisation",
+        "By-products and materials"
+      ],
+      [
+        "Electric mobility",
+        "Charging and transport energy"
+      ],
+      [
+        "Green hydrogen",
+        "Emerging energy"
+      ],
+      [
+        "Waste-to-energy",
+        "Energy recovery"
+      ],
+      [
+        "Pumped hydro storage",
+        "Energy storage"
+      ],
+      [
+        "Power distribution",
+        "Electricity distribution initiatives"
+      ],
+      [
+        "Training and capacity building",
+        "Energy-sector services"
+      ]
+    ],
+    "money": "Electricity sales under contracts and regulated arrangements generate revenue. Plant availability, fuel supply, tariffs, payment collection and large capital investments affect cash flow and returns.",
+    "ownership": "This profile covers NTPC Limited and its consolidated group. NTPC Green Energy is separately listed; NTPC’s ownership interest does not make shares in the two companies interchangeable.",
+    "watch": [
+      [
+        "Generation and availability",
+        "Are plants available and producing as expected?"
+      ],
+      [
+        "Receivables",
+        "How quickly do electricity buyers pay?"
+      ],
+      [
+        "Energy transition spending",
+        "How much capital is moving into renewables and new technologies?"
+      ]
+    ],
+    "risks": [
+      [
+        "Fuel and supply",
+        "Fuel shortages or cost changes can disrupt generation."
+      ],
+      [
+        "Counterparty payments",
+        "Delayed payments from power buyers can strain cash flow."
+      ],
+      [
+        "Capital intensity",
+        "Large projects require years of spending before producing returns."
+      ]
+    ],
+    "sources": [
+      [
+        "NTPC company overview",
+        "https://ntpc.co.in/about-us"
+      ],
+      [
+        "NTPC business development",
+        "https://ntpc.co.in/about-us/corporate-functions/business-development"
+      ]
+    ],
+    "update": [
+      "A generator is becoming a broader energy company",
+      "NTPC’s official overview includes conventional and renewable generation as well as mining, trading and newer technologies."
+    ],
+    "question": "Does an electricity generator usually sell power directly to every household?",
+    "answer": "Not necessarily. Generators commonly sell to distribution companies or other large buyers, which then serve end customers.",
+    "productSource": "https://ntpc.co.in/ntpc-overview",
+    "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
+    "logo": "assets/logos/ntpc.svg"
+  },
+  "offerings": [
+    {
+      "name": "Coal-based power",
+      "category": "Electricity made using heat from burning coal",
+      "image": "assets/products/ntpc-coal-based-power.svg",
+      "url": "https://ntpc.co.in/ntpc-overview",
+      "kind": "illustration",
+      "alt": "Coal-based power — conceptual factory illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Gas-based power",
+      "category": "Electricity made using heat from burning gas",
+      "image": "assets/products/ntpc-gas-based-power.svg",
+      "url": "https://ntpc.co.in/ntpc-overview",
+      "kind": "illustration",
+      "alt": "Gas-based power — conceptual factory illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Hydropower",
+      "category": "Electricity generated using moving water",
+      "image": "assets/products/ntpc-hydropower.svg",
+      "url": "https://ntpc.co.in/ntpc-overview",
+      "kind": "illustration",
+      "alt": "Hydropower — conceptual power illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Solar power",
+      "category": "Electricity generated using sunlight",
+      "image": "assets/products/ntpc-solar-power.svg",
+      "url": "https://ntpc.co.in/ntpc-overview",
+      "kind": "illustration",
+      "alt": "Solar power — conceptual solar illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Wind power",
+      "category": "Electricity generated using wind",
+      "image": "assets/products/ntpc-wind-power.svg",
+      "url": "https://ntpc.co.in/ntpc-overview",
+      "kind": "illustration",
+      "alt": "Wind power — conceptual wind illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Nuclear power development",
+      "category": "Developing a nuclear-electricity business",
+      "image": "assets/products/ntpc-nuclear-power-development.svg",
+      "url": "https://ntpc.co.in/ntpc-overview",
+      "kind": "illustration",
+      "alt": "Nuclear power development — conceptual power illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Coal mining",
+      "category": "Extracting coal used as fuel",
+      "image": "assets/products/ntpc-coal-mining.svg",
+      "url": "https://ntpc.co.in/ntpc-overview",
+      "kind": "illustration",
+      "alt": "Coal mining — conceptual factory illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Power trading",
+      "category": "Buying and selling electricity",
+      "image": "assets/products/ntpc-power-trading.svg",
+      "url": "https://ntpc.co.in/ntpc-overview",
+      "kind": "illustration",
+      "alt": "Power trading — conceptual power illustration; not a photograph or product screenshot"
+    }
+  ]
+}

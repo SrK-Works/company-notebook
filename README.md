@@ -5,7 +5,7 @@ Mobile-friendly research prototype for Indian stock-market beginners.
 ## Run
 
 Serve `dist/` with a local HTTP server. No dependency installation is required to run the checked-in site. After editing company lesson JSON files, regenerate their bundle with `node scripts/build-company-lessons.cjs`.
-The entrypoint loads `data.js`, `company-expansion.js`, `overviews.js`, `product-images.js`, `gallery.js`, `financial-data.js`, `financial-expansion.js`, `financials.js`, `research-guides.js`, `hul-primer.js`, `itc-primer.js`, `nestle-primer.js`, `britannia-primer.js`, `marico-primer.js`, `dmart-primer.js`, `profile-lessons.js`, `company-lessons.js`, `app.js` and `style.css`. Navigation uses hash routes,
+The entrypoint loads the generated `company-data.js`, `overviews.js`, `gallery.js`, `financial-data.js`, `financial-expansion.js`, `financials.js`, `research-guides.js`, `hul-primer.js`, `itc-primer.js`, `nestle-primer.js`, `britannia-primer.js`, `marico-primer.js`, `dmart-primer.js`, `profile-lessons.js`, `company-lessons.js`, `app.js` and `style.css`. Navigation uses hash routes,
 so company links work on static hosting. `.openai/hosting.json` retains the Sites project identity.
 
 ## Live website
@@ -33,7 +33,7 @@ GitHub Pages publishes `dist/` automatically after each push to `main`:
 Initial sources were inspected during 15–18 September 2026. No data refresh runs automatically. Per-company review dates are shown only when recorded; the 24 original profiles have no individual review date and are labelled accordingly, rather than inheriting a fixed date.
 Company disclosures and product directories support business facts; watch items,
 risks and learning explanations are editorial interpretation. This is not stock advice.
-Profile sources are stored with each record in `dist/data.js` and `dist/company-expansion.js`. The 11 expansion profiles were reviewed on 27 October 2026; aliases support familiar names and common spelling variations.
+Each company's base record and offering cards live in one file, `content/companies/<company>.json`. Edit that file, then run `node scripts/build-company-data.cjs` to regenerate `dist/company-data.js` (`--check` fails if the bundle is stale). Profile sources are stored with each record. The 11 expansion profiles were reviewed on 27 October 2026; aliases support familiar names and common spelling variations.
 
 Financial figures checked on 29 October 2026 are stored in the original `dist/financial-data.js` plus generated `dist/financial-expansion.js`, and rendered by `dist/financials.js`. New financial authoring lives in `content/financial-reviews/` with primary-source evidence transcriptions.
 The current release contains 35 verified snapshots, all for FY 2025–26, covering the 35 companies added before 31 October 2026; the six companies added on that date show the explicit verification-pending state. The original 17 records remain unchanged:

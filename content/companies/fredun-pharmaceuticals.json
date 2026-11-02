@@ -1,0 +1,217 @@
+{
+  "order": 38,
+  "company": {
+    "id": "fredun-pharmaceuticals",
+    "name": "Fredun Pharmaceuticals",
+    "ticker": "FREDUN",
+    "sector": "Healthcare",
+    "initial": "FP",
+    "color": "#b04a62",
+    "bg": "#f9edf0",
+    "tag": "The business behind the offering",
+    "summary": "Fredun Pharmaceuticals makes medicines in a factory near Mumbai and sells most of them abroad, and is now adding pet-health, supplement and wellness brands.",
+    "description": "A medicine such as a blood-pressure tablet must be made, packed, approved in each country that buys it, and sold to someone who will pay. Fredun does this for generic medicines (copies of medicines whose original patents have ended) in its own factory in Palghar, near Mumbai. Distributors and importers in many countries buy them, mostly in Africa, Southeast Asia, the former Soviet region and Latin America. Government agencies also buy medicines through public tenders. Over the past few years Fredun has added pet medicines, food supplements, skin-care products, support braces and a wellness range, which it presents as a wider healthcare business.",
+    "ownership": "This profile covers Fredun Pharmaceuticals Limited, a Mumbai-based company listed on BSE. It makes medicines and health products in its own factory, and also runs newer consumer and pet-health brands. Several of those brands, such as Freossi, BeautyFred and DAULCÉL, are product names and not separate listed companies.",
+    "products": [
+      [
+        "Export medicines (Fredun Gx brand)",
+        "Branded generic medicines sold abroad"
+      ],
+      [
+        "Medicines made for other companies (OEM)",
+        "Products sold under another company’s name"
+      ],
+      [
+        "Government hospital supply contracts",
+        "Medicines sold through public tenders"
+      ],
+      [
+        "Pet medicines and diagnostics (Freossi)",
+        "Animal health care"
+      ],
+      [
+        "Pet food and pet shops",
+        "Functional pet foods and retail"
+      ],
+      [
+        "Nutrition supplements (Fredun Nutrition)",
+        "Food-supplement brands such as Mamalait and Fredmax"
+      ],
+      [
+        "Skin-care products (BeautyFred)",
+        "Skin products with added active ingredients"
+      ],
+      [
+        "Support braces and home-health devices",
+        "Orthopaedic supports, nebulisers and monitors"
+      ],
+      [
+        "Premium wellness and hormone-health range",
+        "Newest, least proven business lines"
+      ]
+    ],
+    "money": "Fredun earns money when a distributor, importer, government agency or other customer pays for the medicines and products it ships. Its main costs are the chemical ingredients, factory work, getting each product approved in each country, selling and advertising, and interest on loans. Newer consumer brands usually cost money to launch before they bring in much, so adding many at once can hold back profit.",
+    "watch": [
+      [
+        "How much of sales still comes from medicines sold abroad?",
+        "The export medicine business is the established part; the new businesses are not yet proven."
+      ],
+      [
+        "Does profit keep pace as sales grow?",
+        "Sales can rise quickly without profit rising by as much."
+      ],
+      [
+        "How long does Fredun wait to be paid?",
+        "Overseas distributors and government agencies pay on different schedules and some in foreign currencies."
+      ],
+      [
+        "Will the new factory space be used?",
+        "A new facility adds costs such as depreciation and staff even if orders do not arrive."
+      ],
+      [
+        "Are the new brands earning their launch costs?",
+        "Pet, supplement, skin-care and wellness brands need advertising and stock before sales build."
+      ]
+    ],
+    "risks": [
+      [
+        "Regulators or buyers change the rules",
+        "A country can delay or refuse a registration, change its import rules or change what it will pay. Fredun sells in many such markets."
+      ],
+      [
+        "Product quality problems",
+        "A failed quality check or a recall can stop sales and damage the relationship with distributors."
+      ],
+      [
+        "Ingredient prices and currency swings",
+        "The cost of active ingredients and the exchange rate can change faster than Fredun can change its selling prices."
+      ],
+      [
+        "Overseas customers pay late",
+        "Distributors and agencies in other countries can delay payment or fail to pay, which ties up cash."
+      ],
+      [
+        "Too many new businesses at once",
+        "Launching pet, supplement, skin-care, device and wellness lines together stretches management and money, and some may not earn back their costs."
+      ],
+      [
+        "A small company with a short record on its new lines",
+        "The new lines are recent and their results are described mainly by the company itself."
+      ]
+    ],
+    "sources": [
+      [
+        "Results press release · 6 August 2026 (BSE filing)",
+        "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2dcc16c8-0163-4b42-9e8e-ffe1e1b74c2e.pdf"
+      ],
+      [
+        "Annual report filing intimation · 23 June 2026 (BSE filing)",
+        "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3be196be-c2ec-415f-b849-4f8308943486.pdf"
+      ],
+      [
+        "FY 2025–26 annual report (company website, http only)",
+        "http://www.fredungroup.com/images/39th%20Annual%20Report.pdf"
+      ],
+      [
+        "Fredun Group investor page (company website, http only)",
+        "http://www.fredungroup.com/investor-annual-report.html"
+      ]
+    ],
+    "update": [
+      "August 2026: sales almost doubled but the profit margin hardly moved",
+      "Fredun’s 6 August 2026 results release says total income for April–June 2026 was almost twice that of a year earlier, and profit also nearly doubled, while the profit margin was almost unchanged. The extra profit therefore came from selling more, not from earning more on each sale. The figures are unaudited, meaning not yet fully checked by the auditors. The company also gave shareholders two bonus shares for every share held in July 2026. The full-year figures at the end of this page cover an earlier period."
+    ],
+    "question": "If a company’s sales almost double, has its profit per rupee of sales improved?",
+    "answer": "Not necessarily. If profit also nearly doubled, the margin (profit as a share of sales) stayed about the same. Compare profit growth with sales growth to see whether it is selling more or earning more on each sale.",
+    "productSource": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2dcc16c8-0163-4b42-9e8e-ffe1e1b74c2e.pdf",
+    "productNote": "Business lines reviewed in Fredun’s FY 2025–26 annual report and 6 August 2026 results release on 31 October 2026. Pictures for export medicines, hospital supply, pet food and support braces are real photographs from Wikimedia Commons showing the kind of product, not Fredun’s own packs, with the photographer credited. The other cards remain labelled original illustrations because no suitable photograph was found. The newer consumer and wellness lines are described in the company’s own words and are not independent evidence of sales.",
+    "checked": "31 Oct 2026",
+    "reviewed": "31 October 2026",
+    "aliases": [
+      "Fredun",
+      "Fredun Group",
+      "Fredun Pharma",
+      "Freossi",
+      "BeautyFred",
+      "Fredun Gx"
+    ]
+  },
+  "offerings": [
+    {
+      "name": "Export medicines (Fredun Gx brand)",
+      "category": "Branded generic medicines sold abroad",
+      "image": "assets/products/fredun-pharmaceuticals-export-medicines-fredun-gx-brand.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:Blister_of_tablets.jpg",
+      "kind": "generic",
+      "alt": "Export medicines (Fredun Gx brand) — real photograph of this kind of work or product, not the company's own item",
+      "credit": "Tarasna0922 · CC BY-SA 4.0 · Wikimedia Commons"
+    },
+    {
+      "name": "Medicines made for other companies (OEM)",
+      "category": "Products sold under another company’s name",
+      "image": "assets/products/fredun-pharmaceuticals-medicines-made-for-other-companies-oem.svg",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2dcc16c8-0163-4b42-9e8e-ffe1e1b74c2e.pdf",
+      "kind": "illustration",
+      "alt": "Medicines made for other companies (OEM) — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Government hospital supply contracts",
+      "category": "Medicines sold through public tenders",
+      "image": "assets/products/fredun-pharmaceuticals-government-hospital-supply-contracts.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:Hospital_Pharmacy.JPG",
+      "kind": "generic",
+      "alt": "Government hospital supply contracts — real photograph of this kind of work or product, not the company's own item",
+      "credit": "User:Mattes · Public domain · Wikimedia Commons"
+    },
+    {
+      "name": "Pet medicines and diagnostics (Freossi)",
+      "category": "Animal health care",
+      "image": "assets/products/fredun-pharmaceuticals-pet-medicines-and-diagnostics-freossi.svg",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2dcc16c8-0163-4b42-9e8e-ffe1e1b74c2e.pdf",
+      "kind": "illustration",
+      "alt": "Pet medicines and diagnostics (Freossi) — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Pet food and pet shops",
+      "category": "Functional pet foods and retail",
+      "image": "assets/products/fredun-pharmaceuticals-pet-food-and-pet-shops.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:Dog_food_in_a_bowl.jpg",
+      "kind": "generic",
+      "alt": "Pet food and pet shops — real photograph of this kind of work or product, not the company's own item",
+      "credit": "James Redekop · CC BY-SA 2.0 · Wikimedia Commons"
+    },
+    {
+      "name": "Nutrition supplements (Fredun Nutrition)",
+      "category": "Food-supplement brands such as Mamalait and Fredmax",
+      "image": "assets/products/fredun-pharmaceuticals-nutrition-supplements-fredun-nutrition.svg",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2dcc16c8-0163-4b42-9e8e-ffe1e1b74c2e.pdf",
+      "kind": "illustration",
+      "alt": "Nutrition supplements (Fredun Nutrition) — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Skin-care products (BeautyFred)",
+      "category": "Skin products with added active ingredients",
+      "image": "assets/products/fredun-pharmaceuticals-skin-care-products-beautyfred.svg",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2dcc16c8-0163-4b42-9e8e-ffe1e1b74c2e.pdf",
+      "kind": "illustration",
+      "alt": "Skin-care products (BeautyFred) — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Support braces and home-health devices",
+      "category": "Orthopaedic supports, nebulisers and monitors",
+      "image": "assets/products/fredun-pharmaceuticals-support-braces-and-home-health-devices.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:Full_orthopedic_back_brace.jpg",
+      "kind": "generic",
+      "alt": "Support braces and home-health devices — real photograph of this kind of work or product, not the company's own item",
+      "credit": "Orthodontist101 · CC BY-SA 4.0 · Wikimedia Commons"
+    },
+    {
+      "name": "Premium wellness and hormone-health range",
+      "category": "Newest, least proven business lines",
+      "image": "assets/products/fredun-pharmaceuticals-premium-wellness-and-hormone-health-range.svg",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2dcc16c8-0163-4b42-9e8e-ffe1e1b74c2e.pdf",
+      "kind": "illustration",
+      "alt": "Premium wellness and hormone-health range — conceptual illustration, not a product photograph"
+    }
+  ]
+}

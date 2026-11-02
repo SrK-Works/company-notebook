@@ -1,0 +1,272 @@
+{
+  "order": 5,
+  "company": {
+    "id": "marico",
+    "name": "Marico",
+    "ticker": "MARICO",
+    "sector": "Everyday essentials",
+    "initial": "m",
+    "color": "#177657",
+    "bg": "#e9f7ef",
+    "tag": "Brands hiding in plain sight",
+    "summary": "The consumer-goods business associated with Parachute, Saffola and Livon.",
+    "description": "Marico markets consumer products including coconut oils, edible oils, foods and personal-care products. The India brand directory is a useful starting point for connecting products to the company.",
+    "products": [
+      [
+        "Parachute",
+        "Coconut oil"
+      ],
+      [
+        "Saffola",
+        "Edible oils, foods and wellness"
+      ],
+      [
+        "Hair & Care",
+        "Hair oil"
+      ],
+      [
+        "Parachute Advansed",
+        "Hair care"
+      ],
+      [
+        "Nihar Naturals",
+        "Hair oil"
+      ],
+      [
+        "Mediker",
+        "Hair and scalp care"
+      ],
+      [
+        "Pure Sense",
+        "Skin and hair care"
+      ],
+      [
+        "Coco Soul",
+        "Coconut-based foods"
+      ],
+      [
+        "Revive",
+        "Fabric care"
+      ],
+      [
+        "Set Wet",
+        "Men’s grooming"
+      ],
+      [
+        "Livon",
+        "Hair care"
+      ],
+      [
+        "Beardo",
+        "Men’s grooming"
+      ],
+      [
+        "Just Herbs",
+        "Ayurvedic beauty"
+      ],
+      [
+        "True Elements",
+        "Healthy foods"
+      ],
+      [
+        "Plix",
+        "Plant-based nutrition"
+      ],
+      [
+        "Cosmix",
+        "Plant-based nutrition"
+      ],
+      [
+        "4700BC",
+        "Snacks"
+      ],
+      [
+        "HairCode",
+        "Hair care · international"
+      ],
+      [
+        "Fiancée",
+        "Personal care · international"
+      ],
+      [
+        "Herbsindia",
+        "Hair care · international"
+      ],
+      [
+        "Purité de Prôvence",
+        "Beauty · international"
+      ],
+      [
+        "Ôliv",
+        "Beauty · international"
+      ],
+      [
+        "LASHE Superfood",
+        "Beauty · international"
+      ],
+      [
+        "Candid",
+        "Personal care · international"
+      ],
+      [
+        "Caivil",
+        "Hair care · international"
+      ],
+      [
+        "Hercules",
+        "Personal care · international"
+      ],
+      [
+        "Black Chic",
+        "Hair care · international"
+      ],
+      [
+        "Code 10",
+        "Personal care · international"
+      ],
+      [
+        "Ingwe",
+        "Personal care · international"
+      ],
+      [
+        "X-Men",
+        "Men’s grooming · international"
+      ],
+      [
+        "Thuan Phat",
+        "Food · international"
+      ],
+      [
+        "Isoplus",
+        "Hair care · international"
+      ]
+    ],
+    "money": "It earns money from consumer-product sales. Pricing, demand, product mix and the cost of ingredients influence the earnings left after operating expenses.",
+    "ownership": "This profile covers Marico Limited. Brand relationships can include different commercial arrangements; use the company’s own brand directory rather than assuming all associations mean full ownership.",
+    "watch": [
+      [
+        "Volume growth",
+        "How much growth comes from increased consumption?"
+      ],
+      [
+        "Commodity costs",
+        "What is happening to key oil and ingredient prices?"
+      ],
+      [
+        "New categories",
+        "Are newer brands adding profitable sales?"
+      ]
+    ],
+    "risks": [
+      [
+        "Input volatility",
+        "Oil and ingredient costs can move sharply."
+      ],
+      [
+        "Brand dependence",
+        "Weakness in an important category can affect overall performance."
+      ],
+      [
+        "Expansion costs",
+        "New categories can require advertising before they earn meaningful profit."
+      ]
+    ],
+    "sources": [
+      [
+        "Marico India brand directory",
+        "https://marico.com/india/brands"
+      ]
+    ],
+    "update": [
+      "Check the brand relationship",
+      "Marico’s directory distinguishes some commercial rights from straightforward ownership. Read the relationship before mapping a brand."
+    ],
+    "question": "Does a company marketing a brand always mean it owns that brand?",
+    "answer": "No. A company may have sales, distribution or licensing rights. The specific commercial relationship matters.",
+    "productSource": "https://marico.com/india/about-us",
+    "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
+    "logo": "assets/logos/marico.svg"
+  },
+  "offerings": [
+    {
+      "name": "Parachute",
+      "category": "Coconut oil",
+      "image": "assets/products/marico-9.webp",
+      "url": "https://marico.com/india/about-us",
+      "kind": "pack",
+      "alt": "Parachute — official product image"
+    },
+    {
+      "name": "Saffola",
+      "category": "Edible oils, foods and wellness",
+      "image": "assets/products/marico-41.webp",
+      "url": "https://marico.com/india/about-us",
+      "kind": "brand",
+      "alt": "Saffola — official product image"
+    },
+    {
+      "name": "Saffola Foods",
+      "category": "Foods · oats and wellness",
+      "image": "assets/products/marico-42.webp",
+      "url": "https://marico.com/india/about-us",
+      "kind": "brand",
+      "alt": "Saffola Foods — official product image"
+    },
+    {
+      "name": "Plix",
+      "category": "Plant-based nutrition",
+      "image": "assets/products/marico-43.webp",
+      "url": "https://marico.com/india/about-us",
+      "kind": "brand",
+      "alt": "Plix — official product image"
+    },
+    {
+      "name": "Parachute Advansed",
+      "category": "Hair care",
+      "image": "assets/products/marico-44.webp",
+      "url": "https://marico.com/india/about-us",
+      "kind": "brand",
+      "alt": "Parachute Advansed — official product image"
+    },
+    {
+      "name": "Hair & Care",
+      "category": "Hair oil",
+      "image": "assets/products/marico-45.webp",
+      "url": "https://marico.com/india/about-us",
+      "kind": "brand",
+      "alt": "Hair & Care — official product image"
+    },
+    {
+      "name": "Livon",
+      "category": "Hair care",
+      "image": "assets/products/marico-46.webp",
+      "url": "https://marico.com/india/about-us",
+      "kind": "brand",
+      "alt": "Livon — official product image"
+    },
+    {
+      "name": "Beardo",
+      "category": "Men’s grooming",
+      "image": "assets/products/marico-47.webp",
+      "url": "https://marico.com/india/about-us",
+      "kind": "brand",
+      "alt": "Beardo — official product image"
+    },
+    {
+      "name": "Just Herbs",
+      "category": "Ayurvedic beauty",
+      "image": "assets/products/marico-48.webp",
+      "url": "https://marico.com/india/about-us",
+      "kind": "brand",
+      "alt": "Just Herbs — official product image"
+    },
+    {
+      "name": "Revive",
+      "category": "Fabric care",
+      "image": "assets/products/marico-49.webp",
+      "url": "https://marico.com/india/about-us",
+      "kind": "brand",
+      "alt": "Revive — official product image"
+    }
+  ]
+}

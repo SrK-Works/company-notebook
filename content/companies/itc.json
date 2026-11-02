@@ -1,0 +1,428 @@
+{
+  "order": 2,
+  "company": {
+    "id": "itc",
+    "name": "ITC",
+    "ticker": "ITC",
+    "sector": "Everyday essentials",
+    "initial": "ITC",
+    "color": "#24407d",
+    "bg": "#eaf0fc",
+    "tag": "Look beyond the familiar brand",
+    "summary": "Foods, personal care and stationery sit alongside cigarettes, paper, packaging and agricultural businesses.",
+    "description": "ITC operates across fast-moving consumer goods, paperboards and packaging, agriculture and information technology. Its familiar food brands are only one part of the company, and cigarettes remain an important business to study separately.",
+    "products": [
+      [
+        "Aashirvaad",
+        "Food · staples, spices, dairy and ready meals"
+      ],
+      [
+        "Sunrise",
+        "Food · spices"
+      ],
+      [
+        "Bingo!",
+        "Food · snacks"
+      ],
+      [
+        "Sunfeast",
+        "Food · biscuits and cakes"
+      ],
+      [
+        "Fabelle",
+        "Food · chocolates"
+      ],
+      [
+        "Sunbean",
+        "Food · coffee"
+      ],
+      [
+        "YiPPee!",
+        "Food · noodles and pasta"
+      ],
+      [
+        "Kitchens of India",
+        "Food · ready-to-eat meals"
+      ],
+      [
+        "B Natural",
+        "Food · beverages"
+      ],
+      [
+        "ITC Master Chef",
+        "Food · frozen and ready-to-cook foods"
+      ],
+      [
+        "Farmland",
+        "Food · fresh and frozen produce"
+      ],
+      [
+        "mint-o",
+        "Food · confectionery"
+      ],
+      [
+        "Candyman",
+        "Food · confectionery"
+      ],
+      [
+        "Jelimals",
+        "Food · confectionery"
+      ],
+      [
+        "GumOn",
+        "Food · chewing gum"
+      ],
+      [
+        "24 Mantra Organic",
+        "Food · organic staples"
+      ],
+      [
+        "Yoga Bar",
+        "Food · nutrition foods"
+      ],
+      [
+        "Prasuma",
+        "Food · chilled and frozen foods"
+      ],
+      [
+        "Meatigo",
+        "Food · meat and seafood delivery"
+      ],
+      [
+        "EDW Essenza",
+        "Personal care · fragrances"
+      ],
+      [
+        "Dermafique",
+        "Personal care · skin care"
+      ],
+      [
+        "Fiama",
+        "Personal care · personal wash"
+      ],
+      [
+        "Vivel",
+        "Personal care · soaps and body wash"
+      ],
+      [
+        "Engage",
+        "Personal care · fragrances"
+      ],
+      [
+        "Savlon",
+        "Personal care · hygiene"
+      ],
+      [
+        "Charmis",
+        "Personal care · skin care"
+      ],
+      [
+        "Shower to Shower",
+        "Personal care · body powder"
+      ],
+      [
+        "Nimyle",
+        "Home care · floor cleaner"
+      ],
+      [
+        "Nimwash",
+        "Home care · fruit and vegetable wash"
+      ],
+      [
+        "Nimeasy",
+        "Home care · dishwashing"
+      ],
+      [
+        "Superia",
+        "Personal care · soaps and shampoo"
+      ],
+      [
+        "Mother Sparsh",
+        "Personal care · baby and skin care"
+      ],
+      [
+        "Classmate",
+        "Education and stationery"
+      ],
+      [
+        "Paperkraft",
+        "Premium stationery"
+      ],
+      [
+        "Mangaldeep",
+        "Incense sticks and dhoop"
+      ],
+      [
+        "AIM",
+        "Safety matches"
+      ],
+      [
+        "Homelites",
+        "Safety matches"
+      ],
+      [
+        "Ship Superior",
+        "Safety matches"
+      ],
+      [
+        "Cheeta Fight",
+        "Safety matches"
+      ],
+      [
+        "Kapas",
+        "Safety matches"
+      ],
+      [
+        "Dazzle",
+        "Safety matches"
+      ],
+      [
+        "Insignia",
+        "Cigarettes"
+      ],
+      [
+        "India Kings",
+        "Cigarettes"
+      ],
+      [
+        "Classic",
+        "Cigarettes"
+      ],
+      [
+        "Gold Flake",
+        "Cigarettes"
+      ],
+      [
+        "American Club",
+        "Cigarettes"
+      ],
+      [
+        "Wills Navy Cut",
+        "Cigarettes"
+      ],
+      [
+        "Players",
+        "Cigarettes"
+      ],
+      [
+        "Scissors",
+        "Cigarettes"
+      ],
+      [
+        "Capstan",
+        "Cigarettes"
+      ],
+      [
+        "Berkeley",
+        "Cigarettes"
+      ],
+      [
+        "Bristol",
+        "Cigarettes"
+      ],
+      [
+        "Flake",
+        "Cigarettes"
+      ],
+      [
+        "Silk Cut",
+        "Cigarettes"
+      ],
+      [
+        "Duke",
+        "Cigarettes"
+      ],
+      [
+        "Royal",
+        "Cigarettes"
+      ],
+      [
+        "Armenteros",
+        "Hand-rolled cigars"
+      ],
+      [
+        "Paperboards & specialty papers",
+        "Paper products for business customers"
+      ],
+      [
+        "Packaging & printing",
+        "Paperboard and flexible packaging"
+      ],
+      [
+        "Agri business",
+        "Agricultural commodities and services"
+      ],
+      [
+        "ITC Infotech",
+        "Technology services"
+      ]
+    ],
+    "productSource": "https://itcportal.com/itc-businesses/fmcg.html",
+    "productNote": "Major brands and business offerings named in ITC’s official portfolio as reviewed in October 2026. This groups product families rather than every flavour, variant or pack size. Tobacco brands are included for company-ownership research; tobacco use causes serious harm and this listing is not a product endorsement.",
+    "money": "Consumer purchases support its FMCG businesses, while the paper, packaging, agriculture and technology divisions sell products and services to business customers. Cigarettes and other FMCG products have different economics, so study their sales and profit contributions separately before assessing the group.",
+    "ownership": "This page covers ITC Limited. ITC Hotels became a separately listed company after the hotel business demerger, so hotel brands are not included here. Acquired consumer brands may operate through subsidiaries. Tobacco brands are listed to show the company’s business exposure, not to promote their use.",
+    "watch": [
+      [
+        "Segment profit",
+        "Which activities contribute earnings, rather than just sales?"
+      ],
+      [
+        "Cigarette volumes and taxes",
+        "How do legal cigarette volumes, excise duties and regulation affect the segment?"
+      ],
+      [
+        "Consumer-goods margins",
+        "Can newer categories cover manufacturing, distribution and advertising costs?"
+      ]
+    ],
+    "risks": [
+      [
+        "Tobacco regulation",
+        "Taxes, health rules and restrictions can affect cigarette demand and economics."
+      ],
+      [
+        "Commodity exposure",
+        "Agricultural inputs and paper-related costs can fluctuate."
+      ],
+      [
+        "Brand competition",
+        "Building food and personal-care brands requires sustained investment."
+      ]
+    ],
+    "sources": [
+      [
+        "ITC business profile",
+        "https://itcportal.com/about-itc/our-profile.html"
+      ],
+      [
+        "Complete FMCG portfolio",
+        "https://itcportal.com/itc-businesses/fmcg.html"
+      ],
+      [
+        "Packaged foods portfolio",
+        "https://itcportal.com/itc-businesses/fmcg/food.html"
+      ],
+      [
+        "Personal care portfolio",
+        "https://itcportal.com/itc-businesses/fmcg/Personal-care.html"
+      ],
+      [
+        "Cigarette brand portfolio",
+        "https://itcportal.com/itc-businesses/fmcg/cigarette.html"
+      ],
+      [
+        "Education and stationery portfolio",
+        "https://itcportal.com/itc-businesses/fmcg/education-and-stationery.html"
+      ],
+      [
+        "Safety matches portfolio",
+        "https://itcportal.com/itc-businesses/fmcg/safety-matches.html"
+      ]
+    ],
+    "update": [
+      "Portfolio expanded across every major category",
+      "The notebook now covers ITC’s major food, personal-care, stationery, incense, match and tobacco brands, along with its business-to-business offerings."
+    ],
+    "question": "Can you judge ITC by the popularity of one biscuit or cigarette brand?",
+    "answer": "No. A familiar brand is only one part of a diversified company. The sales, profit, cash generation and risks of each business segment also matter.",
+    "logo": "assets/logos/itc.png"
+  },
+  "offerings": [
+    {
+      "name": "Fabelle",
+      "category": "Food · chocolates",
+      "image": "assets/products/itc-12.webp",
+      "url": "https://itcportal.com/itc-businesses/fmcg.html",
+      "kind": "pack",
+      "alt": "Fabelle — official product image"
+    },
+    {
+      "name": "ITC Master Chef",
+      "category": "Food · frozen and ready-to-cook foods",
+      "image": "assets/products/itc-13.webp",
+      "url": "https://itcportal.com/itc-businesses/fmcg.html",
+      "kind": "pack",
+      "alt": "ITC Master Chef — official product image"
+    },
+    {
+      "name": "Candyman",
+      "category": "Food · confectionery",
+      "image": "assets/products/itc-14.webp",
+      "url": "https://itcportal.com/itc-businesses/fmcg.html",
+      "kind": "pack",
+      "alt": "Candyman — official product image"
+    },
+    {
+      "name": "Sunfeast Bounce",
+      "category": "Biscuits and cakes",
+      "image": "assets/products/itc-15.webp",
+      "url": "https://itcportal.com/itc-businesses/fmcg.html",
+      "kind": "pack",
+      "alt": "Sunfeast — official product image"
+    },
+    {
+      "name": "Savlon",
+      "category": "Personal care · hygiene",
+      "image": "assets/products/itc-16.webp",
+      "url": "https://itcportal.com/itc-businesses/fmcg.html",
+      "kind": "pack",
+      "alt": "Savlon — official product image"
+    },
+    {
+      "name": "Engage",
+      "category": "Personal care · fragrances",
+      "image": "assets/products/itc-17.webp",
+      "url": "https://itcportal.com/itc-businesses/fmcg.html",
+      "kind": "pack",
+      "alt": "Engage — official product image"
+    },
+    {
+      "name": "Nimyle",
+      "category": "Home care · floor cleaner",
+      "image": "assets/products/itc-18.webp",
+      "url": "https://itcportal.com/itc-businesses/fmcg.html",
+      "kind": "pack",
+      "alt": "Nimyle — official product image"
+    },
+    {
+      "name": "Vivel",
+      "category": "Personal care · soaps and body wash",
+      "image": "assets/products/itc-19.webp",
+      "url": "https://itcportal.com/itc-businesses/fmcg.html",
+      "kind": "pack",
+      "alt": "Vivel — official product image"
+    },
+    {
+      "name": "B Natural",
+      "category": "Food · beverages",
+      "image": "assets/products/itc-20.webp",
+      "url": "https://itcportal.com/itc-businesses/fmcg.html",
+      "kind": "pack",
+      "alt": "B Natural — official product image"
+    },
+    {
+      "name": "Mangaldeep",
+      "category": "Incense sticks and dhoop",
+      "image": "assets/products/itc-21.webp",
+      "url": "https://itcportal.com/itc-businesses/fmcg.html",
+      "kind": "pack",
+      "alt": "Mangaldeep — official product image"
+    },
+    {
+      "name": "Sunbean",
+      "category": "Food · coffee",
+      "image": "assets/products/itc-22.webp",
+      "url": "https://itcportal.com/itc-businesses/fmcg.html",
+      "kind": "pack",
+      "alt": "Sunbean — official product image"
+    },
+    {
+      "name": "Sunfeast Fantastik",
+      "category": "Biscuits and cakes",
+      "image": "assets/products/itc-23.webp",
+      "url": "https://itcportal.com/itc-businesses/fmcg.html",
+      "kind": "pack",
+      "alt": "Sunfeast — official product image"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "order": 19,
+  "company": {
+    "id": "sun-pharma",
+    "name": "Sun Pharmaceutical Industries",
+    "ticker": "SUNPHARMA",
+    "sector": "Healthcare",
+    "initial": "Sun",
+    "color": "#a93743",
+    "bg": "#fff0f1",
+    "tag": "Medicines across several markets",
+    "summary": "A pharmaceutical company spanning specialty medicines, generics and consumer healthcare.",
+    "description": "Sun Pharma develops, manufactures and markets pharmaceutical products across chronic and acute therapies. Its portfolio includes specialty medicines, generics, branded generics, over-the-counter products and active pharmaceutical ingredients.",
+    "products": [
+      [
+        "Specialty medicines",
+        "Differentiated therapies"
+      ],
+      [
+        "Generic medicines",
+        "Affordable formulations"
+      ],
+      [
+        "Branded generics",
+        "Prescription medicines"
+      ],
+      [
+        "Active pharmaceutical ingredients",
+        "Medicine inputs"
+      ],
+      [
+        "Over-the-counter products",
+        "Consumer healthcare"
+      ],
+      [
+        "Anti-retroviral medicines",
+        "HIV therapies"
+      ],
+      [
+        "Dermatology therapies",
+        "Prescription medicines"
+      ],
+      [
+        "Ophthalmology therapies",
+        "Prescription medicines"
+      ],
+      [
+        "Oncology therapies",
+        "Cancer medicines"
+      ],
+      [
+        "Respiratory therapies",
+        "Prescription medicines"
+      ],
+      [
+        "Cardiology and diabetology",
+        "Chronic therapies"
+      ],
+      [
+        "Psychiatry and neurology",
+        "Central-nervous-system therapies"
+      ],
+      [
+        "Volini",
+        "Pain-relief consumer health"
+      ],
+      [
+        "Revital H",
+        "Nutrition supplement"
+      ],
+      [
+        "Abzorb",
+        "Antifungal consumer health"
+      ],
+      [
+        "Faringosept",
+        "Throat-care consumer health"
+      ]
+    ],
+    "money": "Revenue comes from selling medicines and pharmaceutical ingredients across markets. Product approvals, competition, pricing, manufacturing quality and research spending shape profit and cash flow.",
+    "ownership": "This profile covers Sun Pharmaceutical Industries Limited and its consolidated group. A medicine sold by a subsidiary can sit within the group, while a distributed or licensed product may involve another owner.",
+    "watch": [
+      [
+        "Product mix",
+        "How much growth comes from specialty products, generics and different markets?"
+      ],
+      [
+        "Research pipeline",
+        "Are development investments producing approved products?"
+      ],
+      [
+        "Regulatory quality",
+        "Are manufacturing sites meeting the standards of each market?"
+      ]
+    ],
+    "risks": [
+      [
+        "Regulatory action",
+        "Quality failures can lead to warnings, recalls or sales restrictions."
+      ],
+      [
+        "Price competition",
+        "Generic medicine prices can fall when competitors enter."
+      ],
+      [
+        "Research uncertainty",
+        "Development spending does not guarantee approval or commercial success."
+      ]
+    ],
+    "sources": [
+      [
+        "Sun Pharma company overview",
+        "https://sunpharma.com/about-us/"
+      ],
+      [
+        "Sun Pharma product portfolio",
+        "https://sunpharma.com/products/"
+      ]
+    ],
+    "update": [
+      "Products are broader than familiar OTC brands",
+      "The official portfolio spans specialty, generic and active-ingredient businesses across many countries."
+    ],
+    "question": "Why can a medicine company spend on research without generating a successful new product?",
+    "answer": "Drug development and approval are uncertain. A project can fail scientifically, commercially or during regulatory review.",
+    "productSource": "https://sunpharma.com/products/",
+    "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
+    "logo": "assets/logos/sun-pharma.png"
+  },
+  "offerings": [
+    {
+      "name": "Volini Gel",
+      "category": "Consumer healthcare · pain relief",
+      "image": "assets/products/sun-pharma-118.webp",
+      "url": "https://sunpharma.com/products/",
+      "kind": "pack",
+      "alt": "Volini Gel — official product image"
+    },
+    {
+      "name": "Volini Spray",
+      "category": "Consumer healthcare · pain relief",
+      "image": "assets/products/sun-pharma-119.webp",
+      "url": "https://sunpharma.com/products/",
+      "kind": "pack",
+      "alt": "Volini Spray — official product image"
+    },
+    {
+      "name": "Volini Maxx Spray",
+      "category": "Consumer healthcare · pain relief",
+      "image": "assets/products/sun-pharma-120.webp",
+      "url": "https://sunpharma.com/products/",
+      "kind": "pack",
+      "alt": "Volini Maxx Spray — official product image"
+    },
+    {
+      "name": "Volini Pain Patch",
+      "category": "Consumer healthcare · pain relief",
+      "image": "assets/products/sun-pharma-121.webp",
+      "url": "https://sunpharma.com/products/",
+      "kind": "pack",
+      "alt": "Volini Pain Patch — official product image"
+    },
+    {
+      "name": "Specialty medicines",
+      "category": "Medicines for particular treatment needs",
+      "image": "assets/products/sun-pharma-specialty-medicines.svg",
+      "url": "https://sunpharma.com/products/",
+      "kind": "illustration",
+      "alt": "Specialty medicines — conceptual chemistry illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Generic medicines",
+      "category": "Medicines based on established active ingredients",
+      "image": "assets/products/sun-pharma-generic-medicines.svg",
+      "url": "https://sunpharma.com/products/",
+      "kind": "illustration",
+      "alt": "Generic medicines — conceptual chemistry illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Active pharmaceutical ingredients",
+      "category": "Ingredients used to make medicines",
+      "image": "assets/products/sun-pharma-active-pharmaceutical-ingredients.svg",
+      "url": "https://sunpharma.com/products/",
+      "kind": "illustration",
+      "alt": "Active pharmaceutical ingredients — conceptual chemistry illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Revital H",
+      "category": "Nutrition supplement",
+      "image": "assets/products/sun-pharma-revital-h.svg",
+      "url": "https://sunpharma.com/products/",
+      "kind": "illustration",
+      "alt": "Revital H — conceptual screen illustration; not a photograph or product screenshot"
+    }
+  ]
+}

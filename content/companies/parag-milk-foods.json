@@ -1,0 +1,210 @@
+{
+  "order": 30,
+  "company": {
+    "id": "parag-milk-foods",
+    "name": "Parag Milk Foods",
+    "ticker": "PARAGMILK",
+    "sector": "Everyday essentials",
+    "initial": "PM",
+    "color": "#28714b",
+    "bg": "#edf7ef",
+    "tag": "The business behind the offering",
+    "summary": "The dairy business behind Gowardhan, Go, Pride of Cows, Topp Up and Avvatar.",
+    "description": "Parag Milk Foods processes milk into consumer and institutional dairy products. It sells traditional dairy foods, cheese, beverages, premium milk and whey-based nutrition through several brands. The same milk supply can produce a mix of products with different selling prices, shelf lives and distribution needs.",
+    "ownership": "This profile covers Parag Milk Foods Limited. Its dairy brands are different from unrelated companies that use the word Parag. Brand imagery identifies offerings and does not imply a nutritional or medical endorsement.",
+    "products": [
+      [
+        "Gowardhan ghee",
+        "Traditional dairy"
+      ],
+      [
+        "Gowardhan milk",
+        "Packaged milk"
+      ],
+      [
+        "Gowardhan paneer",
+        "Fresh dairy"
+      ],
+      [
+        "Gowardhan dahi",
+        "Cultured dairy"
+      ],
+      [
+        "Gowardhan butter",
+        "Dairy fats"
+      ],
+      [
+        "Go cheese",
+        "Processed and natural cheese"
+      ],
+      [
+        "Go cheese spreads",
+        "Spreadable cheese"
+      ],
+      [
+        "Go UHT milk",
+        "Long-life milk"
+      ],
+      [
+        "Go fresh cream",
+        "Dairy ingredient"
+      ],
+      [
+        "Go yoghurt",
+        "Cultured dairy"
+      ],
+      [
+        "Pride of Cows",
+        "Premium milk and dairy"
+      ],
+      [
+        "Topp Up",
+        "Flavoured milk beverages"
+      ],
+      [
+        "Avvatar whey protein",
+        "Sports nutrition"
+      ],
+      [
+        "Skimmed milk powder",
+        "Consumer and institutional dairy"
+      ],
+      [
+        "Whole milk powder",
+        "Dairy ingredient"
+      ],
+      [
+        "Dairy whitener",
+        "Dairy ingredient"
+      ],
+      [
+        "Gulab jamun mix",
+        "Dairy-based dessert mix"
+      ]
+    ],
+    "money": "It earns from dairy-product sales across retail, institutional and other channels. Milk procurement costs, product mix, manufacturing efficiency and distribution determine the profit left from those sales.",
+    "watch": [
+      [
+        "Milk procurement cost",
+        "How fast are raw-milk costs changing relative to selling prices?"
+      ],
+      [
+        "Value-added product mix",
+        "Are cheese, premium dairy and nutrition products contributing profitable growth?"
+      ],
+      [
+        "Working capital",
+        "How much cash is tied up in milk-powder inventory and customer credit?"
+      ]
+    ],
+    "risks": [
+      [
+        "Milk supply and pricing",
+        "Seasonality and procurement competition can change input costs."
+      ],
+      [
+        "Perishability and quality",
+        "Cold-chain failures and product-quality issues can damage sales and reputation."
+      ],
+      [
+        "Inventory exposure",
+        "Dairy commodity prices can affect the value and profitability of stored products."
+      ]
+    ],
+    "question": "Why can cheese and whey nutrition change the economics of a dairy company?",
+    "answer": "They change the mix of products obtained from milk and may earn different margins, while requiring their own processing, branding and distribution spending.",
+    "sources": [
+      [
+        "Parag Milk Foods brands",
+        "https://www.paragmilkfoods.com/our-brands.php"
+      ],
+      [
+        "Gowardhan ghee",
+        "https://www.paragmilkfoods.com/gowardhan-ghee.php"
+      ],
+      [
+        "Go cheese portfolio",
+        "https://www.paragmilkfoods.com/go-cheese.php"
+      ],
+      [
+        "Company investor disclosures",
+        "https://www.paragmilkfoods.com/investors.php"
+      ]
+    ],
+    "update": [
+      "A milk company is also a product-mix business",
+      "Consider milk procurement, the mix of branded and institutional products, and inventory together. A popular dairy brand alone does not determine stock value."
+    ],
+    "productSource": "https://www.paragmilkfoods.com/our-brands.php",
+    "productNote": "Major offering families reviewed on 27 October 2026. Variants, locations and individual models are grouped; availability can vary.",
+    "checked": "27 Oct 2026",
+    "reviewed": "27 October 2026",
+    "aliases": [
+      "Paragh Milk Foods",
+      "Parag Dairy",
+      "Go Cheese",
+      "Gowardhan",
+      "Pride of Cows",
+      "Avvatar"
+    ],
+    "logo": "assets/logos/parag-milk-foods.webp"
+  },
+  "offerings": [
+    {
+      "name": "Gowardhan ghee",
+      "category": "Traditional dairy",
+      "image": "assets/products/parag-milk-foods-visual-21.webp",
+      "url": "https://www.paragmilkfoods.com/gowardhan-ghee.php",
+      "kind": "pack",
+      "alt": "Gowardhan ghee — image from the official company website"
+    },
+    {
+      "name": "Go cheese slices",
+      "category": "Cheese · selected variant",
+      "image": "assets/products/parag-milk-foods-visual-22.webp",
+      "url": "https://www.paragmilkfoods.com/go-cheese.php",
+      "kind": "pack",
+      "alt": "Go cheese slices — image from the official company website"
+    },
+    {
+      "name": "Go processed cheese",
+      "category": "Cheese · selected variant",
+      "image": "assets/products/parag-milk-foods-visual-23.webp",
+      "url": "https://www.paragmilkfoods.com/go-cheese.php",
+      "kind": "pack",
+      "alt": "Go processed cheese — image from the official company website"
+    },
+    {
+      "name": "Go pizza cheese",
+      "category": "Cheese · selected variant",
+      "image": "assets/products/parag-milk-foods-visual-24.webp",
+      "url": "https://www.paragmilkfoods.com/go-cheese.php",
+      "kind": "pack",
+      "alt": "Go pizza cheese — image from the official company website"
+    },
+    {
+      "name": "Go mozzarella",
+      "category": "Cheese · selected variant",
+      "image": "assets/products/parag-milk-foods-visual-25.webp",
+      "url": "https://www.paragmilkfoods.com/go-cheese.php",
+      "kind": "pack",
+      "alt": "Go mozzarella — image from the official company website"
+    },
+    {
+      "name": "Go cheese spreads",
+      "category": "Cheese · selected product",
+      "image": "assets/products/parag-milk-foods-visual-26.webp",
+      "url": "https://www.paragmilkfoods.com/go-cheese.php",
+      "kind": "pack",
+      "alt": "Go cheese spreads — image from the official company website"
+    },
+    {
+      "name": "Go shredded cheese",
+      "category": "Cheese · selected variant",
+      "image": "assets/products/parag-milk-foods-visual-27.webp",
+      "url": "https://www.paragmilkfoods.com/go-cheese.php",
+      "kind": "pack",
+      "alt": "Go shredded cheese — image from the official company website"
+    }
+  ]
+}

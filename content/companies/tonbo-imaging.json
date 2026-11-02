@@ -1,0 +1,201 @@
+{
+  "order": 26,
+  "company": {
+    "id": "tonbo-imaging",
+    "name": "Tonbo Imaging",
+    "ticker": "TONBO",
+    "sector": "Industrials & infrastructure",
+    "initial": "TI",
+    "color": "#65518c",
+    "bg": "#f2eef8",
+    "tag": "The business behind the offering",
+    "summary": "Thermal imaging and electro-optical systems used for surveillance, sensing and defence applications.",
+    "description": "Tonbo Imaging designs and makes systems that combine sensors, optics, electronics and image processing. Its portfolio spans thermal cameras, sights, surveillance equipment and integrated defence systems. Buyers include defence organisations and equipment manufacturers; these are specialised procurement markets rather than everyday retail.",
+    "ownership": "This profile covers Tonbo Imaging India Limited. Products shown on its official defence site include both imaging equipment and integrated systems. An announced platform or technology is not evidence of a booked customer order.",
+    "products": [
+      [
+        "Thermal imaging cores",
+        "Sensor and imaging modules"
+      ],
+      [
+        "Weapon sights",
+        "Electro-optical equipment"
+      ],
+      [
+        "Hand-held thermal imaging binoculars",
+        "Observation equipment"
+      ],
+      [
+        "Targeting systems",
+        "Integrated sensing systems"
+      ],
+      [
+        "Missile seekers",
+        "Guidance and sensing systems"
+      ],
+      [
+        "Fire-control systems",
+        "Defence electronics"
+      ],
+      [
+        "Pan-and-tilt systems",
+        "Surveillance equipment"
+      ],
+      [
+        "Command and control systems",
+        "C4I solutions"
+      ],
+      [
+        "See Through Armor",
+        "Vehicle situational awareness"
+      ],
+      [
+        "Connected Weapon Sights",
+        "Networked sighting systems"
+      ],
+      [
+        "Atmus EOIRST",
+        "Electro-optical surveillance"
+      ],
+      [
+        "Vault C-UAS",
+        "Counter-drone systems"
+      ],
+      [
+        "Astra RCWS",
+        "Remote-controlled weapon stations"
+      ],
+      [
+        "Special test equipment",
+        "Testing and calibration"
+      ],
+      [
+        "OEM imaging modules",
+        "Components for other manufacturers"
+      ]
+    ],
+    "money": "It earns from supplying specialised equipment and integrated systems. Engineering, manufacturing, qualification, delivery schedules and after-sales support influence margins. A long procurement cycle can make revenue uneven between quarters.",
+    "watch": [
+      [
+        "Order conversion",
+        "Are announced requirements becoming signed orders and completed deliveries?"
+      ],
+      [
+        "Customer concentration",
+        "How dependent is revenue on a small number of defence customers or programmes?"
+      ],
+      [
+        "Cash collection",
+        "Do customer payments keep pace with inventory and project spending?"
+      ]
+    ],
+    "risks": [
+      [
+        "Procurement delays",
+        "Testing, approvals and budget decisions can shift delivery timing."
+      ],
+      [
+        "Technology and qualification",
+        "Products need reliable performance and may require sustained development spending."
+      ],
+      [
+        "Export and supply restrictions",
+        "Licences and specialised component availability can affect contracts and deliveries."
+      ]
+    ],
+    "question": "Does demonstrating a new imaging system automatically create revenue?",
+    "answer": "No. A demonstration must be followed by qualification, an order, delivery and the relevant revenue-recognition conditions.",
+    "sources": [
+      [
+        "Tonbo Imaging company overview",
+        "https://tonboimaging.com/main/"
+      ],
+      [
+        "Official product and solution directory",
+        "https://tonboimaging.com/defense/"
+      ],
+      [
+        "Exchange directory — TONBO, ISIN INE0LDG01026",
+        "https://www.msei.in/corporates/corporate-securities-information/company-directory"
+      ]
+    ],
+    "update": [
+      "Separate product capability from commercial delivery",
+      "The product directory describes capabilities. Use financial disclosures to check orders, delivery and cash collection."
+    ],
+    "productSource": "https://tonboimaging.com/main/",
+    "productNote": "Major offering families reviewed on 27 October 2026. Variants, locations and individual models are grouped; availability can vary.",
+    "checked": "27 Oct 2026",
+    "reviewed": "27 October 2026",
+    "aliases": [
+      "Tonbo Imaging India"
+    ],
+    "logo": "assets/logos/tonbo-imaging.webp"
+  },
+  "offerings": [
+    {
+      "name": "Thermal imaging cores",
+      "category": "Parts that turn detected heat into images",
+      "image": "assets/products/tonbo-imaging-thermal-imaging-cores.svg",
+      "url": "https://tonboimaging.com/main/",
+      "kind": "illustration",
+      "alt": "Thermal imaging cores — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Weapon sights",
+      "category": "Imaging equipment used with weapons",
+      "image": "assets/products/tonbo-imaging-weapon-sights.svg",
+      "url": "https://tonboimaging.com/main/",
+      "kind": "illustration",
+      "alt": "Weapon sights — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Hand-held thermal imaging binoculars",
+      "category": "Hand-held equipment for viewing heat-based images",
+      "image": "assets/products/tonbo-imaging-hand-held-thermal-imaging-binoculars.svg",
+      "url": "https://tonboimaging.com/main/",
+      "kind": "illustration",
+      "alt": "Hand-held thermal imaging binoculars — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Targeting systems",
+      "category": "Equipment that combines information from sensors",
+      "image": "assets/products/tonbo-imaging-targeting-systems.svg",
+      "url": "https://tonboimaging.com/main/",
+      "kind": "illustration",
+      "alt": "Targeting systems — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Missile seekers",
+      "category": "Sensors used in missile systems",
+      "image": "assets/products/tonbo-imaging-missile-seekers.svg",
+      "url": "https://tonboimaging.com/main/",
+      "kind": "illustration",
+      "alt": "Missile seekers — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Fire-control systems",
+      "category": "Electronics used within weapon systems",
+      "image": "assets/products/tonbo-imaging-fire-control-systems.svg",
+      "url": "https://tonboimaging.com/main/",
+      "kind": "illustration",
+      "alt": "Fire-control systems — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Command and control systems",
+      "category": "Software for sharing information and coordinating equipment",
+      "image": "assets/products/tonbo-imaging-command-and-control-systems.svg",
+      "url": "https://tonboimaging.com/main/",
+      "kind": "illustration",
+      "alt": "Command and control systems — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Special test equipment",
+      "category": "Equipment for checking other devices",
+      "image": "assets/products/tonbo-imaging-special-test-equipment.svg",
+      "url": "https://tonboimaging.com/main/",
+      "kind": "illustration",
+      "alt": "Special test equipment — conceptual illustration, not a product photograph"
+    }
+  ]
+}

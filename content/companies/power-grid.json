@@ -1,0 +1,176 @@
+{
+  "order": 24,
+  "company": {
+    "id": "power-grid",
+    "name": "Power Grid Corporation of India",
+    "ticker": "POWERGRID",
+    "sector": "Energy & utilities",
+    "initial": "PG",
+    "color": "#444f8f",
+    "bg": "#eef0fa",
+    "tag": "The network between generators and users",
+    "summary": "High-voltage transmission infrastructure that moves electricity across regions.",
+    "description": "POWERGRID builds, owns and operates electricity transmission networks. It carries power over high-voltage lines and substations and also provides telecom and consultancy services.",
+    "products": [
+      [
+        "Interstate transmission",
+        "High-voltage power network"
+      ],
+      [
+        "HVDC transmission",
+        "Long-distance power links"
+      ],
+      [
+        "Substations",
+        "Grid infrastructure"
+      ],
+      [
+        "Transmission system consultancy",
+        "Power-sector advisory"
+      ],
+      [
+        "Sub-transmission and distribution consultancy",
+        "Grid advisory"
+      ],
+      [
+        "Load dispatch and communication",
+        "Grid operations support"
+      ],
+      [
+        "Smart-grid solutions",
+        "Digital grid infrastructure"
+      ],
+      [
+        "Telecom and OPGW network",
+        "Fibre connectivity"
+      ],
+      [
+        "Energy efficiency and audits",
+        "Energy services"
+      ],
+      [
+        "Capacity building",
+        "Training and technical services"
+      ],
+      [
+        "Tariff-based competitive-bidding projects",
+        "Transmission development"
+      ]
+    ],
+    "money": "The company earns regulated transmission charges and income from related services. Network availability, approved returns, capital projects, borrowing costs and collections influence performance.",
+    "ownership": "This profile covers Power Grid Corporation of India Limited. It is a transmission company; electricity generation and household distribution are generally performed by other entities.",
+    "watch": [
+      [
+        "Asset commissioning",
+        "Are new transmission projects entering service on schedule?"
+      ],
+      [
+        "Network availability",
+        "Is the system meeting required operating performance?"
+      ],
+      [
+        "Capital and regulation",
+        "How do approved returns and borrowing costs affect new investment?"
+      ]
+    ],
+    "risks": [
+      [
+        "Project delays",
+        "Land, approvals and construction issues can postpone revenue."
+      ],
+      [
+        "Regulatory returns",
+        "Changes in tariff rules can affect project economics."
+      ],
+      [
+        "Capital intensity",
+        "A large infrastructure programme creates financing and execution risk."
+      ]
+    ],
+    "sources": [
+      [
+        "POWERGRID company overview",
+        "https://www.powergrid.in/en/company-overview"
+      ],
+      [
+        "POWERGRID official website",
+        "https://www.powergrid.in/"
+      ]
+    ],
+    "update": [
+      "Transmission is different from generation",
+      "POWERGRID mainly moves electricity through its network. It should be analysed differently from a company that produces electricity."
+    ],
+    "question": "Does POWERGRID earn money mainly by selling electricity it generates?",
+    "answer": "No. Its central business is transmitting electricity through its network and earning transmission charges; generators produce the power.",
+    "productSource": "https://www.powergrid.in/en/company-overview",
+    "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
+    "logo": "assets/logos/power-grid.svg"
+  },
+  "offerings": [
+    {
+      "name": "Interstate transmission",
+      "category": "Moving electricity between states",
+      "image": "assets/products/power-grid-interstate-transmission.svg",
+      "url": "https://www.powergrid.in/en/company-overview",
+      "kind": "illustration",
+      "alt": "Interstate transmission — conceptual grid illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "HVDC transmission",
+      "category": "Moving large amounts of electricity over long distances",
+      "image": "assets/products/power-grid-hvdc-transmission.svg",
+      "url": "https://www.powergrid.in/en/company-overview",
+      "kind": "illustration",
+      "alt": "HVDC transmission — conceptual grid illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Substations",
+      "category": "Places that switch circuits and change voltage",
+      "image": "assets/products/power-grid-substations.svg",
+      "url": "https://www.powergrid.in/en/company-overview",
+      "kind": "illustration",
+      "alt": "Substations — conceptual grid illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Transmission system consultancy",
+      "category": "Helping plan electricity-transmission systems",
+      "image": "assets/products/power-grid-transmission-system-consultancy.svg",
+      "url": "https://www.powergrid.in/en/company-overview",
+      "kind": "illustration",
+      "alt": "Transmission system consultancy — conceptual grid illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Sub-transmission and distribution consultancy",
+      "category": "Helping plan networks that take electricity closer to users",
+      "image": "assets/products/power-grid-sub-transmission-and-distribution-consultancy.svg",
+      "url": "https://www.powergrid.in/en/company-overview",
+      "kind": "illustration",
+      "alt": "Sub-transmission and distribution consultancy — conceptual grid illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Load dispatch and communication",
+      "category": "Communication and support for coordinating the power network",
+      "image": "assets/products/power-grid-load-dispatch-and-communication.svg",
+      "url": "https://www.powergrid.in/en/company-overview",
+      "kind": "illustration",
+      "alt": "Load dispatch and communication — conceptual screen illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Smart-grid solutions",
+      "category": "Using monitoring and computer systems in electricity networks",
+      "image": "assets/products/power-grid-smart-grid-solutions.svg",
+      "url": "https://www.powergrid.in/en/company-overview",
+      "kind": "illustration",
+      "alt": "Smart-grid solutions — conceptual grid illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Telecom and OPGW network",
+      "category": "Fibre connections carried along the power network",
+      "image": "assets/products/power-grid-telecom-and-opgw-network.svg",
+      "url": "https://www.powergrid.in/en/company-overview",
+      "kind": "illustration",
+      "alt": "Telecom and OPGW network — conceptual network illustration; not a photograph or product screenshot"
+    }
+  ]
+}

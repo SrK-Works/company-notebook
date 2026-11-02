@@ -3,7 +3,7 @@ const assert=require('node:assert/strict');
 const fs=require('node:fs');
 const vm=require('node:vm');
 const c={};c.window=c;vm.createContext(c);
-for(const f of ['data','company-expansion','overviews','research-guides','financial-data'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
+for(const f of ['company-data','overviews','research-guides','financial-data'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
 const snapshot=JSON.stringify(c.COMPANIES.filter(x=>x.id!=='hindustan-unilever'));
 const otherGuides=JSON.stringify(Object.fromEntries(Object.entries(c.COMPANY_RESEARCH_GUIDES).filter(([id])=>id!=='hindustan-unilever')));
 const financialSnapshot=JSON.stringify(c.COMPANY_FINANCIALS);

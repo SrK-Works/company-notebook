@@ -1,0 +1,184 @@
+{
+  "order": 11,
+  "company": {
+    "id": "bajaj-auto",
+    "name": "Bajaj Auto",
+    "ticker": "BAJAJ-AUTO",
+    "sector": "Homes & mobility",
+    "initial": "BA",
+    "color": "#246091",
+    "bg": "#eaf4fc",
+    "tag": "Two wheels, several businesses",
+    "summary": "Motorcycles, electric scooters and commercial vehicles for different kinds of journeys.",
+    "description": "Bajaj Auto’s product portfolio includes motorcycles, scooters and three-wheelers. Its official site lists ranges including Pulsar and Chetak.",
+    "products": [
+      [
+        "Pulsar",
+        "Motorcycles"
+      ],
+      [
+        "Dominar",
+        "Motorcycles"
+      ],
+      [
+        "Avenger",
+        "Cruiser motorcycles"
+      ],
+      [
+        "Platina",
+        "Commuter motorcycles"
+      ],
+      [
+        "CT",
+        "Commuter motorcycles"
+      ],
+      [
+        "Freedom",
+        "CNG motorcycles"
+      ],
+      [
+        "Chetak",
+        "Electric scooters"
+      ],
+      [
+        "RE",
+        "Three-wheelers"
+      ],
+      [
+        "Maxima",
+        "Three-wheelers"
+      ],
+      [
+        "Qute",
+        "Quadricycle"
+      ],
+      [
+        "KTM motorcycles",
+        "Premium motorcycles"
+      ],
+      [
+        "Husqvarna motorcycles",
+        "Premium motorcycles"
+      ],
+      [
+        "Triumph motorcycles",
+        "Premium motorcycles"
+      ]
+    ],
+    "money": "The company earns revenue from selling vehicles and related products. Vehicle type, selling price, market demand and manufacturing costs affect performance.",
+    "ownership": "Bajaj Auto Limited is the listed vehicle business covered here. Other Bajaj-named financial and consumer businesses are separate listed entities or group companies.",
+    "watch": [
+      [
+        "Volume and mix",
+        "How are motorcycle, scooter and commercial-vehicle sales changing?"
+      ],
+      [
+        "Market demand",
+        "Are sales broad-based across the markets served?"
+      ],
+      [
+        "Margins",
+        "How do materials, pricing and new technologies affect profit?"
+      ]
+    ],
+    "risks": [
+      [
+        "Demand cycles",
+        "Customers may postpone replacing vehicles."
+      ],
+      [
+        "Technology transition",
+        "Electric mobility requires investment and creates new competition."
+      ],
+      [
+        "Market exposure",
+        "Economic conditions in different sales markets can affect demand."
+      ]
+    ],
+    "sources": [
+      [
+        "Bajaj Auto product portfolio",
+        "https://www.bajajauto.com/"
+      ],
+      [
+        "FY 2025–26 management discussion",
+        "https://investors.bajajauto.com/ar26/management-discussion-analysis/"
+      ]
+    ],
+    "update": [
+      "Read the vehicle mix",
+      "The FY 2025–26 management discussion provides context beyond a single popular model."
+    ],
+    "question": "Does owning Bajaj Auto mean you directly own every Bajaj business?",
+    "answer": "No. Shares represent ownership in a specific legal entity. Related names do not make separate companies interchangeable.",
+    "productSource": "https://www.bajajauto.com/bikes",
+    "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
+    "logo": "assets/logos/bajaj-auto.png"
+  },
+  "offerings": [
+    {
+      "name": "Pulsar",
+      "category": "Motorcycles",
+      "image": "assets/products/bajaj-auto-80.webp",
+      "url": "https://www.bajajauto.com/bikes",
+      "kind": "pack",
+      "alt": "Pulsar — official product image"
+    },
+    {
+      "name": "Dominar",
+      "category": "Motorcycles",
+      "image": "assets/products/bajaj-auto-81.webp",
+      "url": "https://www.bajajauto.com/bikes",
+      "kind": "pack",
+      "alt": "Dominar — official product image"
+    },
+    {
+      "name": "Avenger",
+      "category": "Cruiser motorcycles",
+      "image": "assets/products/bajaj-auto-82.webp",
+      "url": "https://www.bajajauto.com/bikes",
+      "kind": "pack",
+      "alt": "Avenger — official product image"
+    },
+    {
+      "name": "Platina",
+      "category": "Commuter motorcycles",
+      "image": "assets/products/bajaj-auto-83.webp",
+      "url": "https://www.bajajauto.com/bikes",
+      "kind": "pack",
+      "alt": "Platina — official product image"
+    },
+    {
+      "name": "CT",
+      "category": "Commuter motorcycles",
+      "image": "assets/products/bajaj-auto-84.webp",
+      "url": "https://www.bajajauto.com/bikes",
+      "kind": "pack",
+      "alt": "CT — official product image"
+    },
+    {
+      "name": "Freedom",
+      "category": "CNG motorcycles",
+      "image": "assets/products/bajaj-auto-85.webp",
+      "url": "https://www.bajajauto.com/bikes",
+      "kind": "pack",
+      "alt": "Freedom — official product image"
+    },
+    {
+      "name": "Chetak",
+      "category": "Electric scooters",
+      "image": "assets/products/bajaj-auto-chetak.svg",
+      "url": "https://www.bajajauto.com/bikes",
+      "kind": "illustration",
+      "alt": "Chetak — conceptual screen illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "RE",
+      "category": "Three-wheelers",
+      "image": "assets/products/bajaj-auto-re.svg",
+      "url": "https://www.bajajauto.com/bikes",
+      "kind": "illustration",
+      "alt": "RE — conceptual screen illustration; not a photograph or product screenshot"
+    }
+  ]
+}

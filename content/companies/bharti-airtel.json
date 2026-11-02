@@ -1,0 +1,204 @@
+{
+  "order": 13,
+  "company": {
+    "id": "bharti-airtel",
+    "name": "Bharti Airtel",
+    "ticker": "BHARTIARTL",
+    "sector": "Technology & services",
+    "initial": "a",
+    "color": "#bf2e34",
+    "bg": "#fff0ef",
+    "tag": "The business behind your connection",
+    "summary": "Mobile connections, home internet and enterprise connectivity sold as recurring services.",
+    "description": "Bharti Airtel provides telecommunications and digital services. Its portfolio includes mobile, home broadband, television and connectivity for enterprise customers.",
+    "products": [
+      [
+        "Airtel 4G and 5G mobile",
+        "Mobile connectivity"
+      ],
+      [
+        "Airtel Wi-Fi",
+        "Home broadband"
+      ],
+      [
+        "Airtel Xstream",
+        "Entertainment and broadband"
+      ],
+      [
+        "Airtel Digital TV",
+        "DTH television"
+      ],
+      [
+        "Airtel Payments Bank",
+        "Payments and banking services"
+      ],
+      [
+        "Airtel Money",
+        "Digital payments"
+      ],
+      [
+        "Airtel Business connectivity",
+        "Enterprise data and voice"
+      ],
+      [
+        "Airtel IQ",
+        "Cloud communications platform"
+      ],
+      [
+        "Airtel Cloud",
+        "Cloud services"
+      ],
+      [
+        "Xtelify",
+        "Digital and AI platform"
+      ],
+      [
+        "Nxtra Data Centers",
+        "Data-centre services"
+      ],
+      [
+        "Internet of Things",
+        "Enterprise connectivity"
+      ],
+      [
+        "Cybersecurity",
+        "Enterprise security"
+      ],
+      [
+        "Network as a Service",
+        "Enterprise networking"
+      ],
+      [
+        "Conferencing and collaboration",
+        "Enterprise communications"
+      ],
+      [
+        "International connectivity",
+        "Global network services"
+      ],
+      [
+        "Airtel Africa mobile",
+        "African telecom services"
+      ],
+      [
+        "Airtel Money Africa",
+        "African mobile money"
+      ]
+    ],
+    "money": "Customers pay for connectivity and related services. Subscriber numbers and average spending matter alongside the cost of operating and expanding the network.",
+    "ownership": "This profile covers Bharti Airtel Limited. Group structure and geography matter: the listed company is broader than a single Indian mobile plan.",
+    "watch": [
+      [
+        "Revenue per user",
+        "How much does the average customer pay for service?"
+      ],
+      [
+        "Customer base",
+        "Are users joining, staying and choosing higher-value plans?"
+      ],
+      [
+        "Network investment",
+        "How much cash is needed to maintain and expand service?"
+      ]
+    ],
+    "risks": [
+      [
+        "Competition",
+        "Pricing and customer retention depend partly on competitors."
+      ],
+      [
+        "Capital needs",
+        "Networks require substantial continuing investment."
+      ],
+      [
+        "Regulation",
+        "Telecom obligations and spectrum costs affect business economics."
+      ]
+    ],
+    "sources": [
+      [
+        "Bharti Airtel business overview",
+        "https://www.airtel.in/about-bharti/about-bharti-airtel/"
+      ],
+      [
+        "FY 2024–25 annual report",
+        "https://www.airtel.in/airtel-annual-report-2024-25/"
+      ]
+    ],
+    "update": [
+      "Read services and geography together",
+      "The business includes consumer and enterprise services. The linked annual report covers FY 2024–25 and is historical, not the latest quarter."
+    ],
+    "question": "Can revenue grow without adding more subscribers?",
+    "answer": "Yes. Average spending can rise as customers change plans or buy additional services. Customer count and spending should be read together.",
+    "productSource": "https://www.airtel.in/about-bharti/about-bharti-airtel/",
+    "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
+    "logo": "assets/logos/bharti-airtel.png"
+  },
+  "offerings": [
+    {
+      "name": "Airtel 4G and 5G mobile",
+      "category": "Mobile connectivity",
+      "image": "assets/products/bharti-airtel-98.webp",
+      "url": "https://www.airtel.in/about-bharti/about-bharti-airtel/",
+      "kind": "photo",
+      "alt": "Airtel 4G and 5G mobile — representative image from the company website"
+    },
+    {
+      "name": "Airtel Wi-Fi",
+      "category": "Home broadband",
+      "image": "assets/products/bharti-airtel-99.webp",
+      "url": "https://www.airtel.in/about-bharti/about-bharti-airtel/",
+      "kind": "photo",
+      "alt": "Airtel Wi-Fi — representative image from the company website"
+    },
+    {
+      "name": "Airtel Digital TV",
+      "category": "DTH television",
+      "image": "assets/products/bharti-airtel-100.webp",
+      "url": "https://www.airtel.in/about-bharti/about-bharti-airtel/",
+      "kind": "photo",
+      "alt": "Airtel Digital TV — representative image from the company website"
+    },
+    {
+      "name": "Airtel Business connectivity",
+      "category": "Enterprise data and voice",
+      "image": "assets/products/bharti-airtel-101.webp",
+      "url": "https://www.airtel.in/about-bharti/about-bharti-airtel/",
+      "kind": "photo",
+      "alt": "Airtel Business connectivity — representative image from the company website"
+    },
+    {
+      "name": "Airtel Payments Bank",
+      "category": "Payments and banking services",
+      "image": "assets/products/bharti-airtel-airtel-payments-bank.svg",
+      "url": "https://www.airtel.in/about-bharti/about-bharti-airtel/",
+      "kind": "illustration",
+      "alt": "Airtel Payments Bank — conceptual brain illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Airtel IQ",
+      "category": "Cloud communications platform",
+      "image": "assets/products/bharti-airtel-airtel-iq.svg",
+      "url": "https://www.airtel.in/about-bharti/about-bharti-airtel/",
+      "kind": "illustration",
+      "alt": "Airtel IQ — conceptual brain illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Airtel Cloud",
+      "category": "Cloud services",
+      "image": "assets/products/bharti-airtel-airtel-cloud.svg",
+      "url": "https://www.airtel.in/about-bharti/about-bharti-airtel/",
+      "kind": "illustration",
+      "alt": "Airtel Cloud — conceptual cloud illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Nxtra Data Centers",
+      "category": "Data-centre services",
+      "image": "assets/products/bharti-airtel-nxtra-data-centers.svg",
+      "url": "https://www.airtel.in/about-bharti/about-bharti-airtel/",
+      "kind": "illustration",
+      "alt": "Nxtra Data Centers — conceptual brain illustration; not a photograph or product screenshot"
+    }
+  ]
+}

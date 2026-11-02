@@ -2,7 +2,7 @@ const {test}=require('node:test');
 const assert=require('node:assert/strict');
 const fs=require('node:fs'),vm=require('node:vm');
 const c={Intl};c.window=c;vm.createContext(c);
-for(const f of ['data','company-expansion','overviews','research-guides','financial-data','product-images','profile-lessons','company-lessons'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
+for(const f of ['company-data','overviews','research-guides','financial-data','profile-lessons','company-lessons'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
 const added=['ireda','hcg','fredun-pharmaceuticals','milky-mist','hfcl','genus-power'];
 
 test('each added company has a complete profile, local original illustrations and no unverified financial figures',()=>{

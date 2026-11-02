@@ -3,7 +3,7 @@ const assert=require('node:assert/strict');
 const fs=require('node:fs'),vm=require('node:vm');
 const c={};c.window=c;vm.createContext(c);
 const completed=['hindustan-unilever','itc','nestle-india','britannia','marico','avenue-supermarts'];
-for(const f of ['data','company-expansion','overviews','research-guides','financial-data','product-images','hul-primer','itc-primer','nestle-primer','britannia-primer','marico-primer','dmart-primer'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
+for(const f of ['company-data','overviews','research-guides','financial-data','hul-primer','itc-primer','nestle-primer','britannia-primer','marico-primer','dmart-primer'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
 const baseline=JSON.parse(JSON.stringify(c.COMPANY_FINANCIALS));
 const earlier=JSON.stringify(c.COMPANIES.filter(x=>completed.includes(x.id)));
 const output=completed.flatMap(id=>['basics','specifics','numbers'].map(slot=>c.companyPrimer.render(c.COMPANIES.find(x=>x.id===id),slot)));

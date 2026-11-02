@@ -57,11 +57,15 @@ function collectSources(rootDir, onlyCompanies = []) {
   // Earlier profiles keep their links in hand-written files; those are matched by pattern and labelled by file.
   if (!onlyCompanies.length) {
     const dist = path.join(rootDir, 'dist');
-    const files = ['data.js', 'company-expansion.js', ...fs.readdirSync(dist).filter(f => f.endsWith('-primer.js'))];
-    for (const file of files) {
-      const p = path.join(dist, file);
+    const companyDir = path.join(rootDir, 'content/companies');
+    const files = [
+      ...fs.readdirSync(companyDir).filter(f => f.endsWith('.json')).map(f => ['content/companies', f]),
+      ...fs.readdirSync(dist).filter(f => f.endsWith('-primer.js')).map(f => ['dist', f]),
+    ];
+    for (const [folder, file] of files) {
+      const p = path.join(rootDir, folder, file);
       if (!fs.existsSync(p)) continue;
-      for (const url of extractUrls(fs.readFileSync(p, 'utf8'))) add(url, `dist:${file}`);
+      for (const url of extractUrls(fs.readFileSync(p, 'utf8'))) add(url, `${folder}:${file}`);
     }
   }
   return uses;

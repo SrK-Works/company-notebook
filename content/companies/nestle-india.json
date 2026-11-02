@@ -1,0 +1,268 @@
+{
+  "order": 3,
+  "company": {
+    "id": "nestle-india",
+    "name": "Nestlé India",
+    "ticker": "NESTLEIND",
+    "sector": "Everyday essentials",
+    "initial": "N",
+    "color": "#75553d",
+    "bg": "#f6efe7",
+    "tag": "From the kitchen to the company",
+    "summary": "The Indian food and beverage business behind MAGGI, NESCAFÉ and MILKMAID.",
+    "description": "Nestlé India manufactures and sells food and beverage products under established brands. Its customers encounter the products in retail stores and other sales channels.",
+    "products": [
+      [
+        "MAGGI Noodles",
+        "Prepared foods"
+      ],
+      [
+        "MAGGI Nutri-licious",
+        "Prepared foods"
+      ],
+      [
+        "MAGGI Fusian",
+        "Prepared foods"
+      ],
+      [
+        "MAGGI Cuppa",
+        "Prepared foods"
+      ],
+      [
+        "MAGGI Cooking Aids",
+        "Seasonings and cooking aids"
+      ],
+      [
+        "MAGGI Sauces",
+        "Sauces"
+      ],
+      [
+        "MAGGI Pazzta",
+        "Prepared foods"
+      ],
+      [
+        "NESCAFÉ Classic",
+        "Coffee"
+      ],
+      [
+        "NESCAFÉ Sunrise",
+        "Coffee"
+      ],
+      [
+        "NESCAFÉ Gold",
+        "Coffee"
+      ],
+      [
+        "NESCAFÉ Gold Creations",
+        "Coffee"
+      ],
+      [
+        "NESCAFÉ All in 1",
+        "Coffee"
+      ],
+      [
+        "NESCAFÉ Roastery",
+        "Coffee"
+      ],
+      [
+        "É by NESCAFÉ",
+        "Coffee machines and beverages"
+      ],
+      [
+        "NESTEA Iced Tea",
+        "Beverages"
+      ],
+      [
+        "KITKAT",
+        "Chocolate and confectionery"
+      ],
+      [
+        "MUNCH",
+        "Chocolate and confectionery"
+      ],
+      [
+        "MILKYBAR",
+        "Chocolate and confectionery"
+      ],
+      [
+        "BAR-ONE",
+        "Chocolate and confectionery"
+      ],
+      [
+        "POLO",
+        "Confectionery"
+      ],
+      [
+        "Nestlé CLASSIC",
+        "Chocolate and confectionery"
+      ],
+      [
+        "Nestlé GOLD Corn & Oat Flakes",
+        "Breakfast cereal"
+      ],
+      [
+        "KOKO KRUNCH",
+        "Breakfast cereal"
+      ],
+      [
+        "Nestlé a+",
+        "Dairy"
+      ],
+      [
+        "NESCAFÉ Cold Coffee",
+        "Ready-to-drink beverage"
+      ],
+      [
+        "MILKMAID",
+        "Dairy and dessert ingredient"
+      ],
+      [
+        "EVERYDAY",
+        "Dairy whitener"
+      ],
+      [
+        "NANGROW",
+        "Child nutrition"
+      ],
+      [
+        "CEREGROW",
+        "Child nutrition"
+      ],
+      [
+        "LACTOGROW",
+        "Child nutrition"
+      ],
+      [
+        "GERBER",
+        "Infant and child nutrition"
+      ]
+    ],
+    "money": "It earns sales from packaged food and beverages. Revenue growth can come from selling more, changing prices or selling a different mix of products.",
+    "ownership": "Nestlé India Limited is the Indian listed company. The worldwide Nestlé group has a broader portfolio; global brand ownership does not imply that every global product is sold by Nestlé India.",
+    "watch": [
+      [
+        "Sales volume",
+        "Is demand growing beyond the effect of price changes?"
+      ],
+      [
+        "Input costs",
+        "How are coffee, milk and other ingredient costs changing?"
+      ],
+      [
+        "Distribution",
+        "Can products reach more customers while remaining profitable?"
+      ]
+    ],
+    "risks": [
+      [
+        "Food quality",
+        "Quality problems can damage trust and disrupt sales."
+      ],
+      [
+        "Ingredient inflation",
+        "Higher costs may be difficult to pass on to customers."
+      ],
+      [
+        "Consumer preferences",
+        "Changes in tastes and spending affect product demand."
+      ]
+    ],
+    "sources": [
+      [
+        "Nestlé India at a glance",
+        "https://www.nestle.in/about-us/at-a-glance"
+      ],
+      [
+        "Coffee portfolio",
+        "https://www.nestle.in/brands/coffee"
+      ],
+      [
+        "Q2 FY 2025–26 company release",
+        "https://www.nestle.in/sites/g/files/pydnoa451/files/2025-10/PressReleaseQ2FY2025-26.pdf"
+      ]
+    ],
+    "update": [
+      "Read India-specific disclosures",
+      "Use the Indian company’s releases when researching these shares; global group results cover a different business perimeter."
+    ],
+    "question": "Is buying Nestlé India the same as owning the entire global Nestlé business?",
+    "answer": "No. Your shares are in the Indian listed entity. Its operations, financial results and ownership relationships must be evaluated separately.",
+    "productSource": "https://www.nestle.in/info/sitemap",
+    "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
+    "logo": "assets/logos/nestle-india.png"
+  },
+  "offerings": [
+    {
+      "name": "MAGGI Noodles",
+      "category": "Prepared foods",
+      "image": "assets/products/nestle-india-0.webp",
+      "url": "https://www.maggi.in/en/product/maggi-2-minute-noodles/",
+      "kind": "pack",
+      "alt": "MAGGI Noodles — official product image"
+    },
+    {
+      "name": "MAGGI Nutri-licious",
+      "category": "Prepared foods",
+      "image": "assets/products/nestle-india-1.webp",
+      "url": "https://www.maggi.in/en/product/maggi-nutri-licious-atta-masala-noodles/",
+      "kind": "pack",
+      "alt": "MAGGI Nutri-licious — official product image"
+    },
+    {
+      "name": "MAGGI Cuppa",
+      "category": "Prepared foods",
+      "image": "assets/products/nestle-india-2.webp",
+      "url": "https://www.maggi.in/en/product/maggi-masala-cuppa-noodles/",
+      "kind": "pack",
+      "alt": "MAGGI Cuppa — official product image"
+    },
+    {
+      "name": "MAGGI Cooking Aids",
+      "category": "Seasonings and cooking aids",
+      "image": "assets/products/nestle-india-3.webp",
+      "url": "https://www.maggi.in/en/product/maggi-masala-ae-magic/",
+      "kind": "pack",
+      "alt": "MAGGI Cooking Aids — official product image"
+    },
+    {
+      "name": "MAGGI Pazzta",
+      "category": "Prepared foods",
+      "image": "assets/products/nestle-india-4.webp",
+      "url": "https://www.maggi.in/en/product/maggi-pazzta-cheesy-tomato-twist/",
+      "kind": "pack",
+      "alt": "MAGGI Pazzta — official product image"
+    },
+    {
+      "name": "MAGGI Sauces",
+      "category": "Sauces",
+      "image": "assets/products/nestle-india-5.webp",
+      "url": "https://www.maggi.in/en/product/maggi-hot-sweet-tomato-chilli-sauce/",
+      "kind": "pack",
+      "alt": "MAGGI Sauces — official product image"
+    },
+    {
+      "name": "NESCAFÉ Classic",
+      "category": "Coffee",
+      "image": "assets/products/nestle-india-6.webp",
+      "url": "https://www.nescafe.com/in/coffees/classic",
+      "kind": "pack",
+      "alt": "NESCAFÉ Classic — official product image"
+    },
+    {
+      "name": "NESCAFÉ Classic Black Roast",
+      "category": "Coffee",
+      "image": "assets/products/nestle-india-7.webp",
+      "url": "https://www.nescafe.com/in/coffees/black-roast-coffee",
+      "kind": "pack",
+      "alt": "NESCAFÉ Classic Black Roast — official product image"
+    },
+    {
+      "name": "NESCAFÉ Ice Roast",
+      "category": "Coffee",
+      "image": "assets/products/nestle-india-8.webp",
+      "url": "https://www.nescafe.com/in/coffees/nescafe-ice-roast",
+      "kind": "pack",
+      "alt": "NESCAFÉ Ice Roast — official product image"
+    }
+  ]
+}

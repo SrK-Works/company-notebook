@@ -1,0 +1,196 @@
+{
+  "order": 37,
+  "company": {
+    "id": "hcg",
+    "name": "HealthCare Global Enterprises (HCG)",
+    "ticker": "HCG",
+    "sector": "Healthcare",
+    "initial": "HC",
+    "color": "#8a3f6e",
+    "bg": "#f7edf4",
+    "tag": "The business behind the offering",
+    "summary": "HCG runs a network of hospitals that diagnose and treat cancer, plus some hospitals for other illnesses.",
+    "description": "When a doctor suspects cancer, a patient needs scans and tests to confirm it and see how far it has spread. Treatment may then combine an operation, radiation from a large machine and cancer medicines, planned by several specialist doctors together. HCG puts these under one roof in comprehensive cancer centres across 19 Indian cities, plus a centre in Nairobi, Kenya. Some HCG hospitals also treat other illnesses, and its day-care centres give cancer medicines without an overnight stay. Its fertility business, Milann, was sold in June 2026.",
+    "ownership": "This profile covers HealthCare Global Enterprises Limited, which runs cancer hospitals under the HCG brand. Some centres are run through partnerships or subsidiaries, so the group’s accounts combine more than one legal entity. The Milann fertility business was part of the group until it was sold in June 2026.",
+    "products": [
+      [
+        "Cancer diagnosis scans and tests",
+        "Finding and staging cancer"
+      ],
+      [
+        "Radiation treatment",
+        "Machine-guided radiation for cancer"
+      ],
+      [
+        "Cancer surgery, including robotic surgery",
+        "Operations to remove tumours"
+      ],
+      [
+        "Chemotherapy and day-care cancer medicines",
+        "Medicine given without an overnight stay"
+      ],
+      [
+        "Multispecialty hospital care",
+        "Hospital treatment beyond cancer"
+      ],
+      [
+        "Overseas patients and the Nairobi centre",
+        "Care for patients from other countries"
+      ],
+      [
+        "Cancer follow-up and survivorship care",
+        "Support after treatment"
+      ],
+      [
+        "Fertility treatment (Milann)",
+        "Historical offering, sold June 2026"
+      ]
+    ],
+    "money": "A patient or someone paying on their behalf pays HCG for each test, treatment, procedure and hospital stay. Its main costs are doctors and nurses, medicines and supplies, very expensive machines that must be bought, maintained and eventually replaced, and the rent or cost of its buildings. It also pays interest on money it has borrowed. A busy centre spreads those costs over more patients; an empty one does not.",
+    "watch": [
+      [
+        "Are more patients coming, and for what treatment?",
+        "More patients and more complex treatment can raise earnings in different ways."
+      ],
+      [
+        "How are patients paying, and how fast does the money arrive?",
+        "Cash, insurance, government schemes and overseas patients pay differently and on different timetables."
+      ],
+      [
+        "Are new hospitals filling up?",
+        "A hospital that is open but quiet still has staff, equipment and building costs."
+      ],
+      [
+        "How heavy is the cost of machines and borrowing?",
+        "Expensive equipment and loans are paid for whether or not patients arrive."
+      ],
+      [
+        "What changed in how the group is made up?",
+        "Sales, partner-run centres and a new owner can change what the accounts include."
+      ]
+    ],
+    "risks": [
+      [
+        "Payers delay or reject bills",
+        "Insurers, administrators or government schemes may pay late, pay less than billed or change rates, which can reduce cash and profit."
+      ],
+      [
+        "New hospitals take longer to fill",
+        "Costs start when a hospital opens, but patients, insurer approvals and established doctors take time to arrive."
+      ],
+      [
+        "Specialist doctors are hard to find and keep",
+        "Cancer care depends on skilled specialists. Losing key doctors or struggling to hire can limit what a centre can offer."
+      ],
+      [
+        "Equipment becomes costly or outdated",
+        "Treatment machines need regular upgrades and replacements. A machine that is underused or overtaken by newer technology is a drag on earnings."
+      ],
+      [
+        "Partnerships and acquisitions do not work out",
+        "HCG expands partly through partners and purchases. Disputes, weak performance or write-downs in those investments can reduce earnings."
+      ],
+      [
+        "Rules and prices are changed",
+        "Government pricing rules and changes to health schemes can alter what a hospital may charge or be paid."
+      ]
+    ],
+    "sources": [
+      [
+        "HCG annual reports page",
+        "https://www.hcgoncology.com/annual-reports/"
+      ],
+      [
+        "FY 2025–26 annual report",
+        "https://www.hcgoncology.com/uploads/ir/HCG%20Annual%20Report%20FY2026.pdf"
+      ],
+      [
+        "Quarterly results release · 6 August 2026",
+        "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b8f1369a-1bef-4222-ad7e-ffd1b424135d.pdf"
+      ]
+    ],
+    "update": [
+      "August 2026: a new hospital opened and the fertility business was sold",
+      "HCG’s 6 August 2026 results release says it opened a hospital in north Bengaluru in May 2026, with 56 beds working in the first phase, and sold its Milann fertility business in June 2026. The release reports that revenue and its adjusted operating profit (profit from running the hospitals, before interest, tax and charges for the wear of equipment) grew compared with a year earlier, and that the new hospital’s early loss was left out of its adjusted measure. An adjusted measure is the company’s own version of profit with some items removed, so always check what was removed. The full-year figures at the end of this page cover an earlier period."
+    ],
+    "question": "If a hospital group treats more patients, does its profit rise by the same amount?",
+    "answer": "Not necessarily. Profit also depends on how the patients pay, how complex their treatment is, the cost of doctors, machines and borrowing, and whether new hospitals are still filling up.",
+    "productSource": "https://www.hcgoncology.com/annual-reports/",
+    "productNote": "Services reviewed on HCG’s annual report and results release on 31 October 2026. Pictures of scans, radiation, surgery, chemotherapy, the hospital and follow-up care are from HCG’s own website. The overseas-patients and fertility cards remain labelled original illustrations. The fertility business was sold in June 2026.",
+    "checked": "31 Oct 2026",
+    "reviewed": "31 October 2026",
+    "aliases": [
+      "HealthCare Global Enterprises",
+      "HCG Oncology",
+      "HCG Hospitals",
+      "HCG cancer centres",
+      "cancer hospital"
+    ]
+  },
+  "offerings": [
+    {
+      "name": "Cancer diagnosis scans and tests",
+      "category": "Finding and staging cancer",
+      "image": "assets/products/hcg-cancer-diagnosis-scans-and-tests.webp",
+      "url": "https://www.hcgoncology.com/",
+      "kind": "photo",
+      "alt": "Cancer diagnosis scans and tests — official company image"
+    },
+    {
+      "name": "Radiation treatment",
+      "category": "Machine-guided radiation for cancer",
+      "image": "assets/products/hcg-radiation-treatment.webp",
+      "url": "https://www.hcgoncology.com/",
+      "kind": "photo",
+      "alt": "Radiation treatment — official company image"
+    },
+    {
+      "name": "Cancer surgery, including robotic surgery",
+      "category": "Operations to remove tumours",
+      "image": "assets/products/hcg-cancer-surgery-including-robotic-surgery.webp",
+      "url": "https://www.hcgoncology.com/",
+      "kind": "photo",
+      "alt": "Cancer surgery, including robotic surgery — official company image"
+    },
+    {
+      "name": "Chemotherapy and day-care cancer medicines",
+      "category": "Medicine given without an overnight stay",
+      "image": "assets/products/hcg-chemotherapy-and-day-care-cancer-medicines.webp",
+      "url": "https://www.hcgoncology.com/",
+      "kind": "photo",
+      "alt": "Chemotherapy and day-care cancer medicines — official company image"
+    },
+    {
+      "name": "Multispecialty hospital care",
+      "category": "Hospital treatment beyond cancer",
+      "image": "assets/products/hcg-multispecialty-hospital-care.webp",
+      "url": "https://www.hcgoncology.com/",
+      "kind": "photo",
+      "alt": "Multispecialty hospital care — official company image"
+    },
+    {
+      "name": "Overseas patients and the Nairobi centre",
+      "category": "Care for patients from other countries",
+      "image": "assets/products/hcg-overseas-patients-and-the-nairobi-centre.svg",
+      "url": "https://www.hcgoncology.com/annual-reports/",
+      "kind": "illustration",
+      "alt": "Overseas patients and the Nairobi centre — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Cancer follow-up and survivorship care",
+      "category": "Support after treatment",
+      "image": "assets/products/hcg-cancer-follow-up-and-survivorship-care.webp",
+      "url": "https://www.hcgoncology.com/",
+      "kind": "photo",
+      "alt": "Cancer follow-up and survivorship care — official company image"
+    },
+    {
+      "name": "Fertility treatment (Milann)",
+      "category": "Historical offering, sold June 2026",
+      "image": "assets/products/hcg-fertility-treatment-milann.svg",
+      "url": "https://www.hcgoncology.com/annual-reports/",
+      "kind": "illustration",
+      "alt": "Fertility treatment (Milann) — conceptual illustration, not a product photograph"
+    }
+  ]
+}
