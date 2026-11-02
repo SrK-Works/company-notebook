@@ -134,3 +134,39 @@ test('an edited draft that breaks the template cannot be published',async()=>{
  assert.equal(r.published,false);assert.ok(r.errors.some(e=>e.includes('actual amounts')));
  assert.equal(fs.existsSync(path.join(paths.lessons,'ireda.json')),false);
 });
+
+const KEY='test-key-not-real';
+const tinyfishFetch=(body,status=200)=>async(url,init)=>{
+ assert.equal(url,'https://api.fetch.tinyfish.ai');assert.equal(init.headers['X-API-Key'],KEY);
+ assert.deepEqual(JSON.parse(init.body).urls,[PAGE_A]);
+ return {ok:status===200,status,json:async()=>body};
+};
+test('a page the plain fetch cannot read is retried through TinyFish when a key is set',async()=>{
+ const text='Readable text from the browser. '.repeat(30);
+ const [src]=await D.fetchSources([PAGE_A],fakeFetch({}),{tinyfishKey:KEY,tinyfishFetch:tinyfishFetch({results:[{url:PAGE_A,text}]})});
+ assert.equal(src.via,'tinyfish');assert.equal(src.kind,'text');assert.equal(src.text,text.trim());
+});
+test('without a TinyFish key the error says how to get one',async()=>{
+ await assert.rejects(D.fetchSources([PAGE_A],fakeFetch({})),/HTTP 404.*TINYFISH_API_KEY/);
+});
+test('when TinyFish is blocked too, the error names both reasons and nothing is used',async()=>{
+ await assert.rejects(D.fetchSources([PAGE_A],fakeFetch({}),{tinyfishKey:KEY,tinyfishFetch:tinyfishFetch({results:[],errors:[{url:PAGE_A,error:'bot_blocked'}]})}),/HTTP 404.*bot_blocked/);
+ await assert.rejects(D.fetchSources([PAGE_A],fakeFetch({}),{tinyfishKey:KEY,tinyfishFetch:tinyfishFetch({},500)}),/TinyFish returned HTTP 500/);
+});
+test('TinyFish is not tried for a source that is simply too long, and a readable page never needs it',async()=>{
+ const never=async()=>{throw new Error('TinyFish should not be called')};
+ await assert.rejects(D.fetchSources([PAGE_A],fakeFetch({[PAGE_A]:'x '.repeat(250000)}),{tinyfishKey:KEY,tinyfishFetch:never}),/Nothing is cut silently/);
+ const [ok]=await D.fetchSources([PAGE_A],fakeFetch(pages),{tinyfishKey:KEY,tinyfishFetch:never});
+ assert.notEqual(ok.via,'tinyfish');
+});
+test('a draft can be written without the API from an answer file, with every check still applied',async()=>{
+ const paths=sandbox(),answer=path.join(path.dirname(paths.drafts),'answer.json');
+ fs.writeFileSync(answer,JSON.stringify(modelAnswer()));
+ const {draft}=await D.draftLesson({id:'ireda',sourceUrls:[PAGE_A,PAGE_B],paths,client:D.answerFileClient(answer),fetchImpl:fakeFetch(pages),fallback:false});
+ assert.equal(draft.status,'needs-review');assert.equal(draft.model,'written in a Claude Code session');
+ assert.equal(draft.evidenceSummary.verified,1);assert.deepEqual(draft.check.errors,[]);
+ const bad=modelAnswer();bad.evidence=[{section:'summary',claim:'x',sourceUrl:PAGE_A,quote:'A sentence that the page never says anywhere at all'}];
+ fs.writeFileSync(answer,JSON.stringify(bad));
+ const {draft:d2}=await D.draftLesson({id:'ireda',sourceUrls:[PAGE_A,PAGE_B],paths,client:D.answerFileClient(answer),fetchImpl:fakeFetch(pages),fallback:false,force:true});
+ assert.equal(d2.evidenceSummary.notFound,1);
+});

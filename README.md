@@ -207,4 +207,11 @@ The drafting step turns official sources into a lesson that follows `content/les
 4. **Review.** The draft file holds the lesson, the checker result, and an evidence list: each claim with the source link and a quote. Quotes from web pages are checked automatically against the page text; quotes from PDFs are marked "to check by hand". Edit the lesson in the draft if anything is wrong.
 5. **Publish:** `node scripts/publish-draft.cjs <company>` shows the result and changes nothing; add `--approve` to move the lesson into `content/company-lessons/`. It re-runs the checker first and refuses if there are errors. Then run `node scripts/build-company-lessons.cjs` and `node --test tests/`.
 
+**Without an API key (Claude Pro or Claude Code session).** A Claude Pro subscription does not include API access, but a Claude Code session can write the draft instead:
+1. `node scripts/draft-lesson.cjs <company> --dump-sources work/<company> --source <link> --source <link>` saves the exact text the checker will compare against (`work/` is git-ignored). PDFs are saved as files to read by page.
+2. The session reads those files and writes its answer, in the same format the API returns, to a JSON file.
+3. `node scripts/draft-lesson.cjs <company> --answer <that file> --source <link> --source <link>` runs every check and saves `content/drafts/<company>.json` exactly as the API path does, with status `needs-review`. The review gate is the same.
+
+**Pages that block automated readers.** If a plain fetch fails or returns almost no text, and `TINYFISH_API_KEY` is set (`.env`), the script retries through TinyFish, whose fetch and search are free on the current account rates. `--no-tinyfish` turns that off. If TinyFish cannot read the page either (for example Nestlé India's site, or pages that build their content with JavaScript), save the page as text or use a different source.
+
 The drafting script needs one package, installed with `npm install`. The site and every other script need none.
