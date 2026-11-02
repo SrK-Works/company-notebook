@@ -64,7 +64,7 @@ async function fetchViaTinyfish(url,key,fetchImpl){
  if(text.length<500)throw new AccessProblem(`TinyFish could not read it either (${err?(err.error||err.code):'no readable text'}).`);
  return {url,kind:'text',sha256:crypto.createHash('sha256').update(text).digest('hex'),text,via:'tinyfish'};
 }
-async function fetchSources(urls,fetchImpl=fetch,{tinyfishKey,tinyfishFetch=fetch}={}){
+async function fetchSources(urls,fetchImpl=fetch,{tinyfishKey,tinyfishFetch=fetch,pdfText={}}={}){
  const out=[];
  for(const url of urls){
   if(!/^https:\/\/[^\s]+\.[^\s]+$/.test(url))throw new Error(`Source must be an https link: ${url}`);
@@ -77,7 +77,7 @@ async function fetchSources(urls,fetchImpl=fetch,{tinyfishKey,tinyfishFetch=fetc
    catch(e2){if(!(e2 instanceof AccessProblem))throw e2;throw new Error(`${e.message} ${e2.message} Add a different source, or save the page as text.`)}
   }
   if(src.kind==='text'&&src.text.length>MAX_SOURCE_CHARS)throw new Error(`${url} has ${src.text.length} characters, over the ${MAX_SOURCE_CHARS} limit. Nothing is cut silently: choose a shorter page or one section.`);
-  if(src.kind==='pdf'){const {buffer,...rest}=src;out.push({...rest,base64:buffer.toString('base64')})}
+  if(src.kind==='pdf'){const {buffer,...rest}=src;out.push({...rest,base64:buffer.toString('base64'),...(pdfText[url]?{text:pdfText[url],chars:pdfText[url].length,textFromFile:true}:{})})}
   else out.push({...src,chars:src.text.length});
  }
  return out;
@@ -169,11 +169,11 @@ function buildUserContent(company,sources){
 const norm=t=>t.replace(/[’‘`]/g,"'").replace(/[“”]/g,'"').replace(/[\u2010-\u2015\u2212]/g,'-').replace(/ /g,' ').replace(/\s+/g,' ').trim().toLowerCase();
 function verifyEvidence(evidence,sources){
  const byUrl=new Map(sources.map(s=>[s.url,s]));
- const normalised=new Map(sources.filter(s=>s.kind==='text').map(s=>[s.url,norm(s.text)]));
+ const normalised=new Map(sources.filter(s=>typeof s.text==='string').map(s=>[s.url,norm(s.text)]));
  return evidence.map(e=>{
   const src=byUrl.get(e.sourceUrl);
   if(!src)return {...e,verified:'invalid',note:'cites a link that was not provided'};
-  if(src.kind==='pdf')return {...e,verified:'unchecked',note:'PDF text is not available to the checker; a person must find this in the document'};
+  if(!normalised.has(e.sourceUrl))return {...e,verified:'unchecked',note:'PDF text is not available to the checker; a person must find this in the document'};
   const q=norm(e.quote||'');
   if(q.length<MIN_QUOTE_CHARS)return {...e,verified:'invalid',note:`quote is shorter than ${MIN_QUOTE_CHARS} characters`};
   return normalised.get(e.sourceUrl).includes(q)?{...e,verified:'yes'}:{...e,verified:'no',note:'the quote does not appear in the source'};
@@ -196,7 +196,7 @@ async function requestDraft({client,company,sources,effort='high',fallback=true,
  return stream.finalMessage();
 }
 
-async function draftLesson({id,sourceUrls,paths=defaultPaths,client,fetchImpl,tinyfishKey,tinyfishFetch,effort,fallback=true,force=false,now=()=>new Date().toISOString()}){
+async function draftLesson({id,sourceUrls,paths=defaultPaths,client,fetchImpl,tinyfishKey,tinyfishFetch,pdfText,effort,fallback=true,force=false,now=()=>new Date().toISOString()}){
  const companyFile=path.join(paths.companies,id+'.json');
  if(!fs.existsSync(companyFile))throw new Error(`No company file for "${id}". Create content/companies/${id}.json first; the lesson needs the company's identity.`);
  const company=JSON.parse(fs.readFileSync(companyFile,'utf8')).company;
@@ -204,7 +204,7 @@ async function draftLesson({id,sourceUrls,paths=defaultPaths,client,fetchImpl,ti
  if(!force&&fs.existsSync(path.join(paths.lessons,id+'.json')))throw new Error(`${id} already has a published lesson. Use --force to draft a replacement.`);
  if(!force&&fs.existsSync(draftFile)&&JSON.parse(fs.readFileSync(draftFile,'utf8')).status==='needs-review')throw new Error(`${id} already has a draft waiting for review (content/drafts/${id}.json). Review it, or use --force to replace it.`);
  if(sourceUrls.length<2)throw new Error('Give at least two sources (--source <https link>), with a primary company or exchange document first.');
- const sources=await fetchSources(sourceUrls,fetchImpl,{tinyfishKey,tinyfishFetch});
+ const sources=await fetchSources(sourceUrls,fetchImpl,{tinyfishKey,tinyfishFetch,pdfText});
  const message=await requestDraft({client,company,sources,effort,fallback,paths});
  if(message.stop_reason==='refusal')throw new Error(`The model declined to draft this lesson (category: ${message.stop_details?.category??'not given'}). Nothing was saved.`);
  if(message.stop_reason==='max_tokens')throw new Error('The draft was cut off at the length limit, so nothing was saved. Try fewer or shorter sources.');
@@ -219,7 +219,7 @@ async function draftLesson({id,sourceUrls,paths=defaultPaths,client,fetchImpl,ti
  check.errors.push(...problems);
  const draft={
   status:'needs-review',company:id,draftedAt:now(),model:message.model||MODEL,
-  sources:sources.map(({url,kind,sha256,chars,bytes,via})=>({url,kind,sha256,...(chars?{chars}:{}),...(bytes?{bytes}:{}),...(via?{via}:{})})),
+  sources:sources.map(({url,kind,sha256,chars,bytes,via,textFromFile})=>({url,kind,sha256,...(chars?{chars}:{}),...(bytes?{bytes}:{}),...(via?{via}:{}),...(textFromFile?{textFromFile:true}:{})})),
   lesson,evidence,
   evidenceSummary:{verified:evidence.filter(e=>e.verified==='yes').length,unchecked:evidence.filter(e=>e.verified==='unchecked').length,notFound:evidence.filter(e=>e.verified==='no'||e.verified==='invalid').length},
   check,
@@ -242,15 +242,16 @@ if(require.main===module){
  (async()=>{
   const args=process.argv.slice(2);
   const take=flag=>args.flatMap((a,i)=>a===flag?[args[i+1]]:[]);
-  const valued=['--source','--effort','--answer','--dump-sources'];
+  const valued=['--source','--effort','--answer','--dump-sources','--pdf-text'];
   const id=args.find((a,i)=>!a.startsWith('--')&&(i===0||!valued.includes(args[i-1])));
-  if(!id){console.error('Usage: node scripts/draft-lesson.cjs <company> --source <https link> --source <https link> [--dry-run] [--dump-sources <folder>] [--answer <file>] [--no-fallback] [--no-tinyfish] [--effort high] [--force]');process.exit(2)}
+  if(!id){console.error('Usage: node scripts/draft-lesson.cjs <company> --source <https link> --source <https link> [--dry-run] [--dump-sources <folder>] [--answer <file>] [--pdf-text <url>=<text file>] [--no-fallback] [--no-tinyfish] [--effort high] [--force]');process.exit(2)}
   const sourceUrls=take('--source'),effort=take('--effort')[0]||'high',answerFile=take('--answer')[0],dumpDir=take('--dump-sources')[0];
   const tinyfishKey=args.includes('--no-tinyfish')?undefined:process.env.TINYFISH_API_KEY||undefined;
+  const pdfText=Object.fromEntries(take('--pdf-text').map(a=>{const i=a.lastIndexOf('=');return [a.slice(0,i),fs.readFileSync(a.slice(i+1),'utf8')]}));
   try{
    if(args.includes('--dry-run')||dumpDir){
     const company=JSON.parse(fs.readFileSync(path.join(defaultPaths.companies,id+'.json'),'utf8')).company;
-    const sources=await fetchSources(sourceUrls,fetch,{tinyfishKey});
+    const sources=await fetchSources(sourceUrls,fetch,{tinyfishKey,pdfText});
     if(dumpDir){
      fs.mkdirSync(dumpDir,{recursive:true});
      sources.forEach((s,i)=>{const f=path.join(dumpDir,`source-${i+1}.${s.kind==='pdf'?'pdf':'txt'}`);fs.writeFileSync(f,s.kind==='pdf'?Buffer.from(s.base64,'base64'):s.text);console.log(`saved ${f}  <-  ${s.url}${s.via?' (read through TinyFish)':''}`)});
@@ -267,7 +268,7 @@ if(require.main===module){
    let client;
    if(answerFile)client=answerFileClient(answerFile);
    else{const Anthropic=require('@anthropic-ai/sdk');client=new (Anthropic.default||Anthropic)()}
-   const {draft,file}=await draftLesson({id,sourceUrls,client,tinyfishKey,effort,fallback:!answerFile&&!args.includes('--no-fallback'),force:args.includes('--force')});
+   const {draft,file}=await draftLesson({id,sourceUrls,client,tinyfishKey,pdfText,effort,fallback:!answerFile&&!args.includes('--no-fallback'),force:args.includes('--force')});
    const e=draft.evidenceSummary;
    console.log(`Draft saved: ${path.relative(root,file)} (status: ${draft.status})`);
    console.log(`Checker: ${draft.check.errors.length} errors, ${draft.check.warnings.length} warnings.`);

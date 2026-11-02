@@ -1,7 +1,7 @@
 {
   "status": "needs-review",
   "company": "hindustan-unilever",
-  "draftedAt": "2026-11-02T13:52:16.270Z",
+  "draftedAt": "2026-11-02T14:28:31.328Z",
   "model": "written in a Claude Code session",
   "sources": [
     {
@@ -45,11 +45,35 @@
       "kind": "text",
       "sha256": "14031d8f023d557e3e78b1bd0e29e64367216121334be2f5fe347581ffc3214f",
       "chars": 7432
+    },
+    {
+      "url": "https://www.hul.co.in/files/faqs-for-the-scheme-of-arrangement-amongst-hul-kwil-and-their-respective-shareholders.pdf",
+      "kind": "pdf",
+      "sha256": "5eae33dfbb0e8b872a69e6bceef679ad56075bbc4f4968a1b313a4cd1e9376a0",
+      "chars": 30826,
+      "bytes": 334372,
+      "textFromFile": true
+    },
+    {
+      "url": "https://www.hul.co.in/files/faqs-on-allotment-of-kwil-shares-pursuant-to-the-scheme-of-demerger.pdf",
+      "kind": "pdf",
+      "sha256": "cc91e0c08c1dff08f5d02e0638915ff081526c677c3e97bbd20ccead94fae263",
+      "chars": 13228,
+      "bytes": 4022267,
+      "textFromFile": true
+    },
+    {
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c0bfdfc9-6058-4763-b25d-774870d8502c.pdf",
+      "kind": "pdf",
+      "sha256": "88fa36eee614b5b98357064de658fe5b5dc7026a6c55d6d9a51027681877d093",
+      "chars": 13050,
+      "bytes": 532259,
+      "textFromFile": true
     }
   ],
   "lesson": {
     "summary": "Hindustan Unilever (HUL) makes everyday goods such as Surf excel detergent, Dove soap, Brooke Bond tea and Horlicks, and sells them through local shops, store chains and online sellers across India.",
-    "description": "Think of the detergent, shampoo, soap or tea that you replace when it runs out. Hindustan Unilever Limited (HUL) makes and sells goods like these under more than 50 brands. Such goods are called fast moving consumer goods (FMCG): everyday items that people buy again and again. HUL groups its brands into four businesses. Home Care cleans clothes and homes. Beauty & Wellbeing looks after hair and skin. Personal Care covers soap, bodywash, oral care and deodorants. Foods covers tea, coffee, nutrition drinks and sauces. HUL says its brands reach 9 out of 10 Indian households.",
+    "description": "Think of the detergent, shampoo, soap or tea that you replace when it runs out. Hindustan Unilever Limited (HUL) makes and sells goods like these under more than 50 brands. Such goods are called fast moving consumer goods (FMCG): everyday items that people buy again and again. HUL groups its brands into four businesses. Home Care cleans clothes and homes. Beauty & Wellbeing looks after hair and skin. Personal Care covers soap, bodywash, oral care and deodorants. Foods covers tea, coffee, nutrition drinks and sauces. HUL says its brands reach 9 out of 10 Indian households. HUL also used to sell ice cream, such as Kwality Wall’s, Cornetto and Magnum, but that business was split off into a separate company on 1 December 2025.",
     "money": "HUL earns money by selling its goods to the shops, store chains and online sellers that then sell them to shoppers. Each sale has to cover what HUL pays for ingredients and materials, for making the goods, for moving them to sellers and for advertising them. HUL’s own reviews talk about the prices of raw materials, supply chain problems and spending on advertising. What is left after these costs is profit. A shopper’s payment at the till goes to the seller, so it is neither HUL’s income nor HUL’s profit.",
     "customers": "HUL’s direct customers are the sellers that stock its goods: local shops, supermarkets and other store chains, and online and quick delivery apps. The people who use the soap, tea or detergent are shoppers, and they pay the seller. HUL’s reviews describe four ways goods reach shoppers: general trade (local shops), modern trade (store chains), e-commerce and quick commerce.",
     "drivers": "How many packs are sold, the prices charged, whether shoppers choose basic or premium products, and what raw materials and advertising cost. In Home Care, the amount sold grew faster than sales because of pricing actions.",
@@ -72,7 +96,7 @@
       {
         "title": "Foods",
         "examples": "Brooke Bond Red Label and Taj Mahal, Bru, Horlicks, Boost, Kissan and Hellmann’s.",
-        "explanation": "Tea, coffee, nutrition drinks and packaged foods such as sauces. These have different buyers and costs, so HUL’s review names four separate bets: premium tea and coffee, nutrition, the Kissan brand, and drinks sold ready to drink."
+        "explanation": "Tea, coffee, nutrition drinks and packaged foods such as sauces. These have different buyers and costs, so HUL’s review names four separate bets: premium tea and coffee, nutrition, the Kissan brand, and drinks sold ready to drink. Ice cream was part of this business until it was split off on 1 December 2025."
       }
     ],
     "basics": [
@@ -83,6 +107,10 @@
       {
         "title": "What do “underlying sales growth” and “underlying volume growth” mean?",
         "text": "HUL uses two measures to explain why its sales change. Underlying sales growth (USG) is the increase in sales for the period, leaving out any change caused by buying or selling businesses. Underlying volume growth (UVG) is growth in the amount sold, which also reflects the mix of products sold. When USG is lower than UVG, as in HUL’s Home Care review, price changes or the product mix pulled sales growth down."
+      },
+      {
+        "title": "What is a demerger?",
+        "text": "A demerger is when a company splits one of its businesses off into a separate company. The shareholders of the original company usually receive shares in the new one. HUL moved its ice cream business into a new company, Kwality Wall’s (India) Limited (KWIL). The record date, 5 December 2025, was the cut-off for deciding who received the new shares. HUL shareholders on that date were entitled to 1 KWIL share for every 1 HUL share, and they kept their HUL shares. KWIL’s shares were listed on the stock exchanges on 16 February 2026, so they could be bought and sold there."
       },
       {
         "title": "What are general trade, modern trade and quick commerce?",
@@ -125,6 +153,10 @@
         "text": "Each category review gives a segment margin, which compares the business’s result with its sales. For FY 2025–26 the figures are 28% for Beauty & Wellbeing, 20% for Foods, and 19% each for Home Care and Personal Care. Home Care has the most sales of the four, but a lower margin than Beauty & Wellbeing. A segment margin is not profit after tax, and it is not the profit of any single brand."
       },
       {
+        "title": "The ice cream business is no longer part of HUL",
+        "text": "HUL’s Board decided in October 2024 to separate its ice cream business, after its parent company Unilever announced a plan to separate ice cream worldwide. The split took effect on 1 December 2025, and HUL said the aim was to let both companies focus on their own businesses. Until then, ice cream was reported inside HUL’s Foods & Refreshment segment, so older Foods and company-wide figures can include ice cream while newer ones do not. Check whether a figure includes or excludes ice cream before comparing years."
+      },
+      {
         "title": "New ways of selling matter",
         "text": "HUL says e-commerce and quick commerce delivered strong growth for Foods, and it names launches such as Kissan chutneys and Red Label Instant Tea that it scaled up there. Online selling can help a new product reach shoppers quickly, but it adds a different kind of seller to deal with."
       }
@@ -141,9 +173,9 @@
         "Compare each business’s sales and segment margin in HUL’s category reviews for the same year. A business with the most sales can have a lower margin, and the reviews do not give a profit for any single brand."
       ],
       [
-        "Are premium products paying off?",
-        "A premium product can sell at a higher price and still earn little extra if it costs more to make and advertise.",
-        "Look for volume growth in premium formats such as liquids and bodywash, not only launch announcements. Then check whether margins held while HUL spent more on them."
+        "Are you comparing the same business across years?",
+        "A business that is split off or bought changes the numbers even when everyday demand has not changed.",
+        "Read each figure’s scope notes. HUL’s ice cream business moved to KWIL on 1 December 2025, so check whether a figure includes or excludes ice cream before comparing it with another year."
       ],
       [
         "Are goods reaching shoppers, or only filling shelves?",
@@ -214,12 +246,28 @@
       [
         "Results release for the quarter ended 30 September 2026",
         "https://www.hul.co.in/news/press-releases/2026/results-for-the-quarter-ended-30th-september-2026/"
+      ],
+      [
+        "HUL FAQs on the demerger scheme, July 2025",
+        "https://www.hul.co.in/files/faqs-for-the-scheme-of-arrangement-amongst-hul-kwil-and-their-respective-shareholders.pdf"
+      ],
+      [
+        "HUL FAQs on the allotment of Kwality Wall’s shares",
+        "https://www.hul.co.in/files/faqs-on-allotment-of-kwil-shares-pursuant-to-the-scheme-of-demerger.pdf"
+      ],
+      [
+        "Kwality Wall’s (India) results announcement, 6 March 2026",
+        "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c0bfdfc9-6058-4763-b25d-774870d8502c.pdf"
       ]
     ],
     "financialNotes": [
       {
         "title": "How to read HUL’s own figures",
         "text": "HUL reports turnover of ₹63,763 crore for FY 2025–26. Its category reviews report revenue of ₹23,672 crore for Home Care, ₹14,990 crore for Beauty & Wellbeing, ₹9,564 crore for Personal Care and ₹14,061 crore for Foods. These come from HUL’s own web pages. The verified table on this page states its own scope and profit definition, and it remains the reference, so do not add these figures up or compare them with that table without checking the scope. Segment margin is HUL’s own measure. None of these figures is the profit of a brand or a pack."
+      },
+      {
+        "title": "Ice cream and the scope of older figures",
+        "text": "Until 1 December 2025, ice cream sat inside HUL’s Foods & Refreshment segment. KWIL reported results for the quarter ended 31 December 2025 on its own, and said its figures for the same quarter a year earlier were prepared on a pro forma basis, as if the business had operated independently. A figure that includes ice cream and one that leaves it out are not directly comparable. For each figure, check whether it includes or excludes ice cream, and whether it is for HUL as a whole or for one segment."
       },
       {
         "title": "One quarter is not a full year",
@@ -502,6 +550,97 @@
       "verified": "yes"
     },
     {
+      "section": "description",
+      "claim": "The ice cream business was moved to Kwality Wall's (India) Limited",
+      "sourceUrl": "https://www.hul.co.in/files/faqs-for-the-scheme-of-arrangement-amongst-hul-kwil-and-their-respective-shareholders.pdf",
+      "quote": "the demerger of the Ice Cream Business Undertaking (as defined in the Scheme) of HUL to KWIL on a going concern basis",
+      "verified": "yes"
+    },
+    {
+      "section": "description",
+      "claim": "The ice cream brands",
+      "sourceUrl": "https://www.hul.co.in/files/faqs-for-the-scheme-of-arrangement-amongst-hul-kwil-and-their-respective-shareholders.pdf",
+      "quote": "built iconic brands such as ‘Kwality Wall’s’, ‘Cornetto’ and ‘Magnum’",
+      "verified": "yes"
+    },
+    {
+      "section": "description",
+      "claim": "The split took effect on 1 December 2025",
+      "sourceUrl": "https://www.hul.co.in/files/faqs-on-allotment-of-kwil-shares-pursuant-to-the-scheme-of-demerger.pdf",
+      "quote": "Effective Date of the Scheme 01-12-2025",
+      "verified": "yes"
+    },
+    {
+      "section": "groups",
+      "claim": "Ice cream was reported under Foods",
+      "sourceUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c0bfdfc9-6058-4763-b25d-774870d8502c.pdf",
+      "quote": "While part of HUL, the Ice Cream business was reported under Foods & Refreshment segment.",
+      "verified": "yes"
+    },
+    {
+      "section": "basics",
+      "claim": "Record date",
+      "sourceUrl": "https://www.hul.co.in/files/faqs-on-allotment-of-kwil-shares-pursuant-to-the-scheme-of-demerger.pdf",
+      "quote": "Record Date 05-12-2025",
+      "verified": "yes"
+    },
+    {
+      "section": "basics",
+      "claim": "One KWIL share for every HUL share",
+      "sourceUrl": "https://www.hul.co.in/files/faqs-on-allotment-of-kwil-shares-pursuant-to-the-scheme-of-demerger.pdf",
+      "quote": "will receive 1 equity share of KWIL for every 1 equity share held by them in HUL",
+      "verified": "yes"
+    },
+    {
+      "section": "basics",
+      "claim": "HUL shareholders kept their HUL shares",
+      "sourceUrl": "https://www.hul.co.in/files/faqs-for-the-scheme-of-arrangement-amongst-hul-kwil-and-their-respective-shareholders.pdf",
+      "quote": "while remaining invested and retaining their shares in HUL",
+      "verified": "yes"
+    },
+    {
+      "section": "basics",
+      "claim": "KWIL shares were listed on 16 February 2026",
+      "sourceUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c0bfdfc9-6058-4763-b25d-774870d8502c.pdf",
+      "quote": "the Company’s equity shares listed on Indian stock exchanges on February 16, 2026.",
+      "verified": "yes"
+    },
+    {
+      "section": "specifics",
+      "claim": "Parent company plan to separate ice cream",
+      "sourceUrl": "https://www.hul.co.in/files/faqs-for-the-scheme-of-arrangement-amongst-hul-kwil-and-their-respective-shareholders.pdf",
+      "quote": "announcement to separate its Ice Cream business globally",
+      "verified": "yes"
+    },
+    {
+      "section": "specifics",
+      "claim": "Purpose of the split",
+      "sourceUrl": "https://www.hul.co.in/files/faqs-for-the-scheme-of-arrangement-amongst-hul-kwil-and-their-respective-shareholders.pdf",
+      "quote": "which will enable both HUL and KWIL to sharpen focus on their respective businesses and strategies",
+      "verified": "yes"
+    },
+    {
+      "section": "specifics",
+      "claim": "The split took effect on 1 December 2025",
+      "sourceUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c0bfdfc9-6058-4763-b25d-774870d8502c.pdf",
+      "quote": "the demerger on December 1, 2025",
+      "verified": "yes"
+    },
+    {
+      "section": "financialNotes",
+      "claim": "Pro forma comparison figures",
+      "sourceUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c0bfdfc9-6058-4763-b25d-774870d8502c.pdf",
+      "quote": "prepared on a pro forma basis",
+      "verified": "yes"
+    },
+    {
+      "section": "financialNotes",
+      "claim": "KWIL reported its own quarter",
+      "sourceUrl": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c0bfdfc9-6058-4763-b25d-774870d8502c.pdf",
+      "quote": "Announcement of Results for the Quarter ended December 31, 2025",
+      "verified": "yes"
+    },
+    {
       "section": "financialNotes",
       "claim": "Annual turnover",
       "sourceUrl": "https://www.hul.co.in/our-company/",
@@ -517,7 +656,7 @@
     }
   ],
   "evidenceSummary": {
-    "verified": 40,
+    "verified": 53,
     "unchecked": 0,
     "notFound": 0
   },

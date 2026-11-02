@@ -212,6 +212,8 @@ The drafting step turns official sources into a lesson that follows `content/les
 2. The session reads those files and writes its answer, in the same format the API returns, to a JSON file.
 3. `node scripts/draft-lesson.cjs <company> --answer <that file> --source <link> --source <link>` runs every check and saves `content/drafts/<company>.json` exactly as the API path does, with status `needs-review`. The review gate is the same.
 
+**PDF sources.** The script cannot read PDF text itself, so quotes from a PDF are normally marked "to check by hand". Extract the text with any PDF tool (for example `pdftotext`, or the `pypdf` Python package) and pass it with `--pdf-text <pdf link>=<text file>`; those quotes are then checked automatically like web-page quotes.
+
 **Pages that block automated readers.** If a plain fetch fails or returns almost no text, and `TINYFISH_API_KEY` is set (`.env`), the script retries through TinyFish, whose fetch and search are free on the current account rates. `--no-tinyfish` turns that off. If TinyFish cannot read the page either (for example Nestlé India's site, or pages that build their content with JavaScript), save the page as text or use a different source.
 
 The drafting script needs one package, installed with `npm install`. The site and every other script need none.

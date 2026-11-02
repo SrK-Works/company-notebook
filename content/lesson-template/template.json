@@ -144,7 +144,7 @@
       "key": "sources",
       "type": "tuples",
       "minItems": 2,
-      "maxItems": 8,
+      "maxItems": 10,
       "tupleLength": 2,
       "tupleLabels": [
         "label",

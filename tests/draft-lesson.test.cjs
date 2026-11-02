@@ -183,3 +183,16 @@ test('a quote still matches when the source uses a non-breaking hyphen',()=>{
  const v=D.verifyEvidence([{sourceUrl:PAGE_A,quote:'Liquids delivered strong double-digit growth across brands'}],[{url:PAGE_A,kind:'text',text:'Liquids delivered strong double‑digit growth across brands.'}]);
  assert.equal(v[0].verified,'yes');
 });
+
+test('a PDF quote is checked when its extracted text is supplied, and flagged when it is not in that text',async()=>{
+ const pdfUrl='https://example.com/faq.pdf',bytes=Buffer.from('%PDF-1.7 fake');
+ const [src]=await D.fetchSources([pdfUrl],fakeFetch({[pdfUrl]:bytes}),{pdfText:{[pdfUrl]:'The scheme gives one KWIL share for every one HUL share held on the record date.'}});
+ assert.equal(src.kind,'pdf');assert.equal(src.textFromFile,true);
+ const v=D.verifyEvidence([
+  {sourceUrl:pdfUrl,quote:'gives one KWIL share for every one HUL share held on the record date'},
+  {sourceUrl:pdfUrl,quote:'gives two KWIL shares for every one HUL share held by anybody'},
+ ],[src]);
+ assert.deepEqual(v.map(x=>x.verified),['yes','no']);
+ const [bare]=await D.fetchSources([pdfUrl],fakeFetch({[pdfUrl]:bytes}));
+ assert.equal(D.verifyEvidence([{sourceUrl:pdfUrl,quote:'any quote that is long enough here'}],[bare])[0].verified,'unchecked');
+});
