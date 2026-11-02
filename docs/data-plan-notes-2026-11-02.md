@@ -100,3 +100,47 @@ You also clarified that the existing lessons were AI-generated from your instruc
 **Design decision (made 2 November 2026).** The primers use fictional worked examples with made-up prices, but the template allowed money amounts only in `financialNotes`. We chose to add an optional, labelled `illustration` section to the template: one to three worked examples with made-up numbers. The checker accepts amounts there only if the item says in its own words that it is fictional or illustrative, and it still rejects amounts anywhere else. The lesson page does not draw this section yet, so the renderer needs a small change when the first primer (HUL) is converted.
 
 **Order.** Start with HUL, which has the fullest primer, so the template is tested on the hardest case first.
+
+## 10. Growth plan: nearly every listed company, beginners first (added 2 November 2026)
+
+**Goal.** Add almost every listed company over time, slowly, with beginners as the priority, on one clean code and file structure.
+
+**Primers are legacy.** They are the first six deep dives, written as custom code before the lesson template existed. They are kept only because they work. In the finished app no company has a primer: every company uses the same template and the same page code. Adding a company means adding data, never new page code.
+
+**Order of adding companies.**
+1. Household names, the Nifty 50, because a newcomer already knows them from daily life.
+2. The next 100 to 500 by size.
+3. Everything else, gradually, grouped by sector so a beginner can compare similar businesses.
+
+**Depth by tier.** A full lesson for every listed company is not realistic at the start, so each company sits in a labelled tier and moves up as it is drafted and reviewed.
+
+| Tier | What the page has | Who it is for |
+|---|---|---|
+| 1. Full lesson | The whole template: what it does, who pays, costs, steps, risks, research questions | Early-list companies, reviewed by you |
+| 2. Starter page | A short plain description, labelled "not yet reviewed", plus dated facts and source links | Companies waiting for a full lesson |
+| 3. Listing only | Name, sector and links to official filings | The long tail, so nothing is missing |
+
+A beginner is never shown a page that looks more reliable than it is, because every tier is labelled.
+
+**Target file structure.**
+```
+content/
+  companies/<company>.json        identity and offering cards (exists)
+  company-lessons/<company>.json  Tier 1 lessons (exists)
+  lesson-template/template.json   the one lesson format (exists)
+  starters/<company>.json         Tier 2 drafts (next)
+  facts/                          dated results, written by the weekly job (later; a database at scale)
+scripts/
+  check-lessons.cjs               checks a lesson against the template (exists)
+  build-*.cjs                     generate the bundles, never edited by hand (exists)
+  draft-lesson.cjs                drafts a new company from sources (next)
+```
+
+**Order of work from here.**
+1. Merge pull request 1.
+2. Build the drafting step for new companies, with a review gate before anything goes live.
+3. Add the Nifty 50 companies we do not yet cover, one batch at a time.
+4. Convert the six primers, using HUL to test the `illustration` section.
+5. Build the facts layer and weekly job, then the database and API as the list grows.
+
+**One pipeline.** Name a company, draft it, check it, review it, publish it, and keep it fresh. Each step is a script, so the same path works for the first company and the thousandth.
