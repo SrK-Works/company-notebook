@@ -66,9 +66,10 @@ You also clarified that the existing lessons were AI-generated from your instruc
 2. Fix the 38 checker warnings in existing lessons, or start with a clean checker first.
 3. Facts layer: dated results per company with source and checked date, written by the weekly job. The 6 companies without financials are the first test.
 4. Weekly job and review queue, then the small API.
-5. Optional trial: Decap CMS on one company, to see a web form saving into the same JSON file.
-6. Commit phases 1, 2 and 3 as separate commits, so there is a safe point to return to.
-7. Still open from before: an intermittent "awaiting verification" flicker on some financial panels, which was already in the site and has not been investigated.
+5. Convert the six primers to normal lessons (see section 9).
+6. Optional trial: Decap CMS on one company, to see a web form saving into the same JSON file.
+7. Phases 1, 2 and 3 are committed separately on the branch `data-layer-phases-1-3` and open as pull request 1.
+8. Still open from before: an intermittent "awaiting verification" flicker on some financial panels, which was already in the site and has not been investigated.
 
 ## 8. Where things are
 
@@ -82,3 +83,20 @@ You also clarified that the existing lessons were AI-generated from your instruc
 | Generated bundles (not edited by hand) | `dist/company-data.js`, `dist/profile-lessons.js` |
 | Diagram page made in this chat | https://claude.ai/artifact/HxVWSDStFR2Fk2S4fiC1rc |
 | Run all checks | `node --test tests/` |
+
+## 9. Primer conversion (added to the plan)
+
+**What the primers are.** HUL, ITC, Nestlé India, Britannia, Marico and DMart each have a hand-written deep-dive file in `dist/` (`hul-primer.js` and the other five). The text and the page-drawing code are mixed together, and each file replaces the standard business section of its page. These six are the only companies with no lesson file.
+
+**Why convert them.** A weekly job and the lesson checker can only work on data, not on text buried in code. Converting them lets all 41 companies run the same way, and it lets us delete the primer code and the chain that loads them.
+
+**How, one company at a time.**
+1. Write the company's lesson with the template, keeping the best material from its primer: the plain explanations, the local definitions, the worked examples and the company-specific questions and risks.
+2. Run `node scripts/check-lessons.cjs <company>` and fix every error.
+3. Move any text still live in the company file into the lesson, then remove it from the file. The phase 2 test already fails if the same text appears in both.
+4. Check the page looks the same or better, with nothing lost that was verified (financial tables, sources and dates stay).
+5. When all six are done, delete the six primer files and their `index.html` entries.
+
+**Open design question.** The primers use fictional worked examples with made-up prices, for example a pack price and a margin. The template currently allows money amounts only in `financialNotes`, so the checker would reject them. Options: (a) add an "illustration" section to the template that must be labelled as fictional, (b) rewrite the examples without amounts, or (c) allow labelled illustrations inside `basics`. I'd lean towards (a), because a worked example is what makes the business clear to a beginner. This needs your decision before converting.
+
+**Order.** Start with HUL, which has the fullest primer, so the template is tested on the hardest case first.
