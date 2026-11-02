@@ -97,6 +97,6 @@ You also clarified that the existing lessons were AI-generated from your instruc
 4. Check the page looks the same or better, with nothing lost that was verified (financial tables, sources and dates stay).
 5. When all six are done, delete the six primer files and their `index.html` entries.
 
-**Open design question.** The primers use fictional worked examples with made-up prices, for example a pack price and a margin. The template currently allows money amounts only in `financialNotes`, so the checker would reject them. Options: (a) add an "illustration" section to the template that must be labelled as fictional, (b) rewrite the examples without amounts, or (c) allow labelled illustrations inside `basics`. I'd lean towards (a), because a worked example is what makes the business clear to a beginner. This needs your decision before converting.
+**Design decision (made 2 November 2026).** The primers use fictional worked examples with made-up prices, but the template allowed money amounts only in `financialNotes`. We chose to add an optional, labelled `illustration` section to the template: one to three worked examples with made-up numbers. The checker accepts amounts there only if the item says in its own words that it is fictional or illustrative, and it still rejects amounts anywhere else. The lesson page does not draw this section yet, so the renderer needs a small change when the first primer (HUL) is converted.
 
 **Order.** Start with HUL, which has the fullest primer, so the template is tested on the hardest case first.
