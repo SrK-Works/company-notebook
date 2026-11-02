@@ -170,3 +170,16 @@ test('a draft can be written without the API from an answer file, with every che
  const {draft:d2}=await D.draftLesson({id:'ireda',sourceUrls:[PAGE_A,PAGE_B],paths,client:D.answerFileClient(answer),fetchImpl:fakeFetch(pages),fallback:false,force:true});
  assert.equal(d2.evidenceSummary.notFound,1);
 });
+
+test('an illustration travels through the answer format, and an empty one is dropped',()=>{
+ const l=clone(real('ireda'));l.illustration=[{title:'A fictional loan',text:'A made-up project borrows ₹100 crore. These numbers are illustrative only.'}];
+ const back=D.fromModelShape(D.toModelShape(l),l.checked);
+ assert.deepEqual(back.illustration,l.illustration);assert.deepEqual(validateLesson(back,ownNames('ireda')).errors,[]);
+ assert.equal('illustration' in D.fromModelShape(D.toModelShape(real('ireda')),'1 January 2026'),false);
+ assert.ok(D.buildSchema().properties.lesson.properties.illustration);
+ assert.ok(D.buildSystemPrompt().includes('illustration (optional, 1 to 3 items'));
+});
+test('a quote still matches when the source uses a non-breaking hyphen',()=>{
+ const v=D.verifyEvidence([{sourceUrl:PAGE_A,quote:'Liquids delivered strong double-digit growth across brands'}],[{url:PAGE_A,kind:'text',text:'Liquids delivered strong double‑digit growth across brands.'}]);
+ assert.equal(v[0].verified,'yes');
+});

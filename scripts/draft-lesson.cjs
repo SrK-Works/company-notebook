@@ -101,6 +101,7 @@ function buildSchema(){
   quiz:obj({question:str,answer:str}),
   sources:list(obj({label:str,url:str})),
   financialNotes:list(obj({title:str,text:str})),
+  illustration:list(obj({title:str,text:str})),
  });
  const evidence=list(obj({section:str,claim:str,sourceUrl:str,quote:str}));
  return obj({lesson,evidence});
@@ -117,6 +118,7 @@ function fromModelShape(m,checked){
   quiz:[l.quiz.question,l.quiz.answer],
   sources:l.sources.map(s=>[s.label,s.url]),
   financialNotes:l.financialNotes,
+  ...(l.illustration&&l.illustration.length?{illustration:l.illustration}:{}),
   checked,
  };
 }
@@ -130,6 +132,7 @@ function toModelShape(lesson){
   quiz:{question:lesson.quiz[0],answer:lesson.quiz[1]},
   sources:lesson.sources.map(([label,url])=>({label,url})),
   financialNotes:lesson.financialNotes,
+  illustration:lesson.illustration||[],
  },evidence:[]};
 }
 
@@ -138,7 +141,7 @@ function sectionGuide(){
  return template.sections.filter(s=>s.key!=='checked').map(s=>{
   const size=s.type==='text'?`${s.minChars} to ${s.maxChars} characters`:s.type==='pair'?'exactly one title and one text':s.minItems===s.maxItems?`exactly ${s.minItems} items`:`${s.minItems} to ${s.maxItems} items`;
   return `- ${s.key} (${size}). Answers: ${s.answers} ${s.write}`;
- }).join('\n');
+ }).join('\n')+'\n'+template.optional.filter(o=>o.key==='illustration').map(o=>`- illustration (optional, ${o.minItems} to ${o.maxItems} items; leave the list empty if none helps). ${o.write}`).join('\n');
 }
 function buildSystemPrompt(paths=defaultPaths){
  const read=f=>fs.readFileSync(path.join(paths.root,f),'utf8');
@@ -163,7 +166,7 @@ function buildUserContent(company,sources){
 }
 
 // ---------- checking the model's evidence against the sources ----------
-const norm=t=>t.replace(/[’‘`]/g,"'").replace(/[“”]/g,'"').replace(/[–—−]/g,'-').replace(/ /g,' ').replace(/\s+/g,' ').trim().toLowerCase();
+const norm=t=>t.replace(/[’‘`]/g,"'").replace(/[“”]/g,'"').replace(/[\u2010-\u2015\u2212]/g,'-').replace(/ /g,' ').replace(/\s+/g,' ').trim().toLowerCase();
 function verifyEvidence(evidence,sources){
  const byUrl=new Map(sources.map(s=>[s.url,s]));
  const normalised=new Map(sources.filter(s=>s.kind==='text').map(s=>[s.url,norm(s.text)]));
