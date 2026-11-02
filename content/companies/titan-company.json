@@ -1,0 +1,175 @@
+{
+  "order": 7,
+  "company": {
+    "id": "titan-company",
+    "name": "Titan Company",
+    "ticker": "TITAN",
+    "sector": "Consumer & retail",
+    "initial": "T",
+    "color": "#8a6030",
+    "bg": "#faf2e7",
+    "tag": "Lifestyle brands and retail",
+    "products": [
+      [
+        "Tanishq",
+        "Jewellery"
+      ],
+      [
+        "Mia",
+        "Jewellery"
+      ],
+      [
+        "Zoya",
+        "Luxury jewellery"
+      ],
+      [
+        "CaratLane",
+        "Jewellery and digital retail"
+      ],
+      [
+        "BeYon",
+        "Jewellery"
+      ],
+      [
+        "Titan",
+        "Watches"
+      ],
+      [
+        "Fastrack",
+        "Watches and accessories"
+      ],
+      [
+        "Sonata",
+        "Watches"
+      ],
+      [
+        "Zoop",
+        "Children’s watches"
+      ],
+      [
+        "Nebula",
+        "Luxury watches"
+      ],
+      [
+        "Xylys",
+        "Premium watches"
+      ],
+      [
+        "Titan Raga",
+        "Women’s watches"
+      ],
+      [
+        "Titan Edge",
+        "Slim watches"
+      ],
+      [
+        "Titan Smart",
+        "Smartwatches"
+      ],
+      [
+        "Fastrack Smart",
+        "Smartwatches"
+      ],
+      [
+        "Titan Clocks",
+        "Clocks"
+      ],
+      [
+        "Wb by Fastrack",
+        "Fashion accessories"
+      ],
+      [
+        "Fastrack Bags",
+        "Fashion accessories"
+      ],
+      [
+        "Poze",
+        "Fashion watches"
+      ],
+      [
+        "Titan Eye+",
+        "Eyewear"
+      ],
+      [
+        "Fastrack Eyecare",
+        "Eyewear"
+      ],
+      [
+        "Taneira",
+        "Indian dress wear"
+      ],
+      [
+        "SKINN",
+        "Fragrances"
+      ],
+      [
+        "IRTH",
+        "Bags and accessories"
+      ]
+    ],
+    "ownership": "Titan Company Limited is the listed entity. It is associated with the Tata group and TIDCO, but buying Titan shares does not provide direct ownership of other Tata companies.",
+    "sources": [
+      [
+        "Titan company overview",
+        "https://www.titancompany.in/about-us"
+      ],
+      [
+        "Titan business divisions",
+        "https://www.titancompany.in/titan-overview"
+      ]
+    ],
+    "productSource": "https://www.titancompany.in/our-brands",
+    "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
+    "logo": "assets/logos/titan-company.png"
+  },
+  "offerings": [
+    {
+      "name": "Tanishq",
+      "category": "Jewellery",
+      "image": "assets/products/titan-company-50.webp",
+      "url": "https://www.titancompany.in/our-brands",
+      "kind": "photo",
+      "alt": "Tanishq — representative image from the company website"
+    },
+    {
+      "name": "Titan Eye+",
+      "category": "Eyewear",
+      "image": "assets/products/titan-company-51.webp",
+      "url": "https://www.titancompany.in/our-brands",
+      "kind": "photo",
+      "alt": "Titan Eye+ — representative image from the company website"
+    },
+    {
+      "name": "Taneira",
+      "category": "Indian dress wear",
+      "image": "assets/products/titan-company-52.webp",
+      "url": "https://www.titancompany.in/our-brands",
+      "kind": "photo",
+      "alt": "Taneira — representative image from the company website"
+    },
+    {
+      "name": "Titan",
+      "category": "Watches",
+      "image": "assets/products/titan-company-53.webp",
+      "url": "https://www.instagram.com/titanwatchesindia/",
+      "kind": "photo",
+      "alt": "Titan — representative image from the company website"
+    },
+    {
+      "name": "Skinn",
+      "category": "Selected offering",
+      "image": "assets/products/titan-company-54.webp",
+      "url": "https://www.instagram.com/skinn_titan/",
+      "kind": "photo",
+      "alt": "Skinn — official product image"
+    },
+    {
+      "name": "Tanishq jewellery",
+      "category": "Jewellery collection",
+      "image": "assets/products/titan-company-55.webp",
+      "url": "https://www.instagram.com/tanishqjewellery/",
+      "kind": "photo",
+      "alt": "Tanishq jewellery — representative image from the company website"
+    }
+  ]
+}

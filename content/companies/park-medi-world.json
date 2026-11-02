@@ -1,0 +1,174 @@
+{
+  "order": 28,
+  "company": {
+    "id": "park-medi-world",
+    "name": "Park Medi World (Park Hospitals)",
+    "ticker": "PARKHOSPS",
+    "sector": "Healthcare",
+    "initial": "PM",
+    "color": "#247d88",
+    "bg": "#eaf7f8",
+    "tag": "The business behind the offering",
+    "ownership": "The listed company is Park Medi World Limited, commonly associated with Park Hospitals. This is a different listed business from Rainbow Children’s Medicare. A service listed for the group may not be available at every hospital.",
+    "products": [
+      [
+        "Cardiac sciences",
+        "Heart care"
+      ],
+      [
+        "Neurosciences and spine care",
+        "Brain and nervous-system services"
+      ],
+      [
+        "Cancer care",
+        "Oncology"
+      ],
+      [
+        "Renal sciences and kidney transplant",
+        "Kidney care"
+      ],
+      [
+        "Gastro sciences",
+        "Digestive-system care"
+      ],
+      [
+        "Orthopaedics and joint replacement",
+        "Bone and joint care"
+      ],
+      [
+        "General and laparoscopic surgery",
+        "Surgical services"
+      ],
+      [
+        "Robotic surgery",
+        "Technology-assisted procedures"
+      ],
+      [
+        "Obstetrics and gynaecology",
+        "Women’s health"
+      ],
+      [
+        "Paediatrics",
+        "Child healthcare"
+      ],
+      [
+        "Critical care",
+        "Intensive-care services"
+      ],
+      [
+        "Bone marrow transplantation",
+        "Specialist treatment"
+      ],
+      [
+        "Internal medicine and geriatrics",
+        "Adult and older-person care"
+      ],
+      [
+        "Respiratory care",
+        "Chest and lung services"
+      ],
+      [
+        "ENT",
+        "Ear, nose and throat services"
+      ],
+      [
+        "Dermatology",
+        "Skin care"
+      ],
+      [
+        "Dental care",
+        "Oral healthcare"
+      ],
+      [
+        "Endocrinology",
+        "Hormonal and metabolic care"
+      ]
+    ],
+    "sources": [
+      [
+        "Park Medi World company details",
+        "https://www.parkhospital.in/investor-relations/about-company/details-of-the-company"
+      ],
+      [
+        "Park Medi World results filings by period",
+        "https://www.parkhospital.in/investor-relations/financial-information/financial-reports"
+      ]
+    ],
+    "productSource": "https://www.parkhospital.in/investor-relations/about-company/details-of-the-company",
+    "productNote": "Major offering families reviewed on 27 October 2026. Variants, locations and individual models are grouped; availability can vary.",
+    "checked": "27 Oct 2026",
+    "reviewed": "27 October 2026",
+    "aliases": [
+      "Park Medi Hospitals",
+      "Park Hospitals",
+      "Park Medi World"
+    ],
+    "logo": "assets/logos/park-medi-world.webp"
+  },
+  "offerings": [
+    {
+      "name": "Cardiac sciences",
+      "category": "Heart care",
+      "image": "assets/products/park-medi-world-visual-10.webp",
+      "url": "https://www.parkhospital.in/",
+      "kind": "service",
+      "alt": "Cardiac sciences — official service illustration"
+    },
+    {
+      "name": "Neurosciences and spine care",
+      "category": "Brain and nervous-system services",
+      "image": "assets/products/park-medi-world-visual-11.webp",
+      "url": "https://www.parkhospital.in/",
+      "kind": "service",
+      "alt": "Neurosciences and spine care — official service illustration"
+    },
+    {
+      "name": "Renal sciences and kidney transplant",
+      "category": "Kidney care",
+      "image": "assets/products/park-medi-world-visual-12.webp",
+      "url": "https://www.parkhospital.in/",
+      "kind": "service",
+      "alt": "Renal sciences and kidney transplant — official service illustration"
+    },
+    {
+      "name": "Gastro sciences",
+      "category": "Digestive-system care",
+      "image": "assets/products/park-medi-world-visual-13.webp",
+      "url": "https://www.parkhospital.in/",
+      "kind": "service",
+      "alt": "Gastro sciences — official service illustration"
+    },
+    {
+      "name": "Cancer care",
+      "category": "Oncology",
+      "image": "assets/products/park-medi-world-visual-14.webp",
+      "url": "https://www.parkhospital.in/",
+      "kind": "service",
+      "alt": "Cancer care — official service illustration"
+    },
+    {
+      "name": "Orthopaedics and joint replacement",
+      "category": "Bone and joint care",
+      "image": "assets/products/park-medi-world-visual-15.webp",
+      "url": "https://www.parkhospital.in/",
+      "kind": "service",
+      "alt": "Orthopaedics and joint replacement — official service illustration"
+    },
+    {
+      "name": "General and laparoscopic surgery",
+      "category": "Surgical services",
+      "image": "assets/products/park-medi-world-visual-16.webp",
+      "url": "https://www.parkhospital.in/",
+      "kind": "service",
+      "alt": "General and laparoscopic surgery — official service illustration"
+    },
+    {
+      "name": "Obstetrics and gynaecology",
+      "category": "Women’s health",
+      "image": "assets/products/park-medi-world-visual-17.webp",
+      "url": "https://www.parkhospital.in/",
+      "kind": "service",
+      "alt": "Obstetrics and gynaecology — official service illustration"
+    }
+  ]
+}

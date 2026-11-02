@@ -1,0 +1,404 @@
+{
+  "order": 1,
+  "company": {
+    "id": "hindustan-unilever",
+    "name": "Hindustan Unilever",
+    "ticker": "HINDUNILVR",
+    "sector": "Everyday essentials",
+    "initial": "H",
+    "color": "#164d92",
+    "bg": "#eaf2ff",
+    "tag": "Start with what you know",
+    "summary": "The business behind many of the products in your kitchen, bathroom and laundry.",
+    "description": "Hindustan Unilever sells packaged consumer goods in India. People buy its products through shops and online retailers, which are supplied through its distribution network.",
+    "products": [
+      [
+        "Active Wheel 2 in 1",
+        "Home care · laundry"
+      ],
+      [
+        "Axe",
+        "Personal care · deodorants"
+      ],
+      [
+        "Boost",
+        "Nutrition drink"
+      ],
+      [
+        "Brooke Bond 3 Roses",
+        "Foods · tea"
+      ],
+      [
+        "Brooke Bond Red Label",
+        "Foods · tea"
+      ],
+      [
+        "Brooke Bond Taaza",
+        "Foods · tea"
+      ],
+      [
+        "Brooke Bond Taj Mahal",
+        "Foods · tea"
+      ],
+      [
+        "Bru",
+        "Foods · coffee"
+      ],
+      [
+        "Cif",
+        "Home care · surface cleaning"
+      ],
+      [
+        "Clinic Plus",
+        "Personal care · hair care"
+      ],
+      [
+        "Closeup",
+        "Personal care · oral care"
+      ],
+      [
+        "Comfort",
+        "Home care · fabric conditioner"
+      ],
+      [
+        "Dermalogica",
+        "Beauty & wellbeing · skin care"
+      ],
+      [
+        "Domex",
+        "Home care · toilet cleaning"
+      ],
+      [
+        "Dove",
+        "Beauty & personal care"
+      ],
+      [
+        "Elle 18",
+        "Beauty · cosmetics"
+      ],
+      [
+        "Glow & Handsome",
+        "Beauty · skin care"
+      ],
+      [
+        "Glow & Lovely",
+        "Beauty · skin care"
+      ],
+      [
+        "Hamam",
+        "Personal care · soap"
+      ],
+      [
+        "Hellmann's",
+        "Foods · mayonnaise and sauces"
+      ],
+      [
+        "Horlicks",
+        "Nutrition drink"
+      ],
+      [
+        "Horlicks Diabetes Plus",
+        "Nutrition"
+      ],
+      [
+        "Horlicks Lite",
+        "Nutrition"
+      ],
+      [
+        "Horlicks Mother's Plus",
+        "Maternal nutrition"
+      ],
+      [
+        "Horlicks Protein",
+        "Nutrition"
+      ],
+      [
+        "Horlicks Protein Plus",
+        "Nutrition"
+      ],
+      [
+        "Horlicks Women's Plus",
+        "Nutrition"
+      ],
+      [
+        "Indulekha",
+        "Beauty & wellbeing · hair care"
+      ],
+      [
+        "Junior Horlicks",
+        "Child nutrition"
+      ],
+      [
+        "Kissan",
+        "Foods · spreads and sauces"
+      ],
+      [
+        "Knorr",
+        "Foods · soups and cooking aids"
+      ],
+      [
+        "Lakmé",
+        "Beauty · cosmetics and skin care"
+      ],
+      [
+        "Lifebuoy",
+        "Personal care · hygiene"
+      ],
+      [
+        "Lipton",
+        "Foods · tea"
+      ],
+      [
+        "Liquid I.V.",
+        "Hydration"
+      ],
+      [
+        "Liril",
+        "Personal care · soap"
+      ],
+      [
+        "Love Beauty & Planet",
+        "Beauty & wellbeing"
+      ],
+      [
+        "Lux",
+        "Personal care · soap"
+      ],
+      [
+        "Minimalist",
+        "Beauty & wellbeing · skin care"
+      ],
+      [
+        "Moti",
+        "Personal care · soap"
+      ],
+      [
+        "Nexxus",
+        "Beauty & wellbeing · hair care"
+      ],
+      [
+        "Novology",
+        "Beauty & wellbeing · skin care"
+      ],
+      [
+        "OZiva",
+        "Nutrition and wellness"
+      ],
+      [
+        "Pears",
+        "Personal care · soap"
+      ],
+      [
+        "Pepsodent",
+        "Personal care · oral care"
+      ],
+      [
+        "POND'S",
+        "Beauty & wellbeing · skin care"
+      ],
+      [
+        "Rexona",
+        "Personal care · deodorants"
+      ],
+      [
+        "Rin",
+        "Home care · laundry"
+      ],
+      [
+        "Simple",
+        "Beauty & wellbeing · skin care"
+      ],
+      [
+        "Sunlight",
+        "Home care · laundry"
+      ],
+      [
+        "Sunsilk",
+        "Personal care · hair care"
+      ],
+      [
+        "Surf excel",
+        "Home care · laundry"
+      ],
+      [
+        "TRESemmé Professional",
+        "Beauty & wellbeing · hair care"
+      ],
+      [
+        "Vaseline",
+        "Beauty & wellbeing · skin care"
+      ],
+      [
+        "Vim",
+        "Home care · dishwashing"
+      ],
+      [
+        "VWash",
+        "Personal care · intimate hygiene"
+      ]
+    ],
+    "money": "It earns revenue from selling consumer goods. What matters is how many units it sells, the prices it can charge and the cost of making and distributing them.",
+    "ownership": "This profile covers the Indian listed company, Hindustan Unilever Limited. Do not treat every product sold by the global Unilever group as part of HUL.",
+    "watch": [
+      [
+        "Volume growth",
+        "Are people buying more units, rather than simply paying higher prices?"
+      ],
+      [
+        "Operating margin",
+        "How much operating profit remains from each rupee of sales?"
+      ],
+      [
+        "Product mix",
+        "Are higher-value categories becoming a bigger part of sales?"
+      ]
+    ],
+    "risks": [
+      [
+        "Input costs",
+        "Costlier ingredients and packaging can reduce profit unless prices or efficiency improve."
+      ],
+      [
+        "Competition",
+        "Rival brands and local alternatives can compete on price, shelf space and advertising."
+      ],
+      [
+        "Demand",
+        "Household budgets influence what consumers buy and how often."
+      ]
+    ],
+    "sources": [
+      [
+        "HUL company website",
+        "https://www.hul.co.in/"
+      ],
+      [
+        "FY 2025–26 annual report",
+        "https://www.hul.co.in/files/annual-report-2025-26.pdf"
+      ],
+      [
+        "Home Care FY 2025–26",
+        "https://hul-performance-highlights.hul.co.in/performance-highlights-fy-2025-2026/segments/home-care/"
+      ],
+      [
+        "Beauty & Wellbeing FY 2025–26",
+        "https://hul-performance-highlights.hul.co.in/performance-highlights-fy-2025-2026/segments/beauty/"
+      ],
+      [
+        "Personal Care FY 2025–26",
+        "https://hul-performance-highlights.hul.co.in/performance-highlights-fy-2025-2026/segments/personal-care/"
+      ],
+      [
+        "Foods FY 2025–26",
+        "https://hul-performance-highlights.hul.co.in/performance-highlights-fy-2025-2026/segments/foods/"
+      ]
+    ],
+    "update": [
+      "Home Care: volume and price tell different stories",
+      "For FY 2025–26, HUL reports high-single-digit Home Care volume growth and 4% underlying sales growth. Its commentary attributes the difference to pricing actions."
+    ],
+    "question": "Why can revenue rise even when the number of products sold does not?",
+    "answer": "Revenue can rise because of higher prices or a shift toward more expensive products. That is why volume growth deserves a separate look.",
+    "productSource": "https://www.hul.co.in/brands/",
+    "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
+    "logo": "assets/logos/hindustan-unilever.svg"
+  },
+  "offerings": [
+    {
+      "name": "Active Wheel 2 in 1",
+      "category": "Home care · laundry",
+      "image": "assets/products/hindustan-unilever-0.webp",
+      "url": "https://www.hul.co.in/brands/",
+      "kind": "pack",
+      "alt": "Active Wheel 2 in 1 — official product image"
+    },
+    {
+      "name": "Axe",
+      "category": "Personal care · deodorants",
+      "image": "assets/products/hindustan-unilever-1.webp",
+      "url": "https://www.hul.co.in/brands/personal-care/axe/",
+      "kind": "pack",
+      "alt": "Axe — official product image"
+    },
+    {
+      "name": "Boost",
+      "category": "Nutrition drink",
+      "image": "assets/products/hindustan-unilever-2.webp",
+      "url": "https://www.hul.co.in/brands/foods/boost/",
+      "kind": "pack",
+      "alt": "Boost — official product image"
+    },
+    {
+      "name": "Brooke Bond Red Label",
+      "category": "Foods · tea",
+      "image": "assets/products/hindustan-unilever-3.webp",
+      "url": "https://www.hul.co.in/brands/",
+      "kind": "pack",
+      "alt": "Brooke Bond Red Label — official product image"
+    },
+    {
+      "name": "Bru",
+      "category": "Foods · coffee",
+      "image": "assets/products/hindustan-unilever-4.webp",
+      "url": "https://www.hul.co.in/brands/foods/bru/",
+      "kind": "pack",
+      "alt": "Bru — official product image"
+    },
+    {
+      "name": "Closeup",
+      "category": "Personal care · oral care",
+      "image": "assets/products/hindustan-unilever-5.webp",
+      "url": "https://www.hul.co.in/brands/",
+      "kind": "pack",
+      "alt": "Closeup — official product image"
+    },
+    {
+      "name": "Comfort",
+      "category": "Home care · fabric conditioner",
+      "image": "assets/products/hindustan-unilever-6.webp",
+      "url": "https://www.hul.co.in/brands/home-care/comfort/",
+      "kind": "pack",
+      "alt": "Comfort — official product image"
+    },
+    {
+      "name": "Dove",
+      "category": "Beauty & personal care",
+      "image": "assets/products/hindustan-unilever-7.webp",
+      "url": "https://www.hul.co.in/brands/beauty-wellbeing/dove/",
+      "kind": "pack",
+      "alt": "Dove — official product image"
+    },
+    {
+      "name": "Horlicks",
+      "category": "Nutrition drink",
+      "image": "assets/products/hindustan-unilever-8.webp",
+      "url": "https://www.hul.co.in/brands/foods/horlicks/",
+      "kind": "pack",
+      "alt": "Horlicks — official product image"
+    },
+    {
+      "name": "Lakmé",
+      "category": "Beauty · cosmetics and skin care",
+      "image": "assets/products/hindustan-unilever-9.webp",
+      "url": "https://www.hul.co.in/brands/beauty-wellbeing/lakme/",
+      "kind": "pack",
+      "alt": "Lakmé — official product image"
+    },
+    {
+      "name": "Lifebuoy",
+      "category": "Personal care · hygiene",
+      "image": "assets/products/hindustan-unilever-10.webp",
+      "url": "https://www.hul.co.in/brands/personal-care/lifebuoy/",
+      "kind": "pack",
+      "alt": "Lifebuoy — official product image"
+    },
+    {
+      "name": "Pears",
+      "category": "Personal care · soap",
+      "image": "assets/products/hindustan-unilever-11.webp",
+      "url": "https://www.hul.co.in/brands/personal-care/pears/",
+      "kind": "pack",
+      "alt": "Pears — official product image"
+    }
+  ]
+}

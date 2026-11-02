@@ -1,0 +1,198 @@
+{
+  "order": 14,
+  "company": {
+    "id": "tcs",
+    "name": "Tata Consultancy Services",
+    "ticker": "TCS",
+    "sector": "Technology & services",
+    "initial": "tcs",
+    "color": "#7340a9",
+    "bg": "#f2edfc",
+    "tag": "Beyond physical products",
+    "products": [
+      [
+        "AI and Data & Analytics",
+        "Technology services"
+      ],
+      [
+        "Cloud",
+        "Technology services"
+      ],
+      [
+        "Cognitive Business Operations",
+        "Managed operations"
+      ],
+      [
+        "Consulting",
+        "Business and technology consulting"
+      ],
+      [
+        "Cybersecurity",
+        "Technology services"
+      ],
+      [
+        "Enterprise Solutions",
+        "Business systems"
+      ],
+      [
+        "Industrial Autonomy & Engineering",
+        "Engineering services"
+      ],
+      [
+        "Network Solutions and Service",
+        "Connectivity services"
+      ],
+      [
+        "Sustainability Services",
+        "Business services"
+      ],
+      [
+        "TCS Interactive",
+        "Digital experience services"
+      ],
+      [
+        "TCS AI WisdomNext",
+        "AI platform"
+      ],
+      [
+        "TCS ADD",
+        "Life-sciences platform"
+      ],
+      [
+        "TCS BaNCS",
+        "Banking and capital-markets platform"
+      ],
+      [
+        "TCS BFSI Platforms",
+        "Financial-services platforms"
+      ],
+      [
+        "TCS Chroma",
+        "Talent-management platform"
+      ],
+      [
+        "TCS DigiBOLT",
+        "Digital platform"
+      ],
+      [
+        "TCS ERP on Cloud",
+        "Enterprise platform"
+      ],
+      [
+        "TCS HOBS",
+        "Communications platform"
+      ],
+      [
+        "TCS iON",
+        "Education and assessment platform"
+      ],
+      [
+        "TCS MasterCraft",
+        "Software engineering platform"
+      ],
+      [
+        "TCS OMNISTORE",
+        "Retail commerce platform"
+      ],
+      [
+        "TCS Optumera",
+        "Retail optimisation platform"
+      ],
+      [
+        "TCS Quartz",
+        "Blockchain solutions"
+      ],
+      [
+        "TCS Tap",
+        "Airline and travel platform"
+      ],
+      [
+        "TCS TwinX",
+        "Digital-twin platform"
+      ],
+      [
+        "ignio",
+        "Enterprise automation platform"
+      ],
+      [
+        "Jile",
+        "Agile planning platform"
+      ],
+      [
+        "TCS Intelligent Urban Exchange",
+        "Smart-city platform"
+      ]
+    ],
+    "ownership": "Tata Consultancy Services Limited is the listed business covered here. Other Tata group companies are separate businesses; buying TCS shares does not give you direct ownership of the entire Tata group.",
+    "sources": [],
+    "productSource": "https://www.tcs.com/",
+    "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
+    "logo": "assets/logos/tcs.svg"
+  },
+  "offerings": [
+    {
+      "name": "AI and Data & Analytics",
+      "category": "Using data and software to help with decisions",
+      "image": "assets/products/tcs-ai-and-data-analytics.svg",
+      "url": "https://www.tcs.com/what-we-do/services/ai-data-and-analytics",
+      "kind": "illustration",
+      "alt": "AI and Data & Analytics — conceptual brain illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Cloud",
+      "category": "Helping businesses use computing and storage over a network",
+      "image": "assets/products/tcs-cloud.svg",
+      "url": "https://www.tcs.com/what-we-do/services/cloud",
+      "kind": "illustration",
+      "alt": "Cloud — conceptual cloud illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Cognitive Business Operations",
+      "category": "Running agreed office processes and computer systems",
+      "image": "assets/products/tcs-cognitive-business-operations.svg",
+      "url": "https://www.tcs.com/",
+      "kind": "illustration",
+      "alt": "Cognitive Business Operations — conceptual screen illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Consulting",
+      "category": "Helping customers plan changes to their business or computer systems",
+      "image": "assets/products/tcs-consulting.svg",
+      "url": "https://www.tcs.com/",
+      "kind": "illustration",
+      "alt": "Consulting — conceptual people illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Cybersecurity",
+      "category": "Helping protect computer systems and information",
+      "image": "assets/products/tcs-cybersecurity.svg",
+      "url": "https://www.tcs.com/what-we-do/services/cybersecurity",
+      "kind": "illustration",
+      "alt": "Cybersecurity — conceptual shield illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Enterprise Solutions",
+      "category": "Installing and supporting software used to run a company",
+      "image": "assets/products/tcs-enterprise-solutions.svg",
+      "url": "https://www.tcs.com/",
+      "kind": "illustration",
+      "alt": "Enterprise Solutions — conceptual network illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Industrial Autonomy & Engineering",
+      "category": "Engineering work and software for industrial customers",
+      "image": "assets/products/tcs-industrial-autonomy-engineering.svg",
+      "url": "https://www.tcs.com/",
+      "kind": "illustration",
+      "alt": "Industrial Autonomy & Engineering — conceptual car illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Network Solutions and Service",
+      "category": "Helping connect and run computer networks",
+      "image": "assets/products/tcs-network-solutions-and-service.svg",
+      "url": "https://www.tcs.com/",
+      "kind": "illustration",
+      "alt": "Network Solutions and Service — conceptual network illustration; not a photograph or product screenshot"
+    }
+  ]
+}

@@ -2,7 +2,7 @@ const {test}=require('node:test');
 const assert=require('node:assert/strict');
 const fs=require('node:fs'),vm=require('node:vm');
 const c={};c.window=c;vm.createContext(c);
-for(const f of ['data','company-expansion','overviews','research-guides','financial-data','product-images','hul-primer','itc-primer','nestle-primer','britannia-primer','marico-primer'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
+for(const f of ['company-data','overviews','research-guides','financial-data','hul-primer','itc-primer','nestle-primer','britannia-primer','marico-primer'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
 const id='avenue-supermarts',other=o=>JSON.stringify(Object.fromEntries(Object.entries(o).filter(([key])=>key!==id)));
 const profiles=JSON.stringify(c.COMPANIES.filter(x=>x.id!==id)),guides=other(c.COMPANY_RESEARCH_GUIDES),overviews=other(c.COMPANY_OVERVIEWS),visuals=other(c.PRODUCT_VISUALS),finances=JSON.stringify(c.COMPANY_FINANCIALS);
 const ids=['hindustan-unilever','itc','nestle-india','britannia','marico'];

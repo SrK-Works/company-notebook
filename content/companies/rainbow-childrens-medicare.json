@@ -1,0 +1,141 @@
+{
+  "order": 29,
+  "company": {
+    "id": "rainbow-childrens-medicare",
+    "name": "Rainbow Children’s Medicare",
+    "ticker": "RAINBOW",
+    "sector": "Healthcare",
+    "initial": "RC",
+    "color": "#247d88",
+    "bg": "#eaf7f8",
+    "tag": "The business behind the offering",
+    "ownership": "This profile covers Rainbow Children’s Medicare Limited, the listed company behind Rainbow Children’s Hospital and BirthRight by Rainbow. Each hospital has its own service capabilities; the group directory is not a promise of availability at every location.",
+    "products": [
+      [
+        "Rainbow Children’s Hospital",
+        "Paediatric hospital services"
+      ],
+      [
+        "BirthRight by Rainbow",
+        "Women’s and maternity care"
+      ],
+      [
+        "General paediatrics",
+        "Child consultations and treatment"
+      ],
+      [
+        "Neonatal intensive care",
+        "Care for newborns"
+      ],
+      [
+        "Paediatric intensive care",
+        "Critical care for children"
+      ],
+      [
+        "Paediatric surgery",
+        "Surgical services for children"
+      ],
+      [
+        "Paediatric cardiology and cardiac surgery",
+        "Children’s heart care"
+      ],
+      [
+        "Paediatric neurology",
+        "Children’s neurological care"
+      ],
+      [
+        "Paediatric oncology and bone marrow transplant",
+        "Specialist cancer and blood-disorder care"
+      ],
+      [
+        "High-risk pregnancy",
+        "Specialist maternity care"
+      ],
+      [
+        "Obstetrics and gynaecology",
+        "Women’s health"
+      ],
+      [
+        "Fetal medicine",
+        "Prenatal specialist care"
+      ],
+      [
+        "IVF and fertility care",
+        "Assisted reproduction"
+      ],
+      [
+        "Child development and rehabilitation",
+        "Developmental support"
+      ],
+      [
+        "Paediatric nephrology",
+        "Children’s kidney care"
+      ],
+      [
+        "Paediatric pulmonology",
+        "Children’s respiratory care"
+      ]
+    ],
+    "sources": [],
+    "productSource": "https://www.rainbowhospitals.in/",
+    "productNote": "Major offering families reviewed on 27 October 2026. Variants, locations and individual models are grouped; availability can vary.",
+    "checked": "27 Oct 2026",
+    "reviewed": "27 October 2026",
+    "aliases": [
+      "Rainbow Children's Hospital",
+      "Rainbow Children Hospitals",
+      "Rainbow Children’s Hospitals"
+    ],
+    "logo": "assets/logos/rainbow-childrens-medicare.svg"
+  },
+  "offerings": [
+    {
+      "name": "Rainbow Children’s Hospital",
+      "category": "Paediatric hospital services",
+      "image": "assets/products/rainbow-childrens-medicare-visual-18.webp",
+      "url": "https://www.rainbowhospitals.in/",
+      "kind": "photo",
+      "alt": "Rainbow Children’s Hospital — image from the official company website"
+    },
+    {
+      "name": "BirthRight by Rainbow",
+      "category": "Women’s and maternity care",
+      "image": "assets/products/rainbow-childrens-medicare-visual-19.webp",
+      "url": "https://www.rainbowhospitals.in/",
+      "kind": "photo",
+      "alt": "BirthRight by Rainbow — image from the official company website"
+    },
+    {
+      "name": "IVF and fertility care",
+      "category": "Assisted reproduction",
+      "image": "assets/products/rainbow-childrens-medicare-visual-20.webp",
+      "url": "https://www.rainbowhospitals.in/",
+      "kind": "photo",
+      "alt": "IVF and fertility care — image from the official company website"
+    },
+    {
+      "name": "General paediatrics",
+      "category": "Child consultations and treatment",
+      "image": "assets/products/rainbow-childrens-medicare-general-paediatrics.svg",
+      "url": "https://www.rainbowhospitals.in/",
+      "kind": "illustration",
+      "alt": "General paediatrics — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Neonatal intensive care",
+      "category": "Care for newborns",
+      "image": "assets/products/rainbow-childrens-medicare-neonatal-intensive-care.svg",
+      "url": "https://www.rainbowhospitals.in/",
+      "kind": "illustration",
+      "alt": "Neonatal intensive care — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Paediatric cardiology and cardiac surgery",
+      "category": "Children’s heart care",
+      "image": "assets/products/rainbow-childrens-medicare-paediatric-cardiology-and-cardiac-surgery.svg",
+      "url": "https://www.rainbowhospitals.in/",
+      "kind": "illustration",
+      "alt": "Paediatric cardiology and cardiac surgery — conceptual illustration, not a product photograph"
+    }
+  ]
+}

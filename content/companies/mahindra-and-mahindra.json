@@ -1,0 +1,235 @@
+{
+  "order": 12,
+  "company": {
+    "id": "mahindra-and-mahindra",
+    "name": "Mahindra & Mahindra",
+    "ticker": "M&M",
+    "sector": "Homes & mobility",
+    "initial": "M&M",
+    "color": "#a42f34",
+    "bg": "#fff0f0",
+    "tag": "Vehicles, tractors and group investments",
+    "products": [
+      [
+        "Thar",
+        "SUV"
+      ],
+      [
+        "Thar ROXX",
+        "SUV"
+      ],
+      [
+        "Scorpio-N",
+        "SUV"
+      ],
+      [
+        "Scorpio Classic",
+        "SUV"
+      ],
+      [
+        "XUV700",
+        "SUV"
+      ],
+      [
+        "XUV 3XO",
+        "Compact SUV"
+      ],
+      [
+        "Bolero",
+        "Utility vehicle"
+      ],
+      [
+        "Bolero Neo",
+        "Utility vehicle"
+      ],
+      [
+        "BE 6",
+        "Electric SUV"
+      ],
+      [
+        "XEV 9e",
+        "Electric SUV"
+      ],
+      [
+        "XEV 9S",
+        "Electric SUV"
+      ],
+      [
+        "Pick-Ups",
+        "Commercial vehicles"
+      ],
+      [
+        "Small commercial vehicles",
+        "Commercial vehicles"
+      ],
+      [
+        "Trucks and buses",
+        "Commercial vehicles"
+      ],
+      [
+        "Last-mile mobility",
+        "Electric and three-wheel mobility"
+      ],
+      [
+        "ROXOR",
+        "Off-road vehicle · North America"
+      ],
+      [
+        "Mahindra Tractors",
+        "Farm equipment"
+      ],
+      [
+        "Swaraj",
+        "Tractors and farm equipment"
+      ],
+      [
+        "Trakstar",
+        "Tractors"
+      ],
+      [
+        "OJA",
+        "Tractors"
+      ],
+      [
+        "Mahindra Farm Machinery",
+        "Farm equipment"
+      ],
+      [
+        "Swaraj Farm Machinery",
+        "Farm equipment"
+      ],
+      [
+        "EarthMaster",
+        "Construction equipment"
+      ],
+      [
+        "RoadMaster",
+        "Construction equipment"
+      ],
+      [
+        "Jawa",
+        "Motorcycles · Classic Legends"
+      ],
+      [
+        "Yezdi",
+        "Motorcycles · Classic Legends"
+      ],
+      [
+        "BSA",
+        "Motorcycles · Classic Legends"
+      ]
+    ],
+    "ownership": "This profile covers Mahindra & Mahindra Limited. Other Mahindra-named listed companies, such as Tech Mahindra and Mahindra & Mahindra Financial Services, are separate legal entities even when M&M owns stakes in them.",
+    "sources": [
+      [
+        "Mahindra business overview",
+        "https://www.mahindra.com/our-businesses"
+      ],
+      [
+        "Mahindra brand portfolio",
+        "https://www.mahindra.com/our-brands"
+      ]
+    ],
+    "productSource": "https://www.mahindra.com/our-brands",
+    "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
+    "logo": "assets/logos/mahindra-and-mahindra.png"
+  },
+  "offerings": [
+    {
+      "name": "Thar",
+      "category": "SUV",
+      "image": "assets/products/mahindra-and-mahindra-86.webp",
+      "url": "https://auto.mahindra.com/suv/thar/THRN.html",
+      "kind": "pack",
+      "alt": "Thar — official product image"
+    },
+    {
+      "name": "Thar ROXX",
+      "category": "SUV",
+      "image": "assets/products/mahindra-and-mahindra-87.webp",
+      "url": "https://auto.mahindra.com/suv/thar-roxx/TH5D.html",
+      "kind": "pack",
+      "alt": "Thar ROXX — official product image"
+    },
+    {
+      "name": "Scorpio-N",
+      "category": "SUV",
+      "image": "assets/products/mahindra-and-mahindra-88.webp",
+      "url": "https://auto.mahindra.com/suv/scorpio-n/SCN.html",
+      "kind": "pack",
+      "alt": "Scorpio-N — official product image"
+    },
+    {
+      "name": "Scorpio Classic",
+      "category": "SUV",
+      "image": "assets/products/mahindra-and-mahindra-89.webp",
+      "url": "https://auto.mahindra.com/suv/scorpio-classic/SCRC.html",
+      "kind": "pack",
+      "alt": "Scorpio Classic — official product image"
+    },
+    {
+      "name": "XUV 3XO",
+      "category": "Compact SUV",
+      "image": "assets/products/mahindra-and-mahindra-90.webp",
+      "url": "https://auto.mahindra.com/suv/xuv3xo/X3XO.html",
+      "kind": "pack",
+      "alt": "XUV 3XO — official product image"
+    },
+    {
+      "name": "Bolero Neo",
+      "category": "Utility vehicle",
+      "image": "assets/products/mahindra-and-mahindra-91.webp",
+      "url": "https://auto.mahindra.com/suv/bolero-neo/NEO.html",
+      "kind": "pack",
+      "alt": "Bolero Neo — official product image"
+    },
+    {
+      "name": "Bolero",
+      "category": "Utility vehicle",
+      "image": "assets/products/mahindra-and-mahindra-92.webp",
+      "url": "https://auto.mahindra.com/suv/bolero/BOL.html",
+      "kind": "pack",
+      "alt": "Bolero — official product image"
+    },
+    {
+      "name": "XUV400",
+      "category": "Selected offering",
+      "image": "assets/products/mahindra-and-mahindra-93.webp",
+      "url": "https://auto.mahindra.com/suv/xuv400/X400.html",
+      "kind": "pack",
+      "alt": "XUV400 — official product image"
+    },
+    {
+      "name": "Veero",
+      "category": "Commercial vehicle",
+      "image": "assets/products/mahindra-and-mahindra-94.webp",
+      "url": "https://auto.mahindra.com/pick-up-trucks/veero/UPP.html",
+      "kind": "pack",
+      "alt": "Veero — official product image"
+    },
+    {
+      "name": "Blazo",
+      "category": "Commercial vehicle",
+      "image": "assets/products/mahindra-and-mahindra-95.webp",
+      "url": "https://www.mahindratruckandbus.com/heavy-commercial-vehicles/tractor-trailer.aspx",
+      "kind": "pack",
+      "alt": "Blazo — official product image"
+    },
+    {
+      "name": "Treo Yaari",
+      "category": "Electric three-wheeler",
+      "image": "assets/products/mahindra-and-mahindra-96.webp",
+      "url": "https://mahindralastmilemobility.com/treo-yaari-passenger",
+      "kind": "pack",
+      "alt": "Treo Yaari — official product image"
+    },
+    {
+      "name": "Treo",
+      "category": "Electric three-wheeler",
+      "image": "assets/products/mahindra-and-mahindra-97.webp",
+      "url": "https://mahindralastmilemobility.com/treo-hrt",
+      "kind": "pack",
+      "alt": "Treo — official product image"
+    }
+  ]
+}

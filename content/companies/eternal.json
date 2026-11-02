@@ -1,0 +1,88 @@
+{
+  "order": 31,
+  "company": {
+    "id": "eternal",
+    "name": "Eternal",
+    "ticker": "ETERNAL",
+    "sector": "Consumer & retail",
+    "initial": "E",
+    "color": "#ad5536",
+    "bg": "#fff1e8",
+    "tag": "The business behind the offering",
+    "ownership": "Buying Eternal shares is exposure to the listed group, not a separately listed Zomato or Blinkit share. Zomato remains a consumer brand after the corporate name changed. District and Hyperpure are also part of the group portfolio.",
+    "products": [
+      [
+        "Zomato",
+        "Restaurant food delivery and discovery"
+      ],
+      [
+        "Blinkit",
+        "Quick commerce · groceries and everyday goods"
+      ],
+      [
+        "District",
+        "Going-out, dining and entertainment platform"
+      ],
+      [
+        "Hyperpure",
+        "B2B restaurant supplies"
+      ]
+    ],
+    "sources": [
+      [
+        "Corporate name-change explanation",
+        "https://www.eternal.com/letter/"
+      ],
+      [
+        "Official investor relations",
+        "https://www.eternal.com/investor-relations/"
+      ]
+    ],
+    "productSource": "https://www.eternal.com/",
+    "productNote": "Major offering families reviewed on 27 October 2026. Variants, locations and individual models are grouped; availability can vary.",
+    "checked": "27 Oct 2026",
+    "reviewed": "27 October 2026",
+    "aliases": [
+      "Zomato Limited",
+      "Zomato",
+      "Blinkit",
+      "District",
+      "Hyperpure"
+    ],
+    "logo": "assets/logos/eternal.svg"
+  },
+  "offerings": [
+    {
+      "name": "Zomato",
+      "category": "Restaurant food delivery and discovery",
+      "image": "assets/products/eternal-visual-28.webp",
+      "url": "https://www.eternal.com/our-businesses/zomato/",
+      "kind": "photo",
+      "alt": "Zomato — image from the official company website"
+    },
+    {
+      "name": "Blinkit",
+      "category": "Quick commerce · groceries and everyday goods",
+      "image": "assets/products/eternal-visual-29.webp",
+      "url": "https://www.eternal.com/our-businesses/blinkit/",
+      "kind": "photo",
+      "alt": "Blinkit — image from the official company website"
+    },
+    {
+      "name": "District",
+      "category": "Going-out, dining and entertainment platform",
+      "image": "assets/products/eternal-visual-30.webp",
+      "url": "https://www.eternal.com/our-businesses/district/",
+      "kind": "photo",
+      "alt": "District — image from the official company website"
+    },
+    {
+      "name": "Hyperpure",
+      "category": "B2B restaurant supplies",
+      "image": "assets/products/eternal-visual-31.webp",
+      "url": "https://www.eternal.com/our-businesses/hyperpure/",
+      "kind": "photo",
+      "alt": "Hyperpure — image from the official company website"
+    }
+  ]
+}

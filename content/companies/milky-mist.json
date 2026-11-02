@@ -1,0 +1,147 @@
+{
+  "order": 39,
+  "company": {
+    "id": "milky-mist",
+    "name": "Milky Mist Dairy Food",
+    "ticker": "MILKYMIST",
+    "sector": "Everyday essentials",
+    "initial": "MM",
+    "color": "#3b6fa6",
+    "bg": "#ecf2f9",
+    "tag": "The business behind the offering",
+    "ownership": "This profile covers Milky Mist Dairy Food Limited, based in Perundurai, Erode district, Tamil Nadu, and its subsidiary Asal Food Products Private Limited. It buys milk and makes dairy products; it does not own the shops that sell them. Its shares began trading on the exchanges in August 2026, so it has reported only a few quarters as a listed company.",
+    "products": [
+      [
+        "Paneer",
+        "Fresh Indian cheese for cooking"
+      ],
+      [
+        "Curd and butter",
+        "Everyday dairy foods"
+      ],
+      [
+        "Ghee and long-life milk",
+        "Cooking fat and packaged milk"
+      ],
+      [
+        "Cheese",
+        "Made from milk, with whey left over"
+      ],
+      [
+        "Ice cream and desserts",
+        "Frozen and sweet dairy products"
+      ],
+      [
+        "Yogurt, lassi and milkshakes",
+        "Ready-to-drink and ready-to-eat dairy"
+      ],
+      [
+        "Greek yogurt and skyr",
+        "Thicker yogurts the company sells as high-protein"
+      ],
+      [
+        "Milk from farmers and chilling centres",
+        "How raw milk is collected"
+      ],
+      [
+        "Cold-chain delivery and shop coolers",
+        "Moving and displaying chilled products"
+      ]
+    ],
+    "sources": [],
+    "productSource": "https://nsearchives.nseindia.com/corporate/MILKYMIST_29102026165402_intimationoninvestorpresentation29102026.pdf",
+    "productNote": "Product categories reviewed in Milky Mist’s Q2 FY27 investor presentation (29 October 2026) and offer document on 31 October 2026. The company groups more than 600 products into broad categories. Product pictures are from Milky Mist’s own website. The milk-collection and shop-freezer pictures are real photographs from Wikimedia Commons of that kind of work, with the photographer credited.",
+    "checked": "31 Oct 2026",
+    "reviewed": "31 October 2026",
+    "aliases": [
+      "Milky Mist",
+      "Milkymist",
+      "Milky Mist Dairy",
+      "paneer brand",
+      "dairy company"
+    ]
+  },
+  "offerings": [
+    {
+      "name": "Paneer",
+      "category": "Fresh Indian cheese for cooking",
+      "image": "assets/products/milky-mist-paneer.webp",
+      "url": "https://www.milkymist.com/paneer",
+      "kind": "pack",
+      "fit": "wide",
+      "alt": "Paneer — official product image"
+    },
+    {
+      "name": "Curd and butter",
+      "category": "Everyday dairy foods",
+      "image": "assets/products/milky-mist-curd-and-butter.webp",
+      "url": "https://www.milkymist.com/curd",
+      "kind": "pack",
+      "fit": "wide",
+      "alt": "Curd and butter — official product image"
+    },
+    {
+      "name": "Ghee and long-life milk",
+      "category": "Cooking fat and packaged milk",
+      "image": "assets/products/milky-mist-ghee-and-long-life-milk.webp",
+      "url": "https://www.milkymist.com/ghee",
+      "kind": "pack",
+      "fit": "wide",
+      "alt": "Ghee and long-life milk — official product image"
+    },
+    {
+      "name": "Cheese",
+      "category": "Made from milk, with whey left over",
+      "image": "assets/products/milky-mist-cheese.webp",
+      "url": "https://www.milkymist.com/cheese",
+      "kind": "pack",
+      "fit": "wide",
+      "alt": "Cheese — official product image"
+    },
+    {
+      "name": "Ice cream and desserts",
+      "category": "Frozen and sweet dairy products",
+      "image": "assets/products/milky-mist-ice-cream-and-desserts.webp",
+      "url": "https://www.milkymist.com/icecream",
+      "kind": "pack",
+      "fit": "wide",
+      "alt": "Ice cream and desserts — official product image"
+    },
+    {
+      "name": "Yogurt, lassi and milkshakes",
+      "category": "Ready-to-drink and ready-to-eat dairy",
+      "image": "assets/products/milky-mist-yogurt-lassi-and-milkshakes.webp",
+      "url": "https://www.milkymist.com/readytodrink",
+      "kind": "pack",
+      "fit": "wide",
+      "alt": "Yogurt, lassi and milkshakes — official product image"
+    },
+    {
+      "name": "Greek yogurt and skyr",
+      "category": "Thicker yogurts the company sells as high-protein",
+      "image": "assets/products/milky-mist-greek-yogurt-and-skyr.webp",
+      "url": "https://www.milkymist.com/premiumyogurt",
+      "kind": "pack",
+      "fit": "wide",
+      "alt": "Greek yogurt and skyr — official product image"
+    },
+    {
+      "name": "Milk from farmers and chilling centres",
+      "category": "How raw milk is collected",
+      "image": "assets/products/milky-mist-milk-from-farmers-and-chilling-centres.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:Milk_collection_point_in_Tummikapalli,_Kothavalasa.jpg",
+      "kind": "generic",
+      "alt": "Milk from farmers and chilling centres — real photograph of this kind of work or product, not the company's own item",
+      "credit": "Saiphani02 · CC BY-SA 4.0 · Wikimedia Commons"
+    },
+    {
+      "name": "Cold-chain delivery and shop coolers",
+      "category": "Moving and displaying chilled products",
+      "image": "assets/products/milky-mist-cold-chain-delivery-and-shop-coolers.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:Chicecream_different_flavors_in_freezer-20220628.jpg",
+      "kind": "generic",
+      "alt": "Cold-chain delivery and shop coolers — real photograph of this kind of work or product, not the company's own item",
+      "credit": "Shwangtianyuan · CC BY-SA 4.0 · Wikimedia Commons"
+    }
+  ]
+}

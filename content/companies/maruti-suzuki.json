@@ -1,0 +1,227 @@
+{
+  "order": 10,
+  "company": {
+    "id": "maruti-suzuki",
+    "name": "Maruti Suzuki India",
+    "ticker": "MARUTI",
+    "sector": "Homes & mobility",
+    "initial": "M",
+    "color": "#24569a",
+    "bg": "#eaf3fd",
+    "tag": "From the road to the business",
+    "products": [
+      [
+        "Alto K10",
+        "ARENA hatchback"
+      ],
+      [
+        "S-Presso",
+        "ARENA hatchback"
+      ],
+      [
+        "Celerio",
+        "ARENA hatchback"
+      ],
+      [
+        "WagonR",
+        "ARENA hatchback"
+      ],
+      [
+        "Swift",
+        "ARENA hatchback"
+      ],
+      [
+        "Dzire",
+        "ARENA sedan"
+      ],
+      [
+        "Brezza",
+        "ARENA SUV"
+      ],
+      [
+        "Ertiga",
+        "ARENA MPV"
+      ],
+      [
+        "Victoris",
+        "ARENA SUV"
+      ],
+      [
+        "Eeco",
+        "Van"
+      ],
+      [
+        "Baleno",
+        "NEXA hatchback"
+      ],
+      [
+        "Ignis",
+        "NEXA hatchback"
+      ],
+      [
+        "Fronx",
+        "NEXA crossover"
+      ],
+      [
+        "Grand Vitara",
+        "NEXA SUV"
+      ],
+      [
+        "Jimny",
+        "NEXA SUV"
+      ],
+      [
+        "XL6",
+        "NEXA MPV"
+      ],
+      [
+        "Invicto",
+        "NEXA MPV"
+      ],
+      [
+        "e VITARA",
+        "Electric SUV"
+      ],
+      [
+        "Ciaz",
+        "NEXA sedan"
+      ],
+      [
+        "Super Carry",
+        "Commercial vehicle"
+      ],
+      [
+        "Tour range",
+        "Fleet vehicles"
+      ],
+      [
+        "ARENA",
+        "Sales and service channel"
+      ],
+      [
+        "NEXA",
+        "Premium sales channel"
+      ],
+      [
+        "True Value",
+        "Pre-owned vehicles"
+      ],
+      [
+        "Genuine Parts and Accessories",
+        "After-sales products"
+      ],
+      [
+        "Maruti Suzuki Service",
+        "Vehicle service"
+      ]
+    ],
+    "ownership": "This profile covers Maruti Suzuki India Limited. ARENA and NEXA are sales channels, not independent listed car manufacturers. Do not confuse the Indian entity with the worldwide Suzuki group.",
+    "sources": [
+      [
+        "Vehicle directory",
+        "https://www.marutisuzuki.com/sitemap"
+      ]
+    ],
+    "productSource": "https://www.marutisuzuki.com/sitemap",
+    "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
+    "logo": "assets/logos/maruti-suzuki.svg"
+  },
+  "offerings": [
+    {
+      "name": "Dzire",
+      "category": "ARENA sedan",
+      "image": "assets/products/maruti-suzuki-68.webp",
+      "url": "https://www.marutisuzuki.com/",
+      "kind": "pack",
+      "alt": "Dzire — official product image"
+    },
+    {
+      "name": "Victoris",
+      "category": "ARENA SUV",
+      "image": "assets/products/maruti-suzuki-69.webp",
+      "url": "https://www.marutisuzuki.com/",
+      "kind": "pack",
+      "alt": "Victoris — official product image"
+    },
+    {
+      "name": "Swift",
+      "category": "ARENA hatchback",
+      "image": "assets/products/maruti-suzuki-70.webp",
+      "url": "https://www.marutisuzuki.com/",
+      "kind": "pack",
+      "alt": "Swift — official product image"
+    },
+    {
+      "name": "Brezza",
+      "category": "ARENA SUV",
+      "image": "assets/products/maruti-suzuki-71.webp",
+      "url": "https://www.marutisuzuki.com/",
+      "kind": "pack",
+      "alt": "Brezza — official product image"
+    },
+    {
+      "name": "Ertiga",
+      "category": "ARENA MPV",
+      "image": "assets/products/maruti-suzuki-72.webp",
+      "url": "https://www.marutisuzuki.com/",
+      "kind": "pack",
+      "alt": "Ertiga — official product image"
+    },
+    {
+      "name": "WagonR",
+      "category": "ARENA hatchback",
+      "image": "assets/products/maruti-suzuki-73.webp",
+      "url": "https://www.marutisuzuki.com/",
+      "kind": "pack",
+      "alt": "WagonR — official product image"
+    },
+    {
+      "name": "Alto K10",
+      "category": "ARENA hatchback",
+      "image": "assets/products/maruti-suzuki-74.webp",
+      "url": "https://www.marutisuzuki.com/",
+      "kind": "pack",
+      "alt": "Alto K10 — official product image"
+    },
+    {
+      "name": "Celerio",
+      "category": "ARENA hatchback",
+      "image": "assets/products/maruti-suzuki-75.webp",
+      "url": "https://www.marutisuzuki.com/",
+      "kind": "pack",
+      "alt": "Celerio — official product image"
+    },
+    {
+      "name": "Eeco",
+      "category": "Van",
+      "image": "assets/products/maruti-suzuki-76.webp",
+      "url": "https://www.marutisuzuki.com/",
+      "kind": "pack",
+      "alt": "Eeco — official product image"
+    },
+    {
+      "name": "S-Presso",
+      "category": "ARENA hatchback",
+      "image": "assets/products/maruti-suzuki-77.webp",
+      "url": "https://www.marutisuzuki.com/",
+      "kind": "pack",
+      "alt": "S-Presso — official product image"
+    },
+    {
+      "name": "Grand Vitara",
+      "category": "NEXA SUV",
+      "image": "assets/products/maruti-suzuki-78.webp",
+      "url": "https://www.marutisuzuki.com/",
+      "kind": "pack",
+      "alt": "Grand Vitara — official product image"
+    },
+    {
+      "name": "Fronx",
+      "category": "NEXA crossover",
+      "image": "assets/products/maruti-suzuki-79.webp",
+      "url": "https://www.marutisuzuki.com/",
+      "kind": "pack",
+      "alt": "Fronx — official product image"
+    }
+  ]
+}

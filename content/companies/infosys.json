@@ -1,0 +1,191 @@
+{
+  "order": 15,
+  "company": {
+    "id": "infosys",
+    "name": "Infosys",
+    "ticker": "INFY",
+    "sector": "Technology & services",
+    "initial": "Infy",
+    "color": "#167a75",
+    "bg": "#e9f7f5",
+    "tag": "Technology sold to businesses",
+    "products": [
+      [
+        "Infosys Topaz",
+        "AI-first services and solutions"
+      ],
+      [
+        "Infosys Cobalt",
+        "Cloud services and platforms"
+      ],
+      [
+        "Consulting Services",
+        "Business and technology consulting"
+      ],
+      [
+        "Application Development and Maintenance",
+        "Technology services"
+      ],
+      [
+        "Engineering Services",
+        "Product and engineering services"
+      ],
+      [
+        "Cyber Security",
+        "Technology services"
+      ],
+      [
+        "Data and Analytics",
+        "Technology services"
+      ],
+      [
+        "Digital Experience",
+        "Digital services"
+      ],
+      [
+        "Enterprise Applications",
+        "SAP, Oracle and Salesforce services"
+      ],
+      [
+        "Infosys BPM",
+        "Business-process services"
+      ],
+      [
+        "Finacle",
+        "Banking platform"
+      ],
+      [
+        "EdgeVerve AI Next",
+        "Enterprise AI platform"
+      ],
+      [
+        "Infosys Cortex",
+        "Customer-engagement platform"
+      ],
+      [
+        "Infosys Equinox",
+        "Digital commerce platform"
+      ],
+      [
+        "Infosys Helix",
+        "Healthcare platform"
+      ],
+      [
+        "Infosys Live Enterprise Suite",
+        "Enterprise transformation platform"
+      ],
+      [
+        "Infosys Meridian",
+        "Workplace platform"
+      ],
+      [
+        "Infosys Topaz Fabric",
+        "AI platform"
+      ],
+      [
+        "Infosys Wingspan",
+        "Learning platform"
+      ],
+      [
+        "Panaya",
+        "Enterprise change platform"
+      ],
+      [
+        "McCamish",
+        "Insurance platform"
+      ],
+      [
+        "Stater",
+        "Mortgage services"
+      ],
+      [
+        "Polycloud",
+        "Cloud-management platform"
+      ]
+    ],
+    "ownership": "This profile covers Infosys Limited and its consolidated businesses. Infosys is separate from other Indian technology companies, even when they serve similar clients.",
+    "sources": [
+      [
+        "Infosys company overview",
+        "https://www.infosys.com/about/"
+      ],
+      [
+        "Infosys services portfolio",
+        "https://www.infosys.com/services.html"
+      ],
+      [
+        "Products and platforms",
+        "https://www.infosys.com/products-and-platforms.html"
+      ]
+    ],
+    "productSource": "https://www.infosys.com/products-and-platforms.html",
+    "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
+    "logo": "assets/logos/infosys.svg"
+  },
+  "offerings": [
+    {
+      "name": "Infosys Topaz",
+      "category": "Using data and AI-assisted software for business tasks",
+      "image": "assets/products/infosys-infosys-topaz.svg",
+      "url": "https://www.infosys.com/products-and-platforms.html",
+      "kind": "illustration",
+      "alt": "Infosys Topaz — conceptual brain illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Infosys Cobalt",
+      "category": "Helping businesses use computing and storage over a network",
+      "image": "assets/products/infosys-infosys-cobalt.svg",
+      "url": "https://www.infosys.com/products-and-platforms.html",
+      "kind": "illustration",
+      "alt": "Infosys Cobalt — conceptual cloud illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Consulting Services",
+      "category": "Helping customers plan business and computer-system changes",
+      "image": "assets/products/infosys-consulting-services.svg",
+      "url": "https://www.infosys.com/products-and-platforms.html",
+      "kind": "illustration",
+      "alt": "Consulting Services — conceptual people illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Application Development and Maintenance",
+      "category": "Building, updating and fixing computer programs",
+      "image": "assets/products/infosys-application-development-and-maintenance.svg",
+      "url": "https://www.infosys.com/products-and-platforms.html",
+      "kind": "illustration",
+      "alt": "Application Development and Maintenance — conceptual brain illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Engineering Services",
+      "category": "Helping design and develop products and systems",
+      "image": "assets/products/infosys-engineering-services.svg",
+      "url": "https://www.infosys.com/products-and-platforms.html",
+      "kind": "illustration",
+      "alt": "Engineering Services — conceptual factory illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Cyber Security",
+      "category": "Helping protect computer systems and information",
+      "image": "assets/products/infosys-cyber-security.svg",
+      "url": "https://www.infosys.com/products-and-platforms.html",
+      "kind": "illustration",
+      "alt": "Cyber Security — conceptual shield illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Data and Analytics",
+      "category": "Organising information and finding useful patterns",
+      "image": "assets/products/infosys-data-and-analytics.svg",
+      "url": "https://www.infosys.com/products-and-platforms.html",
+      "kind": "illustration",
+      "alt": "Data and Analytics — conceptual brain illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Digital Experience",
+      "category": "Building and improving customer-facing digital services",
+      "image": "assets/products/infosys-digital-experience.svg",
+      "url": "https://www.infosys.com/products-and-platforms.html",
+      "kind": "illustration",
+      "alt": "Digital Experience — conceptual network illustration; not a photograph or product screenshot"
+    }
+  ]
+}

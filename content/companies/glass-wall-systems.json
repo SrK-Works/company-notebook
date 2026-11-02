@@ -1,0 +1,110 @@
+{
+  "order": 34,
+  "company": {
+    "id": "glass-wall-systems",
+    "name": "Glass Wall Systems (India)",
+    "ticker": "GLASSWALL",
+    "sector": "Industrials & infrastructure",
+    "initial": "GW",
+    "color": "#65518c",
+    "bg": "#f2eef8",
+    "tag": "The business behind the offering",
+    "ownership": "This profile covers Glass Wall Systems (India) Limited. Its clients and named project buildings are not subsidiaries merely because they appear in the project portfolio. It supplies façade solutions rather than being a general glass retailer.",
+    "products": [
+      [
+        "Façade and curtain wall systems",
+        "Building-envelope systems"
+      ],
+      [
+        "Louvers",
+        "Architectural screening and ventilation"
+      ],
+      [
+        "Rain screen cladding",
+        "External building cladding"
+      ],
+      [
+        "Façade design and engineering",
+        "Project engineering service"
+      ],
+      [
+        "Façade fabrication",
+        "Manufacturing service"
+      ],
+      [
+        "Façade installation and project management",
+        "On-site delivery service"
+      ]
+    ],
+    "sources": [
+      [
+        "Glass Wall Systems product directory",
+        "https://www.glasswallsystems.in/products"
+      ],
+      [
+        "NSE company filing — GLASSWALL",
+        "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_INDAS_199797_06102026201750_iXBRL_WEB.html"
+      ]
+    ],
+    "productSource": "https://www.glasswallsystems.in/products",
+    "productNote": "Major offering families reviewed on 27 October 2026. Variants, locations and individual models are grouped; availability can vary.",
+    "checked": "27 Oct 2026",
+    "reviewed": "27 October 2026",
+    "aliases": [
+      "Glass wall systems",
+      "Glasswall",
+      "Glass Wall"
+    ],
+    "logo": "assets/logos/glass-wall-systems.webp"
+  },
+  "offerings": [
+    {
+      "name": "Façade and curtain wall systems",
+      "category": "Exterior glass and wall systems for buildings",
+      "image": "assets/products/glass-wall-systems-visual-44.webp",
+      "url": "https://www.glasswallsystems.in/",
+      "kind": "photo",
+      "alt": "Façade and curtain wall systems — image from the official company website"
+    },
+    {
+      "name": "Louvers",
+      "category": "Angled slats that control light or airflow",
+      "image": "assets/products/glass-wall-systems-visual-45.webp",
+      "url": "https://www.glasswallsystems.in/",
+      "kind": "photo",
+      "alt": "Louvers — image from the official company website"
+    },
+    {
+      "name": "Rain screen cladding",
+      "category": "An outer building layer that helps protect against rain",
+      "image": "assets/products/glass-wall-systems-visual-46.webp",
+      "url": "https://www.glasswallsystems.in/",
+      "kind": "photo",
+      "alt": "Rain screen cladding — image from the official company website"
+    },
+    {
+      "name": "Façade design and engineering",
+      "category": "Planning how the exterior wall will fit and work",
+      "image": "assets/products/glass-wall-systems-fa-ade-design-and-engineering.svg",
+      "url": "https://www.glasswallsystems.in/products",
+      "kind": "illustration",
+      "alt": "Façade design and engineering — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Façade fabrication",
+      "category": "Making exterior-wall parts to the agreed design",
+      "image": "assets/products/glass-wall-systems-fa-ade-fabrication.svg",
+      "url": "https://www.glasswallsystems.in/products",
+      "kind": "illustration",
+      "alt": "Façade fabrication — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Façade installation and project management",
+      "category": "Fitting the wall parts and coordinating work on site",
+      "image": "assets/products/glass-wall-systems-fa-ade-installation-and-project-management.svg",
+      "url": "https://www.glasswallsystems.in/products",
+      "kind": "illustration",
+      "alt": "Façade installation and project management — conceptual illustration, not a product photograph"
+    }
+  ]
+}

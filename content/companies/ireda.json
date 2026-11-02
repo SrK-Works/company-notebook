@@ -1,0 +1,145 @@
+{
+  "order": 36,
+  "company": {
+    "id": "ireda",
+    "name": "IREDA",
+    "ticker": "IREDA",
+    "sector": "Banking",
+    "initial": "IR",
+    "color": "#4f7a2a",
+    "bg": "#f0f6e8",
+    "tag": "The business behind the offering",
+    "ownership": "This profile covers Indian Renewable Energy Development Agency Limited, a company owned by the Government of India and registered with the Reserve Bank of India as a non-banking financial company. It lends money to clean-energy projects; it does not build or run the power plants itself.",
+    "products": [
+      [
+        "Solar power loans",
+        "Lending for solar farms and rooftop solar"
+      ],
+      [
+        "Wind power loans",
+        "Lending for wind farms"
+      ],
+      [
+        "Hydropower loans",
+        "Lending for river and dam power stations"
+      ],
+      [
+        "Biomass and compressed biogas loans",
+        "Lending for fuel and power made from farm and food waste"
+      ],
+      [
+        "Waste-to-energy loans",
+        "Lending for power made from rubbish"
+      ],
+      [
+        "Energy storage loans",
+        "Lending for large batteries"
+      ],
+      [
+        "Green hydrogen loans",
+        "Lending for hydrogen fuel made with clean electricity"
+      ],
+      [
+        "Power transmission loans",
+        "Lending for lines that carry electricity"
+      ],
+      [
+        "Ethanol and equipment-factory loans",
+        "Lending for clean-fuel and solar-equipment makers"
+      ]
+    ],
+    "sources": [],
+    "productSource": "https://www.ireda.in/IredaWebPortal/",
+    "productNote": "Financing sectors reviewed on IREDA’s website on 31 October 2026. Each picture is a real photograph from Wikimedia Commons of the kind of project IREDA lends to, with the photographer credited. None is a photograph of a project IREDA has financed.",
+    "checked": "31 Oct 2026",
+    "reviewed": "31 October 2026",
+    "aliases": [
+      "Indian Renewable Energy Development Agency",
+      "IREDA Ltd",
+      "green energy lender"
+    ]
+  },
+  "offerings": [
+    {
+      "name": "Solar power loans",
+      "category": "Lending for solar farms and rooftop solar",
+      "image": "assets/products/ireda-solar-power-loans.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:Solar_PV_arrays_for_solar_water_pump.jpg",
+      "kind": "generic",
+      "alt": "Solar power loans — real photograph of this kind of work or product, not the company's own item",
+      "credit": "Shailsh Telang · CC BY-SA 4.0 · Wikimedia Commons"
+    },
+    {
+      "name": "Wind power loans",
+      "category": "Lending for wind farms",
+      "image": "assets/products/ireda-wind-power-loans.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:Wind_Farm_Muppandal.jpg",
+      "kind": "generic",
+      "alt": "Wind power loans — real photograph of this kind of work or product, not the company's own item",
+      "credit": "Deepa vasudevan · CC BY-SA 4.0 · Wikimedia Commons"
+    },
+    {
+      "name": "Hydropower loans",
+      "category": "Lending for river and dam power stations",
+      "image": "assets/products/ireda-hydropower-loans.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:Idukki_Dam_Reservoir_Hillview_Pano_Kerala_Mar22_R16_05581-Pano.jpg",
+      "kind": "generic",
+      "alt": "Hydropower loans — real photograph of this kind of work or product, not the company's own item",
+      "credit": "Timothy A. Gonsalves · CC BY-SA 4.0 · Wikimedia Commons"
+    },
+    {
+      "name": "Biomass and compressed biogas loans",
+      "category": "Lending for fuel and power made from farm and food waste",
+      "image": "assets/products/ireda-biomass-and-compressed-biogas-loans.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:Building_the_digester.jpg",
+      "kind": "generic",
+      "alt": "Biomass and compressed biogas loans — real photograph of this kind of work or product, not the company's own item",
+      "credit": "BiogasME · CC BY-SA 4.0 · Wikimedia Commons"
+    },
+    {
+      "name": "Waste-to-energy loans",
+      "category": "Lending for power made from rubbish",
+      "image": "assets/products/ireda-waste-to-energy-loans.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:East_Rockingham_Waste_to_Energy_Plant,_January_2023_03.jpg",
+      "kind": "generic",
+      "alt": "Waste-to-energy loans — real photograph of this kind of work or product, not the company's own item",
+      "credit": "Calistemon · CC BY-SA 4.0 · Wikimedia Commons"
+    },
+    {
+      "name": "Energy storage loans",
+      "category": "Lending for large batteries",
+      "image": "assets/products/ireda-energy-storage-loans.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:Reid_Gardner_BESS.jpg",
+      "kind": "generic",
+      "alt": "Energy storage loans — real photograph of this kind of work or product, not the company's own item",
+      "credit": "Sig. Chiocciola · CC0 · Wikimedia Commons"
+    },
+    {
+      "name": "Green hydrogen loans",
+      "category": "Lending for hydrogen fuel made with clean electricity",
+      "image": "assets/products/ireda-green-hydrogen-loans.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:One_2MW_Electrolyser_module.jpg",
+      "kind": "generic",
+      "alt": "Green hydrogen loans — real photograph of this kind of work or product, not the company's own item",
+      "credit": "Bubble60 · CC BY-SA 4.0 · Wikimedia Commons"
+    },
+    {
+      "name": "Power transmission loans",
+      "category": "Lending for lines that carry electricity",
+      "image": "assets/products/ireda-power-transmission-loans.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:Transmission_Tower_-_Erode_District_-_Tamilnadu_,_India.jpg",
+      "kind": "generic",
+      "alt": "Power transmission loans — real photograph of this kind of work or product, not the company's own item",
+      "credit": "Mersaleashwaran · CC BY-SA 4.0 · Wikimedia Commons"
+    },
+    {
+      "name": "Ethanol and equipment-factory loans",
+      "category": "Lending for clean-fuel and solar-equipment makers",
+      "image": "assets/products/ireda-ethanol-and-equipment-factory-loans.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:Ethanol_plant_near_Mason_City_IA.jpg",
+      "kind": "generic",
+      "alt": "Ethanol and equipment-factory loans — real photograph of this kind of work or product, not the company's own item",
+      "credit": "Jeff Easter · CC BY 2.0 · Wikimedia Commons"
+    }
+  ]
+}

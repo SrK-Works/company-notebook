@@ -2,7 +2,7 @@ const {test}=require('node:test');
 const assert=require('node:assert/strict');
 const fs=require('node:fs'),vm=require('node:vm');
 const c={Intl};c.window=c;vm.createContext(c);
-for(const f of ['data','company-expansion','financial-data'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
+for(const f of ['company-data','financial-data'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
 const original=JSON.stringify(c.COMPANY_FINANCIALS);
 const originalIds=Object.keys(c.COMPANY_FINANCIALS);
 for(const f of ['financial-expansion','financials'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);

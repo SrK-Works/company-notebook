@@ -1,0 +1,141 @@
+{
+  "order": 40,
+  "company": {
+    "id": "hfcl",
+    "name": "HFCL",
+    "ticker": "HFCL",
+    "sector": "Technology & services",
+    "initial": "HF",
+    "color": "#c07a1f",
+    "bg": "#fbf3e5",
+    "tag": "The business behind the offering",
+    "ownership": "This profile covers HFCL Limited, formerly Himachal Futuristic Communications Limited, and its subsidiary HTL Limited. It makes cables and equipment and builds networks for customers; it is not a mobile phone company and does not sell broadband to households. A proposed purchase of an aerospace business was announced but is described by the company as proposed, not completed.",
+    "products": [
+      [
+        "Optical fibre",
+        "Hair-thin glass strands that carry data as light"
+      ],
+      [
+        "Optical fibre cables",
+        "Fibre bundled and protected for laying underground or on poles"
+      ],
+      [
+        "Data-centre connectivity products",
+        "Cabling and connectors inside large computer buildings"
+      ],
+      [
+        "Wi-Fi systems and routers",
+        "Equipment that sends data through the air and between networks"
+      ],
+      [
+        "Backhaul radios",
+        "Wireless links that carry mobile-tower traffic to the main network"
+      ],
+      [
+        "Thermal weapon sights",
+        "Heat-sensing sights for military use"
+      ],
+      [
+        "Surveillance radars",
+        "Radars that detect movement over ground or sea"
+      ],
+      [
+        "Wire harnesses and tactical cables",
+        "Cable assemblies for defence, aerospace and cars"
+      ],
+      [
+        "Network building for customers",
+        "Designing and installing telecom networks to order"
+      ]
+    ],
+    "sources": [],
+    "productSource": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/132196fb-d145-48aa-bc31-3a633389e9f5.pdf",
+    "productNote": "Product families reviewed in HFCL’s FY 2025–26 annual report and 22 July 2026 results release on 31 October 2026. Fibre, cable, switch, Wi-Fi, radio and network-tower pictures are from HFCL’s own website. The thermal sight, radar and cable-assembly pictures are real photographs from Wikimedia Commons of that type of product, not HFCL’s own, with the photographer credited. Defence products are listed as described by the company.",
+    "checked": "31 Oct 2026",
+    "reviewed": "31 October 2026",
+    "aliases": [
+      "HFCL Limited",
+      "Himachal Futuristic Communications",
+      "HTL Limited",
+      "optical fibre cable maker",
+      "fibre optic cable"
+    ]
+  },
+  "offerings": [
+    {
+      "name": "Optical fibre",
+      "category": "Hair-thin glass strands that carry data as light",
+      "image": "assets/products/hfcl-optical-fibre.webp",
+      "url": "https://www.hfcl.com/products/optical-fiber",
+      "kind": "pack",
+      "alt": "Optical fibre — official product image"
+    },
+    {
+      "name": "Optical fibre cables",
+      "category": "Fibre bundled and protected for laying underground or on poles",
+      "image": "assets/products/hfcl-optical-fibre-cables.webp",
+      "url": "https://www.hfcl.com/products/optical-fiber-cables",
+      "kind": "pack",
+      "alt": "Optical fibre cables — official product image"
+    },
+    {
+      "name": "Data-centre connectivity products",
+      "category": "Cabling and connectors inside large computer buildings",
+      "image": "assets/products/hfcl-data-centre-connectivity-products.webp",
+      "url": "https://www.hfcl.com/products/interconnect-solutions",
+      "kind": "pack",
+      "alt": "Data-centre connectivity products — official product image"
+    },
+    {
+      "name": "Wi-Fi systems and routers",
+      "category": "Equipment that sends data through the air and between networks",
+      "image": "assets/products/hfcl-wi-fi-systems-and-routers.webp",
+      "url": "https://www.hfcl.com/products/family/wi-fi-access-points",
+      "kind": "pack",
+      "alt": "Wi-Fi systems and routers — official product image"
+    },
+    {
+      "name": "Backhaul radios",
+      "category": "Wireless links that carry mobile-tower traffic to the main network",
+      "image": "assets/products/hfcl-backhaul-radios.webp",
+      "url": "https://www.hfcl.com/products/family/unlicensed-band-radios",
+      "kind": "pack",
+      "alt": "Backhaul radios — official product image"
+    },
+    {
+      "name": "Thermal weapon sights",
+      "category": "Heat-sensing sights for military use",
+      "image": "assets/products/hfcl-thermal-weapon-sights.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:Thermal_weapon_sight_attachment_IT-1TCWS.jpg",
+      "kind": "generic",
+      "alt": "Thermal weapon sights — real photograph of this kind of work or product, not the company's own item",
+      "credit": "Vitaly V. Kuzmin · CC BY-SA 4.0 · Wikimedia Commons"
+    },
+    {
+      "name": "Surveillance radars",
+      "category": "Radars that detect movement over ground or sea",
+      "image": "assets/products/hfcl-surveillance-radars.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:PPS-15_Ground_Surveillance_Radar.jpg",
+      "kind": "generic",
+      "alt": "Surveillance radars — real photograph of this kind of work or product, not the company's own item",
+      "credit": "U.S. Army · Public domain · Wikimedia Commons"
+    },
+    {
+      "name": "Wire harnesses and tactical cables",
+      "category": "Cable assemblies for defence, aerospace and cars",
+      "image": "assets/products/hfcl-wire-harnesses-and-tactical-cables.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:Cable-harness-coaxials-0a.jpg",
+      "kind": "generic",
+      "alt": "Wire harnesses and tactical cables — real photograph of this kind of work or product, not the company's own item",
+      "credit": "Adamantios · CC BY-SA 3.0 · Wikimedia Commons"
+    },
+    {
+      "name": "Network building for customers",
+      "category": "Designing and installing telecom networks to order",
+      "image": "assets/products/hfcl-network-building-for-customers.webp",
+      "url": "https://www.hfcl.com/products/5g",
+      "kind": "photo",
+      "alt": "Network building for customers — official company image"
+    }
+  ]
+}

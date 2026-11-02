@@ -1,0 +1,112 @@
+{
+  "order": 27,
+  "company": {
+    "id": "bharat-coking-coal",
+    "name": "Bharat Coking Coal",
+    "ticker": "BHARATCOAL",
+    "sector": "Energy & utilities",
+    "initial": "BC",
+    "color": "#91662d",
+    "bg": "#faf3e5",
+    "tag": "The business behind the offering",
+    "ownership": "This profile covers Bharat Coking Coal Limited, a subsidiary of Coal India Limited. Owning its shares gives exposure to this subsidiary, rather than every coal business owned by the parent.",
+    "products": [
+      [
+        "Raw coking coal",
+        "Steel-industry input"
+      ],
+      [
+        "Washed coking coal",
+        "Processed coal"
+      ],
+      [
+        "Non-coking coal",
+        "Fuel for industrial and power customers"
+      ],
+      [
+        "Middlings",
+        "Coal-washing by-product"
+      ],
+      [
+        "Slurry",
+        "Coal-washing by-product"
+      ],
+      [
+        "Washery rejects and other washery products",
+        "By-products · grade dependent"
+      ]
+    ],
+    "sources": [
+      [
+        "BCCL business overview",
+        "https://bcclweb.in/?page_id=4259"
+      ],
+      [
+        "Official marketing and product notices",
+        "https://bcclweb.in/?page_id=8657"
+      ],
+      [
+        "NSE company filing — BHARATCOAL",
+        "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_GOVERNANCE_179464_28072026194952_iXBRL_WEB.html"
+      ]
+    ],
+    "productSource": "https://bcclweb.in/?page_id=4259",
+    "productNote": "Major offering families reviewed on 27 October 2026. Variants, locations and individual models are grouped; availability can vary.",
+    "checked": "27 Oct 2026",
+    "reviewed": "27 October 2026",
+    "aliases": [
+      "Bharath Coking Coal",
+      "BCCL"
+    ]
+  },
+  "offerings": [
+    {
+      "name": "Raw coking coal",
+      "category": "Coal supplied into the steel-making chain",
+      "image": "assets/products/bharat-coking-coal-raw-coking-coal.svg",
+      "url": "https://bcclweb.in/?page_id=4259",
+      "kind": "illustration",
+      "alt": "Raw coking coal — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Washed coking coal",
+      "category": "Coal cleaned before it is supplied",
+      "image": "assets/products/bharat-coking-coal-washed-coking-coal.svg",
+      "url": "https://bcclweb.in/?page_id=4259",
+      "kind": "illustration",
+      "alt": "Washed coking coal — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Non-coking coal",
+      "category": "Coal used as fuel by power plants and factories",
+      "image": "assets/products/bharat-coking-coal-non-coking-coal.svg",
+      "url": "https://bcclweb.in/?page_id=4259",
+      "kind": "illustration",
+      "alt": "Non-coking coal — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Middlings",
+      "category": "Material separated while coal is washed",
+      "image": "assets/products/bharat-coking-coal-middlings.svg",
+      "url": "https://bcclweb.in/?page_id=4259",
+      "kind": "illustration",
+      "alt": "Middlings — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Slurry",
+      "category": "Fine coal mixed with water during washing",
+      "image": "assets/products/bharat-coking-coal-slurry.svg",
+      "url": "https://bcclweb.in/?page_id=4259",
+      "kind": "illustration",
+      "alt": "Slurry — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Washery rejects and other washery products",
+      "category": "Other materials separated during coal washing",
+      "image": "assets/products/bharat-coking-coal-washery-rejects-and-other-washery-products.svg",
+      "url": "https://bcclweb.in/?page_id=4259",
+      "kind": "illustration",
+      "alt": "Washery rejects and other washery products — conceptual illustration, not a product photograph"
+    }
+  ]
+}

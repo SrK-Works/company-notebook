@@ -2,7 +2,7 @@ const {test}=require('node:test');
 const assert=require('node:assert/strict');
 const fs=require('node:fs'),vm=require('node:vm');
 const c={};c.window=c;vm.createContext(c);
-for(const f of ['data','company-expansion','overviews','research-guides','financial-data','product-images','hul-primer','itc-primer'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
+for(const f of ['company-data','overviews','research-guides','financial-data','hul-primer','itc-primer'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
 const untouched=JSON.stringify(c.COMPANIES.filter(x=>x.id!=='nestle-india'));
 const guides=JSON.stringify(Object.fromEntries(Object.entries(c.COMPANY_RESEARCH_GUIDES).filter(([id])=>id!=='nestle-india')));
 const visuals=JSON.stringify(Object.fromEntries(Object.entries(c.PRODUCT_VISUALS).filter(([id])=>id!=='nestle-india')));

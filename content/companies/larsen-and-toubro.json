@@ -1,0 +1,186 @@
+{
+  "order": 21,
+  "company": {
+    "id": "larsen-and-toubro",
+    "name": "Larsen & Toubro",
+    "ticker": "LT",
+    "sector": "Industrials & infrastructure",
+    "initial": "L&T",
+    "color": "#286397",
+    "bg": "#edf5fb",
+    "tag": "Projects that take years to deliver",
+    "products": [
+      [
+        "Buildings and Factories",
+        "Construction"
+      ],
+      [
+        "Transportation Infrastructure",
+        "Construction"
+      ],
+      [
+        "Heavy Civil Infrastructure",
+        "Construction"
+      ],
+      [
+        "Power Transmission and Distribution",
+        "Construction"
+      ],
+      [
+        "Water and Effluent Treatment",
+        "Construction"
+      ],
+      [
+        "Minerals and Metals",
+        "Construction"
+      ],
+      [
+        "L&T GeoStructure",
+        "Ground engineering"
+      ],
+      [
+        "L&T Renewables",
+        "Renewable-energy EPC"
+      ],
+      [
+        "Hydrocarbon projects",
+        "Energy EPC"
+      ],
+      [
+        "CarbonLite Solutions",
+        "Power and low-carbon energy"
+      ],
+      [
+        "Heavy Engineering",
+        "Hi-tech manufacturing"
+      ],
+      [
+        "Precision Engineering and Systems",
+        "Defence and aerospace manufacturing"
+      ],
+      [
+        "Special Steels and Heavy Forgings",
+        "Industrial manufacturing"
+      ],
+      [
+        "Electrolyser Manufacturing",
+        "Green-hydrogen equipment"
+      ],
+      [
+        "L&T Technology Services",
+        "Engineering R&D services"
+      ],
+      [
+        "LTIMindtree",
+        "Information-technology services"
+      ],
+      [
+        "Digital platforms",
+        "Technology services"
+      ],
+      [
+        "Data centres",
+        "Digital infrastructure"
+      ],
+      [
+        "Semiconductor design",
+        "Technology services"
+      ],
+      [
+        "L&T Finance",
+        "Financial services"
+      ],
+      [
+        "L&T Realty",
+        "Real estate"
+      ],
+      [
+        "Construction and Mining Machinery",
+        "Industrial products"
+      ],
+      [
+        "Rubber Processing Machinery",
+        "Industrial products"
+      ],
+      [
+        "Industrial valves",
+        "Industrial products"
+      ],
+      [
+        "Hyderabad Metro",
+        "Development project"
+      ]
+    ],
+    "ownership": "This profile covers Larsen & Toubro Limited and its consolidated group. Some L&T-associated businesses are separately listed subsidiaries, so study the parent and each listed entity separately.",
+    "sources": [],
+    "productSource": "https://www.larsentoubro.com/hyderabad-metro",
+    "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
+    "logo": "assets/logos/larsen-and-toubro.svg"
+  },
+  "offerings": [
+    {
+      "name": "Buildings and Factories",
+      "category": "Building homes, workplaces and factories",
+      "image": "assets/products/larsen-and-toubro-122.webp",
+      "url": "https://www.larsentoubro.com/hyderabad-metro",
+      "kind": "photo",
+      "alt": "Buildings and Factories — representative image from the company website"
+    },
+    {
+      "name": "Power Transmission and Distribution",
+      "category": "Building electricity lines and substations",
+      "image": "assets/products/larsen-and-toubro-123.webp",
+      "url": "https://www.larsentoubro.com/hyderabad-metro",
+      "kind": "photo",
+      "alt": "Minerals and Metals — representative image from the company website"
+    },
+    {
+      "name": "Hydrocarbon projects",
+      "category": "Designing, buying equipment for and building oil or gas facilities",
+      "image": "assets/products/larsen-and-toubro-124.webp",
+      "url": "https://www.larsentoubro.com/hyderabad-metro",
+      "kind": "photo",
+      "alt": "Hydrocarbon projects — representative image from the company website"
+    },
+    {
+      "name": "L&T Renewables",
+      "category": "Designing and building renewable-energy projects",
+      "image": "assets/products/larsen-and-toubro-125.webp",
+      "url": "https://www.larsentoubro.com/hyderabad-metro",
+      "kind": "photo",
+      "alt": "L&T Renewables — representative image from the company website"
+    },
+    {
+      "name": "Construction equipment",
+      "category": "Machines used on construction sites",
+      "image": "assets/products/larsen-and-toubro-126.webp",
+      "url": "https://www.larsentoubro.com/hyderabad-metro",
+      "kind": "photo",
+      "alt": "Heavy Engineering — representative image from the company website"
+    },
+    {
+      "name": "Precision Engineering and Systems",
+      "category": "Making specialised equipment for defence and aerospace",
+      "image": "assets/products/larsen-and-toubro-127.webp",
+      "url": "https://www.larsentoubro.com/hyderabad-metro",
+      "kind": "photo",
+      "alt": "Precision Engineering and Systems — representative image from the company website"
+    },
+    {
+      "name": "L&T Realty",
+      "category": "Property-development business within the group",
+      "image": "assets/products/larsen-and-toubro-128.webp",
+      "url": "https://www.larsentoubro.com/hyderabad-metro",
+      "kind": "photo",
+      "alt": "L&T Realty — representative image from the company website"
+    },
+    {
+      "name": "Technology services",
+      "category": "Computer-system and engineering work for other businesses",
+      "image": "assets/products/larsen-and-toubro-129.webp",
+      "url": "https://www.larsentoubro.com/hyderabad-metro",
+      "kind": "photo",
+      "alt": "Technology services — representative image from the company website"
+    }
+  ]
+}

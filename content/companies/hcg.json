@@ -1,0 +1,126 @@
+{
+  "order": 37,
+  "company": {
+    "id": "hcg",
+    "name": "HealthCare Global Enterprises (HCG)",
+    "ticker": "HCG",
+    "sector": "Healthcare",
+    "initial": "HC",
+    "color": "#8a3f6e",
+    "bg": "#f7edf4",
+    "tag": "The business behind the offering",
+    "ownership": "This profile covers HealthCare Global Enterprises Limited, which runs cancer hospitals under the HCG brand. Some centres are run through partnerships or subsidiaries, so the group’s accounts combine more than one legal entity. The Milann fertility business was part of the group until it was sold in June 2026.",
+    "products": [
+      [
+        "Cancer diagnosis scans and tests",
+        "Finding and staging cancer"
+      ],
+      [
+        "Radiation treatment",
+        "Machine-guided radiation for cancer"
+      ],
+      [
+        "Cancer surgery, including robotic surgery",
+        "Operations to remove tumours"
+      ],
+      [
+        "Chemotherapy and day-care cancer medicines",
+        "Medicine given without an overnight stay"
+      ],
+      [
+        "Multispecialty hospital care",
+        "Hospital treatment beyond cancer"
+      ],
+      [
+        "Overseas patients and the Nairobi centre",
+        "Care for patients from other countries"
+      ],
+      [
+        "Cancer follow-up and survivorship care",
+        "Support after treatment"
+      ],
+      [
+        "Fertility treatment (Milann)",
+        "Historical offering, sold June 2026"
+      ]
+    ],
+    "sources": [],
+    "productSource": "https://www.hcgoncology.com/annual-reports/",
+    "productNote": "Services reviewed on HCG’s annual report and results release on 31 October 2026. Pictures of scans, radiation, surgery, chemotherapy, the hospital and follow-up care are from HCG’s own website. The overseas-patients and fertility cards remain labelled original illustrations. The fertility business was sold in June 2026.",
+    "checked": "31 Oct 2026",
+    "reviewed": "31 October 2026",
+    "aliases": [
+      "HealthCare Global Enterprises",
+      "HCG Oncology",
+      "HCG Hospitals",
+      "HCG cancer centres",
+      "cancer hospital"
+    ]
+  },
+  "offerings": [
+    {
+      "name": "Cancer diagnosis scans and tests",
+      "category": "Finding and staging cancer",
+      "image": "assets/products/hcg-cancer-diagnosis-scans-and-tests.webp",
+      "url": "https://www.hcgoncology.com/",
+      "kind": "photo",
+      "alt": "Cancer diagnosis scans and tests — official company image"
+    },
+    {
+      "name": "Radiation treatment",
+      "category": "Machine-guided radiation for cancer",
+      "image": "assets/products/hcg-radiation-treatment.webp",
+      "url": "https://www.hcgoncology.com/",
+      "kind": "photo",
+      "alt": "Radiation treatment — official company image"
+    },
+    {
+      "name": "Cancer surgery, including robotic surgery",
+      "category": "Operations to remove tumours",
+      "image": "assets/products/hcg-cancer-surgery-including-robotic-surgery.webp",
+      "url": "https://www.hcgoncology.com/",
+      "kind": "photo",
+      "alt": "Cancer surgery, including robotic surgery — official company image"
+    },
+    {
+      "name": "Chemotherapy and day-care cancer medicines",
+      "category": "Medicine given without an overnight stay",
+      "image": "assets/products/hcg-chemotherapy-and-day-care-cancer-medicines.webp",
+      "url": "https://www.hcgoncology.com/",
+      "kind": "photo",
+      "alt": "Chemotherapy and day-care cancer medicines — official company image"
+    },
+    {
+      "name": "Multispecialty hospital care",
+      "category": "Hospital treatment beyond cancer",
+      "image": "assets/products/hcg-multispecialty-hospital-care.webp",
+      "url": "https://www.hcgoncology.com/",
+      "kind": "photo",
+      "alt": "Multispecialty hospital care — official company image"
+    },
+    {
+      "name": "Overseas patients and the Nairobi centre",
+      "category": "Care for patients from other countries",
+      "image": "assets/products/hcg-overseas-patients-and-the-nairobi-centre.svg",
+      "url": "https://www.hcgoncology.com/annual-reports/",
+      "kind": "illustration",
+      "alt": "Overseas patients and the Nairobi centre — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Cancer follow-up and survivorship care",
+      "category": "Support after treatment",
+      "image": "assets/products/hcg-cancer-follow-up-and-survivorship-care.webp",
+      "url": "https://www.hcgoncology.com/",
+      "kind": "photo",
+      "alt": "Cancer follow-up and survivorship care — official company image"
+    },
+    {
+      "name": "Fertility treatment (Milann)",
+      "category": "Historical offering, sold June 2026",
+      "image": "assets/products/hcg-fertility-treatment-milann.svg",
+      "url": "https://www.hcgoncology.com/annual-reports/",
+      "kind": "illustration",
+      "alt": "Fertility treatment (Milann) — conceptual illustration, not a product photograph"
+    }
+  ]
+}

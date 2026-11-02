@@ -1,0 +1,224 @@
+{
+  "order": 4,
+  "company": {
+    "id": "britannia",
+    "name": "Britannia Industries",
+    "ticker": "BRITANNIA",
+    "sector": "Everyday essentials",
+    "initial": "B",
+    "color": "#b52d3c",
+    "bg": "#fff0f1",
+    "tag": "A familiar place to begin",
+    "summary": "A packaged-food company whose products range from biscuits to bread and dairy.",
+    "description": "Britannia sells packaged foods across biscuits, dairy, bread, rusks, cakes and snacking. Recognisable brands help explain what shoppers buy, while the financial reports explain the business.",
+    "products": [
+      [
+        "Good Day",
+        "Cookies"
+      ],
+      [
+        "Marie Gold",
+        "Tea biscuits"
+      ],
+      [
+        "Tiger",
+        "Biscuits"
+      ],
+      [
+        "NutriChoice",
+        "Health-focused biscuits and snacks"
+      ],
+      [
+        "Milk Bikis",
+        "Milk biscuits"
+      ],
+      [
+        "50-50",
+        "Crackers and savoury biscuits"
+      ],
+      [
+        "Bourbon",
+        "Cream biscuits"
+      ],
+      [
+        "Treat",
+        "Cream biscuits and wafers"
+      ],
+      [
+        "Jim Jam",
+        "Cream biscuits"
+      ],
+      [
+        "Pure Magic",
+        "Premium cookies"
+      ],
+      [
+        "Little Hearts",
+        "Sweet snacks"
+      ],
+      [
+        "Toastea",
+        "Rusk"
+      ],
+      [
+        "Treat Croissant",
+        "Croissants"
+      ],
+      [
+        "Britannia Cakes",
+        "Cakes"
+      ],
+      [
+        "Britannia Breads",
+        "Bread"
+      ],
+      [
+        "The Laughing Cow Cheese",
+        "Cheese"
+      ],
+      [
+        "Winkin' Cow",
+        "Dairy beverages"
+      ],
+      [
+        "Come Alive",
+        "Yoghurt"
+      ]
+    ],
+    "money": "Revenue comes from selling food products through its distribution channels. Ingredient prices, packaging, manufacturing and the mix of products sold affect earnings.",
+    "ownership": "The listed company is Britannia Industries Limited. Product brands are not separate listed stocks. Use consolidated disclosures when studying the group as a whole.",
+    "watch": [
+      [
+        "Volume growth",
+        "Are consumers buying more packs?"
+      ],
+      [
+        "Gross and operating margins",
+        "How much is left after ingredients and running costs?"
+      ],
+      [
+        "Distribution reach",
+        "Can additional sales channels produce sustainable growth?"
+      ]
+    ],
+    "risks": [
+      [
+        "Ingredient costs",
+        "Wheat, sugar, milk and edible-oil prices can affect profitability."
+      ],
+      [
+        "Pricing pressure",
+        "Affordable alternatives limit how much prices can rise."
+      ],
+      [
+        "Execution",
+        "Expanding food categories and distribution costs money and requires consistent quality."
+      ]
+    ],
+    "sources": [
+      [
+        "Britannia official portfolio",
+        "https://www.britannia.co.in/"
+      ],
+      [
+        "NutriChoice range",
+        "https://www.britannia.co.in/product/nutrichoice"
+      ],
+      [
+        "Good Day brand reference",
+        "https://www.britannia.co.in/article/talented-s-latest-for-britannia-good-day-doesn-t-show-the-biscuit-or-does-it"
+      ]
+    ],
+    "update": [
+      "Explore beyond biscuits",
+      "The official product categories also include dairy, bread, rusk, cakes and snacking."
+    ],
+    "question": "Why might a company sell more packs but earn less profit?",
+    "answer": "Ingredient costs, discounts, advertising or a shift toward cheaper products can offset the benefit of selling more.",
+    "productSource": "https://www.britannia.co.in/",
+    "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
+    "logo": "assets/logos/britannia.png"
+  },
+  "offerings": [
+    {
+      "name": "Good Day",
+      "category": "Cookies",
+      "image": "assets/products/britannia-30.webp",
+      "url": "https://www.britannia.co.in/product",
+      "kind": "pack",
+      "alt": "Good Day — official product image"
+    },
+    {
+      "name": "Milk Bikis",
+      "category": "Milk biscuits",
+      "image": "assets/products/britannia-31.webp",
+      "url": "https://www.britannia.co.in/product",
+      "kind": "pack",
+      "alt": "Milk Bikis — official product image"
+    },
+    {
+      "name": "Tiger",
+      "category": "Biscuits",
+      "image": "assets/products/britannia-32.webp",
+      "url": "https://www.britannia.co.in/product",
+      "kind": "pack",
+      "alt": "Tiger — official product image"
+    },
+    {
+      "name": "NutriChoice",
+      "category": "Health-focused biscuits and snacks",
+      "image": "assets/products/britannia-33.webp",
+      "url": "https://www.britannia.co.in/product",
+      "kind": "pack",
+      "alt": "NutriChoice — official product image"
+    },
+    {
+      "name": "50-50",
+      "category": "Crackers and savoury biscuits",
+      "image": "assets/products/britannia-34.webp",
+      "url": "https://www.britannia.co.in/product",
+      "kind": "pack",
+      "alt": "50-50 — official product image"
+    },
+    {
+      "name": "Jim Jam",
+      "category": "Cream biscuits",
+      "image": "assets/products/britannia-35.webp",
+      "url": "https://www.britannia.co.in/product",
+      "kind": "pack",
+      "alt": "Jim Jam — official product image"
+    },
+    {
+      "name": "Bourbon",
+      "category": "Cream biscuits",
+      "image": "assets/products/britannia-36.webp",
+      "url": "https://www.britannia.co.in/product",
+      "kind": "pack",
+      "alt": "Bourbon — official product image"
+    },
+    {
+      "name": "Little Hearts",
+      "category": "Sweet snacks",
+      "image": "assets/products/britannia-37.webp",
+      "url": "https://www.britannia.co.in/product",
+      "kind": "pack",
+      "alt": "Little Hearts — official product image"
+    },
+    {
+      "name": "Cheese",
+      "category": "Dairy · cheese",
+      "image": "assets/products/britannia-38.webp",
+      "url": "https://www.britannia.co.in/product",
+      "kind": "pack",
+      "alt": "Cheese — official product image"
+    },
+    {
+      "name": "Treat",
+      "category": "Cream biscuits and wafers",
+      "image": "assets/products/britannia-39.webp",
+      "url": "https://www.britannia.co.in/product",
+      "kind": "pack",
+      "alt": "Treat — official product image"
+    }
+  ]
+}

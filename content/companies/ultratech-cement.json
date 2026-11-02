@@ -1,0 +1,171 @@
+{
+  "order": 9,
+  "company": {
+    "id": "ultratech-cement",
+    "name": "UltraTech Cement",
+    "ticker": "ULTRACEMCO",
+    "sector": "Industrials & infrastructure",
+    "initial": "UT",
+    "color": "#d07a1e",
+    "bg": "#fff5e8",
+    "tag": "Materials behind construction",
+    "products": [
+      [
+        "UltraTech Cement",
+        "Grey cement"
+      ],
+      [
+        "UltraTech Weather Plus",
+        "Water-repellent cement"
+      ],
+      [
+        "UltraTech Premium",
+        "Premium cement"
+      ],
+      [
+        "Birla White Cement",
+        "White cement"
+      ],
+      [
+        "Birla White WallCare Putty",
+        "Wall putty"
+      ],
+      [
+        "Ready Mixed Concrete",
+        "Prepared concrete"
+      ],
+      [
+        "Birla Shakti",
+        "Cement"
+      ],
+      [
+        "UltraTech Building Solutions",
+        "Building-material retail and advice"
+      ],
+      [
+        "Waterproofing Systems",
+        "Construction products"
+      ],
+      [
+        "Crack Filler",
+        "Repair products"
+      ],
+      [
+        "Style Epoxy Grout",
+        "Tile grouts"
+      ],
+      [
+        "Tile and Marble Fitting Systems",
+        "Tile adhesives and grouts"
+      ],
+      [
+        "Readiplast Pro",
+        "Ready-mix plaster"
+      ],
+      [
+        "Distemper Paint",
+        "Wall finish"
+      ],
+      [
+        "Primer",
+        "Surface preparation"
+      ],
+      [
+        "Gypsum Plaster",
+        "Wall plaster"
+      ],
+      [
+        "Levelplast",
+        "Wall-levelling product"
+      ],
+      [
+        "Textura",
+        "Texture finish"
+      ],
+      [
+        "GRC",
+        "Glass-fibre reinforced concrete"
+      ]
+    ],
+    "ownership": "UltraTech Cement Limited is the listed cement company covered here and is part of the Aditya Birla Group. Other group businesses are not automatically part of UltraTech.",
+    "sources": [
+      [
+        "UltraTech company overview",
+        "https://www.ultratechcement.com/about-us/overview"
+      ],
+      [
+        "UltraTech product portfolio",
+        "https://www.ultratechcement.com/products/ultratech-cement.php"
+      ]
+    ],
+    "productSource": "https://www.ultratechcement.com/for-homebuilders/products/overview/cement-overview-page",
+    "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
+    "logo": "assets/logos/ultratech-cement.png"
+  },
+  "offerings": [
+    {
+      "name": "UltraTech Cement",
+      "category": "Grey cement",
+      "image": "assets/products/ultratech-cement-64.webp",
+      "url": "https://www.ultratechcement.com/for-homebuilders/products/overview/cement-overview-page",
+      "kind": "pack",
+      "alt": "UltraTech Cement — official product image"
+    },
+    {
+      "name": "UltraTech Premium",
+      "category": "Premium cement",
+      "image": "assets/products/ultratech-cement-65.webp",
+      "url": "https://www.ultratechcement.com/for-homebuilders/products/overview/cement-overview-page",
+      "kind": "pack",
+      "alt": "UltraTech Premium — official product image"
+    },
+    {
+      "name": "UltraTech Cement · Super",
+      "category": "Grey cement",
+      "image": "assets/products/ultratech-cement-66.webp",
+      "url": "https://www.ultratechcement.com/for-homebuilders/products/overview/cement-overview-page",
+      "kind": "pack",
+      "alt": "UltraTech Cement · Super — official product image"
+    },
+    {
+      "name": "UltraTech Weather Plus",
+      "category": "Water-repellent cement",
+      "image": "assets/products/ultratech-cement-67.webp",
+      "url": "https://www.ultratechcement.com/for-homebuilders/products/overview/cement-overview-page",
+      "kind": "pack",
+      "alt": "UltraTech Weather Plus — official product image"
+    },
+    {
+      "name": "Birla White Cement",
+      "category": "White cement",
+      "image": "assets/products/ultratech-cement-birla-white-cement.svg",
+      "url": "https://www.ultratechcement.com/for-homebuilders/products/overview/cement-overview-page",
+      "kind": "illustration",
+      "alt": "Birla White Cement — official product image"
+    },
+    {
+      "name": "Birla White WallCare Putty",
+      "category": "Wall putty",
+      "image": "assets/products/ultratech-cement-birla-white-wallcare-putty.svg",
+      "url": "https://www.ultratechcement.com/for-homebuilders/products/overview/cement-overview-page",
+      "kind": "illustration",
+      "alt": "Birla White WallCare Putty — official product image"
+    },
+    {
+      "name": "Ready Mixed Concrete",
+      "category": "Prepared concrete",
+      "image": "assets/products/ultratech-cement-ready-mixed-concrete.svg",
+      "url": "https://www.ultratechcement.com/for-homebuilders/products/overview/cement-overview-page",
+      "kind": "illustration",
+      "alt": "Ready Mixed Concrete — official product image"
+    },
+    {
+      "name": "UltraTech Building Solutions",
+      "category": "Building-material retail and advice",
+      "image": "assets/products/ultratech-cement-ultratech-building-solutions.svg",
+      "url": "https://www.ultratechcement.com/for-homebuilders/products/overview/cement-overview-page",
+      "kind": "illustration",
+      "alt": "UltraTech Building Solutions — official product image"
+    }
+  ]
+}

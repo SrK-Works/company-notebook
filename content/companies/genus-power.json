@@ -1,0 +1,139 @@
+{
+  "order": 41,
+  "company": {
+    "id": "genus-power",
+    "name": "Genus Power Infrastructures",
+    "ticker": "GENUSPOWER",
+    "sector": "Energy & utilities",
+    "initial": "GP",
+    "color": "#3d5a99",
+    "bg": "#eceff9",
+    "tag": "The business behind the offering",
+    "ownership": "This profile covers Genus Power Infrastructures Limited, based in Jaipur, Rajasthan. It makes electricity, gas and water meters, and runs smart-meter projects through its own project companies. It does not generate or sell electricity to households. Many projects are held in separate project companies, so the group’s accounts combine more than one entity.",
+    "products": [
+      [
+        "Smart prepaid electricity meters",
+        "Meters that send readings automatically and take payment in advance"
+      ],
+      [
+        "Business and industrial meters",
+        "Meters for factories, shops and offices"
+      ],
+      [
+        "Grid and substation meters",
+        "Meters on power lines and transformers"
+      ],
+      [
+        "Gas and water meters",
+        "Newer smart meters beyond electricity"
+      ],
+      [
+        "Meter data software",
+        "Systems that collect and check meter readings"
+      ],
+      [
+        "Communication devices",
+        "Equipment that links meters to the network"
+      ],
+      [
+        "Meter installation",
+        "Fitting meters at homes and businesses"
+      ],
+      [
+        "Running smart-meter projects for utilities",
+        "Multi-year projects for electricity companies"
+      ],
+      [
+        "Meter factories",
+        "Plants in Rajasthan, Uttarakhand and Assam"
+      ]
+    ],
+    "sources": [],
+    "productSource": "https://nsearchives.nseindia.com/annual_reports/AR_31250_GENUSPOWER_2025_2026_A_7862122_03092026171428.pdf",
+    "productNote": "Product and service families reviewed in Genus Power’s FY 2025–26 annual report on 31 October 2026. Meter, gateway, vending-software and factory pictures are from Genus’s own website. The meter-installation picture is a real photograph from Wikimedia Commons of that kind of work, not Genus’s own, with the photographer credited. The smart-meter-projects card remains a labelled original illustration.",
+    "checked": "31 Oct 2026",
+    "reviewed": "31 October 2026",
+    "aliases": [
+      "Genus Power",
+      "Genus",
+      "Genus smart meter",
+      "smart meter maker",
+      "Genus Power Infra"
+    ]
+  },
+  "offerings": [
+    {
+      "name": "Smart prepaid electricity meters",
+      "category": "Meters that send readings automatically and take payment in advance",
+      "image": "assets/products/genus-power-smart-prepaid-electricity-meters.webp",
+      "url": "https://genuspower.com/product-category/prepayment-solution/",
+      "kind": "pack",
+      "alt": "Smart prepaid electricity meters — official product image"
+    },
+    {
+      "name": "Business and industrial meters",
+      "category": "Meters for factories, shops and offices",
+      "image": "assets/products/genus-power-business-and-industrial-meters.webp",
+      "url": "https://genuspower.com/product-category/residential-commercial/",
+      "kind": "pack",
+      "alt": "Business and industrial meters — official product image"
+    },
+    {
+      "name": "Grid and substation meters",
+      "category": "Meters on power lines and transformers",
+      "image": "assets/products/genus-power-grid-and-substation-meters.webp",
+      "url": "https://genuspower.com/product-category/residential-commercial/",
+      "kind": "pack",
+      "alt": "Grid and substation meters — official product image"
+    },
+    {
+      "name": "Gas and water meters",
+      "category": "Newer smart meters beyond electricity",
+      "image": "assets/products/genus-power-gas-and-water-meters.webp",
+      "url": "https://genuspower.com/product-category/flow-meters/",
+      "kind": "pack",
+      "alt": "Gas and water meters — official product image"
+    },
+    {
+      "name": "Meter data software",
+      "category": "Systems that collect and check meter readings",
+      "image": "assets/products/genus-power-meter-data-software.webp",
+      "url": "https://genuspower.com/product-category/prepayment-solution/",
+      "kind": "pack",
+      "alt": "Meter data software — official product image"
+    },
+    {
+      "name": "Communication devices",
+      "category": "Equipment that links meters to the network",
+      "image": "assets/products/genus-power-communication-devices.webp",
+      "url": "https://genuspower.com/product-category/communication-devices/",
+      "kind": "pack",
+      "alt": "Communication devices — official product image"
+    },
+    {
+      "name": "Meter installation",
+      "category": "Fitting meters at homes and businesses",
+      "image": "assets/products/genus-power-meter-installation.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:USAID_Installs_Automatic_Meter_Reading_(AMR)_for_MEPCO%27s_Domestic_Consumers_(15971859981).jpg",
+      "kind": "generic",
+      "alt": "Meter installation — real photograph of this kind of work or product, not the company's own item",
+      "credit": "USAID Pakistan · Public domain · Wikimedia Commons"
+    },
+    {
+      "name": "Running smart-meter projects for utilities",
+      "category": "Multi-year projects for electricity companies",
+      "image": "assets/products/genus-power-running-smart-meter-projects-for-utilities.svg",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_31250_GENUSPOWER_2025_2026_A_7862122_03092026171428.pdf",
+      "kind": "illustration",
+      "alt": "Running smart-meter projects for utilities — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Meter factories",
+      "category": "Plants in Rajasthan, Uttarakhand and Assam",
+      "image": "assets/products/genus-power-meter-factories.webp",
+      "url": "https://genuspower.com/about-us/smart-metering-manufacturing/",
+      "kind": "pack",
+      "alt": "Meter factories — official product image"
+    }
+  ]
+}

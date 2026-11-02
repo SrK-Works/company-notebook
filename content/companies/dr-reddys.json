@@ -1,0 +1,171 @@
+{
+  "order": 20,
+  "company": {
+    "id": "dr-reddys",
+    "name": "Dr. Reddy's Laboratories",
+    "ticker": "DRREDDY",
+    "sector": "Healthcare",
+    "initial": "DRL",
+    "color": "#6944a0",
+    "bg": "#f3eefb",
+    "tag": "From ingredients to patient products",
+    "products": [
+      [
+        "Global Generics",
+        "Generic formulations"
+      ],
+      [
+        "Biosimilars",
+        "Biologic medicines"
+      ],
+      [
+        "API Solutions",
+        "Active pharmaceutical ingredients"
+      ],
+      [
+        "Aurigene Pharmaceutical Services",
+        "Discovery and contract manufacturing"
+      ],
+      [
+        "Innovative Medicines",
+        "New therapies"
+      ],
+      [
+        "Aurigene Oncology",
+        "Cancer-drug research"
+      ],
+      [
+        "Consumer Health",
+        "Everyday health products"
+      ],
+      [
+        "Rebalanz",
+        "Electrolyte drink"
+      ],
+      [
+        "Celevida",
+        "Nutrition for diabetes"
+      ],
+      [
+        "Antoxid",
+        "Nutrition supplement"
+      ],
+      [
+        "Kidrich D3",
+        "Child nutrition"
+      ],
+      [
+        "Becozinc",
+        "Vitamins and minerals"
+      ],
+      [
+        "Nicotinell",
+        "Nicotine-replacement therapy"
+      ],
+      [
+        "Nicabate",
+        "Nicotine-replacement therapy"
+      ],
+      [
+        "Thrive",
+        "Nicotine-replacement therapy"
+      ],
+      [
+        "Habitrol",
+        "Nicotine-replacement therapy"
+      ],
+      [
+        "Doan's",
+        "Pain relief"
+      ],
+      [
+        "Premama",
+        "Maternal health"
+      ],
+      [
+        "MenoLabs",
+        "Women’s health"
+      ]
+    ],
+    "ownership": "This profile covers Dr. Reddy's Laboratories Limited and its consolidated operations. The business mix spans products sold to patients and services or ingredients sold to other companies.",
+    "sources": [
+      [
+        "Dr. Reddy's company overview",
+        "https://www.drreddys.com/about-us"
+      ],
+      [
+        "FY 2024–25 product and service overview",
+        "https://www.drreddys.com/cms/cms/sites/default/files/2025-06/rdy-20250331.pdf"
+      ]
+    ],
+    "productSource": "https://www.drreddys.com/our-business",
+    "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
+    "logo": "assets/logos/dr-reddys.jpg"
+  },
+  "offerings": [
+    {
+      "name": "Global Generics",
+      "category": "Medicines based on established active ingredients",
+      "image": "assets/products/dr-reddys-global-generics.svg",
+      "url": "https://www.drreddys.com/our-business",
+      "kind": "illustration",
+      "alt": "Global Generics — conceptual chemistry illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Biosimilars",
+      "category": "Medicines developed to be highly similar to approved biological medicines",
+      "image": "assets/products/dr-reddys-biosimilars.svg",
+      "url": "https://www.drreddys.com/our-business",
+      "kind": "illustration",
+      "alt": "Biosimilars — conceptual chemistry illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "API Solutions",
+      "category": "Ingredients used to make medicines",
+      "image": "assets/products/dr-reddys-api-solutions.svg",
+      "url": "https://www.drreddys.com/our-business",
+      "kind": "illustration",
+      "alt": "API Solutions — conceptual chemistry illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Aurigene Pharmaceutical Services",
+      "category": "Research and medicine-making work for other companies",
+      "image": "assets/products/dr-reddys-aurigene-pharmaceutical-services.svg",
+      "url": "https://www.drreddys.com/our-business",
+      "kind": "illustration",
+      "alt": "Aurigene Pharmaceutical Services — conceptual chemistry illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Innovative Medicines",
+      "category": "Work on new medicines",
+      "image": "assets/products/dr-reddys-innovative-medicines.svg",
+      "url": "https://www.drreddys.com/our-business",
+      "kind": "illustration",
+      "alt": "Innovative Medicines — conceptual chemistry illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Aurigene Oncology",
+      "category": "Research into cancer medicines",
+      "image": "assets/products/dr-reddys-aurigene-oncology.svg",
+      "url": "https://www.drreddys.com/our-business",
+      "kind": "illustration",
+      "alt": "Aurigene Oncology — conceptual chemistry illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Consumer Health",
+      "category": "Products sold for everyday health needs",
+      "image": "assets/products/dr-reddys-consumer-health.svg",
+      "url": "https://www.drreddys.com/our-business",
+      "kind": "illustration",
+      "alt": "Consumer Health — conceptual screen illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Rebalanz",
+      "category": "A drink containing salts called electrolytes",
+      "image": "assets/products/dr-reddys-rebalanz.svg",
+      "url": "https://www.drreddys.com/our-business",
+      "kind": "illustration",
+      "alt": "Rebalanz — conceptual screen illustration; not a photograph or product screenshot"
+    }
+  ]
+}

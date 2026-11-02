@@ -1,0 +1,187 @@
+{
+  "order": 8,
+  "company": {
+    "id": "asian-paints",
+    "name": "Asian Paints",
+    "ticker": "ASIANPAINT",
+    "sector": "Homes & mobility",
+    "initial": "ap",
+    "color": "#854ba8",
+    "bg": "#f3ecf9",
+    "tag": "A business behind your walls",
+    "products": [
+      [
+        "Royale",
+        "Premium interior paints"
+      ],
+      [
+        "Apcolite",
+        "Interior paints and enamels"
+      ],
+      [
+        "Tractor",
+        "Economy interior paints"
+      ],
+      [
+        "Apex",
+        "Exterior paints"
+      ],
+      [
+        "Ace",
+        "Exterior paints"
+      ],
+      [
+        "SmartCare",
+        "Waterproofing and tiling solutions"
+      ],
+      [
+        "WoodTech",
+        "Wood finishes"
+      ],
+      [
+        "TruCare",
+        "Undercoats and painting aids"
+      ],
+      [
+        "Nilaya",
+        "Wall coverings and luxury finishes"
+      ],
+      [
+        "Interior wall paints",
+        "Decorative coatings"
+      ],
+      [
+        "Exterior wall paints",
+        "Weather-protection coatings"
+      ],
+      [
+        "Wall textures",
+        "Decorative finishes"
+      ],
+      [
+        "Wallpapers",
+        "Wall coverings"
+      ],
+      [
+        "Wood finishes",
+        "Wood coatings"
+      ],
+      [
+        "Metal paints",
+        "Protective coatings"
+      ],
+      [
+        "Adhesives",
+        "Construction and décor products"
+      ],
+      [
+        "Bath fittings and sanitaryware",
+        "Home décor"
+      ],
+      [
+        "Modular kitchens and wardrobes",
+        "Home décor"
+      ],
+      [
+        "Fabrics, furnishings and rugs",
+        "Home décor"
+      ],
+      [
+        "Decorative lighting",
+        "Home décor"
+      ],
+      [
+        "uPVC windows and doors",
+        "Home décor"
+      ],
+      [
+        "Furniture",
+        "Home décor"
+      ],
+      [
+        "Painting and waterproofing services",
+        "Home services"
+      ]
+    ],
+    "ownership": "Asian Paints Limited is the listed company covered here. Individual product ranges such as Royale and Tractor are part of its offering, not separate listed companies.",
+    "sources": [
+      [
+        "Tractor paint and related ranges",
+        "https://www.asianpaints.com/paint-products/interior-wall-paints/plain-finishes/tractor-emulsion.html"
+      ],
+      [
+        "Official investor product presentation",
+        "https://www.asianpaints.com/content/dam/asianpaints/website/secondary-navigation/investors/analyst-presentations-2/2024-2025/InvestorsPresentation_PDF_copy.pdf"
+      ]
+    ],
+    "productSource": "https://www.asianpaints.com/products/product-template.html",
+    "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
+    "logo": "assets/logos/asian-paints.svg"
+  },
+  "offerings": [
+    {
+      "name": "Interior wall paints",
+      "category": "Decorative coatings",
+      "image": "assets/products/asian-paints-56.webp",
+      "url": "https://www.asianpaints.com/paint-products/interior-wall-paints.html",
+      "kind": "photo",
+      "alt": "Interior wall paints — representative image from the company website"
+    },
+    {
+      "name": "Exterior wall paints",
+      "category": "Weather-protection coatings",
+      "image": "assets/products/asian-paints-57.webp",
+      "url": "https://www.asianpaints.com/paint-products/exterior-wall-paints.html",
+      "kind": "photo",
+      "alt": "Exterior wall paints — representative image from the company website"
+    },
+    {
+      "name": "WoodTech",
+      "category": "Wood finishes",
+      "image": "assets/products/asian-paints-58.webp",
+      "url": "https://www.asianpaints.com/products/wood-finish.html",
+      "kind": "photo",
+      "alt": "WoodTech — representative image from the company website"
+    },
+    {
+      "name": "Wall textures",
+      "category": "Decorative finishes",
+      "image": "assets/products/asian-paints-59.webp",
+      "url": "https://www.asianpaints.com/products/product-template.html",
+      "kind": "photo",
+      "alt": "Wall textures — representative image from the company website"
+    },
+    {
+      "name": "Nilaya",
+      "category": "Wall coverings and luxury finishes",
+      "image": "assets/products/asian-paints-60.webp",
+      "url": "https://www.asianpaints.com/products/product-template.html",
+      "kind": "photo",
+      "alt": "Nilaya — representative image from the company website"
+    },
+    {
+      "name": "Furniture",
+      "category": "Home décor",
+      "image": "assets/products/asian-paints-61.webp",
+      "url": "https://www.asianpaints.com/products/product-template.html",
+      "kind": "photo",
+      "alt": "Furniture — representative image from the company website"
+    },
+    {
+      "name": "Lighting",
+      "category": "Home décor",
+      "image": "assets/products/asian-paints-62.webp",
+      "url": "https://www.asianpaints.com/products/product-template.html",
+      "kind": "photo",
+      "alt": "Lighting — representative image from the company website"
+    },
+    {
+      "name": "Painting services",
+      "category": "Selected offering",
+      "image": "assets/products/asian-paints-63.webp",
+      "url": "https://www.asianpaints.com/products/product-template.html",
+      "kind": "photo",
+      "alt": "Painting services — representative image from the company website"
+    }
+  ]
+}

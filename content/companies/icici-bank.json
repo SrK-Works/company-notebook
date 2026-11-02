@@ -1,0 +1,166 @@
+{
+  "order": 17,
+  "company": {
+    "id": "icici-bank",
+    "name": "ICICI Bank",
+    "ticker": "ICICIBANK",
+    "sector": "Banking",
+    "initial": "I",
+    "color": "#b85d24",
+    "bg": "#fff2e9",
+    "tag": "Deposits, loans and financial services",
+    "products": [
+      [
+        "Savings accounts",
+        "Deposits and payments"
+      ],
+      [
+        "Current accounts",
+        "Business banking"
+      ],
+      [
+        "Fixed and recurring deposits",
+        "Deposits"
+      ],
+      [
+        "Credit cards",
+        "Credit and payments"
+      ],
+      [
+        "Debit and prepaid cards",
+        "Payments"
+      ],
+      [
+        "Home loans",
+        "Housing finance"
+      ],
+      [
+        "Personal loans",
+        "Retail lending"
+      ],
+      [
+        "Car and two-wheeler loans",
+        "Vehicle finance"
+      ],
+      [
+        "Education loans",
+        "Education finance"
+      ],
+      [
+        "Gold loans",
+        "Secured lending"
+      ],
+      [
+        "Loans against property, securities and investments",
+        "Secured lending"
+      ],
+      [
+        "Business loans",
+        "Business banking"
+      ],
+      [
+        "Cash management and trade finance",
+        "Corporate banking"
+      ],
+      [
+        "Merchant solutions",
+        "Payments for businesses"
+      ],
+      [
+        "Treasury and foreign exchange",
+        "Markets services"
+      ],
+      [
+        "Mutual funds, bonds and government schemes",
+        "Investments"
+      ],
+      [
+        "Demat, stocks and IPO services",
+        "Investment services"
+      ],
+      [
+        "NRI banking",
+        "Banking for overseas Indians"
+      ],
+      [
+        "iMobile Pay",
+        "Mobile banking"
+      ],
+      [
+        "Internet and WhatsApp banking",
+        "Digital banking"
+      ]
+    ],
+    "ownership": "This profile covers ICICI Bank Limited. ICICI-branded insurance, securities and asset-management businesses can be separate legal entities or subsidiaries, so their ownership and reporting treatment must be checked.",
+    "sources": [],
+    "productSource": "https://www.icici.bank.in/home",
+    "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
+    "logo": "assets/logos/icici-bank.svg"
+  },
+  "offerings": [
+    {
+      "name": "Savings accounts",
+      "category": "Deposits and payments",
+      "image": "assets/products/icici-bank-110.webp",
+      "url": "https://www.icicibank.com/home",
+      "kind": "photo",
+      "alt": "Savings accounts — representative image from the company website"
+    },
+    {
+      "name": "Fixed and recurring deposits",
+      "category": "Deposits",
+      "image": "assets/products/icici-bank-111.webp",
+      "url": "https://www.icicibank.com/home",
+      "kind": "photo",
+      "alt": "Fixed and recurring deposits — representative image from the company website"
+    },
+    {
+      "name": "Credit cards",
+      "category": "Credit and payments",
+      "image": "assets/products/icici-bank-112.webp",
+      "url": "https://www.icicibank.com/home",
+      "kind": "photo",
+      "alt": "Credit cards — representative image from the company website"
+    },
+    {
+      "name": "Home loans",
+      "category": "Housing finance",
+      "image": "assets/products/icici-bank-113.webp",
+      "url": "https://www.icicibank.com/home",
+      "kind": "photo",
+      "alt": "Home loans — representative image from the company website"
+    },
+    {
+      "name": "Personal loans",
+      "category": "Retail lending",
+      "image": "assets/products/icici-bank-114.webp",
+      "url": "https://www.icicibank.com/home",
+      "kind": "photo",
+      "alt": "Personal loans — representative image from the company website"
+    },
+    {
+      "name": "Car and two-wheeler loans",
+      "category": "Vehicle finance",
+      "image": "assets/products/icici-bank-115.webp",
+      "url": "https://www.icicibank.com/home",
+      "kind": "photo",
+      "alt": "Car and two-wheeler loans — representative image from the company website"
+    },
+    {
+      "name": "NRI banking",
+      "category": "Banking for overseas Indians",
+      "image": "assets/products/icici-bank-116.webp",
+      "url": "https://www.icicibank.com/home",
+      "kind": "photo",
+      "alt": "NRI banking — representative image from the company website"
+    },
+    {
+      "name": "Digital banking",
+      "category": "Selected offering",
+      "image": "assets/products/icici-bank-117.webp",
+      "url": "https://www.icicibank.com/home",
+      "kind": "photo",
+      "alt": "Digital banking — representative image from the company website"
+    }
+  ]
+}

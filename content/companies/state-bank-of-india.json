@@ -1,0 +1,167 @@
+{
+  "order": 18,
+  "company": {
+    "id": "state-bank-of-india",
+    "name": "State Bank of India",
+    "ticker": "SBIN",
+    "sector": "Banking",
+    "initial": "SBI",
+    "color": "#1768a8",
+    "bg": "#eaf4fc",
+    "tag": "A large public-sector bank",
+    "products": [
+      [
+        "Savings accounts",
+        "Deposits and payments"
+      ],
+      [
+        "Current accounts",
+        "Business banking"
+      ],
+      [
+        "Fixed and recurring deposits",
+        "Deposits"
+      ],
+      [
+        "Home loans",
+        "Housing finance"
+      ],
+      [
+        "Auto loans",
+        "Vehicle finance"
+      ],
+      [
+        "Personal loans",
+        "Retail lending"
+      ],
+      [
+        "Education loans",
+        "Education finance"
+      ],
+      [
+        "Gold loans",
+        "Secured lending"
+      ],
+      [
+        "Agriculture and Kisan Credit Card loans",
+        "Rural finance"
+      ],
+      [
+        "SME loans",
+        "Business banking"
+      ],
+      [
+        "Corporate banking and project finance",
+        "Wholesale banking"
+      ],
+      [
+        "International banking",
+        "Cross-border banking"
+      ],
+      [
+        "Debit and prepaid cards",
+        "Payments"
+      ],
+      [
+        "YONO SBI",
+        "Digital banking and commerce"
+      ],
+      [
+        "Internet banking",
+        "Digital banking"
+      ],
+      [
+        "BHIM SBI Pay",
+        "Digital payments"
+      ],
+      [
+        "SBI FASTag",
+        "Road-toll payments"
+      ],
+      [
+        "SBI Wealth",
+        "Wealth management"
+      ],
+      [
+        "Government banking",
+        "Services for government"
+      ]
+    ],
+    "ownership": "This profile covers State Bank of India. SBI Life, SBI Cards, SBI Mutual Fund and other SBI-named businesses have distinct legal and ownership structures; owning SBI shares is not identical to directly owning each one.",
+    "sources": [
+      [
+        "SBI products and services",
+        "https://sbi.bank.in/"
+      ]
+    ],
+    "productSource": "https://sbi.bank.in/",
+    "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
+    "logo": "assets/logos/state-bank-of-india.svg"
+  },
+  "offerings": [
+    {
+      "name": "Savings accounts",
+      "category": "Deposits and payments",
+      "image": "assets/products/state-bank-of-india-savings-accounts.svg",
+      "url": "https://sbi.bank.in/",
+      "kind": "illustration",
+      "alt": "Savings accounts — conceptual coin illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Current accounts",
+      "category": "Business banking",
+      "image": "assets/products/state-bank-of-india-current-accounts.svg",
+      "url": "https://sbi.bank.in/",
+      "kind": "illustration",
+      "alt": "Current accounts — conceptual coin illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Fixed and recurring deposits",
+      "category": "Deposits",
+      "image": "assets/products/state-bank-of-india-fixed-and-recurring-deposits.svg",
+      "url": "https://sbi.bank.in/",
+      "kind": "illustration",
+      "alt": "Fixed and recurring deposits — conceptual coin illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Home loans",
+      "category": "Housing finance",
+      "image": "assets/products/state-bank-of-india-home-loans.svg",
+      "url": "https://sbi.bank.in/",
+      "kind": "illustration",
+      "alt": "Home loans — conceptual home illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Auto loans",
+      "category": "Vehicle finance",
+      "image": "assets/products/state-bank-of-india-auto-loans.svg",
+      "url": "https://sbi.bank.in/",
+      "kind": "illustration",
+      "alt": "Auto loans — conceptual home illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Personal loans",
+      "category": "Retail lending",
+      "image": "assets/products/state-bank-of-india-personal-loans.svg",
+      "url": "https://sbi.bank.in/",
+      "kind": "illustration",
+      "alt": "Personal loans — conceptual home illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Education loans",
+      "category": "Education finance",
+      "image": "assets/products/state-bank-of-india-education-loans.svg",
+      "url": "https://sbi.bank.in/",
+      "kind": "illustration",
+      "alt": "Education loans — conceptual home illustration; not a photograph or product screenshot"
+    },
+    {
+      "name": "Gold loans",
+      "category": "Secured lending",
+      "image": "assets/products/state-bank-of-india-gold-loans.svg",
+      "url": "https://sbi.bank.in/",
+      "kind": "illustration",
+      "alt": "Gold loans — conceptual home illustration; not a photograph or product screenshot"
+    }
+  ]
+}

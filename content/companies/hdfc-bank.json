@@ -1,0 +1,170 @@
+{
+  "order": 16,
+  "company": {
+    "id": "hdfc-bank",
+    "name": "HDFC Bank",
+    "ticker": "HDFCBANK",
+    "sector": "Banking",
+    "initial": "H",
+    "color": "#244776",
+    "bg": "#ebf0f8",
+    "tag": "Understanding a different business model",
+    "products": [
+      [
+        "Savings accounts",
+        "Deposits and payments"
+      ],
+      [
+        "Current accounts",
+        "Business banking"
+      ],
+      [
+        "Fixed and recurring deposits",
+        "Deposits"
+      ],
+      [
+        "Salary accounts",
+        "Banking for employees"
+      ],
+      [
+        "Credit cards",
+        "Credit and payments"
+      ],
+      [
+        "Debit and prepaid cards",
+        "Payments"
+      ],
+      [
+        "Home loans",
+        "Housing finance"
+      ],
+      [
+        "Personal loans",
+        "Retail lending"
+      ],
+      [
+        "Auto and two-wheeler loans",
+        "Vehicle finance"
+      ],
+      [
+        "Gold loans",
+        "Secured lending"
+      ],
+      [
+        "Loan against property and securities",
+        "Secured lending"
+      ],
+      [
+        "Business loans and working capital",
+        "Business banking"
+      ],
+      [
+        "Commercial vehicle and equipment finance",
+        "Business lending"
+      ],
+      [
+        "Agriculture and tractor loans",
+        "Rural finance"
+      ],
+      [
+        "NRI banking",
+        "Banking for overseas Indians"
+      ],
+      [
+        "Payments and merchant services",
+        "Transaction banking"
+      ],
+      [
+        "Trade and supply-chain finance",
+        "Wholesale banking"
+      ],
+      [
+        "Cash management",
+        "Wholesale banking"
+      ],
+      [
+        "Project and corporate finance",
+        "Wholesale banking"
+      ],
+      [
+        "Treasury and foreign exchange",
+        "Markets services"
+      ],
+      [
+        "Mutual funds and insurance distribution",
+        "Third-party financial products"
+      ]
+    ],
+    "ownership": "The listed entity is HDFC Bank Limited. A financial product distributed by the bank is not automatically manufactured by it; check the provider and the specific group relationship.",
+    "sources": [],
+    "productSource": "https://www.hdfc.bank.in/about-us",
+    "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
+    "logo": "assets/logos/hdfc-bank.svg"
+  },
+  "offerings": [
+    {
+      "name": "Savings accounts",
+      "category": "Deposits and payments",
+      "image": "assets/products/hdfc-bank-102.webp",
+      "url": "https://www.hdfc.bank.in/about-us",
+      "kind": "photo",
+      "alt": "Savings accounts — representative image from the company website"
+    },
+    {
+      "name": "Current accounts",
+      "category": "Business banking",
+      "image": "assets/products/hdfc-bank-103.webp",
+      "url": "https://www.hdfc.bank.in/about-us",
+      "kind": "photo",
+      "alt": "Current accounts — representative image from the company website"
+    },
+    {
+      "name": "Fixed and recurring deposits",
+      "category": "Deposits",
+      "image": "assets/products/hdfc-bank-104.webp",
+      "url": "https://www.hdfc.bank.in/about-us",
+      "kind": "photo",
+      "alt": "Fixed and recurring deposits — representative image from the company website"
+    },
+    {
+      "name": "Salary accounts",
+      "category": "Banking for employees",
+      "image": "assets/products/hdfc-bank-105.webp",
+      "url": "https://www.hdfc.bank.in/about-us",
+      "kind": "photo",
+      "alt": "Salary accounts — representative image from the company website"
+    },
+    {
+      "name": "Credit cards",
+      "category": "Credit and payments",
+      "image": "assets/products/hdfc-bank-106.webp",
+      "url": "https://www.hdfc.bank.in/credit-cards/millennia-credit-card",
+      "kind": "pack",
+      "alt": "Credit cards — official product image"
+    },
+    {
+      "name": "Home loans",
+      "category": "Housing finance",
+      "image": "assets/products/hdfc-bank-107.webp",
+      "url": "https://www.hdfc.bank.in/about-us",
+      "kind": "photo",
+      "alt": "Home loans — representative image from the company website"
+    },
+    {
+      "name": "Personal loans",
+      "category": "Retail lending",
+      "image": "assets/products/hdfc-bank-108.webp",
+      "url": "https://www.hdfc.bank.in/about-us",
+      "kind": "photo",
+      "alt": "Personal loans — representative image from the company website"
+    },
+    {
+      "name": "Auto and two-wheeler loans",
+      "category": "Vehicle finance",
+      "image": "assets/products/hdfc-bank-109.webp",
+      "url": "https://www.hdfc.bank.in/about-us",
+      "kind": "photo",
+      "alt": "Auto and two-wheeler loans — representative image from the company website"
+    }
+  ]
+}
