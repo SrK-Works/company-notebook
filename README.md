@@ -199,6 +199,10 @@ Most company pages are long (the HUL page is about 11,000 pixels tall). A lesson
 
 Delhivery's lesson was written from its annual report 2025–26 and its quarter-to-30-September-2026 filings, with 49 quotes checked against the filings (`content/drafts/delhivery.json`). Its photographs are from its own annual report and each link opens that report; image reuse permission has not been reviewed. Its verified financial snapshot is whole-group totals only, because Delhivery reports one business segment (`content/financial-reviews/delhivery.json` and its evidence file).
 
+## Trying dark mode options
+
+`dist/dark-themes.css` and `dist/theme-variants.js` hold three dark-mode options to compare: Graphite (cool charcoal, blue accent), Editorial (warm charcoal, serif headings, terracotta accent) and Midnight (deep navy, coral accent, rounder shapes). "Current" is the original dark mode, unchanged. Turn on dark mode, then use the Dark style buttons in the sidebar, or open the site with `?dark=a`, `?dark=b` or `?dark=c`. The choice is remembered on that device. The options share one set of rules and differ only in their colour and size tokens; `tests/dark-themes.test.cjs` fails if an option misses a token. Once one is chosen, it becomes the base dark mode in `style.css` and the others, the picker and the original dark rules are deleted. Navigation and save icons are now inline SVG instead of text symbols, in both modes.
+
 ## Lesson template and checker
 
 `content/lesson-template/template.json` defines the one format every company lesson follows: the sections, what each answers for a beginner, size limits and the rules (no money amounts outside `financialNotes`, https sources, a dated check). `node scripts/check-lessons.cjs [company…]` validates lessons against it. All 35 current lessons pass with no errors; the remaining warnings (for example EBITDA, DISCOM or EPC used without a definition) are real beginner-clarity gaps to fix in a separate content review. The same template will drive drafting lessons for new companies.
