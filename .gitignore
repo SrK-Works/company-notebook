@@ -5,3 +5,4 @@ outputs/
 node_modules/
 .env
 *.log
+content/drafts/

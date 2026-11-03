@@ -9,7 +9,8 @@ const earlier=JSON.stringify(c.COMPANIES.filter(x=>completed.includes(x.id)));
 const output=completed.flatMap(id=>['basics','specifics','numbers'].map(slot=>c.companyPrimer.render(c.COMPANIES.find(x=>x.id===id),slot)));
 for(const f of ['profile-lessons','company-lessons'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
 test('all remaining companies have individually written lessons and the previous five primers remain intact',()=>{
- assert.equal(Object.keys(c.COMPANY_LESSONS).length,37);
+ const lessonFiles=fs.readdirSync('content/company-lessons').filter(f=>f.endsWith('.json'));
+ assert.equal(Object.keys(c.COMPANY_LESSONS).length,lessonFiles.length,'every lesson file is built into the site');
  assert.deepEqual(Object.keys(c.COMPANY_LESSONS).sort(),Array.from(c.COMPANIES.filter(x=>!completed.includes(x.id)),x=>x.id).sort());
  assert.equal(JSON.stringify(c.COMPANIES.filter(x=>completed.includes(x.id))),earlier);
  assert.deepEqual(completed.flatMap(id=>['basics','specifics','numbers'].map(slot=>c.companyPrimer.render(c.COMPANIES.find(x=>x.id===id),slot))),output);

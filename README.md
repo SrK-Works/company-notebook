@@ -197,13 +197,15 @@ Limits: Nestlé India could not be read (website blocked automated requests) and
 
 Most company pages are long (the HUL page is about 11,000 pixels tall). A lesson can opt into a four-screen page by setting `"layout": "short"` in `content/company-lessons/<company>.json`. `dist/short-profile.js` then draws: a photo mosaic, four quick answers (`quick`), the five-step flow (`steps`), what helps and what could hurt (`helps`, `hurts`), the verified figures and the sources. The rest of the lesson (service groups, basics, specifics, watch questions, risks, latest development) opens under "Go deeper", collapsed. The short page has no quiz, so `quiz` is optional only in this layout. All other companies keep the long page. Delhivery is the first; its page is about 5,300 pixels tall at desktop width.
 
-Delhivery's lesson was written from its annual report 2025–26 and its quarter-to-30-September-2026 filings, with 49 quotes checked against the filings (`content/drafts/delhivery.json`). Its photographs are from its own annual report and each link opens that report; image reuse permission has not been reviewed. Its verified financial snapshot is whole-group totals only, because Delhivery reports one business segment (`content/financial-reviews/delhivery.json` and its evidence file).
+Delhivery's lesson was written from its annual report 2025–26 and its quarter-to-30-September-2026 filings, with 49 quotes checked against the filings when it was drafted. Its photographs are from its own annual report and each link opens that report; image reuse permission has not been reviewed. Its verified financial snapshot is whole-group totals only, because Delhivery reports one business segment (`content/financial-reviews/delhivery.json` and its evidence file).
 
 ## Lesson template and checker
 
 `content/lesson-template/template.json` defines the one format every company lesson follows: the sections, what each answers for a beginner, size limits and the rules (no money amounts outside `financialNotes`, https sources, a dated check). `node scripts/check-lessons.cjs [company…]` validates lessons against it. All 35 current lessons pass with no errors; the remaining warnings (for example EBITDA, DISCOM or EPC used without a definition) are real beginner-clarity gaps to fix in a separate content review. The same template will drive drafting lessons for new companies.
 
 ## Drafting a lesson for a new company
+
+Drafts in `content/drafts/` are local working files and are git-ignored, so each new company adds only its real content to the repository. The proof that a lesson was checked is the published lesson itself: its sources and its `checked` date. Read the draft's evidence list before approving, because it is not kept in git afterwards.
 
 The drafting step turns official sources into a lesson that follows `content/lesson-template/template.json`. A person approves it before it goes live.
 
