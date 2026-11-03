@@ -44,6 +44,6 @@ test('illustration text cannot inject markup',()=>{
 });
 test('the page stylesheet and script versions were bumped so browsers fetch the new renderer',()=>{
  const index=fs.readFileSync('dist/index.html','utf8');
- assert.ok(index.includes('company-lessons.js?v=20261103-1')&&index.includes('style.css?v=20261102-1'));
+ assert.ok(index.includes('company-lessons.js?v=20261103-2')&&index.includes('style.css?v=20261103-1'));
  assert.ok(fs.readFileSync('dist/style.css','utf8').includes('.primer-illustration'));
 });
