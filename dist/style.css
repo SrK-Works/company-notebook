@@ -178,3 +178,8 @@ html[data-theme="dark"]{--sp-surface:#131416;--sp-help:#5cc58d;--sp-hurt:#e0a060
 .sp-feedback{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:18px}.sp-feedback>span{font-weight:600;margin-right:6px}
 @media(max-width:900px){.sp-grid{grid-template-columns:repeat(2,minmax(0,1fr));grid-auto-rows:150px}.sp-tile-lead{grid-row:span 2}.sp-tile-wide{grid-column:span 2}.sp-quick,.sp-balance{grid-template-columns:minmax(0,1fr)}.sp-section{padding:20px 16px}}
 @media(prefers-reduced-motion:reduce){.sp-tile img{transition:none}}
+
+/* Icons (inline SVG, drawn in the text colour) */
+nav svg,.save svg{display:block;width:18px;height:18px;flex:none}
+nav a>span:first-child,.theme-toggle>span:first-child{display:inline-grid;place-items:center;width:20px;height:20px;flex:none}
+.mark svg{display:block;width:22px;height:22px}
