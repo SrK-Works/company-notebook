@@ -24,7 +24,7 @@ test('the options are loaded by the page and offered in the picker',()=>{
  const index=fs.readFileSync('dist/index.html','utf8'),js=fs.readFileSync('dist/theme-variants.js','utf8');
  assert.ok(index.includes('dark-themes.css')&&index.includes('theme-variants.js'));
  for(const o of ['classic',...options])assert.ok(js.includes(`['${o}'`),`picker offers ${o}`);
- assert.match(index,/data-dark=d/,'the saved option is applied before the page paints');
+ assert.match(index,/dataset\.dark=d/,'the saved option is applied before the page paints');
 });
 test('the original dark mode is left in place as the Current option',()=>{
  const base=fs.readFileSync('dist/style.css','utf8');
