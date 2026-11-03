@@ -1,5 +1,5 @@
 {
-  "status": "needs-review",
+  "status": "published",
   "company": "hindustan-unilever",
   "draftedAt": "2026-11-02T14:28:31.328Z",
   "model": "written in a Claude Code session",
@@ -664,5 +664,6 @@
     "errors": [],
     "warnings": []
   },
-  "usage": null
+  "usage": null,
+  "publishedAt": "2026-11-03T06:16:38.977Z"
 }

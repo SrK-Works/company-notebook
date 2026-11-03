@@ -9,8 +9,6 @@
     "color": "#164d92",
     "bg": "#eaf2ff",
     "tag": "Start with what you know",
-    "summary": "The business behind many of the products in your kitchen, bathroom and laundry.",
-    "description": "Hindustan Unilever sells packaged consumer goods in India. People buy its products through shops and online retailers, which are supplied through its distribution network.",
     "products": [
       [
         "Active Wheel 2 in 1",
@@ -237,36 +235,7 @@
         "Personal care · intimate hygiene"
       ]
     ],
-    "money": "It earns revenue from selling consumer goods. What matters is how many units it sells, the prices it can charge and the cost of making and distributing them.",
     "ownership": "This profile covers the Indian listed company, Hindustan Unilever Limited. Do not treat every product sold by the global Unilever group as part of HUL.",
-    "watch": [
-      [
-        "Volume growth",
-        "Are people buying more units, rather than simply paying higher prices?"
-      ],
-      [
-        "Operating margin",
-        "How much operating profit remains from each rupee of sales?"
-      ],
-      [
-        "Product mix",
-        "Are higher-value categories becoming a bigger part of sales?"
-      ]
-    ],
-    "risks": [
-      [
-        "Input costs",
-        "Costlier ingredients and packaging can reduce profit unless prices or efficiency improve."
-      ],
-      [
-        "Competition",
-        "Rival brands and local alternatives can compete on price, shelf space and advertising."
-      ],
-      [
-        "Demand",
-        "Household budgets influence what consumers buy and how often."
-      ]
-    ],
     "sources": [
       [
         "HUL company website",
@@ -275,30 +244,8 @@
       [
         "FY 2025–26 annual report",
         "https://www.hul.co.in/files/annual-report-2025-26.pdf"
-      ],
-      [
-        "Home Care FY 2025–26",
-        "https://hul-performance-highlights.hul.co.in/performance-highlights-fy-2025-2026/segments/home-care/"
-      ],
-      [
-        "Beauty & Wellbeing FY 2025–26",
-        "https://hul-performance-highlights.hul.co.in/performance-highlights-fy-2025-2026/segments/beauty/"
-      ],
-      [
-        "Personal Care FY 2025–26",
-        "https://hul-performance-highlights.hul.co.in/performance-highlights-fy-2025-2026/segments/personal-care/"
-      ],
-      [
-        "Foods FY 2025–26",
-        "https://hul-performance-highlights.hul.co.in/performance-highlights-fy-2025-2026/segments/foods/"
       ]
     ],
-    "update": [
-      "Home Care: volume and price tell different stories",
-      "For FY 2025–26, HUL reports high-single-digit Home Care volume growth and 4% underlying sales growth. Its commentary attributes the difference to pricing actions."
-    ],
-    "question": "Why can revenue rise even when the number of products sold does not?",
-    "answer": "Revenue can rise because of higher prices or a shift toward more expensive products. That is why volume growth deserves a separate look.",
     "productSource": "https://www.hul.co.in/brands/",
     "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
     "logo": "assets/logos/hindustan-unilever.svg"

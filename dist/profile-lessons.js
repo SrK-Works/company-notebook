@@ -1895,6 +1895,217 @@ window.COMPANY_LESSONS = {
     ],
     "checked": "31 October 2026"
   },
+  "hindustan-unilever": {
+    "summary": "Hindustan Unilever (HUL) makes everyday goods such as Surf Excel detergent, Dove soap, Brooke Bond tea and Horlicks, and sells them through local shops, store chains and online sellers across India.",
+    "description": "Think of the detergent, shampoo, soap or tea that you replace when it runs out. Hindustan Unilever Limited (HUL) makes and sells goods like these under more than 50 brands. Such goods are called fast moving consumer goods (FMCG): everyday items that people buy again and again. HUL groups its brands into four businesses. Home Care cleans clothes and homes. Beauty & Wellbeing looks after hair and skin. Personal Care covers soap, bodywash, oral care and deodorants. Foods covers tea, coffee, nutrition drinks and sauces. HUL says its brands reach 9 out of 10 Indian households. HUL also used to sell ice cream, such as Kwality Wall’s, Cornetto and Magnum, but that business was split off into a separate company on 1 December 2025.",
+    "money": "HUL earns money by selling its goods to the shops, store chains and online sellers that then sell them to shoppers. Each sale has to cover what HUL pays for ingredients and materials, for making the goods, for moving them to sellers and for advertising them. HUL’s reviews name these costs but do not say how much goes to each, so this lesson gives no split. What is left is profit. A shopper’s payment at the till goes to the seller, so it is neither HUL’s income nor HUL’s profit.",
+    "customers": "HUL’s direct customers are the sellers that stock its goods: local shops, supermarkets and other store chains, and online and quick delivery apps. The people who use the soap, tea or detergent are shoppers, and they pay the seller. HUL’s reviews describe four ways goods reach shoppers: general trade (local shops), modern trade (store chains), e-commerce and quick commerce.",
+    "drivers": "How many packs are sold, the prices charged, whether shoppers choose basic or premium products, and what raw materials and advertising cost. In Home Care, the amount sold grew faster than sales because HUL’s pricing actions passed lower raw material costs on to shoppers.",
+    "groups": [
+      {
+        "title": "Home Care",
+        "examples": "Surf Excel, Rin, Vim, Comfort and Active Wheel.",
+        "explanation": "Products for washing clothes and cleaning homes, in powder and liquid forms. HUL’s review says liquids grew strongly and that it is helping shoppers move from basic powders towards higher-priced ones that clean better. Shoppers choose by how well a product cleans and what each wash costs."
+      },
+      {
+        "title": "Beauty & Wellbeing",
+        "examples": "TRESemmé, Clinic Plus, Lakmé, Vaseline, Simple and Minimalist.",
+        "explanation": "Hair care, skin care, make-up and health and wellbeing products. Shoppers often buy for a particular need, such as repairing damaged hair, so HUL is moving people from basic care towards specialised routines. This business has the highest segment margin of HUL’s four businesses."
+      },
+      {
+        "title": "Personal Care",
+        "examples": "Lux, Lifebuoy, Pears, Dove bars, Closeup and Rexona.",
+        "explanation": "Products for washing the body, oral care and deodorants. Soap bars are the everyday item, and bodywash and premium bars are the step up HUL is pushing. HUL calls itself the market leader in skin cleansing in India."
+      },
+      {
+        "title": "Foods",
+        "examples": "Brooke Bond Red Label and Taj Mahal, Bru, Horlicks, Boost, Kissan and Hellmann’s.",
+        "explanation": "Tea, coffee, nutrition drinks and packaged foods such as sauces. These have different buyers and costs, so HUL’s review names four separate bets: premium tea and coffee, nutrition, the Kissan brand, and drinks sold ready to drink. Until it was split off on 1 December 2025, ice cream was reported in a HUL segment then called Foods & Refreshment."
+      }
+    ],
+    "basics": [
+      {
+        "title": "What is the difference between a company, a brand and a product?",
+        "text": "A company is the business that owns the factories, staff and accounts: here, HUL. A brand is a name shoppers recognise, such as Surf Excel. A product is the particular item you buy, such as one pack of that detergent. HUL groups related brands into four reporting groups called segments: Home Care, Beauty & Wellbeing, Personal Care and Foods. It reports sales and results for each segment, not for each brand, so a famous brand does not tell you how much profit HUL makes on it."
+      },
+      {
+        "title": "What do “underlying sales growth” and “underlying volume growth” mean?",
+        "text": "HUL uses two measures to explain why its sales change. Underlying sales growth (USG) is the increase in sales for the period, leaving out any change caused by buying or selling businesses. Underlying volume growth (UVG) is HUL’s measure of growth in the amount sold. HUL’s definition also counts mix, which means selling more of its higher-priced products lifts UVG more than selling the same number of cheaper ones. Because mix is already inside UVG, sales growth that is lower than volume growth, as in HUL’s Home Care review, points mainly to price changes."
+      },
+      {
+        "title": "What is a demerger?",
+        "text": "A demerger is when a company splits one of its businesses off into a separate company. The shareholders of the original company usually receive shares in the new one. HUL moved its ice cream business into a new company, Kwality Wall’s (India) Limited (KWIL). The record date, 5 December 2025, was the cut-off for deciding who received the new shares. HUL shareholders on that date were entitled to 1 KWIL share for every 1 HUL share, and they kept their HUL shares. KWIL’s shares were listed on the stock exchanges on 16 February 2026, so they could be bought and sold there."
+      },
+      {
+        "title": "What are general trade, modern trade and quick commerce?",
+        "text": "HUL’s reviews describe how goods reach shoppers. General trade means small local shops. Modern trade means supermarkets and organised store chains. E-commerce means online shopping, and quick commerce means apps that deliver groceries within minutes. In Personal Care, HUL says general trade remained the backbone of its sales, while it reports strong growth in e-commerce and quick commerce for Foods."
+      }
+    ],
+    "steps": [
+      {
+        "title": "HUL decides what to make",
+        "text": "HUL chooses which products to make and how to present them, for example liquid detergents for shoppers moving up from powder, or salon-style treatments for hair. It says it builds its products with research and science."
+      },
+      {
+        "title": "It makes the goods and gets them to sellers",
+        "text": "HUL arranges ingredients, packaging and factories, then sends the goods out through its distribution network. Its Home Care review mentions supply chain problems and swings in the cost of raw materials, which can make this harder."
+      },
+      {
+        "title": "Sellers stock the goods",
+        "text": "Shops, store chains and online sellers order stock and put it on shelves or in their apps. HUL’s Personal Care review says it invests in how its goods are displayed in store chains."
+      },
+      {
+        "title": "Shoppers buy and use the goods",
+        "text": "Shoppers pay the seller, not HUL. If the goods sell, the seller orders again. If they do not, orders slow, whatever HUL had planned."
+      },
+      {
+        "title": "HUL bills the sellers and collects the money",
+        "text": "HUL sends a bill to each seller for the goods supplied, and the seller pays under the agreed terms. The sources do not say how long sellers take to pay. Revenue (the bill), profit (what is left after costs) and cash received (money in the bank) are three different things, and they can arrive at different times."
+      }
+    ],
+    "specifics": [
+      {
+        "title": "Sales can grow because of price, volume or mix",
+        "text": "In FY 2025–26, HUL’s Home Care review reports high single digit growth in the amount sold but sales growth of only 4%. HUL says it took pricing actions to keep its prices competitive for the value shoppers get and to pass lower raw material costs on to shoppers, so shoppers paid less per pack than they otherwise would have, and that held sales growth back. More goods sold does not automatically mean faster sales growth, and neither says how profit changed."
+      },
+      {
+        "title": "Premium versions are a way to earn more from each pack",
+        "text": "HUL is moving shoppers from basic products to premium ones: liquid detergents instead of powders, salon-style hair treatments, serum-infused soap bars and freeze-dried coffee. These sell at higher prices, and they can also cost more to make and advertise. The question is whether the extra price covers the extra cost."
+      },
+      {
+        "title": "The four businesses earn different margins",
+        "text": "Each category review gives a segment margin, which compares the business’s result with its sales. For FY 2025–26 the figures are 28% for Beauty & Wellbeing, 20% for Foods, and 19% each for Home Care and Personal Care. Home Care has the most sales of the four, but a lower margin than Beauty & Wellbeing. A segment margin is not profit after tax, and it is not the profit of any single brand."
+      },
+      {
+        "title": "The ice cream business is no longer part of HUL",
+        "text": "HUL’s Board decided in October 2024 to separate its ice cream business, after its parent company Unilever announced a plan to separate ice cream worldwide. The split took effect on 1 December 2025, and HUL said the aim was to let both companies focus on their own businesses. Until then, ice cream was reported in a segment HUL called Foods & Refreshment, so older figures for that segment and for the whole company can include ice cream while newer ones do not. Check whether a figure includes or excludes ice cream before comparing years."
+      },
+      {
+        "title": "New ways of selling matter",
+        "text": "HUL says e-commerce and quick commerce delivered strong growth for Foods, and it names launches such as Kissan chutneys and Red Label Instant Tea that it scaled up there. Online selling can help a new product reach shoppers quickly, but it adds a different kind of seller to deal with."
+      }
+    ],
+    "watch": [
+      [
+        "Is growth coming from more goods sold, higher prices or a different mix?",
+        "The same rise in sales can mean very different things for the business.",
+        "Compare underlying sales growth with underlying volume growth in each results release, as in the Home Care review. If sales grow faster than volume, price or mix is doing the work. Read HUL’s own explanation rather than subtracting the two numbers."
+      ],
+      [
+        "Which of the four businesses is doing the work?",
+        "One favourite brand does not describe a company with four different businesses.",
+        "Compare each business’s sales and segment margin in HUL’s category reviews for the same year. A business with the most sales can have a lower margin, and the reviews do not give a profit for any single brand."
+      ],
+      [
+        "Are you comparing the same business across years?",
+        "A business that is split off or bought changes the numbers even when everyday demand has not changed.",
+        "Read each figure’s scope notes. HUL’s ice cream business moved to KWIL on 1 December 2025, so check whether a figure includes or excludes ice cream before comparing it with another year."
+      ],
+      [
+        "Are goods reaching shoppers, or only filling shelves?",
+        "Sellers can hold more stock than shoppers are buying, which slows later orders.",
+        "Read HUL’s comments on general trade, modern trade, e-commerce and quick commerce. Ask whether growth reflects shoppers buying again or a change in how much stock sellers hold."
+      ],
+      [
+        "Is profit growth coming from everyday selling or from one-off items?",
+        "A one-off gain or cost can make profit look better or worse than the everyday business.",
+        "Compare reported profit after tax with profit before exceptional items, as in the September 2026 release. Then read what the one-off item was."
+      ]
+    ],
+    "risks": [
+      [
+        "Raw materials and packaging cost more",
+        "HUL’s Personal Care review ties its pricing to rising raw material prices. If HUL cannot raise prices enough, it earns less on each pack. If it raises prices, shoppers may buy less."
+      ],
+      [
+        "Shoppers move to cheaper choices",
+        "HUL says it must keep prices competitive for the value shoppers get. When household budgets are tight, shoppers can switch to smaller packs or cheaper brands, and HUL may need to cut prices or spend more on promotion to keep sales."
+      ],
+      [
+        "Competition for shoppers is strong",
+        "HUL’s Beauty & Wellbeing review describes a market with strong competition. Rival and new brands can win shoppers, and defending sales can mean more advertising and discounts, which leaves less profit."
+      ],
+      [
+        "Supply chain problems",
+        "Home Care’s review mentions supply chain problems. Delays or higher costs in moving goods can leave shelves empty or raise costs."
+      ],
+      [
+        "One-off items can hide the everyday picture",
+        "A one-off gain in an earlier period can make later reported profit look weak by comparison, as in HUL’s September 2026 quarter. Compare profit before one-off items, and find out what the one-off item was."
+      ]
+    ],
+    "context": [
+      "September 2026 quarter: sales grew fast, reported profit stayed flat",
+      "On 28 October 2026 HUL said underlying sales growth was 15%, its highest in 14 quarters, and underlying volume growth was 7%. Profit after tax before exceptional items (one-off gains or costs) grew 9%. Reported profit after tax was flat because the same quarter a year earlier included one-off tax gains. This describes one quarter, not a forecast."
+    ],
+    "quiz": [
+      "Does the price printed on a Surf Excel pack tell you how much profit HUL makes on that pack?",
+      "No. The shopper pays that price to the seller. HUL earns what its sale to the seller brings in, then pays for ingredients, factories, delivery and advertising. HUL reports results for the whole company and for its four businesses, not for each pack or brand."
+    ],
+    "sources": [
+      [
+        "HUL company overview",
+        "https://www.hul.co.in/our-company/"
+      ],
+      [
+        "HUL brand directory",
+        "https://www.hul.co.in/brands/"
+      ],
+      [
+        "Home Care review, FY 2025–26",
+        "https://hul-performance-highlights.hul.co.in/performance-highlights-fy-2025-2026/segments/home-care/"
+      ],
+      [
+        "Beauty & Wellbeing review, FY 2025–26",
+        "https://hul-performance-highlights.hul.co.in/performance-highlights-fy-2025-2026/segments/beauty/"
+      ],
+      [
+        "Personal Care review, FY 2025–26",
+        "https://hul-performance-highlights.hul.co.in/performance-highlights-fy-2025-2026/segments/personal-care/"
+      ],
+      [
+        "Foods review, FY 2025–26",
+        "https://hul-performance-highlights.hul.co.in/performance-highlights-fy-2025-2026/segments/foods/"
+      ],
+      [
+        "Results release for the quarter ended 30 September 2026",
+        "https://www.hul.co.in/news/press-releases/2026/results-for-the-quarter-ended-30th-september-2026/"
+      ],
+      [
+        "HUL FAQs on the demerger scheme, July 2025",
+        "https://www.hul.co.in/files/faqs-for-the-scheme-of-arrangement-amongst-hul-kwil-and-their-respective-shareholders.pdf"
+      ],
+      [
+        "HUL FAQs on the allotment of Kwality Wall’s shares",
+        "https://www.hul.co.in/files/faqs-on-allotment-of-kwil-shares-pursuant-to-the-scheme-of-demerger.pdf"
+      ],
+      [
+        "Kwality Wall’s (India) results announcement, 6 March 2026",
+        "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c0bfdfc9-6058-4763-b25d-774870d8502c.pdf"
+      ]
+    ],
+    "financialNotes": [
+      {
+        "title": "How to read HUL’s own figures",
+        "text": "HUL reports turnover of ₹63,763 crore for FY 2025–26. Its category reviews report revenue of ₹23,672 crore for Home Care, ₹14,990 crore for Beauty & Wellbeing, ₹9,564 crore for Personal Care and ₹14,061 crore for Foods. These come from HUL’s own web pages. The verified table on this page states its own scope and profit definition, and it remains the reference, so do not compare these figures with that table without checking the scope. The four business figures add up to about ₹62,287 crore, which is ₹1,476 crore less than the ₹63,763 crore turnover. The pages read for this lesson do not explain the gap, so do not treat the four as the whole company. Segment margin is HUL’s own measure. None of these figures is the profit of a brand or a pack."
+      },
+      {
+        "title": "Ice cream and the scope of older figures",
+        "text": "Until 1 December 2025, ice cream sat inside HUL’s Foods & Refreshment segment. KWIL reported results for the quarter ended 31 December 2025 on its own, and said its figures for the same quarter a year earlier were prepared on a pro forma basis, as if the business had operated independently. A figure that includes ice cream and one that leaves it out are not directly comparable. For each figure, check whether it includes or excludes ice cream, and whether it is for HUL as a whole or for one segment."
+      },
+      {
+        "title": "One quarter is not a full year",
+        "text": "For the quarter ended 30 September 2026, HUL reported turnover of ₹18,071 crore. EBITDA (profit before interest, tax, depreciation and amortisation) grew 8% to ₹4,089 crore, a margin of 22.6%. Reported profit after tax was ₹2,796 crore, flat because the earlier quarter included one-off tax gains of ₹273 crore. A quarter and a year cover different periods and should not be compared directly."
+      }
+    ],
+    "illustration": [
+      {
+        "title": "An imaginary pack: three ways sales can change",
+        "text": "These numbers are fictional and are not HUL’s prices or results. Imagine a made-up detergent pack that a seller buys at ₹10. If 100 packs are sold, sales are ₹1,000. If 110 packs are sold at ₹10, sales are ₹1,100 because more was sold. If 100 packs are sold at ₹11, sales are also ₹1,100, but only because of the price. If shoppers switch to a larger, pricier pack, sales change again because the mix changed. Volume, price and mix can all move at once, which is why HUL reports underlying sales growth and underlying volume growth separately."
+      }
+    ],
+    "checked": "2 November 2026"
+  },
   "icici-bank": {
     "summary": "ICICI Bank provides accounts, loans, cards and business payment services, accessible through branches and digital channels such as iMobile.",
     "description": "A customer can receive a salary, pay a shop or borrow for a home through ICICI Bank. A business can use it to collect customer payments or finance stock. The bank runs these services, assesses borrowers and collects repayments while keeping money available for payments and withdrawals.",
