@@ -1,0 +1,647 @@
+{
+  "status": "published",
+  "company": "delhivery",
+  "draftedAt": "2026-11-03T06:37:55.418Z",
+  "model": "written in a Claude Code session",
+  "sources": [
+    {
+      "url": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "kind": "pdf",
+      "sha256": "9cfa503d0a93059570ec7758d781b06a6728f43c72b0bb5af2bfdd3e61167e1e",
+      "chars": 1000054
+    },
+    {
+      "url": "https://www.delhivery.com/uploads/2026/10/PressRelease_Q2FY27.pdf",
+      "kind": "pdf",
+      "sha256": "f7d36fc9fe2d32f5a7ba7d2aacde82b171fa7c4fb649592dd6073fc20ed40c08",
+      "chars": 3938
+    },
+    {
+      "url": "https://www.delhivery.com/uploads/2026/10/LetterToShareholders_Q2FY27.pdf",
+      "kind": "pdf",
+      "sha256": "58c789d0cceaa3085b1217984c7bcdea36396ca80a8b54bc8729ede1aa230509",
+      "chars": 16216
+    },
+    {
+      "url": "https://www.delhivery.com/uploads/2026/10/EarningsPresentation_Q2FY27.pdf",
+      "kind": "pdf",
+      "sha256": "6589d4022f0d1a19d1e9af61b5d63a43528f608c18e49354bd5c45804a4c6046",
+      "chars": 16264
+    }
+  ],
+  "lesson": {
+    "layout": "short",
+    "summary": "Delhivery collects parcels and freight from online shops, brands and other businesses, moves them between cities by truck, and delivers them to buyers’ doors. It also runs warehouses and books whole trucks.",
+    "description": "A parcel is a box that someone has ordered or sent. Delhivery picks that box up from the sender, sorts it at a hub, moves it by truck between cities and hands it to the person receiving it. It does the same for business freight, whether that is a small load or a whole truck, and it runs warehouses that store goods for businesses and send them out as orders arrive. Delhivery says it reaches over 18,800 pin codes (postal area codes), about 97% of the places in India where addresses can be delivered to.",
+    "quick": [
+      {
+        "title": "What it does",
+        "text": "Delhivery collects parcels and freight from businesses, moves them between cities through sorting hubs and trucks, and delivers them to people’s doors or to other businesses."
+      },
+      {
+        "title": "Who pays",
+        "text": "The sender pays, not the person receiving the parcel. Senders are online shops, brands that sell online, small businesses, factories and ordinary people. The fee depends on what is moved."
+      },
+      {
+        "title": "How it earns",
+        "text": "It charges fees for moving each parcel or load, and for storing and packing goods in its warehouses. Most of each fee is spent again on trucks, drivers and sorting."
+      },
+      {
+        "title": "What it spends on",
+        "text": "Long-distance trucking, hired vehicles, the people who sort and deliver, and warehouse rent. After these costs only a small slice of the fees is left as profit."
+      }
+    ],
+    "money": "Delhivery earns fees from the sender for each parcel or load it moves, and for storing and packing goods in its warehouses. Most of each fee goes straight back out: long-distance trucking, vehicles it rents, the people who sort and deliver, and rent for buildings. What is left after all costs is profit. A sender’s payment is revenue, not profit, and a bill sent is not the same as cash received.",
+    "customers": "The customer is the sender, not the person receiving the parcel. Senders include online marketplaces, brands that sell directly to shoppers online (D2C, direct-to-consumer), small and medium businesses (SMEs), factories and ordinary people sending a parcel to each other (C2C, consumer-to-consumer). Delhivery counted 59,704 active customers in the quarter ended 30 September 2026.",
+    "drivers": "How many parcels and loads move through the same network, the fees charged compared with fuel and wage costs, and how quickly customers pay their bills.",
+    "groups": [
+      {
+        "title": "Express Parcel",
+        "examples": "A phone ordered online, a clothing return, a cash-on-delivery order or a parcel sent between two people.",
+        "explanation": "Door-to-door delivery of parcels, usually under 40 kilograms, including taking returns back to the seller and handling cash paid at the door. It is Delhivery’s largest service, about 64% of its revenue in the year to March 2026."
+      },
+      {
+        "title": "Part Truckload (PTL)",
+        "examples": "Factory parts, spare parts or stock for shops that weigh more than a parcel but do not fill a truck.",
+        "explanation": "Delhivery gathers loads from several senders, packs them into one truck at a hub and splits them up again near the destination. Each sender pays only for its own share. It runs on the same hubs and trucks as parcels."
+      },
+      {
+        "title": "Supply Chain Services",
+        "examples": "Storing a brand’s goods near its buyers, then packing and sending each order.",
+        "explanation": "Delhivery runs 99 fulfilment centres, which are warehouses where goods are stored, picked, packed and sent. Some are shared by several customers and some are used by one customer."
+      },
+      {
+        "title": "Full Truckload (FTL)",
+        "examples": "One truck booked to carry one business’s goods from one place to another.",
+        "explanation": "Delhivery connects businesses that need a truck with truck owners through an online marketplace it calls Orion. This means it does not have to buy the trucks itself, which is what “asset-light” means."
+      },
+      {
+        "title": "Local and International",
+        "examples": "A same-city delivery arranged on demand, or an export parcel sent from India to the US, UK or China.",
+        "explanation": "Two newer services. Delhivery Local runs in 8 Indian cities. International sends parcels and freight abroad. Both are small compared with Express Parcel and Part Truckload."
+      }
+    ],
+    "basics": [
+      {
+        "title": "What is a pin code, and why does it matter here?",
+        "text": "A pin code is the six-digit postal area code on an Indian address. India Post has about 19,500 of them. Delhivery says it delivered at least one shipment to 18,799 of them in the quarter ended 30 September 2026, so its network reaches almost every postal area."
+      },
+      {
+        "title": "What are the first mile, line haul and last mile?",
+        "text": "The first mile is collecting a parcel from the sender. Line haul is the long-distance leg, moving parcels by truck between hubs. The last mile is the final trip to the buyer’s door. Delhivery’s biggest cost group includes line haul."
+      },
+      {
+        "title": "What does asset-light mean?",
+        "text": "An asset-light business owns few of the machines or vehicles it uses and rents or arranges them instead. This lets it grow without paying for every truck up front, but it still pays rent and hire charges every time it uses them."
+      },
+      {
+        "title": "What does EBITDA (a profit measure) mean?",
+        "text": "EBITDA is profit from running the business before depreciation (the yearly cost of wearing out equipment), interest and tax. Delhivery also reports Adjusted EBITDA, which leaves out the one-time costs of folding in a company it bought and the cost of employee share options, and takes off the rent it actually paid on leased buildings."
+      }
+    ],
+    "steps": [
+      {
+        "title": "A business hands over its parcels",
+        "text": "An online seller, a brand or another business books Delhivery to move its goods. A delivery person or truck collects them from the seller’s shop or warehouse. This is the first mile."
+      },
+      {
+        "title": "Parcels are sorted at hubs",
+        "text": "Each parcel is scanned and sorted by where it is going, by machines and by staff. Delhivery says it runs 51 automated sort centres, where sorting machines do much of the work."
+      },
+      {
+        "title": "Trucks carry them between cities",
+        "text": "Sorted parcels and freight ride in trucks from hub to hub. This is line haul. Many of the vehicles Delhivery uses are rented rather than owned."
+      },
+      {
+        "title": "A delivery partner brings it to the door",
+        "text": "Riders and drivers, many of them partner agents who are not Delhivery employees, make the last trip. For cash-on-delivery orders the buyer pays in cash at the door, and Delhivery handles that money."
+      },
+      {
+        "title": "Delhivery bills the sender and collects the money",
+        "text": "Delhivery bills the sender, not the buyer, and the sender pays under agreed terms. Revenue (the bill), profit (what is left after costs) and cash received (money in the bank) are three different things. On its own measure, Delhivery’s gap between collecting from customers and paying suppliers was 5 days in September 2026, down from 11 days in March 2026."
+      }
+    ],
+    "helps": [
+      {
+        "title": "More parcels are moving through the network",
+        "text": "Delhivery carried 40% more express parcels in the year to March 2026 than a year earlier, and 32% more in the quarter to 30 September 2026. Part of this came from buying Ecom Express. More parcels through the same hubs and trucks can lower the cost of each one."
+      },
+      {
+        "title": "Parcels and freight share one network",
+        "text": "Part Truckload runs on the same hubs, trucks and sorting machinery as Express Parcel. A network that is well used spreads its fixed costs over more shipments, which Delhivery lists as a reason its operating profit grew."
+      },
+      {
+        "title": "It owes almost nothing and has cash",
+        "text": "At March 2026 Delhivery had almost no borrowings, and its annual report says it paid for its investment in equipment from its own cash. Having cash gives it room to keep investing, but cash can also be spent on projects that do not pay off."
+      }
+    ],
+    "hurts": [
+      {
+        "title": "Very little of each fee becomes profit",
+        "text": "In the year to March 2026, profit after tax was about 1.4% of total income. A small rise in costs, or a small fall in fees, can remove most of it."
+      },
+      {
+        "title": "Fuel and wages push costs up first",
+        "text": "Delhivery says rising fuel prices, difficulty finding workers and minimum wage increases raised its costs. It then raises its fees through price revisions, which take time to agree with customers."
+      },
+      {
+        "title": "Buying a rival added costs",
+        "text": "After buying Ecom Express in July 2025, Delhivery paid to shut duplicate buildings, move equipment and let go of staff. It says that without these one-time costs its profit after tax for the year would have been more than double."
+      },
+      {
+        "title": "New services are still losing money",
+        "text": "Delhivery Local, Delhivery Rapid and its financial services business together lost money at the adjusted EBITDA level in every quarter shown in its latest presentation. They may take time to grow, or may not."
+      }
+    ],
+    "specifics": [
+      {
+        "title": "One network serves parcels and freight",
+        "text": "Express Parcel is about 64% of revenue and Part Truckload about 21%. Because they share hubs, trucks and sorters, a busy parcel season also fills the network for freight, and a quiet one leaves both under-used."
+      },
+      {
+        "title": "Two busy seasons shape the year",
+        "text": "Delhivery says online-shopping volumes peak in October to December and Part Truckload volumes peak in January to March. It builds capacity in the first half of the year ahead of those peaks, so it spends before the busy months pay it back."
+      },
+      {
+        "title": "Fuel costs are passed on with a delay",
+        "text": "Delhivery uses fuel-linked price increases, which raised its fees after diesel prices rose in April to June 2026. Costs rise first and fees follow. Delhivery says this inflation is one reason its supply chain profit dipped in that quarter."
+      },
+      {
+        "title": "It bought a competitor in 2025",
+        "text": "Delhivery completed buying control of Ecom Express on 18 July 2025. Its annual report calls Ecom Express the third-largest independent express parcel company in India. Delhivery is folding that business into its own network, which is why integration costs appear."
+      },
+      {
+        "title": "Newer services are small and still being built",
+        "text": "Local, Rapid, financial services and International are each a small share of revenue. Delhivery plans to spend on them, and says it expects them to grow, but plans are not results."
+      }
+    ],
+    "watch": [
+      [
+        "Are parcels growing faster than costs?",
+        "Delhivery earns money only if each extra parcel adds more fee than cost.",
+        "Compare growth in express parcel volume and express revenue in each quarterly presentation, then compare both with growth in total costs. In the September 2026 quarter volume grew 32% and express revenue grew 22%."
+      ],
+      [
+        "Is each parcel earning more or less?",
+        "Revenue per parcel shows whether Delhivery is charging enough for the work.",
+        "Divide express revenue by the number of parcels for several quarters in the earnings presentations and see whether it is rising or falling. Read the letter to shareholders to learn how Delhivery explains the change."
+      ],
+      [
+        "Is profit coming from running the network, or from one-off items?",
+        "One-time gains and costs can make a quarter look better or worse than the everyday business.",
+        "Compare reported EBITDA with Adjusted EBITDA in the bridge table of the earnings presentation, and read what is added back or removed. Then compare profit after tax with and without one-time costs."
+      ],
+      [
+        "How much of the extra income is eaten by fuel and wages?",
+        "Fuel and labour are two costs Delhivery cannot control, and its fees move after its costs do.",
+        "Read the letter to shareholders for its comments on fuel and wages, then compare its freight, handling and servicing costs with its revenue over several quarters. Look for months when costs rose before fees did."
+      ],
+      [
+        "Are the new services costing more than they earn?",
+        "Money spent on new services is not available for the main business.",
+        "Find the new initiatives lines in the service line table of each presentation. Compare their revenue with their adjusted EBITDA loss, and check whether the loss per quarter is growing or shrinking."
+      ]
+    ],
+    "risks": [
+      [
+        "Fuel and wage costs rise faster than fees",
+        "Delhivery pays for diesel, drivers and hired vehicles before customers agree to higher fees. In the meantime its already thin profit shrinks."
+      ],
+      [
+        "Profit is a thin slice of income",
+        "Profit after tax was about 1.4% of total income in the year to March 2026. A bad quarter or a lost customer can turn that into a loss."
+      ],
+      [
+        "Delivery partners and labour are hard to keep",
+        "Delhivery relies on partner agents and contract workers for much of its pickups and deliveries. It says labour availability has been an issue and is testing robots to depend less on people."
+      ],
+      [
+        "Busy seasons are hard to plan for",
+        "Delhivery builds hubs and hires vehicles before the October to March peaks. If volume is lower than planned, it still pays for the space and vehicles."
+      ],
+      [
+        "New services and the Ecom Express purchase may not pay off",
+        "Local, Rapid, financial services and International are loss-making today, and moving Ecom Express onto Delhivery’s network has one-time costs that cut profit in FY26."
+      ]
+    ],
+    "context": [
+      "September 2026 quarter: more parcels, profit still small",
+      "On 30 October 2026 Delhivery said it carried 325 million express parcels in the quarter ended 30 September 2026, 32% more than a year earlier. It said its EBITDA tripled compared with a year earlier, but profit after tax was still only 1.3% of its income. This describes one quarter, not a forecast."
+    ],
+    "sources": [
+      [
+        "Delhivery annual report 2025–26",
+        "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf"
+      ],
+      [
+        "Press release for the quarter ended 30 September 2026",
+        "https://www.delhivery.com/uploads/2026/10/PressRelease_Q2FY27.pdf"
+      ],
+      [
+        "Letter to shareholders for the quarter ended 30 September 2026",
+        "https://www.delhivery.com/uploads/2026/10/LetterToShareholders_Q2FY27.pdf"
+      ],
+      [
+        "Earnings presentation for the quarter ended 30 September 2026",
+        "https://www.delhivery.com/uploads/2026/10/EarningsPresentation_Q2FY27.pdf"
+      ]
+    ],
+    "financialNotes": [
+      {
+        "title": "Year ended 31 March 2026: what the audited accounts show",
+        "text": "These are consolidated figures from the audited annual report: Delhivery and its subsidiaries together. Revenue from customers was ₹10,508 crore, split by service as Express Parcel ₹6,687 crore, Part Truckload ₹2,254 crore, Supply Chain Services ₹750 crore, Full Truckload ₹626 crore, cross-border ₹119 crore and others ₹72 crore. Delhivery reports one business segment, so it does not report profit by service. Profit for the year was ₹152.5 crore, after exceptional items of ₹25.9 crore (a loss on an investment and the impact of the Labour Codes) and with a tax credit of ₹12.1 crore. Delhivery calculates that profit would have been about ₹321 crore without the Ecom Express integration costs; that is its own measure."
+      },
+      {
+        "title": "Where the money goes",
+        "text": "The largest cost group, called freight, handling and servicing costs, was ₹7,466 crore, about 71% of revenue. Inside it: line haul ₹2,884 crore, vehicle rental ₹2,464 crore, contractual manpower ₹1,271 crore, rent ₹336 crore and lost-shipment expense ₹170 crore. Employee costs were another ₹1,605 crore. This table sits in the notes to the audited accounts."
+      },
+      {
+        "title": "One quarter is not a year",
+        "text": "For the quarter ended 30 September 2026, unaudited, revenue from services was ₹3,066 crore, reported EBITDA ₹205 crore, Adjusted EBITDA ₹123 crore and profit after tax ₹41 crore. Adjusted EBITDA is lower than reported EBITDA here because it subtracts ₹110 crore of rent actually paid. Cash and investments were ₹4,676 crore. A quarter and a year cover different periods and should not be compared directly."
+      }
+    ],
+    "products": [
+      [
+        "Express Parcel",
+        "Door-to-door parcel delivery"
+      ],
+      [
+        "Part Truckload",
+        "Shared-truck freight for businesses"
+      ],
+      [
+        "Supply Chain Services",
+        "Warehousing, packing and sending goods"
+      ],
+      [
+        "Full Truckload",
+        "A whole truck for one shipper"
+      ],
+      [
+        "Delhivery Local",
+        "On-demand deliveries inside a city"
+      ],
+      [
+        "International",
+        "Parcels and freight to other countries"
+      ]
+    ],
+    "checked": "3 November 2026"
+  },
+  "evidence": [
+    {
+      "section": "summary",
+      "claim": "Express Parcel is door-to-door parcel delivery across India",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "quote": "door-to-door parcel delivery across India. We serve a divers",
+      "verified": "yes"
+    },
+    {
+      "section": "description",
+      "claim": "Delhivery reaches over 18,800 pincodes, about 97% of deliverable addresses",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "quote": "we reach over 18,800 pincodes, covering approximately 97% of India’s deliverable addresses, including smaller towns and ",
+      "verified": "yes"
+    },
+    {
+      "section": "customers",
+      "claim": "Express customers: marketplaces, D2C brands, SMEs and consumer shipments",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "quote": "We serve a diverse customer base that includes large e-commerce marketplaces, direct-to-consumer (D2C) brands, small and medium enterprises (SMEs) as well as consumer-to-consumer (C2C) shipments. Our services include forward and r",
+      "verified": "yes"
+    },
+    {
+      "section": "customers",
+      "claim": "59,704 active customers in Q2 FY27",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/10/EarningsPresentation_Q2FY27.pdf",
+      "quote": "No. of active customers (3) 48,442 54,096 59,704 I",
+      "verified": "yes"
+    },
+    {
+      "section": "groups",
+      "claim": "Express Parcel is about 64% of consolidated revenue; forward and reverse logistics and cash on delivery",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "quote": "Express Parcel is our largest service, accounting for approximately 64% of consolidated revenue, and",
+      "verified": "yes"
+    },
+    {
+      "section": "groups",
+      "claim": "Express Parcel includes forward and reverse logistics and cash-on-delivery management",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "quote": "Our services include forward and reverse logistics, cash-on-delivery management and nation",
+      "verified": "yes"
+    },
+    {
+      "section": "groups",
+      "claim": "PTL is express B2B freight for consignments that do not need a full truck",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "quote": "express B2B freight solution for consignments that do not require a dedicated full truck. ",
+      "verified": "yes"
+    },
+    {
+      "section": "groups",
+      "claim": "PTL volume from several shippers is combined at consolidation centres",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "quote": "Volume from multiple shippers is therefore clubbed together at consolidation centres into full truckload prior to movement",
+      "verified": "yes"
+    },
+    {
+      "section": "groups",
+      "claim": "PTL runs on the same network and sortation as Express Parcel",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "quote": "Operating on the same integrated network, technology platform, gateways, line-haul operations and sortation infrastructure as our Express Parcel business",
+      "verified": "yes"
+    },
+    {
+      "section": "groups",
+      "claim": "99 multi-tenant and dedicated fulfilment centres",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "quote": "through a network of 99 multi-tenant and dedicated Fulfilment Centres ",
+      "verified": "yes"
+    },
+    {
+      "section": "groups",
+      "claim": "FTL: Orion is an asset-light freight exchange connecting shippers to fleet owners",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "quote": "Orion is an asset light, freight exchange which connects Delhivery’s existing shippers and its internal network teams to verified fleet owners and int",
+      "verified": "yes"
+    },
+    {
+      "section": "groups",
+      "claim": "Delhivery Local is live in 8 cities",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/10/LetterToShareholders_Q2FY27.pdf",
+      "quote": "Delhivery Local, our on-demand intra-city logistics platform, is live in 8 cities (Delhi N",
+      "verified": "yes"
+    },
+    {
+      "section": "groups",
+      "claim": "International covers the US, UK and China",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/10/LetterToShareholders_Q2FY27.pdf",
+      "quote": "expanding our economy parcel (Saver), express parcel and air-freight services across the US, UK and China. The",
+      "verified": "yes"
+    },
+    {
+      "section": "basics",
+      "claim": "India Post has 19,500 pin codes; 18,799 reached in Q2 FY27",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/10/EarningsPresentation_Q2FY27.pdf",
+      "quote": "Number of unique pin - codes out of 19,500 pin - codes as per India Post on which at least one shipment was delivered during the p",
+      "verified": "yes"
+    },
+    {
+      "section": "basics",
+      "claim": "Adjusted EBITDA adds back ESOP and integration costs and subtracts lease rent actually paid",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/10/EarningsPresentation_Q2FY27.pdf",
+      "quote": "Reported EBITDA 68 142 205 217 347 Add: Share based payment expenses 28 26 28 50",
+      "verified": "yes"
+    },
+    {
+      "section": "steps",
+      "claim": "51 automated sort centres",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/10/EarningsPresentation_Q2FY27.pdf",
+      "quote": "Automated sort centres 50 48 51 ",
+      "verified": "yes"
+    },
+    {
+      "section": "steps",
+      "claim": "Net working capital 5 days at Sep 2026, 11 at Mar 2026",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/10/LetterToShareholders_Q2FY27.pdf",
+      "quote": "Net working capital has reduced to 5 days as of Q2FY27, from 11 days as of Mar’26",
+      "verified": "yes"
+    },
+    {
+      "section": "helps",
+      "claim": "Express shipment volume grew 40.2% to 1,054 million parcels in FY26",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "quote": "Express Parcel shipment volume increased by 40.2% to 1,054 million parcels in FY26 fr",
+      "verified": "yes"
+    },
+    {
+      "section": "helps",
+      "claim": "325 million express shipments in Q2 FY27, up 32.1%",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/10/LetterToShareholders_Q2FY27.pdf",
+      "quote": "We carried 325mn Express shipments (+32.1% YoY) an",
+      "verified": "yes"
+    },
+    {
+      "section": "helps",
+      "claim": "EBITDA grew because of better network utilisation",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "quote": "better network utilisation, improvement in profitability of Part Truckload Services and th",
+      "verified": "yes"
+    },
+    {
+      "section": "helps",
+      "claim": "Capital expenditure was funded from internal accruals and cash",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "quote": "The capital expenditure was funded through internal accruals and available cash.",
+      "verified": "yes"
+    },
+    {
+      "section": "helps",
+      "claim": "Debt-equity ratio was 0.00 and borrowings were small",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "quote": "We had outstanding borrowings of ₹25.35 million as at the end of FY26.",
+      "verified": "yes"
+    },
+    {
+      "section": "hurts",
+      "claim": "PAT margin 1.4% of total income",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "quote": "Profit after tax margin 1.4% 1.7% ",
+      "verified": "yes"
+    },
+    {
+      "section": "hurts",
+      "claim": "Rising fuel prices, labour availability and statutory changes",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/10/PressRelease_Q2FY27.pdf",
+      "quote": "rising fuel prices, labour availability issues and multiple statutory changes, n",
+      "verified": "yes"
+    },
+    {
+      "section": "hurts",
+      "claim": "Price revisions to cover minimum wage inflation",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/10/LetterToShareholders_Q2FY27.pdf",
+      "quote": "price revisions to cover for minimum wage inflation in several states ",
+      "verified": "yes"
+    },
+    {
+      "section": "hurts",
+      "claim": "Ecom Express integration costs were shutdown of facilities, equipment transfer and exiting staff",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "quote": "costs towards shutdown of redundant facilities, dismantling and transfer of automation equipment, exit from certain contractual arrangements and cost of exiting employees",
+      "verified": "yes"
+    },
+    {
+      "section": "hurts",
+      "claim": "Profit after tax excluding integration cost was 3,212.24 against 1,525.40 million",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "quote": "Profit after tax 1,525.40 3,212.24",
+      "verified": "yes"
+    },
+    {
+      "section": "hurts",
+      "claim": "New initiatives (Local, Rapid, Financial services) had negative adjusted EBITDA each quarter",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/10/EarningsPresentation_Q2FY27.pdf",
+      "quote": "New initiatives (2) Revenue 10 13 20 32 49 1 47 Adjusted EBITDA (15) (20) (26) (32) (35) (",
+      "verified": "yes"
+    },
+    {
+      "section": "specifics",
+      "claim": "Online shopping peak in Q3 and PTL peak in Q4; spending front-loaded in the first half",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/10/LetterToShareholders_Q2FY27.pdf",
+      "quote": "capital expenditure i.e. fixed capacity expansion is typically front-loaded during the first half of the year, in time for e-commerce peak volumes in Q3 and PTL peak volumes in Q4",
+      "verified": "yes"
+    },
+    {
+      "section": "specifics",
+      "claim": "Fuel-linked price increases after diesel rises in Q1 FY27",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/10/LetterToShareholders_Q2FY27.pdf",
+      "quote": "implementation of fuel-linked price increases triggered on account of diesel-rate increases which happened in Q1FY27. We",
+      "verified": "yes"
+    },
+    {
+      "section": "specifics",
+      "claim": "Supply chain profitability dipped in Q1 FY27 from fuel and labour inflation",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/10/LetterToShareholders_Q2FY27.pdf",
+      "quote": "SCS profitability experienced a temporary dip in Q1FY27 due to inflation in fuel and labor costs and",
+      "verified": "yes"
+    },
+    {
+      "section": "specifics",
+      "claim": "Ecom Express acquisition completed 18 July 2025; #3 independent express player",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "quote": "acquisition of a controlling stake in Ecom Express Ltd which we announced on April 5, 2025 and completed on July 18, 2025",
+      "verified": "yes"
+    },
+    {
+      "section": "specifics",
+      "claim": "Ecom Express was the #3 independent express player in India",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "quote": "Ecom Express, #3 independent express player in India",
+      "verified": "yes"
+    },
+    {
+      "section": "risks",
+      "claim": "Reduce dependence on labour in under-the-roof operations",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/10/PressRelease_Q2FY27.pdf",
+      "quote": "reduce dependence on labour in under-the-roof operations a",
+      "verified": "yes"
+    },
+    {
+      "section": "context",
+      "claim": "Express parcel volume of 325 million shipments, growth of 32% YoY",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/10/PressRelease_Q2FY27.pdf",
+      "quote": "Express parcel volume of 325 million shipments in Q2FY27, growth of 32% YoY",
+      "verified": "yes"
+    },
+    {
+      "section": "context",
+      "claim": "EBITDA of Rs.205 Cr up 3x YoY and consolidated PAT 1.3% margin",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/10/PressRelease_Q2FY27.pdf",
+      "quote": "EBITDA of Rs.205 Cr (6.7% margin) in Q2FY27 , up 3x YoY ● Co",
+      "verified": "yes"
+    },
+    {
+      "section": "context",
+      "claim": "Consolidated PAT for the quarter is Rs.41 Cr (1.3% margin)",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/10/PressRelease_Q2FY27.pdf",
+      "quote": "Consolidated PAT for the quarter is Rs.41 Cr (1.3% margin) ●",
+      "verified": "yes"
+    },
+    {
+      "section": "watch",
+      "claim": "Express revenue growth 22% against volume growth 32%",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/10/PressRelease_Q2FY27.pdf",
+      "quote": "Express parcel volume of 325 million shipments in Q2FY27, growth of 32% YoY, with revenue growth of 22% YoY ● ",
+      "verified": "yes"
+    },
+    {
+      "section": "financialNotes",
+      "claim": "Revenue by service line, FY26",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "quote": "Revenue from Express Parcel Services 66,870.46 63.64% ",
+      "verified": "yes"
+    },
+    {
+      "section": "financialNotes",
+      "claim": "Service lines reported as one combined segment, Logistics Services",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "quote": "Our service lines are reported as one combined segment - “Logistics Services” as per Ind AS 108",
+      "verified": "yes"
+    },
+    {
+      "section": "financialNotes",
+      "claim": "Consolidated profit and loss FY26",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "quote": "Profit for the year (IX= VII-VIII) 1,525.40 1,621.10",
+      "verified": "yes"
+    },
+    {
+      "section": "financialNotes",
+      "claim": "Exceptional items and tax credit",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "quote": "Exceptional Items (VI) 28 (258.56) (51.34) P",
+      "verified": "yes"
+    },
+    {
+      "section": "financialNotes",
+      "claim": "Cost breakdown note 23",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "quote": "Line haul expenses 28,843.39 28,875.11 Contractual manpower expenses 12,709.46 11,574.11 Vehicle rental expenses 24,636.03 17,567.71 Rent 3,361.16 2,883.87",
+      "verified": "yes"
+    },
+    {
+      "section": "financialNotes",
+      "claim": "Cost breakdown note 23 continued",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "quote": "Lost shipment expense (net) 1,702.68 1,148.56 74,658.78 65,347.85 24. ",
+      "verified": "yes"
+    },
+    {
+      "section": "financialNotes",
+      "claim": "Exceptional items were an investment fair-value loss and the impact of Labour Codes",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "quote": "Fair value loss on Investment at fair value through profit or loss 50.00 51.34 - Impact of Labour Codes (refer note 43) 208.56",
+      "verified": "yes"
+    },
+    {
+      "section": "financialNotes",
+      "claim": "Employee benefits expense",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "quote": "Employee benefits expense 24 16,045.58 13,759.04 F",
+      "verified": "yes"
+    },
+    {
+      "section": "financialNotes",
+      "claim": "Q2 FY27 income statement",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/10/EarningsPresentation_Q2FY27.pdf",
+      "quote": "Revenue from services 2,559 2,931 3,066 ",
+      "verified": "yes"
+    },
+    {
+      "section": "financialNotes",
+      "claim": "Q2 FY27 EBITDA bridge",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/10/EarningsPresentation_Q2FY27.pdf",
+      "quote": "Less: Actual lease rent paid 103 110 110 199 219 A",
+      "verified": "yes"
+    },
+    {
+      "section": "financialNotes",
+      "claim": "Cash and investments Sep 2026",
+      "sourceUrl": "https://www.delhivery.com/uploads/2026/10/EarningsPresentation_Q2FY27.pdf",
+      "quote": "Cash equivalents⁽¹⁾ 4,555 4,676 Tr",
+      "verified": "yes"
+    }
+  ],
+  "evidenceSummary": {
+    "verified": 49,
+    "unchecked": 0,
+    "notFound": 0
+  },
+  "check": {
+    "errors": [],
+    "warnings": []
+  },
+  "usage": null,
+  "publishedAt": "2026-11-03T06:37:55.511Z"
+}

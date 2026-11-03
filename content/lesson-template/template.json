@@ -213,6 +213,48 @@
       "key": "financial",
       "type": "object",
       "write": "A verified financial record. Only added by a separate financial review."
+    },
+    {
+      "key": "layout",
+      "type": "flag",
+      "value": "short",
+      "write": "Set to \"short\" to show the company on the short page: photos, four quick answers, how the work moves, what helps and what could hurt, then the figures. A short page also needs quick, helps and hurts, and does not need a quiz. Everything else stays in the lesson and opens under \"Go deeper\"."
+    },
+    {
+      "key": "quick",
+      "type": "list",
+      "itemShape": [
+        "title",
+        "text"
+      ],
+      "minItems": 4,
+      "maxItems": 4,
+      "maxChars": 260,
+      "write": "Short page only. Exactly four answers in this order: what it does, who pays, how it earns, what it mainly spends on. One or two plain sentences each. No amounts."
+    },
+    {
+      "key": "helps",
+      "type": "list",
+      "itemShape": [
+        "title",
+        "text"
+      ],
+      "minItems": 3,
+      "maxItems": 3,
+      "maxChars": 340,
+      "write": "Short page only. Three things the sources show that work in the company's favour. State what the source says and why it matters. This is not advice or a forecast."
+    },
+    {
+      "key": "hurts",
+      "type": "list",
+      "itemShape": [
+        "title",
+        "text"
+      ],
+      "minItems": 3,
+      "maxItems": 4,
+      "maxChars": 340,
+      "write": "Short page only. Three or four things the sources show that make the business harder. Repeat only what a source says. Never imply wrongdoing unless a filing says so."
     }
   ],
   "rules": {

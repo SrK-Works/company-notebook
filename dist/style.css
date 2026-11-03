@@ -139,3 +139,42 @@ html[data-theme="dark"] .company-overview{background:#121315}
 .offering-credit{display:block;font-size:11px;line-height:1.35;color:var(--muted);margin:-4px 0 10px}
 .offering-image.is-wide{padding:0}.offering-image.is-wide img{object-fit:contain}
 .primer-illustration{margin:26px 0;padding:20px 22px;border:1.5px dashed var(--blue);border-radius:12px;min-width:0}.primer-illustration-label{display:inline-block;margin-bottom:8px;font-size:11px;font-weight:650;letter-spacing:1.2px;text-transform:uppercase;color:var(--blue)}.primer-illustration h3{margin:0 0 10px;font-size:19px;line-height:1.4}.primer-illustration p{margin:0 0 10px}.primer-illustration ul{margin:0;padding-left:20px}.primer-illustration li{margin:6px 0}
+
+/* Short company page (dist/short-profile.js) */
+:root{--sp-surface:#fff;--sp-help:#1f7a4d;--sp-hurt:#b3641a}
+html[data-theme="dark"]{--sp-surface:#131416;--sp-help:#5cc58d;--sp-hurt:#e0a060}
+.sp-photos{margin:0 0 34px}
+.sp-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));grid-auto-rows:190px;gap:10px}
+.sp-tile{position:relative;display:block;overflow:hidden;border-radius:14px;background:var(--line);min-width:0}
+.sp-tile img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .5s ease}
+.sp-tile:hover img,.sp-tile:focus-visible img{transform:scale(1.03)}
+.sp-tile-lead{grid-column:span 2;grid-row:span 2}
+.sp-tile-wide{grid-column:span 2}
+.sp-cap{position:absolute;left:0;right:0;bottom:0;display:flex;flex-direction:column;gap:2px;padding:34px 14px 12px;color:#fff;background:linear-gradient(to top,rgba(0,0,0,.72),rgba(0,0,0,0));font-size:13px;line-height:1.35}
+.sp-cap strong{font-size:15px;font-weight:650}
+.sp-section{margin:0 0 34px;padding:26px;border:1px solid var(--line);border-radius:16px;background:var(--sp-surface);scroll-margin-top:20px;min-width:0}
+.sp-section h2{margin:4px 0 16px}
+.sp-quick{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.sp-card{padding:16px 18px;border:1px solid var(--line);border-radius:12px}
+.sp-card h3{margin:0 0 6px;font-size:13px;letter-spacing:.8px;text-transform:uppercase;color:var(--blue)}
+.sp-card p{margin:0}
+.sp-flow{list-style:none;margin:0;padding:0;counter-reset:sp}
+.sp-flow li{position:relative;display:flex;flex-direction:column;gap:2px;padding:0 0 18px 48px;counter-increment:sp}
+.sp-flow li::before{content:counter(sp);position:absolute;left:0;top:0;width:32px;height:32px;border-radius:50%;display:grid;place-items:center;background:var(--blue);color:var(--ground);font-weight:700;font-size:14px}
+.sp-flow li::after{content:"";position:absolute;left:15px;top:36px;bottom:4px;width:2px;background:var(--line)}
+.sp-flow li:last-child{padding-bottom:0}.sp-flow li:last-child::after{display:none}
+.sp-flow span{color:var(--muted);font-size:15px}
+.sp-balance{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.sp-helps,.sp-hurts{padding:4px 0 4px 18px;border-left:4px solid var(--sp-help);min-width:0}
+.sp-hurts{border-left-color:var(--sp-hurt)}
+.sp-helps>h3,.sp-hurts>h3{margin:0 0 10px;font-size:17px}
+.sp-helps>h3{color:var(--sp-help)}.sp-hurts>h3{color:var(--sp-hurt)}
+.sp-helps h4,.sp-hurts h4{margin:14px 0 4px;font-size:15px}.sp-helps p,.sp-hurts p{margin:0;color:var(--muted);font-size:15px}
+.sp-more{border-top:1px solid var(--line);padding:2px 0}.sp-more:last-of-type{border-bottom:1px solid var(--line)}
+.sp-more>summary{cursor:pointer;padding:14px 4px;font-weight:600;min-height:44px}
+.sp-blocks{display:grid;gap:16px;padding:2px 4px 18px}
+.sp-blocks h4{margin:0 0 4px;font-size:15px}.sp-blocks p{margin:0 0 6px;font-size:15px}
+.sp-how{color:var(--muted)}
+.sp-feedback{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:18px}.sp-feedback>span{font-weight:600;margin-right:6px}
+@media(max-width:900px){.sp-grid{grid-template-columns:repeat(2,minmax(0,1fr));grid-auto-rows:150px}.sp-tile-lead{grid-row:span 2}.sp-tile-wide{grid-column:span 2}.sp-quick,.sp-balance{grid-template-columns:minmax(0,1fr)}.sp-section{padding:20px 16px}}
+@media(prefers-reduced-motion:reduce){.sp-tile img{transition:none}}

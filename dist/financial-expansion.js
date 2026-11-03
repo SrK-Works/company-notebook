@@ -141,6 +141,30 @@ Object.assign(window.COMPANY_FINANCIALS, {
     "revenueTotalLabel": "Gross segment revenue before eliminations",
     "profitTotalLabel": "Segment earnings before central adjustments"
   },
+  "delhivery": {
+    "period": "FY 2025–26 · year ended 31 March 2026",
+    "basis": "Consolidated",
+    "unit": "₹ crore",
+    "sourceLabel": "Audited annual financial statements",
+    "checked": "3 November 2026",
+    "coverage": "Whole-group totals · one reported business segment",
+    "profitMetric": "Profit after tax",
+    "definition": "Profit for the year after all expenses, exceptional items and tax, including a tax credit and the share of an associate’s result. It is not operating profit or cash flow.",
+    "rows": [
+      {
+        "name": "Delhivery · whole group",
+        "revenue": 10508.31,
+        "profit": 152.54
+      }
+    ],
+    "source": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+    "location": "Annual report 2025–26, consolidated statement of profit and loss (year ended 31 March 2026 column) and Management Discussion and Analysis, revenue by service line",
+    "notes": "Source figures are in ₹ million and were divided by 10. Revenue is revenue from contracts with customers and excludes other income of ₹358.65 crore. Profit is for the year, including a tax credit of ₹12.12 crore, and after exceptional items of ₹25.86 crore: a ₹5.00 crore fair-value loss on an investment and ₹20.86 crore for the impact of the Labour Codes (note 28). Delhivery reports its service lines as one business segment, so it does not disclose profit for Express Parcel, Part Truckload or any other service.",
+    "insight": "Delhivery’s group earned a small profit on a large amount of fees collected, because most of each fee is spent on moving the goods. These totals cannot show how much profit comes from parcels, freight or warehousing separately.",
+    "status": "totals",
+    "revenueTotal": 10508.31,
+    "profitTotal": 152.54
+  },
   "dr-reddys": {
     "period": "FY 2025–26 · year ended 31 March 2026",
     "basis": "Consolidated · IFRS as issued by the IASB",

@@ -14,7 +14,7 @@
  }).join('');
  for(const [id,l]of Object.entries(lessons)){
   const c=window.COMPANIES.find(c=>c.id===id);if(!c)throw new Error('Unknown company lesson: '+id);
-  Object.assign(c,{summary:l.summary,description:l.description,money:l.money,watch:l.watch.map(([q,why])=>[q,why]),risks:l.risks,update:l.context,question:l.quiz[0],answer:l.quiz[1]});
+  Object.assign(c,{summary:l.summary,description:l.description,money:l.money,watch:l.watch.map(([q,why])=>[q,why]),risks:l.risks,update:l.context,question:l.quiz?.[0],answer:l.quiz?.[1]});
   c.lessonChecked=l.checked;
   if(l.products)c.products=l.products;
   if(l.productNote)c.productNote=l.productNote;

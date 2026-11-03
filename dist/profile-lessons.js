@@ -589,6 +589,265 @@ window.COMPANY_LESSONS = {
     ],
     "checked": "31 October 2026"
   },
+  "delhivery": {
+    "layout": "short",
+    "summary": "Delhivery collects parcels and freight from online shops, brands and other businesses, moves them between cities by truck, and delivers them to buyers’ doors. It also runs warehouses and books whole trucks.",
+    "description": "A parcel is a box that someone has ordered or sent. Delhivery picks that box up from the sender, sorts it at a hub, moves it by truck between cities and hands it to the person receiving it. It does the same for business freight, whether that is a small load or a whole truck, and it runs warehouses that store goods for businesses and send them out as orders arrive. Delhivery says it reaches over 18,800 pin codes (postal area codes), about 97% of the places in India where addresses can be delivered to.",
+    "quick": [
+      {
+        "title": "What it does",
+        "text": "Delhivery collects parcels and freight from businesses, moves them between cities through sorting hubs and trucks, and delivers them to people’s doors or to other businesses."
+      },
+      {
+        "title": "Who pays",
+        "text": "The sender pays, not the person receiving the parcel. Senders are online shops, brands that sell online, small businesses, factories and ordinary people. The fee depends on what is moved."
+      },
+      {
+        "title": "How it earns",
+        "text": "It charges fees for moving each parcel or load, and for storing and packing goods in its warehouses. Most of each fee is spent again on trucks, drivers and sorting."
+      },
+      {
+        "title": "What it spends on",
+        "text": "Long-distance trucking, hired vehicles, the people who sort and deliver, and warehouse rent. After these costs only a small slice of the fees is left as profit."
+      }
+    ],
+    "money": "Delhivery earns fees from the sender for each parcel or load it moves, and for storing and packing goods in its warehouses. Most of each fee goes straight back out: long-distance trucking, vehicles it rents, the people who sort and deliver, and rent for buildings. What is left after all costs is profit. A sender’s payment is revenue, not profit, and a bill sent is not the same as cash received.",
+    "customers": "The customer is the sender, not the person receiving the parcel. Senders include online marketplaces, brands that sell directly to shoppers online (D2C, direct-to-consumer), small and medium businesses (SMEs), factories and ordinary people sending a parcel to each other (C2C, consumer-to-consumer). Delhivery counted 59,704 active customers in the quarter ended 30 September 2026.",
+    "drivers": "How many parcels and loads move through the same network, the fees charged compared with fuel and wage costs, and how quickly customers pay their bills.",
+    "groups": [
+      {
+        "title": "Express Parcel",
+        "examples": "A phone ordered online, a clothing return, a cash-on-delivery order or a parcel sent between two people.",
+        "explanation": "Door-to-door delivery of parcels, usually under 40 kilograms, including taking returns back to the seller and handling cash paid at the door. It is Delhivery’s largest service, about 64% of its revenue in the year to March 2026."
+      },
+      {
+        "title": "Part Truckload (PTL)",
+        "examples": "Factory parts, spare parts or stock for shops that weigh more than a parcel but do not fill a truck.",
+        "explanation": "Delhivery gathers loads from several senders, packs them into one truck at a hub and splits them up again near the destination. Each sender pays only for its own share. It runs on the same hubs and trucks as parcels."
+      },
+      {
+        "title": "Supply Chain Services",
+        "examples": "Storing a brand’s goods near its buyers, then packing and sending each order.",
+        "explanation": "Delhivery runs 99 fulfilment centres, which are warehouses where goods are stored, picked, packed and sent. Some are shared by several customers and some are used by one customer."
+      },
+      {
+        "title": "Full Truckload (FTL)",
+        "examples": "One truck booked to carry one business’s goods from one place to another.",
+        "explanation": "Delhivery connects businesses that need a truck with truck owners through an online marketplace it calls Orion. This means it does not have to buy the trucks itself, which is what “asset-light” means."
+      },
+      {
+        "title": "Local and International",
+        "examples": "A same-city delivery arranged on demand, or an export parcel sent from India to the US, UK or China.",
+        "explanation": "Two newer services. Delhivery Local runs in 8 Indian cities. International sends parcels and freight abroad. Both are small compared with Express Parcel and Part Truckload."
+      }
+    ],
+    "basics": [
+      {
+        "title": "What is a pin code, and why does it matter here?",
+        "text": "A pin code is the six-digit postal area code on an Indian address. India Post has about 19,500 of them. Delhivery says it delivered at least one shipment to 18,799 of them in the quarter ended 30 September 2026, so its network reaches almost every postal area."
+      },
+      {
+        "title": "What are the first mile, line haul and last mile?",
+        "text": "The first mile is collecting a parcel from the sender. Line haul is the long-distance leg, moving parcels by truck between hubs. The last mile is the final trip to the buyer’s door. Delhivery’s biggest cost group includes line haul."
+      },
+      {
+        "title": "What does asset-light mean?",
+        "text": "An asset-light business owns few of the machines or vehicles it uses and rents or arranges them instead. This lets it grow without paying for every truck up front, but it still pays rent and hire charges every time it uses them."
+      },
+      {
+        "title": "What does EBITDA (a profit measure) mean?",
+        "text": "EBITDA is profit from running the business before depreciation (the yearly cost of wearing out equipment), interest and tax. Delhivery also reports Adjusted EBITDA, which leaves out the one-time costs of folding in a company it bought and the cost of employee share options, and takes off the rent it actually paid on leased buildings."
+      }
+    ],
+    "steps": [
+      {
+        "title": "A business hands over its parcels",
+        "text": "An online seller, a brand or another business books Delhivery to move its goods. A delivery person or truck collects them from the seller’s shop or warehouse. This is the first mile."
+      },
+      {
+        "title": "Parcels are sorted at hubs",
+        "text": "Each parcel is scanned and sorted by where it is going, by machines and by staff. Delhivery says it runs 51 automated sort centres, where sorting machines do much of the work."
+      },
+      {
+        "title": "Trucks carry them between cities",
+        "text": "Sorted parcels and freight ride in trucks from hub to hub. This is line haul. Many of the vehicles Delhivery uses are rented rather than owned."
+      },
+      {
+        "title": "A delivery partner brings it to the door",
+        "text": "Riders and drivers, many of them partner agents who are not Delhivery employees, make the last trip. For cash-on-delivery orders the buyer pays in cash at the door, and Delhivery handles that money."
+      },
+      {
+        "title": "Delhivery bills the sender and collects the money",
+        "text": "Delhivery bills the sender, not the buyer, and the sender pays under agreed terms. Revenue (the bill), profit (what is left after costs) and cash received (money in the bank) are three different things. On its own measure, Delhivery’s gap between collecting from customers and paying suppliers was 5 days in September 2026, down from 11 days in March 2026."
+      }
+    ],
+    "helps": [
+      {
+        "title": "More parcels are moving through the network",
+        "text": "Delhivery carried 40% more express parcels in the year to March 2026 than a year earlier, and 32% more in the quarter to 30 September 2026. Part of this came from buying Ecom Express. More parcels through the same hubs and trucks can lower the cost of each one."
+      },
+      {
+        "title": "Parcels and freight share one network",
+        "text": "Part Truckload runs on the same hubs, trucks and sorting machinery as Express Parcel. A network that is well used spreads its fixed costs over more shipments, which Delhivery lists as a reason its operating profit grew."
+      },
+      {
+        "title": "It owes almost nothing and has cash",
+        "text": "At March 2026 Delhivery had almost no borrowings, and its annual report says it paid for its investment in equipment from its own cash. Having cash gives it room to keep investing, but cash can also be spent on projects that do not pay off."
+      }
+    ],
+    "hurts": [
+      {
+        "title": "Very little of each fee becomes profit",
+        "text": "In the year to March 2026, profit after tax was about 1.4% of total income. A small rise in costs, or a small fall in fees, can remove most of it."
+      },
+      {
+        "title": "Fuel and wages push costs up first",
+        "text": "Delhivery says rising fuel prices, difficulty finding workers and minimum wage increases raised its costs. It then raises its fees through price revisions, which take time to agree with customers."
+      },
+      {
+        "title": "Buying a rival added costs",
+        "text": "After buying Ecom Express in July 2025, Delhivery paid to shut duplicate buildings, move equipment and let go of staff. It says that without these one-time costs its profit after tax for the year would have been more than double."
+      },
+      {
+        "title": "New services are still losing money",
+        "text": "Delhivery Local, Delhivery Rapid and its financial services business together lost money at the adjusted EBITDA level in every quarter shown in its latest presentation. They may take time to grow, or may not."
+      }
+    ],
+    "specifics": [
+      {
+        "title": "One network serves parcels and freight",
+        "text": "Express Parcel is about 64% of revenue and Part Truckload about 21%. Because they share hubs, trucks and sorters, a busy parcel season also fills the network for freight, and a quiet one leaves both under-used."
+      },
+      {
+        "title": "Two busy seasons shape the year",
+        "text": "Delhivery says online-shopping volumes peak in October to December and Part Truckload volumes peak in January to March. It builds capacity in the first half of the year ahead of those peaks, so it spends before the busy months pay it back."
+      },
+      {
+        "title": "Fuel costs are passed on with a delay",
+        "text": "Delhivery uses fuel-linked price increases, which raised its fees after diesel prices rose in April to June 2026. Costs rise first and fees follow. Delhivery says this inflation is one reason its supply chain profit dipped in that quarter."
+      },
+      {
+        "title": "It bought a competitor in 2025",
+        "text": "Delhivery completed buying control of Ecom Express on 18 July 2025. Its annual report calls Ecom Express the third-largest independent express parcel company in India. Delhivery is folding that business into its own network, which is why integration costs appear."
+      },
+      {
+        "title": "Newer services are small and still being built",
+        "text": "Local, Rapid, financial services and International are each a small share of revenue. Delhivery plans to spend on them, and says it expects them to grow, but plans are not results."
+      }
+    ],
+    "watch": [
+      [
+        "Are parcels growing faster than costs?",
+        "Delhivery earns money only if each extra parcel adds more fee than cost.",
+        "Compare growth in express parcel volume and express revenue in each quarterly presentation, then compare both with growth in total costs. In the September 2026 quarter volume grew 32% and express revenue grew 22%."
+      ],
+      [
+        "Is each parcel earning more or less?",
+        "Revenue per parcel shows whether Delhivery is charging enough for the work.",
+        "Divide express revenue by the number of parcels for several quarters in the earnings presentations and see whether it is rising or falling. Read the letter to shareholders to learn how Delhivery explains the change."
+      ],
+      [
+        "Is profit coming from running the network, or from one-off items?",
+        "One-time gains and costs can make a quarter look better or worse than the everyday business.",
+        "Compare reported EBITDA with Adjusted EBITDA in the bridge table of the earnings presentation, and read what is added back or removed. Then compare profit after tax with and without one-time costs."
+      ],
+      [
+        "How much of the extra income is eaten by fuel and wages?",
+        "Fuel and labour are two costs Delhivery cannot control, and its fees move after its costs do.",
+        "Read the letter to shareholders for its comments on fuel and wages, then compare its freight, handling and servicing costs with its revenue over several quarters. Look for months when costs rose before fees did."
+      ],
+      [
+        "Are the new services costing more than they earn?",
+        "Money spent on new services is not available for the main business.",
+        "Find the new initiatives lines in the service line table of each presentation. Compare their revenue with their adjusted EBITDA loss, and check whether the loss per quarter is growing or shrinking."
+      ]
+    ],
+    "risks": [
+      [
+        "Fuel and wage costs rise faster than fees",
+        "Delhivery pays for diesel, drivers and hired vehicles before customers agree to higher fees. In the meantime its already thin profit shrinks."
+      ],
+      [
+        "Profit is a thin slice of income",
+        "Profit after tax was about 1.4% of total income in the year to March 2026. A bad quarter or a lost customer can turn that into a loss."
+      ],
+      [
+        "Delivery partners and labour are hard to keep",
+        "Delhivery relies on partner agents and contract workers for much of its pickups and deliveries. It says labour availability has been an issue and is testing robots to depend less on people."
+      ],
+      [
+        "Busy seasons are hard to plan for",
+        "Delhivery builds hubs and hires vehicles before the October to March peaks. If volume is lower than planned, it still pays for the space and vehicles."
+      ],
+      [
+        "New services and the Ecom Express purchase may not pay off",
+        "Local, Rapid, financial services and International are loss-making today, and moving Ecom Express onto Delhivery’s network has one-time costs that cut profit in FY26."
+      ]
+    ],
+    "context": [
+      "September 2026 quarter: more parcels, profit still small",
+      "On 30 October 2026 Delhivery said it carried 325 million express parcels in the quarter ended 30 September 2026, 32% more than a year earlier. It said its EBITDA tripled compared with a year earlier, but profit after tax was still only 1.3% of its income. This describes one quarter, not a forecast."
+    ],
+    "sources": [
+      [
+        "Delhivery annual report 2025–26",
+        "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf"
+      ],
+      [
+        "Press release for the quarter ended 30 September 2026",
+        "https://www.delhivery.com/uploads/2026/10/PressRelease_Q2FY27.pdf"
+      ],
+      [
+        "Letter to shareholders for the quarter ended 30 September 2026",
+        "https://www.delhivery.com/uploads/2026/10/LetterToShareholders_Q2FY27.pdf"
+      ],
+      [
+        "Earnings presentation for the quarter ended 30 September 2026",
+        "https://www.delhivery.com/uploads/2026/10/EarningsPresentation_Q2FY27.pdf"
+      ]
+    ],
+    "financialNotes": [
+      {
+        "title": "Year ended 31 March 2026: what the audited accounts show",
+        "text": "These are consolidated figures from the audited annual report: Delhivery and its subsidiaries together. Revenue from customers was ₹10,508 crore, split by service as Express Parcel ₹6,687 crore, Part Truckload ₹2,254 crore, Supply Chain Services ₹750 crore, Full Truckload ₹626 crore, cross-border ₹119 crore and others ₹72 crore. Delhivery reports one business segment, so it does not report profit by service. Profit for the year was ₹152.5 crore, after exceptional items of ₹25.9 crore (a loss on an investment and the impact of the Labour Codes) and with a tax credit of ₹12.1 crore. Delhivery calculates that profit would have been about ₹321 crore without the Ecom Express integration costs; that is its own measure."
+      },
+      {
+        "title": "Where the money goes",
+        "text": "The largest cost group, called freight, handling and servicing costs, was ₹7,466 crore, about 71% of revenue. Inside it: line haul ₹2,884 crore, vehicle rental ₹2,464 crore, contractual manpower ₹1,271 crore, rent ₹336 crore and lost-shipment expense ₹170 crore. Employee costs were another ₹1,605 crore. This table sits in the notes to the audited accounts."
+      },
+      {
+        "title": "One quarter is not a year",
+        "text": "For the quarter ended 30 September 2026, unaudited, revenue from services was ₹3,066 crore, reported EBITDA ₹205 crore, Adjusted EBITDA ₹123 crore and profit after tax ₹41 crore. Adjusted EBITDA is lower than reported EBITDA here because it subtracts ₹110 crore of rent actually paid. Cash and investments were ₹4,676 crore. A quarter and a year cover different periods and should not be compared directly."
+      }
+    ],
+    "products": [
+      [
+        "Express Parcel",
+        "Door-to-door parcel delivery"
+      ],
+      [
+        "Part Truckload",
+        "Shared-truck freight for businesses"
+      ],
+      [
+        "Supply Chain Services",
+        "Warehousing, packing and sending goods"
+      ],
+      [
+        "Full Truckload",
+        "A whole truck for one shipper"
+      ],
+      [
+        "Delhivery Local",
+        "On-demand deliveries inside a city"
+      ],
+      [
+        "International",
+        "Parcels and freight to other countries"
+      ]
+    ],
+    "checked": "3 November 2026"
+  },
   "dr-reddys": {
     "summary": "Dr. Reddy’s supplies finished medicines, ingredients for other medicine makers, research and manufacturing services, and consumer-health products.",
     "description": "The company can sell a pack of finished medicine, supply the active ingredient another manufacturer needs, or carry out agreed work for a drug developer. These are different jobs with different buyers. Its new-medicine programmes also involve research that may take time and may not reach sale.",

@@ -1,0 +1,85 @@
+{
+  "order": 42,
+  "company": {
+    "id": "delhivery",
+    "name": "Delhivery",
+    "ticker": "DELHIVERY",
+    "sector": "Industrials & infrastructure",
+    "initial": "D",
+    "color": "#c0263a",
+    "bg": "#fdecee",
+    "tag": "The business behind the parcel at your door",
+    "ownership": "This profile covers Delhivery Limited and its subsidiaries together (consolidated). That includes Ecom Express Limited, a parcel-delivery company Delhivery bought control of on 18 July 2025.",
+    "sources": [
+      [
+        "Delhivery Investor Relations",
+        "https://www.delhivery.com/company/investor-relations"
+      ]
+    ],
+    "productSource": "https://www.delhivery.com/company/investor-relations",
+    "checked": "3 November 2026",
+    "reviewed": "3 November 2026",
+    "aliases": [
+      "Delhivery Limited",
+      "Delhivery Ltd"
+    ]
+  },
+  "offerings": [
+    {
+      "name": "Express Parcel",
+      "category": "Parcels delivered from sender to doorstep",
+      "image": "assets/products/delhivery-express.webp",
+      "url": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "kind": "photo",
+      "alt": "A Delhivery delivery rider on a motorbike carrying a parcel box on a wet street — image from Delhivery’s 2025–26 annual report"
+    },
+    {
+      "name": "Part Truckload",
+      "category": "Business freight too small to fill a truck",
+      "image": "assets/products/delhivery-part-truckload.webp",
+      "url": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "kind": "photo",
+      "alt": "A Delhivery truck being loaded with cardboard boxes outside a warehouse — image from Delhivery’s 2025–26 annual report"
+    },
+    {
+      "name": "Supply Chain Services",
+      "category": "Storing, packing and sending goods for a business",
+      "image": "assets/products/delhivery-warehouse.webp",
+      "url": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "kind": "photo",
+      "alt": "A worker moving boxed goods with a pallet truck inside a warehouse with tall shelves — image from Delhivery’s 2025–26 annual report"
+    },
+    {
+      "name": "Full Truckload",
+      "category": "A whole truck booked for one business",
+      "image": "assets/products/delhivery-full-truckload.webp",
+      "url": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "kind": "photo",
+      "alt": "A Delhivery trailer truck driving on a highway — image from Delhivery’s 2025–26 annual report"
+    },
+    {
+      "name": "Delhivery Local",
+      "category": "Deliveries inside one city",
+      "image": "assets/products/delhivery-local.webp",
+      "url": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "kind": "photo",
+      "alt": "Delhivery mini-trucks and scooters lined up with their drivers — image from Delhivery’s 2025–26 annual report"
+    },
+    {
+      "name": "Parcel sorting hubs",
+      "category": "Where parcels are sorted by destination",
+      "image": "assets/products/delhivery-sorting.webp",
+      "url": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "kind": "photo",
+      "alt": "A large hall with red conveyor belts used to sort parcels — image from Delhivery’s 2025–26 annual report"
+    },
+    {
+      "name": "Reaching remote places",
+      "category": "Delivery beyond big cities",
+      "image": "assets/products/delhivery-remote-delivery.webp",
+      "url": "https://www.delhivery.com/uploads/2026/08/Annual_Report_FY26.pdf",
+      "kind": "photo",
+      "alt": "A delivery person carrying a red parcel bag across a snowy mountain bridge — image from Delhivery’s 2025–26 annual report"
+    }
+  ]
+}
