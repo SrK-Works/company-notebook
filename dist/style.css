@@ -138,3 +138,4 @@ html[data-theme="dark"] .company-overview{background:#121315}
 
 .offering-credit{display:block;font-size:11px;line-height:1.35;color:var(--muted);margin:-4px 0 10px}
 .offering-image.is-wide{padding:0}.offering-image.is-wide img{object-fit:contain}
+.primer-illustration{margin:26px 0;padding:20px 22px;border:1.5px dashed var(--blue);border-radius:12px;min-width:0}.primer-illustration-label{display:inline-block;margin-bottom:8px;font-size:11px;font-weight:650;letter-spacing:1.2px;text-transform:uppercase;color:var(--blue)}.primer-illustration h3{margin:0 0 10px;font-size:19px;line-height:1.4}.primer-illustration p{margin:0 0 10px}.primer-illustration ul{margin:0;padding-left:20px}.primer-illustration li{margin:6px 0}

@@ -196,3 +196,24 @@ Limits: Nestlé India could not be read (website blocked automated requests) and
 ## Lesson template and checker
 
 `content/lesson-template/template.json` defines the one format every company lesson follows: the sections, what each answers for a beginner, size limits and the rules (no money amounts outside `financialNotes`, https sources, a dated check). `node scripts/check-lessons.cjs [company…]` validates lessons against it. All 35 current lessons pass with no errors; the remaining warnings (for example EBITDA, DISCOM or EPC used without a definition) are real beginner-clarity gaps to fix in a separate content review. The same template will drive drafting lessons for new companies.
+
+## Drafting a lesson for a new company
+
+The drafting step turns official sources into a lesson that follows `content/lesson-template/template.json`. A person approves it before it goes live.
+
+1. **Identity first.** The company needs `content/companies/<company>.json` (name, ticker, sector, colours, offering cards).
+2. **See the size, free:** `node scripts/draft-lesson.cjs <company> --source <https link> --source <https link> --dry-run`. It fetches the sources and prints the size of the request. Give at least two sources, a company or exchange document first. A full annual report PDF can be several hundred pages and costs the most; one section of it is cheaper.
+3. **Draft (paid API call):** the same command without `--dry-run`, with `ANTHROPIC_API_KEY` set (see `.env.example`) or after `ant auth login`. It uses `claude-opus-5-5`, asks the API to retry on another model if a request is declined (`--no-fallback` turns that off), and saves `content/drafts/<company>.json` with status `needs-review`. Nothing is read by the site yet.
+4. **Review.** The draft file holds the lesson, the checker result, and an evidence list: each claim with the source link and a quote. Quotes from web pages are checked automatically against the page text; quotes from PDFs are marked "to check by hand". Edit the lesson in the draft if anything is wrong.
+5. **Publish:** `node scripts/publish-draft.cjs <company>` shows the result and changes nothing; add `--approve` to move the lesson into `content/company-lessons/`. It re-runs the checker first and refuses if there are errors. Then run `node scripts/build-company-lessons.cjs` and `node --test tests/`.
+
+**Without an API key (Claude Pro or Claude Code session).** A Claude Pro subscription does not include API access, but a Claude Code session can write the draft instead:
+1. `node scripts/draft-lesson.cjs <company> --dump-sources work/<company> --source <link> --source <link>` saves the exact text the checker will compare against (`work/` is git-ignored). PDFs are saved as files to read by page.
+2. The session reads those files and writes its answer, in the same format the API returns, to a JSON file.
+3. `node scripts/draft-lesson.cjs <company> --answer <that file> --source <link> --source <link>` runs every check and saves `content/drafts/<company>.json` exactly as the API path does, with status `needs-review`. The review gate is the same.
+
+**PDF sources.** The script cannot read PDF text itself, so quotes from a PDF are normally marked "to check by hand". Extract the text with any PDF tool (for example `pdftotext`, or the `pypdf` Python package) and pass it with `--pdf-text <pdf link>=<text file>`; those quotes are then checked automatically like web-page quotes.
+
+**Pages that block automated readers.** If a plain fetch fails or returns almost no text, and `TINYFISH_API_KEY` is set (`.env`), the script retries through TinyFish, whose fetch and search are free on the current account rates. `--no-tinyfish` turns that off. If TinyFish cannot read the page either (for example Nestlé India's site, or pages that build their content with JavaScript), save the page as text or use a different source.
+
+The drafting script needs one package, installed with `npm install`. The site and every other script need none.

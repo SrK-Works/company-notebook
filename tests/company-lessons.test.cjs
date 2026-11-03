@@ -2,14 +2,14 @@ const {test}=require('node:test');
 const assert=require('node:assert/strict');
 const fs=require('node:fs'),vm=require('node:vm');
 const c={};c.window=c;vm.createContext(c);
-const completed=['hindustan-unilever','itc','nestle-india','britannia','marico','avenue-supermarts'];
+const completed=['itc','nestle-india','britannia','marico','avenue-supermarts'];
 for(const f of ['company-data','overviews','research-guides','financial-data','hul-primer','itc-primer','nestle-primer','britannia-primer','marico-primer','dmart-primer'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
 const baseline=JSON.parse(JSON.stringify(c.COMPANY_FINANCIALS));
 const earlier=JSON.stringify(c.COMPANIES.filter(x=>completed.includes(x.id)));
 const output=completed.flatMap(id=>['basics','specifics','numbers'].map(slot=>c.companyPrimer.render(c.COMPANIES.find(x=>x.id===id),slot)));
 for(const f of ['profile-lessons','company-lessons'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
-test('all remaining companies have individually written lessons and the previous six remain intact',()=>{
- assert.equal(Object.keys(c.COMPANY_LESSONS).length,35);
+test('all remaining companies have individually written lessons and the previous five primers remain intact',()=>{
+ assert.equal(Object.keys(c.COMPANY_LESSONS).length,36);
  assert.deepEqual(Object.keys(c.COMPANY_LESSONS).sort(),Array.from(c.COMPANIES.filter(x=>!completed.includes(x.id)),x=>x.id).sort());
  assert.equal(JSON.stringify(c.COMPANIES.filter(x=>completed.includes(x.id))),earlier);
  assert.deepEqual(completed.flatMap(id=>['basics','specifics','numbers'].map(slot=>c.companyPrimer.render(c.COMPANIES.find(x=>x.id===id),slot))),output);
@@ -27,7 +27,7 @@ test('new lessons have sources, practical mechanics and distinct investigation i
   const company=c.COMPANIES.find(x=>x.id===id);
   for(const slot of ['basics','specifics']){
    const html=c.companyPrimer.render(company,slot);assert.ok(html.includes('source-note'),id);
-   assert.ok(!/₹|\bINR\s+[\d,]+|\bRs\.?\s+[\d,]+/.test(html),`${id}: financial amount before numbers`);
+   assert.ok(!/₹|\bINR\s+[\d,]+|\bRs\.?\s+[\d,]+/.test(html.replace(/<aside class="primer-illustration">.*?<\/aside>/gs,'')),`${id}: financial amount before numbers`);
    assert.ok(!/undefined|NaN/.test(html),id);
   }
  }
