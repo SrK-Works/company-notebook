@@ -10,7 +10,7 @@ const finances=JSON.stringify(c.COMPANY_FINANCIALS);
 const previousOutput=['hindustan-unilever','itc'].flatMap(id=>['basics','specifics','numbers'].map(slot=>c.companyPrimer.render(c.COMPANIES.find(x=>x.id===id),slot)));
 vm.runInContext(fs.readFileSync('dist/nestle-primer.js','utf8'),c);
 const company=c.COMPANIES.find(x=>x.id==='nestle-india');
-test('Nestlé extension preserves the other 34 profiles, guides, visuals and earlier walkthroughs',()=>{
+test('Nestlé extension preserves the other profiles, guides, visuals and earlier walkthroughs',()=>{
  assert.equal(JSON.stringify(c.COMPANIES.filter(x=>x.id!==company.id)),untouched);
  assert.equal(JSON.stringify(Object.fromEntries(Object.entries(c.COMPANY_RESEARCH_GUIDES).filter(([id])=>id!==company.id))),guides);
  assert.equal(JSON.stringify(Object.fromEntries(Object.entries(c.PRODUCT_VISUALS).filter(([id])=>id!==company.id))),visuals);
