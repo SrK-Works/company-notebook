@@ -22,7 +22,7 @@
     },
     {
       "title": "Other group companies and investments",
-      "examples": "Examples in the annual review include Tech Mahindra’s computer services, property businesses and logistics activities.",
+      "examples": "Examples in the annual review include Tech Mahindra’s computer services, property development, holiday resorts and a business that stores and transports goods for other companies.",
       "explanation": "These can earn from different jobs, such as helping a business with computer systems or moving goods. A subsidiary is a controlled company; an associate is an investment accounted for differently. A shared group name does not mean every company’s full sales belong to the parent."
     }
   ],
@@ -110,8 +110,8 @@
     ]
   ],
   "context": [
-    "One month’s comparison can mislead",
-    "Mahindra’s 1 October 2026 tractor sales release reports fewer tractors sold in India in September 2026 than in September 2025. The company says this was mainly because the festival season, when many buyers make purchases, began in October this year but in September last year, and because September 2025 had been helped by a cut in GST (Goods and Services Tax, a tax added to the price of goods). Tractor sales for the year so far were still higher than a year earlier. Compare longer periods and read the company’s explanation before treating one month’s fall as weaker farm demand. These are sales quantities, not profit."
+    "November 2026: cars grew, tractors dipped for a season",
+    "Mahindra’s 5 November 2026 results for July–September 2026 show group profit up about a quarter from a year earlier. The vehicle business grew strongly, while tractor sales and farm profit fell. The company says the main reason for the farm fall was timing: the festival season, when many farmers buy, began in October this year but in September last year. Its 1 October 2026 sales release had already shown the same pattern for September. Compare longer periods and read the company’s explanation before treating one quarter’s fall as weaker farm demand."
   ],
   "sources": [
     [
@@ -125,6 +125,14 @@
     [
       "September 2026 vehicle and tractor sales releases · 1 October 2026",
       "https://www.mahindra.com/sites/default/files/2026-10/SEIntimationOctober2026PR.pdf"
+    ],
+    [
+      "July–September 2026 results release · 5 November 2026",
+      "https://www.mahindra.com/news-room/press-release/en/m-and-m-results-q2-F27"
+    ],
+    [
+      "FY 2025–26 integrated annual report PDF (risks and outlook)",
+      "https://www.mahindra.com/sites/default/files/2026-07/Annual%20Report_SE_%20signed.pdf"
     ]
   ],
   "financialNotes": [
@@ -137,16 +145,16 @@
       "text": "Lending has financing costs within its own business economics. Read the remaining group-level finance costs and unallocated items in the reconciliation rather than subtracting the same cost twice."
     }
   ],
-  "checked": "31 October 2026",
+  "checked": "11 November 2026",
   "stepsTitle": "From the factory to a vehicle at work.",
   "quick": [
     {
       "title": "What it does",
-      "text": "Mahindra makes SUVs, pickup trucks and tractors. The group also runs a lending business and other companies that sell their own products and services."
+      "text": "Mahindra builds SUVs, pickup trucks and tractors in its own factories. The wider group also lends money to vehicle buyers and owns other companies, such as Tech Mahindra."
     },
     {
       "title": "Who pays",
-      "text": "Car buyers, farmers, businesses that use work vehicles, dealers, and borrowers of the finance business. Other group companies have their own customers."
+      "text": "Car buyers, farmers and businesses that use work vehicles, usually through dealers, who buy the vehicles from Mahindra. Borrowers pay interest to the group’s lending company."
     },
     {
       "title": "How it earns",
@@ -160,33 +168,33 @@
   "helps": [
     {
       "title": "Different kinds of buyer",
-      "text": "Families buying SUVs, farmers buying tractors and businesses buying pickups face different pressures, so all of them need not cut spending at once."
+      "text": "Families buying SUVs, farmers buying tractors and businesses buying pickups face different pressures, so they need not all cut spending at once. In July–September 2026, for example, vehicle sales grew while tractor sales fell."
+    },
+    {
+      "title": "Leading positions",
+      "text": "Mahindra sells more tractors than any other company in India and has the largest share of SUV sales by value, its results say."
     },
     {
       "title": "Its own finance business",
-      "text": "Buyers’ access to loans affects vehicle demand. The group runs a lending business that serves borrowers and earns interest, though it must also cover funding costs and missed repayments."
-    },
-    {
-      "title": "Old tractors need replacing",
-      "text": "Tractor demand depends on crop earnings and also on farmers replacing old equipment."
+      "text": "Mahindra’s annual report says a large share of vehicle purchases are paid for with loans. Its group company Mahindra Finance lends to vehicle and rural buyers, which helps those buyers get credit."
     }
   ],
   "hurts": [
     {
-      "title": "Buyers cut back",
-      "text": "Families, farmers and work-vehicle operators can each cut spending for different reasons, such as weaker crop earnings or incomes."
+      "title": "Tractor demand follows the rains",
+      "text": "Mahindra’s FY 2025–26 annual report says tractor demand and rural spending are linked to the monsoon. A weak rainy season lowers farm incomes, so farmers may delay buying a tractor, though the report says these swings have become smaller."
     },
     {
-      "title": "Bookings may not turn into sales",
-      "text": "A popular launch still needs enough production and reliable products. Buyers can cancel while waiting, and faults bring repair costs."
+      "title": "Dearer loans slow sales",
+      "text": "Because many vehicles are bought on credit, the annual report says affordable loans are key to demand. When interest rates rise or lenders become stricter, fewer buyers can afford a vehicle."
+    },
+    {
+      "title": "Raw-material and currency swings",
+      "text": "The annual report says sharp moves in the prices of steel, aluminium, oil-based materials and currencies can squeeze its margins, because vehicle and tractor prices cannot always be raised as quickly."
     },
     {
       "title": "Borrowers fail to repay",
-      "text": "Late or missing loan payments can reduce the finance business’s earnings and cash."
-    },
-    {
-      "title": "New businesses keep using cash",
-      "text": "Expansion and acquisitions can need funding before enough customers or earnings arrive."
+      "text": "Mahindra Finance lends to many rural and small-business borrowers. When their incomes fall, more loans go unpaid, which reduces the finance business’s earnings and cash."
     }
   ]
 }

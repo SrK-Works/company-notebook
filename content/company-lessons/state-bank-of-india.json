@@ -1,6 +1,6 @@
 {
   "summary": "State Bank of India helps households save, make payments and borrow, and lends to farmers, small businesses and large companies.",
-  "description": "SBI operates accounts, branches and digital services such as YONO. A saver can receive income and pay bills; a farmer can borrow for a crop cycle; a business can finance stock or a larger project. SBI must assess those borrowers, collect repayments and meet its own payment obligations.",
+  "description": "State Bank of India (SBI) runs bank accounts, branches, cash machines and a mobile banking app (YONO). A saver can receive income and pay bills; a farmer can borrow for a crop cycle; a business can finance stock or a larger project. SBI must assess those borrowers, collect repayments and meet its own payment obligations.",
   "money": "SBI earns interest on loans and investments and fees for relevant services. It pays interest on deposits and other borrowing, pays staff and technology costs, and makes provisions: charges or allowances for possible loan losses. Money deposited by a customer is owed back under the account terms, not earned as revenue.",
   "customers": "Households, farmers, small businesses, large companies and government-related customers use different accounts, loans and payment services. Borrowers pay interest; customers may pay service fees. Depositors can instead receive interest from SBI.",
   "drivers": "What funding costs, whether borrowers repay, the interest earned on loans and investments, service fees, running costs and the financial cushions available for losses and withdrawals.",
@@ -114,8 +114,8 @@
     ]
   ],
   "context": [
-    "Loans grew faster than deposits",
-    "SBI’s 7 August 2026 release for April–June 2026 reports loans growing roughly twice as fast as deposits compared with a year earlier. When lending rises by more than deposits, the difference has to come from other money, such as funds the bank already holds or borrowing. SBI’s list of exchange filings for the following months records the raising of senior unsecured bonds in July and August 2026. A bond is money borrowed from investors that must be repaid with interest; unsecured means no specific asset is pledged against it. Compare what each funding source costs with what new loans earn, and remember that a loan still has to be repaid over time before lending growth becomes a successful result."
+    "November 2026: loans still growing faster than deposits",
+    "SBI’s 3 November 2026 release for July–September 2026 reports loans up about 18 per cent and deposits up about 12 per cent compared with a year earlier, a smaller gap than in April–June. Most of the new deposits were fixed-term deposits, which cost the bank more interest than current and savings accounts. SBI’s exchange filings also record bonds raised in July and August 2026: money borrowed from investors that must be repaid with interest. Compare what each funding source costs with what new loans earn, and remember that a loan still has to be repaid over time before lending growth becomes a successful result."
   ],
   "sources": [
     [
@@ -137,6 +137,10 @@
     [
       "Exchange-filing list including bond raising · July–October 2026",
       "https://sbi.bank.in/web/corporate-governance/2nd-quarter-2026-27-"
+    ],
+    [
+      "July–September 2026 results press release · 3 November 2026 (NSE filing)",
+      "https://nsearchives.nseindia.com/corporate/SBIN_03112026135813_PressRelease.pdf"
     ]
   ],
   "financialNotes": [
@@ -145,20 +149,20 @@
       "text": "Use the consolidated annual column and its owners’ profit definition, including the adjustments for associates and minority shareholders. Interest earned, total income and net interest income are different measures. Deposit and loan balances are not product sales, and standalone-bank ratios should not be combined with group profit."
     }
   ],
-  "checked": "31 October 2026",
+  "checked": "11 November 2026",
   "stepsTitle": "From a deposit to a repaid loan.",
   "quick": [
     {
       "title": "What it does",
-      "text": "State Bank of India helps households save, make payments and borrow, and lends to farmers, small businesses and large companies."
+      "text": "State Bank of India takes deposits from savers, handles their payments, and lends that money to households, farmers, small businesses and large companies."
     },
     {
       "title": "Who pays",
-      "text": "Borrowers pay interest, and some services carry fees. Depositors are customers SBI pays interest to."
+      "text": "Borrowers pay interest on their loans, and customers pay fees for some services. Savers are the other way round: SBI pays them interest on their deposits."
     },
     {
       "title": "How it earns",
-      "text": "Mostly from the gap between interest earned on loans and investments and interest paid on deposits and borrowing, plus service fees."
+      "text": "Mostly from the gap between the interest it charges borrowers and the interest it pays savers, plus fees for services."
     },
     {
       "title": "What it spends on",
@@ -168,15 +172,15 @@
   "helps": [
     {
       "title": "A very wide range of customers",
-      "text": "Households, farmers, small businesses, large companies and government-related customers all use SBI."
+      "text": "SBI’s results split its loans between farmers, small businesses, households and large companies, and in July–September 2026 each group’s loans grew compared with a year earlier."
     },
     {
       "title": "A large network",
-      "text": "Branches, people and digital systems such as YONO let it reach customers across the country, though they also cost money."
+      "text": "SBI’s FY 2025–26 annual report counts more than 23,000 branches and about 64,000 cash machines, and more than 60 per cent of new savings accounts were opened through YONO in April–June 2026. The network also costs money to run."
     },
     {
       "title": "Different loans, different risks",
-      "text": "A delayed harvest, a lost job and an unfinished factory affect different borrowers, so lending to many kinds spreads the risk."
+      "text": "A failed harvest, a lost job and an unfinished factory hit different borrowers, so lending to farmers, households, small firms and large companies spreads the risk. SBI’s annual report credits its diversified loan book for resilience. Its share of bad loans, those more than 90 days overdue, was lower in 2026 than a year earlier."
     }
   ],
   "hurts": [
@@ -186,15 +190,15 @@
     },
     {
       "title": "Funding gets dearer",
-      "text": "Interest on deposits can rise before income from existing loans does."
+      "text": "Current and savings accounts pay savers little interest; fixed-term deposits pay more. When more of SBI’s deposits are fixed-term, as in July–September 2026, it pays more for the money it lends, which can squeeze the gap it earns between loan and deposit rates."
     },
     {
       "title": "Failures affect many customers",
-      "text": "Cyber attacks, fraud, outages or rule breaches can affect a very large number of customers."
+      "text": "SBI’s annual report names cyber threats, disruptions and breaking rules as significant risks of its growing digital services, which serve a very large number of customers."
     },
     {
       "title": "Growth needs more capital",
-      "text": "Lending more needs enough capital, the bank’s cushion against losses, and dependable funding."
+      "text": "Lending more needs enough capital, the bank’s own cushion against losses, and dependable funding."
     }
   ]
 }

@@ -4,6 +4,10 @@
     "id": "maruti-suzuki",
     "name": "Maruti Suzuki India",
     "ticker": "MARUTI",
+    "aliases": [
+      "ARENA",
+      "NEXA"
+    ],
     "sector": "Homes & mobility",
     "initial": "M",
     "color": "#24569a",

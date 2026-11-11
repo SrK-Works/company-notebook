@@ -1,5 +1,5 @@
 {
-  "summary": "The manufacturer behind cars sold through ARENA and NEXA, with parts, servicing-related offerings and exports.",
+  "summary": "Maruti Suzuki makes cars and sells them to dealers who run its ARENA and NEXA showrooms. It also sells spare parts and service-related offerings, and exports cars to other countries.",
   "description": "Maruti Suzuki India designs or develops vehicles, arranges components, builds cars and supplies dealers or export buyers. For example, a household may choose a family car at a dealership. The manufacturer builds and supplies it; the dealer handles the customer sale under its arrangement. Later parts and service needs are related work, but separate purchases.",
   "money": "The company receives payment for vehicles, parts and related goods or services. It pays for components, workers, factories, transport, developing models, advertising and promised repairs. The difference between a car’s showroom price and its material cost is not all manufacturer profit.",
   "customers": "Dealers and export buyers that receive cars from the manufacturer, and people or businesses eventually buying those vehicles. A dealer buying a car and a driver registering it are different stages.",
@@ -111,7 +111,7 @@
   ],
   "context": [
     "Record car sales and lower profit in the same quarter",
-    "Maruti Suzuki’s October 2026 results release for July–September 2026 reports its highest-ever quarterly vehicle sales and sales value, while net profit was lower than a year earlier. The company gives two reasons: higher prices for raw materials such as metals, which it links to the West Asia conflict, and mark-to-market losses on its invested spare cash—a fall in the recorded value of those investments, separate from selling cars. It also says demand outpaced supply, leaving low dealer stock and many pending bookings. A booking is an order not yet delivered and can still be cancelled. More cars sold does not automatically mean more profit."
+    "Maruti Suzuki’s October 2026 results release for July–September 2026 reports its highest-ever quarterly vehicle sales and sales value, while net profit was lower than a year earlier. The company gives two reasons: higher prices for raw materials (commodities), which it links to the West Asia conflict, and mark-to-market losses on its invested spare cash—a fall in the recorded value of those investments, separate from selling cars. It also says demand outpaced supply, leaving low dealer stock and many pending bookings. A booking is an order not yet delivered and can still be cancelled. More cars sold does not automatically mean more profit."
   ],
   "sources": [
     [
@@ -125,6 +125,10 @@
     [
       "July–September 2026 results release · October 2026",
       "https://www.marutisuzuki.com/corporate/media/press-releases/2026/october/maruti-suzuki-india-limited-financial-results-q2-and-h1-fy-2026-27"
+    ],
+    [
+      "FY 2025–26 Annual Integrated Report (outlook and risk list)",
+      "https://www.marutisuzuki.com/content/dam/arena-eds/corporate/pdf/company-reports/2025-2026/MSIL_IR_2025-26_HR_updated.pdf"
     ]
   ],
   "financialNotes": [
@@ -133,20 +137,20 @@
       "text": "The table shows audited consolidated revenue from operations and profit after tax. Revenue includes products, services and other operating revenue, and differs from a standalone net-sales headline. A model’s retail price, bookings or factory capacity cannot be used to invent its manufacturer revenue or profit."
     }
   ],
-  "checked": "31 October 2026",
+  "checked": "11 November 2026",
   "stepsTitle": "From parts to a car in the showroom.",
   "quick": [
     {
       "title": "What it does",
-      "text": "Maruti Suzuki makes cars sold through its ARENA and NEXA showrooms, plus spare parts and service-related offerings, and exports cars to other countries."
+      "text": "Maruti Suzuki builds cars in its factories and sells them through dealers who run its ARENA and NEXA showrooms. It also sells spare parts and exports cars."
     },
     {
       "title": "Who pays",
-      "text": "Dealers and export buyers pay Maruti for cars. People and businesses then buy the cars from dealers. A dealer buying a car and a driver registering it are different stages."
+      "text": "Dealers in India and buyers abroad pay Maruti for the cars. People and businesses then buy the cars from those dealers, so Maruti is paid when the dealer takes the car, not when a driver buys it."
     },
     {
       "title": "How it earns",
-      "text": "By selling cars, parts and related goods or services. The showroom price minus materials is not all profit for Maruti."
+      "text": "By selling cars, spare parts and related services. The showroom price is not all Maruti’s: the dealer takes a share, and Maruti pays for parts and labour."
     },
     {
       "title": "What it spends on",
@@ -156,33 +160,33 @@
   "helps": [
     {
       "title": "Two showroom networks",
-      "text": "ARENA and NEXA showrooms reach different kinds of car buyer."
+      "text": "Maruti’s cars are sold through two separate chains of dealer showrooms, ARENA and NEXA, which carry different models for different kinds of buyer. Together they reach shoppers from first-time buyers to those wanting larger, pricier cars."
     },
     {
-      "title": "Buyers choosing better-equipped cars",
-      "text": "When more buyers pick larger or better-equipped cars, sales value can rise even without many more cars sold, though extra features also cost more."
+      "title": "Easy car loans",
+      "text": "Most people borrow to buy a car. Maruti’s FY 2025–26 annual report describes its online finance service, which lets buyers compare loans from dozens of banks and lenders, so a buyer can arrange a loan without leaving the purchase."
     },
     {
-      "title": "Exports and parts add to car sales",
-      "text": "Besides selling cars through Indian dealers, Maruti exports cars and sells spare parts and service-related offerings."
+      "title": "Exports add to Indian sales",
+      "text": "Maruti also ships cars to other countries, so it does not depend only on Indian buyers. Its annual report records its highest-ever exports in FY 2025–26."
     }
   ],
   "hurts": [
     {
-      "title": "Buyers postpone a car",
-      "text": "Weaker incomes or dearer car loans can delay a large purchase."
+      "title": "Buyers delay a car",
+      "text": "A car is a large purchase, so people put it off when incomes weaken, prices rise or loans cost more. Maruti’s annual report says affordability problems held back first-time buyers of small cars until a 2025 cut in GST, the tax added to a car’s price, revived demand."
     },
     {
-      "title": "Parts or quality problems",
-      "text": "Component shortages and faults can stop production, force recalls or damage confidence."
+      "title": "Parts can run short",
+      "text": "A car needs thousands of parts from many suppliers. Maruti’s annual report names supply disruption from natural or human-made disasters as a risk; shortages of rare-earth materials in FY 2025–26 showed how one scarce material can disrupt supply."
     },
     {
-      "title": "New technology must find buyers",
-      "text": "Money spent developing new engines, electric systems and factories comes before proof that enough buyers will cover it."
+      "title": "Raw-material prices jump",
+      "text": "The annual report lists sudden, steep rises in commodity (raw-material) prices as a risk to profit, because car prices cannot always be raised as fast."
     },
     {
-      "title": "Costs and rules change",
-      "text": "Materials, currency movements and safety or emissions rules can raise what each car costs to make."
+      "title": "New technology costs money first",
+      "text": "The annual report names the risk of being less cost-competitive in new technologies such as electric cars. Maruti must spend on new engines, batteries and factories before it knows enough buyers will pay for them."
     }
   ]
 }
