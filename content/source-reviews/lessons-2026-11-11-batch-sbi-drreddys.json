@@ -17,7 +17,8 @@
         "Defined SBI and YONO in the description; simplified three quick answers.",
         "helps 'Different loans, different risks' was reasoning, not a sourced statement; replaced with the November release's fall in bad-loan ratio and loan-loss provisions. Network help now cites branch and cash-machine counts and YONO account opening.",
         "hurts on funding and digital failures now cite the fall in the current-and-savings share of deposits and the annual report's IT-risk statement.",
-        "Context moved to the 3 November 2026 release: loans up about 18 per cent, deposits up about 12 per cent, most new deposits fixed-term."
+        "Context moved to the 3 November 2026 release: loans up about 18 per cent, deposits up about 12 per cent, most new deposits fixed-term.",
+        "Revision: restored 'different loans, different risks' as a lasting help, citing the annual report's diversified portfolio, and defined a bad loan as more than 90 days overdue (annual report accounting policy). The funding hurt now says why the deposit mix matters: fixed deposits cost more, squeezing the lending margin."
       ],
       "limits": [
         "The general hurts on borrower shocks and capital needs are left as general mechanisms."
@@ -43,33 +44,33 @@
       "company": "maruti-suzuki",
       "sourcesRead": [
         "Results release October 2026 (July–September 2026)",
-        "Annual integrated report announcement August 2026"
+        "Annual integrated report announcement August 2026",
+        "FY 2025–26 Annual Integrated Report PDF (outlook on affordability, risk list: supply disruption, commodity inflation, cost competitiveness in new technologies; Smart Finance; record exports)"
       ],
       "changes": [
         "Added ARENA and NEXA as brand aliases and rewrote the summary to say what they are.",
         "helps 'Buyers choosing better-equipped cars' was not in the sources; replaced with pending bookings and low dealer stock, and added capacity expansion.",
         "hurts on postponed purchases, parts/quality and rule changes were not in the sources; replaced with commodity costs, mark-to-market investment losses, slightly lower exports and spending on seven planned SUVs and biogas plants.",
-        "Context: 'raw materials such as metals' softened to 'raw materials (commodities)', which is what the release says."
+        "Context: 'raw materials such as metals' softened to 'raw materials (commodities)', which is what the release says.",
+        "Revision: restored 'buyers delay a car' and 'parts can run short' as lasting hurts, sourced from the annual report's outlook and risk list; commodity and new-technology hurts now quote the risk list. Helps now cover the two showroom chains, car-loan access through Maruti's finance service, and exports. The bookings, dealer-stock and mark-to-market points are left to context."
       ],
-      "limits": [
-        "The full annual report PDF was not read; only the announcement page."
-      ]
+      "limits": []
     },
     {
       "company": "mahindra-and-mahindra",
       "sourcesRead": [
         "Auto and farm sales releases 1 October 2026",
-        "Results release 5 November 2026 (new source)"
+        "Results release 5 November 2026 (new source)",
+        "FY 2025–26 integrated annual report PDF (monsoon link to tractor demand, credit-driven vehicle purchases, commodity and currency risk)"
       ],
       "changes": [
         "Removed 'logistics' by describing the goods-transport business; split the long context sentence.",
         "helps 'Old tractors need replacing' was not in the sources; replaced with market leadership in tractors and SUV revenue share.",
         "hurts on bookings and new businesses were not in the sources; replaced with the November release's commodity-cost pressure, Mahindra Finance's seriously overdue loans and the lower margin once electric-SUV costs are included.",
-        "Context moved to the 5 November 2026 results (vehicles up, tractors down for the festival-season shift)."
+        "Context moved to the 5 November 2026 results (vehicles up, tractors down for the festival-season shift).",
+        "Revision: dropped the electric-SUV hurt, which over-read the unexplained 'excluding eSUV CMA' line. Restored 'different kinds of buyer' as a lasting help. Hurts now cover the monsoon, dearer loans, commodity and currency swings and borrower defaults, from the annual report."
       ],
-      "limits": [
-        "The integrated annual report pages were not re-read."
-      ]
+      "limits": []
     },
     {
       "company": "kanohar-electricals",
@@ -77,35 +78,39 @@
         "kanohar.com transformer and home pages",
         "June 2026 quarter results (BSE XBRL)",
         "FY 2025–26 annual report (kanohar.com)",
-        "Results press release 2 November 2026 (new source)"
+        "Results press release 2 November 2026 (new source)",
+        "Red herring prospectus and abridged prospectus, SEBI copies (top-10 customer share, government tenders, working-capital risk, price-variation clauses, retention money, performance guarantees and latent warranties)"
       ],
       "changes": [
         "Defined EPC; removed 'execution' from a risk title.",
         "Broken source link Audited_Financial_Statements_25-26.pdf replaced with the company's current link Audited_Fiancial_Statements_25-26.pdf (the company's own spelling).",
         "helps 'Contracts can pass on metal costs' was not in any source read; replaced with the order book from the November release.",
         "hurts 'Obligations continue after delivery' was not in any source read and was removed; the other hurts now cite the product-mix swing, materials as the largest cost and the rise in stock in the June quarter.",
-        "Context moved to the 2 November 2026 results."
+        "Context moved to the 2 November 2026 results.",
+        "Revision: quick[2] now explains retention money, the part of the payment customers hold back until the equipment works and defects are fixed (prospectus). Restored the 'contracts can pass on metal costs' help, which the prospectus supports (most contracts have price variation; 4 of 35 fixed-price). Restored 'obligations after delivery' (performance guarantees, latent warranties). Added customer concentration (top 10 customers more than 90 per cent of revenue). Removed the traction-transformer statistic."
       ],
       "limits": [
-        "The audited financial statements PDF is a scanned image, so its notes could not be searched.",
-        "The annual report has no risk discussion, so no company-stated risk list was available. The credit-rating rationale link on kanohar.com is broken."
+        "The audited financial statements PDF is a scanned image, so its notes could not be searched. Risks are sourced from the prospectus instead."
       ]
     },
     {
       "company": "dr-reddys",
       "sourcesRead": [
-        "Q2 FY27 results presentation 23 October 2026"
+        "Q2 FY27 results presentation 23 October 2026",
+        "FY 2025–26 Integrated Annual Report (pricing pressure in generics, opportunities in complex products and biosimilars, demand for affordable medicines, tariffs, geopolitics, currency, pipeline risk)"
       ],
       "changes": [
         "Defined IFRS and PSAI in financialNotes.",
         "helps 'Buying products adds customers' was not in the source; replaced with the quarter's biosimilar and semaglutide approvals and the double-digit base-business growth.",
         "hurts now cite the lenalidomide decline, the out-of-specification semaglutide batches, the two US FDA Form 483 inspections, and slower growth in Europe and ingredients.",
         "Context (23 October 2026) kept. News reports mention a 5 November 2026 approval for semaglutide in Brazil, but no official filing was read.",
-        "Broken presentation link (BSE AttachLive, now \"page moved\") replaced with the same file at BSE AttachHis."
+        "Broken presentation link (BSE AttachLive, now \"page moved\") replaced with the same file at BSE AttachHis.",
+        "Revision: restored 'generic prices fall' as the lasting hurt, with lenalidomide as one example. Removed the duplicate base-business help/hurt. Explained biosimilar, rituximab and semaglutide by what they are and treat, and explained Form 483. The Form 483 point now gives the full picture from the presentation: two sites answered and two October 2026 inspections (FTO-11, FTO-9) still to answer. Added a world-events and currency hurt from the annual report."
       ],
       "limits": [
         "The drreddys.com business pages were not re-read."
       ]
     }
-  ]
+  ],
+  "revision": "11 November 2026, after direction review of PR #17: helps and hurts rewritten as lasting explanations sourced from annual-report or offer-document risk, strategy and outlook sections; quarter figures kept only as short examples or in context."
 }

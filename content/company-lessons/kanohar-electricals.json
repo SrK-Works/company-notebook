@@ -163,7 +163,7 @@
     },
     {
       "title": "How it earns",
-      "text": "Customers pay for each piece of equipment or for an agreed construction project, on the payment terms set in the contract."
+      "text": "Customers pay for each piece of equipment or construction project. They often hold back part of the payment, called retention money, until Kanohar has shown the equipment works and fixed any defects."
     },
     {
       "title": "What it spends on",
@@ -173,29 +173,33 @@
   "helps": [
     {
       "title": "Equipment and building work",
-      "text": "Kanohar’s website shows it can supply transformers and also design and build substations and power lines, so it can take on more of a project."
+      "text": "Kanohar can supply transformers and also design and build substations and power lines, so it can take on more of a project."
     },
     {
-      "title": "Different kinds of buyer",
-      "text": "Kanohar says it serves power transmission, railways, renewable energy and power distribution. In April–September 2026 a device that steadies voltage on lines carrying renewable power (the shunt reactor) grew from almost nothing to about a fifth of its revenue."
+      "title": "Contracts can pass on metal costs",
+      "text": "Its offer document says most of its contracts include a price-variation formula, which lets Kanohar charge more if metal prices rise after the price is agreed. Only four of its 35 contracts in March 2026 had a fixed price."
     },
     {
       "title": "Orders already won",
-      "text": "Kanohar’s 2 November 2026 release says it won new orders during the quarter, and that its order book, work won but not yet delivered, is to be delivered over the next 24 to 30 months. It is not revenue until the equipment is delivered."
+      "text": "Kanohar has an order book, work won but not yet delivered, that it expects to deliver over about two to two and a half years. That gives a view of future work, though it is not revenue until the equipment is delivered."
     }
   ],
   "hurts": [
     {
-      "title": "Large orders make results uneven",
-      "text": "Each order is large, so what Kanohar sells can swing between periods. Traction transformers, one type used by railways, made up about 4 per cent of sales in April–September 2025 and none in the same months of 2026."
+      "title": "A few large customers",
+      "text": "Its offer document says its ten largest customers gave more than 90 per cent of revenue in each of the last three years, many of them government-controlled power companies that buy through tenders. Losing one, or losing a tender, can make sales swing."
     },
     {
-      "title": "Materials are the biggest cost",
-      "text": "Its first quarterly results as a listed company show that materials cost far more than staff or any other expense. Dearer metals reduce what is left from an order unless the contract lets Kanohar pass the cost on."
+      "title": "Materials or work cost more",
+      "text": "Materials are its largest cost. Under its few fixed-price contracts, dearer metals cut what is left from an order; supplier problems, failed tests or site delays can do the same."
     },
     {
       "title": "Cash stays tied up",
-      "text": "In April–June 2026 the value of materials and unfinished equipment held by Kanohar rose sharply. Stock that is waiting to be finished and paid for needs funding."
+      "text": "Materials, unfinished equipment, unpaid bills and retention money all need funding before customers pay in full. The offer document names raising enough working capital as a risk."
+    },
+    {
+      "title": "Obligations after delivery",
+      "text": "The offer document says its contracts usually guarantee a transformer’s performance for a period, sometimes with warranties against hidden defects. Repairs, replacements or disputes can add costs after the sale."
     }
   ]
 }

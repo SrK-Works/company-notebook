@@ -115,7 +115,7 @@
   ],
   "context": [
     "When one large product fades, look at the rest",
-    "Lenalidomide is Dr. Reddy’s generic version of the brand-name medicine Revlimid. The company launched it in the US in 2022 with limits on the quantity it could sell. In its 23 October 2026 results presentation, Dr. Reddy’s said total sales for July–September 2026 were slightly lower than a year earlier because lenalidomide sales fell. Sales excluding lenalidomide in North America, which the company calls its base business, grew by a double-digit percentage, meaning 10 percent or more. The same update says some batches of an ingredient called semaglutide did not meet their required quality standard and that the company is working to resolve this. Ask whether the remaining products can replace a fading product’s sales and profit, and whether quality problems delay new ones."
+    "Lenalidomide is Dr. Reddy’s generic version of the brand-name medicine Revlimid. The company launched it in the US in 2022 with limits on the quantity it could sell. In its 23 October 2026 results presentation, Dr. Reddy’s said total sales for July–September 2026 were slightly lower than a year earlier because lenalidomide sales fell. Sales excluding lenalidomide in North America, which the company calls its base business, grew by a double-digit percentage, meaning 10 percent or more. The same update says some batches of semaglutide, the active ingredient of a diabetes and weight-loss medicine, did not meet their required quality standard and that the company is working to resolve this. Ask whether the remaining products can replace a fading product’s sales and profit, and whether quality problems delay new ones."
   ],
   "sources": [
     [
@@ -164,33 +164,33 @@
   "helps": [
     {
       "title": "Several ways to earn",
-      "text": "Its October 2026 results presentation shows sales in North America, Europe, India and other emerging countries, plus ingredients and services sold to other drug makers. Branded medicines, mainly in India and other emerging countries, made up about half of revenue."
+      "text": "Dr. Reddy’s sells medicines in North America, Europe, India and other emerging countries, and sells ingredients and services to other drug makers. Branded medicines, mainly in India and other emerging countries, make up about half of revenue."
     },
     {
-      "title": "New products approved",
-      "text": "In July–September 2026 it won US approval for a near-copy of a biological medicine (a rituximab biosimilar), launched another biosimilar in India and had its generic semaglutide approved in several countries."
+      "title": "Harder-to-copy products",
+      "text": "Its annual report sees growth in complex medicines, such as biosimilars: near-copies of medicines made from living cells, which fewer rivals can make. One example is its rituximab biosimilar, rituximab being a medicine used for some blood cancers, approved in the US in 2026."
     },
     {
-      "title": "The rest of the business is growing",
-      "text": "Sales excluding its fading lenalidomide product grew by double digits from a year earlier in most of its markets, the presentation says."
+      "title": "Demand for cheaper medicines",
+      "text": "The annual report expects growing demand for affordable medicines in rich and emerging countries alike. Health systems that want to save money turn to generics once a brand’s patent ends."
     }
   ],
   "hurts": [
     {
-      "title": "A big generic fades",
-      "text": "Total sales in July–September 2026 were slightly lower than a year earlier because sales of lenalidomide, a large generic cancer medicine in the US, fell."
+      "title": "Generic prices fall",
+      "text": "Once several companies sell the same generic, prices fall; its annual report names pricing pressure in generics, especially in tightly regulated markets such as the US. Lenalidomide, a US cancer medicine, shows this: its falling sales pulled total sales slightly lower in July–September 2026."
     },
     {
-      "title": "Quality problems",
-      "text": "Some batches of its semaglutide ingredient failed their quality standard, and US Food and Drug Administration inspections of two of its Indian sites in July and August 2026 produced written findings (Form 483), which it says it has answered."
+      "title": "Factory inspections",
+      "text": "After inspecting a factory, US Food and Drug Administration (FDA) inspectors hand over a list of problems they saw (a Form 483). By October 2026 Dr. Reddy’s had answered such lists for two sites and had two more to answer. Unresolved problems can delay approvals."
     },
     {
       "title": "Research may not lead to a sale",
-      "text": "It spends a steady share of revenue on research every quarter. Testing, approvals or demand may fail to repay the money spent developing a product."
+      "text": "Its annual report warns that investments in new products may not achieve the expected results. Testing, approvals or demand may fail to repay the money spent developing a product."
     },
     {
-      "title": "Some markets grew slowly",
-      "text": "The presentation says its base business grew by double digits everywhere except Europe and its ingredients business."
+      "title": "World events and currencies",
+      "text": "The annual report names tariff uncertainty, geopolitical disruption to freight, sourcing and energy costs, and currency swings. Most of its sales are outside India, so these can change its costs and what it earns in rupees."
     }
   ]
 }
