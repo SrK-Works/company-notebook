@@ -13,11 +13,11 @@ vm.runInContext('window.testOpeningSentence=openingSentence;window.testBusinessD
 test('every company teaches the business and its risks before the financial tables',()=>{
  for(const c of ctx.COMPANIES){if(ctx.shortProfile.applies(c))continue;ctx.profile(c);const html=ctx.main.innerHTML;const ordered=['offerings','overview','business','products','watch','risks','updates','money','financials','sources'].filter(id=>id!=='business'||!ctx.companyPrimer.skipBusiness(c));let last=-1;
   for(const id of ordered){const positions=[...html.matchAll(new RegExp(`id="${id}"`,'g'))];assert.equal(positions.length,1,`${c.id}: unique ${id}`);assert.ok(positions[0].index>last,`${c.id}: ${id} order`);last=positions[0].index;}
-  if(ctx.companyPrimer.skipBusiness(c)){assert.ok(!html.includes('What does this share represent?'));assert.ok(!html.includes('What you own &amp; how it works'));assert.ok(!html.includes('id="business"'));assert.match(html,/01 \/ PRODUCTS & SERVICES/);assert.match(html,/06 \/ CHECK THE ORIGINAL/);}
+  if(ctx.companyPrimer.skipBusiness(c)){assert.ok(!html.includes('What does this share represent?'));assert.ok(!html.includes('What you own &amp; how it works'));assert.ok(!html.includes('id="business"'));assert.match(html,/01 \/ Products & services/);assert.match(html,/06 \/ Check the original/);}
   assert.equal((html.match(/class="research-hint"/g)||[]).length,c.watch.length,c.id);
   assert.ok(!html.includes('undefined')&&!html.includes('NaN'),c.id);
   assert.ok(html.includes('does not yet provide a verified cash-flow, debt or valuation analysis'),c.id);
-  assert.ok(html.includes('ABOUT 1 MINUTE'),c.id);
+  assert.ok(html.includes('about 1 minute'),c.id);
  }
 });
 test('investigation guidance is complete and the early business explanation does not repeat itself',()=>{

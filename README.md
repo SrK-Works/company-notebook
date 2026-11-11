@@ -199,6 +199,10 @@ Most company pages are long (the HUL page is about 11,000 pixels tall). A lesson
 
 Delhivery's lesson was written from its annual report 2025–26 and its quarter-to-30-September-2026 filings, with 49 quotes checked against the filings when it was drafted. Its photographs are from its own annual report and each link opens that report; image reuse permission has not been reviewed. Its verified financial snapshot is whole-group totals only, because Delhivery reports one business segment (`content/financial-reviews/delhivery.json` and its evidence file).
 
+## Look and feel
+
+The look is deliberately calm: one neutral palette, large Inter Tight headings with Inter body text, borderless white cards with soft shadows, pill-shaped controls and a floating top bar. Every colour is a token at the end of `dist/style.css`; dark mode only redefines those tokens, so a new component gets both modes by using `var(--surface)`, `var(--ink)`, `var(--muted)` and so on rather than fixed colours. Labels are sentence case, not spaced capitals. `tests/design-tokens.test.cjs` fails if a token is used but not defined.
+
 ## Lesson template and checker
 
 `content/lesson-template/template.json` defines the one format every company lesson follows: the sections, what each answers for a beginner, size limits and the rules (no money amounts outside `financialNotes`, https sources, a dated check). `node scripts/check-lessons.cjs [company…]` validates lessons against it. All 35 current lessons pass with no errors; the remaining warnings (for example EBITDA, DISCOM or EPC used without a definition) are real beginner-clarity gaps to fix in a separate content review. The same template will drive drafting lessons for new companies.
