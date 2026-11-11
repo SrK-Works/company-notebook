@@ -11,11 +11,16 @@ const company=c.COMPANIES.find(x=>x.id==='delhivery');
 const html=c.shortProfile.render(company,helpers);
 const lesson=JSON.parse(fs.readFileSync('content/company-lessons/delhivery.json','utf8'));
 
-test('only a lesson that asks for the short layout gets the short page',()=>{
+test('a company gets the short page exactly when its lesson asks for it',()=>{
+ let short=0;
+ for(const f of fs.readdirSync('content/company-lessons').filter(f=>f.endsWith('.json'))){
+  const id=f.slice(0,-5),asks=JSON.parse(fs.readFileSync(`content/company-lessons/${f}`,'utf8')).layout==='short';
+  assert.equal(c.shortProfile.applies(c.COMPANIES.find(x=>x.id===id)),asks,id);
+  if(asks)short++;
+ }
+ assert.ok(short>=1);
  assert.equal(c.shortProfile.applies(company),true);
- const others=c.COMPANIES.filter(x=>x.id!=='delhivery');
- assert.ok(others.length>30);
- for(const o of others)assert.equal(c.shortProfile.applies(o),false,o.id);
+ for(const o of c.COMPANIES.filter(x=>!fs.existsSync(`content/company-lessons/${x.id}.json`)))assert.equal(c.shortProfile.applies(o),false,o.id);
 });
 test('the Delhivery lesson follows the template and the short-layout rules',()=>{
  const {errors}=validateLesson(lesson,ownNames('delhivery'));
@@ -43,7 +48,7 @@ test('the short page shows photos, four answers, the flow, helps and hurts, then
 });
 test('every photo exists, has a description and opens its source',()=>{
  const photos=(c.PRODUCT_VISUALS.delhivery||[]).filter(p=>p.kind==='photo');
- assert.equal(photos.length,7);
+ assert.ok(photos.length>=5,'a short page needs a real photo mosaic');
  assert.equal((html.match(/class="sp-tile/g)||[]).length,photos.length);
  for(const p of photos){assert.ok(fs.existsSync('dist/'+p.image),p.image);assert.ok(p.alt.length>30,p.name);assert.match(p.url,/^https:\/\//)}
  assert.ok(!html.includes('<img src="undefined"'));

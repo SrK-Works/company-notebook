@@ -6,30 +6,36 @@ for(const f of ['company-data','financial-data'])vm.runInContext(fs.readFileSync
 const original=JSON.stringify(c.COMPANY_FINANCIALS);
 const originalIds=Object.keys(c.COMPANY_FINANCIALS);
 for(const f of ['financial-expansion','financials'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
-const addedLater=['ireda','hcg','fredun-pharmaceuticals','milky-mist','hfcl','genus-power'];
-test('the 36 companies with a verified review have snapshots, the original 17 are preserved, and 6 later additions are explicitly pending',()=>{
- assert.equal(c.COMPANIES.length,42);
- assert.equal(Object.keys(c.COMPANY_FINANCIALS).length,36);
- for(const id of addedLater){
-  assert.ok(c.COMPANIES.some(x=>x.id===id),id+': profile exists');
-  assert.equal(c.COMPANY_FINANCIALS[id],undefined,id+': no unverified figures');
-  const html=c.companyFinancials.render(c.COMPANIES.find(x=>x.id===id));
-  assert.ok(html.includes('awaiting verification'),id+': pending state');
-  assert.ok(!html.includes('<table'),id+': no invented table');
- }
+// No company counts or name lists here: adding a company, or verifying one that was pending, must not need a test edit.
+test('every company has either a verified snapshot or an explicit pending state, and the earliest snapshots are unchanged',()=>{
  const preserved=Object.fromEntries(originalIds.map(id=>[id,c.COMPANY_FINANCIALS[id]]));
  assert.equal(JSON.stringify(preserved),original);
- const files=fs.readdirSync('content/financial-reviews').filter(f=>f.endsWith('.json'));
- assert.equal(files.length,19);
- for(const company of c.COMPANIES.filter(x=>!addedLater.includes(x.id))){
-  const record=c.COMPANY_FINANCIALS[company.id];assert.ok(record,company.id);
-  const html=c.companyFinancials.render(company);assert.ok(html.includes('<table'),company.id);
-  assert.ok(!html.includes('awaiting verification'),company.id);
-  if(!originalIds.includes(company.id)){
-   const evidence=fs.readFileSync(`content/financial-reviews/${company.id}.evidence.md`,'utf8');
-   assert.ok(evidence.includes(new URL(record.source).hostname),company.id+': source evidence');
-   assert.ok(record.location&&record.rows.length,company.id+': identifiable source table');
+ const ids=c.COMPANIES.map(x=>x.id);
+ assert.equal(new Set(ids).size,ids.length,'company ids are unique');
+ for(const company of c.COMPANIES){
+  const record=c.COMPANY_FINANCIALS[company.id],html=c.companyFinancials.render(company);
+  if(record){
+   assert.ok(html.includes('<table'),company.id+': verified table');
+   assert.ok(!html.includes('awaiting verification'),company.id);
+   if(!originalIds.includes(company.id)){
+    const evidence=fs.readFileSync(`content/financial-reviews/${company.id}.evidence.md`,'utf8');
+    assert.ok(evidence.includes(new URL(record.source).hostname),company.id+': source evidence');
+    assert.ok(record.location&&record.rows.length,company.id+': identifiable source table');
+   }
+  }else{
+   assert.ok(html.includes('awaiting verification'),company.id+': pending state');
+   assert.ok(!html.includes('<table'),company.id+': no invented table');
   }
+ }
+});
+test('every financial review file belongs to a company and has its evidence note',()=>{
+ const files=fs.readdirSync('content/financial-reviews').filter(f=>f.endsWith('.json'));
+ assert.ok(files.length>0);
+ for(const f of files){
+  const id=f.slice(0,-5);
+  assert.ok(c.COMPANIES.some(x=>x.id===id),id+': no company with this id');
+  assert.ok(fs.existsSync(`content/financial-reviews/${id}.evidence.md`),id+': missing evidence note');
+  assert.ok(c.COMPANY_FINANCIALS[id],id+': not built into the site');
  }
 });
 test('bank tables explain total income without presenting it as product sales',()=>{
