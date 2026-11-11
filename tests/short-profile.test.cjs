@@ -51,7 +51,7 @@ test('every photo exists, has a description and opens its source',()=>{
 test('the deeper material is collapsed, the quiz is gone and nothing is undefined',()=>{
  assert.ok((html.match(/<details class="sp-more">/g)||[]).length>=6);
  assert.ok(!/<details[^>]* open/.test(html));
- assert.ok(!html.includes('A QUICK SELF-CHECK')&&!html.includes('data-quiz'));
+ assert.ok(!html.includes('A quick self-check')&&!html.includes('data-quiz'));
  assert.ok(!html.includes('undefined')&&!html.includes('NaN'));
  assert.ok(html.includes('For learning, not a stock recommendation'));
 });

@@ -199,9 +199,9 @@ Most company pages are long (the HUL page is about 11,000 pixels tall). A lesson
 
 Delhivery's lesson was written from its annual report 2025–26 and its quarter-to-30-September-2026 filings, with 49 quotes checked against the filings (`content/drafts/delhivery.json`). Its photographs are from its own annual report and each link opens that report; image reuse permission has not been reviewed. Its verified financial snapshot is whole-group totals only, because Delhivery reports one business segment (`content/financial-reviews/delhivery.json` and its evidence file).
 
-## Trying dark mode options
+## Look and feel
 
-`dist/dark-themes.css` and `dist/theme-variants.js` hold three dark-mode options to compare: Graphite (cool charcoal, blue accent), Editorial (warm charcoal, serif headings, terracotta accent) and Midnight (deep navy, coral accent, rounder shapes). "Current" is the original dark mode, unchanged. Turn on dark mode, then use the Dark style buttons in the sidebar, or open the site with `?dark=a`, `?dark=b` or `?dark=c`. The choice is remembered on that device. The options share one set of rules and differ only in their colour and size tokens; `tests/dark-themes.test.cjs` fails if an option misses a token. Once one is chosen, it becomes the base dark mode in `style.css` and the others, the picker and the original dark rules are deleted. Navigation and save icons are now inline SVG instead of text symbols, in both modes.
+The look is deliberately calm: one neutral palette, large Inter Tight headings with Inter body text, borderless white cards with soft shadows, pill-shaped controls and a floating top bar. Every colour is a token at the end of `dist/style.css`; dark mode only redefines those tokens, so a new component gets both modes by using `var(--surface)`, `var(--ink)`, `var(--muted)` and so on rather than fixed colours. Labels are sentence case, not spaced capitals. `tests/design-tokens.test.cjs` fails if a token is used but not defined.
 
 ## Lesson template and checker
 

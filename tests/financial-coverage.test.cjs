@@ -14,7 +14,7 @@ test('the 36 companies with a verified review have snapshots, the original 17 ar
   assert.ok(c.COMPANIES.some(x=>x.id===id),id+': profile exists');
   assert.equal(c.COMPANY_FINANCIALS[id],undefined,id+': no unverified figures');
   const html=c.companyFinancials.render(c.COMPANIES.find(x=>x.id===id));
-  assert.ok(html.includes('AWAITING VERIFICATION'),id+': pending state');
+  assert.ok(html.includes('awaiting verification'),id+': pending state');
   assert.ok(!html.includes('<table'),id+': no invented table');
  }
  const preserved=Object.fromEntries(originalIds.map(id=>[id,c.COMPANY_FINANCIALS[id]]));
@@ -24,7 +24,7 @@ test('the 36 companies with a verified review have snapshots, the original 17 ar
  for(const company of c.COMPANIES.filter(x=>!addedLater.includes(x.id))){
   const record=c.COMPANY_FINANCIALS[company.id];assert.ok(record,company.id);
   const html=c.companyFinancials.render(company);assert.ok(html.includes('<table'),company.id);
-  assert.ok(!html.includes('AWAITING VERIFICATION'),company.id);
+  assert.ok(!html.includes('awaiting verification'),company.id);
   if(!originalIds.includes(company.id)){
    const evidence=fs.readFileSync(`content/financial-reviews/${company.id}.evidence.md`,'utf8');
    assert.ok(evidence.includes(new URL(record.source).hostname),company.id+': source evidence');
@@ -40,6 +40,6 @@ test('bank tables explain total income without presenting it as product sales',(
   const html=c.companyFinancials.render({id,name:id});
   assert.ok(html.includes('Total income<br>'),id);
   assert.ok(!html.includes('Revenue is sales before costs.'),id);
-  assert.ok(!html.includes('LARGEST REVENUE'),id+': whole-bank totals cannot rank businesses');
+  assert.ok(!html.includes('Largest revenue'),id+': whole-bank totals cannot rank businesses');
  }
 });
