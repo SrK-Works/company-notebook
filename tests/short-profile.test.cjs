@@ -4,7 +4,7 @@ const fs=require('node:fs');
 const vm=require('node:vm');
 const {validateLesson,ownNames}=require('../scripts/check-lessons.cjs');
 const c={Intl};c.window=c;vm.createContext(c);
-for(const f of ['company-data','overviews','research-guides','financial-data','financial-expansion','financials','profile-lessons','company-lessons','short-profile'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
+for(const f of ['company-data','overviews','research-guides','financial-data','financial-expansion','financials','gallery','profile-lessons','company-lessons','short-profile'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
 const safe=v=>String(v).replace(/[&<>"']/g,x=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[x]));
 const helpers={safe,mono:()=>'<span class="monogram"></span>',saveButton:()=>'<button class="save"></button>',profileSources:co=>co.sources};
 const company=c.COMPANIES.find(x=>x.id==='delhivery');
@@ -29,7 +29,11 @@ test('the Delhivery lesson follows the template and the short-layout rules',()=>
  assert.equal(lesson.quiz,undefined);
 });
 test('a long-layout lesson cannot use the short-layout sections',()=>{
+ // Every published lesson is short now, so make a long one by taking the short sections away.
  const base=JSON.parse(fs.readFileSync('content/company-lessons/tcs.json','utf8'));
+ for(const k of ['layout','stepsTitle','quick','helps','hurts'])delete base[k];
+ base.quiz=['What does a customer pay TCS for?','For agreed technology work done under a contract.'];
+ assert.deepEqual(validateLesson(base,ownNames('tcs')).errors,[]);
  const {errors}=validateLesson({...base,quick:lesson.quick},ownNames('tcs'));
  assert.ok(errors.some(e=>/quick: only a short-layout lesson/.test(e)));
  const missing={...lesson};delete missing.helps;
@@ -70,4 +74,16 @@ test('the page router uses the short page and the script is loaded',()=>{
  assert.ok(app.includes('window.shortProfile?.applies(c)'));
  assert.ok(index.includes('short-profile.js'));
  assert.ok(index.indexOf('short-profile.js')<index.indexOf('app.js?v'));
+});
+test('every company with a lesson gets a complete short page: pictures, answers, flow, balance, figures and sources',()=>{
+ for(const co of c.COMPANIES.filter(x=>c.shortProfile.applies(x))){
+  const page=c.shortProfile.render(co,helpers),id=co.id;
+  assert.ok(page.includes('class="sp-photos"')||page.includes('class="visual-shelf"'),id+': photos or product pictures');
+  let last=-1;
+  for(const s of ['quick','how','balance','deeper','money','sources']){const at=page.indexOf(`id="${s}"`);assert.ok(at>last,`${id}: ${s} in order`);last=at}
+  assert.equal((page.match(/class="sp-card"/g)||[]).length,4,id);
+  assert.ok(!page.includes('undefined')&&!page.includes('NaN')&&!page.includes('[object'),id);
+  assert.ok(!page.includes('From a seller’s shelf')||id==='delhivery',id+': no Delhivery wording on another company');
+  if(co.products?.length)assert.ok(page.includes('id="products"'),id+': full product list for the shelf link');
+ }
 });

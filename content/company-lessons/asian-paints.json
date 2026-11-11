@@ -1,4 +1,5 @@
 {
+  "layout": "short",
   "summary": "Paints for walls, wood and other surfaces, waterproofing products, painting services and home furnishings, alongside industrial and overseas paint businesses.",
   "description": "Asian Paints makes paint and related products and supplies shops or business buyers. For example, a household repainting a bedroom needs paint, surface preparation and someone to apply it. A factory buying a protective coating has a different job to do. The company also offers painting and home-improvement services.",
   "money": "Buyers pay for paint, other products or agreed services. The company pays for ingredients, tins and packaging, factories, transport, advertising and staff. A painting or fitted-home service also needs people to complete the work. Profit depends on the amount left after the relevant costs and tax.",
@@ -113,10 +114,6 @@
     "Price increases can make sales grow faster than litres",
     "Asian Paints’ 29 October 2026 results presentation says its decorative business in India, meaning paints for homes and buildings, sold more paint by volume in July–September 2026. Its sales value grew faster because the company had raised prices after the cost of its ingredients rose sharply earlier in the year. Paint made with ingredients bought at those higher costs was still being sold, so gross margin, the share of sales left after paying for materials, fell. Group profit grew more slowly than sales. The same presentation says the first stage of a new plant at Dahej in Gujarat has started making VAE emulsion, a liquid ingredient used in its paint formulas, which the company would otherwise have to buy. The company expects a stronger cost benefit only after a second stage is running, so a plant start does not yet prove a saving."
   ],
-  "quiz": [
-    "Does selling more litres of paint guarantee more profit?",
-    "No. Selling prices, the ranges bought, ingredient costs, dealer incentives and factory or service costs also change what remains."
-  ],
   "sources": [
     [
       "FY 2025–26 annual review",
@@ -137,5 +134,56 @@
       "text": "The audited group reports one business segment. The table shows revenue from operations and group profit after tax, including non-controlling interests. Decorative paints, industrial ventures, international activities and home décor are not assigned invented separate profits. Check how each venture enters the group accounts before comparing business highlights."
     }
   ],
-  "checked": "31 October 2026"
+  "checked": "31 October 2026",
+  "stepsTitle": "From the factory to a painted wall.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Asian Paints makes paint for walls, wood and other surfaces, plus waterproofing products. It also offers painting services and home furnishings, and runs industrial and overseas paint businesses."
+    },
+    {
+      "title": "Who pays",
+      "text": "Dealers and other shops buy paint to sell on. Households, painters, builders and factories also buy. The shop that buys from Asian Paints is often not the household that uses the paint."
+    },
+    {
+      "title": "How it earns",
+      "text": "It earns mainly by selling paint and related products. Painting and fitted-home services earn money when a job is agreed and done."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Ingredients, tins and packaging, factories, transport, advertising and staff. Services also need people to do the work."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Many kinds of buyer",
+      "text": "Dealers, households, painters, builders and industrial customers all buy from the company. Demand does not rest on one type of customer."
+    },
+    {
+      "title": "Services can turn paint into finished jobs",
+      "text": "Painting and fitted-home services help a customer get a finished wall or kitchen, not just a tin. When jobs are done well, this adds earnings beyond the paint itself."
+    },
+    {
+      "title": "Cheaper ingredients can help",
+      "text": "Many ingredients follow commodity prices. When they fall, costs drop, though the lesson notes the company may pass some of this on as lower prices."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Competitors cut prices",
+      "text": "Discounts and payments to support dealer sales can reduce profit even if more litres are sold."
+    },
+    {
+      "title": "More litres can still bring less money",
+      "text": "If prices fall or buyers choose cheaper ranges, selling more paint need not raise sales value by the same amount."
+    },
+    {
+      "title": "Ingredient or currency costs rise",
+      "text": "Some materials depend on commodity prices or imports, so costs can rise before customer prices change."
+    },
+    {
+      "title": "New factories wait for demand",
+      "text": "A new factory or range still costs money in staff, buildings and equipment while sales grow slowly."
+    }
+  ]
 }

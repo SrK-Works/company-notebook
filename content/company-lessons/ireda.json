@@ -1,4 +1,5 @@
 {
+  "layout": "short",
   "summary": "IREDA is a government-owned lender that gives loans to people building solar, wind, water-power and other clean-energy projects.",
   "description": "A company that wants to build a solar farm must pay for land, panels, cables and workers long before it sells any electricity. IREDA lends that money. The developer repays the loan, with interest, over many years out of the electricity it later sells. IREDA is owned by the Government of India and registered with the Reserve Bank of India as a non-banking financial company (NBFC): a business that gives loans in the way a bank does, but does not open everyday savings accounts for the public. It does not build or run the power plants itself.",
   "money": "IREDA earns interest on the loans it has given, plus smaller fees for arranging them. Its biggest cost is the interest it pays on the money it borrowed in order to lend. It also pays staff and running costs, and it sets aside provisions: money kept aside in its accounts because some loans may not be repaid in full. A loan that is approved but not yet paid out earns no interest.",
@@ -133,10 +134,6 @@
     "September 2026: lending grew faster than profit",
     "IREDA’s 19 October 2026 results release says it paid out more loans and its loan book grew, while its profit after tax was only slightly higher than a year earlier. It also reports a lower share of troubled loans after setting aside money for them than a year before. A lender’s profit can rise more slowly than its lending if new loans have only just begun earning interest, if its own borrowing becomes more expensive, or if more money must be set aside. Treat this as one quarter’s explanation, not a forecast. The full-year figures that will appear at the end of this page cover a different period."
   ],
-  "quiz": [
-    "If IREDA approves a very large loan to a solar developer, does it start earning interest on the full amount straight away?",
-    "No. Approval, called sanction, is a promise to lend. Interest is earned only on the money actually paid out, called disbursement, and still owed. That is why lenders report sanctions and disbursements separately."
-  ],
   "sources": [
     [
       "IREDA background: government ownership, NBFC registration, 1987",
@@ -161,5 +158,56 @@
       "text": "For IREDA, the loan book is the total of loans still owed, not sales. Its main income is interest earned, and its main cost is interest paid. Compare the two, then check the share of troubled loans and the money set aside for them. Verified full-year figures for this profile have not yet been added, so the financial table below is marked as awaiting verification."
     }
   ],
-  "checked": "31 October 2026"
+  "checked": "31 October 2026",
+  "stepsTitle": "From a loan application to repayment.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "IREDA is a government-owned lender. It lends money to companies and government bodies building solar, wind, water-power and other clean-energy projects, and to makers of equipment such as solar panels."
+    },
+    {
+      "title": "Who pays",
+      "text": "Project builders and equipment makers borrow from IREDA and pay it interest and fees. The people who use the electricity pay the project owner, who uses that money to repay IREDA."
+    },
+    {
+      "title": "How it earns",
+      "text": "Interest on the loans it has paid out, plus smaller fees for arranging them. A loan approved but not yet paid out earns nothing."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Interest on the money it borrows in order to lend, which is its biggest cost, plus staff, running costs and money set aside for loans that may not be repaid."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Government links help it borrow",
+      "text": "IREDA’s annual report says its credit rating is closely linked to the Government of India’s. That helps it borrow, though the Government does not cover its losses."
+    },
+    {
+      "title": "Clean-energy projects need loans",
+      "text": "Building solar, wind and other clean-energy plants takes large upfront loans, which is the work IREDA specialises in."
+    },
+    {
+      "title": "Several sources of funding",
+      "text": "It borrows through bonds, banks and overseas lenders, and uses hedging contracts to limit exchange-rate risk on foreign loans."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Borrowers fail to repay",
+      "text": "Delays or weak electricity sales can stop repayments. IREDA recalled loans to the Gensol group after the market regulator, SEBI, issued an interim order about irregularities there, and classed them as fraud."
+    },
+    {
+      "title": "Electricity buyers pay late",
+      "text": "Many projects depend on a power company paying on time. If it pays late, the project may not repay IREDA."
+    },
+    {
+      "title": "Borrowing gets more expensive",
+      "text": "If IREDA pays more to borrow while existing loans earn fixed or slow-changing rates, it earns less on each loan."
+    },
+    {
+      "title": "Newer technologies are less proven",
+      "text": "Hydrogen, storage and other new projects have less history, so it is harder to judge whether they will repay."
+    }
+  ]
 }

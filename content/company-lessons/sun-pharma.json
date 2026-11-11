@@ -1,4 +1,5 @@
 {
+  "layout": "short",
   "summary": "Sun Pharma develops and makes finished medicines, supplies ingredients used to make medicines, and sells selected consumer-health products.",
   "description": "A tablet, cream or injection is a finished medicine. The active ingredient is the substance inside it that produces its intended effect. Sun Pharma works in both: it supplies finished medicines through healthcare sales channels and ingredients to other medicine makers. It also spends on developing new medicines.",
   "money": "Customers pay for medicines, ingredients or work and rights covered by specific agreements. Sun pays for research, testing, ingredients, factories, quality checks, distribution and sales. Developing a medicine can cost money long before permission to sell it is obtained, and some projects do not reach that stage.",
@@ -117,10 +118,6 @@
     "A signed purchase agreement is not yet a combined company",
     "On 27 April 2026, Sun signed an agreement to buy all the shares of another medicine company, Organon & Co., for cash. Sun’s 30 October 2026 results say approvals from most of the required government authorities have been received, a few are still pending, and the two companies continue to operate separately until the deal closes; Sun indicates closing by the January–March 2027 quarter. Meanwhile Sun is already paying advisers, lawyers and lenders for the deal. It reported these costs, together with a US legal settlement, as exceptional items, meaning unusual charges shown separately from regular business. In that quarter, sales grew while reported net profit fell. Keep the signed agreement, the completed purchase and the later combined results as separate stages."
   ],
-  "quiz": [
-    "Does an approved medicine automatically earn back its development costs?",
-    "No. It still needs reliable supply, buyers and a selling price that covers its costs. Approval is an important step, not proof of profitable sales."
-  ],
   "sources": [
     [
       "Official product portfolio",
@@ -145,5 +142,56 @@
       "text": "The audited group reports one Pharmaceuticals segment. The table uses revenue from operations and profit attributable to owners, including reported exceptional items. Product, geographical and therapy sales descriptions can overlap; none establishes a separately audited profit for each medicine or therapy."
     }
   ],
-  "checked": "31 October 2026"
+  "checked": "31 October 2026",
+  "stepsTitle": "From research to a medicine on the shelf.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Sun Pharma develops and makes finished medicines, supplies ingredients used to make medicines, and sells selected consumer-health products."
+    },
+    {
+      "title": "Who pays",
+      "text": "Distributors, pharmacies, hospitals and other medicine makers buy from Sun. Patients use the medicines, and doctors and each country’s rules affect what reaches them."
+    },
+    {
+      "title": "How it earns",
+      "text": "By selling medicines and ingredients, and from work and rights covered by specific agreements."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Research, testing, ingredients, factories, quality checks, distribution and selling. Developing a medicine costs money long before it can be sold."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Several kinds of product",
+      "text": "Finished medicines, ingredients for other makers and consumer-health products sell to different buyers."
+    },
+    {
+      "title": "Products in development",
+      "text": "Its pipeline, the set of products being developed, can add new medicines to sell, though some will fail or sell less than expected."
+    },
+    {
+      "title": "A successful generic can sell well",
+      "text": "A generic is a copy of a medicine whose patent has ended. A successful one can earn well, though it tends to attract rival versions that push prices down."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Competition for important products",
+      "text": "New rival versions, changes in what buyers pay for and the end of product rights can reduce sales."
+    },
+    {
+      "title": "Factory or quality restrictions",
+      "text": "Inspection findings, recalls or corrective work can interrupt supply from a site and add costs."
+    },
+    {
+      "title": "New products disappoint",
+      "text": "Testing can fail, permission can be delayed or demand can be weaker than expected."
+    },
+    {
+      "title": "Legal and partner costs",
+      "text": "Disputes over product rights, product claims and payments promised to partners can add costs."
+    }
+  ]
 }

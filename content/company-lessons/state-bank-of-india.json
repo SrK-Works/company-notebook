@@ -1,4 +1,5 @@
 {
+  "layout": "short",
   "summary": "State Bank of India helps households save, make payments and borrow, and lends to farmers, small businesses and large companies.",
   "description": "SBI operates accounts, branches and digital services such as YONO. A saver can receive income and pay bills; a farmer can borrow for a crop cycle; a business can finance stock or a larger project. SBI must assess those borrowers, collect repayments and meet its own payment obligations.",
   "money": "SBI earns interest on loans and investments and fees for relevant services. It pays interest on deposits and other borrowing, pays staff and technology costs, and makes provisions: charges or allowances for possible loan losses. Money deposited by a customer is owed back under the account terms, not earned as revenue.",
@@ -117,10 +118,6 @@
     "Loans grew faster than deposits",
     "SBI’s 7 August 2026 release for April–June 2026 reports loans growing roughly twice as fast as deposits compared with a year earlier. When lending rises by more than deposits, the difference has to come from other money, such as funds the bank already holds or borrowing. SBI’s list of exchange filings for the following months records the raising of senior unsecured bonds in July and August 2026. A bond is money borrowed from investors that must be repaid with interest; unsecured means no specific asset is pledged against it. Compare what each funding source costs with what new loans earn, and remember that a loan still has to be repaid over time before lending growth becomes a successful result."
   ],
-  "quiz": [
-    "Does a falling bad-loan balance prove borrowers paid back the whole reduction?",
-    "No. Recoveries are one cause, but write-offs, sales and other changes can also reduce the balance. Check how it changed and what cash was collected."
-  ],
   "sources": [
     [
       "SBI corporate and product overview",
@@ -149,5 +146,56 @@
       "text": "Use the consolidated annual column and its owners’ profit definition, including the adjustments for associates and minority shareholders. Interest earned, total income and net interest income are different measures. Deposit and loan balances are not product sales, and standalone-bank ratios should not be combined with group profit."
     }
   ],
-  "checked": "31 October 2026"
+  "checked": "31 October 2026",
+  "stepsTitle": "From a deposit to a repaid loan.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "State Bank of India helps households save, make payments and borrow, and lends to farmers, small businesses and large companies."
+    },
+    {
+      "title": "Who pays",
+      "text": "Borrowers pay interest, and some services carry fees. Depositors are customers SBI pays interest to."
+    },
+    {
+      "title": "How it earns",
+      "text": "Mostly from the gap between interest earned on loans and investments and interest paid on deposits and borrowing, plus service fees."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Interest on deposits, staff and technology, and provisions: money set aside in its accounts for loans that may not be repaid."
+    }
+  ],
+  "helps": [
+    {
+      "title": "A very wide range of customers",
+      "text": "Households, farmers, small businesses, large companies and government-related customers all use SBI."
+    },
+    {
+      "title": "A large network",
+      "text": "Branches, people and digital systems such as YONO let it reach customers across the country, though they also cost money."
+    },
+    {
+      "title": "Different loans, different risks",
+      "text": "A delayed harvest, a lost job and an unfinished factory affect different borrowers, so lending to many kinds spreads the risk."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Borrowers face shocks",
+      "text": "Crop problems, job losses or weaker business demand can slow repayments and increase losses."
+    },
+    {
+      "title": "Funding gets dearer",
+      "text": "Interest on deposits can rise before income from existing loans does."
+    },
+    {
+      "title": "Failures affect many customers",
+      "text": "Cyber attacks, fraud, outages or rule breaches can affect a very large number of customers."
+    },
+    {
+      "title": "Growth needs more capital",
+      "text": "Lending more needs enough capital, the bank’s cushion against losses, and dependable funding."
+    }
+  ]
 }

@@ -1,4 +1,5 @@
 {
+  "layout": "short",
   "summary": "HFCL makes the glass fibre cables that carry internet data, plus telecom equipment and defence electronics.",
   "description": "Phone calls, video, cloud services and AI programs all reach you as pulses of light along hair-thin strands of glass called optical fibre. HFCL makes that fibre, wraps many strands into protected cables, and makes the equipment at the ends of the network, such as Wi-Fi systems, routers and radio links. Its customers are phone companies, very large technology companies that run data centres, governments and armed forces. It also makes defence electronics such as thermal sights and radars, and builds telecom networks to order. Its factories are in Hyderabad, Goa, Chennai and Hosur.",
   "money": "HFCL earns money when customers pay for the cables and equipment it ships, and for network-building work under contract. Its costs are the glass and plastic materials for fibre and cable, factory running costs, engineers and research, and interest on loans. Large orders take months to make and deliver, so HFCL spends before it is paid.",
@@ -138,10 +139,6 @@
     "July 2026: sales more than doubled after a weak year, and exports passed half of sales",
     "HFCL’s 22 July 2026 results release says revenue for April–June 2026 was more than twice that of a year earlier, and exports made up more than half of revenue, compared with about a quarter a year before. A year earlier the company had made a loss and this quarter it made a profit, so the growth percentages look very large. It reported its largest order book yet, and said the proposed aerospace purchase and an ammunition complex were still being developed. These are unaudited quarterly results, not yet fully checked by auditors. The full-year figures at the end of this page cover an earlier period."
   ],
-  "quiz": [
-    "If a company’s order book is several times last year’s revenue, will next year’s revenue be that many times higher?",
-    "No. Orders are delivered over several years, may be delayed or changed, and revenue is counted only when goods are delivered and accepted. The order book shows booked demand, not guaranteed next-year sales."
-  ],
   "sources": [
     [
       "Quarterly results release · 22 July 2026",
@@ -166,5 +163,56 @@
       "text": "Compare revenue with operating profit, then look at cash from operations, bills not yet paid and spending on new factories. Check which year each growth rate is compared with, and how much comes from exports and one-off orders. Verified full-year figures for this profile have not yet been added, so the financial table below is marked as awaiting verification."
     }
   ],
-  "checked": "31 October 2026"
+  "checked": "31 October 2026",
+  "stepsTitle": "From an order to a delivered cable.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "HFCL makes the glass fibre cables that carry internet data, plus telecom equipment and defence electronics."
+    },
+    {
+      "title": "Who pays",
+      "text": "Telecom companies buy cables and equipment. Hyperscalers, the very large technology companies that run huge data centres, buy fibre in bulk. Government agencies and armed forces buy network and defence equipment."
+    },
+    {
+      "title": "How it earns",
+      "text": "When customers pay for the cables and equipment it ships, and for network-building work under contract."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Glass and plastic materials, factory running costs, engineers and research, and interest on loans. Big orders take months to make, so it spends before it is paid."
+    }
+  ],
+  "helps": [
+    {
+      "title": "A long agreement with a global data-centre buyer",
+      "text": "HFCL’s report describes a five-year cable supply agreement with a leading global hyperscaler. Exports rose to more than half of sales in the quarter to June 2026."
+    },
+    {
+      "title": "Its largest-ever order book",
+      "text": "HFCL reported its largest order book ever, several times its previous year’s revenue. That is work won but not yet delivered."
+    },
+    {
+      "title": "Customers in India and abroad",
+      "text": "Telecom firms, data-centre operators and defence buyers in India and overseas give it several sources of orders."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "A few big customers matter a lot",
+      "text": "A small number of large buyers account for much of the growth. Losing or reducing one would have a big effect."
+    },
+    {
+      "title": "Cable prices can fall",
+      "text": "If many makers add capacity, prices can drop and leave less after costs."
+    },
+    {
+      "title": "Expansion may run late",
+      "text": "The ammunition complex is still being set up and an aerospace purchase is only proposed. Neither earns money yet."
+    },
+    {
+      "title": "Currency and trade rules",
+      "text": "With much of its sales abroad, exchange rates and trade rules matter more than before."
+    }
+  ]
 }

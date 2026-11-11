@@ -1,4 +1,5 @@
 {
+  "layout": "short",
   "summary": "NTPC runs power stations that make electricity and sells that electricity to contracted buyers, including companies that supply homes and businesses.",
   "description": "At a coal-fired station, coal is burned to heat water. The steam turns a turbine connected to a generator, which produces electricity. NTPC also has other types of generation, including renewable power. Electricity leaves a station through the wider network of lines before it can reach users.",
   "money": "Buyers pay under the station’s electricity agreement and pricing rules. Depending on the terms, charges can cover keeping the plant ready as well as electricity actually supplied. NTPC pays for fuel where needed, people, repairs, equipment and borrowing. Building a station uses money before it starts earning.",
@@ -117,10 +118,6 @@
     "One Patratu unit moved from testing to regular service in 2026",
     "Patratu Vidyut Utpadan Nigam Limited (PVUNL) is an NTPC subsidiary, meaning a company NTPC controls. On 18 May 2026 NTPC told the stock exchanges that PVUNL’s Unit 2 at Patratu, able to produce 800 megawatts (MW, a measure of how much power it can supply at one moment), had finished its trial run, a test period of running under approved standards, so it was added to the group’s installed capacity. A later disclosure dated 23 June 2026 said the same unit was declared in commercial operation from 25 June 2026, meaning it moved from testing into regular commercial service, the stage from which a unit normally operates and bills under its sales agreement. NTPC therefore reports installed capacity and commercial capacity as two separate totals. Neither disclosure says how much electricity the unit has sold or what it has earned."
   ],
-  "quiz": [
-    "If a station is ready to run, must it be producing at full output?",
-    "No. It may not be called to generate that much. Read readiness, actual output and the payment terms together to understand the effect on earnings."
-  ],
   "sources": [
     [
       "NTPC official business overview",
@@ -149,5 +146,56 @@
       "text": "Read the audited generation and other-business definitions, together with the internal-sales and other-income reconciliation. Capacity and power generation are operating measures, not revenue or profit. The reported segment result does not establish an individual plant’s net return or cash distribution."
     }
   ],
-  "checked": "31 October 2026"
+  "checked": "31 October 2026",
+  "stepsTitle": "From a power station to a paid bill.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "NTPC runs power stations that make electricity and sells it to contracted buyers, including the companies that supply homes and businesses."
+    },
+    {
+      "title": "Who pays",
+      "text": "Electricity distribution companies and other contracted buyers pay NTPC. Households pay their own local supplier, not NTPC."
+    },
+    {
+      "title": "How it earns",
+      "text": "Buyers pay under each station’s agreement and pricing rules. Depending on the terms, charges can cover keeping the plant ready as well as the electricity supplied."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Fuel, people, repairs, equipment and interest on borrowing. Building a station uses money long before it earns."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Charges for being ready",
+      "text": "Under some agreements, buyers pay to keep a plant ready to generate, not only for the electricity actually supplied."
+    },
+    {
+      "title": "Contracted buyers",
+      "text": "Its electricity goes to buyers under agreements and pricing rules that set what they pay."
+    },
+    {
+      "title": "Trading and consultancy too",
+      "text": "NTPC also earns from electricity trading and consultancy, which have their own customers."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Fuel or equipment problems",
+      "text": "Fuel shortages, breakdowns and weather can reduce output or raise costs."
+    },
+    {
+      "title": "Allowed charges disappoint",
+      "text": "Pricing decisions, operating standards or disputed bills can stop it recovering expected costs. A fuel-cost rise is not always repaid straight away."
+    },
+    {
+      "title": "Customers pay late",
+      "text": "Money can stay tied up with electricity buyers while NTPC’s own bills fall due."
+    },
+    {
+      "title": "New projects take longer or cost more",
+      "text": "Construction delays, price rises and unfamiliar technology can reduce what an investment earns."
+    }
+  ]
 }

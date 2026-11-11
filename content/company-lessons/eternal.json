@@ -1,4 +1,5 @@
 {
+  "layout": "short",
   "summary": "Eternal runs Zomato for restaurant orders, Blinkit for delivered shopping, District for dining and entertainment, and Hyperpure for supplies used by restaurants.",
   "description": "Think of ordering dinner through Zomato, buying groceries through Blinkit, booking an outing through District, or running a restaurant that buys ingredients from Hyperpure. These are different jobs for different customers, even though they belong to the same group.",
   "money": "The businesses earn through their own charges, such as fees for arranging orders, advertising, ticketing services or selling goods. They also pay for delivery, stock handling, staff, buildings, technology and promotions. The total checkout payment is not necessarily the amount the group earns.",
@@ -117,10 +118,6 @@
     "A restaurant can be a Zomato seller and a Hyperpure customer",
     "A restaurant can receive a household’s meal order through Zomato and separately buy ingredients from Hyperpure. One transaction helps sell a meal; the other supplies the kitchen. In its 21 October 2026 shareholders’ letter, Eternal says Hyperpure now delivers within two hours in all major cities, so restaurants need not buy and store as many perishable ingredients in advance. It also says Hyperpure helps some restaurants set up complete kitchens, including equipment, and stores and moves goods for some large restaurant chains. Each is a separate paid job with its own stock, storage and transport costs."
   ],
-  "quiz": [
-    "If Blinkit starts owning goods instead of only arranging sales, does a larger revenue figure prove the same increase in demand?",
-    "No. Recording the full goods sale changes the revenue basis. Check quantities and order activity as well as the cost of buying and supplying those goods."
-  ],
   "sources": [
     [
       "Official group businesses",
@@ -153,5 +150,56 @@
       "text": "The disclosed food-delivery result and the quick-commerce revenue answer different questions. Preserve losses in the other rows, exclude internal transactions as the source does, and reconcile segment results to company profit rather than calling them net earnings."
     }
   ],
-  "checked": "31 October 2026"
+  "checked": "31 October 2026",
+  "stepsTitle": "From an order in the app to the doorstep.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Eternal runs Zomato for restaurant food orders, Blinkit for fast delivered shopping, District for dining out and event tickets, and Hyperpure, which supplies ingredients to restaurants."
+    },
+    {
+      "title": "Who pays",
+      "text": "Households use the apps. Restaurants buy supplies from Hyperpure. Restaurants, sellers and advertisers also pay to reach customers. The checkout total is not all Eternal’s money."
+    },
+    {
+      "title": "How it earns",
+      "text": "Fees for arranging orders, advertising, ticketing charges, and selling goods it owns. Blinkit increasingly owns the goods it sells, so the full sale counts as revenue."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Delivery, handling stock, staff, rent for stores and delivery sites, technology and discounts or promotions."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Repeat orders from nearby homes",
+      "text": "A delivery site has fixed costs such as rent and staff. More orders from nearby homes spread those costs over more deliveries."
+    },
+    {
+      "title": "Several businesses share customers",
+      "text": "Food delivery, quick shopping, dining and tickets, and restaurant supplies all serve households or restaurants, so one app can lead people to another."
+    },
+    {
+      "title": "Sellers and restaurants pay to be seen",
+      "text": "Advertising lets restaurants and sellers pay to appear in front of customers who are already in the app."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Competition makes orders costly to win",
+      "text": "Discounts, advertising and customer benefits can use up the gain from higher demand."
+    },
+    {
+      "title": "Late, missing or wrong orders",
+      "text": "Poor stock, packing, delivery or booking service can stop people ordering again."
+    },
+    {
+      "title": "Owned stock ties up money",
+      "text": "Goods Blinkit owns must be paid for and may spoil, get damaged or go unsold."
+    },
+    {
+      "title": "Rules and trust",
+      "text": "Food safety, consumer protection, rules about delivery workers and app or data failures can cause costs and disruption."
+    }
+  ]
 }

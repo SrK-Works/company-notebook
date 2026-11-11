@@ -1,4 +1,5 @@
 {
+  "layout": "short",
   "summary": "ICICI Bank provides accounts, loans, cards and business payment services, accessible through branches and digital channels such as iMobile.",
   "description": "A customer can receive a salary, pay a shop or borrow for a home through ICICI Bank. A business can use it to collect customer payments or finance stock. The bank runs these services, assesses borrowers and collects repayments while keeping money available for payments and withdrawals.",
   "money": "Loans and investments earn interest. Some banking services earn fees. The bank pays interest on deposits and other borrowing, runs branches and computer systems, and records costs for loans that may not be repaid. Neither a customer deposit nor the principal returned on a loan is ordinary sales income.",
@@ -117,10 +118,6 @@
     "A jump in loans and deposits needs its explanation",
     "ICICI Bank’s 17 October 2026 release for July–September 2026 reports a large rise in deposits and loans, and also gives slower growth figures that leave out FCNR(B) deposits and loans linked to them. FCNR(B) deposits are deposits kept in a foreign currency, such as US dollars, by Indians living abroad; the release links some loans made by the bank’s international branches to these deposits. Read the bank’s own breakdown before treating a jump as ordinary new borrowing by Indian households and businesses. The same release reports a small treasury loss—a loss from trading bonds and other investments—which is separate from income earned by serving customers."
   ],
-  "quiz": [
-    "If a bank writes off a loan, does that mean the borrower paid it back?",
-    "No. A write-off is an accounting action. Repayment or recovery brings money back. Read both when checking why reported problem loans changed."
-  ],
   "sources": [
     [
       "Official banking and product overview",
@@ -145,5 +142,56 @@
       "text": "The audited figures cover the consolidated group, including insurance businesses. Gross total income, net interest income and profit after tax measure different stages of the business. Deposits, advances and assets are balance-sheet amounts. The table does not allocate profit to each card, account or loan product."
     }
   ],
-  "checked": "31 October 2026"
+  "checked": "31 October 2026",
+  "stepsTitle": "From a deposit to a repaid loan.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "ICICI Bank keeps and moves money through accounts, lends to households and businesses, issues cards and handles business payments, through branches and apps such as iMobile."
+    },
+    {
+      "title": "Who pays",
+      "text": "Borrowers pay interest, and some services carry fees. Savers keep money in accounts and may be paid interest. It also serves overseas Indians and large companies."
+    },
+    {
+      "title": "How it earns",
+      "text": "Mostly from the gap between interest earned on loans and investments and interest paid on deposits and borrowing. Service fees add more."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Interest on deposits and borrowing, branches, staff and computer systems, and charges set aside for loans that may not be repaid."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Many kinds of customer",
+      "text": "Households, businesses, large companies and overseas Indians use the bank for different needs, which spreads where its income comes from."
+    },
+    {
+      "title": "Branches plus apps",
+      "text": "Customers can bank in branches or on digital channels such as iMobile, giving several ways to reach and serve them."
+    },
+    {
+      "title": "Fees as well as interest",
+      "text": "Some services earn fees, which add to the income from lending."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Borrowers fail to repay",
+      "text": "Household or business difficulties can cause losses, including on loans with no property pledged against them."
+    },
+    {
+      "title": "Deposits cost more or move away",
+      "text": "Competition and withdrawals can raise what the bank pays for money or limit new lending."
+    },
+    {
+      "title": "Systems or safeguards fail",
+      "text": "Fraud, outages, cyber attacks and rule breaches can interrupt services and cause losses."
+    },
+    {
+      "title": "Interest rates and investment prices move",
+      "text": "These can change what the bank earns, what it pays for funding and what its investments are worth, at different times."
+    }
+  ]
 }

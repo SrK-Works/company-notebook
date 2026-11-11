@@ -1,4 +1,5 @@
 {
+  "layout": "short",
   "summary": "Genus Power makes electricity meters and, increasingly, installs and runs smart-meter systems for state electricity distribution companies.",
   "description": "A traditional electricity meter counts how much power a home uses, and someone has to read it before a bill can be sent. A smart prepaid meter sends its readings automatically over a network, lets a household pay in advance, and shows the electricity company in close to real time how much power is used and lost. Genus Power makes meters in factories in Rajasthan, Uttarakhand and Assam. It has also taken on a larger job: for electricity distribution companies, it supplies, installs, runs and maintains smart-meter systems for years, and is paid over the life of each contract.",
   "money": "Genus earns money by selling meters and equipment, and by being paid over several years to install, run and maintain smart-meter systems. The second kind of payment arrives gradually, so Genus must pay for meters, fitting and software first, often with borrowed money. Its costs include electronic parts, factory and installation work, software, bank guarantees (a bank’s promise to pay the customer if Genus fails to deliver, which Genus pays for) and interest on its loans.",
@@ -146,10 +147,6 @@
     "October 2026: the board considered a share buyback",
     "Genus Power’s board-meeting notice of 19 October 2026 said its board would consider a proposal to buy back its shares, and its investor page lists a board resolution passed on 26 October 2026. News reports describe an approved buyback of a small share of its shares through a tender offer, in which shareholders choose whether to sell. Read the exchange filing for the exact terms, which this lesson does not state. A buyback uses the company’s own cash and does not grow the business, so ask what else the money could have done. Genus’s annual report says its borrowings rose sharply in FY 2025–26 to fund a larger order book. The full-year figures at the end of this page cover an earlier period."
   ],
-  "quiz": [
-    "If a company spends its cash buying back its own shares, has its business grown?",
-    "No. A buyback reduces the number of shares but does not add customers, factories or sales. Whether it is sensible depends on the cash available and what else the company could do with the money, such as repay borrowing or fund new projects."
-  ],
   "sources": [
     [
       "FY 2025–26 annual report (NSE filing)",
@@ -174,5 +171,56 @@
       "text": "Compare revenue and profit with cash from operations, bills not yet paid and borrowing. Check how much sits in project companies and how revenue is recorded for long contracts. Verified full-year figures for this profile have not yet been added, so the financial table below is marked as awaiting verification."
     }
   ],
-  "checked": "31 October 2026"
+  "checked": "31 October 2026",
+  "stepsTitle": "From a tender to years of payments.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Genus Power makes electricity meters. More and more, it also installs and runs smart-meter systems for state electricity distribution companies, called DISCOMs."
+    },
+    {
+      "title": "Who pays",
+      "text": "DISCOMs are the main customers. Households pay their electricity bill to the DISCOM, not to Genus. Industrial users and gas and water utilities buy other products."
+    },
+    {
+      "title": "How it earns",
+      "text": "By selling meters and equipment, and by being paid over several years to install, run and maintain smart-meter systems. That second kind of payment arrives slowly."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Electronic parts, factory and installation work, software, bank guarantees (a bank’s paid promise to cover the customer if Genus fails to deliver) and interest on loans."
+    }
+  ],
+  "helps": [
+    {
+      "title": "A government scheme drives demand",
+      "text": "Much of its work comes under the Revamped Distribution Sector Scheme, a government programme that includes smart prepaid meters. Genus’s report says the scheme has been extended to March 2028."
+    },
+    {
+      "title": "A very large order book",
+      "text": "Genus reported a very large order book: work it has won but not yet done. It shows years of possible work, though it is not cash yet."
+    },
+    {
+      "title": "Years of payments per contract",
+      "text": "Running a smart-meter system brings payments over several years, not just one sale of a meter."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Utilities pay late",
+      "text": "Genus’s annual report lists delayed collections from utilities as a financial risk. Slow payments mean it must borrow more."
+    },
+    {
+      "title": "Heavy borrowing",
+      "text": "Genus borrowed much more in FY 2025–26 to fund larger orders. Interest and repayments are due whether or not a DISCOM pays on time."
+    },
+    {
+      "title": "Reliance on one programme",
+      "text": "A large part of demand comes from one government scheme, so changes to its funding, deadlines or rules matter."
+    },
+    {
+      "title": "Installing millions of meters",
+      "text": "Fitting meters in homes depends on access, local approval and skilled crews. Delays raise costs."
+    }
+  ]
 }

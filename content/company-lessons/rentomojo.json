@@ -1,4 +1,5 @@
 {
+  "layout": "short",
   "listingLabel": "NSE: RENTOMOJO · listed 17 September 2026",
   "summary": "A service that rents furniture and appliances to customers under plans that vary by product, city and rental period.",
   "description": "Rentomojo lets a customer use household goods without buying them outright at the start. For example, someone moving to a city for a temporary job might rent a bed and washing machine. The company arranges the items, takes them to the home, provides the support covered by the plan and collects them when the rental ends.",
@@ -114,10 +115,6 @@
     "Follow the item after the first customer leaves",
     "Rentomojo’s annual report for the year to March 2026, filed with the stock exchanges on 16 October 2026, describes the cycle: deliver and install the item, collect it when the rental ends, then clean, repair and send it to another customer. It reports 20 warehouses and 82 showrooms, which it calls experience stores, across 29 cities. Each extra round of collection, repair and storage costs money, and an item earns rent only while a customer has it. Regular rent is useful only after those repeated costs are considered."
   ],
-  "quiz": [
-    "Is a refundable deposit the same as profit from renting a product?",
-    "No. The agreement determines when it must be returned and what may be deducted. Rental profit must cover the product, service, collection and funding costs separately."
-  ],
   "sources": [
     [
       "Official Bangalore rental catalogue and service description",
@@ -146,5 +143,56 @@
       "text": "The restated consolidated figures are verified from the issuer’s offer documents; the shares were admitted to trading later, on 17 September 2026. The disclosed deferred-tax credit increased annual profit after tax, so the profit should not be read as rental operating performance alone. Separate recognised rental revenue, refundable deposits, depreciation, financing and cash needed for assets."
     }
   ],
-  "checked": "31 October 2026"
+  "checked": "31 October 2026",
+  "stepsTitle": "From buying an item to renting it again.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "RentoMojo rents furniture and appliances to people for a monthly fee, under plans that vary by product, city and rental period."
+    },
+    {
+      "title": "Who pays",
+      "text": "Households, students and working professionals who need furniture or appliances for a while, rather than buying them."
+    },
+    {
+      "title": "How it earns",
+      "text": "Monthly rent, plus any service or other charges in the agreement. A refundable deposit is owed back and is not income."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Buying or financing the products, delivering and installing them, repairs, storage, and getting returned items ready for the next customer."
+    }
+  ],
+  "helps": [
+    {
+      "title": "One item, many customers",
+      "text": "A sofa or fridge can be rented again and again. The longer each item earns rent, the more of its cost it pays back."
+    },
+    {
+      "title": "Monthly payments",
+      "text": "Customers pay rent every month for the length of their plan, rather than once."
+    },
+    {
+      "title": "People who move often",
+      "text": "Students and professionals who need furniture for a period of time can rent instead of buying and selling."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Items sit unused",
+      "text": "Wear, outdated goods or weak demand can leave items idle, earning nothing."
+    },
+    {
+      "title": "Customers stop paying or leave early",
+      "text": "Missed rent, disputed charges and short rentals can leave delivery and setup costs unrecovered."
+    },
+    {
+      "title": "Repairs and moves cost more",
+      "text": "Damage, storage and repeated transport can use up regular rent."
+    },
+    {
+      "title": "Growth needs cash first",
+      "text": "More items and new cities need spending before enough rent arrives."
+    }
+  ]
 }

@@ -1,4 +1,5 @@
 {
+  "layout": "short",
   "summary": "Grey cement, ready-mix concrete, white cement and related materials used to build and finish homes and other structures.",
   "description": "UltraTech makes cement and other building materials and sells them through shops and directly to business customers. For example, a homebuilder may buy cement bags, while a contractor may order a truck of prepared concrete. The company must make the material and get it to the right place in usable condition.",
   "money": "Customers pay for cement, concrete and related products. The company pays for stone and other ingredients, fuel, electricity, workers, factories and transport. It must also maintain equipment and fund expansion. The selling price of a tonne is not the profit left from it.",
@@ -113,10 +114,6 @@
     "New factory capacity and a new product in the September 2026 quarter",
     "UltraTech’s 19 October 2026 results release says that in July–September 2026 it started a new cement plant at Petnikota, Andhra Pradesh, and squeezed extra output from three existing plants. It also says it sold more grey cement in India than a year earlier and used a larger share of its factories’ capacity. Capacity utilisation means how much of the possible production was actually used. Sales and profit both rose. In the same quarter it launched Ultravolt wires and cables, made at a newly started factory in Jhagadia, Gujarat. A new factory or product begins with spending; whether it earns depends on buyers ordering enough over the following years."
   ],
-  "quiz": [
-    "Does buying more cement factories guarantee more profit?",
-    "No. Demand, selling prices, actual factory use, fuel, transport and the purchase price of those factories all matter."
-  ],
   "sources": [
     [
       "Official building-materials overview",
@@ -137,5 +134,56 @@
       "text": "The table uses audited consolidated revenue from operations and statutory group profit after tax, including exceptional items. It does not substitute a net-sales or adjusted-profit press-release headline. Match the reporting period with volume disclosures; capacity is not sales, and company profit is not a profit allocation to cement, concrete or individual brands."
     }
   ],
-  "checked": "31 October 2026"
+  "checked": "31 October 2026",
+  "stepsTitle": "From the quarry to the building site.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "UltraTech makes grey cement, ready-mix concrete, white cement and related materials used to build and finish homes and other structures."
+    },
+    {
+      "title": "Who pays",
+      "text": "Dealers who supply homebuilders, contractors, property developers, and customers building roads, factories and other large projects."
+    },
+    {
+      "title": "How it earns",
+      "text": "By selling cement, concrete and related products. The price of a tonne is not the profit from it."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Stone and other ingredients, fuel, electricity, workers, factories and transport, plus maintaining equipment and funding expansion."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Building needs cement",
+      "text": "Homes, roads, factories and other projects all use cement and concrete, so construction activity drives demand."
+    },
+    {
+      "title": "Many kinds of buyer",
+      "text": "Dealers, homebuilders, contractors, developers and large project builders all buy from it."
+    },
+    {
+      "title": "Busier plants spread costs",
+      "text": "When customers buy more of what a plant can make, its fixed costs are spread over more tonnes."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Too much local supply",
+      "text": "Rival producers may cut prices to win buyers, even when more cement is being used."
+    },
+    {
+      "title": "Fuel and transport get dearer",
+      "text": "Coal, other fuels, electricity and moving heavy materials can raise the cost of each sale."
+    },
+    {
+      "title": "Expansion takes time to pay back",
+      "text": "New or bought factories need money, maintenance and enough buyers."
+    },
+    {
+      "title": "Production stops",
+      "text": "Permit problems, lost quarry access, accidents or breakdowns can stop work and add costs."
+    }
+  ]
 }

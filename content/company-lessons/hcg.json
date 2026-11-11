@@ -1,4 +1,5 @@
 {
+  "layout": "short",
   "summary": "HCG runs a network of hospitals that diagnose and treat cancer, plus some hospitals for other illnesses.",
   "description": "When a doctor suspects cancer, a patient needs scans and tests to confirm it and see how far it has spread. Treatment may then combine an operation, radiation from a large machine and cancer medicines, planned by several specialist doctors together. HCG puts these under one roof in comprehensive cancer centres across 19 Indian cities, plus a centre in Nairobi, Kenya. Some HCG hospitals also treat other illnesses, and its day-care centres give cancer medicines without an overnight stay. Its fertility business, Milann, was sold in June 2026.",
   "money": "A patient or someone paying on their behalf pays HCG for each test, treatment, procedure and hospital stay. Its main costs are doctors and nurses, medicines and supplies, very expensive machines that must be bought, maintained and eventually replaced, and the rent or cost of its buildings. It also pays interest on money it has borrowed. A busy centre spreads those costs over more patients; an empty one does not.",
@@ -142,10 +143,6 @@
     "August 2026: a new hospital opened and the fertility business was sold",
     "HCG’s 6 August 2026 results release says it opened a hospital in north Bengaluru in May 2026, with 56 beds working in the first phase, and sold its Milann fertility business in June 2026. The release reports that revenue and its adjusted operating profit (profit from running the hospitals, before interest, tax and charges for the wear of equipment) grew compared with a year earlier, and that the new hospital’s early loss was left out of its adjusted measure. An adjusted measure is the company’s own version of profit with some items removed, so always check what was removed. The full-year figures at the end of this page cover an earlier period."
   ],
-  "quiz": [
-    "If a hospital group treats more patients, does its profit rise by the same amount?",
-    "Not necessarily. Profit also depends on how the patients pay, how complex their treatment is, the cost of doctors, machines and borrowing, and whether new hospitals are still filling up."
-  ],
   "sources": [
     [
       "HCG annual reports page",
@@ -169,5 +166,56 @@
   "historicalOfferings": [
     "Fertility treatment (Milann)"
   ],
-  "checked": "31 October 2026"
+  "checked": "31 October 2026",
+  "stepsTitle": "From diagnosis to a paid hospital bill.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "HCG runs hospitals that diagnose and treat cancer, plus some hospitals for other illnesses."
+    },
+    {
+      "title": "Who pays",
+      "text": "Patients pay in cash, or insurers and government health schemes pay for them. Employers with health tie-ups and patients from other countries also pay."
+    },
+    {
+      "title": "How it earns",
+      "text": "It charges for each test, treatment, procedure and hospital stay. Some bills are paid later, through insurers or government schemes."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Doctors and nurses, medicines and supplies, very expensive treatment machines, buildings and interest on borrowed money."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Busy centres spread their costs",
+      "text": "Machines, buildings and staff cost the same whether a centre is full or quiet. More patients spread those costs further."
+    },
+    {
+      "title": "Shifting towards cash and insured patients",
+      "text": "HCG says it is raising the share of patients who pay in cash or through insurers’ claim administrators, compared with government schemes."
+    },
+    {
+      "title": "New hospitals add room to grow",
+      "text": "HCG opened a hospital in north Bengaluru in May 2026, with 56 beds working in its first phase. Once it fills, it adds to what HCG can treat."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Payers delay or cut bills",
+      "text": "Insurers, administrators or government schemes may pay late, pay less than billed or change rates. HCG says changes to a scheme in Odisha reduced revenue per patient in its eastern centres."
+    },
+    {
+      "title": "New hospitals take time to fill",
+      "text": "Costs start when a hospital opens, but patients, insurer approvals and established doctors take time to arrive."
+    },
+    {
+      "title": "Specialist doctors are scarce",
+      "text": "Cancer care depends on skilled specialists. Losing key doctors or struggling to hire can limit what a centre offers."
+    },
+    {
+      "title": "Machines become costly or outdated",
+      "text": "Treatment machines need upgrades and replacing. An underused or outdated machine weighs on earnings."
+    }
+  ]
 }

@@ -1,4 +1,5 @@
 {
+  "layout": "short",
   "summary": "Refex helps coal-fired power plants manage coal before it is burned and remove ash afterwards. It also has wind-turbine and smaller solar businesses.",
   "description": "A coal-fired power plant burns coal to make electricity. Coal must be unloaded, stored and moved to where it is needed; the ash left after burning must be collected and taken to a suitable reuse or disposal location. Refex takes on work along this chain under customer contracts.",
   "money": "Refex earns fees for the work covered by its contracts and can also earn from supplying materials such as coal or ash. It pays for workers, fuel, vehicles, machines, repairs and other business costs; the customer’s entire payment is not profit.",
@@ -172,10 +173,6 @@
     "Use the latest accounts to check what has changed",
     "Older Refex pages may describe businesses that the audited annual accounts now show separately as discontinued. Start with the signed accounts for the period, then check later announcements. Use the wider group’s website as a starting point, not as proof that every activity sits inside Refex Industries."
   ],
-  "quiz": [
-    "If Refex bills a customer for moving ash, is the whole bill its profit?",
-    "No. It still has to cover workers, fuel, vehicles, equipment, repairs and other costs. The bill may also be paid later, so recorded revenue, profit and cash received are different things."
-  ],
   "sources": [
     [
       "Official ash business",
@@ -216,5 +213,56 @@
       "text": "Contract receivables, equipment investment, energy-business funding and guarantees can require cash despite accounting earnings. The segment table explains the source’s reported operating groups; it does not establish the cash return or profit of each customer contract."
     }
   ],
-  "checked": "29 October 2026"
+  "checked": "29 October 2026",
+  "stepsTitle": "From a job at the plant to a paid invoice.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Refex handles coal for coal-fired power plants before it is burned and removes the ash afterwards. It also has wind-turbine and smaller solar businesses."
+    },
+    {
+      "title": "Who pays",
+      "text": "Power plants pay for coal and ash work. Businesses buy materials such as coal or usable ash. Wind and solar customers buy equipment or electricity."
+    },
+    {
+      "title": "How it earns",
+      "text": "Fees for the work in its contracts, plus sales of materials such as coal or ash."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Workers, fuel, trucks, machines and repairs. It often pays wages and fuel before the customer pays."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Power plants need this work done",
+      "text": "Coal must be managed before burning and ash removed afterwards, every day a plant runs."
+    },
+    {
+      "title": "Ash can be sold for reuse",
+      "text": "Some ash is usable material that businesses buy, rather than waste that only costs money to remove."
+    },
+    {
+      "title": "A wind-turbine order",
+      "text": "In December 2025 Venwind Refex agreed to supply turbines for a wind project, with work scheduled by September 2026. That is a deadline, not proof of delivery."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Customers pay late",
+      "text": "Refex may have to pay workers and fuel bills while waiting for the customer to pay."
+    },
+    {
+      "title": "A job costs more than expected",
+      "text": "Longer routes, fuel prices, breakdowns or waiting at a plant can reduce what is left from the agreed payment."
+    },
+    {
+      "title": "Ash needs a lawful destination",
+      "text": "Ash must be collected, moved and reused or disposed of under the rules, which needs suitable places and permissions."
+    },
+    {
+      "title": "New activities need money first",
+      "text": "Wind equipment, new sites and other expansion need spending before deliveries and payments arrive."
+    }
+  ]
 }

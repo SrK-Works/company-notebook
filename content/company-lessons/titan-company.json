@@ -1,4 +1,5 @@
 {
+  "layout": "short",
   "summary": "The business behind Tanishq jewellery, Titan and Fastrack watches, Titan Eye+ eyewear and other lifestyle products.",
   "description": "Titan makes or arranges products and sells them through shops and online. For example, a wedding shopper may buy a Tanishq necklace, while another customer buys spectacles at Titan Eye+. These purchases need different materials, staff and services, even though they belong to one group.",
   "money": "Customers pay for jewellery, watches, spectacles and other products. Titan must pay for materials or finished goods, making products, shop staff, rent, advertising and running the business. It also needs money to keep unsold products in its shops. The whole customer bill is not profit.",
@@ -117,10 +118,6 @@
     "More sales can come from bigger bills, not many more buyers",
     "Titan’s 6 October 2026 quarterly update says jewellery sales in India grew strongly in July–September 2026 compared with a year earlier, but the number of buyers grew only in the mid-single digits. Most of the increase came from a larger average bill, the amount spent per purchase, which can rise when gold costs more or customers choose pieces set with diamonds and other stones. The update also includes Damas, a majority-owned jewellery business in the Gulf countries that Titan has included in its accounts since January 2026, in its international figures. Part of that international growth therefore comes from a purchased business rather than more customers at existing shops. The update is provisional: the auditors had not yet reviewed it."
   ],
-  "quiz": [
-    "Does a higher jewellery sales value prove that Titan sold more gold by weight?",
-    "No. Gold prices, stones, designs, purchase sizes and acquired businesses can change the sales value. Check weight or customer-purchase measures where the company provides them."
-  ],
   "sources": [
     [
       "Official Titan brand portfolio",
@@ -157,5 +154,56 @@
       "text": "The corporate unallocated line has a ₹201 crore loss, reducing the combined segment result. The Others row is not a profit measure for every new lifestyle brand. Read the reconciliation, inventory funding, acquisition payments and cash flow before treating the segment total as cash available to shareholders."
     }
   ],
-  "checked": "31 October 2026"
+  "checked": "31 October 2026",
+  "stepsTitle": "From the workshop to the shop counter.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Titan sells Tanishq jewellery, Titan and Fastrack watches, Titan Eye+ glasses and other lifestyle products."
+    },
+    {
+      "title": "Who pays",
+      "text": "Shoppers buying jewellery, gifts, watches, glasses, clothing, fragrances or bags. Some shops are run by business partners, so payment can reach Titan by different routes."
+    },
+    {
+      "title": "How it earns",
+      "text": "Customers pay for the products. For jewellery, the bill includes the gold and stones and a making charge."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Gold and other materials or finished goods, making products, shop staff, rent, advertising, and money to keep stock in shops."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Well-known brands",
+      "text": "Tanishq, Titan, Fastrack and Titan Eye+ are separate brands for jewellery, watches and glasses."
+    },
+    {
+      "title": "Ways to fund gold stock",
+      "text": "Titan can borrow gold itself, not just money, to stock its shops, and uses hedging to limit some gold price changes."
+    },
+    {
+      "title": "New shops add reach",
+      "text": "New shops put products in front of more shoppers, once they have been open long enough to attract regular buyers."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Gold becomes less affordable",
+      "text": "Dearer gold needs more money for shop stock, and shoppers may buy lighter pieces or wait."
+    },
+    {
+      "title": "Quality or service problems",
+      "text": "Gold purity, product quality, repairs and the buying experience all affect trust."
+    },
+    {
+      "title": "Expansion costs before it earns",
+      "text": "New shops, ranges or acquired businesses need staff, stock and money before enough customers arrive."
+    },
+    {
+      "title": "Strong competitors",
+      "text": "Local jewellers, national brands and online sellers compete on price, design and service."
+    }
+  ]
 }

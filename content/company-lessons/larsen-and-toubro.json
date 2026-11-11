@@ -1,4 +1,5 @@
 {
+  "layout": "short",
   "summary": "L&T builds buildings, transport links and energy facilities, makes specialised equipment, and has businesses providing computer and engineering services, loans and property development.",
   "description": "Imagine an organisation needing a bridge, factory or energy facility. It can hire L&T to design and build specified work rather than do every task itself. The wider group also provides services such as software and lending, which have different customers and costs from construction.",
   "money": "Project customers pay for agreed design, equipment supply and construction. Other customers pay for manufactured equipment or technology work; borrowers pay interest and charges on loans. The group must cover materials, workers, suppliers, funding and other costs before these activities produce profit.",
@@ -127,10 +128,6 @@
     "The Hyderabad metro sale is agreed but not yet completed",
     "L&T’s results for the quarter to 30 September 2026, published on 27 October 2026, say it agreed on 29 April 2026 to sell its whole stake in L&T Metro Rail (Hyderabad) Limited, the company that runs the Hyderabad metro, to a Telangana government company. The sale is still in progress, with expected completion moved to 31 December 2026. Until then the accounts show the metro business as “held for sale”: kept separate because it is expected to leave the group. An agreed sale and a completed, paid sale are different stages. The same results also rename L&T’s reporting groups from 1 April 2026. For example, Infrastructure Projects is now Infrastructure & Utilities, IT & Technology Services is now Technology, Platforms & Services, and solar and wind construction now sits in a new Energy – Green group. The audited 2025–26 figures below use the older names."
   ],
-  "quiz": [
-    "When L&T wins a large construction contract, has it already earned the whole value?",
-    "No. It still needs to do the work, meet the reporting and billing conditions, collect payment and cover the costs and obligations it agreed to take on."
-  ],
   "sources": [
     [
       "Official group and business overview",
@@ -159,5 +156,56 @@
       "text": "Reported segment revenue includes internal sales, which are removed when reconciling to net group revenue. Other finance costs, unallocated items, exceptional items and tax also separate the segment-result total from company profit."
     }
   ],
-  "checked": "31 October 2026"
+  "checked": "31 October 2026",
+  "stepsTitle": "From a contract to a finished project.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "L&T builds buildings, transport links and energy plants, makes specialised equipment, and has businesses that provide computer and engineering services, loans and property."
+    },
+    {
+      "title": "Who pays",
+      "text": "Government bodies, infrastructure owners, energy and industrial companies, technology clients, property buyers and borrowers. Each pays for a defined project, item, service or loan."
+    },
+    {
+      "title": "How it earns",
+      "text": "Project customers pay as agreed design, supply and building work is done and approved. Other parts earn from equipment, technology services, loan interest and property sales."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Materials, workers, suppliers and subcontractors, equipment, and the cost of funding work while it is under way."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Several different businesses",
+      "text": "Construction, equipment, technology services, lending and property depend on different customers and conditions, so one weak area need not hit all of them."
+    },
+    {
+      "title": "Large, varied customers",
+      "text": "Governments, infrastructure owners and big industrial companies commission large projects that can run for years."
+    },
+    {
+      "title": "Some contracts pass on cost rises",
+      "text": "Some contracts let certain cost increases be passed to the customer, rather than L&T bearing all of them."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Work runs late or costs more",
+      "text": "Permits, suppliers, site conditions or customer changes can delay billing and raise costs."
+    },
+    {
+      "title": "Fixed prices can trap extra costs",
+      "text": "On a fixed-price contract, if labour or materials get dearer, L&T may bear the increase."
+    },
+    {
+      "title": "Customers dispute or delay payment",
+      "text": "Claims for extra work or customers under financial pressure can leave earned amounts unpaid."
+    },
+    {
+      "title": "Funding and overseas commitments",
+      "text": "Currency changes, local rules, borrowing and guarantees can raise costs or payment obligations."
+    }
+  ]
 }

@@ -1,4 +1,5 @@
 {
+  "layout": "short",
   "summary": "Infosys helps organisations build, change and run computer systems, with consulting, cloud, AI, software and routine business-work services.",
   "description": "Infosys supplies teams and software to organisations that need technology work done. For an illustrative example, a shop business might want a better online-order system, or a bank might need help changing its software. Infosys and the customer agree what will be built, changed or maintained, and what the customer will pay.",
   "money": "Customers pay for agreed work, software use and support under their contracts. Infosys must pay employees, outside specialists, software and equipment costs and the cost of organising the job. Some contracts continue over time; others cover a project. Profit depends on what remains after the relevant costs and tax.",
@@ -113,10 +114,6 @@
     "A bank choosing Finacle is the start of the work",
     "Infosys’s 23 October 2026 results release says the bank Investec selected Finacle, Infosys’s banking software, as software as a service (SaaS) on Microsoft Azure. SaaS means the customer uses software that the provider runs and updates on remote computers, here Microsoft’s cloud service, instead of installing and running it itself. Being selected is an early step: the software still has to be set up, connected to the bank’s other systems, tested and supported before customers use it. Check which of those jobs the contract pays for. The software name alone does not identify all the costs or earnings."
   ],
-  "quiz": [
-    "Does constant-currency sales growth mean profit grew at the same rate?",
-    "No. It removes the stated exchange-rate effect from a sales comparison. Prices, wages, the work performed and other costs still affect profit."
-  ],
   "sources": [
     [
       "FY 2025–26 annual report",
@@ -141,5 +138,56 @@
       "text": "An industry with high segment operating income can still have billing or collection timing differences. Continue with the consolidated cash-flow statement and customer balances before concluding how much cash was generated."
     }
   ],
-  "checked": "31 October 2026"
+  "checked": "31 October 2026",
+  "stepsTitle": "From a signed contract to a paid bill.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Infosys builds, changes and runs computer systems for other organisations, with consulting, cloud, AI, software and routine business-work services."
+    },
+    {
+      "title": "Who pays",
+      "text": "Banks, manufacturers, retailers, communications companies and other organisations pay Infosys for agreed work, software use and support."
+    },
+    {
+      "title": "How it earns",
+      "text": "Customers pay under contracts. Some contracts run over years; others cover one project. Fees are often paid in foreign currencies."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Mostly employees, plus outside specialists, software and equipment, and the cost of organising each job."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Customers in many industries",
+      "text": "Banks, manufacturers, retailers and communications companies all buy its services, so it does not depend on one industry."
+    },
+    {
+      "title": "Long-running contracts",
+      "text": "Some contracts continue over years, running and maintaining systems, which gives more lasting work than a single project."
+    },
+    {
+      "title": "AI can make work faster",
+      "text": "AI may help teams finish work faster. Whether Infosys keeps that gain depends on whether customers ask for lower prices in return."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Customers delay or cut work",
+      "text": "Customer budgets can be cut, decisions postponed and prices renegotiated."
+    },
+    {
+      "title": "Staff cost more",
+      "text": "Wages, training and replacing people who leave can use up fees."
+    },
+    {
+      "title": "A system change goes wrong",
+      "text": "Late work, faults or exposed information can create extra costs and damage trust."
+    },
+    {
+      "title": "Currencies and rules change",
+      "text": "Exchange rates, data rules and rules on where employees can work can change what work costs."
+    }
+  ]
 }

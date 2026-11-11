@@ -1,4 +1,5 @@
 {
+  "layout": "short",
   "summary": "Rainbow Children’s Medicare runs hospitals and clinics for children and women, including maternity and fertility services.",
   "description": "A family may visit a clinic for a consultation, use a local hospital, or need more specialised services at a larger hospital. Rainbow connects different types of facilities in a hub-and-spoke network: the larger hospital is a hub, while smaller facilities provide local services and can refer patients when required.",
   "money": "The network bills for consultations, admissions, procedures and related services. Families can pay directly, or an insurer or other payer can cover agreed care. The company pays specialist doctors, nurses, supplies, equipment and premises costs. New facilities can need spending before they have many patients.",
@@ -117,10 +118,6 @@
     "Guntur has opened; Amaravati is still described as planned",
     "Rainbow’s 16 October 2026 release announces the opening of its Guntur hospital, with children’s care, pregnancy and childbirth services, and fertility services. It describes Amaravati as a planned larger centre. An opened hospital and a planned hospital are different stages. For the new Guntur site, ask whether enough patients are using the services to cover doctors, nurses, supplies and premises costs. The opening announcement does not establish that this hospital is profitable; the full-year financial table below covers an earlier period."
   ],
-  "quiz": [
-    "Does another hospital site immediately add the same earnings as an established one?",
-    "No. Services, staffing, patient activity and costs can differ. A newer hospital may need time and spending before it serves enough patients to cover its costs."
-  ],
   "sources": [
     [
       "Official clinical and investor directory",
@@ -145,5 +142,56 @@
       "text": "Hospital totals do not allocate profit between children’s care, maternity, fertility or individual facilities unless the company supplies that disclosure. Check cash flow, development spending and lease obligations separately."
     }
   ],
-  "checked": "29 October 2026"
+  "checked": "29 October 2026",
+  "stepsTitle": "From a visit to a paid hospital bill.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Rainbow runs hospitals and clinics for children and women, including maternity and fertility services."
+    },
+    {
+      "title": "Who pays",
+      "text": "Families pay directly, or an insurer or other organisation pays for agreed care. Rates, claim checks and payment timing differ between them."
+    },
+    {
+      "title": "How it earns",
+      "text": "It bills for consultations, admissions, procedures and related services."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Specialist doctors, nurses, supplies, equipment and buildings. New hospitals need spending before they have many patients."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Full-time specialist teams",
+      "text": "The company describes full-time teams led by specialist doctors, called consultants. That is part of how it presents its care."
+    },
+    {
+      "title": "Focused on children and women",
+      "text": "Children’s care, maternity and fertility services give it a clear focus that families can recognise."
+    },
+    {
+      "title": "New locations",
+      "text": "Its October 2026 opening in Guntur adds another place where patients can get care, once it builds up patients."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Specialist staff are hard to find",
+      "text": "Without qualified teams, a hospital cannot offer some services or use all its beds."
+    },
+    {
+      "title": "Patient numbers and payer terms change",
+      "text": "Seasons, local competition and payment agreements can change visits, admissions and income."
+    },
+    {
+      "title": "Care or rule problems",
+      "text": "Safety and regulatory issues can interrupt operations, create claims and damage trust."
+    },
+    {
+      "title": "New hospitals stay quiet longer",
+      "text": "Staff and property costs continue before enough patients arrive to cover them."
+    }
+  ]
 }

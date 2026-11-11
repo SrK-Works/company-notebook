@@ -1,4 +1,5 @@
 {
+  "layout": "short",
   "listingLabel": "NSE: KANOHAR · listed 16 September 2026",
   "summary": "Kanohar makes electrical equipment such as transformers and helps build the substations and connections used to move electricity to where it is needed.",
   "description": "Electricity travels from a generating plant through a network before reaching a railway, factory or home. Different stages need different voltages; voltage is often compared to electrical pressure. A transformer changes the voltage. Kanohar supplies this equipment and also carries out parts of the work needed to build the network.",
@@ -118,10 +119,6 @@
     "Listed in September 2026; quarterly reports have only just started",
     "Kanohar’s shares began trading on 16 September 2026. Its offer combined new shares issued by the company, whose money goes to Kanohar, with existing shares sold by current owners, whose money goes to those sellers. Being listed also means it now publishes results every three months. The first, for April to June 2026, was approved on 6 October 2026, and the company itself notes that some earlier comparison quarters were not reviewed by its auditor. With so few published quarters, a single three-month period can mislead: transformer orders are large and uneven, so check deliveries and payments over several periods."
   ],
-  "quiz": [
-    "If a utility announces a new power line, has Kanohar already earned its value?",
-    "No. Kanohar needs an order for its own equipment or work, must meet the agreed conditions and then collect payment. The whole network project does not automatically belong to one supplier."
-  ],
   "sources": [
     [
       "Official transformer portfolio and manufacturing description",
@@ -150,5 +147,56 @@
       "text": "Read the joint-operation policy, equipment and project revenue recognition and cash-flow statement with the totals. Contract value, backlog, customer advances, recognised sales and profit are different measures and must not be added together."
     }
   ],
-  "checked": "31 October 2026"
+  "checked": "31 October 2026",
+  "stepsTitle": "From an order to accepted equipment.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Kanohar makes electrical equipment such as transformers, which change electricity to the right voltage, and helps build substations and connections that carry power where it is needed."
+    },
+    {
+      "title": "Who pays",
+      "text": "Electricity utilities, railway and infrastructure organisations, factories and project contractors. Each pays for specified equipment or a defined project."
+    },
+    {
+      "title": "How it earns",
+      "text": "Customers pay for equipment or an agreed construction project, usually after the work is delivered and accepted."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Metals such as copper and electrical steel, other parts, engineers, factory workers, testing, delivery and any site work. Materials are often paid for before the customer pays."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Equipment and building work",
+      "text": "Kanohar can supply the equipment and also help build substations and connections, so it can take on more of a project."
+    },
+    {
+      "title": "Different kinds of buyer",
+      "text": "Utilities, railways, infrastructure bodies, factories and contractors all need equipment to move electricity."
+    },
+    {
+      "title": "Contracts can pass on metal costs",
+      "text": "Some contracts let the buyer pay more if metal prices rise after the price is agreed. The terms of each contract decide this."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "A large buyer delays work",
+      "text": "A few big orders or customers can make production and payments uneven."
+    },
+    {
+      "title": "Materials or work cost more",
+      "text": "Dearer metals, supplier problems, failed tests or site delays can reduce what is left from an order."
+    },
+    {
+      "title": "Cash stays tied up",
+      "text": "Materials, finished equipment and unpaid customer bills can all need extra funding."
+    },
+    {
+      "title": "Obligations continue after delivery",
+      "text": "Defects, promised repairs, guarantees and contract disputes can add costs later."
+    }
+  ]
 }

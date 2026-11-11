@@ -8,7 +8,9 @@ const added=['ireda','hcg','fredun-pharmaceuticals','milky-mist','hfcl','genus-p
 test('each added company has a complete profile, local original illustrations and no unverified financial figures',()=>{
  for(const id of added){
   const company=c.COMPANIES.find(x=>x.id===id);assert.ok(company,id);
-  for(const k of ['name','ticker','sector','summary','description','money','question','answer','productSource','productNote'])assert.ok(String(company[k]||'').length>=3,`${id}: ${k}`);
+  // The short page has no self-check question, so only a long-layout company needs one.
+  const short=c.COMPANY_LESSONS?.[id]?.layout==='short';
+  for(const k of ['name','ticker','sector','summary','description','money',...(short?[]:['question','answer']),'productSource','productNote'])assert.ok(String(company[k]||'').length>=3,`${id}: ${k}`);
   assert.ok(company.products.length>=7,id+': offerings');
   assert.ok(company.sources.length>=3,id+': sources');
   assert.equal(c.COMPANY_FINANCIALS[id],undefined,id+': figures await a separate verified review');
