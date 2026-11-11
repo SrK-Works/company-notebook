@@ -15,6 +15,12 @@ For each company you are given, make its lesson (`content/company-lessons/<id>.j
 
 ## Rules you must follow
 
+- **Helps and hurts are lasting explanations**, not news. Each one says, in plain words, how the business works and stays true for years (for example: "people delay buying a car when incomes fall or loans get dearer"). Source it from the annual report's or offer document's risk, strategy or outlook sections. A recent figure may follow only as one short example. Quarter statistics belong in `context`. If a general explanation has no direct source, look in the risk factors first; remove it only if no official document supports it, and say so in the review record. Never replace it with a quarter statistic.
+- **Definitions explain, not expand.** Explain an abbreviation, drug or measure by what it does or means (for example "Form 483: a list of problems a US drug inspector found at a factory"), not by spelling it out into more jargon.
+- **Company estimates stay estimates.** Write a target or break-even path as "the company estimates…", with every condition it gives.
+- **Never say the same fact as both a help and a hurt.**
+- Use BSE `AttachHis` links, not `AttachLive` (those expire).
+
 - Read `AGENTS.md`, `content/company-lessons/AGENTS.md` and `content/lesson-template/template.json` before starting. The template is the format; the root AGENTS.md is the writing standard.
 - Money amounts (₹, crore, lakh) belong only in `financialNotes`. Do not touch `content/financial-reviews/` or any figures: another agent owns those.
 - Change only lesson files and, when a brand name trips the abbreviation check, the `aliases` list in `content/companies/<id>.json`. Do not edit anything in `dist/`, `scripts/` or `tests/`.
