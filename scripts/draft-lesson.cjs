@@ -113,7 +113,6 @@ function buildSchema(){
 function fromModelShape(m,checked){
  const l=m.lesson;
  return {
-  layout:'short',
   summary:l.summary,description:l.description,money:l.money,customers:l.customers,drivers:l.drivers,
   groups:l.groups,basics:l.basics,steps:l.steps,specifics:l.specifics,
   watch:l.watch.map(w=>[w.question,w.whyItMatters,w.howToInvestigate]),
@@ -144,11 +143,10 @@ function toModelShape(lesson){
 
 // ---------- the prompt ----------
 function sectionGuide(){
- // Every company now uses the short page, which has no self-check question.
- return template.sections.filter(s=>s.key!=='checked'&&s.key!=='quiz').map(s=>{
-  const size=s.type==='text'?`${s.minChars} to ${s.maxChars} characters`:s.type==='pair'?'exactly one title and one text':s.minItems===s.maxItems?`exactly ${s.minItems} items`:`${s.minItems} to ${s.maxItems} items`;
+ return template.sections.filter(s=>s.key!=='checked').map(s=>{
+  const size=s.type==='text'?`${s.minChars} to ${s.maxChars} characters`:s.type==='pair'?'exactly one title and one text':(s.minItems===s.maxItems?`exactly ${s.minItems} items`:`${s.minItems} to ${s.maxItems} items`)+(s.maxChars?`, each text at most ${s.maxChars} characters`:'');
   return `- ${s.key} (${size}). Answers: ${s.answers} ${s.write}`;
- }).join('\n')+'\n'+template.optional.filter(o=>['quick','helps','hurts'].includes(o.key)).map(o=>`- ${o.key} (${o.minItems===o.maxItems?`exactly ${o.minItems}`:`${o.minItems} to ${o.maxItems}`} items, each text at most ${o.maxChars} characters). ${o.write.replace(/^Short page only\. /,'')}`).join('\n')+'\n'+template.optional.filter(o=>o.key==='stepsTitle').map(o=>`- stepsTitle (at most ${o.maxChars} characters; may be empty). ${o.write.replace(/^Short page only, optional\. /,'')}`).join('\n')+'\n'+template.optional.filter(o=>o.key==='illustration').map(o=>`- illustration (optional, ${o.minItems} to ${o.maxItems} items; leave the list empty if none helps). ${o.write}`).join('\n');
+ }).join('\n')+'\n'+template.optional.filter(o=>o.key==='stepsTitle').map(o=>`- stepsTitle (at most ${o.maxChars} characters; may be empty). ${o.write}`).join('\n')+'\n'+template.optional.filter(o=>o.key==='illustration').map(o=>`- illustration (optional, ${o.minItems} to ${o.maxItems} items; leave the list empty if none helps). ${o.write}`).join('\n');
 }
 function buildSystemPrompt(paths=defaultPaths){
  const read=f=>fs.readFileSync(path.join(paths.root,f),'utf8');

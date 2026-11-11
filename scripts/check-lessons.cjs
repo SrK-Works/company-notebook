@@ -31,10 +31,8 @@ function validateLesson(lesson,ownNames=[]){
  const errors=[],warnings=[],R=template.rules;
  const sectionKeys=template.sections.map(s=>s.key),optionalKeys=template.optional.map(o=>o.key);
  for(const k of Object.keys(lesson))if(!sectionKeys.includes(k)&&!optionalKeys.includes(k))errors.push(`unknown section "${k}"`);
- const short=lesson.layout==='short';
  for(const s of template.sections){
   const v=lesson[s.key],at=s.key;
-  if(v===undefined&&short&&s.key==='quiz')continue; // the short page has no self-check question
   if(v===undefined){errors.push(`${at}: section is missing`);continue}
   if(s.type==='text'){
    if(!isText(v)){errors.push(`${at}: must be text`);continue}
@@ -51,6 +49,7 @@ function validateLesson(lesson,ownNames=[]){
     if(s.type==='list'){
      for(const f of s.itemShape)if(!isText(item&&item[f]))errors.push(`${at}[${i}]: "${f}" is missing or empty`);
      for(const f of Object.keys(item||{}))if(!s.itemShape.includes(f))errors.push(`${at}[${i}]: unexpected field "${f}"`);
+     if(s.maxChars&&isText(item&&item.text)&&item.text.length>s.maxChars)errors.push(`${at}[${i}]: ${item.text.length} characters is too long (maximum ${s.maxChars})`);
     }else if(!Array.isArray(item)||item.length!==s.tupleLength||!item.every(isText)){
      errors.push(`${at}[${i}]: needs ${s.tupleLength} non-empty parts (${s.tupleLabels.join(', ')})`);
     }
@@ -66,19 +65,8 @@ function validateLesson(lesson,ownNames=[]){
    if(isText(item&&item.title)&&isText(item&&item.text)&&!label.test(item.title+' '+item.text))errors.push(`illustration[${i}]: must say it is fictional or illustrative`);
   });
  }
- // short page: its own sections, all required together
- if(lesson.layout!==undefined&&lesson.layout!=='short')errors.push('layout: must be "short" or left out');
- for(const o of template.optional.filter(o=>o.type==='list'&&o.key!=='illustration')){
-  const v=lesson[o.key];
-  if(v===undefined){if(short)errors.push(`${o.key}: the short page needs this section`);continue}
-  if(!short)errors.push(`${o.key}: only a short-layout lesson uses this section`);
-  if(!Array.isArray(v)||v.length<o.minItems||v.length>o.maxItems){errors.push(`${o.key}: needs ${o.minItems===o.maxItems?o.minItems:o.minItems+' to '+o.maxItems} items`);continue}
-  v.forEach((item,i)=>{
-   for(const f of o.itemShape)if(!isText(item&&item[f]))errors.push(`${o.key}[${i}]: "${f}" is missing or empty`);
-   for(const f of Object.keys(item||{}))if(!o.itemShape.includes(f))errors.push(`${o.key}[${i}]: unexpected field "${f}"`);
-   if(isText(item&&item.text)&&item.text.length>o.maxChars)errors.push(`${o.key}[${i}]: ${item.text.length} characters is too long (maximum ${o.maxChars})`);
-  });
- }
+ // optional heading above the steps
+ if(lesson.stepsTitle!==undefined){const o=template.optional.find(o=>o.key==='stepsTitle');if(!isText(lesson.stepsTitle)||lesson.stepsTitle.length>o.maxChars)errors.push(`stepsTitle: must be text of at most ${o.maxChars} characters`)}
  // sources
  if(Array.isArray(lesson.sources)){
   const urls=lesson.sources.map(x=>x&&x[1]);

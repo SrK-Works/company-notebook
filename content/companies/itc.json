@@ -257,7 +257,6 @@
     ],
     "productSource": "https://itcportal.com/itc-businesses/fmcg.html",
     "productNote": "Major brands and business offerings named in ITC’s official portfolio as reviewed in October 2026. This groups product families rather than every flavour, variant or pack size. Tobacco brands are included for company-ownership research; tobacco use causes serious harm and this listing is not a product endorsement.",
-    "ownership": "This page covers ITC Limited. ITC Hotels became a separately listed company after the hotel business demerger, so hotel brands are not included here. Acquired consumer brands may operate through subsidiaries. Tobacco brands are listed to show the company’s business exposure, not to promote their use.",
     "sources": [
       [
         "Packaged foods portfolio",
@@ -274,11 +273,63 @@
       [
         "Safety matches portfolio",
         "https://itcportal.com/itc-businesses/fmcg/safety-matches.html"
+      ],
+      [
+        "FY 2025–26 results presentation",
+        "https://itcportal.com/content/dam/itc-corporate/pdfs/financial-result/quarterly-results-2025-2026/march-2026/ITC-Quarterly-Result-Presentation-Q4-FY2026.pdf"
       ]
     ],
     "logo": "assets/logos/itc.png"
   },
   "offerings": [
+    {
+      "name": "Sunfeast Bounce",
+      "category": "Biscuits and cakes",
+      "image": "assets/products/itc-15.webp",
+      "url": "https://itcportal.com/itc-businesses/fmcg.html",
+      "kind": "pack",
+      "alt": "Sunfeast — official product image"
+    },
+    {
+      "name": "Savlon",
+      "category": "Personal care · hygiene",
+      "image": "assets/products/itc-16.webp",
+      "url": "https://itcportal.com/itc-businesses/fmcg.html",
+      "kind": "pack",
+      "alt": "Savlon — official product image"
+    },
+    {
+      "name": "Cigarettes business",
+      "category": "Cigarette brands · separate reporting segment",
+      "url": "https://itcportal.com/itc-businesses/fmcg/cigarette.html",
+      "image": "assets/products/itc-business-cigarettes.svg",
+      "kind": "illustration",
+      "alt": "Cigarettes business — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Agri business",
+      "category": "Agricultural sourcing and business customers",
+      "url": "https://itcportal.com/itc-businesses/agri-business.html",
+      "image": "assets/products/itc-business-agri.svg",
+      "kind": "illustration",
+      "alt": "Agri business — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Paper & packaging",
+      "category": "Materials and packs for business customers",
+      "url": "https://itcportal.com/itc-businesses/packaging.html",
+      "image": "assets/products/itc-business-paper-packaging.svg",
+      "kind": "illustration",
+      "alt": "Paper & packaging — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "ITC Infotech",
+      "category": "Technology services · group subsidiary",
+      "url": "https://itcportal.com/itc-businesses/Information-Technology.html",
+      "image": "assets/products/itc-business-technology.svg",
+      "kind": "illustration",
+      "alt": "ITC Infotech — conceptual illustration, not a product photograph"
+    },
     {
       "name": "Fabelle",
       "category": "Food · chocolates",
@@ -302,22 +353,6 @@
       "url": "https://itcportal.com/itc-businesses/fmcg.html",
       "kind": "pack",
       "alt": "Candyman — official product image"
-    },
-    {
-      "name": "Sunfeast Bounce",
-      "category": "Biscuits and cakes",
-      "image": "assets/products/itc-15.webp",
-      "url": "https://itcportal.com/itc-businesses/fmcg.html",
-      "kind": "pack",
-      "alt": "Sunfeast — official product image"
-    },
-    {
-      "name": "Savlon",
-      "category": "Personal care · hygiene",
-      "image": "assets/products/itc-16.webp",
-      "url": "https://itcportal.com/itc-businesses/fmcg.html",
-      "kind": "pack",
-      "alt": "Savlon — official product image"
     },
     {
       "name": "Engage",

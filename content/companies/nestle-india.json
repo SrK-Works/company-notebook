@@ -133,9 +133,28 @@
       [
         "GERBER",
         "Infant and child nutrition"
+      ],
+      [
+        "CERELAC",
+        "Milk products and nutrition · reported brand"
+      ],
+      [
+        "NAN",
+        "Milk products and nutrition · reported brand"
+      ],
+      [
+        "NESPRESSO",
+        "Coffee and machines · India distribution arrangement"
+      ],
+      [
+        "Purina PetCare",
+        "Pet food · within Prepared Dishes and Cooking Aids"
+      ],
+      [
+        "Nestlé Professional",
+        "Out-of-home food and beverage offerings · sales channel"
       ]
     ],
-    "ownership": "Nestlé India Limited is the Indian listed company. The worldwide Nestlé group has a broader portfolio; global brand ownership does not imply that every global product is sold by Nestlé India.",
     "sources": [
       [
         "Coffee portfolio",
@@ -147,7 +166,7 @@
       ]
     ],
     "productSource": "https://www.nestle.in/info/sitemap",
-    "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
+    "productNote": "Selected Indian brand and offering families from the official product directory and FY 2025–26 report. Variants and pack sizes are grouped. Nestlé Professional is a sales channel, and a brand or product group is not a separately disclosed profit segment. Availability differs by product and channel.",
     "logo": "assets/logos/nestle-india.png",
     "aliases": [
       "BAR-ONE",
@@ -169,6 +188,46 @@
       "url": "https://www.maggi.in/en/product/maggi-2-minute-noodles/",
       "kind": "pack",
       "alt": "MAGGI Noodles — official product image"
+    },
+    {
+      "name": "NESCAFÉ Classic",
+      "category": "Coffee",
+      "image": "assets/products/nestle-india-6.webp",
+      "url": "https://www.nescafe.com/in/coffees/classic",
+      "kind": "pack",
+      "alt": "NESCAFÉ Classic — official product image"
+    },
+    {
+      "name": "Milk & nutrition",
+      "category": "Dairy and nutrition product group",
+      "url": "https://www.nestle.in/brands/dairy",
+      "image": "assets/products/nestle-business-milk-nutrition.svg",
+      "kind": "illustration",
+      "alt": "Milk & nutrition — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Confectionery",
+      "category": "Chocolate, wafers and sugar confectionery",
+      "url": "https://www.nestle.in/info/sitemap",
+      "image": "assets/products/nestle-business-confectionery.svg",
+      "kind": "illustration",
+      "alt": "Confectionery — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Purina PetCare",
+      "category": "Pet food · included in Prepared Dishes and Cooking Aids",
+      "url": "https://www.nestle.in/sites/g/files/pydnoa451/files/2026-06/AnnualReport2025-26andAGMNotice.pdf",
+      "image": "assets/products/nestle-business-petcare.svg",
+      "kind": "illustration",
+      "alt": "Purina PetCare — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Nestlé Professional",
+      "category": "Out-of-home offerings · customer channel",
+      "url": "https://www.nestle.in/media/pressreleases/allpressreleases/nestl%C3%A9-professional-reaches-landmark-1000th-retail-one-kiosk-india",
+      "image": "assets/products/nestle-business-professional.svg",
+      "kind": "illustration",
+      "alt": "Nestlé Professional — conceptual illustration, not a product photograph"
     },
     {
       "name": "MAGGI Nutri-licious",
@@ -209,14 +268,6 @@
       "url": "https://www.maggi.in/en/product/maggi-hot-sweet-tomato-chilli-sauce/",
       "kind": "pack",
       "alt": "MAGGI Sauces — official product image"
-    },
-    {
-      "name": "NESCAFÉ Classic",
-      "category": "Coffee",
-      "image": "assets/products/nestle-india-6.webp",
-      "url": "https://www.nescafe.com/in/coffees/classic",
-      "kind": "pack",
-      "alt": "NESCAFÉ Classic — official product image"
     },
     {
       "name": "NESCAFÉ Classic Black Roast",

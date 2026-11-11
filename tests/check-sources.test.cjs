@@ -14,11 +14,12 @@ test('collectSources reads every lesson source and names the company that uses i
   for (const places of uses.values()) assert.ok([...places].every(p => p === 'lesson:tcs'));
 });
 
-test('collectSources over the whole repository finds links from lessons and earlier profiles', () => {
+test('collectSources over the whole repository finds links from lessons, company records and figure walkthroughs', () => {
   const uses = collectSources(path.resolve(__dirname, '..'));
   const places = new Set([...uses.values()].flatMap(s => [...s]));
   assert.ok([...places].some(p => p.startsWith('lesson:')));
-  assert.ok([...places].some(p => p.startsWith('dist:')));
+  assert.ok([...places].some(p => p.startsWith('content/companies:')));
+  assert.ok([...places].some(p => p === 'dist:figure-walkthroughs.js'));
   assert.ok(uses.size > 100);
 });
 

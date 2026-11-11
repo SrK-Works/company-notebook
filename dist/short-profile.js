@@ -1,17 +1,19 @@
-/* The short company page: photos, four quick answers, how the work moves, what helps and what could hurt,
-   then the figures and sources. Everything else in the lesson opens under "Go deeper".
-   A lesson opts in with "layout": "short". All other companies keep the longer page. */
+/* The company page: photos or product pictures, four quick answers, how the work moves, what helps and
+   what could hurt, then the figures and sources. Everything else in the lesson opens under "Go deeper". */
 window.shortProfile=(()=>{
  const lesson=c=>window.COMPANY_LESSONS?.[c.id];
- const applies=c=>lesson(c)?.layout==='short';
+ const applies=c=>!!lesson(c);
  const render=(c,h)=>{
   const {safe,mono,saveButton,profileSources}=h,l=lesson(c);
   const photos=(window.PRODUCT_VISUALS?.[c.id]||[]).filter(p=>p.kind==='photo');
   const block=({title,text})=>`<div><h4>${safe(title)}</h4><p>${safe(text)}</p></div>`;
+  // A worked example with made-up numbers, always labelled so it cannot be mistaken for the company's figures.
+  // When the text is several sentences (a set of numbers), the first sentence leads and the rest become short lines.
+  const madeUp=({title,text})=>{const parts=String(text).split(/(?<=[.!?])\s+/).filter(Boolean);const body=parts.length>=4?`<p>${safe(parts[0])}</p><ul>${parts.slice(1).map(x=>`<li>${safe(x)}</li>`).join('')}</ul>`:`<p>${safe(text)}</p>`;return `<aside class="primer-illustration"><div class="primer-illustration-label">Illustration · made-up numbers, not the company’s figures</div><h4>${safe(title)}</h4>${body}</aside>`};
   const tile=(p,i)=>`<a class="sp-tile${i===0?' sp-tile-lead':''}${i>=5?' sp-tile-wide':''}" href="${safe(p.url)}" target="_blank" rel="noopener"><img src="${safe(p.image)}" alt="${safe(p.alt)}" loading="${i<2?'eager':'lazy'}" decoding="async"><span class="sp-cap"><strong>${safe(p.name)}</strong><span>${safe(p.category)}</span></span></a>`;
   const products=c.products||[];
   const visuals=photos.length>=5?`<section class="sp-photos" aria-label="What ${safe(c.name)} does, in photos"><div class="sp-grid">${photos.map(tile).join('')}</div><p class="source-note">Photographs from the company’s own published material (select a photo to open its source), chosen to show the kind of work. They are not a complete list of services.</p></section>`:(window.productShelf?.render(c)||'');
-  const older=window.companyPrimer?.olderNumbers?.(c)||'';
+  const older=window.FIGURE_WALKTHROUGHS?.[c.id]?.()||'';
   const deeper=[
    ['The main products and services',`<div class="sp-blocks">${l.groups.map(g=>`<div><h4>${safe(g.title)}</h4><p><strong>What the customer gets:</strong> ${safe(g.examples)}</p><p>${safe(g.explanation)}</p></div>`).join('')}</div>`],
    ['Words worth knowing',`<div class="sp-blocks">${l.basics.map(block).join('')}</div>`],
@@ -19,7 +21,7 @@ window.shortProfile=(()=>{
    ['What else could go wrong',`<div class="sp-blocks">${l.risks.map(([n,d])=>`<div><h4>${safe(n)}</h4><p>${safe(d)}</p></div>`).join('')}</div>`],
    ['What to check next',`<div class="sp-blocks">${l.watch.map(([q,why,how])=>`<div><h4>${safe(q)}</h4><p>${safe(why)}</p><p class="sp-how"><strong>How to look:</strong> ${safe(how)}</p></div>`).join('')}</div><p class="source-note">Research prompts, not findings.</p>`],
    ['A recent development',`<div class="sp-blocks"><div><h4>${safe(l.context[0])}</h4><p>${safe(l.context[1])}</p></div></div>`],
-   ...(l.illustration?.length?[['A made-up example',`<div class="sp-blocks">${l.illustration.map(block).join('')}</div>`]]:[]),
+   ...(l.illustration?.length?[['A made-up example',l.illustration.map(madeUp).join('')]]:[]),
   ];
   const fullList=products.length?`<details class="sp-more portfolio-list" id="products"><summary>All ${products.length} listed products and services</summary><div class="product-grid">${products.map(p=>`<div class="product"><strong>${safe(p[0])}</strong><span>${safe(p[1])}</span></div>`).join('')}</div><p class="source-note">${safe(c.productNote||'Selected offerings, not a complete catalogue.')}</p></details>`:'';
   return `<a class="back" href="#/">← All companies</a>

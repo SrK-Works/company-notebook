@@ -45,6 +45,19 @@
       "write": "Two or three concrete things, such as prices, volumes, costs or contract terms. No numbers."
     },
     {
+      "key": "quick",
+      "type": "list",
+      "itemShape": [
+        "title",
+        "text"
+      ],
+      "minItems": 4,
+      "maxItems": 4,
+      "maxChars": 260,
+      "write": "Exactly four answers in this order: what it does, who pays, how it earns, what it mainly spends on. One or two plain sentences each. No amounts.",
+      "answers": "What is this business, in one minute?"
+    },
+    {
       "key": "groups",
       "type": "list",
       "minItems": 4,
@@ -121,6 +134,32 @@
       "write": "Plain risks tied to how this company earns and spends. Repeat only what a source says. Never imply wrongdoing unless a filing says so."
     },
     {
+      "key": "helps",
+      "type": "list",
+      "itemShape": [
+        "title",
+        "text"
+      ],
+      "minItems": 3,
+      "maxItems": 3,
+      "maxChars": 340,
+      "write": "Three things the sources show that work in the company's favour. State what the source says and why it matters. This is not advice or a forecast.",
+      "answers": "What works in the company’s favour?"
+    },
+    {
+      "key": "hurts",
+      "type": "list",
+      "itemShape": [
+        "title",
+        "text"
+      ],
+      "minItems": 3,
+      "maxItems": 4,
+      "maxChars": 340,
+      "write": "Three or four things the sources show that make the business harder. Repeat only what a source says. Never imply wrongdoing unless a filing says so.",
+      "answers": "What makes the business harder?"
+    },
+    {
       "key": "context",
       "type": "pair",
       "tupleLabels": [
@@ -129,16 +168,6 @@
       ],
       "answers": "What recent development should I know about?",
       "write": "One dated, sourced development. Keep plans described as plans."
-    },
-    {
-      "key": "quiz",
-      "type": "pair",
-      "tupleLabels": [
-        "question",
-        "answer"
-      ],
-      "answers": "Did I understand the main idea?",
-      "write": "One self-check question and its answer, about the business mechanics and not about numbers."
     },
     {
       "key": "sources",
@@ -215,52 +244,10 @@
       "write": "A verified financial record. Only added by a separate financial review."
     },
     {
-      "key": "layout",
-      "type": "flag",
-      "value": "short",
-      "write": "Set to \"short\" to show the company on the short page: photos, four quick answers, how the work moves, what helps and what could hurt, then the figures. A short page also needs quick, helps and hurts, and does not need a quiz. Everything else stays in the lesson and opens under \"Go deeper\"."
-    },
-    {
       "key": "stepsTitle",
       "type": "text",
       "maxChars": 60,
-      "write": "Short page only, optional. The heading above the steps, in the company's own terms, for example \"From a seller’s shelf to your door.\" Defaults to \"From the work to the payment.\""
-    },
-    {
-      "key": "quick",
-      "type": "list",
-      "itemShape": [
-        "title",
-        "text"
-      ],
-      "minItems": 4,
-      "maxItems": 4,
-      "maxChars": 260,
-      "write": "Short page only. Exactly four answers in this order: what it does, who pays, how it earns, what it mainly spends on. One or two plain sentences each. No amounts."
-    },
-    {
-      "key": "helps",
-      "type": "list",
-      "itemShape": [
-        "title",
-        "text"
-      ],
-      "minItems": 3,
-      "maxItems": 3,
-      "maxChars": 340,
-      "write": "Short page only. Three things the sources show that work in the company's favour. State what the source says and why it matters. This is not advice or a forecast."
-    },
-    {
-      "key": "hurts",
-      "type": "list",
-      "itemShape": [
-        "title",
-        "text"
-      ],
-      "minItems": 3,
-      "maxItems": 4,
-      "maxChars": 340,
-      "write": "Short page only. Three or four things the sources show that make the business harder. Repeat only what a source says. Never imply wrongdoing unless a filing says so."
+      "write": "The heading above the steps, in the company's own terms, for example \"From a seller’s shelf to your door.\" Defaults to \"From the work to the payment.\""
     }
   ],
   "rules": {
