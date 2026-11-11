@@ -19,6 +19,10 @@ For each company you are given, create or update `content/financial-reviews/<id>
 - Read `content/financial-reviews/AGENTS.md` first and follow it exactly. The 17 original snapshots in `dist/financial-data.js` must not change.
 - Never estimate, average, or split company profit by brand or product. If a number is not disclosed, leave it out and say so in the notes.
 - Plain-language notes: one or two short sentences a beginner can follow. Explain any measure (segment result, PAT) where it is used.
+- In lesson `financialNotes`, round amounts: whole crore for ₹100 crore or more, one decimal below that. Full precision belongs only in the snapshot JSON and the evidence file.
+- Explain the reporting scope in plain words the first time it appears in a note, for example "consolidated, meaning the company and its subsidiaries together".
+- Explain accounting terms (write-down, goodwill, tax credit, exceptional item) in the lesson note itself, not only in the snapshot.
+- Mention one-off items that change profit, including one-off tax items, next to the profit figure. Mention when a few customers bring in a large share of revenue, if the filing discloses it.
 - You may update the matching lesson's `financialNotes` only (the one lesson section that may contain amounts), so it agrees with your snapshot. Do not edit any other lesson section, anything in `dist/`, `scripts/` or `tests/`.
 - If a filing cannot be read, stop on that company and report it. Do not use third-party data sites (Moneycontrol, Screener, Tijori and so on) as a source.
 
