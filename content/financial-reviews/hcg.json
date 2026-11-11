@@ -1,0 +1,24 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated · Ind AS",
+  "coverage": "Whole hospital group · single medical and healthcare services segment · includes the Milann fertility business, held for sale at year end",
+  "unit": "₹ crore",
+  "profitMetric": "PAT attributable to owners",
+  "definition": "Profit after tax that belongs to HCG’s own shareholders, after removing the share earned by outside partners in some hospital subsidiaries (non-controlling interests). It is after a one-off write-down and other exceptional items. It is not hospital operating profit or cash.",
+  "rows": [
+    {
+      "name": "HCG · whole group",
+      "revenue": 2538.429,
+      "profit": 13.755
+    }
+  ],
+  "source": "https://www.hcgoncology.com/uploads/ir/HCG%20Annual%20Report%20FY2026.pdf",
+  "sourceLabel": "Annual report 2025–26 · audited consolidated financial statements",
+  "location": "PDF page 296 / printed page 337 · consolidated statement of profit and loss; PDF page 336 / printed page 377 · note 31, exceptional items; PDF page 343 / printed page 384 · note 36, segment",
+  "notes": "Source figures are ₹ million and were divided by 10. Revenue is revenue from operations and excludes government grants (₹6.976 crore) and other income (₹24.989 crore). Total group profit after tax was ₹22.773 crore, of which ₹9.018 crore belongs to outside partners. Profit is after ₹44.581 crore of one-off charges: a ₹31.911 crore write-down of goodwill (the premium once paid for the business) in the Milann fertility business, which was being sold, and ₹12.670 crore for the new Labour Codes. Milann’s results are still included because it was not treated as a discontinued business.",
+  "insight": "HCG’s hospitals brought in about 14% more revenue than a year earlier, but very little profit was left for shareholders after interest, equipment wear, tax and the one-off write-down on the fertility business it was selling. Before those one-off charges, group profit before tax was ₹71.491 crore.",
+  "status": "single",
+  "checked": "11 November 2026",
+  "revenueTotal": 2538.429,
+  "profitTotal": 13.755
+}
