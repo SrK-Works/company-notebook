@@ -16,6 +16,8 @@ For each company you are given:
 
 ## Rules you must follow
 
+- **Every document you quote is in `sources`.** If the lesson says "the annual report says…" or "the offer document says…", that document's link must be in the lesson's `sources` list (at most ten; drop a weaker source if needed).
+
 - **Picture types are honest.** `photo` only for real scenes of people, stores or work. Product cut-outs, adverts with slogans and rendered cards are `pack`; drawings are `illustration`. Never change a type to make the photo mosaic appear. Reject any image that shows a price.
 - **Helps, hurts and company specifics are lasting explanations**, sourced from the annual report's strategy, outlook or risk sections. Dated quarter figures belong only in `context`, compared with the same quarter a year earlier.
 - **Earnings calls are what managers said.** Attribute anything from a call ("managers said on the 29 July 2026 call"), never state an off-the-cuff estimate as fact, and prefer filed documents when both exist.
