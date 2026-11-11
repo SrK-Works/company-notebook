@@ -1,0 +1,169 @@
+{
+  "order": 43,
+  "company": {
+    "id": "kotak-mahindra-bank",
+    "name": "Kotak Mahindra Bank",
+    "ticker": "KOTAKBANK",
+    "sector": "Banking",
+    "initial": "K",
+    "color": "#c8102e",
+    "bg": "#fdecef",
+    "tag": "A bank that also runs a broker, a fund house and an insurer",
+    "products": [
+      [
+        "Savings accounts",
+        "Deposits and payments"
+      ],
+      [
+        "Kotak811 digital savings account",
+        "Deposits and payments"
+      ],
+      [
+        "Current accounts",
+        "Business banking"
+      ],
+      [
+        "Fixed and recurring deposits",
+        "Deposits"
+      ],
+      [
+        "Foreign-currency deposits for Indians abroad",
+        "Deposits"
+      ],
+      [
+        "Credit and debit cards",
+        "Payments and credit"
+      ],
+      [
+        "Home loans and loans against property",
+        "Secured lending"
+      ],
+      [
+        "Gold loans",
+        "Secured lending"
+      ],
+      [
+        "Personal and business loans",
+        "Unsecured lending"
+      ],
+      [
+        "Car loans (Kotak Mahindra Prime)",
+        "Vehicle finance"
+      ],
+      [
+        "Tractor, truck and construction equipment loans",
+        "Business lending"
+      ],
+      [
+        "Loans to small, medium and large companies",
+        "Business lending"
+      ],
+      [
+        "Microcredit (BSS Sonata Microcredit)",
+        "Small loans to rural borrowers"
+      ],
+      [
+        "Share trading (Kotak Securities)",
+        "Broking"
+      ],
+      [
+        "Mutual funds (Kotak Mahindra Asset Management)",
+        "Fund management"
+      ],
+      [
+        "Life insurance (Kotak Mahindra Life Insurance)",
+        "Insurance"
+      ],
+      [
+        "Investment banking (Kotak Mahindra Capital)",
+        "Advice to companies"
+      ],
+      [
+        "Private banking for wealthy families (Kotak Private)",
+        "Wealth management"
+      ]
+    ],
+    "sources": [
+      [
+        "Kotak Mahindra Bank Investor Relations",
+        "https://www.kotak.com/en/investor-relations.html"
+      ]
+    ],
+    "productSource": "https://www.kotak.bank.in/en/home.html",
+    "checked": "11 November 2026",
+    "reviewed": "11 November 2026",
+    "aliases": [
+      "Kotak Mahindra Bank Limited",
+      "Kotak Mahindra Bank Ltd",
+      "Kotak Bank",
+      "Kotak"
+    ],
+    "productNote": "Main product and service families from the bank’s website and its October 2026 investor presentation, grouped by what the customer gets."
+  },
+  "offerings": [
+    {
+      "name": "Savings accounts",
+      "category": "A place to keep and spend everyday money",
+      "image": "assets/products/kotak-mahindra-bank-savings.webp",
+      "url": "https://www.kotak.bank.in/en/personal-banking/accounts/savings-account.html",
+      "kind": "photo",
+      "alt": "A young man in a red hoodie smiling at his phone — banner image from Kotak Mahindra Bank’s savings-account page"
+    },
+    {
+      "name": "Kotak811",
+      "category": "A savings account opened and run on a phone",
+      "image": "assets/products/kotak-mahindra-bank-811.webp",
+      "url": "https://www.kotak.bank.in/en/personal-banking/accounts/savings-account.html",
+      "kind": "photo",
+      "alt": "A woman in red sitting in a red armchair and using her phone — banner image for the Kotak811 zero-balance account from Kotak Mahindra Bank’s website"
+    },
+    {
+      "name": "Fixed deposits",
+      "category": "Money left with the bank for a fixed time at a set interest rate",
+      "image": "assets/products/kotak-mahindra-bank-fixed-deposit.webp",
+      "url": "https://www.kotak.bank.in/en/personal-banking/deposits/fixed-deposit.html",
+      "kind": "photo",
+      "alt": "An older couple sitting on a sofa at home looking at a phone together — banner image from Kotak Mahindra Bank’s fixed-deposit offer"
+    },
+    {
+      "name": "Home loans",
+      "category": "Money lent to buy a house, repaid over many years",
+      "image": "assets/products/kotak-mahindra-bank-home-loan.webp",
+      "url": "https://www.kotak.bank.in/en/personal-banking/loans/home-loan.html",
+      "kind": "photo",
+      "alt": "A family of three standing in front of a modern house with the Kotak logo shape beside them — banner image from Kotak Mahindra Bank’s home-loan page"
+    },
+    {
+      "name": "Credit and debit cards",
+      "category": "Cards for paying in shops and online",
+      "image": "assets/products/kotak-mahindra-bank-cards.webp",
+      "url": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards.html",
+      "kind": "photo",
+      "alt": "Five Kotak bank cards in silver, red, black, rose and gold on a black background — image from Kotak Mahindra Bank’s website"
+    },
+    {
+      "name": "Gold loans",
+      "category": "A loan given against gold jewellery left with the bank",
+      "image": "assets/products/kotak-mahindra-bank-gold-loan.webp",
+      "url": "https://www.kotak.bank.in/en/personal-banking/loans/gold-loan.html",
+      "kind": "photo",
+      "alt": "A couple at a bank desk with gold jewellery on a tray in front of a bank officer — banner image from Kotak Mahindra Bank’s gold-loan page"
+    },
+    {
+      "name": "Car loans",
+      "category": "Money lent to buy a car, repaid in monthly instalments",
+      "image": "assets/products/kotak-mahindra-bank-car-loan.webp",
+      "url": "https://www.kotak.bank.in/en/personal-banking/loans/car-loan.html",
+      "kind": "photo",
+      "alt": "Car keys hanging from a car door lock — banner image from Kotak Mahindra Bank’s car-loan page"
+    },
+    {
+      "name": "Business accounts and payments",
+      "category": "Accounts and money transfers for shops and companies",
+      "image": "assets/products/kotak-mahindra-bank-business.webp",
+      "url": "https://www.kotak.bank.in/en/home.html",
+      "kind": "photo",
+      "alt": "Folders marked “Vendors” and “Payments processed” beside a tablet showing “Transfer complete” — illustration from a Kotak Mahindra Bank article about paying suppliers"
+    }
+  ]
+}
