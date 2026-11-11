@@ -37,7 +37,7 @@ test('rounded margins are not converted into invented earnings amounts',()=>{
 });
 test('company totals never advertise a ranking between businesses',()=>{
  for(const id of ['park-medi-world','glass-wall-systems','kanohar-electricals']){
-  const html=render({id,name:id});assert.ok(html.includes('What the company totals tell us.'));assert.ok(!html.includes('LARGEST REVENUE'));
+  const html=render({id,name:id});assert.ok(html.includes('What the company totals tell us.'));assert.ok(!html.includes('Largest revenue'));
  }
 });
 test('missing verification is distinct from a company not disclosing figures',()=>{
