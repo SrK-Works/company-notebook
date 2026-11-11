@@ -1,85 +1,253 @@
 {
-  "layout": "short",
   "summary": "Nestlé India makes and sells MAGGI noodles, NESCAFÉ coffee, KITKAT, MILKMAID and other foods and drinks, plus nutrition products, pet food and supplies for cafés and other businesses.",
   "description": "Nestlé India makes and sells food and drinks: a MAGGI noodle pack for a quick meal, NESCAFÉ for coffee, a KITKAT snack or MILKMAID for cooking. It buys ingredients such as milk, coffee, cocoa and grains, makes and checks the products in its factories, packs them and supplies the places where people shop or eat. Nestlé India is the Indian company; the worldwide Nestlé group is a separate, larger business with its own results.",
   "money": "Nestlé India earns money by supplying food and drinks to distributors, shops, retail chains, online sellers and businesses that serve food outside the home. Milk, coffee, cocoa, other ingredients, packaging, factory work, delivery, advertising and fees for using brands or know-how all cost money. The price a shopper pays in a shop is not the amount Nestlé India records, because the channel, taxes and discounts sit in between.",
   "customers": "Households buy through shops and online stores. A distributor often buys the stock first to supply shops, so Nestlé India’s direct customer can be different from the person eating the product. Through Nestlé Professional it also supplies cafés, offices and other businesses serving food and drinks outside the home.",
   "drivers": "How much is sold and of which products, the selling prices, and ingredient costs such as milk, coffee and cocoa. Product quality, reaching more shops and towns, and spending on factories also matter.",
   "groups": [
-    {"title": "Milk Products and Nutrition", "examples": "Dairy whitener, condensed milk and nutrition products such as EVERYDAY, MILKMAID, Nestlé a+, CERELAC and NAN.", "explanation": "Buying milk, preparing products, checking quality and choosing what to sell all affect costs and demand."},
-    {"title": "Prepared Dishes and Cooking Aids", "examples": "MAGGI noodles, sauces and seasonings, pasta and cereals. The annual report also places Purina PetCare pet food in this group.", "explanation": "Convenience, taste, pack size, grain and ingredient costs, and getting goods into shops all matter. Growth in this group need not mean MAGGI grew by the same amount."},
-    {"title": "Powdered and Liquid Beverages", "examples": "NESCAFÉ coffee in its different formats, NESTEA and ready-to-drink beverages.", "explanation": "Coffee costs and the balance between basic packs, premium products and ready-to-drink formats change both sales and costs."},
-    {"title": "Confectionery", "examples": "KITKAT, MUNCH, MILKYBAR, BAR-ONE and POLO.", "explanation": "Cocoa, milk, sugar and packaging costs, pack sizes and small unplanned purchases shape this business."},
-    {"title": "Nestlé Professional and NESPRESSO", "examples": "Food and drink offerings for cafés, offices and kiosks; NESPRESSO coffee and machines under a stated India distribution arrangement.", "explanation": "These are different routes to customers rather than separate profit divisions. Selling through a branded kiosk does not mean Nestlé India owns that outlet."}
+    {
+      "title": "Milk Products and Nutrition",
+      "examples": "Dairy whitener, condensed milk and nutrition products such as EVERYDAY, MILKMAID, Nestlé a+, CERELAC and NAN.",
+      "explanation": "Buying milk, preparing products, checking quality and choosing what to sell all affect costs and demand."
+    },
+    {
+      "title": "Prepared Dishes and Cooking Aids",
+      "examples": "MAGGI noodles, sauces and seasonings, pasta and cereals. The annual report also places Purina PetCare pet food in this group.",
+      "explanation": "Convenience, taste, pack size, grain and ingredient costs, and getting goods into shops all matter. Growth in this group need not mean MAGGI grew by the same amount."
+    },
+    {
+      "title": "Powdered and Liquid Beverages",
+      "examples": "NESCAFÉ coffee in its different formats, NESTEA and ready-to-drink beverages.",
+      "explanation": "Coffee costs and the balance between basic packs, premium products and ready-to-drink formats change both sales and costs."
+    },
+    {
+      "title": "Confectionery",
+      "examples": "KITKAT, MUNCH, MILKYBAR, BAR-ONE and POLO.",
+      "explanation": "Cocoa, milk, sugar and packaging costs, pack sizes and small unplanned purchases shape this business."
+    },
+    {
+      "title": "Nestlé Professional and NESPRESSO",
+      "examples": "Food and drink offerings for cafés, offices and kiosks; NESPRESSO coffee and machines under a stated India distribution arrangement.",
+      "explanation": "These are different routes to customers rather than separate profit divisions. Selling through a branded kiosk does not mean Nestlé India owns that outlet."
+    }
   ],
   "basics": [
-    {"title": "Company, brand and product group", "text": "Nestlé India is the company whose accounts this page explains. MAGGI is a brand covering noodles, sauces and cooking aids. The annual report groups similar products into product groups to show what sells; a product group does not come with its own profit figure."},
-    {"title": "One reported business", "text": "Nestlé India reports a single operating segment called Food. The product groups sit inside it, so the company discloses sales for each group but profit only for the company as a whole."},
-    {"title": "Volume, price and mix", "text": "Volume is how much is sold. Price is what is charged. Mix is the balance of products and formats. A smaller pack sold at a lower price, or a shift to pricier coffee, changes sales in different ways."},
-    {"title": "Royalties", "text": "Royalties are payments for agreed rights, such as using brands or know-how. Nestlé India pays royalties to the wider group, and its disclosures describe these as dealings with related parties, which are companies in the same group."}
+    {
+      "title": "Company, brand and product group",
+      "text": "Nestlé India is the company whose accounts this page explains. MAGGI is a brand covering noodles, sauces and cooking aids. The annual report groups similar products into product groups to show what sells; a product group does not come with its own profit figure."
+    },
+    {
+      "title": "One reported business",
+      "text": "Nestlé India reports a single operating segment called Food. The product groups sit inside it, so the company discloses sales for each group but profit only for the company as a whole."
+    },
+    {
+      "title": "Volume, price and mix",
+      "text": "Volume is how much is sold. Price is what is charged. Mix is the balance of products and formats. A smaller pack sold at a lower price, or a shift to pricier coffee, changes sales in different ways."
+    },
+    {
+      "title": "Royalties",
+      "text": "Royalties are payments for agreed rights, such as using brands or know-how. Nestlé India pays royalties to the wider group, and its disclosures describe these as dealings with related parties, which are companies in the same group."
+    }
   ],
   "stepsTitle": "From milk and coffee beans to your kitchen.",
   "steps": [
-    {"title": "Source ingredients", "text": "Nestlé India arranges milk, coffee, cocoa, grains, other inputs and packaging, or finished goods for some offerings."},
-    {"title": "Make, check and pack", "text": "Factories turn ingredients into products, control quality and pack them for storage and delivery. Requirements differ from product to product."},
-    {"title": "Reach the shop or café", "text": "Goods move through distributors, retailers, online sellers or out-of-home partners such as cafés and kiosks."},
-    {"title": "Get paid by the buyer", "text": "The distributor, retailer or business buyer pays Nestlé India under agreed terms. That money must cover ingredients, factories, staff, delivery, advertising and royalties."},
-    {"title": "Earn the next purchase", "text": "The household uses the product and may choose it again. Availability, taste, price, trust and alternatives decide whether it does."}
+    {
+      "title": "Source ingredients",
+      "text": "Nestlé India arranges milk, coffee, cocoa, grains, other inputs and packaging, or finished goods for some offerings."
+    },
+    {
+      "title": "Make, check and pack",
+      "text": "Factories turn ingredients into products, control quality and pack them for storage and delivery. Requirements differ from product to product."
+    },
+    {
+      "title": "Reach the shop or café",
+      "text": "Goods move through distributors, retailers, online sellers or out-of-home partners such as cafés and kiosks."
+    },
+    {
+      "title": "Get paid by the buyer",
+      "text": "The distributor, retailer or business buyer pays Nestlé India under agreed terms. That money must cover ingredients, factories, staff, delivery, advertising and royalties."
+    },
+    {
+      "title": "Earn the next purchase",
+      "text": "The household uses the product and may choose it again. Availability, taste, price, trust and alternatives decide whether it does."
+    }
   ],
   "specifics": [
-    {"title": "Compare pack sizes as well as prices", "text": "A cheaper pack may contain less. To understand demand, look at quantities or equivalent measures rather than counting every pack as the same."},
-    {"title": "Milk, coffee and cocoa follow different cycles", "text": "These ingredients have different supply and price patterns. A cost change that hits chocolate need not affect a noodle pack in the same way, and stock bought earlier can delay the effect."},
-    {"title": "Reaching more buyers is different from selling more to the same buyers", "text": "New outlets, smaller towns, online shopping and cafés can reach new customers. Customers choosing pricier or more specialised products is a different kind of growth, called premiumisation."},
-    {"title": "Most sales do not mean most profit", "text": "Milk Products and Nutrition has the most reported product sales, but the company does not publish a profit for each group. Dividing company profit among brands in proportion to sales would invent a breakdown."}
+    {
+      "title": "Compare pack sizes as well as prices",
+      "text": "A cheaper pack may contain less. To understand demand, look at quantities or equivalent measures rather than counting every pack as the same."
+    },
+    {
+      "title": "Milk, coffee and cocoa follow different cycles",
+      "text": "These ingredients have different supply and price patterns. A cost change that hits chocolate need not affect a noodle pack in the same way, and stock bought earlier can delay the effect."
+    },
+    {
+      "title": "Reaching more buyers is different from selling more to the same buyers",
+      "text": "New outlets, smaller towns, online shopping and cafés can reach new customers. Customers choosing pricier or more specialised products is a different kind of growth, called premiumisation."
+    },
+    {
+      "title": "Most sales do not mean most profit",
+      "text": "Milk Products and Nutrition has the most reported product sales, but the company does not publish a profit for each group. Dividing company profit among brands in proportion to sales would invent a breakdown."
+    }
   ],
   "watch": [
-    ["Is demand increasing, or are prices and pack sizes changing?", "Sales can grow because more is bought, because prices rose or because the mix changed.", "Read the company’s volume and category commentary alongside sales. Smaller packs, price changes and premium products can change the picture, so compare quantities or equivalent measures where disclosed rather than treating every pack as the same size."],
-    ["Which ingredient costs are affecting which products?", "Milk, coffee and cocoa costs feed into prices and what is left after costs.", "Follow the ingredient-cost explanation in the results and annual report. These inputs do not rise or fall together, and earlier stock can delay the effect. Read selling-price changes, promotional spending and the stated margin definition together."],
-    ["Is wider distribution creating repeat purchases?", "New outlets, rural reach, online sellers and cafés only matter if people keep buying.", "Read commentary on established outlets, newer areas, online shopping and Nestlé Professional. Separate stock supplied into a channel from shoppers actually buying it. More outlets or kiosks show reach, not a repeat-purchase rate."],
-    ["Are quality and compliance protecting trust?", "A food business depends on consistent safety, labelling and product standards.", "Use the company’s official statements, regulatory disclosures and annual-report risk discussion. Identify the product, factory, date and scope of any issue, and separate an allegation from a regulator’s finding and the company’s response."],
-    ["Is new factory capacity turning into sales and cash?", "Factories cost money before they produce useful sales.", "Compare investment spending with commentary on bringing new plants into use and how much of their capacity is used. Read depreciation, stock and operating cash flow as well as profit. Extra capacity is not yet a sale or a return on the money spent."]
+    [
+      "Is demand increasing, or are prices and pack sizes changing?",
+      "Sales can grow because more is bought, because prices rose or because the mix changed.",
+      "Read the company’s volume and category commentary alongside sales. Smaller packs, price changes and premium products can change the picture, so compare quantities or equivalent measures where disclosed rather than treating every pack as the same size."
+    ],
+    [
+      "Which ingredient costs are affecting which products?",
+      "Milk, coffee and cocoa costs feed into prices and what is left after costs.",
+      "Follow the ingredient-cost explanation in the results and annual report. These inputs do not rise or fall together, and earlier stock can delay the effect. Read selling-price changes, promotional spending and the stated margin definition together."
+    ],
+    [
+      "Is wider distribution creating repeat purchases?",
+      "New outlets, rural reach, online sellers and cafés only matter if people keep buying.",
+      "Read commentary on established outlets, newer areas, online shopping and Nestlé Professional. Separate stock supplied into a channel from shoppers actually buying it. More outlets or kiosks show reach, not a repeat-purchase rate."
+    ],
+    [
+      "Are quality and compliance protecting trust?",
+      "A food business depends on consistent safety, labelling and product standards.",
+      "Use the company’s official statements, regulatory disclosures and annual-report risk discussion. Identify the product, factory, date and scope of any issue, and separate an allegation from a regulator’s finding and the company’s response."
+    ],
+    [
+      "Is new factory capacity turning into sales and cash?",
+      "Factories cost money before they produce useful sales.",
+      "Compare investment spending with commentary on bringing new plants into use and how much of their capacity is used. Read depreciation, stock and operating cash flow as well as profit. Extra capacity is not yet a sale or a return on the money spent."
+    ]
   ],
   "risks": [
-    ["Ingredient costs rise while shoppers watch prices", "Dearer milk, coffee, cocoa, grains or packaging raise costs. Raising prices or shrinking packs can protect earnings per sale but may change what people buy."],
-    ["Food safety or labelling problems", "A product issue, restriction or recall can interrupt supply, add costs and damage trust."],
-    ["Shoppers choose alternatives", "Other packaged brands, regional products, fresh food and changing tastes compete for household spending, and fighting back with advertising costs money."],
-    ["Expansion uses money before it earns", "Factories, equipment and new distribution need spending. If demand comes slowly, costs weigh on results while stock and unpaid bills tie up cash."],
-    ["A headline comparison hides a different measure", "Product sales, revenue, operating profit and profit after tax measure different things, and changes in mix, one-off items or period length can make simple comparisons misleading."]
+    [
+      "Ingredient costs rise while shoppers watch prices",
+      "Dearer milk, coffee, cocoa, grains or packaging raise costs. Raising prices or shrinking packs can protect earnings per sale but may change what people buy."
+    ],
+    [
+      "Food safety or labelling problems",
+      "A product issue, restriction or recall can interrupt supply, add costs and damage trust."
+    ],
+    [
+      "Shoppers choose alternatives",
+      "Other packaged brands, regional products, fresh food and changing tastes compete for household spending, and fighting back with advertising costs money."
+    ],
+    [
+      "Expansion uses money before it earns",
+      "Factories, equipment and new distribution need spending. If demand comes slowly, costs weigh on results while stock and unpaid bills tie up cash."
+    ],
+    [
+      "A headline comparison hides a different measure",
+      "Product sales, revenue, operating profit and profit after tax measure different things, and changes in mix, one-off items or period length can make simple comparisons misleading."
+    ]
   ],
-  "context": ["Read what is inside a category name", "In Nestlé India’s report, Prepared Dishes and Cooking Aids includes cereals and pet food as well as noodles and sauces. Growth in that group need not mean the same change in MAGGI sales, so read the group’s contents and commentary before crediting one familiar brand."],
+  "context": [
+    "Read what is inside a category name",
+    "In Nestlé India’s report, Prepared Dishes and Cooking Aids includes cereals and pet food as well as noodles and sauces. Growth in that group need not mean the same change in MAGGI sales, so read the group’s contents and commentary before crediting one familiar brand."
+  ],
   "sources": [
-    ["Nestlé India at a glance", "https://www.nestle.in/about-us/at-a-glance"],
-    ["Indian product and offering directory", "https://www.nestle.in/info/sitemap"],
-    ["FY 2025–26 annual report · product groups and accounts", "https://www.nestle.in/sites/g/files/pydnoa451/files/2026-06/AnnualReport2025-26andAGMNotice.pdf"],
-    ["Official key financial figures and period notes", "https://www.nestle.in/investors/keyfigures"],
-    ["Dairy portfolio", "https://www.nestle.in/brands/dairy"],
-    ["Nutrition portfolio", "https://www.nestle.in/brands/nutrition"],
-    ["Foods portfolio", "https://www.nestle.in/brands/foods"],
-    ["Nestlé Professional · out-of-home business", "https://www.nestle.in/media/pressreleases/allpressreleases/nestl%C3%A9-professional-reaches-landmark-1000th-retail-one-kiosk-india"],
-    ["NESPRESSO India distribution announcement", "https://www.nestle.in/sites/g/files/pydnoa451/files/2025-03/NSEBSESTXintimationNespressosigned.pdf"],
-    ["Royalty disclosure", "https://www.nestle.in/investors/stockandfinancials/royalty"]
+    [
+      "Nestlé India at a glance",
+      "https://www.nestle.in/about-us/at-a-glance"
+    ],
+    [
+      "Indian product and offering directory",
+      "https://www.nestle.in/info/sitemap"
+    ],
+    [
+      "FY 2025–26 annual report · product groups and accounts",
+      "https://www.nestle.in/sites/g/files/pydnoa451/files/2026-06/AnnualReport2025-26andAGMNotice.pdf"
+    ],
+    [
+      "Official key financial figures and period notes",
+      "https://www.nestle.in/investors/keyfigures"
+    ],
+    [
+      "Dairy portfolio",
+      "https://www.nestle.in/brands/dairy"
+    ],
+    [
+      "Nutrition portfolio",
+      "https://www.nestle.in/brands/nutrition"
+    ],
+    [
+      "Foods portfolio",
+      "https://www.nestle.in/brands/foods"
+    ],
+    [
+      "Nestlé Professional · out-of-home business",
+      "https://www.nestle.in/media/pressreleases/allpressreleases/nestl%C3%A9-professional-reaches-landmark-1000th-retail-one-kiosk-india"
+    ],
+    [
+      "NESPRESSO India distribution announcement",
+      "https://www.nestle.in/sites/g/files/pydnoa451/files/2025-03/NSEBSESTXintimationNespressosigned.pdf"
+    ],
+    [
+      "Royalty disclosure",
+      "https://www.nestle.in/investors/stockandfinancials/royalty"
+    ]
   ],
   "financialNotes": [
-    {"title": "Product-group sales are not profits", "text": "The walkthrough above shows sales by product group for FY 2025–26 on Nestlé India’s standalone basis. The company reports one Food segment, so there is no published profit for any group or brand."},
-    {"title": "Check the length of the period", "text": "FY 2025–26 covers the 12 months to 31 March 2026. Nestlé India’s transition year 2023–24 covered 15 months, so its totals should not be compared with a 12-month year as if the periods were equal."},
-    {"title": "What to read next", "text": "Read operating cash flow, stock, customer and supplier balances, factory investment and the related-party notes on royalties. These connect the profit figure to the cash needed to run and grow the business."}
+    {
+      "title": "Product-group sales are not profits",
+      "text": "The walkthrough above shows sales by product group for FY 2025–26 on Nestlé India’s standalone basis. The company reports one Food segment, so there is no published profit for any group or brand."
+    },
+    {
+      "title": "Check the length of the period",
+      "text": "FY 2025–26 covers the 12 months to 31 March 2026. Nestlé India’s transition year 2023–24 covered 15 months, so its totals should not be compared with a 12-month year as if the periods were equal."
+    },
+    {
+      "title": "What to read next",
+      "text": "Read operating cash flow, stock, customer and supplier balances, factory investment and the related-party notes on royalties. These connect the profit figure to the cash needed to run and grow the business."
+    }
   ],
   "quick": [
-    {"title": "What it does", "text": "Nestlé India makes and sells MAGGI noodles, NESCAFÉ coffee, KITKAT, MILKMAID and other foods and drinks, plus nutrition products, pet food and supplies for cafés and offices."},
-    {"title": "Who pays", "text": "Distributors, shops, retail chains, online sellers and businesses serving food outside the home buy from Nestlé India. Households pay the shop, not Nestlé India."},
-    {"title": "How it earns", "text": "By selling its products to those buyers. Sales are reported by product group, but profit only for the company as a whole."},
-    {"title": "What it spends on", "text": "Milk, coffee, cocoa and other ingredients, packaging, factories, delivery, advertising, and royalties for using brands and know-how."}
+    {
+      "title": "What it does",
+      "text": "Nestlé India makes and sells MAGGI noodles, NESCAFÉ coffee, KITKAT, MILKMAID and other foods and drinks, plus nutrition products, pet food and supplies for cafés and offices."
+    },
+    {
+      "title": "Who pays",
+      "text": "Distributors, shops, retail chains, online sellers and businesses serving food outside the home buy from Nestlé India. Households pay the shop, not Nestlé India."
+    },
+    {
+      "title": "How it earns",
+      "text": "By selling its products to those buyers. Sales are reported by product group, but profit only for the company as a whole."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Milk, coffee, cocoa and other ingredients, packaging, factories, delivery, advertising, and royalties for using brands and know-how."
+    }
   ],
   "helps": [
-    {"title": "Foods for many occasions", "text": "Noodles for a meal, coffee, chocolate snacks, milk products for cooking and nutrition products serve different moments, so the business does not rest on one product."},
-    {"title": "Reaching more places", "text": "New outlets, smaller towns, online shopping and cafés through Nestlé Professional can bring the products to new buyers."},
-    {"title": "Pricier products", "text": "When customers choose premium or specialised formats, such as different coffee ranges, each sale can earn more, though these can also cost more to make."}
+    {
+      "title": "Foods for many occasions",
+      "text": "Noodles for a meal, coffee, chocolate snacks, milk products for cooking and nutrition products serve different moments, so the business does not rest on one product."
+    },
+    {
+      "title": "Reaching more places",
+      "text": "New outlets, smaller towns, online shopping and cafés through Nestlé Professional can bring the products to new buyers."
+    },
+    {
+      "title": "Pricier products",
+      "text": "When customers choose premium or specialised formats, such as different coffee ranges, each sale can earn more, though these can also cost more to make."
+    }
   ],
   "hurts": [
-    {"title": "Ingredient costs rise", "text": "Dearer milk, coffee, cocoa, grains or packaging raise costs. Raising prices or shrinking packs can change what shoppers buy."},
-    {"title": "Food safety or labelling problems", "text": "A product issue, restriction or recall can interrupt supply, add costs and damage trust."},
-    {"title": "Shoppers choose alternatives", "text": "Other packaged brands, regional products and fresh food compete for household spending, and advertising to fight back costs money."},
-    {"title": "New factories need demand", "text": "Factories and equipment cost money before they produce sales. If demand arrives slowly, costs weigh on results."}
+    {
+      "title": "Ingredient costs rise",
+      "text": "Dearer milk, coffee, cocoa, grains or packaging raise costs. Raising prices or shrinking packs can change what shoppers buy."
+    },
+    {
+      "title": "Food safety or labelling problems",
+      "text": "A product issue, restriction or recall can interrupt supply, add costs and damage trust."
+    },
+    {
+      "title": "Shoppers choose alternatives",
+      "text": "Other packaged brands, regional products and fresh food compete for household spending, and advertising to fight back costs money."
+    },
+    {
+      "title": "New factories need demand",
+      "text": "Factories and equipment cost money before they produce sales. If demand arrives slowly, costs weigh on results."
+    }
   ],
   "checked": "29 October 2026"
 }

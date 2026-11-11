@@ -1,80 +1,232 @@
 {
-  "layout": "short",
   "summary": "Marico sells Parachute coconut oil, Saffola cooking oils and foods, Livon hair care and Beardo grooming products, through shops and online sellers in India and other countries.",
   "description": "Marico sells coconut oil, cooking oils, packaged foods, and grooming and personal-care products. It buys ingredients such as copra (the dried flesh inside a coconut, used to make coconut oil), vegetable oils and packaging, arranges production, advertises its brands and supplies shops and online sellers. A Parachute bottle, a Saffola oil pack and a grooming product meet different needs and cost different amounts to make and sell.",
   "money": "Marico earns money by supplying consumer goods to distributors, shops, retail chains and online sellers in India and overseas, and through some brands’ own websites. Ingredients, packaging, production, transport and advertising must be paid for before any profit remains. Sales can rise because prices rose or because of a different mix of products, without customers buying more.",
   "customers": "Households buy through local shops, supermarkets, brand websites and other online stores. A distributor usually buys the stock and supplies shops, so the business paying Marico is often not the person using the product. Overseas, Marico sells in markets such as Bangladesh, Vietnam, the Middle East and South Africa.",
   "drivers": "How much is sold, pack sizes, prices and which products people choose. The cost of copra, other oils and packaging, plus advertising and delivery, decide what is left.",
   "groups": [
-    {"title": "Coconut oil and hair oils", "examples": "Parachute coconut oil; Parachute Advansed, Hair & Care and Nihar hair oils.", "explanation": "Parachute and Parachute Advansed are separate brands. Copra costs, pack quantities, pricing and repeat buying shape this business."},
-    {"title": "Cooking oils and packaged foods", "examples": "Saffola cooking oils and foods such as oats, soya chunks, honey and muesli; True Elements breakfast foods; Cosmix nutrition products and 4700BC snacks.", "explanation": "A shared brand does not make cooking oil and a breakfast food the same business: recipes, ingredients and rivals differ. Wellness positioning is not proof of a health benefit."},
-    {"title": "Grooming and personal care", "examples": "Livon hair care, Set Wet grooming, Beardo, Just Herbs and Plix.", "explanation": "Several of these brands were built online first, but they also sell through marketplaces and shops. Advertising, marketplace fees, delivery and returns all cost money."},
-    {"title": "Consumer products outside India", "examples": "Parachute, X-Men, HairCode, Purité de Prôvence and Candid, depending on the country.", "explanation": "Each market has its own products, customers, currency and conditions. The overseas range is not simply the Indian range sold everywhere."}
+    {
+      "title": "Coconut oil and hair oils",
+      "examples": "Parachute coconut oil; Parachute Advansed, Hair & Care and Nihar hair oils.",
+      "explanation": "Parachute and Parachute Advansed are separate brands. Copra costs, pack quantities, pricing and repeat buying shape this business."
+    },
+    {
+      "title": "Cooking oils and packaged foods",
+      "examples": "Saffola cooking oils and foods such as oats, soya chunks, honey and muesli; True Elements breakfast foods; Cosmix nutrition products and 4700BC snacks.",
+      "explanation": "A shared brand does not make cooking oil and a breakfast food the same business: recipes, ingredients and rivals differ. Wellness positioning is not proof of a health benefit."
+    },
+    {
+      "title": "Grooming and personal care",
+      "examples": "Livon hair care, Set Wet grooming, Beardo, Just Herbs and Plix.",
+      "explanation": "Several of these brands were built online first, but they also sell through marketplaces and shops. Advertising, marketplace fees, delivery and returns all cost money."
+    },
+    {
+      "title": "Consumer products outside India",
+      "examples": "Parachute, X-Men, HairCode, Purité de Prôvence and Candid, depending on the country.",
+      "explanation": "Each market has its own products, customers, currency and conditions. The overseas range is not simply the Indian range sold everywhere."
+    }
   ],
   "basics": [
-    {"title": "Brand, product family and segment", "text": "Saffola is a brand covering several products. Edible oils and foods are product families. Marico reports two segments, India and International, which each group many brands, so their profits cannot be assigned to one bottle or brand."},
-    {"title": "Volume, price and mix", "text": "Volume is how much is sold, price is what is received, and mix is the balance of products. A pack can keep its familiar price while holding fewer millilitres, so the number of packs sold and the amount of oil sold can move differently."},
-    {"title": "Digital-first and direct-to-consumer", "text": "A digital-first brand was built mainly through online discovery and sales. Direct-to-consumer means selling straight to the shopper, for example on a brand website. Such brands may still sell through marketplaces and shops."},
-    {"title": "Constant-currency growth", "text": "Overseas sales are earned in local currencies and converted to rupees. Constant-currency growth removes the effect of exchange-rate changes, on the company’s stated basis. Growth in rupees includes that effect."}
+    {
+      "title": "Brand, product family and segment",
+      "text": "Saffola is a brand covering several products. Edible oils and foods are product families. Marico reports two segments, India and International, which each group many brands, so their profits cannot be assigned to one bottle or brand."
+    },
+    {
+      "title": "Volume, price and mix",
+      "text": "Volume is how much is sold, price is what is received, and mix is the balance of products. A pack can keep its familiar price while holding fewer millilitres, so the number of packs sold and the amount of oil sold can move differently."
+    },
+    {
+      "title": "Digital-first and direct-to-consumer",
+      "text": "A digital-first brand was built mainly through online discovery and sales. Direct-to-consumer means selling straight to the shopper, for example on a brand website. Such brands may still sell through marketplaces and shops."
+    },
+    {
+      "title": "Constant-currency growth",
+      "text": "Overseas sales are earned in local currencies and converted to rupees. Constant-currency growth removes the effect of exchange-rate changes, on the company’s stated basis. Growth in rupees includes that effect."
+    }
   ],
   "stepsTitle": "From coconut to a bottle on the shelf.",
   "steps": [
-    {"title": "Buy ingredients and packaging", "text": "Marico buys copra, vegetable oils, other ingredients and packaging. Their availability and prices set much of the cost."},
-    {"title": "Make and check the products", "text": "Inputs are turned into consistent products with quality checks, and packed for how they will be stored and used."},
-    {"title": "Supply shops and online sellers", "text": "Products go to local shops, supermarkets, marketplaces, quick delivery apps or brand websites, each under its own arrangement."},
-    {"title": "Get paid", "text": "Distributors, retailers and online sellers pay Marico, or shoppers pay directly on a brand website. Delivery, fees and advertising still have to be covered."},
-    {"title": "Earn a repeat purchase", "text": "Price, quantity, quality, availability and competing choices decide whether a shopper buys again."}
+    {
+      "title": "Buy ingredients and packaging",
+      "text": "Marico buys copra, vegetable oils, other ingredients and packaging. Their availability and prices set much of the cost."
+    },
+    {
+      "title": "Make and check the products",
+      "text": "Inputs are turned into consistent products with quality checks, and packed for how they will be stored and used."
+    },
+    {
+      "title": "Supply shops and online sellers",
+      "text": "Products go to local shops, supermarkets, marketplaces, quick delivery apps or brand websites, each under its own arrangement."
+    },
+    {
+      "title": "Get paid",
+      "text": "Distributors, retailers and online sellers pay Marico, or shoppers pay directly on a brand website. Delivery, fees and advertising still have to be covered."
+    },
+    {
+      "title": "Earn a repeat purchase",
+      "text": "Price, quantity, quality, availability and competing choices decide whether a shopper buys again."
+    }
   ],
   "specifics": [
-    {"title": "Oil prices can make growth hard to read", "text": "When copra or oils get dearer, Marico may raise prices or put less in each pack. Sales can rise even if the quantity sold barely changes. When costs fall, prices or pack contents may change the other way, and earlier stock delays the effect."},
-    {"title": "Run-rate is not annual sales", "text": "An annualised revenue run-rate stretches a recent sales pace across a year. It is not the revenue earned over a completed year. Check the period, the brands included and any acquisition dates before comparing."},
-    {"title": "What it owns and what it markets", "text": "Marico’s range includes its own long-standing brands, businesses bought through subsidiaries and some commercial rights. It has exclusive rights to sell and market Kaya personal-care products outside Kaya clinics, which does not mean it owns Kaya’s clinics."},
-    {"title": "Bought growth and grown growth", "text": "A newly acquired business adds sales even if the existing brands did not sell more. Separate growth from acquisitions from growth in the brands Marico already had."}
+    {
+      "title": "Oil prices can make growth hard to read",
+      "text": "When copra or oils get dearer, Marico may raise prices or put less in each pack. Sales can rise even if the quantity sold barely changes. When costs fall, prices or pack contents may change the other way, and earlier stock delays the effect."
+    },
+    {
+      "title": "Run-rate is not annual sales",
+      "text": "An annualised revenue run-rate stretches a recent sales pace across a year. It is not the revenue earned over a completed year. Check the period, the brands included and any acquisition dates before comparing."
+    },
+    {
+      "title": "What it owns and what it markets",
+      "text": "Marico’s range includes its own long-standing brands, businesses bought through subsidiaries and some commercial rights. It has exclusive rights to sell and market Kaya personal-care products outside Kaya clinics, which does not mean it owns Kaya’s clinics."
+    },
+    {
+      "title": "Bought growth and grown growth",
+      "text": "A newly acquired business adds sales even if the existing brands did not sell more. Separate growth from acquisitions from growth in the brands Marico already had."
+    }
   ],
   "watch": [
-    ["Is growth coming from quantities, prices or pack sizes?", "A pack can keep its price but hold a different quantity, so sales and volume can tell different stories.", "Read the company’s stated volume basis alongside revenue and product-mix commentary. The FY 2025–26 Parachute review separates reported volumes from growth adjusted for smaller pack contents. Compare equivalent quantities where possible."],
-    ["How are copra and cooking-oil costs reaching earnings?", "Input costs, earlier stock and the timing of price changes decide what each sale leaves.", "Follow copra costs separately from the vegetable oils used in cooking oils. Read category commentary, gross margin and demand together. Lower raw-material prices need not mean higher profit if selling prices fall as well."],
-    ["Are shops and online channels building repeat demand?", "Wider reach only matters if shoppers keep buying.", "Read distribution commentary, stock and money customers still owe alongside sales. Local shops, supermarkets, marketplaces and brand websites have different terms. Reaching more shops or shipping more stock does not by itself prove repeat buying."],
-    ["Are the foods and online-first brands earning lasting sales?", "New brands need marketing and distribution before they pay back.", "Separate actual revenue for a completed period from an annualised run-rate. Check which brands and channels are included and whether a margin is achieved or only targeted. Advertising, marketplace fees, delivery, returns and repeat customers drive online economics."],
-    ["What is happening in each overseas market?", "Bangladesh, Vietnam, the Middle East and South Africa face different conditions.", "Read each market’s commentary rather than treating International as one market. Compare constant-currency and rupee growth. Country mix, inflation, transport and rules can all affect results."]
+    [
+      "Is growth coming from quantities, prices or pack sizes?",
+      "A pack can keep its price but hold a different quantity, so sales and volume can tell different stories.",
+      "Read the company’s stated volume basis alongside revenue and product-mix commentary. The FY 2025–26 Parachute review separates reported volumes from growth adjusted for smaller pack contents. Compare equivalent quantities where possible."
+    ],
+    [
+      "How are copra and cooking-oil costs reaching earnings?",
+      "Input costs, earlier stock and the timing of price changes decide what each sale leaves.",
+      "Follow copra costs separately from the vegetable oils used in cooking oils. Read category commentary, gross margin and demand together. Lower raw-material prices need not mean higher profit if selling prices fall as well."
+    ],
+    [
+      "Are shops and online channels building repeat demand?",
+      "Wider reach only matters if shoppers keep buying.",
+      "Read distribution commentary, stock and money customers still owe alongside sales. Local shops, supermarkets, marketplaces and brand websites have different terms. Reaching more shops or shipping more stock does not by itself prove repeat buying."
+    ],
+    [
+      "Are the foods and online-first brands earning lasting sales?",
+      "New brands need marketing and distribution before they pay back.",
+      "Separate actual revenue for a completed period from an annualised run-rate. Check which brands and channels are included and whether a margin is achieved or only targeted. Advertising, marketplace fees, delivery, returns and repeat customers drive online economics."
+    ],
+    [
+      "What is happening in each overseas market?",
+      "Bangladesh, Vietnam, the Middle East and South Africa face different conditions.",
+      "Read each market’s commentary rather than treating International as one market. Compare constant-currency and rupee growth. Country mix, inflation, transport and rules can all affect results."
+    ]
   ],
   "risks": [
-    ["Raw materials rise faster than shoppers accept", "Copra, vegetable oils and packaging can get dearer. Price or pack changes may cover costs but weaken demand."],
-    ["Reliance on familiar oil brands", "Established oil brands support the business while other branded and unbranded oils compete. A weakness there can outweigh growth in smaller categories."],
-    ["Newer brands need more spending than they return", "Foods, grooming and online-first brands need marketing, distribution and development. Big online sales or a launch do not prove a good return on acquisition spending."],
-    ["Overseas conditions change the rupee result", "Exchange rates, inflation, regulation, political disruption and transport problems can affect individual markets."],
-    ["Quality, labels or claims damage trust", "Consumer products depend on consistent quality and compliant labels and marketing. Wellness positioning is not evidence of a health benefit."]
+    [
+      "Raw materials rise faster than shoppers accept",
+      "Copra, vegetable oils and packaging can get dearer. Price or pack changes may cover costs but weaken demand."
+    ],
+    [
+      "Reliance on familiar oil brands",
+      "Established oil brands support the business while other branded and unbranded oils compete. A weakness there can outweigh growth in smaller categories."
+    ],
+    [
+      "Newer brands need more spending than they return",
+      "Foods, grooming and online-first brands need marketing, distribution and development. Big online sales or a launch do not prove a good return on acquisition spending."
+    ],
+    [
+      "Overseas conditions change the rupee result",
+      "Exchange rates, inflation, regulation, political disruption and transport problems can affect individual markets."
+    ],
+    [
+      "Quality, labels or claims damage trust",
+      "Consumer products depend on consistent quality and compliant labels and marketing. Wellness positioning is not evidence of a health benefit."
+    ]
   ],
-  "context": ["September 2026 quarter: two oil brands, two different stories", "In its update for the three months to 30 September 2026, Marico said Parachute sold noticeably more than a year earlier, helped by copra costing well below its earlier peak. Saffola cooking oils grew sales through higher prices while the quantity sold fell, because Marico chose to protect profit. The update came before the quarter’s results were approved, so it describes direction, not final figures."],
+  "context": [
+    "September 2026 quarter: two oil brands, two different stories",
+    "In its update for the three months to 30 September 2026, Marico said Parachute sold noticeably more than a year earlier, helped by copra costing well below its earlier peak. Saffola cooking oils grew sales through higher prices while the quantity sold fell, because Marico chose to protect profit. The update came before the quarter’s results were approved, so it describes direction, not final figures."
+  ],
   "sources": [
-    ["Marico India brand directory", "https://marico.com/india/brands"],
-    ["About Marico", "https://marico.com/india/about-us"],
-    ["FY 2025–26 integrated annual report · business reviews and accounts", "https://marico.com/investorspdf/Marico_Annual_Report_FY26.pdf"],
-    ["Marico annual-report library", "https://marico.com/india/investors/annual-report"],
-    ["Parachute Advansed shampoo · July 2026 campaign", "https://marico.com/global/media/detail/what_makes_heads_turn_the_newly_launched_parachute_advansed_protein_shampoo_reveals_the_answer_in_its_first_campaign_film_aisa_kya_hai?id=260&type=press"],
-    ["Quarterly update · quarter ended 30 September 2026", "https://marico.com/investorspdf/Quarterly_Update_Q2FY27.pdf"]
+    [
+      "Marico India brand directory",
+      "https://marico.com/india/brands"
+    ],
+    [
+      "About Marico",
+      "https://marico.com/india/about-us"
+    ],
+    [
+      "FY 2025–26 integrated annual report · business reviews and accounts",
+      "https://marico.com/investorspdf/Marico_Annual_Report_FY26.pdf"
+    ],
+    [
+      "Marico annual-report library",
+      "https://marico.com/india/investors/annual-report"
+    ],
+    [
+      "Parachute Advansed shampoo · July 2026 campaign",
+      "https://marico.com/global/media/detail/what_makes_heads_turn_the_newly_launched_parachute_advansed_protein_shampoo_reveals_the_answer_in_its_first_campaign_film_aisa_kya_hai?id=260&type=press"
+    ],
+    [
+      "Quarterly update · quarter ended 30 September 2026",
+      "https://marico.com/investorspdf/Quarterly_Update_Q2FY27.pdf"
+    ]
   ],
   "financialNotes": [
-    {"title": "Product sales and segment profit have different scopes", "text": "The walkthrough above shows revenue by product category and profit by segment, India and International. These come from different tables, so a product category’s sales cannot be paired with a segment’s profit to work out that product’s profit."},
-    {"title": "Acquisitions change what the totals include", "text": "Use the acquisition and subsidiary notes to find when each bought business joined the accounts and how much of it Marico owns. Growth that comes from a newly added business is different from growth in the brands Marico already had."},
-    {"title": "What to read next", "text": "Read operating cash flow, stock, money customers still owe, supplier balances, capital spending and acquisition payments. The price paid for a brand and the revenue it reports do not show the return earned on the purchase."}
+    {
+      "title": "Product sales and segment profit have different scopes",
+      "text": "The walkthrough above shows revenue by product category and profit by segment, India and International. These come from different tables, so a product category’s sales cannot be paired with a segment’s profit to work out that product’s profit."
+    },
+    {
+      "title": "Acquisitions change what the totals include",
+      "text": "Use the acquisition and subsidiary notes to find when each bought business joined the accounts and how much of it Marico owns. Growth that comes from a newly added business is different from growth in the brands Marico already had."
+    },
+    {
+      "title": "What to read next",
+      "text": "Read operating cash flow, stock, money customers still owe, supplier balances, capital spending and acquisition payments. The price paid for a brand and the revenue it reports do not show the return earned on the purchase."
+    }
   ],
   "quick": [
-    {"title": "What it does", "text": "Marico sells Parachute coconut oil, Saffola cooking oils and foods, and hair-care and grooming brands such as Livon and Beardo, in India and other countries."},
-    {"title": "Who pays", "text": "Distributors, shops, supermarkets and online sellers buy from Marico. Shoppers pay them, or pay Marico directly on some brand websites."},
-    {"title": "How it earns", "text": "By selling its products to those buyers. Sales can rise from higher prices or a different mix of products, not only from selling more."},
-    {"title": "What it spends on", "text": "Copra, vegetable oils, packaging, production, transport and advertising."}
+    {
+      "title": "What it does",
+      "text": "Marico sells Parachute coconut oil, Saffola cooking oils and foods, and hair-care and grooming brands such as Livon and Beardo, in India and other countries."
+    },
+    {
+      "title": "Who pays",
+      "text": "Distributors, shops, supermarkets and online sellers buy from Marico. Shoppers pay them, or pay Marico directly on some brand websites."
+    },
+    {
+      "title": "How it earns",
+      "text": "By selling its products to those buyers. Sales can rise from higher prices or a different mix of products, not only from selling more."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Copra, vegetable oils, packaging, production, transport and advertising."
+    }
   ],
   "helps": [
-    {"title": "Well-known oil brands", "text": "Parachute and Saffola are established brands that the rest of the business builds on."},
-    {"title": "Cheaper copra helped Parachute", "text": "Marico said Parachute sold noticeably more in the September 2026 quarter than a year earlier, helped by copra costing well below its earlier peak."},
-    {"title": "Sales in several countries", "text": "Marico sells in Bangladesh, Vietnam, the Middle East and South Africa as well as India, so it does not depend on one market."}
+    {
+      "title": "Well-known oil brands",
+      "text": "Parachute and Saffola are established brands that the rest of the business builds on."
+    },
+    {
+      "title": "Cheaper copra helped Parachute",
+      "text": "Marico said Parachute sold noticeably more in the September 2026 quarter than a year earlier, helped by copra costing well below its earlier peak."
+    },
+    {
+      "title": "Sales in several countries",
+      "text": "Marico sells in Bangladesh, Vietnam, the Middle East and South Africa as well as India, so it does not depend on one market."
+    }
   ],
   "hurts": [
-    {"title": "Raw-material prices swing", "text": "Copra, vegetable oils and packaging can get dearer faster than shoppers accept higher prices or smaller packs."},
-    {"title": "Saffola sold less in that quarter", "text": "In the September 2026 quarter, Saffola cooking oils grew sales through higher prices while the quantity sold fell."},
-    {"title": "New brands need spending", "text": "Foods, grooming and online-first brands need marketing and distribution before they pay back, and some were bought at a cost."},
-    {"title": "Overseas conditions", "text": "Exchange rates, inflation, rules and political disruption can change results in individual countries."}
+    {
+      "title": "Raw-material prices swing",
+      "text": "Copra, vegetable oils and packaging can get dearer faster than shoppers accept higher prices or smaller packs."
+    },
+    {
+      "title": "Saffola sold less in that quarter",
+      "text": "In the September 2026 quarter, Saffola cooking oils grew sales through higher prices while the quantity sold fell."
+    },
+    {
+      "title": "New brands need spending",
+      "text": "Foods, grooming and online-first brands need marketing and distribution before they pay back, and some were bought at a cost."
+    },
+    {
+      "title": "Overseas conditions",
+      "text": "Exchange rates, inflation, rules and political disruption can change results in individual countries."
+    }
   ],
   "checked": "31 October 2026"
 }

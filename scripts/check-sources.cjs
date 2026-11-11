@@ -43,7 +43,7 @@ function collectSources(rootDir, onlyCompanies = []) {
   const known = fs.readdirSync(lessonDir).filter(f => f.endsWith('.json')).map(f => f.slice(0, -5));
   const unknown = onlyCompanies.filter(id => !known.includes(id));
   if (unknown.length) {
-    throw new Error(`--company accepts lesson ids only (the 29 files in content/company-lessons). Unknown: ${unknown.join(', ')}. The six earlier profiles are checked in a full run.`);
+    throw new Error(`--company accepts lesson ids only (the files in content/company-lessons). Unknown: ${unknown.join(', ')}.`);
   }
   for (const file of fs.readdirSync(lessonDir).filter(f => f.endsWith('.json')).sort()) {
     const id = file.slice(0, -5);
@@ -54,13 +54,13 @@ function collectSources(rootDir, onlyCompanies = []) {
       if (typeof url === 'string' && /^https?:\/\//.test(url)) add(cleanUrl(url), `lesson:${id}`);
     }
   }
-  // Earlier profiles keep their links in hand-written files; those are matched by pattern and labelled by file.
+  // Company records and the figure walkthroughs also hold links; those are matched by pattern and labelled by file.
   if (!onlyCompanies.length) {
     const dist = path.join(rootDir, 'dist');
     const companyDir = path.join(rootDir, 'content/companies');
     const files = [
       ...fs.readdirSync(companyDir).filter(f => f.endsWith('.json')).map(f => ['content/companies', f]),
-      ...fs.readdirSync(dist).filter(f => f.endsWith('-primer.js')).map(f => ['dist', f]),
+      ['dist', 'figure-walkthroughs.js'],
     ];
     for (const [folder, file] of files) {
       const p = path.join(rootDir, folder, file);

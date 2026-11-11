@@ -4,40 +4,24 @@ const fs=require('node:fs');
 const vm=require('node:vm');
 const {validateLesson,ownNames}=require('../scripts/check-lessons.cjs');
 const c={Intl};c.window=c;vm.createContext(c);
-for(const f of ['company-data','overviews','research-guides','financial-data','financial-expansion','financials','gallery','profile-lessons','company-lessons','short-profile'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
+for(const f of ['company-data','financial-data','financial-expansion','financials','figure-walkthroughs','gallery','profile-lessons','company-lessons','short-profile'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
 const safe=v=>String(v).replace(/[&<>"']/g,x=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[x]));
 const helpers={safe,mono:()=>'<span class="monogram"></span>',saveButton:()=>'<button class="save"></button>',profileSources:co=>co.sources};
 const company=c.COMPANIES.find(x=>x.id==='delhivery');
 const html=c.shortProfile.render(company,helpers);
 const lesson=JSON.parse(fs.readFileSync('content/company-lessons/delhivery.json','utf8'));
 
-test('a company gets the short page exactly when its lesson asks for it',()=>{
- let short=0;
- for(const f of fs.readdirSync('content/company-lessons').filter(f=>f.endsWith('.json'))){
-  const id=f.slice(0,-5),asks=JSON.parse(fs.readFileSync(`content/company-lessons/${f}`,'utf8')).layout==='short';
-  assert.equal(c.shortProfile.applies(c.COMPANIES.find(x=>x.id===id)),asks,id);
-  if(asks)short++;
- }
- assert.ok(short>=1);
- assert.equal(c.shortProfile.applies(company),true);
- for(const o of c.COMPANIES.filter(x=>!fs.existsSync(`content/company-lessons/${x.id}.json`)))assert.equal(c.shortProfile.applies(o),false,o.id);
+test('every company has a lesson, so every company gets the page',()=>{
+ for(const co of c.COMPANIES)assert.equal(c.shortProfile.applies(co),true,co.id);
+ assert.equal(c.shortProfile.applies({id:'not-a-company'}),false);
 });
-test('the Delhivery lesson follows the template and the short-layout rules',()=>{
+test('the Delhivery lesson follows the template',()=>{
  const {errors}=validateLesson(lesson,ownNames('delhivery'));
  assert.deepEqual(errors,[]);
- assert.equal(lesson.layout,'short');
  assert.equal(lesson.quiz,undefined);
-});
-test('a long-layout lesson cannot use the short-layout sections',()=>{
- // Every published lesson is short now, so make a long one by taking the short sections away.
- const base=JSON.parse(fs.readFileSync('content/company-lessons/tcs.json','utf8'));
- for(const k of ['layout','stepsTitle','quick','helps','hurts'])delete base[k];
- base.quiz=['What does a customer pay TCS for?','For agreed technology work done under a contract.'];
- assert.deepEqual(validateLesson(base,ownNames('tcs')).errors,[]);
- const {errors}=validateLesson({...base,quick:lesson.quick},ownNames('tcs'));
- assert.ok(errors.some(e=>/quick: only a short-layout lesson/.test(e)));
  const missing={...lesson};delete missing.helps;
- assert.ok(validateLesson(missing,ownNames('delhivery')).errors.some(e=>/helps: the short page needs/.test(e)));
+ assert.ok(validateLesson(missing,ownNames('delhivery')).errors.some(e=>/helps: section is missing/.test(e)));
+ assert.ok(validateLesson({...lesson,layout:'short'},ownNames('delhivery')).errors.some(e=>/unknown section "layout"/.test(e)));
 });
 test('the short page shows photos, four answers, the flow, helps and hurts, then figures and sources in order',()=>{
  const ids=['quick','how','balance','deeper','money','sources'];
@@ -71,11 +55,12 @@ test('lesson sources reach the page and the figures stay in the last sections',(
 });
 test('the page router uses the short page and the script is loaded',()=>{
  const app=fs.readFileSync('dist/app.js','utf8'),index=fs.readFileSync('dist/index.html','utf8');
- assert.ok(app.includes('window.shortProfile?.applies(c)'));
+ assert.ok(app.includes('window.shortProfile.render(c,'));
+ for(const gone of ['function overview(','function businessSection(','data-quiz','learning-path'])assert.ok(!app.includes(gone),gone);
  assert.ok(index.includes('short-profile.js'));
  assert.ok(index.indexOf('short-profile.js')<index.indexOf('app.js?v'));
 });
-test('every company with a lesson gets a complete short page: pictures, answers, flow, balance, figures and sources',()=>{
+test('every company gets a complete page: pictures, answers, flow, balance, figures and sources',()=>{
  for(const co of c.COMPANIES.filter(x=>c.shortProfile.applies(x))){
   const page=c.shortProfile.render(co,helpers),id=co.id;
   assert.ok(page.includes('class="sp-photos"')||page.includes('class="visual-shelf"'),id+': photos or product pictures');

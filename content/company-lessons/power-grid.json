@@ -1,5 +1,4 @@
 {
-  "layout": "short",
   "summary": "POWERGRID builds and runs the long-distance electricity lines and substations that connect power stations with places needing power.",
   "description": "Electricity produced at a power station has to travel before it reaches a home or factory. POWERGRID supplies part of that route: high-voltage lines move power over long distances, and substations connect and control parts of the network, including changing voltage where needed. Local distribution networks then serve customers.",
   "money": "Electricity companies pay for its network to be available to carry power under the relevant agreements and pricing rules. The group also earns from helping plan electricity networks and providing fibre connections. It pays to build and maintain lines and substations, employ people and fund borrowing. A proposed power line is different from one that has been built, tested and put into service.",

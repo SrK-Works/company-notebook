@@ -64,11 +64,11 @@
       ],
       [
         "True Elements",
-        "Healthy foods"
+        "Breakfast foods and snacks"
       ],
       [
         "Plix",
-        "Plant-based nutrition"
+        "Nutrition and personal care"
       ],
       [
         "Cosmix",
@@ -137,12 +137,15 @@
       [
         "Isoplus",
         "Hair care · international"
+      ],
+      [
+        "Kaya personal care",
+        "Sales and marketing rights outside Kaya clinics · not clinic ownership"
       ]
     ],
-    "ownership": "This profile covers Marico Limited. Brand relationships can include different commercial arrangements; use the company’s own brand directory rather than assuming all associations mean full ownership.",
     "sources": [],
-    "productSource": "https://marico.com/india/about-us",
-    "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
+    "productSource": "https://marico.com/india/brands",
+    "productNote": "Selected offering families from the official India directory, international portfolio and FY 2025–26 business review. Variants and pack sizes are grouped. Parachute and Parachute Advansed are separate brands. Marketing rights, subsidiaries and acquired brands are different relationships; this list is not an assertion of full ownership of every brand or business.",
     "logo": "assets/logos/marico.svg"
   },
   "offerings": [
@@ -150,7 +153,7 @@
       "name": "Parachute",
       "category": "Coconut oil",
       "image": "assets/products/marico-9.webp",
-      "url": "https://marico.com/india/about-us",
+      "url": "https://marico.com/india/brands",
       "kind": "pack",
       "alt": "Parachute — official product image"
     },
@@ -158,73 +161,73 @@
       "name": "Saffola",
       "category": "Edible oils, foods and wellness",
       "image": "assets/products/marico-41.webp",
-      "url": "https://marico.com/india/about-us",
+      "url": "https://marico.com/india/brands",
       "kind": "brand",
-      "alt": "Saffola — official product image"
+      "alt": "Saffola — official brand image"
     },
     {
       "name": "Saffola Foods",
       "category": "Foods · oats and wellness",
       "image": "assets/products/marico-42.webp",
-      "url": "https://marico.com/india/about-us",
+      "url": "https://marico.com/india/brands",
       "kind": "brand",
-      "alt": "Saffola Foods — official product image"
-    },
-    {
-      "name": "Plix",
-      "category": "Plant-based nutrition",
-      "image": "assets/products/marico-43.webp",
-      "url": "https://marico.com/india/about-us",
-      "kind": "brand",
-      "alt": "Plix — official product image"
-    },
-    {
-      "name": "Parachute Advansed",
-      "category": "Hair care",
-      "image": "assets/products/marico-44.webp",
-      "url": "https://marico.com/india/about-us",
-      "kind": "brand",
-      "alt": "Parachute Advansed — official product image"
-    },
-    {
-      "name": "Hair & Care",
-      "category": "Hair oil",
-      "image": "assets/products/marico-45.webp",
-      "url": "https://marico.com/india/about-us",
-      "kind": "brand",
-      "alt": "Hair & Care — official product image"
-    },
-    {
-      "name": "Livon",
-      "category": "Hair care",
-      "image": "assets/products/marico-46.webp",
-      "url": "https://marico.com/india/about-us",
-      "kind": "brand",
-      "alt": "Livon — official product image"
+      "alt": "Saffola Foods — official brand image"
     },
     {
       "name": "Beardo",
       "category": "Men’s grooming",
       "image": "assets/products/marico-47.webp",
-      "url": "https://marico.com/india/about-us",
+      "url": "https://marico.com/india/brands",
       "kind": "brand",
-      "alt": "Beardo — official product image"
+      "alt": "Beardo — official brand image"
+    },
+    {
+      "name": "Plix",
+      "category": "Nutrition and personal care",
+      "image": "assets/products/marico-43.webp",
+      "url": "https://marico.com/india/brands",
+      "kind": "brand",
+      "alt": "Plix — official brand image"
+    },
+    {
+      "name": "Parachute Advansed",
+      "category": "Hair care",
+      "image": "assets/products/marico-44.webp",
+      "url": "https://marico.com/india/brands",
+      "kind": "brand",
+      "alt": "Parachute Advansed — official brand image"
+    },
+    {
+      "name": "Hair & Care",
+      "category": "Hair oil",
+      "image": "assets/products/marico-45.webp",
+      "url": "https://marico.com/india/brands",
+      "kind": "brand",
+      "alt": "Hair & Care — official brand image"
+    },
+    {
+      "name": "Livon",
+      "category": "Hair care",
+      "image": "assets/products/marico-46.webp",
+      "url": "https://marico.com/india/brands",
+      "kind": "brand",
+      "alt": "Livon — official brand image"
     },
     {
       "name": "Just Herbs",
       "category": "Ayurvedic beauty",
       "image": "assets/products/marico-48.webp",
-      "url": "https://marico.com/india/about-us",
+      "url": "https://marico.com/india/brands",
       "kind": "brand",
-      "alt": "Just Herbs — official product image"
+      "alt": "Just Herbs — official brand image"
     },
     {
       "name": "Revive",
       "category": "Fabric care",
       "image": "assets/products/marico-49.webp",
-      "url": "https://marico.com/india/about-us",
+      "url": "https://marico.com/india/brands",
       "kind": "brand",
-      "alt": "Revive — official product image"
+      "alt": "Revive — official brand image"
     }
   ]
 }

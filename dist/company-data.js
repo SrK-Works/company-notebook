@@ -48,7 +48,7 @@ window.COMPANIES = [
       ],
       [
         "Clinic Plus",
-        "Personal care · hair care"
+        "Beauty & wellbeing · hair care"
       ],
       [
         "Closeup",
@@ -212,7 +212,7 @@ window.COMPANIES = [
       ],
       [
         "Sunsilk",
-        "Personal care · hair care"
+        "Beauty & wellbeing · hair care"
       ],
       [
         "Surf excel",
@@ -235,19 +235,18 @@ window.COMPANIES = [
         "Personal care · intimate hygiene"
       ]
     ],
-    "ownership": "This profile covers the Indian listed company, Hindustan Unilever Limited. Do not treat every product sold by the global Unilever group as part of HUL.",
     "sources": [
       [
         "HUL company website",
         "https://www.hul.co.in/"
       ],
       [
-        "FY 2025–26 annual report",
-        "https://www.hul.co.in/files/annual-report-2025-26.pdf"
+        "HUL annual report · business model and group accounts · FY 2025–26",
+        "https://www.hul.co.in/files/annual-report-2025-26-single-page.pdf"
       ]
     ],
     "productSource": "https://www.hul.co.in/brands/",
-    "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
+    "productNote": "Official HUL brand directory reviewed on 29 October 2026. This list groups variants and pack sizes; Rexona soap and deodorant listings are combined. A brand-directory entry is not a separate profit disclosure.",
     "logo": "assets/logos/hindustan-unilever.svg"
   },
   {
@@ -507,7 +506,6 @@ window.COMPANIES = [
     ],
     "productSource": "https://itcportal.com/itc-businesses/fmcg.html",
     "productNote": "Major brands and business offerings named in ITC’s official portfolio as reviewed in October 2026. This groups product families rather than every flavour, variant or pack size. Tobacco brands are included for company-ownership research; tobacco use causes serious harm and this listing is not a product endorsement.",
-    "ownership": "This page covers ITC Limited. ITC Hotels became a separately listed company after the hotel business demerger, so hotel brands are not included here. Acquired consumer brands may operate through subsidiaries. Tobacco brands are listed to show the company’s business exposure, not to promote their use.",
     "sources": [
       [
         "Packaged foods portfolio",
@@ -524,6 +522,10 @@ window.COMPANIES = [
       [
         "Safety matches portfolio",
         "https://itcportal.com/itc-businesses/fmcg/safety-matches.html"
+      ],
+      [
+        "FY 2025–26 results presentation",
+        "https://itcportal.com/content/dam/itc-corporate/pdfs/financial-result/quarterly-results-2025-2026/march-2026/ITC-Quarterly-Result-Presentation-Q4-FY2026.pdf"
       ]
     ],
     "logo": "assets/logos/itc.png"
@@ -661,9 +663,28 @@ window.COMPANIES = [
       [
         "GERBER",
         "Infant and child nutrition"
+      ],
+      [
+        "CERELAC",
+        "Milk products and nutrition · reported brand"
+      ],
+      [
+        "NAN",
+        "Milk products and nutrition · reported brand"
+      ],
+      [
+        "NESPRESSO",
+        "Coffee and machines · India distribution arrangement"
+      ],
+      [
+        "Purina PetCare",
+        "Pet food · within Prepared Dishes and Cooking Aids"
+      ],
+      [
+        "Nestlé Professional",
+        "Out-of-home food and beverage offerings · sales channel"
       ]
     ],
-    "ownership": "Nestlé India Limited is the Indian listed company. The worldwide Nestlé group has a broader portfolio; global brand ownership does not imply that every global product is sold by Nestlé India.",
     "sources": [
       [
         "Coffee portfolio",
@@ -675,7 +696,7 @@ window.COMPANIES = [
       ]
     ],
     "productSource": "https://www.nestle.in/info/sitemap",
-    "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
+    "productNote": "Selected Indian brand and offering families from the official product directory and FY 2025–26 report. Variants and pack sizes are grouped. Nestlé Professional is a sales channel, and a brand or product group is not a separately disclosed profit segment. Availability differs by product and channel.",
     "logo": "assets/logos/nestle-india.png",
     "aliases": [
       "BAR-ONE",
@@ -713,7 +734,7 @@ window.COMPANIES = [
       ],
       [
         "NutriChoice",
-        "Health-focused biscuits and snacks"
+        "Biscuits and snacks"
       ],
       [
         "Milk Bikis",
@@ -769,10 +790,17 @@ window.COMPANIES = [
       ],
       [
         "Come Alive",
-        "Yoghurt"
+        "Curd and yogurt"
+      ],
+      [
+        "Bourbon Rolls",
+        "Filled wafer rolls"
+      ],
+      [
+        "Britannia dairy ingredients and staples",
+        "Milk powder, butter, ghee and dairy whitener"
       ]
     ],
-    "ownership": "The listed company is Britannia Industries Limited. Product brands are not separate listed stocks. Use consolidated disclosures when studying the group as a whole.",
     "sources": [
       [
         "NutriChoice range",
@@ -784,7 +812,7 @@ window.COMPANIES = [
       ]
     ],
     "productSource": "https://www.britannia.co.in/",
-    "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
+    "productNote": "Selected brand and offering families from the official portfolio and FY 2025–26 business review. Variants and pack sizes are grouped; this is not live inventory. Britannia The Laughing Cow cheese is associated with the Britannia Bel joint venture. Product categories do not have separately reported profits in the cited Foods segment note.",
     "logo": "assets/logos/britannia.png"
   },
   {
@@ -851,11 +879,11 @@ window.COMPANIES = [
       ],
       [
         "True Elements",
-        "Healthy foods"
+        "Breakfast foods and snacks"
       ],
       [
         "Plix",
-        "Plant-based nutrition"
+        "Nutrition and personal care"
       ],
       [
         "Cosmix",
@@ -924,12 +952,15 @@ window.COMPANIES = [
       [
         "Isoplus",
         "Hair care · international"
+      ],
+      [
+        "Kaya personal care",
+        "Sales and marketing rights outside Kaya clinics · not clinic ownership"
       ]
     ],
-    "ownership": "This profile covers Marico Limited. Brand relationships can include different commercial arrangements; use the company’s own brand directory rather than assuming all associations mean full ownership.",
     "sources": [],
-    "productSource": "https://marico.com/india/about-us",
-    "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
+    "productSource": "https://marico.com/india/brands",
+    "productNote": "Selected offering families from the official India directory, international portfolio and FY 2025–26 business review. Variants and pack sizes are grouped. Parachute and Parachute Advansed are separate brands. Marketing rights, subsidiaries and acquired brands are different relationships; this list is not an assertion of full ownership of every brand or business.",
     "logo": "assets/logos/marico.svg"
   },
   {
@@ -948,7 +979,7 @@ window.COMPANIES = [
       ],
       [
         "DMart Ready",
-        "Online ordering and pick-up"
+        "Online grocery ordering · fulfilment varies by location"
       ],
       [
         "Grocery and Staples",
@@ -1015,15 +1046,9 @@ window.COMPANIES = [
         "Retail category"
       ]
     ],
-    "ownership": "Avenue Supermarts Limited is the listed company behind DMart. Individual brands sold in its stores usually belong to suppliers; stocking a brand does not mean DMart owns it.",
-    "sources": [
-      [
-        "Avenue Supermarts FY 2024–25 release",
-        "https://api.dmartindia.com/corporate/content/file/v1/2/TDI1kRsO5MBfKRlbTLg2EVNq1746272142/Press%20release%20dated%203rd%20May%2C%202025.pdf"
-      ]
-    ],
-    "productSource": "https://canary.dmartindia.com/",
-    "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
+    "sources": [],
+    "productSource": "https://www.dmartindia.com/about-us",
+    "productNote": "Selected retail categories and shopping channels, not a catalogue of products manufactured by Avenue Supermarts. Availability varies by store, location and online service area. Supplier brands, private labels, physical stores and DMart Ready are different relationships and activities. The FY 2025–26 results do not provide separate profits for each shelf category.",
     "logo": "assets/logos/avenue-supermarts.svg"
   },
   {
@@ -1133,7 +1158,6 @@ window.COMPANIES = [
         "Bags and accessories"
       ]
     ],
-    "ownership": "Titan Company Limited is the listed entity. It is associated with the Tata group and TIDCO, but buying Titan shares does not provide direct ownership of other Tata companies.",
     "sources": [
       [
         "Titan company overview",
@@ -1251,7 +1275,6 @@ window.COMPANIES = [
         "Home services"
       ]
     ],
-    "ownership": "Asian Paints Limited is the listed company covered here. Individual product ranges such as Royale and Tractor are part of its offering, not separate listed companies.",
     "sources": [
       [
         "Tractor paint and related ranges",
@@ -1353,7 +1376,6 @@ window.COMPANIES = [
         "Glass-fibre reinforced concrete"
       ]
     ],
-    "ownership": "UltraTech Cement Limited is the listed cement company covered here and is part of the Aditya Birla Group. Other group businesses are not automatically part of UltraTech.",
     "sources": [
       [
         "UltraTech company overview",
@@ -1483,7 +1505,6 @@ window.COMPANIES = [
         "Vehicle service"
       ]
     ],
-    "ownership": "This profile covers Maruti Suzuki India Limited. ARENA and NEXA are sales channels, not independent listed car manufacturers. Do not confuse the Indian entity with the worldwide Suzuki group.",
     "sources": [
       [
         "Vehicle directory",
@@ -1557,7 +1578,6 @@ window.COMPANIES = [
         "Premium motorcycles"
       ]
     ],
-    "ownership": "Bajaj Auto Limited is the listed vehicle business covered here. Other Bajaj-named financial and consumer businesses are separate listed entities or group companies.",
     "sources": [
       [
         "Bajaj Auto product portfolio",
@@ -1687,7 +1707,6 @@ window.COMPANIES = [
         "Motorcycles · Classic Legends"
       ]
     ],
-    "ownership": "This profile covers Mahindra & Mahindra Limited. Other Mahindra-named listed companies, such as Tech Mahindra and Mahindra & Mahindra Financial Services, are separate legal entities even when M&M owns stakes in them.",
     "sources": [
       [
         "Mahindra business overview",
@@ -1785,7 +1804,6 @@ window.COMPANIES = [
         "African mobile money"
       ]
     ],
-    "ownership": "This profile covers Bharti Airtel Limited. Group structure and geography matter: the listed company is broader than a single Indian mobile plan.",
     "sources": [
       [
         "FY 2024–25 annual report",
@@ -1919,7 +1937,6 @@ window.COMPANIES = [
         "Smart-city platform"
       ]
     ],
-    "ownership": "Tata Consultancy Services Limited is the listed business covered here. Other Tata group companies are separate businesses; buying TCS shares does not give you direct ownership of the entire Tata group.",
     "sources": [],
     "productSource": "https://www.tcs.com/",
     "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
@@ -2028,7 +2045,6 @@ window.COMPANIES = [
         "Cloud-management platform"
       ]
     ],
-    "ownership": "This profile covers Infosys Limited and its consolidated businesses. Infosys is separate from other Indian technology companies, even when they serve similar clients.",
     "sources": [
       [
         "Infosys company overview",
@@ -2142,7 +2158,6 @@ window.COMPANIES = [
         "Third-party financial products"
       ]
     ],
-    "ownership": "The listed entity is HDFC Bank Limited. A financial product distributed by the bank is not automatically manufactured by it; check the provider and the specific group relationship.",
     "sources": [],
     "productSource": "https://www.hdfc.bank.in/about-us",
     "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
@@ -2239,7 +2254,6 @@ window.COMPANIES = [
         "Digital banking"
       ]
     ],
-    "ownership": "This profile covers ICICI Bank Limited. ICICI-branded insurance, securities and asset-management businesses can be separate legal entities or subsidiaries, so their ownership and reporting treatment must be checked.",
     "sources": [],
     "productSource": "https://www.icici.bank.in/home",
     "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
@@ -2332,7 +2346,6 @@ window.COMPANIES = [
         "Services for government"
       ]
     ],
-    "ownership": "This profile covers State Bank of India. SBI Life, SBI Cards, SBI Mutual Fund and other SBI-named businesses have distinct legal and ownership structures; owning SBI shares is not identical to directly owning each one.",
     "sources": [
       [
         "SBI products and services",
@@ -2418,7 +2431,6 @@ window.COMPANIES = [
         "Throat-care consumer health"
       ]
     ],
-    "ownership": "This profile covers Sun Pharmaceutical Industries Limited and its consolidated group. A medicine sold by a subsidiary can sit within the group, while a distributed or licensed product may involve another owner.",
     "sources": [
       [
         "Sun Pharma company overview",
@@ -2516,7 +2528,6 @@ window.COMPANIES = [
         "Women’s health"
       ]
     ],
-    "ownership": "This profile covers Dr. Reddy's Laboratories Limited and its consolidated operations. The business mix spans products sold to patients and services or ingredients sold to other companies.",
     "sources": [
       [
         "Dr. Reddy's company overview",
@@ -2642,7 +2653,6 @@ window.COMPANIES = [
         "Development project"
       ]
     ],
-    "ownership": "This profile covers Larsen & Toubro Limited and its consolidated group. Some L&T-associated businesses are separately listed subsidiaries, so study the parent and each listed entity separately.",
     "sources": [],
     "productSource": "https://www.larsentoubro.com/hyderabad-metro",
     "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
@@ -2775,7 +2785,6 @@ window.COMPANIES = [
         "New energy"
       ]
     ],
-    "ownership": "This profile covers Reliance Industries Limited and its group businesses. Jio and retail operations sit within group entities. Other companies with “Reliance” in their names are not automatically part of this listed business.",
     "sources": [],
     "productSource": "https://www.ril.com/about/products-brands",
     "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
@@ -2856,7 +2865,6 @@ window.COMPANIES = [
         "Energy-sector services"
       ]
     ],
-    "ownership": "This profile covers NTPC Limited and its consolidated group. NTPC Green Energy is separately listed; NTPC’s ownership interest does not make shares in the two companies interchangeable.",
     "sources": [],
     "productSource": "https://ntpc.co.in/ntpc-overview",
     "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
@@ -2917,7 +2925,6 @@ window.COMPANIES = [
         "Transmission development"
       ]
     ],
-    "ownership": "This profile covers Power Grid Corporation of India Limited. It is a transmission company; electricity generation and household distribution are generally performed by other entities.",
     "sources": [],
     "productSource": "https://www.powergrid.in/en/company-overview",
     "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
@@ -2932,7 +2939,6 @@ window.COMPANIES = [
     "color": "#36716a",
     "bg": "#edf7f4",
     "tag": "The business behind the offering",
-    "ownership": "This profile covers Rentomojo Limited, formerly Edunetwork and Rentomojo Private Limited. Renting an appliance through its platform does not mean Rentomojo manufactures that appliance brand.",
     "products": [
       [
         "Furniture rental packages",
@@ -3024,7 +3030,6 @@ window.COMPANIES = [
     "color": "#65518c",
     "bg": "#f2eef8",
     "tag": "The business behind the offering",
-    "ownership": "This profile covers Tonbo Imaging India Limited. Products shown on its official defence site include both imaging equipment and integrated systems. An announced platform or technology is not evidence of a booked customer order.",
     "products": [
       [
         "Thermal imaging cores",
@@ -3119,7 +3124,6 @@ window.COMPANIES = [
     "color": "#91662d",
     "bg": "#faf3e5",
     "tag": "The business behind the offering",
-    "ownership": "This profile covers Bharat Coking Coal Limited, a subsidiary of Coal India Limited. Owning its shares gives exposure to this subsidiary, rather than every coal business owned by the parent.",
     "products": [
       [
         "Raw coking coal",
@@ -3178,7 +3182,6 @@ window.COMPANIES = [
     "color": "#247d88",
     "bg": "#eaf7f8",
     "tag": "The business behind the offering",
-    "ownership": "The listed company is Park Medi World Limited, commonly associated with Park Hospitals. This is a different listed business from Rainbow Children’s Medicare. A service listed for the group may not be available at every hospital.",
     "products": [
       [
         "Cardiac sciences",
@@ -3283,7 +3286,6 @@ window.COMPANIES = [
     "color": "#247d88",
     "bg": "#eaf7f8",
     "tag": "The business behind the offering",
-    "ownership": "This profile covers Rainbow Children’s Medicare Limited, the listed company behind Rainbow Children’s Hospital and BirthRight by Rainbow. Each hospital has its own service capabilities; the group directory is not a promise of availability at every location.",
     "products": [
       [
         "Rainbow Children’s Hospital",
@@ -3371,7 +3373,6 @@ window.COMPANIES = [
     "color": "#28714b",
     "bg": "#edf7ef",
     "tag": "The business behind the offering",
-    "ownership": "This profile covers Parag Milk Foods Limited. Its dairy brands are different from unrelated companies that use the word Parag. Brand imagery identifies offerings and does not imply a nutritional or medical endorsement.",
     "products": [
       [
         "Gowardhan ghee",
@@ -3475,7 +3476,6 @@ window.COMPANIES = [
     "color": "#ad5536",
     "bg": "#fff1e8",
     "tag": "The business behind the offering",
-    "ownership": "Buying Eternal shares is exposure to the listed group, not a separately listed Zomato or Blinkit share. Zomato remains a consumer brand after the corporate name changed. District and Hyperpure are also part of the group portfolio.",
     "products": [
       [
         "Zomato",
@@ -3526,7 +3526,6 @@ window.COMPANIES = [
     "color": "#ad5536",
     "bg": "#fff1e8",
     "tag": "The business behind the offering",
-    "ownership": "This profile covers Swiggy Limited. Its restaurant and grocery partners are not automatically owned by Swiggy. Older business pages mention Genie, Minis and Lynks; the current list here excludes those legacy or disposed businesses.",
     "products": [
       [
         "Swiggy Food Delivery",
@@ -3595,7 +3594,6 @@ window.COMPANIES = [
     "color": "#65518c",
     "bg": "#f2eef8",
     "tag": "The business behind the offering",
-    "ownership": "This profile covers Refex Industries Limited, not every Refex-branded company. January 2026 results classified power trading, refrigerant gases and green mobility as discontinued operations. Group websites still discuss mobility; check the latest scheme and financial disclosures before mapping ownership.",
     "sources": [
       [
         "Refex current business overview",
@@ -3624,7 +3622,6 @@ window.COMPANIES = [
     "color": "#65518c",
     "bg": "#f2eef8",
     "tag": "The business behind the offering",
-    "ownership": "This profile covers Glass Wall Systems (India) Limited. Its clients and named project buildings are not subsidiaries merely because they appear in the project portfolio. It supplies façade solutions rather than being a general glass retailer.",
     "products": [
       [
         "Façade and curtain wall systems",
@@ -3681,7 +3678,6 @@ window.COMPANIES = [
     "color": "#65518c",
     "bg": "#f2eef8",
     "tag": "The business behind the offering",
-    "ownership": "This profile covers Kanohar Electricals Limited. It supplies equipment and project services to the power system; it is not itself a consumer electricity distribution utility. Equipment orders and EPC projects can have different cash and risk profiles.",
     "products": [
       [
         "Power transformers",
@@ -3744,7 +3740,6 @@ window.COMPANIES = [
     "color": "#4f7a2a",
     "bg": "#f0f6e8",
     "tag": "The business behind the offering",
-    "ownership": "This profile covers Indian Renewable Energy Development Agency Limited, a company owned by the Government of India and registered with the Reserve Bank of India as a non-banking financial company. It lends money to clean-energy projects; it does not build or run the power plants itself.",
     "products": [
       [
         "Solar power loans",
@@ -3803,7 +3798,6 @@ window.COMPANIES = [
     "color": "#8a3f6e",
     "bg": "#f7edf4",
     "tag": "The business behind the offering",
-    "ownership": "This profile covers HealthCare Global Enterprises Limited, which runs cancer hospitals under the HCG brand. Some centres are run through partnerships or subsidiaries, so the group’s accounts combine more than one legal entity. The Milann fertility business was part of the group until it was sold in June 2026.",
     "products": [
       [
         "Cancer diagnosis scans and tests",
@@ -3860,7 +3854,6 @@ window.COMPANIES = [
     "color": "#b04a62",
     "bg": "#f9edf0",
     "tag": "The business behind the offering",
-    "ownership": "This profile covers Fredun Pharmaceuticals Limited, a Mumbai-based company listed on BSE. It makes medicines and health products in its own factory, and also runs newer consumer and pet-health brands. Several of those brands, such as Freossi, BeautyFred and DAULCÉL, are product names and not separate listed companies.",
     "products": [
       [
         "Export medicines (Fredun Gx brand)",
@@ -3931,7 +3924,6 @@ window.COMPANIES = [
     "color": "#3b6fa6",
     "bg": "#ecf2f9",
     "tag": "The business behind the offering",
-    "ownership": "This profile covers Milky Mist Dairy Food Limited, based in Perundurai, Erode district, Tamil Nadu, and its subsidiary Asal Food Products Private Limited. It buys milk and makes dairy products; it does not own the shops that sell them. Its shares began trading on the exchanges in August 2026, so it has reported only a few quarters as a listed company.",
     "products": [
       [
         "Paneer",
@@ -3992,7 +3984,6 @@ window.COMPANIES = [
     "color": "#c07a1f",
     "bg": "#fbf3e5",
     "tag": "The business behind the offering",
-    "ownership": "This profile covers HFCL Limited, formerly Himachal Futuristic Communications Limited, and its subsidiary HTL Limited. It makes cables and equipment and builds networks for customers; it is not a mobile phone company and does not sell broadband to households. A proposed purchase of an aerospace business was announced but is described by the company as proposed, not completed.",
     "products": [
       [
         "Optical fibre",
@@ -4053,7 +4044,6 @@ window.COMPANIES = [
     "color": "#3d5a99",
     "bg": "#eceff9",
     "tag": "The business behind the offering",
-    "ownership": "This profile covers Genus Power Infrastructures Limited, based in Jaipur, Rajasthan. It makes electricity, gas and water meters, and runs smart-meter projects through its own project companies. It does not generate or sell electricity to households. Many projects are held in separate project companies, so the group’s accounts combine more than one entity.",
     "products": [
       [
         "Smart prepaid electricity meters",
@@ -4114,7 +4104,6 @@ window.COMPANIES = [
     "color": "#c0263a",
     "bg": "#fdecee",
     "tag": "The business behind the parcel at your door",
-    "ownership": "This profile covers Delhivery Limited and its subsidiaries together (consolidated). That includes Ecom Express Limited, a parcel-delivery company Delhivery bought control of on 18 July 2025.",
     "sources": [
       [
         "Delhivery Investor Relations",
@@ -4231,6 +4220,54 @@ window.PRODUCT_VISUALS = {
   ],
   "itc": [
     {
+      "name": "Sunfeast Bounce",
+      "category": "Biscuits and cakes",
+      "image": "assets/products/itc-15.webp",
+      "url": "https://itcportal.com/itc-businesses/fmcg.html",
+      "kind": "pack",
+      "alt": "Sunfeast — official product image"
+    },
+    {
+      "name": "Savlon",
+      "category": "Personal care · hygiene",
+      "image": "assets/products/itc-16.webp",
+      "url": "https://itcportal.com/itc-businesses/fmcg.html",
+      "kind": "pack",
+      "alt": "Savlon — official product image"
+    },
+    {
+      "name": "Cigarettes business",
+      "category": "Cigarette brands · separate reporting segment",
+      "url": "https://itcportal.com/itc-businesses/fmcg/cigarette.html",
+      "image": "assets/products/itc-business-cigarettes.svg",
+      "kind": "illustration",
+      "alt": "Cigarettes business — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Agri business",
+      "category": "Agricultural sourcing and business customers",
+      "url": "https://itcportal.com/itc-businesses/agri-business.html",
+      "image": "assets/products/itc-business-agri.svg",
+      "kind": "illustration",
+      "alt": "Agri business — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Paper & packaging",
+      "category": "Materials and packs for business customers",
+      "url": "https://itcportal.com/itc-businesses/packaging.html",
+      "image": "assets/products/itc-business-paper-packaging.svg",
+      "kind": "illustration",
+      "alt": "Paper & packaging — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "ITC Infotech",
+      "category": "Technology services · group subsidiary",
+      "url": "https://itcportal.com/itc-businesses/Information-Technology.html",
+      "image": "assets/products/itc-business-technology.svg",
+      "kind": "illustration",
+      "alt": "ITC Infotech — conceptual illustration, not a product photograph"
+    },
+    {
       "name": "Fabelle",
       "category": "Food · chocolates",
       "image": "assets/products/itc-12.webp",
@@ -4253,22 +4290,6 @@ window.PRODUCT_VISUALS = {
       "url": "https://itcportal.com/itc-businesses/fmcg.html",
       "kind": "pack",
       "alt": "Candyman — official product image"
-    },
-    {
-      "name": "Sunfeast Bounce",
-      "category": "Biscuits and cakes",
-      "image": "assets/products/itc-15.webp",
-      "url": "https://itcportal.com/itc-businesses/fmcg.html",
-      "kind": "pack",
-      "alt": "Sunfeast — official product image"
-    },
-    {
-      "name": "Savlon",
-      "category": "Personal care · hygiene",
-      "image": "assets/products/itc-16.webp",
-      "url": "https://itcportal.com/itc-businesses/fmcg.html",
-      "kind": "pack",
-      "alt": "Savlon — official product image"
     },
     {
       "name": "Engage",
@@ -4337,6 +4358,46 @@ window.PRODUCT_VISUALS = {
       "alt": "MAGGI Noodles — official product image"
     },
     {
+      "name": "NESCAFÉ Classic",
+      "category": "Coffee",
+      "image": "assets/products/nestle-india-6.webp",
+      "url": "https://www.nescafe.com/in/coffees/classic",
+      "kind": "pack",
+      "alt": "NESCAFÉ Classic — official product image"
+    },
+    {
+      "name": "Milk & nutrition",
+      "category": "Dairy and nutrition product group",
+      "url": "https://www.nestle.in/brands/dairy",
+      "image": "assets/products/nestle-business-milk-nutrition.svg",
+      "kind": "illustration",
+      "alt": "Milk & nutrition — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Confectionery",
+      "category": "Chocolate, wafers and sugar confectionery",
+      "url": "https://www.nestle.in/info/sitemap",
+      "image": "assets/products/nestle-business-confectionery.svg",
+      "kind": "illustration",
+      "alt": "Confectionery — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Purina PetCare",
+      "category": "Pet food · included in Prepared Dishes and Cooking Aids",
+      "url": "https://www.nestle.in/sites/g/files/pydnoa451/files/2026-06/AnnualReport2025-26andAGMNotice.pdf",
+      "image": "assets/products/nestle-business-petcare.svg",
+      "kind": "illustration",
+      "alt": "Purina PetCare — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Nestlé Professional",
+      "category": "Out-of-home offerings · customer channel",
+      "url": "https://www.nestle.in/media/pressreleases/allpressreleases/nestl%C3%A9-professional-reaches-landmark-1000th-retail-one-kiosk-india",
+      "image": "assets/products/nestle-business-professional.svg",
+      "kind": "illustration",
+      "alt": "Nestlé Professional — conceptual illustration, not a product photograph"
+    },
+    {
       "name": "MAGGI Nutri-licious",
       "category": "Prepared foods",
       "image": "assets/products/nestle-india-1.webp",
@@ -4377,14 +4438,6 @@ window.PRODUCT_VISUALS = {
       "alt": "MAGGI Sauces — official product image"
     },
     {
-      "name": "NESCAFÉ Classic",
-      "category": "Coffee",
-      "image": "assets/products/nestle-india-6.webp",
-      "url": "https://www.nescafe.com/in/coffees/classic",
-      "kind": "pack",
-      "alt": "NESCAFÉ Classic — official product image"
-    },
-    {
       "name": "NESCAFÉ Classic Black Roast",
       "category": "Coffee",
       "image": "assets/products/nestle-india-7.webp",
@@ -4411,6 +4464,38 @@ window.PRODUCT_VISUALS = {
       "alt": "Good Day — official product image"
     },
     {
+      "name": "Cheese",
+      "category": "Dairy · cheese",
+      "image": "assets/products/britannia-38.webp",
+      "url": "https://www.britannia.co.in/product",
+      "kind": "pack",
+      "alt": "Cheese — official product image"
+    },
+    {
+      "name": "Britannia Bread",
+      "category": "Bakery · bread",
+      "url": "https://media.britannia.co.in/Britannia_Annual_Report_2025_26_High_Resolution_c738982760.pdf",
+      "image": "assets/products/britannia-business-bread.svg",
+      "kind": "illustration",
+      "alt": "Britannia Bread — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Britannia Cakes",
+      "category": "Bakery · packaged cakes",
+      "url": "https://media.britannia.co.in/Britannia_Annual_Report_2025_26_High_Resolution_c738982760.pdf",
+      "image": "assets/products/britannia-business-cakes.svg",
+      "kind": "illustration",
+      "alt": "Britannia Cakes — conceptual illustration, not a product photograph"
+    },
+    {
+      "name": "Toastea Rusk",
+      "category": "Bakery · rusk",
+      "url": "https://media.britannia.co.in/Britannia_Annual_Report_2025_26_High_Resolution_c738982760.pdf",
+      "image": "assets/products/britannia-business-rusk.svg",
+      "kind": "illustration",
+      "alt": "Toastea Rusk — conceptual illustration, not a product photograph"
+    },
+    {
       "name": "Milk Bikis",
       "category": "Milk biscuits",
       "image": "assets/products/britannia-31.webp",
@@ -4428,7 +4513,7 @@ window.PRODUCT_VISUALS = {
     },
     {
       "name": "NutriChoice",
-      "category": "Health-focused biscuits and snacks",
+      "category": "Biscuits and snacks",
       "image": "assets/products/britannia-33.webp",
       "url": "https://www.britannia.co.in/product",
       "kind": "pack",
@@ -4467,14 +4552,6 @@ window.PRODUCT_VISUALS = {
       "alt": "Little Hearts — official product image"
     },
     {
-      "name": "Cheese",
-      "category": "Dairy · cheese",
-      "image": "assets/products/britannia-38.webp",
-      "url": "https://www.britannia.co.in/product",
-      "kind": "pack",
-      "alt": "Cheese — official product image"
-    },
-    {
       "name": "Treat",
       "category": "Cream biscuits and wafers",
       "image": "assets/products/britannia-39.webp",
@@ -4488,7 +4565,7 @@ window.PRODUCT_VISUALS = {
       "name": "Parachute",
       "category": "Coconut oil",
       "image": "assets/products/marico-9.webp",
-      "url": "https://marico.com/india/about-us",
+      "url": "https://marico.com/india/brands",
       "kind": "pack",
       "alt": "Parachute — official product image"
     },
@@ -4496,73 +4573,73 @@ window.PRODUCT_VISUALS = {
       "name": "Saffola",
       "category": "Edible oils, foods and wellness",
       "image": "assets/products/marico-41.webp",
-      "url": "https://marico.com/india/about-us",
+      "url": "https://marico.com/india/brands",
       "kind": "brand",
-      "alt": "Saffola — official product image"
+      "alt": "Saffola — official brand image"
     },
     {
       "name": "Saffola Foods",
       "category": "Foods · oats and wellness",
       "image": "assets/products/marico-42.webp",
-      "url": "https://marico.com/india/about-us",
+      "url": "https://marico.com/india/brands",
       "kind": "brand",
-      "alt": "Saffola Foods — official product image"
-    },
-    {
-      "name": "Plix",
-      "category": "Plant-based nutrition",
-      "image": "assets/products/marico-43.webp",
-      "url": "https://marico.com/india/about-us",
-      "kind": "brand",
-      "alt": "Plix — official product image"
-    },
-    {
-      "name": "Parachute Advansed",
-      "category": "Hair care",
-      "image": "assets/products/marico-44.webp",
-      "url": "https://marico.com/india/about-us",
-      "kind": "brand",
-      "alt": "Parachute Advansed — official product image"
-    },
-    {
-      "name": "Hair & Care",
-      "category": "Hair oil",
-      "image": "assets/products/marico-45.webp",
-      "url": "https://marico.com/india/about-us",
-      "kind": "brand",
-      "alt": "Hair & Care — official product image"
-    },
-    {
-      "name": "Livon",
-      "category": "Hair care",
-      "image": "assets/products/marico-46.webp",
-      "url": "https://marico.com/india/about-us",
-      "kind": "brand",
-      "alt": "Livon — official product image"
+      "alt": "Saffola Foods — official brand image"
     },
     {
       "name": "Beardo",
       "category": "Men’s grooming",
       "image": "assets/products/marico-47.webp",
-      "url": "https://marico.com/india/about-us",
+      "url": "https://marico.com/india/brands",
       "kind": "brand",
-      "alt": "Beardo — official product image"
+      "alt": "Beardo — official brand image"
+    },
+    {
+      "name": "Plix",
+      "category": "Nutrition and personal care",
+      "image": "assets/products/marico-43.webp",
+      "url": "https://marico.com/india/brands",
+      "kind": "brand",
+      "alt": "Plix — official brand image"
+    },
+    {
+      "name": "Parachute Advansed",
+      "category": "Hair care",
+      "image": "assets/products/marico-44.webp",
+      "url": "https://marico.com/india/brands",
+      "kind": "brand",
+      "alt": "Parachute Advansed — official brand image"
+    },
+    {
+      "name": "Hair & Care",
+      "category": "Hair oil",
+      "image": "assets/products/marico-45.webp",
+      "url": "https://marico.com/india/brands",
+      "kind": "brand",
+      "alt": "Hair & Care — official brand image"
+    },
+    {
+      "name": "Livon",
+      "category": "Hair care",
+      "image": "assets/products/marico-46.webp",
+      "url": "https://marico.com/india/brands",
+      "kind": "brand",
+      "alt": "Livon — official brand image"
     },
     {
       "name": "Just Herbs",
       "category": "Ayurvedic beauty",
       "image": "assets/products/marico-48.webp",
-      "url": "https://marico.com/india/about-us",
+      "url": "https://marico.com/india/brands",
       "kind": "brand",
-      "alt": "Just Herbs — official product image"
+      "alt": "Just Herbs — official brand image"
     },
     {
       "name": "Revive",
       "category": "Fabric care",
       "image": "assets/products/marico-49.webp",
-      "url": "https://marico.com/india/about-us",
+      "url": "https://marico.com/india/brands",
       "kind": "brand",
-      "alt": "Revive — official product image"
+      "alt": "Revive — official brand image"
     }
   ],
   "avenue-supermarts": [

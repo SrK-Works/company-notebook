@@ -2,7 +2,7 @@ const test=require('node:test'),assert=require('node:assert/strict'),fs=require(
 const dir='content/companies',files=fs.readdirSync(dir).filter(f=>f.endsWith('.json'));
 const records=files.map(f=>[f.slice(0,-5),JSON.parse(fs.readFileSync(path.join(dir,f),'utf8'))]);
 const lessonIds=fs.readdirSync('content/company-lessons').filter(f=>f.endsWith('.json')).map(f=>f.slice(0,-5));
-const identity=['id','name','ticker','sector','initial','color','bg','tag','ownership','sources'];
+const identity=['id','name','ticker','sector','initial','color','bg','tag','sources'];
 const explanation=['summary','description','money','watch','risks','update','question','answer'];
 const hasLesson=id=>lessonIds.includes(id);
 

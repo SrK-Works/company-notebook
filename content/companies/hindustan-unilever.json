@@ -48,7 +48,7 @@
       ],
       [
         "Clinic Plus",
-        "Personal care · hair care"
+        "Beauty & wellbeing · hair care"
       ],
       [
         "Closeup",
@@ -212,7 +212,7 @@
       ],
       [
         "Sunsilk",
-        "Personal care · hair care"
+        "Beauty & wellbeing · hair care"
       ],
       [
         "Surf excel",
@@ -235,19 +235,18 @@
         "Personal care · intimate hygiene"
       ]
     ],
-    "ownership": "This profile covers the Indian listed company, Hindustan Unilever Limited. Do not treat every product sold by the global Unilever group as part of HUL.",
     "sources": [
       [
         "HUL company website",
         "https://www.hul.co.in/"
       ],
       [
-        "FY 2025–26 annual report",
-        "https://www.hul.co.in/files/annual-report-2025-26.pdf"
+        "HUL annual report · business model and group accounts · FY 2025–26",
+        "https://www.hul.co.in/files/annual-report-2025-26-single-page.pdf"
       ]
     ],
     "productSource": "https://www.hul.co.in/brands/",
-    "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
+    "productNote": "Official HUL brand directory reviewed on 29 October 2026. This list groups variants and pack sizes; Rexona soap and deodorant listings are combined. A brand-directory entry is not a separate profit disclosure.",
     "logo": "assets/logos/hindustan-unilever.svg"
   },
   "offerings": [

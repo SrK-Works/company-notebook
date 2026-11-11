@@ -1,231 +1,84 @@
 # Company Notebook
 
-Mobile-friendly research prototype for Indian stock-market beginners.
+A mobile-friendly site that explains Indian listed companies to people starting to invest. Each company page starts with things you can recognise (products, services, photos), says who pays the company and for what, shows how the work turns into a bill, weighs what helps and what could hurt, and only then shows checked financial figures and the original sources. It is for learning, not stock advice.
 
-## Run
+Live: [srk-works.github.io/company-notebook](https://srk-works.github.io/company-notebook/). GitHub Pages publishes `dist/` after every push to `main`. Pages are cached for up to 10 minutes, so a hard refresh may be needed after a release.
 
-Serve `dist/` with a local HTTP server. No dependency installation is required to run the checked-in site. After editing company lesson JSON files, regenerate their bundle with `node scripts/build-company-lessons.cjs`.
-The entrypoint loads the generated `company-data.js`, `overviews.js`, `gallery.js`, `financial-data.js`, `financial-expansion.js`, `financials.js`, `research-guides.js`, `hul-primer.js`, `itc-primer.js`, `nestle-primer.js`, `britannia-primer.js`, `marico-primer.js`, `dmart-primer.js`, `profile-lessons.js`, `company-lessons.js`, `app.js` and `style.css`. Navigation uses hash routes,
-so company links work on static hosting. `.openai/hosting.json` retains the Sites project identity.
+## Run it locally
 
-## Live website
+Serve `dist/` with any static server, for example `cd dist && python3 -m http.server`. Nothing needs installing. Navigation uses hash routes (`#/company/<id>`), so links work on static hosting.
 
-GitHub Pages publishes `dist/` automatically after each push to `main`:
-[srk-works.github.io/company-notebook](https://srk-works.github.io/company-notebook/)
+## How it fits together
 
-## Features
+Authors edit one set of files per company. Build scripts turn them into the bundles the site loads.
 
-- Product-first company pages: the visual shelf appears immediately after the company header, followed by the one-minute overview, product and business foundations, operating mechanics and deeper research. All 35 profiles omit the generic share-ownership tutorial.
-- A one-minute overview on all 41 profiles: activities, paying customers, earnings, profit drivers and a next research question. The six earlier primers and 35 independently authored lessons supply the company-specific summaries, customers and profit drivers.
-- Forty-one company profiles, company/brand/ticker search and business-type filters. Multiword search matches words across company names, aliases and offerings (for example, “ITC Gold Flake”).
-- Cards and profile headers omit fixed reading-time estimates; the approximate one-minute overview label remains.
-- Device-local saved reading list, source references, business-model explanations,
-  risks and self-check questions.
-- Light and dark themes with system preference detection and a saved manual choice.
-- Product and service visual shelves across all 41 profiles, with a smooth, continuous loop at 22 pixels per second, pause on interaction, native touch scrolling, and reduced-motion support.
-- Starter guide and glossary.
-- Local feedback, correction notes, coverage requests and JSON export for pilot sessions.
-- Device-local reading events: opening and completing profiles, revealing explanations and bookmarks.
-- Feature-detected WebMCP tools `list_companies` and `set_reading_list`.
+| You edit | It holds | Build | Site file |
+|---|---|---|---|
+| `content/companies/<id>.json` | Name, ticker, sector, colours, logo, product list, offering cards (pictures), extra sources | `node scripts/build-company-data.cjs` | `dist/company-data.js` |
+| `content/company-lessons/<id>.json` | The explanation: quick answers, steps, what helps and hurts, deeper sections, sources, figure notes | `node scripts/build-company-lessons.cjs` | `dist/profile-lessons.js` |
+| `content/financial-reviews/<id>.json` (+ `.evidence.md`) | A verified annual financial snapshot and the transcription it came from | `node scripts/build-financial-reviews.cjs` | `dist/financial-expansion.js` |
 
-## Editorial boundaries
+Every build script has a `--check` flag that fails if its bundle is stale.
 
-Initial sources were inspected during 15–18 September 2026. No data refresh runs automatically. Per-company review dates are shown only when recorded; the 24 original profiles have no individual review date and are labelled accordingly, rather than inheriting a fixed date.
-Company disclosures and product directories support business facts; watch items,
-risks and learning explanations are editorial interpretation. This is not stock advice.
-Each company's base record and offering cards live in one file, `content/companies/<company>.json`. Edit that file, then run `node scripts/build-company-data.cjs` to regenerate `dist/company-data.js` (`--check` fails if the bundle is stale). Where to edit: a company with a lesson keeps its explanation (summary, description, money, risks, watch items, quiz and sources) only in `content/company-lessons/<company>.json`; its company file holds identity, offering cards and any extra sources. The six companies without a lesson (HUL, ITC, Nestlé, Britannia, Marico, DMart) keep that text in their company file. A test fails if the same field appears in both places. The 11 expansion profiles were reviewed on 27 October 2026; aliases support familiar names and common spelling variations.
+Hand-written site files in `dist/`:
+- `app.js`: the home page, search and filters, reading list, starter guide, theme switch, feedback and routing.
+- `short-profile.js`: the company page.
+- `company-lessons.js`: copies each lesson's summary, products and sources onto its company, for cards and search.
+- `gallery.js`: the scrolling product picture shelf.
+- `financial-data.js` (the original 17 verified snapshots) and `financials.js` (draws every financial table).
+- `figure-walkthroughs.js`: plain-language walkthroughs of the figures for HUL, ITC, Nestlé India, Britannia, Marico and DMart.
+- `style.css`: all styling. Every colour is a token at the end of the file, and dark mode only redefines those tokens.
 
-Financial figures checked on 29 October 2026 are stored in the original `dist/financial-data.js` plus generated `dist/financial-expansion.js`, and rendered by `dist/financials.js`. New financial authoring lives in `content/financial-reviews/` with primary-source evidence transcriptions.
-The current release contains 35 verified snapshots, all for FY 2025–26, covering the 35 companies added before 31 October 2026; the six companies added on that date show the explicit verification-pending state. The original 17 records remain unchanged:
-- Eleven profiles have business/segment disclosures: HUL, ITC, Reliance, Mahindra & Mahindra, L&T, Infosys, Titan, Swiggy, Marico, Eternal and TCS. TCS shows reported margins rather than reverse-calculated profit amounts. Reliance shows selected business highlights, not a complete group reconciliation.
-- Park Medi World reports one healthcare segment; Nestlé India reports one Food segment, with company profit and an additional sales-only product-group table. Britannia reports one Foods segment, with group profit attributable to owners, a separately labelled approximate turnover mix and geographical revenue. DMart’s consolidated retail results are also shown as group totals with no separate reportable segments. Glass Wall Systems and Kanohar show verified company totals, explicitly not product-level allocations.
-- The additional 18 profiles now have verified annual figures: six reported segment tables (Bajaj Auto, Airtel, Dr. Reddy’s, NTPC, POWERGRID and Refex) and twelve company/group total tables (Asian Paints, UltraTech, Maruti, HDFC Bank, ICICI Bank, SBI, Sun Pharma, Rainbow, Rentomojo, Tonbo, Bharat Coking Coal and Parag). Company totals never imply brand or product-level profit disclosure. The renderer retains an explicit verification-pending state for future uncovered companies.
+## The company page
 
-Every snapshot records reporting scope, source, table/page locator, profit definition, review date and reconciliation notes. ₹ million is divided by 10 and ₹ lakh by 100 where needed to present ₹ crore. Negative results retain a minus sign and a loss label. Revenue and profit amount bars use the same amount scale; margin bars use a separate 0–100% scale. Source figures are rounded only for display. ITC's independently rounded revenue rows differ from its reported subtotal by ₹1 crore; this is recorded and explained rather than silently adjusted.
-The former HUL partial percentage chart has been removed; its replacement covers the consolidated continuing-operation revenue and segment results from the annual report. These snapshots are historical annual disclosures, not current-quarter or live figures. Reviewing financial figures does not update the review date of unrelated company claims.
+Every company has a lesson and the same page: photos (a mosaic when the company has at least five) or the product shelf, four quick answers, how the work moves (`steps`, under an optional `stepsTitle`), what helps and what could hurt, then the figures and the sources. Everything else in the lesson (service groups, words worth knowing, what makes the business different, risks, what to check next, the latest development, any made-up example and the full product list) sits under "Go deeper", collapsed. A made-up example is always labelled "Illustration · made-up numbers, not the company’s figures".
 
-Research updates are curated references, not an exhaustive or live announcements feed.
-Each profile has a visual shelf of selected offerings, with product photos, brand imagery and explicitly labelled original service illustrations. The full curated text list remains in an expandable section. These are not comprehensive catalogues or live inventory. Image provenance is recorded in `dist/assets/products/sources.json`.
+The format is defined once in `content/lesson-template/template.json`: the sections, what each answers for a beginner, size limits and the rules (money amounts only in `financialNotes`, https sources, a dated check). `node scripts/check-lessons.cjs [company…]` checks lessons against it. Errors block publishing; warnings (for example an abbreviation used without a definition) need a person to read them.
 
-No accounts or central database are present. Browser storage is local to each origin
-and device; local-preview and hosted bookmarks do not migrate automatically.
-Feedback must be exported by a pilot participant and shared separately.
+The writing standard for every company is in `AGENTS.md`; lesson and financial review rules are in `content/company-lessons/AGENTS.md` and `content/financial-reviews/AGENTS.md`.
 
-## Validation performed
+## Adding a company
 
-- Financial UI: the 35 earlier phone-width profiles render verified financial content, and the 6 later additions render the explicit pending state, with no invented figures; no horizontal overflow or broken section targets. Desktop loss labels and expandable measurement notes were checked, with no console errors.
-- Financial checks: run `node --test tests/financials.test.cjs` for source metadata, finite values, signed losses, reported-total reconciliation, margin handling, totals-only handling, pending verification and safe rendering.
+1. Create `content/companies/<id>.json` (identity and offering cards) and run `node scripts/build-company-data.cjs`.
+2. Draft the lesson from official sources (below), have a person review it, and publish it.
+3. Run `node scripts/build-company-lessons.cjs` and `npm test`.
+4. Financial figures are a separate review in `content/financial-reviews/`. Until one exists, the page shows an explicit "awaiting verification" state and never invents figures.
 
-- 29 October usability audit: removed uniform five-minute labels, corrected multiword company/product matching in the UI and assistant tools, removed unsupported fallback review dates and prevented a successful feedback-save toast after a failed write. All 35 profiles passed browser checks for product-first order, overview presence, valid section targets, absence of the old reading label and desktop overflow. All 288 shelf assets have local files. Mobile explorer/profile, combined search, bookmark save/removal and local correction submission were checked. A blocked-storage check confirmed an accurate failure message.
+### Drafting a lesson
 
-- One-minute overviews: all 35 records have customer and profit-driver explanations, a research question and valid section targets; summaries contain roughly 110–150 words including labels.
-- Overview layout checked in light/dark themes and at 390px; consumer, banking, pharmaceutical, platform and building-project profiles checked, with no page overflow. Research and source links scroll within the profile without changing routes.
+Drafts live in `content/drafts/`, which is git-ignored. A person approves each draft before it goes live.
 
-- JavaScript syntax and all 35 records checked for required fields, counts and source URL shape.
-- Browser search by brand, profile navigation, empty search and coverage form.
-- Bookmarks persist across reload and removal updates the saved list.
-- Feedback controls and export availability; no browser console errors observed.
-- Phone viewport at 390px: explorer and banking profile have no horizontal overflow.
-- WebMCP registration, valid read/write, invalid company rejection and state read-back.
+1. **See the size, free:** `node scripts/draft-lesson.cjs <id> --source <https link> --source <https link> --dry-run`. Give at least two sources, a company or exchange document first.
+2. **Draft (paid API call):** the same command without `--dry-run`, with `ANTHROPIC_API_KEY` set (see `.env.example`). It saves `content/drafts/<id>.json` with status `needs-review`.
+3. **Review:** the draft holds the lesson, the checker result and an evidence list: each claim with its source link and a quote. Quotes from web pages are checked automatically; quotes from PDFs are marked "to check by hand" unless you pass extracted text with `--pdf-text <pdf link>=<text file>`.
+4. **Publish:** `node scripts/publish-draft.cjs <id>` shows the result; add `--approve` to move the lesson into `content/company-lessons/`. It refuses if the checker finds errors.
 
-## Next iteration
+Without an API key, a Claude Code session can write the draft: `--dump-sources work/<id>` saves the source text, the session writes its answer to a JSON file, and `--answer <file>` runs every check and saves the draft the same way. If a page blocks automated readers and `TINYFISH_API_KEY` is set, the script retries through TinyFish (`--no-tinyfish` turns that off). The drafting script needs `npm install`; the site and every other script need nothing.
 
-Test the 35 profiles with beginners, repeat the source check once the July–September 2026 results of SBI, Mahindra, Airtel, Britannia, Parag, POWERGRID and Kanohar are published, re-read Nestlé India's sources (its website blocked automated reading on 31 October 2026), extend verified segment financials,
-then decide on shared feedback storage and editorial update tooling. Review image reuse permissions before commercial expansion.
+## Financial figures
 
-## Beginner learning sequence
+36 companies have a verified FY 2025–26 snapshot; IREDA, HCG, Fredun Pharmaceuticals, Milky Mist, HFCL and Genus Power show the pending state. Each snapshot records its reporting scope (standalone or consolidated), source, table and page, profit definition, review date and reconciliation notes. ₹ million is divided by 10 and ₹ lakh by 100 to show ₹ crore. Losses keep a minus sign and a label. Company totals never imply a brand or product profit, and a sales split never becomes a profit split. These are historical annual disclosures, not live figures. The original 17 snapshots are protected by a test.
 
-Company pages show products first, then the one-minute overview, product foundations and business mechanics, offering details, company-specific investigation questions, risks and research context. The self-check precedes the final learning section, Follow the money; original sources and feedback follow it. The four-step path and desktop contents mirror this order.
+## Checks
 
-`dist/research-guides.js` supplies three editorial investigation instructions per base profile; the HUL deep dive extends its own list to five. They explain what to compare and what evidence to seek, not a finding that the business is doing well or a claim that every metric is disclosed. They are revealed on demand to keep the first read short. The final numbers section explicitly identifies cash flow, debt and valuation as work still to do. The overview’s opening explanation is not repeated in the business mechanics.
+- `npm test`: data, lessons, the company page, figure walkthroughs, financial records, the drafting step, source checking and design tokens.
+- `node scripts/check-lessons.cjs`: every lesson against the template.
+- The three build scripts with `--check`.
+- `node scripts/check-sources.cjs`: a read-only check of every source link (missing, moved, failing or refusing automated requests). `--tinyfish` retries failures through TinyFish, `--company <id>` limits the check, `--json <file>` saves a report and `--strict` exits with an error for CI. A link that loads does not prove the page still supports the claim.
 
-Run `node --test tests/*.test.cjs` to check disclosure handling and the learning sequence across all 35 profiles.
+## Other features
 
-Learning sequence validation: all 35 profiles passed phone-width checks for section order, three investigation disclosures, valid jump links and no horizontal overflow. Desktop and phone interactions were checked on Glass Wall Systems and HDFC Bank.
+- Search across company names, aliases, tickers and products; filters by business type.
+- A reading list stored on the device.
+- Light and dark themes that follow the system setting, with a saved manual choice.
+- A starter guide: five questions to ask about any business.
+- Local feedback, correction notes and coverage requests, with a JSON export for pilot sessions. There are no accounts and no central database.
+- Browser-assistant tools `list_companies` and `set_reading_list` where the browser supports them.
 
-## Company-by-company depth: HUL first
+## Known limits
 
-`dist/hul-primer.js` expands only Hindustan Unilever. It explains company/brand/product/segment, repeat purchases, FMCG, the route to a shopper, retail price versus company revenue, volume/price/mix examples and HUL's four category groups. It adds five HUL-specific investigation questions and risks, a local glossary and a worked reading of the existing segment table. Other profiles retain their earlier content.
-
-Company facts link to HUL's FY 2025–26 annual report, category reviews and brand directory. Illustrative pack-price calculations are labelled as fictional; margin examples are calculated from the verified consolidated continuing-operations table and are not net profit or shareholder returns. Learning-source verification is separate from dates on the existing financial data.
-
-HUL validation: desktop plus 320px, 390px and 768px layouts; no overflow, duplicate section IDs or broken jump links. Pricing and ownership disclosures, dark/light themes and the derived margin examples were checked. The test suite verifies the other 34 profiles and all financial records are untouched by the HUL extension.
-
-HUL refinement: the ownership/share tutorial is omitted from HUL's company page. The practical cost explanation lives inside the product-to-customer foundations. HUL's contents menu and numbered sections reflect this shorter business-focused sequence.
-
-## Second detailed profile: ITC
-
-`dist/itc-primer.js` composes with the HUL primer and changes only ITC. It keeps products first, explains consumer versus business customers, maps cigarettes/other FMCG/agri/paper and packaging/ITC Infotech, and demonstrates connections and internal sales without showing financial values early. It omits the generic share-ownership section. Six investigation questions and five risk explanations are specific to ITC.
-
-The numbers slot follows the existing dated standalone segment table. It derives contributions to reported segment results, not product margins or shareholder returns, and explains internal-sales elimination, cigarette tax comparability and subsidiary scope. Source figures are unchanged. Business explanations have their own check date; this does not re-date every catalogue entry. Four original, labelled SVG business illustrations supplement the existing product photographs; the original photographs remain in the shelf.
-
-ITC validation: the full test suite preserves the other 34 profiles, all financial source records and HUL’s rendered primer sections. ITC was checked at 320px, 390px and 768px widths for overflow, links, six research questions and financial figures appearing only at the end. The tax explanation opens correctly.
-
-## Third detailed profile: Nestlé India
-
-`dist/nestle-primer.js` composes with the HUL and ITC primers without modifying them. It explains the product groups, ingredient-to-customer route, retail versus out-of-home channels, demand and pack-size changes, milk/coffee/cocoa costs, food quality, distribution and capacity investment. It keeps the generic share-ownership tutorial out of the company page. Six tailored investigation prompts and five risk explanations precede all reported financial values.
-
-The new financial record in `financial-data.js` uses verified FY 2025–26 standalone revenue from operations and profit after tax, with the annual report's four product-sales groups stored separately. Sales-only groups contain no invented profit or margin. They reconcile to product sales; other operating revenue bridges that total to revenue from operations. The period note explains the older 15-month transition year, and rounded sales shares may sum to 100.01%. India figures are not replaced by global Nestlé margins. Four labelled original SVGs supplement the retained product photos.
-
-Nestlé validation: 320px, 390px and 768px layouts have no overflow or broken jump links. Both financial tables remain in the final learning section, the product-sales table has four rows and no profit column, and the historical-period explanation expands correctly. All earlier financial records were compared with the previous published revision and remain unchanged.
-
-
-## Fourth detailed profile: Britannia
-
-`dist/britannia-primer.js` extends only Britannia and composes with the earlier HUL, ITC and Nestlé walkthroughs. Products lead: biscuits, bread/cakes/rusk, dairy and adjacent snacks. The page explains brand versus category versus reported Foods segment, the ingredient-to-shop route, pack sizes, consumer demand versus channel shipments, freshness and stock returns, ingredient costs, capacity utilisation and the cheese joint venture. Six investigation prompts and five risks precede the final financial section. The generic share-ownership tutorial is omitted.
-
-The FY 2025–26 consolidated annual report is the primary financial source. Revenue and owners’ profit are shown as group totals, with no invented category profit. The BRSR approximate turnover mix is explicitly distinguished from exact category sales, biscuit-only sales and profit. The report’s consolidated reporting boundary is identified. Geographical revenues include other operating revenue and reconcile to the same group total. The profit explanation reconciles total group PAT to owners’ PAT; the separate Britannia Bel disclosure is an entity-level equity-accounted loss, not a cheese-product margin. Three original, labelled bakery illustrations supplement all retained product photos. Business-source checking does not re-date unrelated existing catalogue claims.
-
-Britannia validation: all 20 automated checks pass, including preservation of the other profiles and earlier financial records, financial reconciliation and signed equity-accounted losses. At 320px, 390px and 768px there is no horizontal overflow, no broken jump target and no failed image. All three tables are inside the final numbers section. Geography and joint-venture disclosures expand correctly, and light/dark layouts were checked with no browser errors.
-
-
-## Fifth detailed profile: Marico
-
-`dist/marico-primer.js` changes Marico only. It starts with coconut and hair oils, cooking oils and foods, grooming/personal care and international offerings. It explains copra, price/quantity/mix, reduced pack contents, digital-first versus direct sales, actual period revenue versus annualised revenue run-rate, repeat demand, constant currency, acquisitions and Kaya's marketing rights outside clinics. Six tailored questions and five risks precede the figures. The generic ownership tutorial is omitted; all existing shelf assets are retained with clearer references and labels.
-
-The existing verified India/International segment figures are preserved. A product-revenue table from FY 2025–26 consolidated Note 30 (printed pages 434–435) is stored separately and reconciles to the same group revenue, with no category profit estimates. The page warns against adding the two views together. Calculated segment-result-to-sales ratios are labelled separately from reported EBITDA margins. A disclosure traces segment result through finance costs, net unallocated expenditure, tax and non-controlling interests to owners’ profit, using the annual report's management review and accounts.
-
-Marico validation: all 23 automated checks pass. All earlier financial source values are unchanged; only the new Marico product-revenue and reconciliation record is added. At 320px, 390px and 768px there is no horizontal overflow, broken section link or failed image. Both financial tables remain in the final learning section. The profit-reconciliation disclosure and light/dark layouts were checked, with no browser errors.
-
-
-## Sixth detailed profile: Avenue Supermarts (DMart)
-
-`dist/dmart-primer.js` explains DMart as a retailer: category selection, supplier versus retailer-associated brands, competitive buying and pricing, inventory, checkout collection, operating costs and new-store investment. It distinguishes visit/basket growth from quantity, and existing-store performance from store expansion. It explains store maturity, catchment, sales productivity, property/lease effects and the costs of online fulfilment. Six tailored research questions and five risks precede the figures. The DMart Ready description now reflects location-specific fulfilment rather than implying pick-up is universal, and the old canary offering reference is replaced with a public company page.
-
-The new FY 2025–26 financial snapshot uses the audited consolidated annual column, retaining group PAT rather than silently substituting owners’ PAT. Standalone figures are labelled as overlapping parent scope and never added to group figures or subtracted to invent DMart Ready earnings. The results say there are no separate reportable segments. A calculated PAT-to-revenue example is labelled as neither gross mark-up nor cash after expansion. The dated store-growth explanation preserves the two-years-and-older quarterly definition and qualifies the store count for a location closed for reconstruction.
-
-### Review sequence
-
-Detailed business lessons now cover all 35 companies. The remaining 29, starting with Titan, were individually researched in this release. Completion requires product-first teaching, relevant mechanics, company-specific questions, dated primary sources, numbers-last reporting and responsive verification; adding length alone is not a completion criterion.
-
-DMart validation: all 26 automated checks pass. At 320px, 390px and 768px there is no horizontal overflow, broken section target or failed image; all financial content stays at the end. Parent/group and store-growth disclosures expand correctly. Light/dark themes and phone-width financial cells were inspected with no browser errors. Generic brain icons in Daily Essentials and Dairy/Frozen were replaced with original category-appropriate illustrations; the produce illustration was improved too. New asset paths prevent older cached images appearing, and provenance/alternative text are updated.
-
-
-## Independent company reviews: Titan and the remaining 28
-
-Authoring lives in `content/company-lessons/{company-id}.json`; `scripts/build-company-lessons.cjs` generates `dist/profile-lessons.js`. The shared `dist/company-lessons.js` renderer composes with the earlier six primers and preserves their content and all existing financial records. Each of these 29 lessons explains offering groups, unfamiliar terms, the customer-to-company operating route, distinctive business mechanisms, five investigation questions, risks, a self-check and final financial interpretation.
-
-Three agents researched separate company sets while the parent reviewed Titan, integrated the batch and checked the combined website. Future agents can own different company JSON files without competing to edit shared rendering code. `content/company-lessons/AGENTS.md` defines the source, scope and review rules. This is a reusable review workflow, not an automatic scheduled refresh.
-
-Corrections include neutral listing labels where exchange admission was not verified; on 31 October 2026 these were replaced for Rentomojo, Tonbo Imaging, Glass Wall Systems and Kanohar with dated NSE listing labels (see the source review below). Lessons also carry a dated distinction between continuing and discontinued Refex activities, and a dated distinction between continuing and discontinued Refex activities. Titan explains gold price versus quantity, inventory funding, reporting definitions and acquisitions. Bank lessons explain provisions, problem loans, capital and liquidity before using them in research prompts. Business-source check dates are distinct from catalogue verification.
-
-Business lessons and financial verification are separate workflows. Following the financial review below, all 35 companies have FY 2025–26 financial snapshots; the original 17 records and their reporting definitions remain unchanged.
-
-Validation: `node --test tests/*.test.cjs` (29 checks) and `node scripts/build-company-lessons.cjs --check`. Browser checks cover all 29 new lessons at 390px and 320px, with representative tablet and desktop checks. The checks cover overflow, section targets, investigation disclosures and financial tables staying in the final learning section. A long-company-name wrapping issue found at 320px was corrected.
-
-
-## Completing financial coverage for all 35 companies
-
-Eighteen independently maintained snapshots and evidence transcriptions live in `content/financial-reviews/`. Regenerate their checked-in bundle using `node scripts/build-financial-reviews.cjs`; `--check` verifies it is current. The builder rejects attempts to overwrite the original 17 verified snapshots. Primary company, exchange and issuer prospectus documents supply the figures, with exact annual columns, units, reporting scopes and table/page locators. Agents and the parent reviewed original tables, including scanned PDFs, and independently cross-checked the bank/pharma and Bajaj/Airtel records.
-
-Banks label total income explicitly rather than calling it product sales. NTPC, POWERGRID and Bajaj identify other-income-inclusive segment measures and internal eliminations where applicable. Dr. Reddy’s uses external segment revenue and gross profit under IFRS, with later costs and group PAT explained separately. Rentomojo’s material deferred-tax credit is explained beside its PAT. Refex distinguishes continuing and discontinued segments, retains losses and acknowledges the smaller solar activities actually reported by the issuer. BCCL’s policy changes and auditor emphasis matters accompany its totals. No product or brand profits have been invented.
-
-The former pending-verification lesson notes are updated. All actual financial values and interpretations remain in the final Follow the money learning section. Revenue, gross profit, segment PBIT and PAT retain their distinct definitions; company tables do not form a valuation or cash-flow analysis.
-
-Validation: 31 automated checks pass, covering complete 35-company coverage, preservation of the original 17 snapshots, source metadata, signed losses, reconciliation, bank-income terminology and the learning order. Browser checks cover all 18 new financial sections at 320px and 390px, with no overflow or stale pending messages. Financial disclosures and source links are checked in the rendered pages.
-
-
-## Plain-language company review standard
-
-The repository-root `AGENTS.md` records the permanent editorial standard for existing profiles, new companies and future additions. Assume that a first-time reader may not know the industry. Explain the physical product or actual work before its technical name, who pays and for what, major costs, and the journey from work to billing and customer payment. Define essential technical words locally. Rewrite vague wording instead of adding repeated paragraphs. Preserve company-specific questions and scope boundaries, with actual financial values at the end.
-
-All 35 profiles were reviewed against Refex’s concrete explanation style. The other 28 JSON lessons were simplified independently, the six earlier consumer/retail walkthroughs were checked and refined, and Refex remains the reference. Captions for unfamiliar technical offerings now describe their purpose in everyday language. Verified financial snapshots and existing financial-interpretation notes are preserved. The overview’s next-question prompt uses the actual research question.
-
-Plain-language release validation: all 31 automated checks pass. Browser checks cover all 35 profiles at 390px, including the four overview answers, real next-question prompts, section targets, no horizontal overflow and financial tables only in the final learning section.
-
-## Six additions of 31 October 2026
-
-IREDA, HealthCare Global Enterprises (HCG), Fredun Pharmaceuticals, Milky Mist Dairy Food, HFCL and Genus Power Infrastructures were added with the same plain-language lesson pattern as the other companies: recognisable products or services first, who pays and for what, costs, the path from work to payment, company-specific questions and risks, and a dated "what has changed" example. They are numbered 36–41 in the company list. "Paragh Milk Foods" was treated as Parag Milk Foods, which was already in the notebook.
-
-Sources are company, exchange and regulator documents read through TinyFish and local PDF extraction. Each profile's offering shelf uses real photographs: company-site product and service images (Milky Mist, HFCL, HCG, Genus Power) and openly licensed Wikimedia Commons photographs of the same kind of product or work (credited on each card, and labelled as not the company's own item). Cards with no suitable photograph (five Fredun cards, because its site has only artwork, plus two HCG and one Genus card) keep a labelled original illustration. Logos are not copied; profiles without a logo show initials. No financial amounts appear in the lessons. Verified full-year figures have not been added for these six, so each financial section shows the explicit pending state until a separate audited-source review is done. The findings and their limits are in `content/source-reviews/new-companies-2026-10-31.json`.
-
-Listing labels follow the sources: Fredun is shown as BSE-listed, Milky Mist as listed in August 2026, and HCG's fertility business is flagged as a historical offering because it was sold in June 2026. Tests in `tests/new-companies.test.cjs` check the illustrations, listing labels, the historical-offering flag and the absence of unverified figures.
-
-## Checking source links
-
-`node scripts/check-sources.cjs` makes a read-only check of every distinct source link in the lessons and earlier profiles and reports links that are missing (404), have moved, fail to load, or refuse automated requests. It never edits content. Add `--tinyfish` with a `TINYFISH_API_KEY` environment variable to retry the failed links through the TinyFish Fetch API and see which can still be read; `--company <lesson-id>` limits the check, `--json <file>` saves the report and `--strict` exits with an error for CI. The key is read only from the environment and is never stored. A reachable link does not prove the page still supports the claim; that still needs a person.
-
-## Source review of 31 October 2026
-
-All 35 profiles have now had a targeted source check, logged in `content/source-reviews/`: `pilot-2026-10-31.json` (HUL, Refex, Rainbow) and `review-2026-10-31-remaining.json` (the other 32). The checks used official company, exchange and regulator pages, read with the TinyFish web tools. Each profile's dated "what has changed" item now cites a recent official development, described in plain words, and its source list was extended. No new financial amounts were added and the verified annual snapshots are unchanged, apart from wording that said listing was unverified for Rentomojo and Tonbo Imaging.
-
-Main corrections: Glass Wall Systems, Kanohar, Rentomojo and Tonbo Imaging now show their NSE listing dates (16, 16 and 17 September and 23 October 2026), and Bharat Coking Coal's listing is confirmed. The dates for the first three come from the companies' own exchange filings, because the NSE quote pages would not load; Tonbo's was read from NSE. Reliance's lesson covers the 28 October 2026 listing of Jio Platforms, Swiggy's lesson covers its sale of Lynks Logistics, and L&T, Sun Pharma and ITC describe pending transactions as pending.
-
-Limits: Nestlé India could not be read (website blocked automated requests) and keeps its earlier review date. Several official PDFs for Infosys, Reliance and DMart could not be read, and the visible source notes on the ITC, Britannia, Marico and DMart primers still say they were checked on 29 October 2026. Open items are a Park Medi World income-tax inspection notice (October 2026) that the lesson does not yet mention, a new DMart subsidiary and a Swiggy food-safety order about its Toing app. These checks are targeted, not an exhaustive filing review, and there is still no automatic refresh. Open items for the next review, such as watching Park Medi World's exchange filings for any outcome of the October tax-authority verification, are listed in `content/source-reviews/follow-ups.json`.
-
-## The short company page
-
-Every company with a lesson file uses the short page: `"layout": "short"` in `content/company-lessons/<company>.json`. `dist/short-profile.js` draws a photo mosaic (when the company has at least five photos) or the scrolling product shelf, four quick answers (`quick`), the step-by-step flow (`steps`, headed by the optional `stepsTitle`), what helps and what could hurt (`helps`, `hurts`), the verified figures and the sources. The rest of the lesson (service groups, basics, specifics, watch questions, risks, latest development, any made-up example and the full product list) opens under "Go deeper", collapsed. There is no quiz. `scripts/draft-lesson.cjs` drafts short lessons. For the 36 companies converted on 11 November 2026, `quick`, `helps` and `hurts` were rewritten only from each lesson's own already-checked sections, with no new facts. ITC, Nestlé India, Britannia, Marico and DMart got lessons on 11 November 2026, rebuilt from their older built-in pages (`dist/*-primer.js`), which had been checked against company sources on 29–31 October 2026. Those primer files now supply only their checked figure walkthroughs and pictures; the lesson text replaces everything else.
-
-Delhivery's lesson was written from its annual report 2025–26 and its quarter-to-30-September-2026 filings, with 49 quotes checked against the filings when it was drafted. Its photographs are from its own annual report and each link opens that report; image reuse permission has not been reviewed. Its verified financial snapshot is whole-group totals only, because Delhivery reports one business segment (`content/financial-reviews/delhivery.json` and its evidence file).
-
-## Look and feel
-
-The look is deliberately calm: one neutral palette, large Inter Tight headings with Inter body text, borderless white cards with soft shadows, pill-shaped controls and a floating top bar. Every colour is a token at the end of `dist/style.css`; dark mode only redefines those tokens, so a new component gets both modes by using `var(--surface)`, `var(--ink)`, `var(--muted)` and so on rather than fixed colours. Labels are sentence case, not spaced capitals. `tests/design-tokens.test.cjs` fails if a token is used but not defined.
-
-## Lesson template and checker
-
-`content/lesson-template/template.json` defines the one format every company lesson follows: the sections, what each answers for a beginner, size limits and the rules (no money amounts outside `financialNotes`, https sources, a dated check). `node scripts/check-lessons.cjs [company…]` validates lessons against it. All 35 current lessons pass with no errors; the remaining warnings (for example EBITDA, DISCOM or EPC used without a definition) are real beginner-clarity gaps to fix in a separate content review. The same template will drive drafting lessons for new companies.
-
-## Drafting a lesson for a new company
-
-Drafts in `content/drafts/` are local working files and are git-ignored, so each new company adds only its real content to the repository. The proof that a lesson was checked is the published lesson itself: its sources and its `checked` date. Read the draft's evidence list before approving, because it is not kept in git afterwards.
-
-The drafting step turns official sources into a lesson that follows `content/lesson-template/template.json`. A person approves it before it goes live.
-
-1. **Identity first.** The company needs `content/companies/<company>.json` (name, ticker, sector, colours, offering cards).
-2. **See the size, free:** `node scripts/draft-lesson.cjs <company> --source <https link> --source <https link> --dry-run`. It fetches the sources and prints the size of the request. Give at least two sources, a company or exchange document first. A full annual report PDF can be several hundred pages and costs the most; one section of it is cheaper.
-3. **Draft (paid API call):** the same command without `--dry-run`, with `ANTHROPIC_API_KEY` set (see `.env.example`) or after `ant auth login`. It uses `claude-opus-5-5`, asks the API to retry on another model if a request is declined (`--no-fallback` turns that off), and saves `content/drafts/<company>.json` with status `needs-review`. Nothing is read by the site yet.
-4. **Review.** The draft file holds the lesson, the checker result, and an evidence list: each claim with the source link and a quote. Quotes from web pages are checked automatically against the page text; quotes from PDFs are marked "to check by hand". Edit the lesson in the draft if anything is wrong.
-5. **Publish:** `node scripts/publish-draft.cjs <company>` shows the result and changes nothing; add `--approve` to move the lesson into `content/company-lessons/`. It re-runs the checker first and refuses if there are errors. Then run `node scripts/build-company-lessons.cjs` and `node --test tests/`.
-
-**Without an API key (Claude Pro or Claude Code session).** A Claude Pro subscription does not include API access, but a Claude Code session can write the draft instead:
-1. `node scripts/draft-lesson.cjs <company> --dump-sources work/<company> --source <link> --source <link>` saves the exact text the checker will compare against (`work/` is git-ignored). PDFs are saved as files to read by page.
-2. The session reads those files and writes its answer, in the same format the API returns, to a JSON file.
-3. `node scripts/draft-lesson.cjs <company> --answer <that file> --source <link> --source <link>` runs every check and saves `content/drafts/<company>.json` exactly as the API path does, with status `needs-review`. The review gate is the same.
-
-**PDF sources.** The script cannot read PDF text itself, so quotes from a PDF are normally marked "to check by hand". Extract the text with any PDF tool (for example `pdftotext`, or the `pypdf` Python package) and pass it with `--pdf-text <pdf link>=<text file>`; those quotes are then checked automatically like web-page quotes.
-
-**Pages that block automated readers.** If a plain fetch fails or returns almost no text, and `TINYFISH_API_KEY` is set (`.env`), the script retries through TinyFish, whose fetch and search are free on the current account rates. `--no-tinyfish` turns that off. If TinyFish cannot read the page either (for example Nestlé India's site, or pages that build their content with JavaScript), save the page as text or use a different source.
-
-The drafting script needs one package, installed with `npm install`. The site and every other script need none.
+- Nothing refreshes automatically. Source reviews are logged in `content/source-reviews/`, with open items in `content/source-reviews/follow-ups.json`.
+- Photo and image reuse permission has not been reviewed. Image provenance is in `dist/assets/products/sources.json`.
+- The quick answers, helps and hurts for 36 companies were rewritten on 11 November 2026 from each lesson's own checked sections, and the ITC, Nestlé India, Britannia, Marico and DMart lessons were rebuilt from their earlier checked pages. No person has read them yet.
+- Nestlé India's website blocks automated reading, so its sources were last read on 29 October 2026.
+- The lesson checker still reports 38 warnings, mostly abbreviations used before they are defined. They need a content pass.

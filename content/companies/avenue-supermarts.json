@@ -16,7 +16,7 @@
       ],
       [
         "DMart Ready",
-        "Online ordering and pick-up"
+        "Online grocery ordering · fulfilment varies by location"
       ],
       [
         "Grocery and Staples",
@@ -83,15 +83,9 @@
         "Retail category"
       ]
     ],
-    "ownership": "Avenue Supermarts Limited is the listed company behind DMart. Individual brands sold in its stores usually belong to suppliers; stocking a brand does not mean DMart owns it.",
-    "sources": [
-      [
-        "Avenue Supermarts FY 2024–25 release",
-        "https://api.dmartindia.com/corporate/content/file/v1/2/TDI1kRsO5MBfKRlbTLg2EVNq1746272142/Press%20release%20dated%203rd%20May%2C%202025.pdf"
-      ]
-    ],
-    "productSource": "https://canary.dmartindia.com/",
-    "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
+    "sources": [],
+    "productSource": "https://www.dmartindia.com/about-us",
+    "productNote": "Selected retail categories and shopping channels, not a catalogue of products manufactured by Avenue Supermarts. Availability varies by store, location and online service area. Supplier brands, private labels, physical stores and DMart Ready are different relationships and activities. The FY 2025–26 results do not provide separate profits for each shelf category.",
     "logo": "assets/logos/avenue-supermarts.svg"
   },
   "offerings": [

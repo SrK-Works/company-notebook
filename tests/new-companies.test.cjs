@@ -2,15 +2,14 @@ const {test}=require('node:test');
 const assert=require('node:assert/strict');
 const fs=require('node:fs'),vm=require('node:vm');
 const c={Intl};c.window=c;vm.createContext(c);
-for(const f of ['company-data','overviews','research-guides','financial-data','profile-lessons','company-lessons'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
+for(const f of ['company-data','financial-data','profile-lessons','company-lessons'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
 const added=['ireda','hcg','fredun-pharmaceuticals','milky-mist','hfcl','genus-power'];
 
 test('each added company has a complete profile, local original illustrations and no unverified financial figures',()=>{
  for(const id of added){
   const company=c.COMPANIES.find(x=>x.id===id);assert.ok(company,id);
-  // The short page has no self-check question, so only a long-layout company needs one.
-  const short=c.COMPANY_LESSONS?.[id]?.layout==='short';
-  for(const k of ['name','ticker','sector','summary','description','money',...(short?[]:['question','answer']),'productSource','productNote'])assert.ok(String(company[k]||'').length>=3,`${id}: ${k}`);
+  for(const k of ['name','ticker','sector','summary','productSource','productNote'])assert.ok(String(company[k]||'').length>=3,`${id}: ${k}`);
+  for(const k of ['description','money'])assert.ok(String(c.COMPANY_LESSONS[id][k]||'').length>=3,`${id}: lesson ${k}`);
   assert.ok(company.products.length>=7,id+': offerings');
   assert.ok(company.sources.length>=3,id+': sources');
   assert.equal(c.COMPANY_FINANCIALS[id],undefined,id+': figures await a separate verified review');
@@ -44,7 +43,7 @@ test('listing labels and the sold fertility business are shown accurately',()=>{
 test('added lessons put figures after the explanation and describe plans as plans',()=>{
  for(const id of added){
   const l=c.COMPANY_LESSONS[id];
-  const explanation=JSON.stringify([l.summary,l.description,l.money,l.customers,l.groups,l.basics,l.steps,l.specifics,l.watch,l.risks,l.context,l.quiz]);
+  const explanation=JSON.stringify([l.summary,l.description,l.money,l.customers,l.groups,l.basics,l.steps,l.specifics,l.watch,l.risks,l.context,l.quick,l.helps,l.hurts]);
   assert.ok(!/₹|\bRs\.?\s*\d|\bINR\s*\d|crore|lakh/i.test(explanation),`${id}: amounts belong only in verified financial figures`);
  }
  assert.match(JSON.stringify(c.COMPANY_LESSONS.hfcl.context),/proposed aerospace purchase/);
