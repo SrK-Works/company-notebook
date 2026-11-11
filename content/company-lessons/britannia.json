@@ -1,0 +1,80 @@
+{
+  "layout": "short",
+  "summary": "Britannia makes Good Day, Marie Gold and Milk Bikis biscuits, plus bread, cakes, rusk, dairy products and other packaged snacks, and gets them onto shop shelves in India and abroad.",
+  "description": "Britannia makes and sells biscuits, bread, cakes, rusk (a crisp baked snack often eaten with tea), dairy products and other packaged foods. It buys flour, sugar, oils, milk and packaging, makes the food in its factories and with production partners, checks quality and gets packs onto shop shelves. The business works only if people find the products fresh, at a price they accept, and choose them again.",
+  "money": "Britannia earns money when distributors, shops, retail chains and online sellers in India and overseas pay for the packaged food it supplies. The shopper’s price is not Britannia’s revenue, because discounts, shop margins, returns and taxes sit in between. Ingredients, packs, factory work, delivery and advertising must be paid for. Selling more packs helps profit only if the extra sales cover the extra costs.",
+  "customers": "Households buy through local shops, supermarkets and online and quick delivery apps. A distributor or shop usually buys the stock from Britannia first, so the business customer is often different from the person who eats the food. Britannia also sells overseas through its international operations.",
+  "drivers": "How much food customers buy, the price and pack size, and which products they choose. Wheat, sugar, oils, milk and packaging costs, factory costs, delivery and advertising decide what remains.",
+  "groups": [
+    {"title": "Biscuits and cookies", "examples": "Good Day, Marie Gold, Milk Bikis, Tiger, NutriChoice, 50-50, Jim Jam and Bourbon.", "explanation": "Tea-time biscuits, sweet cookies, cream-filled and savoury options. Ingredient costs, affordable packs, promotions and shelf availability decide the next purchase."},
+    {"title": "Bread, cakes and rusk", "examples": "Bread loaves, packaged cakes and Toastea rusk.", "explanation": "Part of the same bakery business, but bread goes stale faster than sealed biscuits, so freshness, delivery frequency and returns matter more."},
+    {"title": "Dairy", "examples": "Winkin’ Cow dairy drinks, Come Alive curd and yogurt, milk powder, butter, ghee and dairy whitener. Britannia The Laughing Cow cheese comes from a joint venture.", "explanation": "Buying milk, processing it, storing it correctly and keeping production lines busy shape the economics."},
+    {"title": "Other snacking formats", "examples": "Treat Croissant and wafers, including Bourbon Rolls.", "explanation": "Newer areas next to the core biscuit business. The question is whether new buyers come back and whether sales cover the extra production and promotion costs."}
+  ],
+  "basics": [
+    {"title": "Brand, category and segment", "text": "Good Day is a brand on a range of products. Biscuits, bread and dairy are categories with different costs and delivery needs. Britannia reports all its activities as one Foods segment, so it publishes no separate profit for biscuits, bread or dairy."},
+    {"title": "Volume, price and mix", "text": "Volume is how much food is sold. Price is what is received per unit. Mix is the balance of products sold. Britannia says its volume measure is total weight sold, not the number of packs."},
+    {"title": "Shop types", "text": "General trade means local shops. Modern trade means supermarkets and store chains. Quick commerce means apps that deliver groceries within minutes. Each route has its own terms, promotions and stock needs."},
+    {"title": "Joint venture", "text": "A joint venture is a business two partners control together under an agreement. Britannia Bel Foods, the cheese business, is one. Britannia counts its share of that venture’s profit or loss rather than adding every cheese sale to its own revenue."}
+  ],
+  "stepsTitle": "From flour and milk to a pack on the shelf.",
+  "steps": [
+    {"title": "Buy ingredients and packaging", "text": "Britannia sources flour, sugar, edible oils, milk and packaging suited to each product. Both cost and quality matter."},
+    {"title": "Make the food safely", "text": "Its factories and production partners follow recipes, check quality and pack products for how they will be stored."},
+    {"title": "Supply the shops", "text": "Stock moves through distributors to shops, chains and apps. Bread needs more frequent delivery than biscuits, and dairy needs the right storage."},
+    {"title": "Get paid", "text": "Distributors and retailers pay Britannia under agreed terms. Discounts, promotions and returned stock reduce what it keeps."},
+    {"title": "Earn the next purchase", "text": "Taste, price, availability and trust help a shopper choose the product again. Competing products are only a shelf or a tap away."}
+  ],
+  "specifics": [
+    {"title": "A pack count can hide a change in quantity", "text": "Shoppers can buy the same number of packs while getting less food if the weight in each pack changes. Read volume on a consistent basis, alongside prices and product mix."},
+    {"title": "Stock in a shop is not yet a sale to a shopper", "text": "Sending more goods to shops raises the stock they hold before anyone buys it. Unsold stock can later be discounted or returned, so read distribution commentary with stock and returns."},
+    {"title": "Freshness changes the delivery problem", "text": "Bread, biscuits and dairy last for different lengths of time and need different storage. Faster sales help only if the supply route keeps quality at an acceptable cost."},
+    {"title": "New categories are different growth tasks", "text": "A new biscuit flavour can use an existing brand and delivery route. Dairy, croissants and wafers can need different equipment, storage, partners and advertising before repeat demand builds."}
+  ],
+  "watch": [
+    ["Are shoppers buying more food, or paying more for a different pack?", "Sales can rise because of quantity, pack size, price or a shift to pricier products.", "Read sales and management’s volume commentary together. Compare equivalent weights where possible, because more packs need not mean more food if packs become smaller. Do not treat revenue growth as volume growth."],
+    ["Can pricing and efficiency keep up with ingredient costs?", "Wheat, sugar, oils, milk and packaging costs decide how much each sale leaves.", "Read the ingredient-cost and pricing discussion in the annual report and results. These inputs have different cost cycles, and stock bought earlier can delay the effect. Check promotions, transport, factory efficiency and advertising, and compare the same profit definition across periods."],
+    ["Are products reaching shoppers before they lose freshness?", "Food that sits too long is discounted, returned or wasted.", "Use the revenue note on returns, discounts and promotions, then read stock, money customers still owe and distribution commentary. More outlets or more stock sent into a channel do not prove that shoppers bought and ate the goods."],
+    ["Are newer categories building repeat demand?", "Dairy, croissants and wafers need factories, storage and advertising before they pay back.", "Follow the bakery, dairy and other reviews with factory and investment disclosures, including how much of available capacity is used. Ask whether customers return and whether extra sales cover production, distribution and promotion. A new line is capacity, not proof of a good return."],
+    ["Are food quality and product claims protecting trust?", "Food safety, ingredients and labels affect whether shoppers keep buying.", "Read the company’s risk discussion, exchange filings and any official regulatory decisions. Identify the product, date, allegation or finding and the company’s response. A health-oriented brand name is not by itself evidence of a nutritional benefit."]
+  ],
+  "risks": [
+    ["Affordable packs leave little room for cost rises", "Dearer ingredients and packaging can reduce earnings. Raising prices, shrinking packs or cutting promotions may cover costs but push shoppers to alternatives."],
+    ["Competition raises the cost of each sale", "National brands, local bakeries and regional food businesses compete for shelf space, and advertising, discounts and launches cost money."],
+    ["Quality or freshness failures", "Unsold or expired goods, damaged packs and food-safety or labelling problems can cause returns, waste and lost trust."],
+    ["New categories and factories take time", "Dairy, new snack formats and new factories need demand. Low use of capacity or weak repeat buying leaves costs ahead of benefits."],
+    ["Overseas and group complexity", "Joint ventures, overseas businesses, exchange rates and shipping disruptions affect earnings and cash in different ways."]
+  ],
+  "context": ["August 2026: the same small pack can hold a different amount of biscuits", "On its 7 August 2026 results call with analysts, Britannia said most of what it sells is in its lowest-priced small packs. Because shoppers expect those shelf prices to stay the same, many price increases are made by putting fewer grams in the pack, and a tax cut gave shoppers a little more biscuit rather than a lower price. This is management commentary on one quarter, not a forecast."],
+  "sources": [
+    ["Britannia business and product categories", "https://www.britannia.co.in/about-us"],
+    ["Britannia product portfolio", "https://www.britannia.co.in/"],
+    ["FY 2025–26 annual report · business review and accounts", "https://media.britannia.co.in/Britannia_Annual_Report_2025_26_High_Resolution_c738982760.pdf"],
+    ["Official annual-report library", "https://www.britannia.co.in/investors/financial-performance/annual-report"],
+    ["Britannia Bel cheese partnership · October 2024", "https://media.britannia.co.in/Press_Release_09_10_2024_747d4ea5a0.pdf"],
+    ["Q1 FY 2026–27 earnings call transcript · 7 August 2026", "https://media.britannia.co.in/Britannia_Earnings_Aug07_2026_Updated_6288b5faf7.pdf"]
+  ],
+  "financialNotes": [
+    {"title": "The product mix is approximate and has no profits", "text": "The walkthrough above uses the approximate turnover mix from Britannia’s FY 2025–26 business responsibility report. It groups bakery and salted snacks together, so it is not a biscuit-only sales figure, and it gives no profit for any category or brand."},
+    {"title": "Group profit is not all Britannia’s", "text": "Consolidated accounts include subsidiaries, and part of their results can belong to other owners. Group profit after tax can therefore differ from the profit that belongs to Britannia’s own shareholders. The cheese joint venture is counted as a share of its result, not as sales."},
+    {"title": "What to read next", "text": "Read operating cash flow, capital spending, borrowings, dividends and related-party balances. Profit, cash collected and cash available to pay out are different measures."}
+  ],
+  "quick": [
+    {"title": "What it does", "text": "Britannia makes biscuits such as Good Day and Marie Gold, plus bread, cakes, rusk, dairy products and other packaged snacks."},
+    {"title": "Who pays", "text": "Distributors, shops, retail chains and online sellers in India and abroad buy from Britannia. Households pay the shop, not Britannia."},
+    {"title": "How it earns", "text": "By selling packaged food to those buyers. Discounts, shop margins, returns and taxes mean the shelf price is not what Britannia keeps."},
+    {"title": "What it spends on", "text": "Flour, sugar, oils, milk and packaging, factories, delivery, staff and advertising."}
+  ],
+  "helps": [
+    {"title": "Food people buy every week", "text": "Biscuits, bread and other packaged foods run out and get bought again, through local shops, supermarkets and apps."},
+    {"title": "Affordable small packs", "text": "Britannia says most of what it sells is in its lowest-priced small packs, which keeps its food within reach of many shoppers."},
+    {"title": "Room to grow beyond biscuits", "text": "Dairy, croissants and wafers can use familiar brand names and existing routes to shops, if buyers come back for them."}
+  ],
+  "hurts": [
+    {"title": "Ingredient costs rise", "text": "Dearer wheat, sugar, oils, milk or packaging can reduce earnings. Raising prices or shrinking packs may push shoppers to alternatives."},
+    {"title": "Strong competition", "text": "National brands, local bakeries and regional food businesses compete for shelf space, and fighting back with discounts and advertising costs money."},
+    {"title": "Freshness and quality failures", "text": "Expired or damaged goods and food-safety or labelling problems can cause returns, waste and lost trust."},
+    {"title": "New categories need time", "text": "New snack formats, dairy and factories need repeat buyers before they cover their costs."}
+  ],
+  "checked": "31 October 2026"
+}

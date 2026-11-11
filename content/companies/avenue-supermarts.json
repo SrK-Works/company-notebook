@@ -9,8 +9,6 @@
     "color": "#287b43",
     "bg": "#edf8f0",
     "tag": "The company behind the store",
-    "summary": "A retail business operating DMart stores for food, household goods, apparel and general merchandise.",
-    "description": "Avenue Supermarts owns and operates DMart stores. The retailer sells everyday products across food, non-food consumer goods and general merchandise through physical stores and related channels.",
     "products": [
       [
         "DMart stores",
@@ -85,52 +83,13 @@
         "Retail category"
       ]
     ],
-    "money": "Retail sales depend on customer visits, basket size, store count and prices. Gross margin is typically thin, so inventory management, property costs, supply chains and operating efficiency matter.",
     "ownership": "Avenue Supermarts Limited is the listed company behind DMart. Individual brands sold in its stores usually belong to suppliers; stocking a brand does not mean DMart owns it.",
-    "watch": [
-      [
-        "Same-store growth",
-        "Are established stores attracting more spending?"
-      ],
-      [
-        "Store expansion",
-        "Can new locations grow without weakening returns?"
-      ],
-      [
-        "Inventory and margins",
-        "How efficiently does stock move while prices remain competitive?"
-      ]
-    ],
-    "risks": [
-      [
-        "Retail competition",
-        "Other stores and online platforms compete on price and convenience."
-      ],
-      [
-        "Expansion execution",
-        "New stores require property, inventory and local demand."
-      ],
-      [
-        "Low margins",
-        "Small changes in costs or discounts can materially affect profit."
-      ]
-    ],
     "sources": [
-      [
-        "DMart company overview",
-        "https://www.dmartindia.com/about-us"
-      ],
       [
         "Avenue Supermarts FY 2024–25 release",
         "https://api.dmartindia.com/corporate/content/file/v1/2/TDI1kRsO5MBfKRlbTLg2EVNq1746272142/Press%20release%20dated%203rd%20May%2C%202025.pdf"
       ]
     ],
-    "update": [
-      "The products on the shelf are usually suppliers’ brands",
-      "DMart earns as a retailer by buying, stocking and selling goods efficiently. A popular item does not become a DMart-owned brand merely because it is sold there."
-    ],
-    "question": "Why can a retailer with low profit margins still build a substantial business?",
-    "answer": "High sales volumes, fast inventory movement and disciplined costs can produce meaningful total profit even when only a small amount remains from each rupee of sales.",
     "productSource": "https://canary.dmartindia.com/",
     "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
     "logo": "assets/logos/avenue-supermarts.svg"

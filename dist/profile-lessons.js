@@ -189,6 +189,235 @@ window.COMPANY_LESSONS = {
       }
     ]
   },
+  "avenue-supermarts": {
+    "layout": "short",
+    "summary": "Avenue Supermarts runs DMart stores, which sell groceries, household goods and clothing, and the group’s DMart Ready online grocery service. It buys goods from suppliers and sells them to shoppers.",
+    "description": "DMart is a retailer: it buys goods from suppliers and sells them to shoppers in its stores. Its shelves hold groceries, fruit and vegetables, home and personal-care items, household goods and clothing. Most of these products are made by other companies; DMart’s work is choosing the range, buying it on good terms, keeping it on the shelves and selling it at low prices. The group also runs DMart Ready, an online grocery service, where it is available.",
+    "money": "DMart earns money when shoppers pay at the checkout or for an online order. From that money it first pays suppliers for the goods, then staff, rent or property costs, electricity, storage, delivery and other costs before anything is left as profit. More shoppers or bigger shopping bills do not guarantee higher profit if costs rise faster.",
+    "customers": "Households shopping in DMart stores, and those using DMart Ready where it operates. The paying customer is usually the shopper at the checkout, not a shop buying stock to resell. Shoppers pay immediately, but DMart has to buy and hold the goods before they sell.",
+    "drivers": "The prices DMart pays suppliers, whether popular goods are on the shelves, how many people shop, how much each spends and which goods they buy. Staff, property, unsold stock and online delivery costs also matter.",
+    "groups": [
+      {
+        "title": "Foods and groceries",
+        "examples": "Grocery and staples, dairy and frozen products, fruit and vegetables and other food purchases.",
+        "explanation": "These bring shoppers back often, but freshness, expiry dates, storage and keeping items in stock need constant attention."
+      },
+      {
+        "title": "Home and personal-care goods",
+        "examples": "Soap, detergent, hair oil and other everyday household needs.",
+        "explanation": "A familiar soap brand usually belongs to a supplier. DMart’s role is buying, stocking, displaying and selling it efficiently."
+      },
+      {
+        "title": "Household goods and clothing",
+        "examples": "Bed and bath products, crockery, footwear, toys and clothing.",
+        "explanation": "Sizes, seasons and discounts to clear unsold goods make these different from everyday food shopping, and a change in mix changes both sales and costs."
+      },
+      {
+        "title": "DMart Ready",
+        "examples": "Online grocery shopping run by the group company Avenue E-Commerce Limited, where the service is available.",
+        "explanation": "The shopper avoids a trip to the store, but picking goods, packing orders and arranging collection or delivery still cost money."
+      }
+    ],
+    "basics": [
+      {
+        "title": "Retailer and supplier",
+        "text": "A supplier makes and markets a product. A retailer buys it and sells it to shoppers. Selling a brand on its shelves does not mean DMart owns the company that makes it. A private label is a product sold under a brand connected to the retailer."
+      },
+      {
+        "title": "Everyday low cost, everyday low price",
+        "text": "DMart describes its approach as buying on competitive terms and running stores and distribution efficiently, so that it can keep selling prices low. The investor’s question is whether those savings and the extra sales cover all its costs."
+      },
+      {
+        "title": "Gross profit",
+        "text": "Gross profit is what is left after paying for the goods sold. It still has to cover wages, property, electricity, distribution, damaged goods and other costs before any final profit remains."
+      },
+      {
+        "title": "Standalone and consolidated",
+        "text": "Standalone accounts cover the parent company, which runs the stores. Consolidated accounts cover the whole group, including DMart Ready’s company. They overlap, so they should not be added together."
+      }
+    ],
+    "stepsTitle": "From the supplier to the checkout.",
+    "steps": [
+      {
+        "title": "Choose and buy the range",
+        "text": "DMart selects products, quantities and supplier terms. Buying more than shoppers want leaves money tied up in stock."
+      },
+      {
+        "title": "Move and display the goods",
+        "text": "Distribution centres and store teams keep useful goods available, with the right storage for food and other items."
+      },
+      {
+        "title": "Complete the shopping trip",
+        "text": "Shoppers fill their baskets and pay at the checkout. The number of visits, spending per visit, prices and the mix of goods decide sales."
+      },
+      {
+        "title": "Restock and pay the bills",
+        "text": "DMart pays suppliers, staff, property costs, electricity and transport, then buys the next round of stock. Online orders add picking, packing and delivery."
+      }
+    ],
+    "specifics": [
+      {
+        "title": "Low prices leave a thin slice per sale",
+        "text": "Lower prices can bring more visits and bigger baskets, but leave less from each sale. Efficient buying, fast-moving stock and lean stores have to support the low prices."
+      },
+      {
+        "title": "More stores or better stores?",
+        "text": "New stores add sales without saying anything about older ones. DMart reports growth at stores that are at least two years old; read that measure, and its period, separately from total growth."
+      },
+      {
+        "title": "More stock or slower stock?",
+        "text": "Stock can grow to fill new stores, or because goods are not selling as expected. Read it alongside sales, store openings, supplier payments and cash flow."
+      },
+      {
+        "title": "Online needs its own accounts",
+        "text": "DMart Ready is run by a separate group company. The gap between the parent’s profit and the group’s profit is not a clean measure of DMart Ready’s result, because other companies and adjustments sit in it too."
+      }
+    ],
+    "watch": [
+      [
+        "Are established stores improving, or is growth mostly from new stores?",
+        "New stores can lift total sales while older ones stand still.",
+        "The May 2026 release discusses growth at stores two years and older for the March quarter. Check that age threshold and period; it is not full-year growth for every store. Prices, visits, basket size, selling area and product mix all affect it."
+      ],
+      [
+        "Do low prices still leave enough after all costs?",
+        "Gross profit must still pay for wages, property, electricity and distribution.",
+        "Read DMart’s low-price strategy alongside the financial statements. Follow gross profit through to staff, property and distribution costs. Mix changes between food, everyday goods and general merchandise can move the result, so compare the same margin definition and period."
+      ],
+      [
+        "Is stock turning into sales and cash efficiently?",
+        "Goods are paid for before shoppers buy them, so slow stock uses cash.",
+        "Read stock with purchases, sales and supplier balances over matched periods. Rising stock can support new stores, but slow-moving, expired, damaged or missing goods are different problems. Quick checkout cash does not remove the need to fund stock."
+      ],
+      [
+        "Are new stores earning enough to justify their cost?",
+        "Property, fit-outs, staff and stock cost money before a store matures.",
+        "Read store openings, retail area and sales per unit of selling area together. Check spending on property and fit-outs, owned versus rented premises, depreciation and lease payments. A store count alone does not show the return on money invested."
+      ],
+      [
+        "Can DMart Ready serve customers at a sustainable cost?",
+        "Online orders add picking, packing and delivery costs.",
+        "DMart Ready is run by Avenue E-Commerce Limited, so read its own accounts and the group’s commentary. The May 2026 release described a renewed focus on home delivery and changes to where the service operates. A smaller service area is not automatically proof of success or failure."
+      ]
+    ],
+    "risks": [
+      [
+        "Price competition",
+        "Other retailers, local shops and online sellers compete on price, range and convenience. With little left from each sale, discounts or higher costs matter a lot."
+      ],
+      [
+        "Stock that is missing, slow or wasted",
+        "Missing popular goods can lose a whole basket. Unsold, expired, damaged or lost stock ties up cash and reduces profit."
+      ],
+      [
+        "New stores that do not earn their cost",
+        "Property, fit-outs, stock and staff need money before a store matures. Weak local demand, overlap with nearby stores or rising property costs can limit returns."
+      ],
+      [
+        "Online convenience that costs more than it earns",
+        "Picking orders, handling goods, delivery and winning customers add costs."
+      ],
+      [
+        "Operating and compliance problems",
+        "Food safety, labels, supplier quality, staff, systems and property approvals all matter across a large store network."
+      ]
+    ],
+    "context": [
+      "September 2026: profit, stock and cash moved differently",
+      "DMart’s results for the quarter to 30 September 2026, approved on 10 October 2026, show the parent company’s store sales higher than a year earlier, while profit after tax rose more slowly. Over the six months, stock went up and the cash brought in by day-to-day trading was lower than a year earlier. These interim results had a limited auditor review, not a full audit."
+    ],
+    "sources": [
+      [
+        "DMart business and retail categories",
+        "https://www.dmartindia.com/about-us"
+      ],
+      [
+        "FY 2025–26 audited results · parent and group",
+        "https://api.dmartindia.com/corporate/content/file/v1/2/jZtJ4gV9JIDY9CjsdXXbQxhE1777722483/Outcome%20of%20the%20Board%20Meeting%20held%20on%20May%202%2C%202026.pdf"
+      ],
+      [
+        "May 2026 company release · strategy, stores and DMart Ready",
+        "https://api.dmartindia.com/corporate/content/file/v1/2/R2aWBiIpiuD39xgfm4wrqQKc1777723315/Press%20release%20dated%202nd%20May%2C%202026.pdf"
+      ],
+      [
+        "Official financial-results library",
+        "https://www.dmartindia.com/investor-relations/financial-results"
+      ],
+      [
+        "DMart Ready · current shopping availability",
+        "https://www.dmart.in/"
+      ],
+      [
+        "September 2026 quarter and half-year results · 10 October 2026",
+        "https://api.dmartindia.com/corporate/content/file/v1/3/1ggMhhkLrQ4aKoc9maT3KvJT1791627050/ASL%20-%20Financial%20Results%20for%20the%20Q2%20(FY%2027).pdf"
+      ]
+    ],
+    "financialNotes": [
+      {
+        "title": "A big sales total, a thin slice of profit",
+        "text": "The walkthrough above shows how much of each ₹100 of group revenue from operations remained as profit after tax in FY 2025–26. For a low-price retailer, that slice is small, so small changes in costs or prices matter."
+      },
+      {
+        "title": "Parent and group are overlapping views",
+        "text": "Standalone figures cover the parent company and its stores. Consolidated figures cover the group, including DMart Ready’s company. Do not add them together, and do not treat the difference as DMart Ready’s profit."
+      },
+      {
+        "title": "What to read next",
+        "text": "Read operating cash flow alongside capital spending, borrowings, cash balances and lease obligations. Profit after tax is different from the cash left after expanding the store network."
+      }
+    ],
+    "quick": [
+      {
+        "title": "What it does",
+        "text": "Avenue Supermarts runs DMart stores selling groceries, household goods and clothing, and the DMart Ready online grocery service where it is available."
+      },
+      {
+        "title": "Who pays",
+        "text": "Shoppers pay at the checkout or for their online orders. Most products on the shelves are made by other companies, which DMart pays as suppliers."
+      },
+      {
+        "title": "How it earns",
+        "text": "By selling goods for more than it paid suppliers. That gap, gross profit, must still cover the costs of running stores and delivery."
+      },
+      {
+        "title": "What it spends on",
+        "text": "Goods bought from suppliers, staff, store property, electricity, storage, distribution and online delivery."
+      }
+    ],
+    "helps": [
+      {
+        "title": "Low prices bring shoppers back",
+        "text": "DMart describes buying on competitive terms and running efficiently to keep prices low, which can bring more visits and bigger baskets."
+      },
+      {
+        "title": "Everyday shopping",
+        "text": "Groceries and household needs are bought again and again, so shoppers return regularly."
+      },
+      {
+        "title": "Shoppers pay at once",
+        "text": "Customers pay at the checkout straight away, so DMart is not waiting for business customers to pay their bills."
+      }
+    ],
+    "hurts": [
+      {
+        "title": "Thin earnings per sale",
+        "text": "Low prices leave little from each sale, so discounts by rivals or higher running costs can have a big effect."
+      },
+      {
+        "title": "Stock uses cash",
+        "text": "In the six months to 30 September 2026, stock went up and cash from day-to-day trading was lower than a year earlier."
+      },
+      {
+        "title": "New stores cost money first",
+        "text": "Property, fit-outs, staff and stock need funding before a new store matures, and nearby stores can compete for the same shoppers."
+      },
+      {
+        "title": "Online delivery is costly",
+        "text": "Picking, packing and delivering DMart Ready orders add costs that store shopping does not have."
+      }
+    ],
+    "checked": "31 October 2026"
+  },
   "bajaj-auto": {
     "layout": "short",
     "summary": "Motorcycles such as Pulsar, Chetak electric scooters and three-wheelers used to carry passengers or goods, sold in India and overseas.",
@@ -780,6 +1009,239 @@ window.COMPANY_LESSONS = {
         "text": "Changes in African currencies, inflation and local rules can change costs and the rupee value of results."
       }
     ]
+  },
+  "britannia": {
+    "layout": "short",
+    "summary": "Britannia makes Good Day, Marie Gold and Milk Bikis biscuits, plus bread, cakes, rusk, dairy products and other packaged snacks, and gets them onto shop shelves in India and abroad.",
+    "description": "Britannia makes and sells biscuits, bread, cakes, rusk (a crisp baked snack often eaten with tea), dairy products and other packaged foods. It buys flour, sugar, oils, milk and packaging, makes the food in its factories and with production partners, checks quality and gets packs onto shop shelves. The business works only if people find the products fresh, at a price they accept, and choose them again.",
+    "money": "Britannia earns money when distributors, shops, retail chains and online sellers in India and overseas pay for the packaged food it supplies. The shopper’s price is not Britannia’s revenue, because discounts, shop margins, returns and taxes sit in between. Ingredients, packs, factory work, delivery and advertising must be paid for. Selling more packs helps profit only if the extra sales cover the extra costs.",
+    "customers": "Households buy through local shops, supermarkets and online and quick delivery apps. A distributor or shop usually buys the stock from Britannia first, so the business customer is often different from the person who eats the food. Britannia also sells overseas through its international operations.",
+    "drivers": "How much food customers buy, the price and pack size, and which products they choose. Wheat, sugar, oils, milk and packaging costs, factory costs, delivery and advertising decide what remains.",
+    "groups": [
+      {
+        "title": "Biscuits and cookies",
+        "examples": "Good Day, Marie Gold, Milk Bikis, Tiger, NutriChoice, 50-50, Jim Jam and Bourbon.",
+        "explanation": "Tea-time biscuits, sweet cookies, cream-filled and savoury options. Ingredient costs, affordable packs, promotions and shelf availability decide the next purchase."
+      },
+      {
+        "title": "Bread, cakes and rusk",
+        "examples": "Bread loaves, packaged cakes and Toastea rusk.",
+        "explanation": "Part of the same bakery business, but bread goes stale faster than sealed biscuits, so freshness, delivery frequency and returns matter more."
+      },
+      {
+        "title": "Dairy",
+        "examples": "Winkin’ Cow dairy drinks, Come Alive curd and yogurt, milk powder, butter, ghee and dairy whitener. Britannia The Laughing Cow cheese comes from a joint venture.",
+        "explanation": "Buying milk, processing it, storing it correctly and keeping production lines busy shape the economics."
+      },
+      {
+        "title": "Other snacking formats",
+        "examples": "Treat Croissant and wafers, including Bourbon Rolls.",
+        "explanation": "Newer areas next to the core biscuit business. The question is whether new buyers come back and whether sales cover the extra production and promotion costs."
+      }
+    ],
+    "basics": [
+      {
+        "title": "Brand, category and segment",
+        "text": "Good Day is a brand on a range of products. Biscuits, bread and dairy are categories with different costs and delivery needs. Britannia reports all its activities as one Foods segment, so it publishes no separate profit for biscuits, bread or dairy."
+      },
+      {
+        "title": "Volume, price and mix",
+        "text": "Volume is how much food is sold. Price is what is received per unit. Mix is the balance of products sold. Britannia says its volume measure is total weight sold, not the number of packs."
+      },
+      {
+        "title": "Shop types",
+        "text": "General trade means local shops. Modern trade means supermarkets and store chains. Quick commerce means apps that deliver groceries within minutes. Each route has its own terms, promotions and stock needs."
+      },
+      {
+        "title": "Joint venture",
+        "text": "A joint venture is a business two partners control together under an agreement. Britannia Bel Foods, the cheese business, is one. Britannia counts its share of that venture’s profit or loss rather than adding every cheese sale to its own revenue."
+      }
+    ],
+    "stepsTitle": "From flour and milk to a pack on the shelf.",
+    "steps": [
+      {
+        "title": "Buy ingredients and packaging",
+        "text": "Britannia sources flour, sugar, edible oils, milk and packaging suited to each product. Both cost and quality matter."
+      },
+      {
+        "title": "Make the food safely",
+        "text": "Its factories and production partners follow recipes, check quality and pack products for how they will be stored."
+      },
+      {
+        "title": "Supply the shops",
+        "text": "Stock moves through distributors to shops, chains and apps. Bread needs more frequent delivery than biscuits, and dairy needs the right storage."
+      },
+      {
+        "title": "Get paid",
+        "text": "Distributors and retailers pay Britannia under agreed terms. Discounts, promotions and returned stock reduce what it keeps."
+      },
+      {
+        "title": "Earn the next purchase",
+        "text": "Taste, price, availability and trust help a shopper choose the product again. Competing products are only a shelf or a tap away."
+      }
+    ],
+    "specifics": [
+      {
+        "title": "A pack count can hide a change in quantity",
+        "text": "Shoppers can buy the same number of packs while getting less food if the weight in each pack changes. Read volume on a consistent basis, alongside prices and product mix."
+      },
+      {
+        "title": "Stock in a shop is not yet a sale to a shopper",
+        "text": "Sending more goods to shops raises the stock they hold before anyone buys it. Unsold stock can later be discounted or returned, so read distribution commentary with stock and returns."
+      },
+      {
+        "title": "Freshness changes the delivery problem",
+        "text": "Bread, biscuits and dairy last for different lengths of time and need different storage. Faster sales help only if the supply route keeps quality at an acceptable cost."
+      },
+      {
+        "title": "New categories are different growth tasks",
+        "text": "A new biscuit flavour can use an existing brand and delivery route. Dairy, croissants and wafers can need different equipment, storage, partners and advertising before repeat demand builds."
+      }
+    ],
+    "watch": [
+      [
+        "Are shoppers buying more food, or paying more for a different pack?",
+        "Sales can rise because of quantity, pack size, price or a shift to pricier products.",
+        "Read sales and management’s volume commentary together. Compare equivalent weights where possible, because more packs need not mean more food if packs become smaller. Do not treat revenue growth as volume growth."
+      ],
+      [
+        "Can pricing and efficiency keep up with ingredient costs?",
+        "Wheat, sugar, oils, milk and packaging costs decide how much each sale leaves.",
+        "Read the ingredient-cost and pricing discussion in the annual report and results. These inputs have different cost cycles, and stock bought earlier can delay the effect. Check promotions, transport, factory efficiency and advertising, and compare the same profit definition across periods."
+      ],
+      [
+        "Are products reaching shoppers before they lose freshness?",
+        "Food that sits too long is discounted, returned or wasted.",
+        "Use the revenue note on returns, discounts and promotions, then read stock, money customers still owe and distribution commentary. More outlets or more stock sent into a channel do not prove that shoppers bought and ate the goods."
+      ],
+      [
+        "Are newer categories building repeat demand?",
+        "Dairy, croissants and wafers need factories, storage and advertising before they pay back.",
+        "Follow the bakery, dairy and other reviews with factory and investment disclosures, including how much of available capacity is used. Ask whether customers return and whether extra sales cover production, distribution and promotion. A new line is capacity, not proof of a good return."
+      ],
+      [
+        "Are food quality and product claims protecting trust?",
+        "Food safety, ingredients and labels affect whether shoppers keep buying.",
+        "Read the company’s risk discussion, exchange filings and any official regulatory decisions. Identify the product, date, allegation or finding and the company’s response. A health-oriented brand name is not by itself evidence of a nutritional benefit."
+      ]
+    ],
+    "risks": [
+      [
+        "Affordable packs leave little room for cost rises",
+        "Dearer ingredients and packaging can reduce earnings. Raising prices, shrinking packs or cutting promotions may cover costs but push shoppers to alternatives."
+      ],
+      [
+        "Competition raises the cost of each sale",
+        "National brands, local bakeries and regional food businesses compete for shelf space, and advertising, discounts and launches cost money."
+      ],
+      [
+        "Quality or freshness failures",
+        "Unsold or expired goods, damaged packs and food-safety or labelling problems can cause returns, waste and lost trust."
+      ],
+      [
+        "New categories and factories take time",
+        "Dairy, new snack formats and new factories need demand. Low use of capacity or weak repeat buying leaves costs ahead of benefits."
+      ],
+      [
+        "Overseas and group complexity",
+        "Joint ventures, overseas businesses, exchange rates and shipping disruptions affect earnings and cash in different ways."
+      ]
+    ],
+    "context": [
+      "August 2026: the same small pack can hold a different amount of biscuits",
+      "On its 7 August 2026 results call with analysts, Britannia said most of what it sells is in its lowest-priced small packs. Because shoppers expect those shelf prices to stay the same, many price increases are made by putting fewer grams in the pack, and a tax cut gave shoppers a little more biscuit rather than a lower price. This is management commentary on one quarter, not a forecast."
+    ],
+    "sources": [
+      [
+        "Britannia business and product categories",
+        "https://www.britannia.co.in/about-us"
+      ],
+      [
+        "Britannia product portfolio",
+        "https://www.britannia.co.in/"
+      ],
+      [
+        "FY 2025–26 annual report · business review and accounts",
+        "https://media.britannia.co.in/Britannia_Annual_Report_2025_26_High_Resolution_c738982760.pdf"
+      ],
+      [
+        "Official annual-report library",
+        "https://www.britannia.co.in/investors/financial-performance/annual-report"
+      ],
+      [
+        "Britannia Bel cheese partnership · October 2024",
+        "https://media.britannia.co.in/Press_Release_09_10_2024_747d4ea5a0.pdf"
+      ],
+      [
+        "Q1 FY 2026–27 earnings call transcript · 7 August 2026",
+        "https://media.britannia.co.in/Britannia_Earnings_Aug07_2026_Updated_6288b5faf7.pdf"
+      ]
+    ],
+    "financialNotes": [
+      {
+        "title": "The product mix is approximate and has no profits",
+        "text": "The walkthrough above uses the approximate turnover mix from Britannia’s FY 2025–26 business responsibility report. It groups bakery and salted snacks together, so it is not a biscuit-only sales figure, and it gives no profit for any category or brand."
+      },
+      {
+        "title": "Group profit is not all Britannia’s",
+        "text": "Consolidated accounts include subsidiaries, and part of their results can belong to other owners. Group profit after tax can therefore differ from the profit that belongs to Britannia’s own shareholders. The cheese joint venture is counted as a share of its result, not as sales."
+      },
+      {
+        "title": "What to read next",
+        "text": "Read operating cash flow, capital spending, borrowings, dividends and related-party balances. Profit, cash collected and cash available to pay out are different measures."
+      }
+    ],
+    "quick": [
+      {
+        "title": "What it does",
+        "text": "Britannia makes biscuits such as Good Day and Marie Gold, plus bread, cakes, rusk, dairy products and other packaged snacks."
+      },
+      {
+        "title": "Who pays",
+        "text": "Distributors, shops, retail chains and online sellers in India and abroad buy from Britannia. Households pay the shop, not Britannia."
+      },
+      {
+        "title": "How it earns",
+        "text": "By selling packaged food to those buyers. Discounts, shop margins, returns and taxes mean the shelf price is not what Britannia keeps."
+      },
+      {
+        "title": "What it spends on",
+        "text": "Flour, sugar, oils, milk and packaging, factories, delivery, staff and advertising."
+      }
+    ],
+    "helps": [
+      {
+        "title": "Food people buy every week",
+        "text": "Biscuits, bread and other packaged foods run out and get bought again, through local shops, supermarkets and apps."
+      },
+      {
+        "title": "Affordable small packs",
+        "text": "Britannia says most of what it sells is in its lowest-priced small packs, which keeps its food within reach of many shoppers."
+      },
+      {
+        "title": "Room to grow beyond biscuits",
+        "text": "Dairy, croissants and wafers can use familiar brand names and existing routes to shops, if buyers come back for them."
+      }
+    ],
+    "hurts": [
+      {
+        "title": "Ingredient costs rise",
+        "text": "Dearer wheat, sugar, oils, milk or packaging can reduce earnings. Raising prices or shrinking packs may push shoppers to alternatives."
+      },
+      {
+        "title": "Strong competition",
+        "text": "National brands, local bakeries and regional food businesses compete for shelf space, and fighting back with discounts and advertising costs money."
+      },
+      {
+        "title": "Freshness and quality failures",
+        "text": "Expired or damaged goods and food-safety or labelling problems can cause returns, waste and lost trust."
+      },
+      {
+        "title": "New categories need time",
+        "text": "New snack formats, dairy and factories need repeat buyers before they cover their costs."
+      }
+    ],
+    "checked": "31 October 2026"
   },
   "delhivery": {
     "layout": "short",
@@ -3593,6 +4055,256 @@ window.COMPANY_LESSONS = {
       }
     ]
   },
+  "itc": {
+    "layout": "short",
+    "summary": "ITC sells familiar foods such as Aashirvaad and Sunfeast, Classmate notebooks and personal-care goods, plus cigarettes. It also supplies crops, paper and packaging to other businesses.",
+    "description": "ITC is several businesses under one roof. It sells packaged foods, cigarettes, personal-care goods and stationery to shoppers. It also buys crops and supplies them to business customers, makes paperboard (thick, stiff paper used for packs) and turns it into boxes and wrappers, and owns ITC Infotech, a company that builds and runs computer systems for other businesses. These jobs have different customers and costs, so a biscuit brand alone cannot explain the whole company.",
+    "money": "ITC earns money by selling goods: packaged products to shops and distributors, crops to business buyers, and paper and packaging to companies. ITC Infotech earns fees for technology work. ITC pays for raw materials, making the goods, employees, moving stock, advertising and taxes. Each business keeps a different amount after its costs, so the businesses must be understood one at a time.",
+    "customers": "Households buy the consumer goods in shops or online, but ITC’s direct customers are often the shops and distributors that buy stock and resell it. Other businesses buy crops, paper, packaging and technology services for their own operations. Some of ITC’s own businesses also supply each other, for example packaging for its foods.",
+    "drivers": "What each business sells and how much customers buy, the prices charged, and the costs of doing the work, such as crops, wood, energy and advertising. Taxes and rules on cigarettes matter a great deal.",
+    "groups": [
+      {
+        "title": "Cigarettes",
+        "examples": "Gold Flake, Classic, India Kings and other cigarette brands, sold through distributors and shops.",
+        "explanation": "A separately reported business. Its prices, taxes, rules and demand need their own explanation, even when the food brands are more familiar."
+      },
+      {
+        "title": "Other consumer goods",
+        "examples": "Foods such as Aashirvaad, Sunfeast, Bingo! and YiPPee!; personal-care brands such as Fiama and Savlon; Classmate stationery, Mangaldeep incense and safety matches.",
+        "explanation": "Bought by households through shops, retail chains and online sellers. Biscuits, soap and notebooks have different ingredients, pack sizes, advertising and buying habits."
+      },
+      {
+        "title": "Agricultural products",
+        "examples": "Crops and prepared produce such as grains, animal-feed ingredients and coffee, supplied to business customers in India and abroad, and to ITC’s own foods business.",
+        "explanation": "ITC must buy suitable produce, prepare and move it, and collect payment. Harvests, buying prices, selling prices and transport costs decide what is left."
+      },
+      {
+        "title": "Paperboard, paper and packaging",
+        "examples": "Paperboard and specialty paper; printed cartons, flexible wrappers and other finished packs.",
+        "explanation": "Sold to outside companies and to ITC’s own consumer businesses. Packaging work turns paper and other materials into boxes and wrappers."
+      },
+      {
+        "title": "Technology services through ITC Infotech",
+        "examples": "Building, changing and running computer programs and systems for other companies.",
+        "explanation": "Customers pay for agreed technology work, and engineers cost money. ITC Infotech is a subsidiary, a company ITC controls, with its own accounts."
+      }
+    ],
+    "basics": [
+      {
+        "title": "Company, brand and segment",
+        "text": "ITC is the company that owns the factories and keeps the accounts. Aashirvaad is a brand: a name shoppers recognise. A segment is a group of activities ITC reports together. Everyday items bought again and again are called fast-moving consumer goods (FMCG), and ITC’s FMCG – Other products segment bundles foods, personal care and stationery."
+      },
+      {
+        "title": "Selling to businesses",
+        "text": "When ITC sells paper, packaging, crops or technology work to another company for its own use, that is called business-to-business selling. These buyers order differently from a household buying a biscuit pack."
+      },
+      {
+        "title": "Standalone and consolidated accounts",
+        "text": "Standalone accounts cover ITC Limited itself. Consolidated accounts add the companies it controls, such as ITC Infotech. The figures on this page are standalone, so they do not show ITC Infotech’s sales directly."
+      },
+      {
+        "title": "Volume, price and mix",
+        "text": "Volume is how much is sold. Price is what is charged. Mix is which products and formats make up sales. Each can change sales in a different way, so a rise in sales does not by itself say which one moved."
+      }
+    ],
+    "stepsTitle": "From the field and factory to the shop.",
+    "steps": [
+      {
+        "title": "Buy crops and materials",
+        "text": "ITC buys agricultural produce, some for business customers and some as ingredients for its own foods. Its other businesses buy wood, pulp, energy and other materials."
+      },
+      {
+        "title": "Make the goods",
+        "text": "Factories turn ingredients into branded foods and other consumer goods, and turn paper into packs. Quality checks happen along the way."
+      },
+      {
+        "title": "Pack and supply",
+        "text": "ITC’s packaging business supplies packs to its own consumer businesses and to outside companies. Goods then move to distributors, shops and online sellers."
+      },
+      {
+        "title": "Sell to an outside customer",
+        "text": "A shop, household or business buys the product. Only a sale to someone outside ITC counts as company revenue; moving goods between ITC’s own businesses does not."
+      },
+      {
+        "title": "Collect payment and cover costs",
+        "text": "Buyers pay ITC under agreed terms. The money must cover materials, factories, staff, transport, advertising and taxes before anything is left as profit. Profit and cash collected are different things."
+      }
+    ],
+    "specifics": [
+      {
+        "title": "One group can be both supplier and brand owner",
+        "text": "ITC buys crops, supplies some of them to its own foods business, and packs foods in its own packaging. Shared skills between businesses may save costs or improve quality, but you still need evidence that the connection pays off."
+      },
+      {
+        "title": "Adding segment sales can count the same work twice",
+        "text": "When one ITC business supplies another, segment figures can record that internal supply. ITC deducts these inter-segment sales to reach its sales to outside customers, so simply adding every segment overstates the total."
+      },
+      {
+        "title": "Popularity, profit and cash answer different questions",
+        "text": "A familiar food brand may sell well, but sales do not show its costs. A segment result groups many brands and is not the profit of any one brand. Cash can be tied up in stock, unpaid bills and new factories even when profit is reported."
+      },
+      {
+        "title": "Hotels are now a separate company",
+        "text": "The hotel business was separated into ITC Hotels, a separate listed company that ITC identifies as an associate, meaning ITC has significant influence over it but does not control it. Hotel sales are not part of ITC’s own segment table."
+      }
+    ],
+    "watch": [
+      [
+        "What is happening to the cigarette business?",
+        "Quantities, prices and tax changes can tell different stories about the same sales figure.",
+        "Read the cigarette business commentary with its segment result. Where quantities are disclosed, separate them from selling-price changes. Compare revenue on the stated tax basis, because a higher tax component can lift gross sales without the same rise in demand or earnings."
+      ],
+      [
+        "Are the other consumer businesses building profitable demand?",
+        "Food, personal-care and stationery sales must cover ingredients, factories, distribution and brand-building.",
+        "Use the FMCG – Other products segment and its category commentary. Follow sales and the segment result together across comparable periods. The segment bundles many brands, so its result is not the profit of Aashirvaad, Classmate or any single brand."
+      ],
+      [
+        "Where are paper and packaging in their cycle?",
+        "Selling prices and demand may not keep up with wood, pulp, energy and factory costs.",
+        "Read the paper and packaging review alongside segment results, selling prices, input costs and how much of the factories’ capacity is used, where disclosed. Imported supply and competing capacity can move prices. Compare the same period rather than a full year with a seasonal quarter."
+      ],
+      [
+        "How does buying crops turn into cash?",
+        "Crops must be bought and paid for before the final sale is collected.",
+        "Read the agri review for crop conditions, sourcing, customer demand and trade disruptions. Then look at stock, money customers still owe and operating cash flow. Higher commodity prices can raise revenue without more quantity sold or more profit."
+      ],
+      [
+        "What is ITC doing with the cash its businesses make?",
+        "Money can go into factories, acquisitions or payments to shareholders, and each choice should earn its keep.",
+        "Start with operating cash flow, then read investment spending and acquisition notes. Ask what each investment cost, how it is expected to earn and what later results show. Do not assume a new brand or factory is succeeding just because ITC can pay for it."
+      ]
+    ],
+    "risks": [
+      [
+        "Dependence on a regulated tobacco business",
+        "Changes in tobacco taxes, restrictions, consumer demand or illegal competition can affect cigarette sales and earnings."
+      ],
+      [
+        "More consumer brands do not automatically mean more profit",
+        "Ingredients, advertising, distribution, competition and new launches cost money, and a growing range can take time to earn enough."
+      ],
+      [
+        "Paper and crop prices move against the business",
+        "Selling prices, harvests, wood and energy costs need not move together. A factory or a stock of crops can absorb cash in a weak period."
+      ],
+      [
+        "Investments do not deliver",
+        "Factories, acquisitions and new categories need spending before they earn. Later results may not support the original case."
+      ],
+      [
+        "A headline figure hides a change in scope",
+        "Tax changes, acquisitions, internal sales and the hotel separation can make comparisons between years misleading."
+      ]
+    ],
+    "context": [
+      "August 2026: a proposed deal could change how ITC Infotech is owned",
+      "On 31 August 2026, ITC Infotech announced a plan to buy about 22.1% of Happiest Minds Technologies from its founding controlling shareholders and then merge Happiest Minds into ITC Infotech, whose own shares would then be listed on stock exchanges. The deal still needs shareholder, regulator, exchange and tribunal approvals, which the companies expected to take up to 15 months. A proposal is not a completed purchase."
+    ],
+    "sources": [
+      [
+        "ITC business profile",
+        "https://itcportal.com/about-itc/our-profile.html"
+      ],
+      [
+        "ITC FMCG businesses",
+        "https://itcportal.com/itc-businesses/fmcg.html"
+      ],
+      [
+        "ITC cigarettes business",
+        "https://itcportal.com/itc-businesses/fmcg/cigarette.html"
+      ],
+      [
+        "Agricultural products and sourcing",
+        "https://itcportal.com/itc-businesses/agri-business.html"
+      ],
+      [
+        "Paperboards and specialty papers",
+        "https://itcportal.com/itc-businesses/paperboards-and-specialty-papers.html"
+      ],
+      [
+        "Packaging and printing",
+        "https://itcportal.com/itc-businesses/packaging.html"
+      ],
+      [
+        "ITC Infotech business",
+        "https://itcportal.com/itc-businesses/Information-Technology.html"
+      ],
+      [
+        "Group companies and hotel relationship",
+        "https://itcportal.com/itc-businesses/group-companies.html"
+      ],
+      [
+        "ITC Infotech and Happiest Minds proposed combination · 31 August 2026",
+        "https://www.itcinfotech.com/news-and-updates/strategic-combination-of-itc-infotech-and-happiest-minds-technologies-to-create-a-scaled-future-ready-ai-first-global-technology-services-enterprise-with-us-1-billion-revenue-by-fy28/"
+      ]
+    ],
+    "financialNotes": [
+      {
+        "title": "These are ITC Limited’s own figures",
+        "text": "The table covers ITC Limited on a standalone basis for FY 2025–26. It does not show ITC Infotech’s sales as a separate business, and its Other businesses row is not a shortcut for that subsidiary. For the wider group, read the consolidated accounts and the subsidiary’s own accounts."
+      },
+      {
+        "title": "Segment result is not profit after tax",
+        "text": "The table uses each segment’s reported result before interest and tax. Company profit also includes items outside the segments, interest and tax. A segment’s share of the combined result is not a product margin or a shareholder’s return."
+      },
+      {
+        "title": "What to read next",
+        "text": "Read operating cash flow, stock, money customers still owe, investment spending and acquisition notes. These connect the earnings to the cash needed to run and expand the businesses."
+      }
+    ],
+    "quick": [
+      {
+        "title": "What it does",
+        "text": "ITC sells packaged foods, personal-care goods, stationery and cigarettes. It also supplies crops, paper and packaging to other businesses, and owns a technology-services company."
+      },
+      {
+        "title": "Who pays",
+        "text": "Shops and distributors buy ITC’s consumer goods and resell them to households. Other companies buy crops, paper, packaging and technology work."
+      },
+      {
+        "title": "How it earns",
+        "text": "By selling goods to shops, distributors and business buyers. ITC Infotech earns fees for technology work. Each business keeps a different amount after its costs."
+      },
+      {
+        "title": "What it spends on",
+        "text": "Crops and raw materials, factories, employees, moving stock, advertising and taxes."
+      }
+    ],
+    "helps": [
+      {
+        "title": "Many different businesses",
+        "text": "Consumer goods, cigarettes, crops, paper and packaging, and technology services depend on different customers and conditions, so ITC is not tied to one market."
+      },
+      {
+        "title": "Its businesses supply each other",
+        "text": "ITC buys crops for its own foods and makes packaging for its own products. Shared skills may save costs or improve quality, though that needs evidence in the results."
+      },
+      {
+        "title": "Familiar everyday brands",
+        "text": "Aashirvaad, Sunfeast, Bingo!, Classmate and Savlon are bought again and again by households through shops and online sellers."
+      }
+    ],
+    "hurts": [
+      {
+        "title": "Tobacco taxes and rules",
+        "text": "Cigarettes are a separately reported business. Changes in tobacco taxes, restrictions, demand or illegal competition can affect sales and earnings."
+      },
+      {
+        "title": "New brands cost money first",
+        "text": "Ingredients, advertising, distribution and new launches cost money, and a growing range of consumer brands can take time to earn enough."
+      },
+      {
+        "title": "Paper and crop prices swing",
+        "text": "Selling prices, harvests, wood and energy costs need not move together, and stock or factories can absorb cash in a weak period."
+      },
+      {
+        "title": "Hard to compare years",
+        "text": "Tax changes, acquisitions, internal sales and the separation of the hotels can make simple year-on-year comparisons misleading."
+      }
+    ],
+    "checked": "31 October 2026"
+  },
   "kanohar-electricals": {
     "layout": "short",
     "listingLabel": "NSE: KANOHAR · listed 16 September 2026",
@@ -4199,6 +4911,239 @@ window.COMPANY_LESSONS = {
       }
     ]
   },
+  "marico": {
+    "layout": "short",
+    "summary": "Marico sells Parachute coconut oil, Saffola cooking oils and foods, Livon hair care and Beardo grooming products, through shops and online sellers in India and other countries.",
+    "description": "Marico sells coconut oil, cooking oils, packaged foods, and grooming and personal-care products. It buys ingredients such as copra (the dried flesh inside a coconut, used to make coconut oil), vegetable oils and packaging, arranges production, advertises its brands and supplies shops and online sellers. A Parachute bottle, a Saffola oil pack and a grooming product meet different needs and cost different amounts to make and sell.",
+    "money": "Marico earns money by supplying consumer goods to distributors, shops, retail chains and online sellers in India and overseas, and through some brands’ own websites. Ingredients, packaging, production, transport and advertising must be paid for before any profit remains. Sales can rise because prices rose or because of a different mix of products, without customers buying more.",
+    "customers": "Households buy through local shops, supermarkets, brand websites and other online stores. A distributor usually buys the stock and supplies shops, so the business paying Marico is often not the person using the product. Overseas, Marico sells in markets such as Bangladesh, Vietnam, the Middle East and South Africa.",
+    "drivers": "How much is sold, pack sizes, prices and which products people choose. The cost of copra, other oils and packaging, plus advertising and delivery, decide what is left.",
+    "groups": [
+      {
+        "title": "Coconut oil and hair oils",
+        "examples": "Parachute coconut oil; Parachute Advansed, Hair & Care and Nihar hair oils.",
+        "explanation": "Parachute and Parachute Advansed are separate brands. Copra costs, pack quantities, pricing and repeat buying shape this business."
+      },
+      {
+        "title": "Cooking oils and packaged foods",
+        "examples": "Saffola cooking oils and foods such as oats, soya chunks, honey and muesli; True Elements breakfast foods; Cosmix nutrition products and 4700BC snacks.",
+        "explanation": "A shared brand does not make cooking oil and a breakfast food the same business: recipes, ingredients and rivals differ. Wellness positioning is not proof of a health benefit."
+      },
+      {
+        "title": "Grooming and personal care",
+        "examples": "Livon hair care, Set Wet grooming, Beardo, Just Herbs and Plix.",
+        "explanation": "Several of these brands were built online first, but they also sell through marketplaces and shops. Advertising, marketplace fees, delivery and returns all cost money."
+      },
+      {
+        "title": "Consumer products outside India",
+        "examples": "Parachute, X-Men, HairCode, Purité de Prôvence and Candid, depending on the country.",
+        "explanation": "Each market has its own products, customers, currency and conditions. The overseas range is not simply the Indian range sold everywhere."
+      }
+    ],
+    "basics": [
+      {
+        "title": "Brand, product family and segment",
+        "text": "Saffola is a brand covering several products. Edible oils and foods are product families. Marico reports two segments, India and International, which each group many brands, so their profits cannot be assigned to one bottle or brand."
+      },
+      {
+        "title": "Volume, price and mix",
+        "text": "Volume is how much is sold, price is what is received, and mix is the balance of products. A pack can keep its familiar price while holding fewer millilitres, so the number of packs sold and the amount of oil sold can move differently."
+      },
+      {
+        "title": "Digital-first and direct-to-consumer",
+        "text": "A digital-first brand was built mainly through online discovery and sales. Direct-to-consumer means selling straight to the shopper, for example on a brand website. Such brands may still sell through marketplaces and shops."
+      },
+      {
+        "title": "Constant-currency growth",
+        "text": "Overseas sales are earned in local currencies and converted to rupees. Constant-currency growth removes the effect of exchange-rate changes, on the company’s stated basis. Growth in rupees includes that effect."
+      }
+    ],
+    "stepsTitle": "From coconut to a bottle on the shelf.",
+    "steps": [
+      {
+        "title": "Buy ingredients and packaging",
+        "text": "Marico buys copra, vegetable oils, other ingredients and packaging. Their availability and prices set much of the cost."
+      },
+      {
+        "title": "Make and check the products",
+        "text": "Inputs are turned into consistent products with quality checks, and packed for how they will be stored and used."
+      },
+      {
+        "title": "Supply shops and online sellers",
+        "text": "Products go to local shops, supermarkets, marketplaces, quick delivery apps or brand websites, each under its own arrangement."
+      },
+      {
+        "title": "Get paid",
+        "text": "Distributors, retailers and online sellers pay Marico, or shoppers pay directly on a brand website. Delivery, fees and advertising still have to be covered."
+      },
+      {
+        "title": "Earn a repeat purchase",
+        "text": "Price, quantity, quality, availability and competing choices decide whether a shopper buys again."
+      }
+    ],
+    "specifics": [
+      {
+        "title": "Oil prices can make growth hard to read",
+        "text": "When copra or oils get dearer, Marico may raise prices or put less in each pack. Sales can rise even if the quantity sold barely changes. When costs fall, prices or pack contents may change the other way, and earlier stock delays the effect."
+      },
+      {
+        "title": "Run-rate is not annual sales",
+        "text": "An annualised revenue run-rate stretches a recent sales pace across a year. It is not the revenue earned over a completed year. Check the period, the brands included and any acquisition dates before comparing."
+      },
+      {
+        "title": "What it owns and what it markets",
+        "text": "Marico’s range includes its own long-standing brands, businesses bought through subsidiaries and some commercial rights. It has exclusive rights to sell and market Kaya personal-care products outside Kaya clinics, which does not mean it owns Kaya’s clinics."
+      },
+      {
+        "title": "Bought growth and grown growth",
+        "text": "A newly acquired business adds sales even if the existing brands did not sell more. Separate growth from acquisitions from growth in the brands Marico already had."
+      }
+    ],
+    "watch": [
+      [
+        "Is growth coming from quantities, prices or pack sizes?",
+        "A pack can keep its price but hold a different quantity, so sales and volume can tell different stories.",
+        "Read the company’s stated volume basis alongside revenue and product-mix commentary. The FY 2025–26 Parachute review separates reported volumes from growth adjusted for smaller pack contents. Compare equivalent quantities where possible."
+      ],
+      [
+        "How are copra and cooking-oil costs reaching earnings?",
+        "Input costs, earlier stock and the timing of price changes decide what each sale leaves.",
+        "Follow copra costs separately from the vegetable oils used in cooking oils. Read category commentary, gross margin and demand together. Lower raw-material prices need not mean higher profit if selling prices fall as well."
+      ],
+      [
+        "Are shops and online channels building repeat demand?",
+        "Wider reach only matters if shoppers keep buying.",
+        "Read distribution commentary, stock and money customers still owe alongside sales. Local shops, supermarkets, marketplaces and brand websites have different terms. Reaching more shops or shipping more stock does not by itself prove repeat buying."
+      ],
+      [
+        "Are the foods and online-first brands earning lasting sales?",
+        "New brands need marketing and distribution before they pay back.",
+        "Separate actual revenue for a completed period from an annualised run-rate. Check which brands and channels are included and whether a margin is achieved or only targeted. Advertising, marketplace fees, delivery, returns and repeat customers drive online economics."
+      ],
+      [
+        "What is happening in each overseas market?",
+        "Bangladesh, Vietnam, the Middle East and South Africa face different conditions.",
+        "Read each market’s commentary rather than treating International as one market. Compare constant-currency and rupee growth. Country mix, inflation, transport and rules can all affect results."
+      ]
+    ],
+    "risks": [
+      [
+        "Raw materials rise faster than shoppers accept",
+        "Copra, vegetable oils and packaging can get dearer. Price or pack changes may cover costs but weaken demand."
+      ],
+      [
+        "Reliance on familiar oil brands",
+        "Established oil brands support the business while other branded and unbranded oils compete. A weakness there can outweigh growth in smaller categories."
+      ],
+      [
+        "Newer brands need more spending than they return",
+        "Foods, grooming and online-first brands need marketing, distribution and development. Big online sales or a launch do not prove a good return on acquisition spending."
+      ],
+      [
+        "Overseas conditions change the rupee result",
+        "Exchange rates, inflation, regulation, political disruption and transport problems can affect individual markets."
+      ],
+      [
+        "Quality, labels or claims damage trust",
+        "Consumer products depend on consistent quality and compliant labels and marketing. Wellness positioning is not evidence of a health benefit."
+      ]
+    ],
+    "context": [
+      "September 2026 quarter: two oil brands, two different stories",
+      "In its update for the three months to 30 September 2026, Marico said Parachute sold noticeably more than a year earlier, helped by copra costing well below its earlier peak. Saffola cooking oils grew sales through higher prices while the quantity sold fell, because Marico chose to protect profit. The update came before the quarter’s results were approved, so it describes direction, not final figures."
+    ],
+    "sources": [
+      [
+        "Marico India brand directory",
+        "https://marico.com/india/brands"
+      ],
+      [
+        "About Marico",
+        "https://marico.com/india/about-us"
+      ],
+      [
+        "FY 2025–26 integrated annual report · business reviews and accounts",
+        "https://marico.com/investorspdf/Marico_Annual_Report_FY26.pdf"
+      ],
+      [
+        "Marico annual-report library",
+        "https://marico.com/india/investors/annual-report"
+      ],
+      [
+        "Parachute Advansed shampoo · July 2026 campaign",
+        "https://marico.com/global/media/detail/what_makes_heads_turn_the_newly_launched_parachute_advansed_protein_shampoo_reveals_the_answer_in_its_first_campaign_film_aisa_kya_hai?id=260&type=press"
+      ],
+      [
+        "Quarterly update · quarter ended 30 September 2026",
+        "https://marico.com/investorspdf/Quarterly_Update_Q2FY27.pdf"
+      ]
+    ],
+    "financialNotes": [
+      {
+        "title": "Product sales and segment profit have different scopes",
+        "text": "The walkthrough above shows revenue by product category and profit by segment, India and International. These come from different tables, so a product category’s sales cannot be paired with a segment’s profit to work out that product’s profit."
+      },
+      {
+        "title": "Acquisitions change what the totals include",
+        "text": "Use the acquisition and subsidiary notes to find when each bought business joined the accounts and how much of it Marico owns. Growth that comes from a newly added business is different from growth in the brands Marico already had."
+      },
+      {
+        "title": "What to read next",
+        "text": "Read operating cash flow, stock, money customers still owe, supplier balances, capital spending and acquisition payments. The price paid for a brand and the revenue it reports do not show the return earned on the purchase."
+      }
+    ],
+    "quick": [
+      {
+        "title": "What it does",
+        "text": "Marico sells Parachute coconut oil, Saffola cooking oils and foods, and hair-care and grooming brands such as Livon and Beardo, in India and other countries."
+      },
+      {
+        "title": "Who pays",
+        "text": "Distributors, shops, supermarkets and online sellers buy from Marico. Shoppers pay them, or pay Marico directly on some brand websites."
+      },
+      {
+        "title": "How it earns",
+        "text": "By selling its products to those buyers. Sales can rise from higher prices or a different mix of products, not only from selling more."
+      },
+      {
+        "title": "What it spends on",
+        "text": "Copra, vegetable oils, packaging, production, transport and advertising."
+      }
+    ],
+    "helps": [
+      {
+        "title": "Well-known oil brands",
+        "text": "Parachute and Saffola are established brands that the rest of the business builds on."
+      },
+      {
+        "title": "Cheaper copra helped Parachute",
+        "text": "Marico said Parachute sold noticeably more in the September 2026 quarter than a year earlier, helped by copra costing well below its earlier peak."
+      },
+      {
+        "title": "Sales in several countries",
+        "text": "Marico sells in Bangladesh, Vietnam, the Middle East and South Africa as well as India, so it does not depend on one market."
+      }
+    ],
+    "hurts": [
+      {
+        "title": "Raw-material prices swing",
+        "text": "Copra, vegetable oils and packaging can get dearer faster than shoppers accept higher prices or smaller packs."
+      },
+      {
+        "title": "Saffola sold less in that quarter",
+        "text": "In the September 2026 quarter, Saffola cooking oils grew sales through higher prices while the quantity sold fell."
+      },
+      {
+        "title": "New brands need spending",
+        "text": "Foods, grooming and online-first brands need marketing and distribution before they pay back, and some were bought at a cost."
+      },
+      {
+        "title": "Overseas conditions",
+        "text": "Exchange rates, inflation, rules and political disruption can change results in individual countries."
+      }
+    ],
+    "checked": "31 October 2026"
+  },
   "maruti-suzuki": {
     "layout": "short",
     "summary": "The manufacturer behind cars sold through ARENA and NEXA, with parts, servicing-related offerings and exports.",
@@ -4606,6 +5551,260 @@ window.COMPANY_LESSONS = {
         "text": "Its offer document discloses two notices from the Tamil Nadu Pollution Control Board, dated 31 December 2024, about water and air rules."
       }
     ]
+  },
+  "nestle-india": {
+    "layout": "short",
+    "summary": "Nestlé India makes and sells MAGGI noodles, NESCAFÉ coffee, KITKAT, MILKMAID and other foods and drinks, plus nutrition products, pet food and supplies for cafés and other businesses.",
+    "description": "Nestlé India makes and sells food and drinks: a MAGGI noodle pack for a quick meal, NESCAFÉ for coffee, a KITKAT snack or MILKMAID for cooking. It buys ingredients such as milk, coffee, cocoa and grains, makes and checks the products in its factories, packs them and supplies the places where people shop or eat. Nestlé India is the Indian company; the worldwide Nestlé group is a separate, larger business with its own results.",
+    "money": "Nestlé India earns money by supplying food and drinks to distributors, shops, retail chains, online sellers and businesses that serve food outside the home. Milk, coffee, cocoa, other ingredients, packaging, factory work, delivery, advertising and fees for using brands or know-how all cost money. The price a shopper pays in a shop is not the amount Nestlé India records, because the channel, taxes and discounts sit in between.",
+    "customers": "Households buy through shops and online stores. A distributor often buys the stock first to supply shops, so Nestlé India’s direct customer can be different from the person eating the product. Through Nestlé Professional it also supplies cafés, offices and other businesses serving food and drinks outside the home.",
+    "drivers": "How much is sold and of which products, the selling prices, and ingredient costs such as milk, coffee and cocoa. Product quality, reaching more shops and towns, and spending on factories also matter.",
+    "groups": [
+      {
+        "title": "Milk Products and Nutrition",
+        "examples": "Dairy whitener, condensed milk and nutrition products such as EVERYDAY, MILKMAID, Nestlé a+, CERELAC and NAN.",
+        "explanation": "Buying milk, preparing products, checking quality and choosing what to sell all affect costs and demand."
+      },
+      {
+        "title": "Prepared Dishes and Cooking Aids",
+        "examples": "MAGGI noodles, sauces and seasonings, pasta and cereals. The annual report also places Purina PetCare pet food in this group.",
+        "explanation": "Convenience, taste, pack size, grain and ingredient costs, and getting goods into shops all matter. Growth in this group need not mean MAGGI grew by the same amount."
+      },
+      {
+        "title": "Powdered and Liquid Beverages",
+        "examples": "NESCAFÉ coffee in its different formats, NESTEA and ready-to-drink beverages.",
+        "explanation": "Coffee costs and the balance between basic packs, premium products and ready-to-drink formats change both sales and costs."
+      },
+      {
+        "title": "Confectionery",
+        "examples": "KITKAT, MUNCH, MILKYBAR, BAR-ONE and POLO.",
+        "explanation": "Cocoa, milk, sugar and packaging costs, pack sizes and small unplanned purchases shape this business."
+      },
+      {
+        "title": "Nestlé Professional and NESPRESSO",
+        "examples": "Food and drink offerings for cafés, offices and kiosks; NESPRESSO coffee and machines under a stated India distribution arrangement.",
+        "explanation": "These are different routes to customers rather than separate profit divisions. Selling through a branded kiosk does not mean Nestlé India owns that outlet."
+      }
+    ],
+    "basics": [
+      {
+        "title": "Company, brand and product group",
+        "text": "Nestlé India is the company whose accounts this page explains. MAGGI is a brand covering noodles, sauces and cooking aids. The annual report groups similar products into product groups to show what sells; a product group does not come with its own profit figure."
+      },
+      {
+        "title": "One reported business",
+        "text": "Nestlé India reports a single operating segment called Food. The product groups sit inside it, so the company discloses sales for each group but profit only for the company as a whole."
+      },
+      {
+        "title": "Volume, price and mix",
+        "text": "Volume is how much is sold. Price is what is charged. Mix is the balance of products and formats. A smaller pack sold at a lower price, or a shift to pricier coffee, changes sales in different ways."
+      },
+      {
+        "title": "Royalties",
+        "text": "Royalties are payments for agreed rights, such as using brands or know-how. Nestlé India pays royalties to the wider group, and its disclosures describe these as dealings with related parties, which are companies in the same group."
+      }
+    ],
+    "stepsTitle": "From milk and coffee beans to your kitchen.",
+    "steps": [
+      {
+        "title": "Source ingredients",
+        "text": "Nestlé India arranges milk, coffee, cocoa, grains, other inputs and packaging, or finished goods for some offerings."
+      },
+      {
+        "title": "Make, check and pack",
+        "text": "Factories turn ingredients into products, control quality and pack them for storage and delivery. Requirements differ from product to product."
+      },
+      {
+        "title": "Reach the shop or café",
+        "text": "Goods move through distributors, retailers, online sellers or out-of-home partners such as cafés and kiosks."
+      },
+      {
+        "title": "Get paid by the buyer",
+        "text": "The distributor, retailer or business buyer pays Nestlé India under agreed terms. That money must cover ingredients, factories, staff, delivery, advertising and royalties."
+      },
+      {
+        "title": "Earn the next purchase",
+        "text": "The household uses the product and may choose it again. Availability, taste, price, trust and alternatives decide whether it does."
+      }
+    ],
+    "specifics": [
+      {
+        "title": "Compare pack sizes as well as prices",
+        "text": "A cheaper pack may contain less. To understand demand, look at quantities or equivalent measures rather than counting every pack as the same."
+      },
+      {
+        "title": "Milk, coffee and cocoa follow different cycles",
+        "text": "These ingredients have different supply and price patterns. A cost change that hits chocolate need not affect a noodle pack in the same way, and stock bought earlier can delay the effect."
+      },
+      {
+        "title": "Reaching more buyers is different from selling more to the same buyers",
+        "text": "New outlets, smaller towns, online shopping and cafés can reach new customers. Customers choosing pricier or more specialised products is a different kind of growth, called premiumisation."
+      },
+      {
+        "title": "Most sales do not mean most profit",
+        "text": "Milk Products and Nutrition has the most reported product sales, but the company does not publish a profit for each group. Dividing company profit among brands in proportion to sales would invent a breakdown."
+      }
+    ],
+    "watch": [
+      [
+        "Is demand increasing, or are prices and pack sizes changing?",
+        "Sales can grow because more is bought, because prices rose or because the mix changed.",
+        "Read the company’s volume and category commentary alongside sales. Smaller packs, price changes and premium products can change the picture, so compare quantities or equivalent measures where disclosed rather than treating every pack as the same size."
+      ],
+      [
+        "Which ingredient costs are affecting which products?",
+        "Milk, coffee and cocoa costs feed into prices and what is left after costs.",
+        "Follow the ingredient-cost explanation in the results and annual report. These inputs do not rise or fall together, and earlier stock can delay the effect. Read selling-price changes, promotional spending and the stated margin definition together."
+      ],
+      [
+        "Is wider distribution creating repeat purchases?",
+        "New outlets, rural reach, online sellers and cafés only matter if people keep buying.",
+        "Read commentary on established outlets, newer areas, online shopping and Nestlé Professional. Separate stock supplied into a channel from shoppers actually buying it. More outlets or kiosks show reach, not a repeat-purchase rate."
+      ],
+      [
+        "Are quality and compliance protecting trust?",
+        "A food business depends on consistent safety, labelling and product standards.",
+        "Use the company’s official statements, regulatory disclosures and annual-report risk discussion. Identify the product, factory, date and scope of any issue, and separate an allegation from a regulator’s finding and the company’s response."
+      ],
+      [
+        "Is new factory capacity turning into sales and cash?",
+        "Factories cost money before they produce useful sales.",
+        "Compare investment spending with commentary on bringing new plants into use and how much of their capacity is used. Read depreciation, stock and operating cash flow as well as profit. Extra capacity is not yet a sale or a return on the money spent."
+      ]
+    ],
+    "risks": [
+      [
+        "Ingredient costs rise while shoppers watch prices",
+        "Dearer milk, coffee, cocoa, grains or packaging raise costs. Raising prices or shrinking packs can protect earnings per sale but may change what people buy."
+      ],
+      [
+        "Food safety or labelling problems",
+        "A product issue, restriction or recall can interrupt supply, add costs and damage trust."
+      ],
+      [
+        "Shoppers choose alternatives",
+        "Other packaged brands, regional products, fresh food and changing tastes compete for household spending, and fighting back with advertising costs money."
+      ],
+      [
+        "Expansion uses money before it earns",
+        "Factories, equipment and new distribution need spending. If demand comes slowly, costs weigh on results while stock and unpaid bills tie up cash."
+      ],
+      [
+        "A headline comparison hides a different measure",
+        "Product sales, revenue, operating profit and profit after tax measure different things, and changes in mix, one-off items or period length can make simple comparisons misleading."
+      ]
+    ],
+    "context": [
+      "Read what is inside a category name",
+      "In Nestlé India’s report, Prepared Dishes and Cooking Aids includes cereals and pet food as well as noodles and sauces. Growth in that group need not mean the same change in MAGGI sales, so read the group’s contents and commentary before crediting one familiar brand."
+    ],
+    "sources": [
+      [
+        "Nestlé India at a glance",
+        "https://www.nestle.in/about-us/at-a-glance"
+      ],
+      [
+        "Indian product and offering directory",
+        "https://www.nestle.in/info/sitemap"
+      ],
+      [
+        "FY 2025–26 annual report · product groups and accounts",
+        "https://www.nestle.in/sites/g/files/pydnoa451/files/2026-06/AnnualReport2025-26andAGMNotice.pdf"
+      ],
+      [
+        "Official key financial figures and period notes",
+        "https://www.nestle.in/investors/keyfigures"
+      ],
+      [
+        "Dairy portfolio",
+        "https://www.nestle.in/brands/dairy"
+      ],
+      [
+        "Nutrition portfolio",
+        "https://www.nestle.in/brands/nutrition"
+      ],
+      [
+        "Foods portfolio",
+        "https://www.nestle.in/brands/foods"
+      ],
+      [
+        "Nestlé Professional · out-of-home business",
+        "https://www.nestle.in/media/pressreleases/allpressreleases/nestl%C3%A9-professional-reaches-landmark-1000th-retail-one-kiosk-india"
+      ],
+      [
+        "NESPRESSO India distribution announcement",
+        "https://www.nestle.in/sites/g/files/pydnoa451/files/2025-03/NSEBSESTXintimationNespressosigned.pdf"
+      ],
+      [
+        "Royalty disclosure",
+        "https://www.nestle.in/investors/stockandfinancials/royalty"
+      ]
+    ],
+    "financialNotes": [
+      {
+        "title": "Product-group sales are not profits",
+        "text": "The walkthrough above shows sales by product group for FY 2025–26 on Nestlé India’s standalone basis. The company reports one Food segment, so there is no published profit for any group or brand."
+      },
+      {
+        "title": "Check the length of the period",
+        "text": "FY 2025–26 covers the 12 months to 31 March 2026. Nestlé India’s transition year 2023–24 covered 15 months, so its totals should not be compared with a 12-month year as if the periods were equal."
+      },
+      {
+        "title": "What to read next",
+        "text": "Read operating cash flow, stock, customer and supplier balances, factory investment and the related-party notes on royalties. These connect the profit figure to the cash needed to run and grow the business."
+      }
+    ],
+    "quick": [
+      {
+        "title": "What it does",
+        "text": "Nestlé India makes and sells MAGGI noodles, NESCAFÉ coffee, KITKAT, MILKMAID and other foods and drinks, plus nutrition products, pet food and supplies for cafés and offices."
+      },
+      {
+        "title": "Who pays",
+        "text": "Distributors, shops, retail chains, online sellers and businesses serving food outside the home buy from Nestlé India. Households pay the shop, not Nestlé India."
+      },
+      {
+        "title": "How it earns",
+        "text": "By selling its products to those buyers. Sales are reported by product group, but profit only for the company as a whole."
+      },
+      {
+        "title": "What it spends on",
+        "text": "Milk, coffee, cocoa and other ingredients, packaging, factories, delivery, advertising, and royalties for using brands and know-how."
+      }
+    ],
+    "helps": [
+      {
+        "title": "Foods for many occasions",
+        "text": "Noodles for a meal, coffee, chocolate snacks, milk products for cooking and nutrition products serve different moments, so the business does not rest on one product."
+      },
+      {
+        "title": "Reaching more places",
+        "text": "New outlets, smaller towns, online shopping and cafés through Nestlé Professional can bring the products to new buyers."
+      },
+      {
+        "title": "Pricier products",
+        "text": "When customers choose premium or specialised formats, such as different coffee ranges, each sale can earn more, though these can also cost more to make."
+      }
+    ],
+    "hurts": [
+      {
+        "title": "Ingredient costs rise",
+        "text": "Dearer milk, coffee, cocoa, grains or packaging raise costs. Raising prices or shrinking packs can change what shoppers buy."
+      },
+      {
+        "title": "Food safety or labelling problems",
+        "text": "A product issue, restriction or recall can interrupt supply, add costs and damage trust."
+      },
+      {
+        "title": "Shoppers choose alternatives",
+        "text": "Other packaged brands, regional products and fresh food compete for household spending, and advertising to fight back costs money."
+      },
+      {
+        "title": "New factories need demand",
+        "text": "Factories and equipment cost money before they produce sales. If demand arrives slowly, costs weigh on results."
+      }
+    ],
+    "checked": "29 October 2026"
   },
   "ntpc": {
     "layout": "short",

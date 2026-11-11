@@ -9,8 +9,6 @@
     "color": "#b52d3c",
     "bg": "#fff0f1",
     "tag": "A familiar place to begin",
-    "summary": "A packaged-food company whose products range from biscuits to bread and dairy.",
-    "description": "Britannia sells packaged foods across biscuits, dairy, bread, rusks, cakes and snacking. Recognisable brands help explain what shoppers buy, while the financial reports explain the business.",
     "products": [
       [
         "Good Day",
@@ -85,41 +83,8 @@
         "Yoghurt"
       ]
     ],
-    "money": "Revenue comes from selling food products through its distribution channels. Ingredient prices, packaging, manufacturing and the mix of products sold affect earnings.",
     "ownership": "The listed company is Britannia Industries Limited. Product brands are not separate listed stocks. Use consolidated disclosures when studying the group as a whole.",
-    "watch": [
-      [
-        "Volume growth",
-        "Are consumers buying more packs?"
-      ],
-      [
-        "Gross and operating margins",
-        "How much is left after ingredients and running costs?"
-      ],
-      [
-        "Distribution reach",
-        "Can additional sales channels produce sustainable growth?"
-      ]
-    ],
-    "risks": [
-      [
-        "Ingredient costs",
-        "Wheat, sugar, milk and edible-oil prices can affect profitability."
-      ],
-      [
-        "Pricing pressure",
-        "Affordable alternatives limit how much prices can rise."
-      ],
-      [
-        "Execution",
-        "Expanding food categories and distribution costs money and requires consistent quality."
-      ]
-    ],
     "sources": [
-      [
-        "Britannia official portfolio",
-        "https://www.britannia.co.in/"
-      ],
       [
         "NutriChoice range",
         "https://www.britannia.co.in/product/nutrichoice"
@@ -129,12 +94,6 @@
         "https://www.britannia.co.in/article/talented-s-latest-for-britannia-good-day-doesn-t-show-the-biscuit-or-does-it"
       ]
     ],
-    "update": [
-      "Explore beyond biscuits",
-      "The official product categories also include dairy, bread, rusk, cakes and snacking."
-    ],
-    "question": "Why might a company sell more packs but earn less profit?",
-    "answer": "Ingredient costs, discounts, advertising or a shift toward cheaper products can offset the benefit of selling more.",
     "productSource": "https://www.britannia.co.in/",
     "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
     "logo": "assets/logos/britannia.png"

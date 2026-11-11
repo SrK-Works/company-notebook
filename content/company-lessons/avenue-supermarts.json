@@ -1,0 +1,79 @@
+{
+  "layout": "short",
+  "summary": "Avenue Supermarts runs DMart stores, which sell groceries, household goods and clothing, and the group’s DMart Ready online grocery service. It buys goods from suppliers and sells them to shoppers.",
+  "description": "DMart is a retailer: it buys goods from suppliers and sells them to shoppers in its stores. Its shelves hold groceries, fruit and vegetables, home and personal-care items, household goods and clothing. Most of these products are made by other companies; DMart’s work is choosing the range, buying it on good terms, keeping it on the shelves and selling it at low prices. The group also runs DMart Ready, an online grocery service, where it is available.",
+  "money": "DMart earns money when shoppers pay at the checkout or for an online order. From that money it first pays suppliers for the goods, then staff, rent or property costs, electricity, storage, delivery and other costs before anything is left as profit. More shoppers or bigger shopping bills do not guarantee higher profit if costs rise faster.",
+  "customers": "Households shopping in DMart stores, and those using DMart Ready where it operates. The paying customer is usually the shopper at the checkout, not a shop buying stock to resell. Shoppers pay immediately, but DMart has to buy and hold the goods before they sell.",
+  "drivers": "The prices DMart pays suppliers, whether popular goods are on the shelves, how many people shop, how much each spends and which goods they buy. Staff, property, unsold stock and online delivery costs also matter.",
+  "groups": [
+    {"title": "Foods and groceries", "examples": "Grocery and staples, dairy and frozen products, fruit and vegetables and other food purchases.", "explanation": "These bring shoppers back often, but freshness, expiry dates, storage and keeping items in stock need constant attention."},
+    {"title": "Home and personal-care goods", "examples": "Soap, detergent, hair oil and other everyday household needs.", "explanation": "A familiar soap brand usually belongs to a supplier. DMart’s role is buying, stocking, displaying and selling it efficiently."},
+    {"title": "Household goods and clothing", "examples": "Bed and bath products, crockery, footwear, toys and clothing.", "explanation": "Sizes, seasons and discounts to clear unsold goods make these different from everyday food shopping, and a change in mix changes both sales and costs."},
+    {"title": "DMart Ready", "examples": "Online grocery shopping run by the group company Avenue E-Commerce Limited, where the service is available.", "explanation": "The shopper avoids a trip to the store, but picking goods, packing orders and arranging collection or delivery still cost money."}
+  ],
+  "basics": [
+    {"title": "Retailer and supplier", "text": "A supplier makes and markets a product. A retailer buys it and sells it to shoppers. Selling a brand on its shelves does not mean DMart owns the company that makes it. A private label is a product sold under a brand connected to the retailer."},
+    {"title": "Everyday low cost, everyday low price", "text": "DMart describes its approach as buying on competitive terms and running stores and distribution efficiently, so that it can keep selling prices low. The investor’s question is whether those savings and the extra sales cover all its costs."},
+    {"title": "Gross profit", "text": "Gross profit is what is left after paying for the goods sold. It still has to cover wages, property, electricity, distribution, damaged goods and other costs before any final profit remains."},
+    {"title": "Standalone and consolidated", "text": "Standalone accounts cover the parent company, which runs the stores. Consolidated accounts cover the whole group, including DMart Ready’s company. They overlap, so they should not be added together."}
+  ],
+  "stepsTitle": "From the supplier to the checkout.",
+  "steps": [
+    {"title": "Choose and buy the range", "text": "DMart selects products, quantities and supplier terms. Buying more than shoppers want leaves money tied up in stock."},
+    {"title": "Move and display the goods", "text": "Distribution centres and store teams keep useful goods available, with the right storage for food and other items."},
+    {"title": "Complete the shopping trip", "text": "Shoppers fill their baskets and pay at the checkout. The number of visits, spending per visit, prices and the mix of goods decide sales."},
+    {"title": "Restock and pay the bills", "text": "DMart pays suppliers, staff, property costs, electricity and transport, then buys the next round of stock. Online orders add picking, packing and delivery."}
+  ],
+  "specifics": [
+    {"title": "Low prices leave a thin slice per sale", "text": "Lower prices can bring more visits and bigger baskets, but leave less from each sale. Efficient buying, fast-moving stock and lean stores have to support the low prices."},
+    {"title": "More stores or better stores?", "text": "New stores add sales without saying anything about older ones. DMart reports growth at stores that are at least two years old; read that measure, and its period, separately from total growth."},
+    {"title": "More stock or slower stock?", "text": "Stock can grow to fill new stores, or because goods are not selling as expected. Read it alongside sales, store openings, supplier payments and cash flow."},
+    {"title": "Online needs its own accounts", "text": "DMart Ready is run by a separate group company. The gap between the parent’s profit and the group’s profit is not a clean measure of DMart Ready’s result, because other companies and adjustments sit in it too."}
+  ],
+  "watch": [
+    ["Are established stores improving, or is growth mostly from new stores?", "New stores can lift total sales while older ones stand still.", "The May 2026 release discusses growth at stores two years and older for the March quarter. Check that age threshold and period; it is not full-year growth for every store. Prices, visits, basket size, selling area and product mix all affect it."],
+    ["Do low prices still leave enough after all costs?", "Gross profit must still pay for wages, property, electricity and distribution.", "Read DMart’s low-price strategy alongside the financial statements. Follow gross profit through to staff, property and distribution costs. Mix changes between food, everyday goods and general merchandise can move the result, so compare the same margin definition and period."],
+    ["Is stock turning into sales and cash efficiently?", "Goods are paid for before shoppers buy them, so slow stock uses cash.", "Read stock with purchases, sales and supplier balances over matched periods. Rising stock can support new stores, but slow-moving, expired, damaged or missing goods are different problems. Quick checkout cash does not remove the need to fund stock."],
+    ["Are new stores earning enough to justify their cost?", "Property, fit-outs, staff and stock cost money before a store matures.", "Read store openings, retail area and sales per unit of selling area together. Check spending on property and fit-outs, owned versus rented premises, depreciation and lease payments. A store count alone does not show the return on money invested."],
+    ["Can DMart Ready serve customers at a sustainable cost?", "Online orders add picking, packing and delivery costs.", "DMart Ready is run by Avenue E-Commerce Limited, so read its own accounts and the group’s commentary. The May 2026 release described a renewed focus on home delivery and changes to where the service operates. A smaller service area is not automatically proof of success or failure."]
+  ],
+  "risks": [
+    ["Price competition", "Other retailers, local shops and online sellers compete on price, range and convenience. With little left from each sale, discounts or higher costs matter a lot."],
+    ["Stock that is missing, slow or wasted", "Missing popular goods can lose a whole basket. Unsold, expired, damaged or lost stock ties up cash and reduces profit."],
+    ["New stores that do not earn their cost", "Property, fit-outs, stock and staff need money before a store matures. Weak local demand, overlap with nearby stores or rising property costs can limit returns."],
+    ["Online convenience that costs more than it earns", "Picking orders, handling goods, delivery and winning customers add costs."],
+    ["Operating and compliance problems", "Food safety, labels, supplier quality, staff, systems and property approvals all matter across a large store network."]
+  ],
+  "context": ["September 2026: profit, stock and cash moved differently", "DMart’s results for the quarter to 30 September 2026, approved on 10 October 2026, show the parent company’s store sales higher than a year earlier, while profit after tax rose more slowly. Over the six months, stock went up and the cash brought in by day-to-day trading was lower than a year earlier. These interim results had a limited auditor review, not a full audit."],
+  "sources": [
+    ["DMart business and retail categories", "https://www.dmartindia.com/about-us"],
+    ["FY 2025–26 audited results · parent and group", "https://api.dmartindia.com/corporate/content/file/v1/2/jZtJ4gV9JIDY9CjsdXXbQxhE1777722483/Outcome%20of%20the%20Board%20Meeting%20held%20on%20May%202%2C%202026.pdf"],
+    ["May 2026 company release · strategy, stores and DMart Ready", "https://api.dmartindia.com/corporate/content/file/v1/2/R2aWBiIpiuD39xgfm4wrqQKc1777723315/Press%20release%20dated%202nd%20May%2C%202026.pdf"],
+    ["Official financial-results library", "https://www.dmartindia.com/investor-relations/financial-results"],
+    ["DMart Ready · current shopping availability", "https://www.dmart.in/"],
+    ["September 2026 quarter and half-year results · 10 October 2026", "https://api.dmartindia.com/corporate/content/file/v1/3/1ggMhhkLrQ4aKoc9maT3KvJT1791627050/ASL%20-%20Financial%20Results%20for%20the%20Q2%20(FY%2027).pdf"]
+  ],
+  "financialNotes": [
+    {"title": "A big sales total, a thin slice of profit", "text": "The walkthrough above shows how much of each ₹100 of group revenue from operations remained as profit after tax in FY 2025–26. For a low-price retailer, that slice is small, so small changes in costs or prices matter."},
+    {"title": "Parent and group are overlapping views", "text": "Standalone figures cover the parent company and its stores. Consolidated figures cover the group, including DMart Ready’s company. Do not add them together, and do not treat the difference as DMart Ready’s profit."},
+    {"title": "What to read next", "text": "Read operating cash flow alongside capital spending, borrowings, cash balances and lease obligations. Profit after tax is different from the cash left after expanding the store network."}
+  ],
+  "quick": [
+    {"title": "What it does", "text": "Avenue Supermarts runs DMart stores selling groceries, household goods and clothing, and the DMart Ready online grocery service where it is available."},
+    {"title": "Who pays", "text": "Shoppers pay at the checkout or for their online orders. Most products on the shelves are made by other companies, which DMart pays as suppliers."},
+    {"title": "How it earns", "text": "By selling goods for more than it paid suppliers. That gap, gross profit, must still cover the costs of running stores and delivery."},
+    {"title": "What it spends on", "text": "Goods bought from suppliers, staff, store property, electricity, storage, distribution and online delivery."}
+  ],
+  "helps": [
+    {"title": "Low prices bring shoppers back", "text": "DMart describes buying on competitive terms and running efficiently to keep prices low, which can bring more visits and bigger baskets."},
+    {"title": "Everyday shopping", "text": "Groceries and household needs are bought again and again, so shoppers return regularly."},
+    {"title": "Shoppers pay at once", "text": "Customers pay at the checkout straight away, so DMart is not waiting for business customers to pay their bills."}
+  ],
+  "hurts": [
+    {"title": "Thin earnings per sale", "text": "Low prices leave little from each sale, so discounts by rivals or higher running costs can have a big effect."},
+    {"title": "Stock uses cash", "text": "In the six months to 30 September 2026, stock went up and cash from day-to-day trading was lower than a year earlier."},
+    {"title": "New stores cost money first", "text": "Property, fit-outs, staff and stock need funding before a new store matures, and nearby stores can compete for the same shoppers."},
+    {"title": "Online delivery is costly", "text": "Picking, packing and delivering DMart Ready orders add costs that store shopping does not have."}
+  ],
+  "checked": "31 October 2026"
+}
