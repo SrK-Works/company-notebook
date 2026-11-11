@@ -43,6 +43,8 @@ Note 58 (PDF page 304, printed page 297): an Advanced Metering Infrastructure pr
 
 "the Group continuing operations are now solely focused on a single reportable business segment, namely the 'Metering Business and related services'." Geographic revenue: within India 4,736.89; outside India 14.03; total 4,750.92 ✔.
 
+Customer concentration, same note: "Revenue from metering business comprises of customers (March 31, 2026 : ₹ 2,736.31 crores) and (March 31, 2025 : ₹ 1,579.96 crores) where individual sale made to parties were more than 10% individually of total revenue." 2,736.31 ÷ 4,750.92 = 57.6%, more than half (lesson prose rounds to ₹2,736 crore).
+
 ## Balance-sheet items cited in the insight
 
 Note 23 breakup (PDF page 272, printed page 265): borrowing 2,299.65 (31 March 2026) against 1,364.60 (31 March 2025). Note 56 trade receivables (PDF page 303, printed page 296): net total 1,502.52 against 1,363.72.
