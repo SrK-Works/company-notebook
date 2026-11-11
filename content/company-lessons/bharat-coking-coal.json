@@ -1,4 +1,5 @@
 {
+  "layout": "short",
   "summary": "Bharat Coking Coal mines coal and sells it to steel-related and other industrial customers. Some coal is washed before sale to make it more suitable for the buyer.",
   "description": "Coal is taken out of mines, prepared and moved to customers. Some suitable coal is used to make coke, a processed form of coal used to make iron for steel. That is why this business is connected to steel-making as well as to coal used as fuel.",
   "money": "Customers pay for the coal or other saleable products they receive. The company must cover mine workers, contractors, machines, fuel, washing, transport arrangements and other costs. It also has to pay for developing mines and meeting land and environmental obligations.",
@@ -117,10 +118,6 @@
     "April–June 2026: less coal mined, more coal sent out than mined",
     "BCCL’s results for the quarter to 30 June 2026, published on 22 July 2026, show production (coal dug out) lower than a year earlier. Offtake (coal sent out to customers) was higher than production in that quarter, which suggests some deliveries came from coal already stockpiled from earlier mining. Sales were a little lower than a year earlier, and the company reported a loss for the quarter after a profit in the same quarter a year before. These are unaudited figures for BCCL alone, checked by its auditors in a limited review, which gives less assurance than a full audit. One quarter shows why production, deliveries and profit need to be read separately; the full-year audited table below covers an earlier period."
   ],
-  "quiz": [
-    "If a washery can process more raw coal, must sales of clean coal rise by the same amount?",
-    "No. Some input becomes other products or unwanted material, and the plant still needs reliable operation, customer demand and transport."
-  ],
   "sources": [
     [
       "Official washery commencement disclosure",
@@ -149,5 +146,56 @@
       "text": "The cited result notes describe coal mining and related services without separate reportable segments. Do not create a profit allocation between raw coal, washed coal and individual mines from sales or output proportions."
     }
   ],
-  "checked": "31 October 2026"
+  "checked": "31 October 2026",
+  "stepsTitle": "From the mine to the buyer’s wagon.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Bharat Coking Coal digs coal out of mines and sells it to steel-related and other industrial buyers. Some coal is washed first to remove unwanted material and suit the buyer."
+    },
+    {
+      "title": "Who pays",
+      "text": "Steel-related buyers pay for coking coal, the type used in making steel. Power and other industrial buyers pay for coal that suits them. Each pays for an agreed quantity and quality."
+    },
+    {
+      "title": "How it earns",
+      "text": "By selling coal and other saleable products from its mines. Better quality coal, such as washed coal, can be more useful to some buyers."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Mine workers, contractors, machines, fuel, washing plants and transport. It also pays to develop new mines and to restore land when mining ends."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Steel makers need coking coal",
+      "text": "Coking coal is a raw material for making steel. Steel-related industrial buyers are its main customers."
+    },
+    {
+      "title": "Washing can make coal more useful",
+      "text": "Washing removes unwanted material, so the coal suits the buyer better. The company’s Bhojudih washery started commercial operations, according to its official disclosure."
+    },
+    {
+      "title": "Many buyers for different grades",
+      "text": "Coal that does not suit a steel buyer can go to power and other industrial customers, so different grades of coal can still find a buyer."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Mining is interrupted",
+      "text": "Weather, unsafe conditions, machine failures or other incidents can reduce how much coal comes out."
+    },
+    {
+      "title": "Coal quality is poorer than expected",
+      "text": "More unwanted material or weak washing results can reduce the useful product or the price received."
+    },
+    {
+      "title": "Buyers or transport slow down",
+      "text": "Weaker industrial demand, a shortage of rail wagons or slow road movement can hold up deliveries and payment."
+    },
+    {
+      "title": "Land and environmental work costs money",
+      "text": "Permissions, restoring land and closing mines can require spending beyond the cost of digging the coal."
+    }
+  ]
 }

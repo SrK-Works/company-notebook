@@ -28,6 +28,7 @@
  }
  window.companyPrimer={
   skipBusiness(c){return !!lessons[c.id]||!!previous?.skipBusiness(c);},
+  olderNumbers(c){return previous?.render(c,'numbers')||'';},
   contents(c){return lessons[c.id]?[[c.id+'-basics','Products and business basics'],[c.id+'-specifics','How this company works']]:previous?.contents(c)||[];},
   render(c,slot){const l=lessons[c.id];if(!l)return previous?.render(c,slot)||'';
    if(slot==='basics')return `<section class="content-section company-primer" id="${safe(c.id)}-basics"><div class="number">Start with what it offers</div><h2>Connect the products to the business.</h2><div class="primer-groups">${l.groups.map(g=>`<div><h3>${safe(g.title)}</h3><p><strong>What the customer gets:</strong> ${safe(g.examples)}</p><p>${safe(g.explanation)}</p></div>`).join('')}</div>${blocks(l.basics)}${illustration(l.illustration)}${sources(l)}</section>`;

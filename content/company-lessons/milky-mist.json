@@ -1,4 +1,5 @@
 {
+  "layout": "short",
   "summary": "Milky Mist buys milk from farmers and turns it into paneer, cheese, curd, ice cream, yogurt and other dairy products sold across India.",
   "description": "Milk spoils within days, so a dairy company must collect it, cool it and process it quickly. Milky Mist collects milk from farmers and dairy operators, cools it at chilling centres, and makes it into products with a longer shelf life and a higher price: paneer (a fresh Indian cheese), cheese, curd, ice cream, yogurt, ghee and butter. It makes most of them at a large, highly automated plant in Perundurai in Tamil Nadu, and moves them in its own vehicles to distributors, who supply shops across India. Its shares began trading on the exchanges in August 2026.",
   "money": "Milky Mist earns money when distributors and shops pay for its products. Its largest cost is raw milk, which it buys from farmers and other dairy operators and whose price changes with seasons and farm conditions. It also pays for sugar, packaging, cultures and other ingredients, factory work, transport, advertising, and the fridges and freezers it places in shops. A rise in milk prices cuts what is left from each sale unless the company can raise its own prices.",
@@ -143,10 +144,6 @@
     "October 2026: costs rose across dairy, yet profit grew faster than sales",
     "Milky Mist’s investor presentation of 29 October 2026 covers the quarter to September 2026. Management says the dairy industry faced higher input costs and cautious consumers, and that the company still reported higher sales, better margins and much faster profit growth. It credits price increases, higher use of its plant, a wide range of products and efficiency gains. Yogurt was its fastest-growing category. These are the company’s own explanations, from its early quarterly reports as a listed company. Compare them with the full-year figures at the end of this page, which cover an earlier period."
   ],
-  "quiz": [
-    "When a company sells new shares in an IPO and its existing owners also sell shares, does all the money go to the company?",
-    "No. Money from newly issued shares goes to the company. Money from shares sold by existing owners goes to those owners. Check which part is which to see how much the business receives."
-  ],
   "sources": [
     [
       "Quarterly investor presentation · 29 October 2026",
@@ -167,5 +164,56 @@
       "text": "Compare sales growth with the cost of milk and the profit left after it. Look at which categories grow and how much cash goes into coolers, stock and unpaid bills. Verified full-year figures for this profile have not yet been added, so the financial table below is marked as awaiting verification."
     }
   ],
-  "checked": "31 October 2026"
+  "checked": "31 October 2026",
+  "stepsTitle": "From the farm to the shop fridge.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Milky Mist buys milk from farmers and makes paneer, cheese, curd, ice cream, yogurt and other dairy products sold across India."
+    },
+    {
+      "title": "Who pays",
+      "text": "Distributors buy from Milky Mist and supply shops, which sell to households and restaurants. A small part of sales goes outside India."
+    },
+    {
+      "title": "How it earns",
+      "text": "When distributors and shops pay for its products. Shoppers choose at the shop shelf or freezer."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Raw milk is the largest cost, and its price changes with seasons. It also pays for other ingredients, packaging, factory work, transport, advertising and fridges it places in shops."
+    }
+  ],
+  "helps": [
+    {
+      "title": "A strong position in paneer",
+      "text": "The company says it is the largest private packaged paneer brand in India’s organised market, citing one research report. That is its own claim, not an independent audit."
+    },
+    {
+      "title": "Its own fridges in shops",
+      "text": "Milky Mist places its own coolers in shops to show chilled products, and planned to add more with money from its new shares."
+    },
+    {
+      "title": "Milk from many suppliers",
+      "text": "It buys milk directly from farmers and, increasingly, from other dairy operators, so it is not tied to one source."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Milk costs rise or supply falls",
+      "text": "Most farmers have no formal arrangement and can sell to rivals, so a shortage or price spike can cut output or profit."
+    },
+    {
+      "title": "Spoilage and cold-chain failures",
+      "text": "Dairy goes off quickly. A fridge breakdown, a late truck or a power cut can spoil stock and harm the brand."
+    },
+    {
+      "title": "Strong competitors",
+      "text": "Large cooperative and private dairy brands compete for the same shelf space, which can limit prices."
+    },
+    {
+      "title": "Pollution notices",
+      "text": "Its offer document discloses two notices from the Tamil Nadu Pollution Control Board, dated 31 December 2024, about water and air rules."
+    }
+  ]
 }

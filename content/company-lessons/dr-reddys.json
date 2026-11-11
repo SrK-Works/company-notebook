@@ -1,4 +1,5 @@
 {
+  "layout": "short",
   "summary": "Dr. Reddy’s supplies finished medicines, ingredients for other medicine makers, research and manufacturing services, and consumer-health products.",
   "description": "The company can sell a pack of finished medicine, supply the active ingredient another manufacturer needs, or carry out agreed work for a drug developer. These are different jobs with different buyers. Its new-medicine programmes also involve research that may take time and may not reach sale.",
   "money": "Customers pay for medicines, ingredients or the services and rights in their agreements. The company pays for ingredients, people, factories, quality checks, research and getting products to buyers. Stock and unpaid customer bills can use cash before the sale is collected.",
@@ -117,10 +118,6 @@
     "When one large product fades, look at the rest",
     "Lenalidomide is Dr. Reddy’s generic version of the brand-name medicine Revlimid. The company launched it in the US in 2022 with limits on the quantity it could sell. In its 23 October 2026 results presentation, Dr. Reddy’s said total sales for July–September 2026 were slightly lower than a year earlier because lenalidomide sales fell. Sales excluding lenalidomide in North America, which the company calls its base business, grew by a double-digit percentage, meaning 10 percent or more. The same update says some batches of an ingredient called semaglutide did not meet their required quality standard and that the company is working to resolve this. Ask whether the remaining products can replace a fading product’s sales and profit, and whether quality problems delay new ones."
   ],
-  "quiz": [
-    "Is supplying an ingredient the same transaction as selling a finished medicine?",
-    "No. An ingredient is an input another manufacturer uses. A finished medicine is supplied in its approved form for use. The buyer, required work and cost of reaching that buyer can differ."
-  ],
   "sources": [
     [
       "Official business overview",
@@ -145,5 +142,56 @@
       "text": "The table follows the audited IFRS segment note and shows external revenue with segment gross profit. Gross profit still has to cover research, selling and other later costs; it is not segment net profit. Internal PSAI sales are excluded from the displayed revenue, and geographical or therapeutic sales must not be added to it as separate businesses."
     }
   ],
-  "checked": "31 October 2026"
+  "checked": "31 October 2026",
+  "stepsTitle": "From a medicine’s development to the payment.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Dr. Reddy’s makes finished medicines, ingredients that other medicine makers use, and consumer-health products. It also does research and manufacturing work for other drug companies."
+    },
+    {
+      "title": "Who pays",
+      "text": "Distributors, pharmacies and health systems buy finished medicines. Other drug makers buy ingredients or pay for research and manufacturing work. Patients use the medicines."
+    },
+    {
+      "title": "How it earns",
+      "text": "By selling medicines and ingredients, and from fees in agreements for research or manufacturing work. Some agreements pay in stages, when agreed tasks are completed."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Ingredients, people, factories, quality checks, research and getting products to buyers. Stock and unpaid customer bills also tie up cash before a sale is collected."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Several ways to earn",
+      "text": "Finished medicines, ingredients for other makers, research and manufacturing services, and consumer-health products earn from different customers."
+    },
+    {
+      "title": "A new generic medicine can sell strongly",
+      "text": "A generic is a copy of a medicine whose patent has ended. A successful launch, before many rivals arrive, can earn well for a time."
+    },
+    {
+      "title": "Buying products adds customers",
+      "text": "An acquired range of products can bring new customers and markets faster than developing every product itself."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Generic prices fall",
+      "text": "More competing versions, or a large buyer changing suppliers, can reduce sales from important products."
+    },
+    {
+      "title": "Quality or supply problems",
+      "text": "Factory inspection findings, restrictions or shortages of ingredients can interrupt sales and launches."
+    },
+    {
+      "title": "Research may not lead to a sale",
+      "text": "Testing, permissions or demand may fail to support the money spent developing a product."
+    },
+    {
+      "title": "Acquisitions and overseas business bring other costs",
+      "text": "Integrating bought products, disputes over patents and exchange-rate changes can affect earnings and cash."
+    }
+  ]
 }

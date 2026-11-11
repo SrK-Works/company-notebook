@@ -1,4 +1,5 @@
 {
+  "layout": "short",
   "summary": "Mobile calling and data, home internet, television and business connections, with African operations and the group’s tower-infrastructure business.",
   "description": "Airtel provides the networks and services that let customers make calls, use the internet and connect workplaces. For example, a household may buy a home-internet plan while a company pays to link its offices. Airtel must keep those connections working. Its group also includes African mobile and mobile-money operations and Indus Towers.",
   "money": "People and businesses pay for plans, connections and related services. The group also earns from telecom infrastructure. It pays for network equipment, power, maintenance, staff, customer support and rights to use radio frequencies, plus borrowing and other costs. A customer’s recharge is not all profit.",
@@ -118,10 +119,6 @@
     "One postpaid bill can pay for several services",
     "Airtel’s 7 October 2026 release describes new postpaid plans, where the customer pays a monthly bill rather than recharging in advance. They combine unlimited calls and data, spam and fraud protection, subscriptions to other companies’ entertainment and storage apps and, from 8 October 2026, one free international-roaming pack per SIM each year. Roaming means using the phone on networks abroad. One bill therefore covers Airtel’s own network service as well as items supplied by other companies or used abroad. The release does not say what Airtel pays for those items, so the plan price is not all Airtel’s to keep. Keeping a household longer helps only if the payments cover these costs."
   ],
-  "quiz": [
-    "Is EBITDA the cash left after paying for all network expansion?",
-    "No. It leaves important costs and cash payments outside the measure. Check equipment spending, spectrum, leases, borrowing and tax separately."
-  ],
   "sources": [
     [
       "Official group business overview",
@@ -146,5 +143,56 @@
       "text": "The table preserves the audited segment definitions and separates segment sums from consolidated revenue after internal-sales eliminations. The reported earnings measure comes before financing, exceptional items and tax. Do not combine India customer-spending averages, Africa revenue and a group EBITDA margin into an invented profit calculation."
     }
   ],
-  "checked": "31 October 2026"
+  "checked": "31 October 2026",
+  "stepsTitle": "From a tower to a working connection.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Airtel provides mobile calls and data, home internet, television and business connections. It also has mobile businesses in Africa and a business that runs telecom towers."
+    },
+    {
+      "title": "Who pays",
+      "text": "Individual mobile users, households and organisations pay for plans and connections. Mobile-money users in Africa and telecom operators using tower sites also pay."
+    },
+    {
+      "title": "How it earns",
+      "text": "Monthly and prepaid plans, home and business connections, and fees from the tower business. A customer’s recharge pays for the network first and is not all profit."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Network equipment, electricity for sites, maintenance, staff, customer support, and payments for the right to use radio frequencies, called spectrum, plus interest on borrowing."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Many customers share one network",
+      "text": "Once towers and cables are built, each extra paying customer adds income without needing a whole new network."
+    },
+    {
+      "title": "Plan prices matter a lot",
+      "text": "Average revenue per user (ARPU) is the average a customer pays. When plan prices rise or customers choose bigger plans, it can rise across millions of customers."
+    },
+    {
+      "title": "Several businesses, not one",
+      "text": "India mobile, home internet, business connections, Africa, mobile money and towers earn in different ways, so the group does not depend on phone plans alone."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Customers switch or prices are pushed down",
+      "text": "Competing plans can make it harder to keep customers without discounts or extra spending."
+    },
+    {
+      "title": "The network keeps needing cash",
+      "text": "Spectrum, equipment upgrades and leased sites need payments even while the business reports a profit."
+    },
+    {
+      "title": "Outages and security problems",
+      "text": "Network failures, security breaches or breaking licence conditions can interrupt service and damage trust."
+    },
+    {
+      "title": "Overseas conditions change",
+      "text": "Changes in African currencies, inflation and local rules can change costs and the rupee value of results."
+    }
+  ]
 }

@@ -1,4 +1,5 @@
 {
+  "layout": "short",
   "listingLabel": "NSE: GLASSWALL · listed 16 September 2026",
   "summary": "Glass Wall Systems designs, makes and installs the outside surfaces of buildings, including glass walls, covering panels and ventilation slats.",
   "description": "Picture an office tower with glass across its exterior. Those panels need supporting frames, connections and careful fitting. Glass Wall Systems works on this outer surface, called the façade or building envelope. It does not have to construct the entire tower to supply this part of it.",
@@ -123,10 +124,6 @@
     "The share sale funds a planned glass factory; the factory is not yet built",
     "Glass Wall Systems’ shares began trading on 16 September 2026. Most shares sold in the offer came from existing owners, and that money went to them, not to the company. The smaller part, new shares issued by the company, is meant mainly to pay for a glass processing unit at its Vile Bhagad factory in Maharashtra. Backward integration means doing an earlier step yourself: here, cutting and preparing glass that it would otherwise buy ready-processed. Treat it as a plan until the company reports that the unit is built and running."
   ],
-  "quiz": [
-    "If exterior panels have been made in the factory, is the full job finished and paid for?",
-    "Not necessarily. They may still need delivery, installation, customer checks and release of payments held back under the contract."
-  ],
   "sources": [
     [
       "Official design and engineering description",
@@ -159,5 +156,56 @@
       "text": "Contract assets, receivables and retention can explain why earnings and cash move differently. Keep standalone and consolidated scope distinct and review the actual accounting policy before comparing project performance across periods."
     }
   ],
-  "checked": "31 October 2026"
+  "checked": "31 October 2026",
+  "stepsTitle": "From a drawing to a finished building front.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Glass Wall Systems designs, makes and fits the outside surfaces of buildings, called façades: glass walls, covering panels and ventilation slats."
+    },
+    {
+      "title": "Who pays",
+      "text": "Developers, hospitals, airport authorities, builders and companies putting up offices or homes. Overseas, façade contractors in the USA and Australia buy made-to-order parts."
+    },
+    {
+      "title": "How it earns",
+      "text": "Each customer pays for its agreed design, materials, manufacturing and fitting work, often in stages as the project moves on."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Glass, aluminium and other materials, factory workers, transport, site labour and running costs."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Many types of building customer",
+      "text": "Real-estate developers, hospitals, airport authorities, contractors and companies building offices or homes all need building exteriors."
+    },
+    {
+      "title": "Overseas buyers too",
+      "text": "It sells made-to-order façade parts to contractors in the USA and Australia, adding customers beyond Indian building sites."
+    },
+    {
+      "title": "It makes the parts itself",
+      "text": "Designing, making and fitting the panels under one company lets it handle a whole job rather than just one part of it."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "The customer’s building slows down",
+      "text": "If the building is not ready, finished panels and workers can wait, and payment slows."
+    },
+    {
+      "title": "Some payment is held back",
+      "text": "Customers can keep back part of the payment, called retention, until the work passes agreed checks. The work can be finished before all the money arrives."
+    },
+    {
+      "title": "Materials and changes cost more",
+      "text": "Design changes, dearer materials and repeated work can reduce earnings under an agreed price."
+    },
+    {
+      "title": "Quality problems",
+      "text": "Unsafe work, defects or warranty repairs can cause delays, extra cost and claims."
+    }
+  ]
 }

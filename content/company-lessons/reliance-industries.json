@@ -1,4 +1,5 @@
 {
+  "layout": "short",
   "summary": "Reliance includes Jio mobile and broadband, shops and online retail, media, fuels and industrial materials, oil and gas production, and projects to make solar and energy-storage equipment.",
   "description": "A household may pay for a Jio connection or buy something from a group shop. A factory may buy materials that Reliance makes from oil. These businesses serve different needs: putting them under the same group does not make their costs or ways of earning the same.",
   "money": "Customers pay for goods, connectivity, content or industrial supplies. The group pays for crude oil and other inputs, shop stock, workers, networks, factories, delivery and content. It also spends to build new capacity. A sale or subscription has to cover the relevant costs before it contributes profit.",
@@ -127,10 +128,6 @@
     "Jio’s shares began trading separately on 28 October 2026",
     "A BSE notice dated 27 October 2026 says shares of Jio Platforms, the Reliance company that runs Jio’s mobile, broadband and digital services, were listed and admitted to trading from 28 October 2026. Listing means its shares can now be bought and sold on the stock exchange in their own right. The offer document names Reliance Industries as Jio’s promoter, meaning the shareholder in control, and describes the offer as new shares only. So the money raised went to Jio, not to Reliance selling its own Jio shares. Jio remains part of the Reliance group, but it now also has public shareholders, so not all of Jio’s profit belongs to Reliance’s shareholders. The annual figures below cover the period before this listing."
   ],
-  "quiz": [
-    "Can sales numbers from every Reliance business presentation simply be added together?",
-    "Not safely. They can use different definitions, include transactions within the group or cover different companies. Use the group’s own reconciliation to avoid counting the same activity twice."
-  ],
   "sources": [
     [
       "FY 2025–26 integrated annual report",
@@ -159,5 +156,56 @@
       "text": "The earnings column is EBITDA. Depreciation, financing, tax, ownership interests and investment needs matter afterward. Oil to Chemicals leads the displayed revenue, while Digital Services leads the displayed EBITDA; those answer different questions."
     }
   ],
-  "checked": "31 October 2026"
+  "checked": "31 October 2026",
+  "stepsTitle": "From building capacity to collecting payment.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Reliance runs Jio mobile and broadband, shops and online retail, media, fuels and industrial materials, oil and gas production, and projects to make solar and battery equipment."
+    },
+    {
+      "title": "Who pays",
+      "text": "Mobile and broadband subscribers, shoppers, media subscribers and advertisers, and companies buying fuels, chemicals, materials or oil and gas."
+    },
+    {
+      "title": "How it earns",
+      "text": "Customers pay for goods, connections, content or industrial supplies. Each business earns in its own way."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Crude oil and other inputs, shop stock, workers, networks, factories, delivery and content, plus spending to build new capacity."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Many unrelated businesses",
+      "text": "Telecoms, retail, media, fuels and materials depend on different customers and conditions, so the group does not rest on one market."
+    },
+    {
+      "title": "Paying subscribers return every month",
+      "text": "Jio subscribers pay for plans again and again, which brings repeated income from the same network."
+    },
+    {
+      "title": "Repeat shoppers",
+      "text": "Shops and online retail earn when shoppers return and buy enough to cover shop and delivery costs."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Input prices or demand turn",
+      "text": "Fuel and material prices can leave less after buying inputs and running plants."
+    },
+    {
+      "title": "Huge projects need years of funding",
+      "text": "Factories, networks and shops can use cash for a long time before sales cover their costs."
+    },
+    {
+      "title": "Customers choose competitors",
+      "text": "Retail, telecoms and media all need good choice, reliable service and fair prices to keep customers."
+    },
+    {
+      "title": "Hard to compare the group",
+      "text": "Acquisitions, partnerships and partly owned companies can change which earnings belong in each reported figure."
+    }
+  ]
 }

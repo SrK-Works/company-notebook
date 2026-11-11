@@ -1,4 +1,5 @@
 {
+  "layout": "short",
   "summary": "Fredun Pharmaceuticals makes medicines in a factory near Mumbai and sells most of them abroad, and is now adding pet-health, supplement and wellness brands.",
   "description": "A medicine such as a blood-pressure tablet must be made, packed, approved in each country that buys it, and sold to someone who will pay. Fredun does this for generic medicines (copies of medicines whose original patents have ended) in its own factory in Palghar, near Mumbai. Distributors and importers in many countries buy them, mostly in Africa, Southeast Asia, the former Soviet region and Latin America. Government agencies also buy medicines through public tenders. Over the past few years Fredun has added pet medicines, food supplements, skin-care products, support braces and a wellness range, which it presents as a wider healthcare business.",
   "money": "Fredun earns money when a distributor, importer, government agency or other customer pays for the medicines and products it ships. Its main costs are the chemical ingredients, factory work, getting each product approved in each country, selling and advertising, and interest on loans. Newer consumer brands usually cost money to launch before they bring in much, so adding many at once can hold back profit.",
@@ -143,10 +144,6 @@
     "August 2026: sales almost doubled but the profit margin hardly moved",
     "Fredun’s 6 August 2026 results release says total income for April–June 2026 was almost twice that of a year earlier, and profit also nearly doubled, while the profit margin was almost unchanged. The extra profit therefore came from selling more, not from earning more on each sale. The figures are unaudited, meaning not yet fully checked by the auditors. The company also gave shareholders two bonus shares for every share held in July 2026. The full-year figures at the end of this page cover an earlier period."
   ],
-  "quiz": [
-    "If a company’s sales almost double, has its profit per rupee of sales improved?",
-    "Not necessarily. If profit also nearly doubled, the margin (profit as a share of sales) stayed about the same. Compare profit growth with sales growth to see whether it is selling more or earning more on each sale."
-  ],
   "sources": [
     [
       "Results press release · 6 August 2026 (BSE filing)",
@@ -163,5 +160,56 @@
       "text": "Check how much of sales comes from exports and government supply compared with the new consumer lines, and compare profit growth with sales growth. A per-share figure must be put on the same share count after the July 2026 bonus issue. Verified full-year figures for this profile have not yet been added, so the financial table below is marked as awaiting verification."
     }
   ],
-  "checked": "31 October 2026"
+  "checked": "31 October 2026",
+  "stepsTitle": "From an approval to an overseas payment.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Fredun makes medicines in a factory near Mumbai and sells most of them abroad. It is also adding pet-health, supplement and wellness brands."
+    },
+    {
+      "title": "Who pays",
+      "text": "Overseas distributors and importers buy most of its medicines. State agencies buy through tenders, which are formal bids. Other drug firms pay it to make their products. Pet owners, vets and shops buy pet products."
+    },
+    {
+      "title": "How it earns",
+      "text": "By selling the medicines and products it ships, and by making products for other companies to sell under their own names."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Chemical ingredients, factory work, getting each product approved in each country, selling and advertising, and interest on loans. New brands cost money to launch before they earn much."
+    }
+  ],
+  "helps": [
+    {
+      "title": "The medicine business earns the cash",
+      "text": "Fredun’s annual report calls its medicine business the main cash-generating engine, which pays for its newer pet and wellness ventures."
+    },
+    {
+      "title": "Sales across many countries",
+      "text": "Fredun sells medicines in many overseas markets. Each country that approves a product is another place it can sell that product."
+    },
+    {
+      "title": "Several kinds of customer",
+      "text": "Distributors, importers, government agencies, other drug companies, vets and pet owners all buy from it, so it does not depend on one route to buyers."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Countries can change the rules",
+      "text": "A country can delay or refuse a product approval, change its import rules or change what it will pay."
+    },
+    {
+      "title": "Overseas customers pay late",
+      "text": "Distributors and agencies abroad can delay payment or fail to pay, which ties up cash."
+    },
+    {
+      "title": "Too many new businesses at once",
+      "text": "In one year it bought a pet retail network and opened a pet diagnostic centre, new brands and a new factory plot. Each needs money and management time, and some may not earn back their costs."
+    },
+    {
+      "title": "Ingredient prices and currency swings",
+      "text": "The cost of ingredients and the exchange rate can change faster than Fredun can change its selling prices."
+    }
+  ]
 }

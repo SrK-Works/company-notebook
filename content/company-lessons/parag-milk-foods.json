@@ -1,4 +1,5 @@
 {
+  "layout": "short",
   "summary": "Parag turns milk into products such as Gowardhan ghee and paneer, Go cheese, Pride of Cows dairy, Topp Up milk drinks and Avvatar products made using the liquid left from cheese-making.",
   "description": "The company arranges milk supply, checks it and processes it into products people can buy. Making cheese, selling fresh milk and supplying a restaurant with dairy ingredients need different equipment, storage and delivery arrangements.",
   "money": "Households and business buyers pay for dairy products or ingredients. Parag pays for milk, processing, packaging, storage, transport, staff and advertising. Selling a premium product can bring a higher price, but producing and delivering it may also cost more.",
@@ -117,10 +118,6 @@
     "Milk became dearer, so Parag raised prices",
     "In its 7 August 2026 presentation for April–June 2026, Parag said the milk it buys cost noticeably more than a year earlier. It raised selling prices and sold more of its higher-priced products, so the share of sales left after paying for milk and other materials stayed about the same. Sales grew mainly because of higher prices: the total quantity sold grew only a little, and the quantity of its main products (ghee, cheese, paneer and curd) dipped slightly. Profit after tax fell, which the company mainly explains by a higher tax charge. The board also approved doubling cheese-making capacity. That is an approved plan; the extra equipment still has to be built, and the added cheese and whey still have to be sold."
   ],
-  "quiz": [
-    "Does a higher-priced dairy pack automatically leave more profit?",
-    "No. Milk, processing, packaging, storage, transport and advertising may cost more too. The price has to be compared with the costs of supplying that product."
-  ],
   "sources": [
     [
       "Official brand directory",
@@ -149,5 +146,56 @@
       "text": "Inventory, receivables, borrowing and investment can explain why a growing dairy business requires cash. A profit figure alone does not show how much remains after processing expansion and stock needs."
     }
   ],
-  "checked": "31 October 2026"
+  "checked": "31 October 2026",
+  "stepsTitle": "From fresh milk to a packed product.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Parag turns milk into products such as Gowardhan ghee and paneer, Go cheese, Pride of Cows dairy products, Topp Up milk drinks and Avvatar products made from the liquid left over from cheese-making."
+    },
+    {
+      "title": "Who pays",
+      "text": "Shoppers buy through shops and other channels. Restaurants and food businesses buy kitchen-sized packs and ingredients. Some customers get milk delivered at home."
+    },
+    {
+      "title": "How it earns",
+      "text": "Households and business buyers pay for dairy products and ingredients. Premium products can earn a higher price."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Milk, processing, packaging, storage, transport, staff and advertising."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Using more of the milk",
+      "text": "Making cheese leaves a liquid called whey. Parag sells products made from whey under the Avvatar name, which makes better use of the same milk."
+    },
+    {
+      "title": "Premium products",
+      "text": "Brands such as Pride of Cows sell at higher prices, which can earn more if the extra price covers the extra cost."
+    },
+    {
+      "title": "Shops, businesses and homes",
+      "text": "Parag sells through shops, to restaurants and food businesses, and by home delivery, so it does not depend on one route to buyers."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Milk gets dearer first",
+      "text": "Parag may pay more for milk before it can raise pack prices without losing customers."
+    },
+    {
+      "title": "Spoilage or quality problems",
+      "text": "Poor handling, storage or production problems can cause waste, recalls or lost trust."
+    },
+    {
+      "title": "Stock sells for less",
+      "text": "Weak demand or falling dairy prices can reduce what stored products are worth."
+    },
+    {
+      "title": "Expansion uses cash first",
+      "text": "Factories, delivery routes and new brands need money before they bring in enough payments."
+    }
+  ]
 }

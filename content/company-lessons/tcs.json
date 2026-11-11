@@ -1,4 +1,5 @@
 {
+  "layout": "short",
   "summary": "TCS builds, changes and runs computer systems and related business work for organisations such as banks, shops and manufacturers.",
   "description": "Many large organisations need outside specialists to make their computer systems work. For an illustrative example, a bank might pay a technology company to improve its account software and keep it running. TCS takes on agreed projects or continuing services of this kind. It supplies people, technical work and relevant software; it does not own the client’s banking business.",
   "money": "The organisation buying the work pays TCS under a contract. Payment may cover an agreed project, staff time or an ongoing service, depending on the terms. TCS pays employees, outside specialists, software and equipment costs and the costs of managing the work. Fees received are not all profit.",
@@ -113,10 +114,6 @@
     "A customer’s own technology team can move to TCS",
     "On 1 October 2026 TCS announced an agreement under which Best Buy’s technology centre in India, and its employees, will move to TCS. A capability centre of this kind is an office a company runs for its own technology work. After the move, the work for Best Buy continues under a multi-year agreement with TCS instead of being done by Best Buy’s own staff. In August 2026 TCS also announced a five-year deal with Porsche that includes buying MHP, Porsche’s consulting subsidiary, subject to regulatory approval. Taking over a team brings work but also wages, offices and the job of keeping the customer satisfied. An announced agreement is not yet completed, earned or paid work."
   ],
-  "quiz": [
-    "Can the whole announced value of a long contract be counted as this year’s sales?",
-    "No. Sales depend on the work earned under the accounting rules over the contract’s life. Bills and customer payments can happen at different times too."
-  ],
   "sources": [
     [
       "Official services, products and industry directory",
@@ -149,5 +146,56 @@
       "text": "Cloud, AI and BaNCS can serve several client industries. The table is not a profit report for each platform, nor a replacement for the consolidated profit and cash-flow reconciliation."
     }
   ],
-  "checked": "31 October 2026"
+  "checked": "31 October 2026",
+  "stepsTitle": "From a signed contract to a paid bill.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "TCS builds, changes and runs computer systems and related business work for organisations such as banks, shops and manufacturers."
+    },
+    {
+      "title": "Who pays",
+      "text": "Businesses and public organisations that need technology work done, such as banks, retailers and manufacturers."
+    },
+    {
+      "title": "How it earns",
+      "text": "Customers pay under contracts for an agreed project, staff time or an ongoing service."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Mostly employees, plus outside specialists, software and equipment, and the cost of managing the work."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Customers in many industries",
+      "text": "Banks, retailers, manufacturers and public organisations all buy its services, so it does not depend on one industry."
+    },
+    {
+      "title": "Contracts that run for years",
+      "text": "Some contracts cover years of work, which gives a longer view of future work than single projects, though they can change or be cancelled."
+    },
+    {
+      "title": "Faster tools can cut costs",
+      "text": "AI and other tools may reduce the time a job needs, which can lower costs, though customers may ask for lower prices too."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Customers delay spending",
+      "text": "New projects can wait while customers reconsider their budgets."
+    },
+    {
+      "title": "Work or security fails",
+      "text": "Software faults, missed promises or exposed data can bring penalties, repeated work and lost trust."
+    },
+    {
+      "title": "People cost more than contracts earn",
+      "text": "Wages, scarce skills or pressure for lower prices can reduce profit."
+    },
+    {
+      "title": "Rules and currencies change",
+      "text": "Automation, exchange rates, data rules and limits on where employees can work can change demand and costs."
+    }
+  ]
 }

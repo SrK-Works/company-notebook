@@ -1,4 +1,5 @@
 {
+  "layout": "short",
   "summary": "SUVs, pickups and tractors are central Mahindra businesses, alongside lending and other group companies providing products and services.",
   "description": "Mahindra & Mahindra makes vehicles and farm equipment and supplies them through dealers and other sales routes. For example, a family may buy an SUV, while a farmer may buy a tractor to pull equipment for farm work. Group companies also lend money and carry out other activities; a vehicle sale and a loan earn in different ways.",
   "money": "The manufacturing businesses earn from vehicles, tractors, parts and related goods or services. They pay for components, workers, factories, transport and support. Lending businesses receive interest but must pay for their funding and allow for borrowers who fail to repay. Each activity has its own costs before group profit remains.",
@@ -113,10 +114,6 @@
     "One month’s comparison can mislead",
     "Mahindra’s 1 October 2026 tractor sales release reports fewer tractors sold in India in September 2026 than in September 2025. The company says this was mainly because the festival season, when many buyers make purchases, began in October this year but in September last year, and because September 2025 had been helped by a cut in GST (Goods and Services Tax, a tax added to the price of goods). Tractor sales for the year so far were still higher than a year earlier. Compare longer periods and read the company’s explanation before treating one month’s fall as weaker farm demand. These are sales quantities, not profit."
   ],
-  "quiz": [
-    "Should a lending business be judged in exactly the same way as a vehicle factory?",
-    "No. Lending depends on interest, funding and repayments. A factory depends on materials, production and vehicle demand. Both have costs, but their main risks differ."
-  ],
   "sources": [
     [
       "FY 2025–26 integrated annual report",
@@ -141,5 +138,56 @@
       "text": "Lending has financing costs within its own business economics. Read the remaining group-level finance costs and unallocated items in the reconciliation rather than subtracting the same cost twice."
     }
   ],
-  "checked": "31 October 2026"
+  "checked": "31 October 2026",
+  "stepsTitle": "From the factory to a vehicle at work.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Mahindra makes SUVs, pickup trucks and tractors. The group also runs a lending business and other companies that sell their own products and services."
+    },
+    {
+      "title": "Who pays",
+      "text": "Car buyers, farmers, businesses that use work vehicles, dealers, and borrowers of the finance business. Other group companies have their own customers."
+    },
+    {
+      "title": "How it earns",
+      "text": "By selling vehicles, tractors, parts and related services. The lending business earns interest, which is a different kind of income with its own costs."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Components, workers, factories, transport and support. The lending business also pays for the money it lends and allows for borrowers who fail to repay."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Different kinds of buyer",
+      "text": "Families buying SUVs, farmers buying tractors and businesses buying pickups face different pressures, so all of them need not cut spending at once."
+    },
+    {
+      "title": "Its own finance business",
+      "text": "Buyers’ access to loans affects vehicle demand. The group runs a lending business that serves borrowers and earns interest, though it must also cover funding costs and missed repayments."
+    },
+    {
+      "title": "Old tractors need replacing",
+      "text": "Tractor demand depends on crop earnings and also on farmers replacing old equipment."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Buyers cut back",
+      "text": "Families, farmers and work-vehicle operators can each cut spending for different reasons, such as weaker crop earnings or incomes."
+    },
+    {
+      "title": "Bookings may not turn into sales",
+      "text": "A popular launch still needs enough production and reliable products. Buyers can cancel while waiting, and faults bring repair costs."
+    },
+    {
+      "title": "Borrowers fail to repay",
+      "text": "Late or missing loan payments can reduce the finance business’s earnings and cash."
+    },
+    {
+      "title": "New businesses keep using cash",
+      "text": "Expansion and acquisitions can need funding before enough customers or earnings arrive."
+    }
+  ]
 }

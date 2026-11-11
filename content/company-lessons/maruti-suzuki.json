@@ -1,4 +1,5 @@
 {
+  "layout": "short",
   "summary": "The manufacturer behind cars sold through ARENA and NEXA, with parts, servicing-related offerings and exports.",
   "description": "Maruti Suzuki India designs or develops vehicles, arranges components, builds cars and supplies dealers or export buyers. For example, a household may choose a family car at a dealership. The manufacturer builds and supplies it; the dealer handles the customer sale under its arrangement. Later parts and service needs are related work, but separate purchases.",
   "money": "The company receives payment for vehicles, parts and related goods or services. It pays for components, workers, factories, transport, developing models, advertising and promised repairs. The difference between a car’s showroom price and its material cost is not all manufacturer profit.",
@@ -113,10 +114,6 @@
     "Record car sales and lower profit in the same quarter",
     "Maruti Suzuki’s October 2026 results release for July–September 2026 reports its highest-ever quarterly vehicle sales and sales value, while net profit was lower than a year earlier. The company gives two reasons: higher prices for raw materials such as metals, which it links to the West Asia conflict, and mark-to-market losses on its invested spare cash—a fall in the recorded value of those investments, separate from selling cars. It also says demand outpaced supply, leaving low dealer stock and many pending bookings. A booking is an order not yet delivered and can still be cancelled. More cars sold does not automatically mean more profit."
   ],
-  "quiz": [
-    "If revenue rises faster than the number of cars sold, did customer demand necessarily rise equally?",
-    "No. Different models, prices, exports and related services can change the sales value. Check quantities and costs too."
-  ],
   "sources": [
     [
       "Official vehicle and channel directory",
@@ -137,5 +134,56 @@
       "text": "The table shows audited consolidated revenue from operations and profit after tax. Revenue includes products, services and other operating revenue, and differs from a standalone net-sales headline. A model’s retail price, bookings or factory capacity cannot be used to invent its manufacturer revenue or profit."
     }
   ],
-  "checked": "31 October 2026"
+  "checked": "31 October 2026",
+  "stepsTitle": "From parts to a car in the showroom.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Maruti Suzuki makes cars sold through its ARENA and NEXA showrooms, plus spare parts and service-related offerings, and exports cars to other countries."
+    },
+    {
+      "title": "Who pays",
+      "text": "Dealers and export buyers pay Maruti for cars. People and businesses then buy the cars from dealers. A dealer buying a car and a driver registering it are different stages."
+    },
+    {
+      "title": "How it earns",
+      "text": "By selling cars, parts and related goods or services. The showroom price minus materials is not all profit for Maruti."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Components, workers, factories, transport, developing new models, advertising and repairs it has promised to cover."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Two showroom networks",
+      "text": "ARENA and NEXA showrooms reach different kinds of car buyer."
+    },
+    {
+      "title": "Buyers choosing better-equipped cars",
+      "text": "When more buyers pick larger or better-equipped cars, sales value can rise even without many more cars sold, though extra features also cost more."
+    },
+    {
+      "title": "Exports and parts add to car sales",
+      "text": "Besides selling cars through Indian dealers, Maruti exports cars and sells spare parts and service-related offerings."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Buyers postpone a car",
+      "text": "Weaker incomes or dearer car loans can delay a large purchase."
+    },
+    {
+      "title": "Parts or quality problems",
+      "text": "Component shortages and faults can stop production, force recalls or damage confidence."
+    },
+    {
+      "title": "New technology must find buyers",
+      "text": "Money spent developing new engines, electric systems and factories comes before proof that enough buyers will cover it."
+    },
+    {
+      "title": "Costs and rules change",
+      "text": "Materials, currency movements and safety or emissions rules can raise what each car costs to make."
+    }
+  ]
 }

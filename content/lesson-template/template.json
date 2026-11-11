@@ -221,6 +221,12 @@
       "write": "Set to \"short\" to show the company on the short page: photos, four quick answers, how the work moves, what helps and what could hurt, then the figures. A short page also needs quick, helps and hurts, and does not need a quiz. Everything else stays in the lesson and opens under \"Go deeper\"."
     },
     {
+      "key": "stepsTitle",
+      "type": "text",
+      "maxChars": 60,
+      "write": "Short page only, optional. The heading above the steps, in the company's own terms, for example \"From a seller’s shelf to your door.\" Defaults to \"From the work to the payment.\""
+    },
+    {
       "key": "quick",
       "type": "list",
       "itemShape": [

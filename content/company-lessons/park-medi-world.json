@@ -1,4 +1,5 @@
 {
+  "layout": "short",
   "summary": "Park Medi World operates the Park Hospitals network, providing consultations, tests, hospital stays, procedures and specialist care.",
   "description": "A patient may visit a doctor and leave the same day, or be admitted for a stay and treatment. Park provides the teams, beds, equipment, nursing and support needed for the services available at each hospital. A building alone cannot provide care: qualified people and functioning facilities must be in place.",
   "money": "The hospital bills for delivered consultations, tests, stays, procedures and related services. A patient or family may pay directly, or an insurer, employer or healthcare scheme may pay under an agreement. Doctors, nurses, medicines, supplies, equipment and premises must be paid for; the whole bill is not profit.",
@@ -121,10 +122,6 @@
     "Owning a hospital building and running it are different",
     "On 16 September 2026, a Park subsidiary agreed to run an existing 300-bed hospital in Kanpur for 28 years. Axis Educational Society keeps ownership of the land and building. Park will pay for renovation and medical equipment and run the hospital; in return, it pays the owner a share of the money collected from patients, with a minimum monthly amount. The agreement takes effect no later than 1 April 2027, after renovation, so it does not yet add patients to Park’s network. Separately, on 26 August 2026 Park won a public–private partnership (PPP) mandate, an agreement with a government body, to build a 550-bed hospital in Prayagraj over about two years and then run it under a 45-year lease. Keep track of which sites Park owns, which it only runs, and which are already treating patients."
   ],
-  "quiz": [
-    "Would adding beds alone prove hospital earnings will rise?",
-    "No. Beds need staff, equipment, permissions and appropriate patient activity. Payments for the services also have to cover the associated costs."
-  ],
   "sources": [
     [
       "Official investor and hospital-network history",
@@ -161,5 +158,56 @@
       "text": "Read the stated group and tax basis, then check receivables, operating cash flow, capital expenditure and lease or other commitments before concluding how much money is available after expansion."
     }
   ],
-  "checked": "31 October 2026"
+  "checked": "31 October 2026",
+  "stepsTitle": "From admission to a paid hospital bill.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Park Medi World runs the Park Hospitals network, providing consultations, tests, hospital stays, procedures and specialist care."
+    },
+    {
+      "title": "Who pays",
+      "text": "Patients or their families pay, or an insurer, employer or government scheme pays under an agreement. Those payers can have agreed rates and slower payment timetables."
+    },
+    {
+      "title": "How it earns",
+      "text": "It bills for consultations, tests, stays, procedures and related services it has provided."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Doctors, nurses, medicines, supplies, equipment and buildings."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Fuller hospitals spread costs",
+      "text": "Staff, buildings and equipment cost money whether beds are full or not. More patients spread those costs further."
+    },
+    {
+      "title": "More complex care",
+      "text": "More complex cases and specialist care raise the average bill, though they also need more skilled staff."
+    },
+    {
+      "title": "New sites add capacity",
+      "text": "New or acquired hospitals add beds and services once they build up patients."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Specialist staff are hard to find",
+      "text": "Difficulty hiring or keeping qualified doctors and nurses can limit the services and beds a hospital can use."
+    },
+    {
+      "title": "Payers change rates or pay late",
+      "text": "Lower agreed rates, disputed bills or slow insurer and scheme payments can affect earnings and cash."
+    },
+    {
+      "title": "New sites take time to fill",
+      "text": "Rent, staff and other costs continue while a new hospital builds up patients."
+    },
+    {
+      "title": "A tax check",
+      "text": "In October 2026 Park told the exchanges that the Income Tax Department carried out a “verification” at some premises. Park says there was no impact on operations. The filings do not say what was examined. This is not evidence of wrongdoing."
+    }
+  ]
 }

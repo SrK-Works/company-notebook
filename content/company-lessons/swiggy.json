@@ -1,4 +1,5 @@
 {
+  "layout": "short",
   "summary": "Swiggy helps people order restaurant meals, receive groceries through Instamart, and use dining or event services. The group also provides storage and distribution services to businesses.",
   "description": "A customer choosing dinner needs a restaurant to cook and a delivery worker to bring it. A customer ordering groceries needs stocked goods, picking and delivery. Swiggy arranges these different jobs through its services; an app order still requires people and physical work behind the screen.",
   "money": "The group earns under each service’s terms, including fees for arranging orders, delivery-related charges, advertising, memberships and goods or distribution sales. It pays for workers and partners, storage sites, technology and promotions. It does not keep every amount collected from customers.",
@@ -117,10 +118,6 @@
     "Swiggy sold one distribution business in September 2026",
     "Authorised distribution means supplying a brand’s goods to shops and wholesalers on the brand’s behalf. Swiggy’s 7 September 2026 disclosure says this business-to-business activity would be moved into a subsidiary, Lynks Logistics, and sold to Trustroot Internet, the parent of the wholesale-trading business Udaan. Swiggy is paid in Trustroot shares rather than cash. The October 2026 shareholders’ letter says this business stops being part of Swiggy’s reported results from the October–December 2026 quarter. Other storage and delivery services for sellers remain, so read what customers pay for in each remaining activity rather than assuming earlier sales will repeat."
   ],
-  "quiz": [
-    "If restaurant delivery earns a profit, must the whole Swiggy group be profitable?",
-    "No. Grocery delivery, newer services and company-wide expenses can use more money than another activity earns. Read all the business results and the costs still left to deduct."
-  ],
   "sources": [
     [
       "Official business descriptions",
@@ -153,5 +150,56 @@
       "text": "The verified snapshot shows different outcomes across food delivery, out-of-home, quick commerce, supply chain and innovations. Segment results still require the source’s reconciliation for other income, share-based payments, finance, depreciation and other items before group net profit."
     }
   ],
-  "checked": "31 October 2026"
+  "checked": "31 October 2026",
+  "stepsTitle": "From an order in the app to the doorstep.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Swiggy lets people order restaurant meals, get groceries delivered through Instamart, and book dining and event services. It also stores and distributes goods for businesses."
+    },
+    {
+      "title": "Who pays",
+      "text": "People ordering meals, groceries and experiences. Restaurants and sellers pay to reach buyers. Businesses pay for storage and distribution."
+    },
+    {
+      "title": "How it earns",
+      "text": "Fees for arranging orders, delivery charges, advertising, memberships, and sales of goods and distribution services. It does not keep everything a customer pays."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Delivery workers and partners, storage sites, technology and discounts or promotions."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Repeat orders",
+      "text": "Customers who order again and again help spread delivery and site costs."
+    },
+    {
+      "title": "Memberships bring people back",
+      "text": "A membership can encourage people to return or try another Swiggy service, though its benefits still have to be paid for."
+    },
+    {
+      "title": "Restaurants and sellers pay too",
+      "text": "Advertising and other services let restaurants and sellers pay to reach Swiggy’s customers."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Orders are costly to win",
+      "text": "Discounts and advertising can stop rising demand from producing enough earnings."
+    },
+    {
+      "title": "Late or missing items",
+      "text": "Late, missing or unavailable items can stop people ordering again and create extra costs."
+    },
+    {
+      "title": "New sites keep losing money",
+      "text": "New grocery sites pay rent and staff before they are busy, and may need funding for some time."
+    },
+    {
+      "title": "Rules and relationships change",
+      "text": "Food safety, consumer rights, rules about delivery workers, data protection or partner disputes can affect costs."
+    }
+  ]
 }

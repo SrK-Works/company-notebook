@@ -42,8 +42,10 @@ test('a lesson survives the trip to the model\'s answer format and back',()=>{
 test('the answer format is strict and covers every required section',()=>{
  const walk=s=>{if(s.type==='object'){assert.equal(s.additionalProperties,false);assert.deepEqual([...s.required].sort(),Object.keys(s.properties).sort());Object.values(s.properties).forEach(walk)}else if(s.type==='array')walk(s.items)};
  const schema=D.buildSchema();walk(schema);
- const keys=require('../content/lesson-template/template.json').sections.map(s=>s.key).filter(k=>k!=='checked');
+ // Every section except the date, and the short page's own sections instead of the self-check question.
+ const keys=[...require('../content/lesson-template/template.json').sections.map(s=>s.key).filter(k=>k!=='checked'&&k!=='quiz'),'quick','helps','hurts','stepsTitle'];
  for(const k of keys)assert.ok(schema.properties.lesson.properties[k],`schema lacks ${k}`);
+ assert.equal(schema.properties.lesson.properties.quiz,undefined);
 });
 test('the prompt carries the project standard, the template and the hard rules',()=>{
  const p=D.buildSystemPrompt();

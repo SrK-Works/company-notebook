@@ -1,4 +1,5 @@
 {
+  "layout": "short",
   "summary": "Motorcycles such as Pulsar, Chetak electric scooters and three-wheelers used to carry passengers or goods, sold in India and overseas.",
   "description": "Bajaj Auto develops and makes vehicles, then supplies dealers and overseas buyers. A motorcycle can take its rider to work; a passenger three-wheeler can be a driver’s way of earning a living. These buyers need different prices, features and support. Other companies in the reported group add lending, investment and overseas-brand activities.",
   "money": "Vehicle buyers and dealers pay for motorcycles, scooters, three-wheelers, parts and related offerings. Bajaj pays for components, batteries where needed, workers, factories, transport, marketing and repair promises. Group lending also earns interest but needs funding and repayments. Money received from these different activities is not all vehicle-sales profit.",
@@ -113,10 +114,6 @@
     "Electric scooter demand ran ahead of supply",
     "Bajaj Auto’s 27 October 2026 standalone results release for July–September 2026 says Chetak electric scooter sales more than doubled from a year earlier even though supply was severely limited and demand exceeded what could be delivered; production is being increased. Standalone means Bajaj Auto Ltd itself, without its group companies such as KTM. The release says Chetak profitability kept improving but gives no separate Chetak profit, so none should be calculated from its sales. A shortage can leave buyers waiting or choosing another brand, and adding production costs money before the extra scooters are sold."
   ],
-  "quiz": [
-    "Can group sales growth be compared without checking which companies were included?",
-    "No. An acquired company can add sales and costs for only part of a year. Check the business boundary, dates and funding before judging growth."
-  ],
   "sources": [
     [
       "FY 2025–26 business review",
@@ -141,5 +138,56 @@
       "text": "The reported segments are Automotive, Investments and Financing, rather than one segment for each familiar vehicle brand. Segment income includes sales and other income; segment earnings come before the remaining financing and tax deductions. Read the reconciliation and the post-control KTM consolidation period before comparing years."
     }
   ],
-  "checked": "31 October 2026"
+  "checked": "31 October 2026",
+  "stepsTitle": "From parts to a vehicle on the road.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Bajaj Auto makes motorcycles such as Pulsar, Chetak electric scooters and three-wheelers that carry passengers or goods. It sells them in India and overseas."
+    },
+    {
+      "title": "Who pays",
+      "text": "Dealers in India and partners overseas buy the vehicles, then sell them to riders and commercial operators. Borrowers in the group’s lending business pay interest on loans."
+    },
+    {
+      "title": "How it earns",
+      "text": "Mostly by selling vehicles and spare parts. The lending business earns interest, which is a different kind of income from selling a motorcycle."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Components, batteries for electric models, workers, factories, transport, marketing and the cost of repair promises."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Sales in India and abroad",
+      "text": "Bajaj sells through dealers in India and partners in other countries. A weak spell in one market need not hit every market at the same time."
+    },
+    {
+      "title": "A wide range of vehicles",
+      "text": "Motorcycles, electric scooters and three-wheelers for passengers or goods reach different buyers, from daily commuters to people who drive for a living."
+    },
+    {
+      "title": "Spare parts keep selling",
+      "text": "Vehicles already on the road need parts and service. These sales continue after the original vehicle is sold."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Buyers cannot afford vehicles or loans",
+      "text": "Weak household or driver income can lead people to keep an older vehicle for longer."
+    },
+    {
+      "title": "Overseas orders are disrupted",
+      "text": "Currency shortages, import restrictions or transport problems in another country can interrupt sales there."
+    },
+    {
+      "title": "Electric scooters must cover all their costs",
+      "text": "Battery problems, repair costs and price competition can reduce what remains from each electric vehicle sold."
+    },
+    {
+      "title": "KTM may keep needing money",
+      "text": "Bajaj took control of the Austrian KTM business in November 2025. Improving a struggling business can take cash and management time before it recovers."
+    }
+  ]
 }
