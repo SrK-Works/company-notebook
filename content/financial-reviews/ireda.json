@@ -1,0 +1,26 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated · lender group",
+  "coverage": "Whole-group totals · IREDA and its wholly owned subsidiary at GIFT City · one reported segment",
+  "unit": "₹ crore",
+  "revenueLabel": "Total income",
+  "incomeDefinition": "Interest earned on loans and investments, plus fees, commissions, fair-value gains, other operating income and other income. It is gross income before the interest IREDA pays on its own borrowing, before money set aside for loans that may not be repaid, and before tax. It is not sales and not net interest income.",
+  "profitMetric": "Profit after tax",
+  "definition": "Profit for the year after interest paid on borrowings, money set aside for possible loan losses (impairment), staff and other costs, and tax. The only subsidiary is wholly owned, so no part of this profit belongs to outside shareholders. It is not cash collected.",
+  "rows": [
+    {
+      "name": "IREDA · whole group",
+      "revenue": 8338.89,
+      "profit": 1874.00
+    }
+  ],
+  "source": "https://www.ireda.in/IredaWebPortal/documents/investors/annual-reports/ar-2025-26.pdf",
+  "sourceLabel": "Annual report 2025–26 · audited consolidated financial statements",
+  "location": "PDF page 387 / printed page 385 · consolidated statement of profit and loss, year ended 31.03.2026 column; PDF page 482 / printed page 480 · note 27, operating segments",
+  "notes": "Figures are printed in ₹ crore, so no conversion was needed. Of the total income, ₹8,180.46 crore is interest income, mostly interest on loans. The largest cost was ₹4,904.68 crore of interest IREDA paid on its own borrowing, and it set aside ₹777.08 crore for loans that may not be repaid, up from ₹237.23 crore a year earlier. IREDA reports one segment, renewable-energy and energy-efficiency lending; its small solar plant in Kerala is not reported separately. Standalone figures are almost identical (total income ₹8,337.48 crore, profit ₹1,873.34 crore).",
+  "insight": "IREDA keeps only a small part of each rupee of interest it earns, because most of it pays for the money it has borrowed. The jump in money set aside for doubtful loans is a key reason profit grew more slowly than income.",
+  "status": "single",
+  "checked": "11 November 2026",
+  "revenueTotal": 8338.89,
+  "profitTotal": 1874.00
+}

@@ -1,0 +1,24 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Standalone · Fredun Pharmaceuticals Limited",
+  "coverage": "Company totals · single pharmaceutical segment",
+  "unit": "₹ crore",
+  "profitMetric": "Profit after tax",
+  "definition": "Profit for the year after the cost of materials, staff, interest, equipment wear (depreciation), other costs and tax. It is not cash collected from customers.",
+  "rows": [
+    {
+      "name": "Fredun Pharmaceuticals · company",
+      "revenue": 633.3265,
+      "profit": 33.2069
+    }
+  ],
+  "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3be196be-c2ec-415f-b849-4f8308943486.pdf",
+  "sourceLabel": "BSE-filed annual report 2025–26 · audited standalone financial statements",
+  "location": "PDF page 72 · standalone statement of profit and loss, year ended 31 March 2026 column; PDF page 97 · note 24, revenue from operations; PDF pages 124–125 · consolidated statement for comparison",
+  "notes": "Source figures are ₹ lakh and were divided by 100. Revenue is sale of goods only; it excludes other operating revenue (₹2.1392 crore) and other income (₹3.656 crore). The largest cost is materials: ₹480.7596 crore. Finance cost (interest and similar borrowing charges) rose to ₹39.2976 crore from ₹22.3766 crore a year earlier. Standalone figures are shown because the consolidated statement’s split of profit between owners and others does not add up to its own profit line; consolidated sales are the same and consolidated profit after tax is ₹32.6209 crore.",
+  "insight": "Fredun’s sales were about 40% higher than a year earlier, and profit grew faster than sales. Most of each rupee of sales still goes on materials, so a small change in material costs or selling prices can move profit a lot.",
+  "status": "single",
+  "checked": "11 November 2026",
+  "revenueTotal": 633.3265,
+  "profitTotal": 33.2069
+}
