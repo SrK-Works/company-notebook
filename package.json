@@ -3,8 +3,11 @@
   "private": true,
   "description": "Explains Indian listed companies to first-time investors. Only the drafting script needs a dependency; the site and the other scripts use no packages.",
   "scripts": {
+    "build": "node scripts/build.cjs",
+    "pretest": "node scripts/build.cjs",
     "test": "node --test tests/",
-    "check:lessons": "node scripts/check-lessons.cjs"
+    "check:lessons": "node scripts/check-lessons.cjs",
+    "serve": "node scripts/build.cjs && cd dist && python3 -m http.server 8765"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "1.3.0"
