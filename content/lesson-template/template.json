@@ -143,7 +143,7 @@
       "minItems": 3,
       "maxItems": 3,
       "maxChars": 340,
-      "write": "Three things the sources show that work in the company's favour. State what the source says and why it matters. This is not advice or a forecast.",
+      "write": "Three lasting reasons the business can do well, in plain words, that will still be true after the next results. Source them from the annual report's or offer document's strategy, outlook or risk sections. A recent figure may follow only as one short example. Quarter statistics belong in context. This is not advice or a forecast.",
       "answers": "What works in the company’s favour?"
     },
     {
@@ -156,7 +156,7 @@
       "minItems": 3,
       "maxItems": 4,
       "maxChars": 340,
-      "write": "Three or four things the sources show that make the business harder. Repeat only what a source says. Never imply wrongdoing unless a filing says so.",
+      "write": "Three or four lasting things that can make the business harder, in plain words, that will still be true after the next results. Source them from the annual report's or offer document's risk sections. A recent figure may follow only as one short example. Never imply wrongdoing unless a filing says so.",
       "answers": "What makes the business harder?"
     },
     {
