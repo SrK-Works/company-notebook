@@ -9,8 +9,6 @@
     "color": "#24407d",
     "bg": "#eaf0fc",
     "tag": "Look beyond the familiar brand",
-    "summary": "Foods, personal care and stationery sit alongside cigarettes, paper, packaging and agricultural businesses.",
-    "description": "ITC operates across fast-moving consumer goods, paperboards and packaging, agriculture and information technology. Its familiar food brands are only one part of the company, and cigarettes remain an important business to study separately.",
     "products": [
       [
         "Aashirvaad",
@@ -259,45 +257,8 @@
     ],
     "productSource": "https://itcportal.com/itc-businesses/fmcg.html",
     "productNote": "Major brands and business offerings named in ITC’s official portfolio as reviewed in October 2026. This groups product families rather than every flavour, variant or pack size. Tobacco brands are included for company-ownership research; tobacco use causes serious harm and this listing is not a product endorsement.",
-    "money": "Consumer purchases support its FMCG businesses, while the paper, packaging, agriculture and technology divisions sell products and services to business customers. Cigarettes and other FMCG products have different economics, so study their sales and profit contributions separately before assessing the group.",
     "ownership": "This page covers ITC Limited. ITC Hotels became a separately listed company after the hotel business demerger, so hotel brands are not included here. Acquired consumer brands may operate through subsidiaries. Tobacco brands are listed to show the company’s business exposure, not to promote their use.",
-    "watch": [
-      [
-        "Segment profit",
-        "Which activities contribute earnings, rather than just sales?"
-      ],
-      [
-        "Cigarette volumes and taxes",
-        "How do legal cigarette volumes, excise duties and regulation affect the segment?"
-      ],
-      [
-        "Consumer-goods margins",
-        "Can newer categories cover manufacturing, distribution and advertising costs?"
-      ]
-    ],
-    "risks": [
-      [
-        "Tobacco regulation",
-        "Taxes, health rules and restrictions can affect cigarette demand and economics."
-      ],
-      [
-        "Commodity exposure",
-        "Agricultural inputs and paper-related costs can fluctuate."
-      ],
-      [
-        "Brand competition",
-        "Building food and personal-care brands requires sustained investment."
-      ]
-    ],
     "sources": [
-      [
-        "ITC business profile",
-        "https://itcportal.com/about-itc/our-profile.html"
-      ],
-      [
-        "Complete FMCG portfolio",
-        "https://itcportal.com/itc-businesses/fmcg.html"
-      ],
       [
         "Packaged foods portfolio",
         "https://itcportal.com/itc-businesses/fmcg/food.html"
@@ -305,10 +266,6 @@
       [
         "Personal care portfolio",
         "https://itcportal.com/itc-businesses/fmcg/Personal-care.html"
-      ],
-      [
-        "Cigarette brand portfolio",
-        "https://itcportal.com/itc-businesses/fmcg/cigarette.html"
       ],
       [
         "Education and stationery portfolio",
@@ -319,12 +276,6 @@
         "https://itcportal.com/itc-businesses/fmcg/safety-matches.html"
       ]
     ],
-    "update": [
-      "Portfolio expanded across every major category",
-      "The notebook now covers ITC’s major food, personal-care, stationery, incense, match and tobacco brands, along with its business-to-business offerings."
-    ],
-    "question": "Can you judge ITC by the popularity of one biscuit or cigarette brand?",
-    "answer": "No. A familiar brand is only one part of a diversified company. The sales, profit, cash generation and risks of each business segment also matter.",
     "logo": "assets/logos/itc.png"
   },
   "offerings": [

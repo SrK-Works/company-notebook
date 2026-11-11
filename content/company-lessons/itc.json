@@ -1,0 +1,250 @@
+{
+  "layout": "short",
+  "summary": "ITC sells familiar foods such as Aashirvaad and Sunfeast, Classmate notebooks and personal-care goods, plus cigarettes. It also supplies crops, paper and packaging to other businesses.",
+  "description": "ITC is several businesses under one roof. It sells packaged foods, cigarettes, personal-care goods and stationery to shoppers. It also buys crops and supplies them to business customers, makes paperboard (thick, stiff paper used for packs) and turns it into boxes and wrappers, and owns ITC Infotech, a company that builds and runs computer systems for other businesses. These jobs have different customers and costs, so a biscuit brand alone cannot explain the whole company.",
+  "money": "ITC earns money by selling goods: packaged products to shops and distributors, crops to business buyers, and paper and packaging to companies. ITC Infotech earns fees for technology work. ITC pays for raw materials, making the goods, employees, moving stock, advertising and taxes. Each business keeps a different amount after its costs, so the businesses must be understood one at a time.",
+  "customers": "Households buy the consumer goods in shops or online, but ITC’s direct customers are often the shops and distributors that buy stock and resell it. Other businesses buy crops, paper, packaging and technology services for their own operations. Some of ITC’s own businesses also supply each other, for example packaging for its foods.",
+  "drivers": "What each business sells and how much customers buy, the prices charged, and the costs of doing the work, such as crops, wood, energy and advertising. Taxes and rules on cigarettes matter a great deal.",
+  "groups": [
+    {
+      "title": "Cigarettes",
+      "examples": "Gold Flake, Classic, India Kings and other cigarette brands, sold through distributors and shops.",
+      "explanation": "A separately reported business. Its prices, taxes, rules and demand need their own explanation, even when the food brands are more familiar."
+    },
+    {
+      "title": "Other consumer goods",
+      "examples": "Foods such as Aashirvaad, Sunfeast, Bingo! and YiPPee!; personal-care brands such as Fiama and Savlon; Classmate stationery, Mangaldeep incense and safety matches.",
+      "explanation": "Bought by households through shops, retail chains and online sellers. Biscuits, soap and notebooks have different ingredients, pack sizes, advertising and buying habits."
+    },
+    {
+      "title": "Agricultural products",
+      "examples": "Crops and prepared produce such as grains, animal-feed ingredients and coffee, supplied to business customers in India and abroad, and to ITC’s own foods business.",
+      "explanation": "ITC must buy suitable produce, prepare and move it, and collect payment. Harvests, buying prices, selling prices and transport costs decide what is left."
+    },
+    {
+      "title": "Paperboard, paper and packaging",
+      "examples": "Paperboard and specialty paper; printed cartons, flexible wrappers and other finished packs.",
+      "explanation": "Sold to outside companies and to ITC’s own consumer businesses. Packaging work turns paper and other materials into boxes and wrappers."
+    },
+    {
+      "title": "Technology services through ITC Infotech",
+      "examples": "Building, changing and running computer programs and systems for other companies.",
+      "explanation": "Customers pay for agreed technology work, and engineers cost money. ITC Infotech is a subsidiary, a company ITC controls, with its own accounts."
+    }
+  ],
+  "basics": [
+    {
+      "title": "Company, brand and segment",
+      "text": "ITC is the company that owns the factories and keeps the accounts. Aashirvaad is a brand: a name shoppers recognise. A segment is a group of activities ITC reports together. Everyday items bought again and again are called fast-moving consumer goods (FMCG), and ITC’s FMCG – Other products segment bundles foods, personal care and stationery."
+    },
+    {
+      "title": "Selling to businesses",
+      "text": "When ITC sells paper, packaging, crops or technology work to another company for its own use, that is called business-to-business selling. These buyers order differently from a household buying a biscuit pack."
+    },
+    {
+      "title": "Standalone and consolidated accounts",
+      "text": "Standalone accounts cover ITC Limited itself. Consolidated accounts add the companies it controls, such as ITC Infotech. The figures on this page are standalone, so they do not show ITC Infotech’s sales directly."
+    },
+    {
+      "title": "Volume, price and mix",
+      "text": "Volume is how much is sold. Price is what is charged. Mix is which products and formats make up sales. Each can change sales in a different way, so a rise in sales does not by itself say which one moved."
+    }
+  ],
+  "stepsTitle": "From the field and factory to the shop.",
+  "steps": [
+    {
+      "title": "Buy crops and materials",
+      "text": "ITC buys agricultural produce, some for business customers and some as ingredients for its own foods. Its other businesses buy wood, pulp, energy and other materials."
+    },
+    {
+      "title": "Make the goods",
+      "text": "Factories turn ingredients into branded foods and other consumer goods, and turn paper into packs. Quality checks happen along the way."
+    },
+    {
+      "title": "Pack and supply",
+      "text": "ITC’s packaging business supplies packs to its own consumer businesses and to outside companies. Goods then move to distributors, shops and online sellers."
+    },
+    {
+      "title": "Sell to an outside customer",
+      "text": "A shop, household or business buys the product. Only a sale to someone outside ITC counts as company revenue; moving goods between ITC’s own businesses does not."
+    },
+    {
+      "title": "Collect payment and cover costs",
+      "text": "Buyers pay ITC under agreed terms. The money must cover materials, factories, staff, transport, advertising and taxes before anything is left as profit. Profit and cash collected are different things."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "One group can be both supplier and brand owner",
+      "text": "ITC buys crops, supplies some of them to its own foods business, and packs foods in its own packaging. Shared skills between businesses may save costs or improve quality, but you still need evidence that the connection pays off."
+    },
+    {
+      "title": "Adding segment sales can count the same work twice",
+      "text": "When one ITC business supplies another, segment figures can record that internal supply. ITC deducts these inter-segment sales to reach its sales to outside customers, so simply adding every segment overstates the total."
+    },
+    {
+      "title": "Popularity, profit and cash answer different questions",
+      "text": "A familiar food brand may sell well, but sales do not show its costs. A segment result groups many brands and is not the profit of any one brand. Cash can be tied up in stock, unpaid bills and new factories even when profit is reported."
+    },
+    {
+      "title": "Hotels are now a separate company",
+      "text": "The hotel business was separated into ITC Hotels, a separate listed company that ITC identifies as an associate, meaning ITC has significant influence over it but does not control it. Hotel sales are not part of ITC’s own segment table."
+    }
+  ],
+  "watch": [
+    [
+      "What is happening to the cigarette business?",
+      "Quantities, prices and tax changes can tell different stories about the same sales figure.",
+      "Read the cigarette business commentary with its segment result. Where quantities are disclosed, separate them from selling-price changes. Compare revenue on the stated tax basis, because a higher tax component can lift gross sales without the same rise in demand or earnings."
+    ],
+    [
+      "Are the other consumer businesses building profitable demand?",
+      "Food, personal-care and stationery sales must cover ingredients, factories, distribution and brand-building.",
+      "Use the FMCG – Other products segment and its category commentary. Follow sales and the segment result together across comparable periods. The segment bundles many brands, so its result is not the profit of Aashirvaad, Classmate or any single brand."
+    ],
+    [
+      "Where are paper and packaging in their cycle?",
+      "Selling prices and demand may not keep up with wood, pulp, energy and factory costs.",
+      "Read the paper and packaging review alongside segment results, selling prices, input costs and how much of the factories’ capacity is used, where disclosed. Imported supply and competing capacity can move prices. Compare the same period rather than a full year with a seasonal quarter."
+    ],
+    [
+      "How does buying crops turn into cash?",
+      "Crops must be bought and paid for before the final sale is collected.",
+      "Read the agri review for crop conditions, sourcing, customer demand and trade disruptions. Then look at stock, money customers still owe and operating cash flow. Higher commodity prices can raise revenue without more quantity sold or more profit."
+    ],
+    [
+      "What is ITC doing with the cash its businesses make?",
+      "Money can go into factories, acquisitions or payments to shareholders, and each choice should earn its keep.",
+      "Start with operating cash flow, then read investment spending and acquisition notes. Ask what each investment cost, how it is expected to earn and what later results show. Do not assume a new brand or factory is succeeding just because ITC can pay for it."
+    ]
+  ],
+  "risks": [
+    [
+      "Dependence on a regulated tobacco business",
+      "Changes in tobacco taxes, restrictions, consumer demand or illegal competition can affect cigarette sales and earnings."
+    ],
+    [
+      "More consumer brands do not automatically mean more profit",
+      "Ingredients, advertising, distribution, competition and new launches cost money, and a growing range can take time to earn enough."
+    ],
+    [
+      "Paper and crop prices move against the business",
+      "Selling prices, harvests, wood and energy costs need not move together. A factory or a stock of crops can absorb cash in a weak period."
+    ],
+    [
+      "Investments do not deliver",
+      "Factories, acquisitions and new categories need spending before they earn. Later results may not support the original case."
+    ],
+    [
+      "A headline figure hides a change in scope",
+      "Tax changes, acquisitions, internal sales and the hotel separation can make comparisons between years misleading."
+    ]
+  ],
+  "context": [
+    "August 2026: a proposed deal could change how ITC Infotech is owned",
+    "On 31 August 2026, ITC Infotech announced a plan to buy about 22.1% of Happiest Minds Technologies from its founding controlling shareholders and then merge Happiest Minds into ITC Infotech, whose own shares would then be listed on stock exchanges. The deal still needs shareholder, regulator, exchange and tribunal approvals, which the companies expected to take up to 15 months. A proposal is not a completed purchase."
+  ],
+  "sources": [
+    [
+      "ITC business profile",
+      "https://itcportal.com/about-itc/our-profile.html"
+    ],
+    [
+      "ITC FMCG businesses",
+      "https://itcportal.com/itc-businesses/fmcg.html"
+    ],
+    [
+      "ITC cigarettes business",
+      "https://itcportal.com/itc-businesses/fmcg/cigarette.html"
+    ],
+    [
+      "Agricultural products and sourcing",
+      "https://itcportal.com/itc-businesses/agri-business.html"
+    ],
+    [
+      "Paperboards and specialty papers",
+      "https://itcportal.com/itc-businesses/paperboards-and-specialty-papers.html"
+    ],
+    [
+      "Packaging and printing",
+      "https://itcportal.com/itc-businesses/packaging.html"
+    ],
+    [
+      "ITC Infotech business",
+      "https://itcportal.com/itc-businesses/Information-Technology.html"
+    ],
+    [
+      "Group companies and hotel relationship",
+      "https://itcportal.com/itc-businesses/group-companies.html"
+    ],
+    [
+      "ITC Infotech and Happiest Minds proposed combination · 31 August 2026",
+      "https://www.itcinfotech.com/news-and-updates/strategic-combination-of-itc-infotech-and-happiest-minds-technologies-to-create-a-scaled-future-ready-ai-first-global-technology-services-enterprise-with-us-1-billion-revenue-by-fy28/"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "These are ITC Limited’s own figures",
+      "text": "The table covers ITC Limited on a standalone basis for FY 2025–26. It does not show ITC Infotech’s sales as a separate business, and its Other businesses row is not a shortcut for that subsidiary. For the wider group, read the consolidated accounts and the subsidiary’s own accounts."
+    },
+    {
+      "title": "Segment result is not profit after tax",
+      "text": "The table uses each segment’s reported result before interest and tax. Company profit also includes items outside the segments, interest and tax. A segment’s share of the combined result is not a product margin or a shareholder’s return."
+    },
+    {
+      "title": "What to read next",
+      "text": "Read operating cash flow, stock, money customers still owe, investment spending and acquisition notes. These connect the earnings to the cash needed to run and expand the businesses."
+    }
+  ],
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "ITC sells packaged foods, personal-care goods, stationery and cigarettes. It also supplies crops, paper and packaging to other businesses, and owns a technology-services company."
+    },
+    {
+      "title": "Who pays",
+      "text": "Shops and distributors buy ITC’s consumer goods and resell them to households. Other companies buy crops, paper, packaging and technology work."
+    },
+    {
+      "title": "How it earns",
+      "text": "By selling goods to shops, distributors and business buyers. ITC Infotech earns fees for technology work. Each business keeps a different amount after its costs."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Crops and raw materials, factories, employees, moving stock, advertising and taxes."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Many different businesses",
+      "text": "Consumer goods, cigarettes, crops, paper and packaging, and technology services depend on different customers and conditions, so ITC is not tied to one market."
+    },
+    {
+      "title": "Its businesses supply each other",
+      "text": "ITC buys crops for its own foods and makes packaging for its own products. Shared skills may save costs or improve quality, though that needs evidence in the results."
+    },
+    {
+      "title": "Familiar everyday brands",
+      "text": "Aashirvaad, Sunfeast, Bingo!, Classmate and Savlon are bought again and again by households through shops and online sellers."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Tobacco taxes and rules",
+      "text": "Cigarettes are a separately reported business. Changes in tobacco taxes, restrictions, demand or illegal competition can affect sales and earnings."
+    },
+    {
+      "title": "New brands cost money first",
+      "text": "Ingredients, advertising, distribution and new launches cost money, and a growing range of consumer brands can take time to earn enough."
+    },
+    {
+      "title": "Paper and crop prices swing",
+      "text": "Selling prices, harvests, wood and energy costs need not move together, and stock or factories can absorb cash in a weak period."
+    },
+    {
+      "title": "Hard to compare years",
+      "text": "Tax changes, acquisitions, internal sales and the separation of the hotels can make simple year-on-year comparisons misleading."
+    }
+  ],
+  "checked": "31 October 2026"
+}

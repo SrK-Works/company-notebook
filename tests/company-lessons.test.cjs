@@ -5,16 +5,18 @@ const c={};c.window=c;vm.createContext(c);
 const completed=['itc','nestle-india','britannia','marico','avenue-supermarts'];
 for(const f of ['company-data','overviews','research-guides','financial-data','hul-primer','itc-primer','nestle-primer','britannia-primer','marico-primer','dmart-primer'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
 const baseline=JSON.parse(JSON.stringify(c.COMPANY_FINANCIALS));
-const earlier=JSON.stringify(c.COMPANIES.filter(x=>completed.includes(x.id)));
 const output=completed.flatMap(id=>['basics','specifics','numbers'].map(slot=>c.companyPrimer.render(c.COMPANIES.find(x=>x.id===id),slot)));
 for(const f of ['profile-lessons','company-lessons'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
-test('all remaining companies have individually written lessons and the previous five primers remain intact',()=>{
+test('every company has a lesson, and the five older primers still supply their checked figure walkthroughs',()=>{
  const lessonFiles=fs.readdirSync('content/company-lessons').filter(f=>f.endsWith('.json'));
  assert.equal(Object.keys(c.COMPANY_LESSONS).length,lessonFiles.length,'every lesson file is built into the site');
- assert.deepEqual(Object.keys(c.COMPANY_LESSONS).sort(),Array.from(c.COMPANIES.filter(x=>!completed.includes(x.id)),x=>x.id).sort());
- assert.equal(JSON.stringify(c.COMPANIES.filter(x=>completed.includes(x.id))),earlier);
- assert.deepEqual(completed.flatMap(id=>['basics','specifics','numbers'].map(slot=>c.companyPrimer.render(c.COMPANIES.find(x=>x.id===id),slot))),output);
+ assert.deepEqual(Object.keys(c.COMPANY_LESSONS).sort(),[...c.COMPANIES.map(x=>x.id)].sort(),'every company has a lesson');
+ // The lessons replace the primers' text; the primers' verified number walkthroughs are kept unchanged.
+ const numbers=completed.map(id=>output[completed.indexOf(id)*3+2]);
+ assert.deepEqual([...completed.map(id=>c.companyPrimer.olderNumbers(c.COMPANIES.find(x=>x.id===id)))],[...numbers]);
+ for(const n of numbers)assert.ok(n.length>200);
  for(const [id,f]of Object.entries(baseline))assert.deepEqual(JSON.parse(JSON.stringify(c.COMPANY_FINANCIALS[id])),f,id);
+ for(const id of completed){const co=c.COMPANIES.find(x=>x.id===id),l=c.COMPANY_LESSONS[id];assert.equal(co.summary,l.summary,id);assert.equal(l.layout,'short',id)}
 });
 test('new lessons have sources, practical mechanics and distinct investigation instructions',()=>{
  const guides=[];

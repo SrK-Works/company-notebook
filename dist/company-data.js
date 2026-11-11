@@ -259,8 +259,6 @@ window.COMPANIES = [
     "color": "#24407d",
     "bg": "#eaf0fc",
     "tag": "Look beyond the familiar brand",
-    "summary": "Foods, personal care and stationery sit alongside cigarettes, paper, packaging and agricultural businesses.",
-    "description": "ITC operates across fast-moving consumer goods, paperboards and packaging, agriculture and information technology. Its familiar food brands are only one part of the company, and cigarettes remain an important business to study separately.",
     "products": [
       [
         "Aashirvaad",
@@ -509,45 +507,8 @@ window.COMPANIES = [
     ],
     "productSource": "https://itcportal.com/itc-businesses/fmcg.html",
     "productNote": "Major brands and business offerings named in ITC’s official portfolio as reviewed in October 2026. This groups product families rather than every flavour, variant or pack size. Tobacco brands are included for company-ownership research; tobacco use causes serious harm and this listing is not a product endorsement.",
-    "money": "Consumer purchases support its FMCG businesses, while the paper, packaging, agriculture and technology divisions sell products and services to business customers. Cigarettes and other FMCG products have different economics, so study their sales and profit contributions separately before assessing the group.",
     "ownership": "This page covers ITC Limited. ITC Hotels became a separately listed company after the hotel business demerger, so hotel brands are not included here. Acquired consumer brands may operate through subsidiaries. Tobacco brands are listed to show the company’s business exposure, not to promote their use.",
-    "watch": [
-      [
-        "Segment profit",
-        "Which activities contribute earnings, rather than just sales?"
-      ],
-      [
-        "Cigarette volumes and taxes",
-        "How do legal cigarette volumes, excise duties and regulation affect the segment?"
-      ],
-      [
-        "Consumer-goods margins",
-        "Can newer categories cover manufacturing, distribution and advertising costs?"
-      ]
-    ],
-    "risks": [
-      [
-        "Tobacco regulation",
-        "Taxes, health rules and restrictions can affect cigarette demand and economics."
-      ],
-      [
-        "Commodity exposure",
-        "Agricultural inputs and paper-related costs can fluctuate."
-      ],
-      [
-        "Brand competition",
-        "Building food and personal-care brands requires sustained investment."
-      ]
-    ],
     "sources": [
-      [
-        "ITC business profile",
-        "https://itcportal.com/about-itc/our-profile.html"
-      ],
-      [
-        "Complete FMCG portfolio",
-        "https://itcportal.com/itc-businesses/fmcg.html"
-      ],
       [
         "Packaged foods portfolio",
         "https://itcportal.com/itc-businesses/fmcg/food.html"
@@ -555,10 +516,6 @@ window.COMPANIES = [
       [
         "Personal care portfolio",
         "https://itcportal.com/itc-businesses/fmcg/Personal-care.html"
-      ],
-      [
-        "Cigarette brand portfolio",
-        "https://itcportal.com/itc-businesses/fmcg/cigarette.html"
       ],
       [
         "Education and stationery portfolio",
@@ -569,12 +526,6 @@ window.COMPANIES = [
         "https://itcportal.com/itc-businesses/fmcg/safety-matches.html"
       ]
     ],
-    "update": [
-      "Portfolio expanded across every major category",
-      "The notebook now covers ITC’s major food, personal-care, stationery, incense, match and tobacco brands, along with its business-to-business offerings."
-    ],
-    "question": "Can you judge ITC by the popularity of one biscuit or cigarette brand?",
-    "answer": "No. A familiar brand is only one part of a diversified company. The sales, profit, cash generation and risks of each business segment also matter.",
     "logo": "assets/logos/itc.png"
   },
   {
@@ -586,8 +537,6 @@ window.COMPANIES = [
     "color": "#75553d",
     "bg": "#f6efe7",
     "tag": "From the kitchen to the company",
-    "summary": "The Indian food and beverage business behind MAGGI, NESCAFÉ and MILKMAID.",
-    "description": "Nestlé India manufactures and sells food and beverage products under established brands. Its customers encounter the products in retail stores and other sales channels.",
     "products": [
       [
         "MAGGI Noodles",
@@ -714,41 +663,8 @@ window.COMPANIES = [
         "Infant and child nutrition"
       ]
     ],
-    "money": "It earns sales from packaged food and beverages. Revenue growth can come from selling more, changing prices or selling a different mix of products.",
     "ownership": "Nestlé India Limited is the Indian listed company. The worldwide Nestlé group has a broader portfolio; global brand ownership does not imply that every global product is sold by Nestlé India.",
-    "watch": [
-      [
-        "Sales volume",
-        "Is demand growing beyond the effect of price changes?"
-      ],
-      [
-        "Input costs",
-        "How are coffee, milk and other ingredient costs changing?"
-      ],
-      [
-        "Distribution",
-        "Can products reach more customers while remaining profitable?"
-      ]
-    ],
-    "risks": [
-      [
-        "Food quality",
-        "Quality problems can damage trust and disrupt sales."
-      ],
-      [
-        "Ingredient inflation",
-        "Higher costs may be difficult to pass on to customers."
-      ],
-      [
-        "Consumer preferences",
-        "Changes in tastes and spending affect product demand."
-      ]
-    ],
     "sources": [
-      [
-        "Nestlé India at a glance",
-        "https://www.nestle.in/about-us/at-a-glance"
-      ],
       [
         "Coffee portfolio",
         "https://www.nestle.in/brands/coffee"
@@ -758,15 +674,20 @@ window.COMPANIES = [
         "https://www.nestle.in/sites/g/files/pydnoa451/files/2025-10/PressReleaseQ2FY2025-26.pdf"
       ]
     ],
-    "update": [
-      "Read India-specific disclosures",
-      "Use the Indian company’s releases when researching these shares; global group results cover a different business perimeter."
-    ],
-    "question": "Is buying Nestlé India the same as owning the entire global Nestlé business?",
-    "answer": "No. Your shares are in the Indian listed entity. Its operations, financial results and ownership relationships must be evaluated separately.",
     "productSource": "https://www.nestle.in/info/sitemap",
     "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
-    "logo": "assets/logos/nestle-india.png"
+    "logo": "assets/logos/nestle-india.png",
+    "aliases": [
+      "BAR-ONE",
+      "CERELAC",
+      "KITKAT",
+      "MILKYBAR",
+      "MUNCH",
+      "NAN",
+      "NESPRESSO",
+      "NESTEA",
+      "POLO"
+    ]
   },
   {
     "id": "britannia",
@@ -777,8 +698,6 @@ window.COMPANIES = [
     "color": "#b52d3c",
     "bg": "#fff0f1",
     "tag": "A familiar place to begin",
-    "summary": "A packaged-food company whose products range from biscuits to bread and dairy.",
-    "description": "Britannia sells packaged foods across biscuits, dairy, bread, rusks, cakes and snacking. Recognisable brands help explain what shoppers buy, while the financial reports explain the business.",
     "products": [
       [
         "Good Day",
@@ -853,41 +772,8 @@ window.COMPANIES = [
         "Yoghurt"
       ]
     ],
-    "money": "Revenue comes from selling food products through its distribution channels. Ingredient prices, packaging, manufacturing and the mix of products sold affect earnings.",
     "ownership": "The listed company is Britannia Industries Limited. Product brands are not separate listed stocks. Use consolidated disclosures when studying the group as a whole.",
-    "watch": [
-      [
-        "Volume growth",
-        "Are consumers buying more packs?"
-      ],
-      [
-        "Gross and operating margins",
-        "How much is left after ingredients and running costs?"
-      ],
-      [
-        "Distribution reach",
-        "Can additional sales channels produce sustainable growth?"
-      ]
-    ],
-    "risks": [
-      [
-        "Ingredient costs",
-        "Wheat, sugar, milk and edible-oil prices can affect profitability."
-      ],
-      [
-        "Pricing pressure",
-        "Affordable alternatives limit how much prices can rise."
-      ],
-      [
-        "Execution",
-        "Expanding food categories and distribution costs money and requires consistent quality."
-      ]
-    ],
     "sources": [
-      [
-        "Britannia official portfolio",
-        "https://www.britannia.co.in/"
-      ],
       [
         "NutriChoice range",
         "https://www.britannia.co.in/product/nutrichoice"
@@ -897,12 +783,6 @@ window.COMPANIES = [
         "https://www.britannia.co.in/article/talented-s-latest-for-britannia-good-day-doesn-t-show-the-biscuit-or-does-it"
       ]
     ],
-    "update": [
-      "Explore beyond biscuits",
-      "The official product categories also include dairy, bread, rusk, cakes and snacking."
-    ],
-    "question": "Why might a company sell more packs but earn less profit?",
-    "answer": "Ingredient costs, discounts, advertising or a shift toward cheaper products can offset the benefit of selling more.",
     "productSource": "https://www.britannia.co.in/",
     "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
     "logo": "assets/logos/britannia.png"
@@ -916,8 +796,6 @@ window.COMPANIES = [
     "color": "#177657",
     "bg": "#e9f7ef",
     "tag": "Brands hiding in plain sight",
-    "summary": "The consumer-goods business associated with Parachute, Saffola and Livon.",
-    "description": "Marico markets consumer products including coconut oils, edible oils, foods and personal-care products. The India brand directory is a useful starting point for connecting products to the company.",
     "products": [
       [
         "Parachute",
@@ -1048,48 +926,8 @@ window.COMPANIES = [
         "Hair care · international"
       ]
     ],
-    "money": "It earns money from consumer-product sales. Pricing, demand, product mix and the cost of ingredients influence the earnings left after operating expenses.",
     "ownership": "This profile covers Marico Limited. Brand relationships can include different commercial arrangements; use the company’s own brand directory rather than assuming all associations mean full ownership.",
-    "watch": [
-      [
-        "Volume growth",
-        "How much growth comes from increased consumption?"
-      ],
-      [
-        "Commodity costs",
-        "What is happening to key oil and ingredient prices?"
-      ],
-      [
-        "New categories",
-        "Are newer brands adding profitable sales?"
-      ]
-    ],
-    "risks": [
-      [
-        "Input volatility",
-        "Oil and ingredient costs can move sharply."
-      ],
-      [
-        "Brand dependence",
-        "Weakness in an important category can affect overall performance."
-      ],
-      [
-        "Expansion costs",
-        "New categories can require advertising before they earn meaningful profit."
-      ]
-    ],
-    "sources": [
-      [
-        "Marico India brand directory",
-        "https://marico.com/india/brands"
-      ]
-    ],
-    "update": [
-      "Check the brand relationship",
-      "Marico’s directory distinguishes some commercial rights from straightforward ownership. Read the relationship before mapping a brand."
-    ],
-    "question": "Does a company marketing a brand always mean it owns that brand?",
-    "answer": "No. A company may have sales, distribution or licensing rights. The specific commercial relationship matters.",
+    "sources": [],
     "productSource": "https://marico.com/india/about-us",
     "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
     "logo": "assets/logos/marico.svg"
@@ -1103,8 +941,6 @@ window.COMPANIES = [
     "color": "#287b43",
     "bg": "#edf8f0",
     "tag": "The company behind the store",
-    "summary": "A retail business operating DMart stores for food, household goods, apparel and general merchandise.",
-    "description": "Avenue Supermarts owns and operates DMart stores. The retailer sells everyday products across food, non-food consumer goods and general merchandise through physical stores and related channels.",
     "products": [
       [
         "DMart stores",
@@ -1179,52 +1015,13 @@ window.COMPANIES = [
         "Retail category"
       ]
     ],
-    "money": "Retail sales depend on customer visits, basket size, store count and prices. Gross margin is typically thin, so inventory management, property costs, supply chains and operating efficiency matter.",
     "ownership": "Avenue Supermarts Limited is the listed company behind DMart. Individual brands sold in its stores usually belong to suppliers; stocking a brand does not mean DMart owns it.",
-    "watch": [
-      [
-        "Same-store growth",
-        "Are established stores attracting more spending?"
-      ],
-      [
-        "Store expansion",
-        "Can new locations grow without weakening returns?"
-      ],
-      [
-        "Inventory and margins",
-        "How efficiently does stock move while prices remain competitive?"
-      ]
-    ],
-    "risks": [
-      [
-        "Retail competition",
-        "Other stores and online platforms compete on price and convenience."
-      ],
-      [
-        "Expansion execution",
-        "New stores require property, inventory and local demand."
-      ],
-      [
-        "Low margins",
-        "Small changes in costs or discounts can materially affect profit."
-      ]
-    ],
     "sources": [
-      [
-        "DMart company overview",
-        "https://www.dmartindia.com/about-us"
-      ],
       [
         "Avenue Supermarts FY 2024–25 release",
         "https://api.dmartindia.com/corporate/content/file/v1/2/TDI1kRsO5MBfKRlbTLg2EVNq1746272142/Press%20release%20dated%203rd%20May%2C%202025.pdf"
       ]
     ],
-    "update": [
-      "The products on the shelf are usually suppliers’ brands",
-      "DMart earns as a retailer by buying, stocking and selling goods efficiently. A popular item does not become a DMart-owned brand merely because it is sold there."
-    ],
-    "question": "Why can a retailer with low profit margins still build a substantial business?",
-    "answer": "High sales volumes, fast inventory movement and disciplined costs can produce meaningful total profit even when only a small amount remains from each rupee of sales.",
     "productSource": "https://canary.dmartindia.com/",
     "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
     "logo": "assets/logos/avenue-supermarts.svg"
