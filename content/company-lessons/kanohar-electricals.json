@@ -24,7 +24,7 @@
     {
       "title": "Building parts of the network",
       "examples": "Substation and transmission-related project work.",
-      "explanation": "The customer may ask Kanohar to arrange design, equipment purchases and construction, rather than buy a transformer alone. This combined responsibility is called engineering, procurement and construction, often shortened to EPC."
+      "explanation": "The customer may ask Kanohar to arrange design, equipment purchases and construction, rather than buy a transformer alone. This combined job is called engineering, procurement and construction (EPC): Kanohar designs the substation or power line, buys the parts, builds it and hands it over working."
     }
   ],
   "basics": [
@@ -102,7 +102,7 @@
       "A few major orders or customers can make production and payments uneven."
     ],
     [
-      "Materials or execution cost more",
+      "Materials or project work cost more",
       "Dearer metals, supplier problems, failed tests or site delays can reduce what remains from an order."
     ],
     [
@@ -115,8 +115,8 @@
     ]
   ],
   "context": [
-    "Listed in September 2026; quarterly reports have only just started",
-    "Kanohar’s shares began trading on 16 September 2026. Its offer combined new shares issued by the company, whose money goes to Kanohar, with existing shares sold by current owners, whose money goes to those sellers. Being listed also means it now publishes results every three months. The first, for April to June 2026, was approved on 6 October 2026, and the company itself notes that some earlier comparison quarters were not reviewed by its auditor. With so few published quarters, a single three-month period can mislead: transformer orders are large and uneven, so check deliveries and payments over several periods."
+    "November 2026: the second quarterly report as a listed company",
+    "Kanohar’s shares began trading on 16 September 2026. Its second set of quarterly results, released on 2 November 2026 for July–September 2026, shows revenue more than double that of a year earlier. The company says the growth came from more transformers, especially larger, higher-voltage ones and shunt reactors, while construction projects made up a smaller share of sales. The company also notes that some earlier comparison quarters were not reviewed by its auditor. With so few published quarters, a single three-month period can mislead: transformer orders are large and uneven, so check deliveries and payments over several periods."
   ],
   "sources": [
     [
@@ -129,11 +129,15 @@
     ],
     [
       "Audited financial statements and joint-operation scope",
-      "https://www.kanohar.com/Asset/newkanweb/Audited_Financial_Statements_25-26.pdf"
+      "https://www.kanohar.com/Asset/newkanweb/Audited_Fiancial_Statements_25-26.pdf"
     ],
     [
       "June 2026 quarter results notes: listing on 16 September 2026 and single power-system segment · approved 6 October 2026",
       "https://beta.bseindia.com/XBRLFILES/IFIndasDuplicateUploadDocument/Integrated_Finance_Ind_As_544911_61020262147_IFIndAs.html"
+    ],
+    [
+      "July–September 2026 results press release · 2 November 2026",
+      "https://www.kanohar.com/Asset/newkanweb/Intimations_for_Press_Release_Q2.pdf"
     ]
   ],
   "financialNotes": [
@@ -146,12 +150,12 @@
       "text": "Read the joint-operation policy, equipment and project revenue recognition and cash-flow statement with the totals. Contract value, backlog, customer advances, recognised sales and profit are different measures and must not be added together."
     }
   ],
-  "checked": "31 October 2026",
+  "checked": "11 November 2026",
   "stepsTitle": "From an order to accepted equipment.",
   "quick": [
     {
       "title": "What it does",
-      "text": "Kanohar makes electrical equipment such as transformers, which change electricity to the right voltage, and helps build substations and connections that carry power where it is needed."
+      "text": "Kanohar builds transformers, large machines that change electricity to the right voltage, in its factory in Meerut. It also builds substations and power lines for customers."
     },
     {
       "title": "Who pays",
@@ -159,43 +163,39 @@
     },
     {
       "title": "How it earns",
-      "text": "Customers pay for equipment or an agreed construction project, usually after the work is delivered and accepted."
+      "text": "Customers pay for each piece of equipment or for an agreed construction project, on the payment terms set in the contract."
     },
     {
       "title": "What it spends on",
-      "text": "Metals such as copper and electrical steel, other parts, engineers, factory workers, testing, delivery and any site work. Materials are often paid for before the customer pays."
+      "text": "Metals such as copper and electrical steel and other parts, engineers, factory workers, testing, delivery and any site work. Materials are often bought long before the customer pays."
     }
   ],
   "helps": [
     {
       "title": "Equipment and building work",
-      "text": "Kanohar can supply the equipment and also help build substations and connections, so it can take on more of a project."
+      "text": "Kanohar’s website shows it can supply transformers and also design and build substations and power lines, so it can take on more of a project."
     },
     {
       "title": "Different kinds of buyer",
-      "text": "Utilities, railways, infrastructure bodies, factories and contractors all need equipment to move electricity."
+      "text": "Kanohar says it serves power transmission, railways, renewable energy and power distribution. In April–September 2026 a device that steadies voltage on lines carrying renewable power (the shunt reactor) grew from almost nothing to about a fifth of its revenue."
     },
     {
-      "title": "Contracts can pass on metal costs",
-      "text": "Some contracts let the buyer pay more if metal prices rise after the price is agreed. The terms of each contract decide this."
+      "title": "Orders already won",
+      "text": "Kanohar’s 2 November 2026 release says it won new orders during the quarter, and that its order book, work won but not yet delivered, is to be delivered over the next 24 to 30 months. It is not revenue until the equipment is delivered."
     }
   ],
   "hurts": [
     {
-      "title": "A large buyer delays work",
-      "text": "A few big orders or customers can make production and payments uneven."
+      "title": "Large orders make results uneven",
+      "text": "Each order is large, so what Kanohar sells can swing between periods. Traction transformers, one type used by railways, made up about 4 per cent of sales in April–September 2025 and none in the same months of 2026."
     },
     {
-      "title": "Materials or work cost more",
-      "text": "Dearer metals, supplier problems, failed tests or site delays can reduce what is left from an order."
+      "title": "Materials are the biggest cost",
+      "text": "Its first quarterly results as a listed company show that materials cost far more than staff or any other expense. Dearer metals reduce what is left from an order unless the contract lets Kanohar pass the cost on."
     },
     {
       "title": "Cash stays tied up",
-      "text": "Materials, finished equipment and unpaid customer bills can all need extra funding."
-    },
-    {
-      "title": "Obligations continue after delivery",
-      "text": "Defects, promised repairs, guarantees and contract disputes can add costs later."
+      "text": "In April–June 2026 the value of materials and unfinished equipment held by Kanohar rose sharply. Stock that is waiting to be finished and paid for needs funding."
     }
   ]
 }

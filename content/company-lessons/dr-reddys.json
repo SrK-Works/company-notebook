@@ -132,21 +132,21 @@
     ],
     [
       "Lenalidomide decline, base business and semaglutide quality issue · results presentation 23 October 2026",
-      "https://www.bseindia.com/xml-data/corpfiling/AttachLive/3787a62c-6056-45bf-a566-3851ca03f88c.pdf"
+      "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3787a62c-6056-45bf-a566-3851ca03f88c.pdf"
     ]
   ],
   "financialNotes": [
     {
       "title": "Keep the source segment definitions",
-      "text": "The table follows the audited IFRS segment note and shows external revenue with segment gross profit. Gross profit still has to cover research, selling and other later costs; it is not segment net profit. Internal PSAI sales are excluded from the displayed revenue, and geographical or therapeutic sales must not be added to it as separate businesses."
+      "text": "The table follows the audited segment note prepared under International Financial Reporting Standards (IFRS) and shows external revenue with segment gross profit. Gross profit still has to cover research, selling and other later costs; it is not segment net profit. Sales between its own businesses, such as ingredients sold by its Pharmaceutical Services and Active Ingredients (PSAI) segment to its medicine business, are excluded from the displayed revenue. Geographical or therapeutic sales must not be added to it as separate businesses."
     }
   ],
-  "checked": "31 October 2026",
+  "checked": "11 November 2026",
   "stepsTitle": "From a medicine’s development to the payment.",
   "quick": [
     {
       "title": "What it does",
-      "text": "Dr. Reddy’s makes finished medicines, ingredients that other medicine makers use, and consumer-health products. It also does research and manufacturing work for other drug companies."
+      "text": "Dr. Reddy’s makes medicines, mostly cheaper copies of medicines whose patents have ended (generics), and the chemical ingredients that go into medicines. It also makes consumer-health products and does research and manufacturing work for other drug companies."
     },
     {
       "title": "Who pays",
@@ -154,7 +154,7 @@
     },
     {
       "title": "How it earns",
-      "text": "By selling medicines and ingredients, and from fees in agreements for research or manufacturing work. Some agreements pay in stages, when agreed tasks are completed."
+      "text": "It sells medicines and ingredients, and charges fees for research or manufacturing work done for other companies. Some of those agreements pay in stages, as agreed tasks are completed."
     },
     {
       "title": "What it spends on",
@@ -164,33 +164,33 @@
   "helps": [
     {
       "title": "Several ways to earn",
-      "text": "Finished medicines, ingredients for other makers, research and manufacturing services, and consumer-health products earn from different customers."
+      "text": "Its October 2026 results presentation shows sales in North America, Europe, India and other emerging countries, plus ingredients and services sold to other drug makers. Branded medicines, mainly in India and other emerging countries, made up about half of revenue."
     },
     {
-      "title": "A new generic medicine can sell strongly",
-      "text": "A generic is a copy of a medicine whose patent has ended. A successful launch, before many rivals arrive, can earn well for a time."
+      "title": "New products approved",
+      "text": "In July–September 2026 it won US approval for a near-copy of a biological medicine (a rituximab biosimilar), launched another biosimilar in India and had its generic semaglutide approved in several countries."
     },
     {
-      "title": "Buying products adds customers",
-      "text": "An acquired range of products can bring new customers and markets faster than developing every product itself."
+      "title": "The rest of the business is growing",
+      "text": "Sales excluding its fading lenalidomide product grew by double digits from a year earlier in most of its markets, the presentation says."
     }
   ],
   "hurts": [
     {
-      "title": "Generic prices fall",
-      "text": "More competing versions, or a large buyer changing suppliers, can reduce sales from important products."
+      "title": "A big generic fades",
+      "text": "Total sales in July–September 2026 were slightly lower than a year earlier because sales of lenalidomide, a large generic cancer medicine in the US, fell."
     },
     {
-      "title": "Quality or supply problems",
-      "text": "Factory inspection findings, restrictions or shortages of ingredients can interrupt sales and launches."
+      "title": "Quality problems",
+      "text": "Some batches of its semaglutide ingredient failed their quality standard, and US Food and Drug Administration inspections of two of its Indian sites in July and August 2026 produced written findings (Form 483), which it says it has answered."
     },
     {
       "title": "Research may not lead to a sale",
-      "text": "Testing, permissions or demand may fail to support the money spent developing a product."
+      "text": "It spends a steady share of revenue on research every quarter. Testing, approvals or demand may fail to repay the money spent developing a product."
     },
     {
-      "title": "Acquisitions and overseas business bring other costs",
-      "text": "Integrating bought products, disputes over patents and exchange-rate changes can affect earnings and cash."
+      "title": "Some markets grew slowly",
+      "text": "The presentation says its base business grew by double digits everywhere except Europe and its ingredients business."
     }
   ]
 }
