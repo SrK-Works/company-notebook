@@ -11,3 +11,6 @@ content/drafts/
 dist/company-data.js
 dist/profile-lessons.js
 dist/financial-expansion.js
+
+# Temporary copies of the repository used by agents working in parallel
+.claude/worktrees/

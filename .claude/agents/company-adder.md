@@ -20,6 +20,14 @@ For each company you are given:
 - Do not change existing companies, anything in `dist/` other than new image files and `sources.json`, or anything in `scripts/` or `tests/`.
 - Check the company's current listing on NSE before adding it. Use the exact legal name and ticker.
 
+## Tools: use TinyFish
+
+Load the TinyFish tools with ToolSearch (for example `select:mcp__claude_ai_TinyFish__fetch_content,mcp__claude_ai_TinyFish__search`).
+- `fetch_content` reads up to 10 pages at once, including PDFs and JavaScript-heavy pages. `search` finds filings and pages. Both cost almost nothing: use them freely.
+- `run_web_automation` drives a real browser for sites that block plain reading, such as NSE and BSE announcement pages. It costs $0.016 per step, so keep each run short and stay within the budget you were given.
+- Deep research ($2–3 per run) and datasets ($0.10 per row) only when the task says so.
+- The drafting script reads `TINYFISH_API_KEY` from the environment for its own fallback fetches. Load it from the repository's `.env`, and never print or commit it.
+
 ## How to work
 
 - Work in batches of three to five companies. For each batch: create a branch from the latest `main` (`companies/<short-name>`), add the files, run `npm test` and `node scripts/check-lessons.cjs <ids>`. Both must pass with 0 errors. Then look at each new page in a browser (`npm run serve`, then open `http://localhost:8765/#/company/<id>`) and confirm the pictures load.
