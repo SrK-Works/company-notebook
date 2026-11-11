@@ -22,8 +22,8 @@
     },
     {
       "title": "Reusable software offerings",
-      "examples": "TCS BaNCS, TCS iON and other products or platforms.",
-      "explanation": "A platform is a reusable software base that can be set up for different customers. The contract determines payment for its use, setup or support. A product name does not tell us its separately reported profit."
+      "examples": "TCS BaNCS, TCS iON and other ready-made software products.",
+      "explanation": "Instead of writing new software for every customer, TCS also sells software it has already built and sets it up for each customer. The contract decides what the customer pays for using it, setting it up or getting support. A product name does not tell us its separately reported profit."
     }
   ],
   "basics": [
@@ -111,7 +111,7 @@
   ],
   "context": [
     "A customer’s own technology team can move to TCS",
-    "On 1 October 2026 TCS announced an agreement under which Best Buy’s technology centre in India, and its employees, will move to TCS. A capability centre of this kind is an office a company runs for its own technology work. After the move, the work for Best Buy continues under a multi-year agreement with TCS instead of being done by Best Buy’s own staff. In August 2026 TCS also announced a five-year deal with Porsche that includes buying MHP, Porsche’s consulting subsidiary, subject to regulatory approval. Taking over a team brings work but also wages, offices and the job of keeping the customer satisfied. An announced agreement is not yet completed, earned or paid work."
+    "On 1 October 2026 TCS announced an agreement under which Best Buy’s technology centre in India, and its employees, will move to TCS. A capability centre of this kind is an office a company runs for its own technology work. After the move, the work for Best Buy continues under a multi-year agreement with TCS instead of being done by Best Buy’s own staff. In August 2026 TCS also announced a five-year deal with Porsche that includes buying Porsche’s German consulting subsidiary (MHP), subject to regulatory approval. Taking over a team brings work but also wages, offices and the job of keeping the customer satisfied. An announced agreement is not yet completed, earned or paid work."
   ],
   "sources": [
     [
@@ -142,15 +142,15 @@
     },
     {
       "title": "Do not turn a service brand into a segment",
-      "text": "Cloud, AI and BaNCS can serve several client industries. The table is not a profit report for each platform, nor a replacement for the consolidated profit and cash-flow reconciliation."
+      "text": "Cloud, AI and BaNCS can serve several client industries. The table is not a profit report for each product or service, nor a replacement for the consolidated profit and cash-flow reconciliation."
     }
   ],
-  "checked": "31 October 2026",
+  "checked": "11 November 2026",
   "stepsTitle": "From a signed contract to a paid bill.",
   "quick": [
     {
       "title": "What it does",
-      "text": "TCS builds, changes and runs computer systems and related business work for organisations such as banks, shops and manufacturers."
+      "text": "TCS writes, changes and looks after computer software and systems for organisations such as banks, shops and manufacturers. It also carries out some of their routine office tasks."
     },
     {
       "title": "Who pays",
@@ -158,7 +158,7 @@
     },
     {
       "title": "How it earns",
-      "text": "Customers pay under contracts for an agreed project, staff time or an ongoing service."
+      "text": "Customers pay under contracts: for an agreed project, for the hours its staff work, or a regular fee for looking after a system or task."
     },
     {
       "title": "What it spends on",
@@ -168,15 +168,15 @@
   "helps": [
     {
       "title": "Customers in many industries",
-      "text": "Banks, retailers, manufacturers and public organisations all buy its services, so it does not depend on one industry."
+      "text": "Banks and insurers, retailers, manufacturers, healthcare firms and others all buy its services, so a slowdown in one industry does not stop all its work. No single industry group makes up more than about a third of revenue."
     },
     {
       "title": "Contracts that run for years",
-      "text": "Some contracts cover years of work, which gives a longer view of future work than single projects, though they can change or be cancelled."
+      "text": "Some contracts cover years of work. In 2026 Porsche signed a five-year deal and Best Buy a multi-year agreement. This gives a longer view of future work than single projects, though contracts can change or be cancelled."
     },
     {
-      "title": "Faster tools can cut costs",
-      "text": "AI and other tools may reduce the time a job needs, which can lower costs, though customers may ask for lower prices too."
+      "title": "New technology creates new work",
+      "text": "When customers adopt new tools such as artificial intelligence (AI), they pay outside specialists to build them, connect them to old systems and keep them safe. TCS’s October 2026 results release says demand for this AI work is growing."
     }
   ],
   "hurts": [

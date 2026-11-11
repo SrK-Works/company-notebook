@@ -19,7 +19,7 @@
     {
       "title": "Pet health and veterinary products",
       "examples": "Animal medicines, pet diagnostics, pet food and pet shops under the Freossi, One Pet Stop and Wagr names.",
-      "explanation": "Freossi is Fredun’s pet-health brand. One Pet Stop is a pet retail business that it bought, and Wagr is a retail and online platform in which it has invested. Fredun describes these as an ecosystem that serves a pet owner from medicines to food. They are newer than its medicine exports, so there is less history to show how profitable they will be."
+      "explanation": "Freossi is Fredun’s pet-health brand. One Pet Stop is a pet retail business that it bought, and Wagr is a pet retail business, selling in shops and online, in which it has invested. Fredun wants these together to cover what a pet owner buys, from medicines and tests to food. They are newer than its medicine exports, so there is less history to show how profitable they will be."
     },
     {
       "title": "Supplements, skin care and home-health products",
@@ -140,8 +140,8 @@
     ]
   ],
   "context": [
-    "August 2026: sales almost doubled but the profit margin hardly moved",
-    "Fredun’s 6 August 2026 results release says total income for April–June 2026 was almost twice that of a year earlier, and profit also nearly doubled, while the profit margin was almost unchanged. The extra profit therefore came from selling more, not from earning more on each sale. The figures are unaudited, meaning not yet fully checked by the auditors. The company also gave shareholders two bonus shares for every share held in July 2026. The full-year figures at the end of this page cover an earlier period."
+    "November 2026: more pet businesses and a plan to list on a second exchange",
+    "Fredun’s 6 November 2026 results release says total income for April–September 2026 was almost double that of a year earlier, and profit grew a little faster than sales. In September 2026 it bought Furlicks, a pet-supplement brand, and a 26 per cent stake in Goodman Vetcare, a pet-care business. On 5 November 2026 its board approved applying to list its shares on the National Stock Exchange as well as the Bombay Stock Exchange (BSE), where it trades now; that is a plan, not yet approved by the exchange. The quarterly figures are unaudited, meaning only reviewed, not fully checked, by the auditors. The full-year figures at the end of this page cover an earlier period."
   ],
   "sources": [
     [
@@ -151,6 +151,14 @@
     [
       "Annual report filing intimation · 23 June 2026 (BSE filing)",
       "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3be196be-c2ec-415f-b849-4f8308943486.pdf"
+    ],
+    [
+      "Results press release · 6 November 2026 (BSE filing)",
+      "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aac862d7-626f-457e-b9d5-c7f97ca3d305.pdf"
+    ],
+    [
+      "Board outcome: results and plan to list on NSE · 5 November 2026 (BSE filing)",
+      "https://www.bseindia.com/xml-data/corpfiling/AttachHis/98e58a9b-b88c-4e79-80a4-f561017d051b.pdf"
     ]
   ],
   "financialNotes": [
@@ -164,15 +172,15 @@
   "quick": [
     {
       "title": "What it does",
-      "text": "Fredun makes medicines in a factory near Mumbai and sells most of them abroad. It is also adding pet-health, supplement and wellness brands."
+      "text": "Fredun makes copies of established medicines (generics) in a factory near Mumbai and sells most of them abroad. It is also adding pet-health, supplement and wellness brands."
     },
     {
       "title": "Who pays",
-      "text": "Overseas distributors and importers buy most of its medicines. State agencies buy through tenders, which are formal bids. Other drug firms pay it to make their products. Pet owners, vets and shops buy pet products."
+      "text": "Overseas distributors and importers buy most of its medicines. State agencies buy through tenders, which are formal bids to supply. Other drug firms pay it to make their products. Pet owners, vets and shops buy pet products."
     },
     {
       "title": "How it earns",
-      "text": "By selling the medicines and products it ships, and by making products for other companies to sell under their own names."
+      "text": "It earns by selling the medicines and products it ships, and by making products for other companies to sell under their own names."
     },
     {
       "title": "What it spends on",
@@ -182,33 +190,33 @@
   "helps": [
     {
       "title": "The medicine business earns the cash",
-      "text": "Fredun’s annual report calls its medicine business the main cash-generating engine, which pays for its newer pet and wellness ventures."
+      "text": "Fredun’s FY 2025–26 annual report calls its generic-medicine business the main cash-generating engine. That cash pays for its newer pet and wellness ventures."
     },
     {
       "title": "Sales across many countries",
-      "text": "Fredun sells medicines in many overseas markets. Each country that approves a product is another place it can sell that product."
+      "text": "Fredun exports mainly to Africa, Southeast Asia, the former Soviet region and Latin America. Its annual report says it holds more than 800 product approvals, and each approval is another country where it can sell that product."
     },
     {
       "title": "Several kinds of customer",
-      "text": "Distributors, importers, government agencies, other drug companies, vets and pet owners all buy from it, so it does not depend on one route to buyers."
+      "text": "Distributors, importers, government agencies, other drug companies, vets and pet owners all buy from it, so it does not depend on one kind of buyer."
     }
   ],
   "hurts": [
     {
       "title": "Countries can change the rules",
-      "text": "A country can delay or refuse a product approval, change its import rules or change what it will pay."
+      "text": "Fredun’s annual report names regulatory compliance as a main risk. A country can delay or refuse a product approval or change its import rules, which stops sales there."
     },
     {
-      "title": "Overseas customers pay late",
-      "text": "Distributors and agencies abroad can delay payment or fail to pay, which ties up cash."
+      "title": "Quality and supply problems",
+      "text": "The report also names product quality and supply-chain continuity. A failed quality check or a missing ingredient can hold up shipments."
     },
     {
-      "title": "Too many new businesses at once",
-      "text": "In one year it bought a pet retail network and opened a pet diagnostic centre, new brands and a new factory plot. Each needs money and management time, and some may not earn back their costs."
+      "title": "Many new businesses at once",
+      "text": "In FY 2025–26 it bought a pet retail business, opened a pet diagnostic centre, launched new brands and bought a plot for a new factory, and in September 2026 it bought more pet businesses. Its report lists running new businesses as a main risk; each needs money and management time."
     },
     {
-      "title": "Ingredient prices and currency swings",
-      "text": "The cost of ingredients and the exchange rate can change faster than Fredun can change its selling prices."
+      "title": "Currency swings",
+      "text": "Most sales are abroad, and the report names foreign exchange as a main risk. A change in exchange rates can change what Fredun receives in rupees."
     }
   ]
 }

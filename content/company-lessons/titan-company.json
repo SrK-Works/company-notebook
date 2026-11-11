@@ -114,8 +114,8 @@
     ]
   ],
   "context": [
-    "More sales can come from bigger bills, not many more buyers",
-    "Titan’s 6 October 2026 quarterly update says jewellery sales in India grew strongly in July–September 2026 compared with a year earlier, but the number of buyers grew only in the mid-single digits. Most of the increase came from a larger average bill, the amount spent per purchase, which can rise when gold costs more or customers choose pieces set with diamonds and other stones. The update also includes Damas, a majority-owned jewellery business in the Gulf countries that Titan has included in its accounts since January 2026, in its international figures. Part of that international growth therefore comes from a purchased business rather than more customers at existing shops. The update is provisional: the auditors had not yet reviewed it."
+    "November 2026: a one-off gold tax gain lifted profit",
+    "Titan’s 5 November 2026 results for July–September 2026 say income rose by a quarter and reported profit before tax rose by about half compared with a year earlier. Part of that profit was a one-off gain that Titan links to a rise in the customs duty (the import tax) on gold. Without that gain, profit before tax rose 18 per cent. Its earlier 6 October update said the number of jewellery buyers grew only in the mid-single digits, while the average bill grew by double digits. The international figures include Damas, a Gulf jewellery business two-thirds owned by Titan and included in its accounts since January 2026."
   ],
   "sources": [
     [
@@ -137,6 +137,14 @@
     [
       "Buyer growth, average bill and Damas in international figures · quarterly update 6 October 2026",
       "https://www.titancompany.in/sites/default/files/2026-10/Q2update202627.pdf"
+    ],
+    [
+      "July–September 2026 results and customs-duty gain · 5 November 2026",
+      "https://www.titancompany.in/sites/default/files/2026-11/Q2FY27%20-%20Financial%20Results.pdf"
+    ],
+    [
+      "FY 2025–26 annual report (risks and gold-price management)",
+      "https://www.titancompany.in/sites/default/files/2026-07/Titan%20AR%202026_0.pdf"
     ]
   ],
   "financialNotes": [
@@ -153,7 +161,7 @@
       "text": "The corporate unallocated line has a ₹201 crore loss, reducing the combined segment result. The Others row is not a profit measure for every new lifestyle brand. Read the reconciliation, inventory funding, acquisition payments and cash flow before treating the segment total as cash available to shareholders."
     }
   ],
-  "checked": "31 October 2026",
+  "checked": "11 November 2026",
   "stepsTitle": "From the workshop to the shop counter.",
   "quick": [
     {
@@ -176,33 +184,29 @@
   "helps": [
     {
       "title": "Well-known brands",
-      "text": "Tanishq, Titan, Fastrack and Titan Eye+ are separate brands for jewellery, watches and glasses."
+      "text": "Tanishq, Titan, Fastrack and Titan Eye+ are separate brands for jewellery, watches and glasses, each with its own shops, so shoppers can recognise what they are buying."
     },
     {
-      "title": "Ways to fund gold stock",
-      "text": "Titan can borrow gold itself, not just money, to stock its shops, and uses hedging to limit some gold price changes."
+      "title": "Protection from gold price swings",
+      "text": "Titan’s FY 2025–26 annual report says it borrows gold from banks and fixes the gold price only when a customer buys the jewellery. It also uses hedges, contracts that limit the effect of price changes, so a sudden move in gold prices hurts less."
     },
     {
       "title": "New shops add reach",
-      "text": "New shops put products in front of more shoppers, once they have been open long enough to attract regular buyers."
+      "text": "Each new shop puts Titan’s products in front of more shoppers once it attracts regular buyers. Titan keeps opening shops; it added 78, after closures, in July–September 2026."
     }
   ],
   "hurts": [
     {
-      "title": "Gold becomes less affordable",
-      "text": "Dearer gold needs more money for shop stock, and shoppers may buy lighter pieces or wait."
+      "title": "Gold prices swing",
+      "text": "Titan’s annual report says global conflicts make gold prices and currencies unstable, which can change how much shoppers spend. Dearer gold also needs more money to keep shop stock, and buyers may choose lighter pieces or wait."
     },
     {
-      "title": "Quality or service problems",
-      "text": "Gold purity, product quality, repairs and the buying experience all affect trust."
-    },
-    {
-      "title": "Expansion costs before it earns",
-      "text": "New shops, ranges or acquired businesses need staff, stock and money before enough customers arrive."
+      "title": "Tax on gold can change",
+      "text": "The annual report says jewellery is sensitive to changes in the import tax (customs duty) on gold, which change Titan’s costs, prices and demand."
     },
     {
       "title": "Strong competitors",
-      "text": "Local jewellers, national brands and online sellers compete on price, design and service."
+      "text": "Local jewellers, national brands and online sellers compete on price, design and service. Titan’s annual report notes growing competition for CaratLane and heightened competition in cheaper watches."
     }
   ]
 }

@@ -1,0 +1,116 @@
+{
+  "checked": "11 November 2026",
+  "requestedProvider": "TinyFish",
+  "providerStatus": "TinyFish search and fetch_content used to find and read sources; one TinyFish browser run listed Fredun's November 2026 BSE announcements. Exchange and company PDFs were downloaded and searched locally with pypdf.",
+  "method": "Lesson-editor review of quick, helps, hurts and context claim by claim against each lesson's official sources; checker warnings fixed by rewriting.",
+  "scope": "hcg, tcs, genus-power, fredun-pharmaceuticals, titan-company, swiggy. Plain-language and source check of pre-financial text; not a financial audit.",
+  "financialPolicy": "No financial figures, snapshots or financial-review files changed. Recent quarterly results are described in words and percentages only.",
+  "findings": [
+    {
+      "company": "hcg",
+      "sourcesRead": [
+        "FY 2025–26 annual report (risks, payer mix, Odisha scheme, 19 cities, KKR sale)",
+        "Results release 6 August 2026",
+        "Results release 5 November 2026 (new source)"
+      ],
+      "changes": [
+        "Defined PET-CT, LINAC and ARPP where first used.",
+        "hurts 'Machines become costly or outdated' was not in the annual report's risk section; replaced with the report's stated risk on access to funding and borrowing costs.",
+        "Context moved from the August 2026 release to the 5 November 2026 release (patients up 9 per cent, revenue per patient up 7 per cent, north Bengaluru loss still excluded from the adjusted measure)."
+      ],
+      "limits": [
+        "The lesson checked date stays 31 October 2026 because tests/new-companies.test.cjs requires that value; the sources were re-read on 11 November 2026."
+      ]
+    },
+    {
+      "company": "tcs",
+      "sourcesRead": [
+        "Best Buy release 1 October 2026",
+        "Porsche/MHP release 24 August 2026",
+        "Results release 8 October 2026",
+        "tcs.com newsroom search for anything newer (nothing material)"
+      ],
+      "changes": [
+        "Defined MHP; removed the word 'platform' by describing ready-made software.",
+        "helps 'Faster tools can cut costs' was not supported by the sources read; replaced with the October 2026 release's statement that demand for AI work keeps growing.",
+        "helps on industries and multi-year contracts now cite the quarter's industry split and the Porsche/Best Buy agreements.",
+        "Simplified the 'what it does' and 'how it earns' quick answers.",
+        "Revision: helps lead with the lasting mechanism (spread across industries; new technology such as AI creates new work to sell), with the quarter figure only as an example."
+      ],
+      "limits": [
+        "The FY 2025–26 annual report PDF on tcs.com returned Access Denied to both a direct download and TinyFish fetch, so the four hurts (spending delays, faults or data exposure, wage pressure, rules and currencies) could not be checked against its risk section. They are left as general statements.",
+        "The four TCS hurts remain unchecked against the annual report, which is still blocked."
+      ]
+    },
+    {
+      "company": "genus-power",
+      "sourcesRead": [
+        "FY 2025–26 annual report (RDSS extended to March 2028, risk table, collections note, debt-equity ratio)",
+        "Board-meeting notice 19 October 2026",
+        "Buyback approval filing 28 October 2026 (new source)"
+      ],
+      "changes": [
+        "Defined DISCOM, AMISP, UDAY and RDSS where first used.",
+        "hurts 'Installing millions of meters depends on access, local approval and skilled crews' was not in the source; replaced with the report's project-execution risk (fitting, network connection, years of upkeep).",
+        "Context: replaced news-report wording with the official 28 October filing (board approved on 26 October a tender-offer buyback of up to 4.75 million shares, record date 30 October; promoters not tendering).",
+        "Revision: buyback source link switched from BSE AttachLive to AttachHis. UDAY now explained by what the scheme did, from the annual report. The share count stays in millions because lakh is not allowed outside financialNotes."
+      ],
+      "limits": [
+        "The lesson checked date stays 31 October 2026 because tests/new-companies.test.cjs requires that value; the sources were re-read on 11 November 2026."
+      ]
+    },
+    {
+      "company": "fredun-pharmaceuticals",
+      "sourcesRead": [
+        "FY 2025–26 annual report (risk management section, 813 registrations, cash-generating engine)",
+        "Results release 6 August 2026",
+        "Results release 6 November 2026 and board outcome 5 November 2026 (new sources)"
+      ],
+      "changes": [
+        "Removed 'platform' and 'ecosystem'; added DAULCÉL to the company's brand aliases.",
+        "hurts 'Overseas customers pay late' and 'ingredient prices' were not in the annual report (it says the company has no commodity price risk); replaced with the report's named risks: regulatory compliance, product quality and supply, new businesses and foreign exchange.",
+        "Context moved to November 2026: half-year results, Furlicks and Goodman Vetcare purchases, and the board's plan to apply for NSE listing (a plan, not a listing)."
+      ],
+      "limits": [
+        "The lesson checked date stays 31 October 2026 because tests/new-companies.test.cjs requires that value; the sources were re-read on 11 November 2026."
+      ]
+    },
+    {
+      "company": "titan-company",
+      "sourcesRead": [
+        "Quarterly update 6 October 2026",
+        "FY 2025–26 results commentary page",
+        "Q4 FY26 earnings presentation",
+        "Q2 FY27 results 5 November 2026 (new source)",
+        "FY 2025–26 annual report (enterprise risks: regulatory/customs duty, geopolitical/gold price volatility; commodity-risk disclosure on gold lease and hedging; competition notes for CaratLane and watches)"
+      ],
+      "changes": [
+        "Added IRTH and SKINN to the company's brand aliases.",
+        "hurts 'Quality or service problems' and 'Strong competitors' were not in the sources read; replaced with the Gulf demand problems and the emerging businesses' loss, both stated by Titan.",
+        "helps on gold loans now cites 'gold on loan' and hedges in the results; new-shops help cites 78 net additions.",
+        "Context moved to 5 November 2026 results: reported profit lifted by a one-off customs-duty gain on gold.",
+        "Revision: restored 'Strong competitors', now sourced from the annual report (growing competitive intensity for CaratLane, heightened competition in watches). Hurts are now gold price swings, customs-duty changes and competition, all from the annual report's risk sections; the quarter-specific Gulf and emerging-business points were removed. Gold-loan help now explains the annual report's mechanism (gold leased from banks, price fixed at sale). New-shops help leads with the mechanism; 78 shops is only an example."
+      ],
+      "limits": []
+    },
+    {
+      "company": "swiggy",
+      "sourcesRead": [
+        "Q2 FY2027 shareholders' letter 22 October 2026",
+        "Lynks sale intimation 7 September 2026",
+        "FY 2025–26 annual report (network effects, advertising services, dark-store utilisation, competitive intensity, regulatory risk paragraph naming gig-worker social security, food safety, data protection, consumer protection and foreign investment)"
+      ],
+      "changes": [
+        "Defined EBITDA; removed 'logistics' from the context.",
+        "helps 'Memberships bring people back' was not supported; all helps and hurts rewritten to the letter's stated facts (Instamart retention, advertising raising the share Swiggy keeps, food-delivery profit, Instamart losses and scale needed, 69 new stores, supply-chain losses).",
+        "hurts 'Late or missing items' and 'Rules and relationships change' were not in the sources read and were removed.",
+        "Context title now says Swiggy agreed to sell the business (expected completion 22 October 2026 per the filing; completion not confirmed).",
+        "Revision: helps and hurts rewritten as lasting mechanisms (repeat customers, advertising income, busier stores; price competition, rules, Instamart losses, new stores) from the annual report. Restored the rules hurt (gig-worker social security, food safety, data and consumer protection) from the annual report's regulatory risk paragraph. Removed the supply-chain-segment hurt, which goes stale once Lynks leaves. Instamart break-even now written as the company's estimate with both conditions (about 2.3 times order value and keeping more per order), without the rupee figure. Adjusted EBITDA explained in plain words."
+      ],
+      "limits": [
+        "Completion of the Lynks sale was not confirmed in an official filing."
+      ]
+    }
+  ],
+  "revision": "11 November 2026, after direction review of PR #15: helps and hurts rewritten as lasting explanations sourced from annual-report risk, strategy or outlook sections; quarter figures kept only as short examples or in context. Second small fix: Swiggy and Titan annual reports added to lesson sources; Swiggy new-stores hurt reworded in plain words. Other companies already list every document quoted."
+}
