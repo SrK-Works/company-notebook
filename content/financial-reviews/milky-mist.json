@@ -1,0 +1,24 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Restated consolidated",
+  "coverage": "Whole-group totals · Milky Mist and its wholly owned subsidiary · single dairy segment",
+  "unit": "₹ crore",
+  "profitMetric": "Restated profit after tax",
+  "definition": "Profit for the year after milk and other materials, staff, interest, equipment wear, other costs and tax, as restated for the share offer from the audited accounts. It includes a one-off tax credit and is not cash collected.",
+  "rows": [
+    {
+      "name": "Milky Mist · whole group",
+      "revenue": 3138.364,
+      "profit": 127.009
+    }
+  ],
+  "source": "https://www.bseindia.com/corporates/download/386960/IPO%20Open/RHPSigned_20260806221222.pdf",
+  "sourceLabel": "BSE-hosted red herring prospectus · restated consolidated financial information",
+  "location": "PDF page 310 / printed page 307 · restated consolidated profit and loss; PDF page 346 / printed page 343 · note 33, revenue; PDF page 352 / printed page 349 · note 43, tax",
+  "checked": "11 November 2026",
+  "notes": "Source figures are ₹ million and were divided by 10. Revenue excludes other income of ₹6.645 crore. The restated figures were compiled from the audited consolidated accounts for the year to 31 March 2026. Tax was unusually low because the company recognised ₹30.517 crore of MAT credit (minimum alternate tax already paid that can be set against future tax bills), ₹24.561 crore of it from earlier years, after a 2026 change in tax law; profit before tax was ₹158.490 crore. The company reports one segment, so no profit is shown for paneer, curd, cheese or any other product. The prospectus does not by itself show the shares were admitted to trading.",
+  "insight": "Milky Mist’s sales grew by about a third, but most of every rupee went on milk and other materials. Part of the jump in profit came from a one-off tax credit, so compare profit before tax across years rather than profit after tax.",
+  "status": "single",
+  "revenueTotal": 3138.364,
+  "profitTotal": 127.009
+}

@@ -1,0 +1,40 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "checked": "11 November 2026",
+  "status": "segments",
+  "coverage": "Four reported segments · group totals",
+  "profitMetric": "Segment result",
+  "definition": "Profit or loss of each business before interest and tax, using only the costs HFCL links directly to that business. Interest, unallocated costs and unallocated income are deducted only at group level, so segment results add up to more than group profit before tax. It is not net profit.",
+  "rows": [
+    {
+      "name": "Telecom products",
+      "revenue": 2931.01,
+      "profit": 763.92
+    },
+    {
+      "name": "Turnkey contracts and services",
+      "revenue": 1875.01,
+      "profit": -113.01
+    },
+    {
+      "name": "Defence products and services",
+      "revenue": 76.70,
+      "profit": -5.05
+    },
+    {
+      "name": "Others",
+      "revenue": 66.55,
+      "profit": -2.04
+    }
+  ],
+  "source": "https://cdn.prod.website-files.com/69e0036b695965871f0524ab/6a9bd8dd438c66dfaba5a878_HFCL_AR_2025-26.pdf",
+  "sourceLabel": "Annual report 2025–26 · audited consolidated financial statements",
+  "location": "PDF page 353 / printed page 351 · note 51, segment reporting; PDF page 299 / printed page 297 · consolidated statement of profit and loss",
+  "notes": "Figures are printed in ₹ crore, so no conversion was needed. The four segment revenues add up to revenue from operations of ₹4,949.27 crore, which excludes other income of ₹65.25 crore. Segment results add up to ₹643.82 crore; after ₹242.06 crore of finance charges, ₹7.30 crore of unallocated costs and ₹33.22 crore of unallocated income, group profit before tax was ₹427.68 crore. Group profit after tax was ₹329.44 crore, of which ₹311.74 crore belongs to HFCL’s shareholders and ₹17.70 crore to outside partners in subsidiaries.",
+  "insight": "In this year almost all of HFCL’s segment profit came from making telecom products such as optical fibre cable. The network-building contracts brought in a lot of revenue but made a segment loss, against a profit the year before, so check what changed in those contracts.",
+  "revenueTotal": 4949.27,
+  "revenueTotalLabel": "Revenue from operations (sum of segments)",
+  "profitTotal": 643.82
+}

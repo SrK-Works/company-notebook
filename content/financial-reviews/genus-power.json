@@ -1,0 +1,24 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "coverage": "Whole-group totals · single metering business segment · continuing operations",
+  "unit": "₹ crore",
+  "profitMetric": "Profit after tax",
+  "definition": "Net profit for the year after materials, staff, interest, equipment wear, other costs and tax, plus Genus’s share of profit from two associate companies. The statement shows no share for outside shareholders. It is not cash collected from customers.",
+  "rows": [
+    {
+      "name": "Genus Power Infrastructures · whole group",
+      "revenue": 4750.92,
+      "profit": 592.3
+    }
+  ],
+  "source": "https://nsearchives.nseindia.com/annual_reports/AR_31250_GENUSPOWER_2025_2026_A_7862122_03092026171428.pdf",
+  "sourceLabel": "NSE-filed annual report 2025–26 · audited consolidated financial statements",
+  "location": "PDF page 228 / printed page 221 · consolidated statement of profit and loss; PDF page 272 / printed page 265 · note 25, revenue from operations; PDF page 303 / printed page 296 · note 57, segment information",
+  "notes": "Figures are printed in ₹ crore, so no conversion was needed. Revenue excludes other income of ₹70.30 crore. Of the revenue, ₹4,172.02 crore came from selling goods such as meters, ₹458.27 crore from services and ₹99.35 crore from a service-concession arrangement (a contract in which Genus pays for, installs and runs smart prepaid meters for a state electricity board and is paid partly during installation and partly as monthly charges). Profit includes ₹27.35 crore as Genus’s share of profit from two associate companies, whose accounts were audited by other auditors. Genus reports one segment, metering and related services, so no profit is shown by product or contract.",
+  "insight": "Genus’s revenue almost doubled from ₹2,442.02 crore a year earlier, and profit roughly doubled too. Its borrowing and the customer bills still unpaid at year end also grew, so check how much of this profit has actually been collected as cash.",
+  "status": "single",
+  "checked": "11 November 2026",
+  "revenueTotal": 4750.92,
+  "profitTotal": 592.3
+}
