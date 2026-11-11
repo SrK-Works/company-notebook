@@ -1,0 +1,126 @@
+{
+  "order": 44,
+  "company": {
+    "id": "eicher-motors",
+    "name": "Eicher Motors",
+    "ticker": "EICHERMOT",
+    "sector": "Homes & mobility",
+    "initial": "E",
+    "color": "#8a1c1c",
+    "bg": "#f8eceb",
+    "tag": "The company that makes Royal Enfield motorcycles",
+    "products": [
+      [
+        "Classic 350, Bullet 350, Hunter 350, Meteor 350, Goan Classic 350",
+        "350cc motorcycles"
+      ],
+      [
+        "Himalayan 450, Guerrilla 450, Scram 440",
+        "450cc and 440cc motorcycles"
+      ],
+      [
+        "Interceptor 650, Continental GT 650, Classic 650, Bullet 650, Super Meteor 650, Shotgun 650, Bear 650",
+        "650cc twin-cylinder motorcycles"
+      ],
+      [
+        "Flying Flea C6",
+        "Electric motorcycle"
+      ],
+      [
+        "Spare parts and servicing",
+        "After-sales"
+      ],
+      [
+        "Accessories and riding apparel",
+        "After-sales"
+      ],
+      [
+        "Eicher trucks and buses, Volvo buses and Volvo trucks in India (VECV joint venture)",
+        "Commercial vehicles, outside Eicher’s revenue"
+      ]
+    ],
+    "sources": [
+      [
+        "Eicher Motors investor information",
+        "https://www.eicher.in/investors-overview/financial_and_reports/quarterly-results"
+      ]
+    ],
+    "productSource": "https://www.royalenfield.com/in/en/home/",
+    "checked": "11 November 2026",
+    "reviewed": "11 November 2026",
+    "aliases": [
+      "Eicher Motors Limited",
+      "Eicher Motors Ltd",
+      "Royal Enfield",
+      "EML"
+    ],
+    "productNote": "Royal Enfield model line-up from Eicher’s July 2026 press release, grouped by engine size; VECV is a joint venture with the Volvo Group."
+  },
+  "offerings": [
+    {
+      "name": "Classic 350",
+      "category": "A Royal Enfield motorcycle with a 350cc engine and an old-fashioned look",
+      "image": "assets/products/eicher-motors-classic-350.webp",
+      "url": "https://www.royalenfield.com/in/en/home/",
+      "kind": "pack",
+      "alt": "A dark green Royal Enfield Classic 350 motorcycle seen from the side — official product image from Royal Enfield’s website"
+    },
+    {
+      "name": "Hunter 350",
+      "category": "A lighter 350cc Royal Enfield for city riding",
+      "image": "assets/products/eicher-motors-hunter-350.webp",
+      "url": "https://www.royalenfield.com/in/en/home/",
+      "kind": "pack",
+      "alt": "A black and white Royal Enfield Hunter 350 motorcycle seen from the side — official product image from Royal Enfield’s website"
+    },
+    {
+      "name": "Himalayan 450",
+      "category": "A bigger-engine motorcycle built for rough roads and long trips",
+      "image": "assets/products/eicher-motors-himalayan-450.webp",
+      "url": "https://www.royalenfield.com/in/en/home/",
+      "kind": "pack",
+      "alt": "A tall black Royal Enfield Himalayan 450 adventure motorcycle seen from the side — official product image from Royal Enfield’s website"
+    },
+    {
+      "name": "650cc twins",
+      "category": "Larger two-cylinder motorcycles such as the Interceptor 650",
+      "image": "assets/products/eicher-motors-interceptor-650.webp",
+      "url": "https://www.royalenfield.com/in/en/home/",
+      "kind": "pack",
+      "alt": "A black Royal Enfield Interceptor 650 motorcycle with a gold stripe on the tank — official product image from Royal Enfield’s website"
+    },
+    {
+      "name": "Flying Flea C6",
+      "category": "Royal Enfield’s first electric motorcycle, sold city by city",
+      "image": "assets/products/eicher-motors-flying-flea.webp",
+      "url": "https://www.royalenfield.com/in/en/home/",
+      "kind": "photo",
+      "alt": "A small white and grey electric motorcycle parked on a riverside path with the Eiffel Tower behind it — Flying Flea C6 banner from Royal Enfield’s website"
+    },
+    {
+      "name": "Riding gear and accessories",
+      "category": "Helmets, jackets and add-on parts sold with the motorcycles",
+      "image": "assets/products/eicher-motors-apparel.webp",
+      "url": "https://www.royalenfield.com/in/en/home/",
+      "kind": "photo",
+      "alt": "A rider wearing a white, black and red full-face helmet — riding-gear image from Royal Enfield’s website"
+    },
+    {
+      "name": "Service and spare parts",
+      "category": "Repairs, servicing and genuine parts after the sale",
+      "image": "assets/products/eicher-motors-service.webp",
+      "url": "https://www.royalenfield.com/in/en/home/",
+      "kind": "photo",
+      "alt": "A mechanic working on a Royal Enfield motorcycle raised on a red service stand — service-centre image from Royal Enfield’s website"
+    },
+    {
+      "name": "Eicher trucks and buses (VECV)",
+      "category": "Trucks and buses made by a separate joint company with Volvo",
+      "image": "assets/products/eicher-motors-eicher-truck.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:Eicher_Truck_in_Kikkeri.Hodakahalli.jpg",
+      "kind": "generic",
+      "credit": "Prof tpms, CC BY-SA 4.0, via Wikimedia Commons",
+      "alt": "An orange Eicher truck with a cage-sided cargo bed on a country road in Karnataka — an independent photograph from Wikimedia Commons, not the company's own item photograph"
+    }
+  ]
+}

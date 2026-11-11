@@ -1,0 +1,217 @@
+{
+  "summary": "Kotak Mahindra Bank keeps money for people and companies in accounts and lends it out as home, car, gold and business loans. Companies it owns also trade shares for clients, run mutual funds and sell life insurance.",
+  "description": "A bank takes in money that people and businesses deposit, keeps it safe, lets them pay and withdraw it, and lends much of it to borrowers who pay interest. Kotak does this through 2,327 branches, 2,673 cash machines and its phone apps. It started as a finance company and in 2003 became the first such company in India to turn into a bank. Around the bank sit companies it fully owns: Kotak Securities buys and sells shares for clients, Kotak Mahindra Asset Management runs mutual funds, Kotak Mahindra Life Insurance sells life cover and Kotak Mahindra Prime lends for cars.",
+  "money": "Most income is interest. Borrowers pay interest on loans, and the bank earns interest on bonds it holds. From this it pays interest to depositors; what is left is called net interest income. It also earns fees for banking services and for selling insurance and mutual funds. It spends on staff, branches and technology, and sets money aside for loans that may not be repaid. A deposit is money the bank owes back, so it is not income, and income is not profit.",
+  "customers": "Savers and borrowers are both customers. Individuals keep salaries and savings in accounts and fixed deposits, and the bank pays them interest. Home buyers, car buyers, people pledging gold and small businesses borrow and pay interest. Large companies borrow and use the bank to pay suppliers and staff. Investors pay group companies for share trading and fund management. Kotak counted 51 million bank customers in September 2026.",
+  "drivers": "The gap between what it earns on loans and what it pays for deposits, how many borrowers repay on time, and how much fee income its broking, fund and insurance companies bring in.",
+  "groups": [
+    {
+      "title": "Accounts and deposits",
+      "examples": "A salary savings account, a Kotak811 account opened on a phone, a fixed deposit or a shop’s current account.",
+      "explanation": "Places to keep money. Savings and current accounts pay little or no interest, so they are the bank’s cheapest money. A fixed deposit locks money away for a set time in return for a higher interest rate."
+    },
+    {
+      "title": "Loans to individuals",
+      "examples": "A home loan, a car loan, a loan against gold jewellery, a personal loan or a credit card bill.",
+      "explanation": "The bank lends and collects interest and repayments. Home, car and gold loans are secured: the bank can sell the house, car or gold if the loan is not repaid. Personal loans and card spending are unsecured, so they charge more interest and lose more when borrowers stop paying."
+    },
+    {
+      "title": "Loans to businesses and farmers",
+      "examples": "Money for a small manufacturer to buy stock, a loan to a large company, a tractor loan or a truck loan.",
+      "explanation": "Kotak lends to small and medium enterprises (SMEs), large companies, farmers buying tractors and owners buying trucks and construction machines. Business customers also use the bank to collect money and pay suppliers."
+    },
+    {
+      "title": "Shares, mutual funds and company advice",
+      "examples": "A share-trading account with Kotak Securities, a monthly investment into a Kotak mutual fund, or a company raising money with help from Kotak Mahindra Capital.",
+      "explanation": "Group companies earn a fee on each share trade, a yearly fee for managing fund investors’ money and fees for advising companies. These fees rise and fall with how busy the stock market is."
+    },
+    {
+      "title": "Life insurance",
+      "examples": "A life cover policy or a savings plan from Kotak Mahindra Life Insurance.",
+      "explanation": "The insurer collects regular payments called premiums, invests them and pays out when a policy holder dies or a plan matures. Its profit depends on how many policies stay in force and how many claims arise."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is net interest income, and what is the margin?",
+      "text": "Net interest income is the interest a bank earns on loans and bonds minus the interest it pays on deposits and borrowings. Shown as a share of the money it has lent and invested, it is called the net interest margin (NIM), the main measure of how much a bank earns on each rupee lent."
+    },
+    {
+      "title": "Why does a bank want cheap deposits?",
+      "text": "Current and savings accounts, together called CASA (current account and savings account), pay little or no interest. The larger the share of deposits sitting in them rather than in fixed deposits, the cheaper the bank’s money. That share is called the CASA ratio."
+    },
+    {
+      "title": "What is a bad loan, and what is a provision?",
+      "text": "A non-performing asset (NPA) is a loan whose repayments are more than about three months overdue. For loans it may not get back, the bank records a provision, an amount taken out of profit. More bad loans mean bigger provisions and lower profit, even if some money is recovered later."
+    },
+    {
+      "title": "What are foreign-currency deposits from Indians abroad?",
+      "text": "Foreign Currency Non-Resident deposits (FCNR) are fixed deposits that Indians living abroad keep with an Indian bank in a foreign currency such as US dollars. Kotak took in a large amount of them in July to September 2026."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Customers open accounts and deposit money",
+      "text": "People and businesses open accounts in a branch or on an app and put money in. Kotak must return it on demand, or when a fixed deposit ends, and pays interest on it."
+    },
+    {
+      "title": "The bank checks a borrower and agrees a loan",
+      "text": "It looks at the borrower’s income, existing debts and anything pledged, such as a house or gold. Then it sets the amount, the interest rate and the repayment schedule."
+    },
+    {
+      "title": "The loan is paid out and repaid in instalments",
+      "text": "Each month the borrower repays part of the amount borrowed, called principal, plus interest. Only the interest is income. The principal is the bank’s own money coming back."
+    },
+    {
+      "title": "Fees come in from other services",
+      "text": "Card payments, money transfers, selling insurance and mutual funds, share trades and advice to companies bring in fees, partly through Kotak’s group companies."
+    },
+    {
+      "title": "Late payers are chased and losses provided for",
+      "text": "If repayments stop, the bank follows up, may sell what was pledged and records provisions. Revenue (interest and fees earned), profit (what is left after interest paid, costs and provisions) and cash received are three different things."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "One bank, several businesses under it",
+      "text": "The bank fully owns its broker, fund manager, life insurer and car-loan company. Its annual report says keeping them in one group lets it keep all the value they create and offer customers several products together."
+    },
+    {
+      "title": "Tractor and truck loans run as separate businesses",
+      "text": "Kotak runs tractor loans, and loans for trucks and construction machines, as stand-alone businesses with their own dealer links. Its presentation says tractor lending reaches more than 600 districts and that truck lending rises and falls with freight and building activity."
+    },
+    {
+      "title": "Most loans are backed by something",
+      "text": "Home, gold, vehicle and business loans make up most lending. Personal loans, credit cards and microcredit (very small loans to low-income borrowers, mostly women) are unsecured: nothing is pledged, so they charge more interest but lose more when times are hard."
+    },
+    {
+      "title": "A phone-only account for many small savers",
+      "text": "Kotak811 lets people open and run a savings account entirely on a phone. Kotak’s presentation says this costs less to win and serve each customer and brings in many small, steady deposits."
+    }
+  ],
+  "watch": [
+    [
+      "Is the net interest margin recovering?",
+      "It shows how much the bank earns on each rupee lent after paying for its money.",
+      "Track the margin and the cost of funds in each quarterly press release, and read what the bank says caused each change, such as rate cuts or FCNR deposits."
+    ],
+    [
+      "Are bad loans in personal loans, cards and microcredit still falling?",
+      "Unsecured loans earn more interest but lose more when borrowers stop paying.",
+      "Compare new bad loans (slippages), gross and net NPA ratios and credit cost (new provisions as a share of loans) on the asset-quality slide of several quarterly presentations."
+    ],
+    [
+      "Are deposits keeping up with loans?",
+      "A bank that lends faster than it gathers deposits must pay more for its money.",
+      "Compare deposit growth with loan growth and the credit-to-deposit ratio in each press release, and check the CASA ratio with and without FCNR deposits."
+    ],
+    [
+      "How much do the group companies add, and how steady is it?",
+      "Share-trading and fund fees depend on stock-market activity, which can drop quickly.",
+      "Read the group profit table that splits profit by company, and compare Kotak Securities and the fund manager in busy and quiet market quarters."
+    ],
+    [
+      "Is spending on branches and technology paying off?",
+      "Costs rise before new branches and apps bring in customers.",
+      "Follow the cost-to-income ratio, branch count and customer count in each presentation, and read the annual report’s section on technology."
+    ]
+  ],
+  "risks": [
+    [
+      "Borrowers stop repaying",
+      "The bank records provisions, which cut profit directly. Kotak’s annual report describes stress in unsecured retail loans and microcredit in 2025–26."
+    ],
+    [
+      "Interest rate cuts shrink the margin",
+      "Kotak says loan rates fell faster than deposit costs during the 2025–26 rate cuts, which reduced its net interest margin."
+    ],
+    [
+      "Competition for deposits",
+      "When banks chase the same savers, Kotak has to pay more to grow deposits, which raises the cost of the money it lends."
+    ],
+    [
+      "Regulatory restrictions",
+      "Kotak’s annual report says restrictions on some digital onboarding and credit card business, which it calls a technology embargo, were lifted only in February 2025. Limits like these slow growth while they last."
+    ],
+    [
+      "Quiet stock markets",
+      "Broking and fund fees fall when fewer people trade or invest. Kotak Securities earned about the same profit in July to September 2026 as a year earlier, and less than in the busier previous quarter."
+    ]
+  ],
+  "context": [
+    "July to September 2026: dollar deposits and fewer bad loans",
+    "On 24 October 2026 Kotak reported results for July to September 2026. Compared with the same quarter a year earlier, deposits were 23% higher, or 13% without the FCNR deposits from Indians abroad that it took in during the quarter and partly lent through its overseas branches. Its net interest margin fell to 4.31% from 4.54%, which the bank said was largely because of those deposits, and the CASA ratio fell to 38.2% from 42.3%. Bad loans eased: gross NPAs were 1.04% of loans against 1.39%, and credit cost, the new provisions for bad loans as a yearly share of loans, fell to 0.35% from 0.79%. This describes one quarter."
+  ],
+  "sources": [
+    [
+      "Kotak Mahindra Bank integrated annual report 2025–26",
+      "https://www.kotak.bank.in/content/dam/Kotak/investor-relation/Financial-Result/Annual-Reports/FY-2026/kotak-mahindra-bank/Kotak-Mahindra-Bank-Limited-FY26.pdf"
+    ],
+    [
+      "Investor presentation for the quarter ended 30 September 2026",
+      "https://www.kotak.bank.in/content/dam/Kotak/investor-relation/Financial-Result/QuarterlyReport/FY-2027/q2/investor-presentation/Q2FY27-Investor-Presentation.pdf"
+    ],
+    [
+      "Press release for the quarter ended 30 September 2026 · 24 October 2026",
+      "https://www.kotak.bank.in/content/dam/Kotak/investor-relation/Financial-Result/QuarterlyReport/FY-2027/q2/PressRelease/Q2FY27-Press-Release.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Read a bank’s numbers differently",
+      "text": "For Kotak, deposits and loans are balances, not sales. The bank alone (standalone) and the whole group including the broker, fund manager and insurer (consolidated) report separate results, so do not mix the two. Verified full-year figures for this profile have not yet been added, so the financial table below is marked as awaiting verification."
+    }
+  ],
+  "stepsTitle": "From your deposit to someone else’s loan.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Kotak takes deposits and lends for homes, cars, gold and businesses. Companies it owns also trade shares for clients, run mutual funds and sell life insurance."
+    },
+    {
+      "title": "Who pays",
+      "text": "Borrowers pay interest. Account holders, investors and businesses pay fees for some services. Savers are customers too, but the bank pays them interest."
+    },
+    {
+      "title": "How it earns",
+      "text": "Mostly from the gap between interest it earns on loans and bonds and interest it pays on deposits. Fees from banking, share trading, funds and insurance add more."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Interest to depositors, staff, branches and technology, and money set aside for loans that may never be repaid."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Fee businesses cushion the lending business",
+      "text": "Broking, company advice and fund management earn fees that do not depend on the gap between loan and deposit rates. Kotak’s annual report says these businesses held up in 2025–26 while rate cuts squeezed its lending margin."
+    },
+    {
+      "title": "A thick layer of the owners’ own money",
+      "text": "Capital is the owners’ money in the bank, which absorbs losses before depositors are hurt. Kotak’s annual report describes its capital position as robust; more capital lets a bank keep lending through bad years."
+    },
+    {
+      "title": "Branches for advice, apps for everyday banking",
+      "text": "Kotak calls its branches the main channel for building relationships, while routine payments move to its apps. That lets branch staff spend their time on customers who borrow, save or invest more."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Borrowers who stop repaying",
+      "text": "Kotak’s annual report calls credit risk, the chance that borrowers do not pay back, its most significant risk. Each bad loan needs a provision that comes straight out of profit."
+    },
+    {
+      "title": "Rate cuts squeeze the margin for a while",
+      "text": "When the Reserve Bank of India (RBI) cuts rates, many loan rates fall at once, while fixed deposits keep their old rate until they end. Kotak says this pressed its margin in 2025–26."
+    },
+    {
+      "title": "Savers are hard to win",
+      "text": "When loans grow faster than deposits across the banking system, banks compete for the same savers and must pay them more. Kotak’s annual report says this happened in 2025–26."
+    },
+    {
+      "title": "Small unsecured loans go bad first",
+      "text": "In hard times, personal loans, cards and microcredit are the first to see missed payments, because nothing is pledged against them. Kotak’s annual report describes stress in these loans across the industry in 2025–26."
+    }
+  ],
+  "checked": "11 November 2026"
+}

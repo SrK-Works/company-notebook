@@ -1,0 +1,153 @@
+{
+  "order": 46,
+  "company": {
+    "id": "tata-consumer-products",
+    "name": "Tata Consumer Products",
+    "ticker": "TATACONSUM",
+    "sector": "Everyday essentials",
+    "initial": "T",
+    "color": "#0b5c3b",
+    "bg": "#e8f4ee",
+    "tag": "The company behind Tata Tea, Tata Salt and Tetley",
+    "products": [
+      [
+        "Tata Tea, Tetley, Teapigs, Good Earth, 1868 by Tata Tea",
+        "Tea"
+      ],
+      [
+        "Tata Coffee Grand, Sonnets, Eight O’Clock",
+        "Coffee"
+      ],
+      [
+        "Tata Salt",
+        "Salt"
+      ],
+      [
+        "Tata Sampann",
+        "Pulses, spices, dry fruits and oils"
+      ],
+      [
+        "Tata Soulfull",
+        "Millet foods"
+      ],
+      [
+        "Ching’s Secret, Smith & Jones",
+        "Sauces, noodles and cooking pastes"
+      ],
+      [
+        "Organic India",
+        "Organic foods, teas and herbal supplements"
+      ],
+      [
+        "Himalayan, Tata Copper Plus",
+        "Packaged water"
+      ],
+      [
+        "Tata Gluco Plus, Tata Fruski",
+        "Ready-to-drink beverages"
+      ],
+      [
+        "Solubles",
+        "Instant coffee and tea extracts for other companies"
+      ],
+      [
+        "Coffee plantations",
+        "Coffee grown on own estates"
+      ],
+      [
+        "Tata Starbucks",
+        "Cafés (joint venture)"
+      ]
+    ],
+    "sources": [
+      [
+        "Tata Consumer Products investors",
+        "https://www.tataconsumer.com/investors"
+      ]
+    ],
+    "productSource": "https://www.tataconsumer.com/our-offerings",
+    "checked": "11 November 2026",
+    "reviewed": "11 November 2026",
+    "aliases": [
+      "Tata Consumer Products Limited",
+      "Tata Consumer Products Ltd",
+      "Tata Consumer",
+      "TCPL"
+    ],
+    "productNote": "Brand families from the company’s offerings page and 2025–26 annual report, grouped by category."
+  },
+  "offerings": [
+    {
+      "name": "Tata Tea",
+      "category": "Packaged black tea sold across India",
+      "image": "assets/products/tata-consumer-products-tata-tea.webp",
+      "url": "https://www.tataconsumer.com/brands/tea/tata-tea",
+      "kind": "photo",
+      "alt": "Two people in woollen caps drinking tea on a hillside at sunrise — Tata Tea image from Tata Consumer Products’ website"
+    },
+    {
+      "name": "Tata Salt",
+      "category": "Packaged iodised salt and lower-sodium versions",
+      "image": "assets/products/tata-consumer-products-tata-salt.webp",
+      "url": "https://www.tataconsumer.com/brands/foods/tata-salt",
+      "kind": "pack",
+      "alt": "A row of Tata Salt packets in different colours under the line “Desh ki sehat, Desh ka namak” — official image from Tata Consumer Products’ website"
+    },
+    {
+      "name": "Tata Sampann",
+      "category": "Packaged dals, spices, dry fruits and cooking oils",
+      "image": "assets/products/tata-consumer-products-tata-sampann.webp",
+      "url": "https://www.tataconsumer.com/brands/foods/tata-sampann",
+      "kind": "photo",
+      "alt": "A bowl of dal, a dosa and loose spices on a wooden table — Tata Sampann image from Tata Consumer Products’ website"
+    },
+    {
+      "name": "Tetley",
+      "category": "Tea bags sold mainly in the UK, Canada and the US",
+      "image": "assets/products/tata-consumer-products-tetley.webp",
+      "url": "https://www.tataconsumer.com/brands/tea/tetley",
+      "kind": "photo",
+      "alt": "Many cups of tea of different colours seen from above, with the line “for the love of tea, for the love of Tetley” — image from Tata Consumer Products’ website"
+    },
+    {
+      "name": "Eight O’Clock Coffee",
+      "category": "Packaged coffee sold in the United States",
+      "image": "assets/products/tata-consumer-products-eight-o-clock.webp",
+      "url": "https://www.tataconsumer.com/brands/coffee/eight-o-clock",
+      "kind": "pack",
+      "alt": "A red cup of coffee beside Eight O’Clock coffee bags against a red wall — image from Tata Consumer Products’ website"
+    },
+    {
+      "name": "Himalayan water",
+      "category": "Bottled natural mineral water",
+      "image": "assets/products/tata-consumer-products-himalayan.webp",
+      "url": "https://www.tataconsumer.com/brands/water/himalayan",
+      "kind": "photo",
+      "alt": "A glass bottle of Himalayan water and a wine glass on a table at dusk — image from Tata Consumer Products’ website"
+    },
+    {
+      "name": "Ching’s Secret and Smith & Jones",
+      "category": "Sauces, noodles, chutneys and cooking pastes",
+      "image": "assets/products/tata-consumer-products-chings-smith-jones.webp",
+      "url": "https://www.tataconsumer.com/brands/foods/chings-secret",
+      "kind": "pack",
+      "alt": "A bottle of Ching’s red chilli sauce, a Smith & Jones ginger garlic paste pouch and two Ching’s sachets — image from Tata Consumer Products’ website"
+    },
+    {
+      "name": "Tata Fruski",
+      "category": "Ready-to-drink fruit drinks in bottles",
+      "image": "assets/products/tata-consumer-products-fruski.webp",
+      "url": "https://www.tataconsumer.com/brands/liquid-beverages/tata-fruski",
+      "kind": "pack",
+      "alt": "Three bottles of Tata Fruski drinks (jeera masala, lemon masala and mango) in front of a smiling woman — advertising image from Tata Consumer Products’ website"
+    },
+    {
+      "name": "Tata Starbucks",
+      "category": "Starbucks cafés in India, run by a joint company with Starbucks",
+      "image": "assets/products/tata-consumer-products-starbucks.webp",
+      "url": "https://www.tataconsumer.com/brands/out-of-home-retail/tata-starbucks",
+      "kind": "photo",
+      "alt": "A barista in a green Starbucks apron pouring milk into a cup at a café counter — image from Tata Consumer Products’ website"
+    }
+  ]
+}

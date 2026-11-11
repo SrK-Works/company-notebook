@@ -1,0 +1,402 @@
+{
+  "checked": "11 November 2026",
+  "source": "https://www.niftyindices.com/IndexConstituent/ind_nifty50list.csv",
+  "sourceLabel": "NSE Indices Limited, NIFTY 50 constituent list (CSV; server reported it last modified on 11 November 2026)",
+  "sourcePage": "https://www.niftyindices.com/indices/equity/broad-based-indices/nifty--50",
+  "method": "Downloaded the official constituent CSV on 11 November 2026 and matched each NSE symbol with the tickers in content/companies/.",
+  "counts": {
+    "constituents": 50,
+    "coveredBefore": 22,
+    "missingBefore": 28,
+    "addedInBatch1": 4,
+    "stillMissing": 24
+  },
+  "specialCases": [
+    "Tata Motors split in 2025. This constituent is the passenger-vehicle company (cars, electric cars and Jaguar Land Rover); it kept the old Tata Motors ISIN and was renamed Tata Motors Passenger Vehicles. The separately listed commercial-vehicle company (trucks and buses) is not in NIFTY 50.",
+    "Wipro, IndusInd Bank, Hero MotoCorp and Britannia Industries are not in the current list. Our Britannia page stays, but Britannia is not a NIFTY 50 company on this date.",
+    "The collection also holds companies outside NIFTY 50 (for example Delhivery, Swiggy, Marico and Avenue Supermarts); they are not listed here."
+  ],
+  "constituents": [
+    {
+      "name": "Adani Enterprises Ltd.",
+      "ticker": "ADANIENT",
+      "industry": "Metals & Mining",
+      "isin": "INE423A01024",
+      "status": "missing"
+    },
+    {
+      "name": "Adani Ports and Special Economic Zone Ltd.",
+      "ticker": "ADANIPORTS",
+      "industry": "Services",
+      "isin": "INE742F01042",
+      "status": "missing"
+    },
+    {
+      "name": "Apollo Hospitals Enterprise Ltd.",
+      "ticker": "APOLLOHOSP",
+      "industry": "Healthcare",
+      "isin": "INE437A01024",
+      "status": "missing"
+    },
+    {
+      "name": "Asian Paints Ltd.",
+      "ticker": "ASIANPAINT",
+      "industry": "Consumer Durables",
+      "isin": "INE021A01026",
+      "status": "covered",
+      "id": "asian-paints"
+    },
+    {
+      "name": "Axis Bank Ltd.",
+      "ticker": "AXISBANK",
+      "industry": "Financial Services",
+      "isin": "INE238A01034",
+      "status": "missing"
+    },
+    {
+      "name": "BSE Ltd.",
+      "ticker": "BSE",
+      "industry": "Financial Services",
+      "isin": "INE118H01025",
+      "status": "missing",
+      "note": "BSE Ltd is the company that runs the BSE stock exchange."
+    },
+    {
+      "name": "Bajaj Auto Ltd.",
+      "ticker": "BAJAJ-AUTO",
+      "industry": "Automobile and Auto Components",
+      "isin": "INE917I01010",
+      "status": "covered",
+      "id": "bajaj-auto"
+    },
+    {
+      "name": "Bajaj Finance Ltd.",
+      "ticker": "BAJFINANCE",
+      "industry": "Financial Services",
+      "isin": "INE296A01032",
+      "status": "missing"
+    },
+    {
+      "name": "Bajaj Finserv Ltd.",
+      "ticker": "BAJAJFINSV",
+      "industry": "Financial Services",
+      "isin": "INE918I01026",
+      "status": "missing",
+      "note": "Holding company of Bajaj Finance and Bajaj insurance businesses; not covered by our Bajaj Auto page."
+    },
+    {
+      "name": "Bharat Electronics Ltd.",
+      "ticker": "BEL",
+      "industry": "Capital Goods",
+      "isin": "INE263A01024",
+      "status": "missing"
+    },
+    {
+      "name": "Bharti Airtel Ltd.",
+      "ticker": "BHARTIARTL",
+      "industry": "Telecommunication",
+      "isin": "INE397D01024",
+      "status": "covered",
+      "id": "bharti-airtel"
+    },
+    {
+      "name": "Cipla Ltd.",
+      "ticker": "CIPLA",
+      "industry": "Healthcare",
+      "isin": "INE059A01026",
+      "status": "missing"
+    },
+    {
+      "name": "Coal India Ltd.",
+      "ticker": "COALINDIA",
+      "industry": "Oil Gas & Consumable Fuels",
+      "isin": "INE522F01014",
+      "status": "missing"
+    },
+    {
+      "name": "Dr. Reddy's Laboratories Ltd.",
+      "ticker": "DRREDDY",
+      "industry": "Healthcare",
+      "isin": "INE089A01031",
+      "status": "covered",
+      "id": "dr-reddys"
+    },
+    {
+      "name": "Eicher Motors Ltd.",
+      "ticker": "EICHERMOT",
+      "industry": "Automobile and Auto Components",
+      "isin": "INE066A01021",
+      "status": "missing before; added in batch 1",
+      "id": "eicher-motors"
+    },
+    {
+      "name": "Eternal Ltd.",
+      "ticker": "ETERNAL",
+      "industry": "Consumer Services",
+      "isin": "INE758T01015",
+      "status": "covered",
+      "id": "eternal"
+    },
+    {
+      "name": "Grasim Industries Ltd.",
+      "ticker": "GRASIM",
+      "industry": "Construction Materials",
+      "isin": "INE047A01021",
+      "status": "missing"
+    },
+    {
+      "name": "HCL Technologies Ltd.",
+      "ticker": "HCLTECH",
+      "industry": "Information Technology",
+      "isin": "INE860A01027",
+      "status": "missing"
+    },
+    {
+      "name": "HDFC Bank Ltd.",
+      "ticker": "HDFCBANK",
+      "industry": "Financial Services",
+      "isin": "INE040A01034",
+      "status": "covered",
+      "id": "hdfc-bank"
+    },
+    {
+      "name": "HDFC Life Insurance Company Ltd.",
+      "ticker": "HDFCLIFE",
+      "industry": "Financial Services",
+      "isin": "INE795G01014",
+      "status": "missing"
+    },
+    {
+      "name": "Hindalco Industries Ltd.",
+      "ticker": "HINDALCO",
+      "industry": "Metals & Mining",
+      "isin": "INE038A01020",
+      "status": "missing"
+    },
+    {
+      "name": "Hindustan Unilever Ltd.",
+      "ticker": "HINDUNILVR",
+      "industry": "Fast Moving Consumer Goods",
+      "isin": "INE030A01027",
+      "status": "covered",
+      "id": "hindustan-unilever"
+    },
+    {
+      "name": "ICICI Bank Ltd.",
+      "ticker": "ICICIBANK",
+      "industry": "Financial Services",
+      "isin": "INE090A01021",
+      "status": "covered",
+      "id": "icici-bank"
+    },
+    {
+      "name": "ITC Ltd.",
+      "ticker": "ITC",
+      "industry": "Fast Moving Consumer Goods",
+      "isin": "INE154A01025",
+      "status": "covered",
+      "id": "itc"
+    },
+    {
+      "name": "Infosys Ltd.",
+      "ticker": "INFY",
+      "industry": "Information Technology",
+      "isin": "INE009A01021",
+      "status": "covered",
+      "id": "infosys"
+    },
+    {
+      "name": "InterGlobe Aviation Ltd.",
+      "ticker": "INDIGO",
+      "industry": "Services",
+      "isin": "INE646L01027",
+      "status": "missing"
+    },
+    {
+      "name": "JSW Steel Ltd.",
+      "ticker": "JSWSTEEL",
+      "industry": "Metals & Mining",
+      "isin": "INE019A01038",
+      "status": "missing"
+    },
+    {
+      "name": "Jio Financial Services Ltd.",
+      "ticker": "JIOFIN",
+      "industry": "Financial Services",
+      "isin": "INE758E01017",
+      "status": "missing",
+      "note": "Demerged from Reliance Industries in 2023; it is a separate listed company and is not covered by our Reliance Industries page."
+    },
+    {
+      "name": "Kotak Mahindra Bank Ltd.",
+      "ticker": "KOTAKBANK",
+      "industry": "Financial Services",
+      "isin": "INE237A01036",
+      "status": "missing before; added in batch 1",
+      "id": "kotak-mahindra-bank"
+    },
+    {
+      "name": "Larsen & Toubro Ltd.",
+      "ticker": "LT",
+      "industry": "Construction",
+      "isin": "INE018A01030",
+      "status": "covered",
+      "id": "larsen-and-toubro"
+    },
+    {
+      "name": "Mahindra & Mahindra Ltd.",
+      "ticker": "M&M",
+      "industry": "Automobile and Auto Components",
+      "isin": "INE101A01026",
+      "status": "covered",
+      "id": "mahindra-and-mahindra"
+    },
+    {
+      "name": "Maruti Suzuki India Ltd.",
+      "ticker": "MARUTI",
+      "industry": "Automobile and Auto Components",
+      "isin": "INE585B01010",
+      "status": "covered",
+      "id": "maruti-suzuki"
+    },
+    {
+      "name": "Max Healthcare Institute Ltd.",
+      "ticker": "MAXHEALTH",
+      "industry": "Healthcare",
+      "isin": "INE027H01010",
+      "status": "missing",
+      "note": "Not related to our HCG, Park Medi World or Rainbow hospital pages."
+    },
+    {
+      "name": "NTPC Ltd.",
+      "ticker": "NTPC",
+      "industry": "Power",
+      "isin": "INE733E01010",
+      "status": "covered",
+      "id": "ntpc"
+    },
+    {
+      "name": "Nestle India Ltd.",
+      "ticker": "NESTLEIND",
+      "industry": "Fast Moving Consumer Goods",
+      "isin": "INE239A01024",
+      "status": "covered",
+      "id": "nestle-india"
+    },
+    {
+      "name": "Oil & Natural Gas Corporation Ltd.",
+      "ticker": "ONGC",
+      "industry": "Oil Gas & Consumable Fuels",
+      "isin": "INE213A01029",
+      "status": "missing"
+    },
+    {
+      "name": "Power Grid Corporation of India Ltd.",
+      "ticker": "POWERGRID",
+      "industry": "Power",
+      "isin": "INE752E01010",
+      "status": "covered",
+      "id": "power-grid"
+    },
+    {
+      "name": "Reliance Industries Ltd.",
+      "ticker": "RELIANCE",
+      "industry": "Oil Gas & Consumable Fuels",
+      "isin": "INE002A01018",
+      "status": "covered",
+      "id": "reliance-industries"
+    },
+    {
+      "name": "SBI Life Insurance Company Ltd.",
+      "ticker": "SBILIFE",
+      "industry": "Financial Services",
+      "isin": "INE123W01016",
+      "status": "missing"
+    },
+    {
+      "name": "Shriram Finance Ltd.",
+      "ticker": "SHRIRAMFIN",
+      "industry": "Financial Services",
+      "isin": "INE721A01047",
+      "status": "missing"
+    },
+    {
+      "name": "State Bank of India",
+      "ticker": "SBIN",
+      "industry": "Financial Services",
+      "isin": "INE062A01020",
+      "status": "covered",
+      "id": "state-bank-of-india"
+    },
+    {
+      "name": "Sun Pharmaceutical Industries Ltd.",
+      "ticker": "SUNPHARMA",
+      "industry": "Healthcare",
+      "isin": "INE044A01036",
+      "status": "covered",
+      "id": "sun-pharma"
+    },
+    {
+      "name": "Tata Consultancy Services Ltd.",
+      "ticker": "TCS",
+      "industry": "Information Technology",
+      "isin": "INE467B01029",
+      "status": "covered",
+      "id": "tcs"
+    },
+    {
+      "name": "Tata Consumer Products Ltd.",
+      "ticker": "TATACONSUM",
+      "industry": "Fast Moving Consumer Goods",
+      "isin": "INE192A01025",
+      "status": "missing before; added in batch 1",
+      "id": "tata-consumer-products"
+    },
+    {
+      "name": "Tata Motors Passenger Vehicles Ltd.",
+      "ticker": "TMPV",
+      "industry": "Automobile and Auto Components",
+      "isin": "INE155A01022",
+      "status": "missing",
+      "note": "Tata Motors split in 2025. This constituent is the passenger-vehicle company (cars, electric cars and Jaguar Land Rover); it kept the old Tata Motors ISIN and was renamed Tata Motors Passenger Vehicles. The separately listed commercial-vehicle company (trucks and buses) is not in NIFTY 50."
+    },
+    {
+      "name": "Tata Steel Ltd.",
+      "ticker": "TATASTEEL",
+      "industry": "Metals & Mining",
+      "isin": "INE081A01020",
+      "status": "missing"
+    },
+    {
+      "name": "Tech Mahindra Ltd.",
+      "ticker": "TECHM",
+      "industry": "Information Technology",
+      "isin": "INE669C01036",
+      "status": "missing"
+    },
+    {
+      "name": "Titan Company Ltd.",
+      "ticker": "TITAN",
+      "industry": "Consumer Durables",
+      "isin": "INE280A01028",
+      "status": "covered",
+      "id": "titan-company"
+    },
+    {
+      "name": "Trent Ltd.",
+      "ticker": "TRENT",
+      "industry": "Consumer Services",
+      "isin": "INE849A01020",
+      "status": "missing before; added in batch 1",
+      "id": "trent"
+    },
+    {
+      "name": "UltraTech Cement Ltd.",
+      "ticker": "ULTRACEMCO",
+      "industry": "Construction Materials",
+      "isin": "INE481G01011",
+      "status": "covered",
+      "id": "ultratech-cement"
+    }
+  ]
+}

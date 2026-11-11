@@ -1,0 +1,137 @@
+{
+  "order": 45,
+  "company": {
+    "id": "trent",
+    "name": "Trent",
+    "ticker": "TRENT",
+    "sector": "Consumer & retail",
+    "initial": "T",
+    "color": "#1f3a5f",
+    "bg": "#eaf0f7",
+    "tag": "The Tata company behind Westside and Zudio stores",
+    "products": [
+      [
+        "Westside",
+        "Fashion and home stores"
+      ],
+      [
+        "Zudio",
+        "Value fashion and beauty stores"
+      ],
+      [
+        "Utsa",
+        "Indian-style women’s wear"
+      ],
+      [
+        "Samoh",
+        "Occasion wear"
+      ],
+      [
+        "Burnt Toast",
+        "Youth fashion"
+      ],
+      [
+        "Westside online (Westside.com, Tata Cliq, Tata Neu)",
+        "Online sales"
+      ],
+      [
+        "Star",
+        "Supermarkets (joint venture with Tesco)"
+      ],
+      [
+        "Star own brands (Fabsta, Klia, Skye, Smartle)",
+        "Groceries and household goods"
+      ],
+      [
+        "Booker Wholesale",
+        "Cash-and-carry for small businesses"
+      ],
+      [
+        "Zara and Massimo Dutti in India",
+        "20% associate companies"
+      ]
+    ],
+    "sources": [
+      [
+        "Trent financial information",
+        "https://trentlimited.com/pages/financial-information"
+      ]
+    ],
+    "productSource": "https://trentlimited.com/",
+    "checked": "11 November 2026",
+    "reviewed": "11 November 2026",
+    "aliases": [
+      "Trent Limited",
+      "Trent Ltd",
+      "Westside",
+      "Zudio"
+    ],
+    "productNote": "Store brands and partner businesses from Trent’s website and its October 2026 results release."
+  },
+  "offerings": [
+    {
+      "name": "Westside",
+      "category": "Clothes, shoes and home items under Westside’s own labels",
+      "image": "assets/products/trent-westside.webp",
+      "url": "https://trentlimited.com/pages/fashion-lifestyle",
+      "kind": "photo",
+      "alt": "Young people in denim and printed T-shirts laughing together under the Westside name — image from Trent’s fashion and lifestyle page"
+    },
+    {
+      "name": "Zudio",
+      "category": "Low-priced clothes, shoes and beauty products",
+      "image": "assets/products/trent-zudio.webp",
+      "url": "https://trentlimited.com/pages/fashion-lifestyle",
+      "kind": "photo",
+      "alt": "Three young women taking a selfie and trying lipstick, in black and white, under the Zudio name — image from Trent’s fashion and lifestyle page"
+    },
+    {
+      "name": "Utsa",
+      "category": "Indian-style clothing for women",
+      "image": "assets/products/trent-utsa.webp",
+      "url": "https://trentlimited.com/pages/fashion-lifestyle",
+      "kind": "photo",
+      "alt": "Two women in printed kurtas, one black and one red, under the Utsa name — image from Trent’s fashion and lifestyle page"
+    },
+    {
+      "name": "Samoh",
+      "category": "Clothes for weddings and special occasions",
+      "image": "assets/products/trent-samoh.webp",
+      "url": "https://trentlimited.com/pages/fashion-lifestyle",
+      "kind": "photo",
+      "alt": "Two women in red saris and a man in a maroon kurta under the Samoh name — image from Trent’s fashion and lifestyle page"
+    },
+    {
+      "name": "Burnt Toast",
+      "category": "A newer clothing label aimed at young shoppers",
+      "image": "assets/products/trent-burnt-toast.webp",
+      "url": "https://trentlimited.com/pages/fashion-lifestyle",
+      "kind": "photo",
+      "alt": "Four young people in casual clothes, one in a Burnt Toast T-shirt, posing together — image from Trent’s fashion and lifestyle page"
+    },
+    {
+      "name": "Star supermarkets",
+      "category": "Grocery stores selling food, fresh produce and daily needs",
+      "image": "assets/products/trent-star.webp",
+      "url": "https://trentlimited.com/pages/food-grocery-new",
+      "kind": "photo",
+      "alt": "The inside of a large Star supermarket with checkout counters and stacked products under a Star sign — image from Trent’s food and grocery page"
+    },
+    {
+      "name": "Star own brands",
+      "category": "Products made for Star and sold under its own names",
+      "image": "assets/products/trent-star-own-brands.webp",
+      "url": "https://trentlimited.com/",
+      "kind": "pack",
+      "alt": "Green tubes and bottles of Skye face wash and hand wash beside a towel, with the Star logo — image from Trent’s website"
+    },
+    {
+      "name": "Booker Wholesale",
+      "category": "Cash-and-carry stores that sell in bulk to small shops and restaurants",
+      "image": "assets/products/trent-booker.webp",
+      "url": "https://trentlimited.com/pages/food-grocery-new",
+      "kind": "photo",
+      "alt": "A billing counter with a computer screen and receipt printer inside a warehouse-style Booker Wholesale store with boxed goods on shelves — image from Trent’s food and grocery page"
+    }
+  ]
+}

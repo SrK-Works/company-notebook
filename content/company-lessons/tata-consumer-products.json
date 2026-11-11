@@ -1,0 +1,221 @@
+{
+  "summary": "Tata Consumer Products buys tea, coffee, salt and other foods, blends and packs them, and sells them as brands such as Tata Tea, Tata Salt, Tata Sampann, Tetley and Eight O’Clock in shops in India and abroad.",
+  "description": "Most of the work is buying, blending, packing and getting goods onto shop shelves. Tata Consumer buys tea leaves at auctions or directly from growers, blends them and packs them as Tata Tea or Tetley. It packs iodised salt as Tata Salt, and dals, spices and dry fruits as Tata Sampann. It also sells bottled water, ready-to-drink glucose drinks, sauces and noodles, and coffee in the United States. It says its brands reach 290 million Indian households through 4.5 million shops. It also makes instant coffee for other companies and, with Starbucks, runs Starbucks cafés in India.",
+  "money": "Tata Consumer earns by selling packed goods to distributors, supermarket chains and online stores, which resell them to shoppers. A smaller part comes from selling instant coffee and tea extracts to other companies and from coffee grown on its own estates. Its main costs are tea, coffee and other raw materials, packaging, advertising, transport and staff. The price paid by a distributor is revenue, not profit.",
+  "customers": "Households are the final buyers of a packet of tea or salt, but Tata Consumer is mostly paid by dealers who distribute to retailers, by supermarket chains and by online and quick-delivery apps. Abroad, supermarkets buy Tetley and Eight O’Clock. Other food and drink companies buy its instant coffee. Café visitors pay Tata Starbucks, a separate joint company.",
+  "drivers": "How many packets it sells, especially of tea and salt, the cost of tea and coffee compared with the prices it can charge, and whether newer brands such as Tata Sampann and ready-to-drink beverages keep growing.",
+  "groups": [
+    {
+      "title": "Tea and coffee in India",
+      "examples": "Tata Tea Premium, Tata Tea Gold, Tetley green tea, Tata Coffee Grand and Sonnets coffee.",
+      "explanation": "Packed tea and coffee for homes. Tata Consumer says it owns India’s second-largest tea brand. Tea is a crop bought at auctions, so its cost moves with weather and harvests."
+    },
+    {
+      "title": "Salt and pantry foods",
+      "examples": "Tata Salt, Tata Salt Lite, Tata Sampann dals, spices and dry fruits, and Tata Soulfull millet foods.",
+      "explanation": "Everyday kitchen staples. Tata Salt is India’s largest salt brand. Tata Sampann sells unpolished dals, spices, dry fruits and cold-pressed oils."
+    },
+    {
+      "title": "Drinks and ready foods",
+      "examples": "Himalayan mineral water, Tata Gluco Plus, Tata Copper Plus water, Ching’s Secret sauces and noodles, and Smith & Jones cooking pastes.",
+      "explanation": "Products bought on the go or for quick cooking. Tata Consumer groups these with Tata Sampann and Organic India as its growth businesses."
+    },
+    {
+      "title": "Brands sold abroad",
+      "examples": "Tetley tea bags in the UK and Canada, Eight O’Clock coffee in the United States, and Good Earth and Teapigs teas.",
+      "explanation": "Packed tea and coffee sold in foreign supermarkets. Tetley joined the company in 2000. These sales are earned in pounds, dollars and other currencies."
+    },
+    {
+      "title": "Business sales and cafés",
+      "examples": "Instant coffee and tea extracts sold to other companies, coffee from its own estates, and Starbucks cafés in India.",
+      "explanation": "The instant coffee and estate business is reported as non-branded. Tata Starbucks is a joint company; its café sales are not in Tata Consumer’s revenue."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is a branded consumer goods company?",
+      "text": "It sells everyday items, like tea and salt, under a name shoppers recognise and buy again and again. It earns more than an unbranded seller because people trust the brand, but it must keep spending on advertising and on getting its packs into shops."
+    },
+    {
+      "title": "Who stands between the factory and the shopper?",
+      "text": "Dealers, also called distributors, buy goods from the company and deliver them to small shops. Supermarket chains and online and quick-delivery apps buy directly. The company is paid when it sells to these sellers, not when the household buys."
+    },
+    {
+      "title": "What is underlying volume growth?",
+      "text": "Underlying volume growth (UVG) measures how much more product, by quantity, the company sold than a year earlier. It separates selling more packets from simply charging more per packet."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Buy the raw materials",
+      "text": "Tata Consumer buys tea at public auctions or by private deals, and buys coffee, pulses, spices and other ingredients. Prices change with weather and harvests."
+    },
+    {
+      "title": "Blend, process and pack",
+      "text": "The tea is blended to a steady taste, salt and dals are cleaned and packed, and everything is sealed in branded packs."
+    },
+    {
+      "title": "Sell to distributors and stores",
+      "text": "Packs go to dealers, supermarket chains and online stores, which pay Tata Consumer under agreed terms. This sale is its revenue."
+    },
+    {
+      "title": "Advertise to bring shoppers back",
+      "text": "The company spends on advertising and promotions so that shoppers ask for its brands. In India this was about 5.5% of sales in July to September 2026."
+    },
+    {
+      "title": "Shoppers buy and the cycle repeats",
+      "text": "Households buy from the shop, and the shop reorders from the distributor. Revenue (what sellers are billed), profit (what is left after all costs) and cash collected are different things."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Tea costs move with the weather",
+      "text": "Tea is sold at auction and its price changes with harvests. Tata Consumer adjusts its prices in steps; when tea costs eased in 2025–26, it says it passed the benefit on to shoppers."
+    },
+    {
+      "title": "New brands are a growing share",
+      "text": "Tata Sampann, ready-to-drink drinks, Tata Soulfull, Capital Foods and Organic India are its growth businesses. They now make up more than a third of the India business, so the company depends less on tea and salt than it once did."
+    },
+    {
+      "title": "Three ways of selling, three kinds of risk",
+      "text": "The company reports India branded, international branded and non-branded businesses separately. Each has different customers, currencies and raw material risks."
+    },
+    {
+      "title": "Online and quick delivery are growing fast",
+      "text": "Online shopping including quick-delivery apps was 19% of India business revenue in 2025–26, the company says, while traditional neighbourhood shops remain the backbone of its selling."
+    }
+  ],
+  "watch": [
+    [
+      "Is Indian tea selling more packets again?",
+      "Tea is one of the biggest Indian businesses, and volumes were flat in July to September 2026.",
+      "Compare tea volume and revenue growth in each quarterly presentation and read the comments on price changes."
+    ],
+    [
+      "Are tea and coffee costs rising or falling?",
+      "Raw material cost is a large part of each packet, and price changes reach shoppers with a delay.",
+      "Read the annual report’s commodity risk section and the quarterly comments on tea and coffee prices, then compare with profit margin."
+    ],
+    [
+      "Are the growth businesses making money, not only sales?",
+      "New brands need advertising and distribution spending before they earn steady profits.",
+      "Follow the growth businesses’ share of India revenue each quarter and look for comments on their margins in the annual report."
+    ],
+    [
+      "How exposed is it to the pound and the dollar?",
+      "International sales are earned in foreign currencies, so a stronger rupee lowers their value in rupees.",
+      "Compare international revenue growth with and without currency changes, which the company reports as constant-currency growth."
+    ],
+    [
+      "Is Tata Starbucks adding profit?",
+      "Café sales are outside revenue, so only Tata Consumer’s share of profit or loss reaches its results.",
+      "Find the share of profit from joint ventures in the consolidated results and the Tata Starbucks section of the annual report."
+    ]
+  ],
+  "risks": [
+    [
+      "Tea and coffee prices swing",
+      "Tea is a crop sold at auction whose supply can change quickly with the weather, and coffee prices are also volatile. Higher costs squeeze profit until prices are raised."
+    ],
+    [
+      "Currency movements",
+      "Sales in the UK, United States, Canada and Australia are earned in foreign currencies, so exchange-rate changes alter their value in rupees."
+    ],
+    [
+      "Weak demand for tea",
+      "India tea volumes were flat in July to September 2026 amid subdued demand, and the UK tea market was hit by a heatwave."
+    ],
+    [
+      "Shipping and export disruption",
+      "Exports from Capital Foods and Organic India were held back by shipping disruption in July to September 2026, slowing their growth."
+    ],
+    [
+      "Shifts in how people shop",
+      "Quick-delivery apps are growing fast. Tata Consumer has to keep investing to stay visible both online and in traditional shops."
+    ]
+  ],
+  "context": [
+    "July to September 2026: salt up, tea flat",
+    "On 26 October 2026 Tata Consumer said revenue rose 14% from the same quarter a year earlier, with India volumes up 11%. Salt revenue grew 15%, Tata Sampann 57% and ready-to-drink 47%, while India tea volumes were flat amid subdued demand. International revenue fell 2% once currency movements are taken out, with a UK heatwave cutting tea drinking. Tata Starbucks ended the quarter with 505 cafés in 81 cities. This describes one quarter."
+  ],
+  "sources": [
+    [
+      "Tata Consumer Products integrated annual report 2025–26",
+      "https://www.tataconsumer.com/sites/g/files/gfwrlq316/files/2026-06/INTEGRATED_ANNUAL_REPORT_F_Y_2025_26.pdf"
+    ],
+    [
+      "Investor presentation for the quarter ended September 2026 · 26 October 2026",
+      "https://www.tataconsumer.com/sites/g/files/gfwrlq316/files/2026-10/102626_TCPL_Q2FY27%20Investor%20Presentation.pdf"
+    ],
+    [
+      "Results for the quarter ended 30 September 2026 · company news release",
+      "https://www.tataconsumer.com/news/results-quarter-ended-30th-september-2026"
+    ],
+    [
+      "Tata Salt brand page",
+      "https://www.tataconsumer.com/brands/foods/tata-salt"
+    ],
+    [
+      "Tetley brand page",
+      "https://www.tataconsumer.com/brands/tea/tetley"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Separate the brands, the business sales and the cafés",
+      "text": "Tata Consumer’s consolidated results include India branded, international branded and non-branded businesses as separate segments. Tata Starbucks is a joint venture, so its café sales are outside revenue. Verified full-year figures for this profile have not yet been added, so the financial table below is marked as awaiting verification."
+    }
+  ],
+  "stepsTitle": "From a tea auction to a kitchen shelf.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Tata Consumer buys tea, coffee, salt and other foods, packs them under its brands and sells them in India and abroad, mainly through shops."
+    },
+    {
+      "title": "Who pays",
+      "text": "Distributors, supermarket chains and online stores pay Tata Consumer and resell to households. Abroad, supermarkets buy its tea and coffee, and other companies buy its instant coffee."
+    },
+    {
+      "title": "How it earns",
+      "text": "From selling packed food and drinks. Tea and salt are the biggest Indian products. A smaller part comes from instant coffee and coffee estates."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Tea leaves, coffee and other raw materials, packaging, advertising, transport to shops and staff."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Brands people already buy",
+      "text": "Tata Consumer says Tata Salt is India’s largest salt brand and that it owns India’s second-largest tea brand; its investor presentation calls it the second-largest branded tea company in the world. Familiar brands make repeat buying more likely."
+    },
+    {
+      "title": "Very wide reach",
+      "text": "It says its products reach 290 million Indian households through 4.5 million shops, so a new product can be placed on many shelves quickly."
+    },
+    {
+      "title": "More to sell than tea and salt",
+      "text": "Pulses, spices, ready-to-drink drinks, sauces and organic foods give the company more products to send through the same distributors and shops, and more ways to grow when tea demand is slow."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Tea and coffee costs swing with the weather",
+      "text": "Tea is a crop sold at auction whose supply can change quickly with the weather, and coffee prices also swing. Prices on the shelf follow only later, so profit is squeezed while costs are high."
+    },
+    {
+      "title": "Exchange rates move overseas income",
+      "text": "Sales in the UK, United States, Canada and Australia are earned in foreign currencies. When the rupee strengthens, the same sales are worth fewer rupees."
+    },
+    {
+      "title": "Shopping habits are shifting",
+      "text": "Supermarkets, online stores and quick-delivery apps are growing faster than neighbourhood shops. Tata Consumer has to keep investing to be visible in every channel at once."
+    },
+    {
+      "title": "Estate income follows world coffee prices",
+      "text": "Its coffee plantations earn more when world coffee prices are high and less when they fall. They gained from high prices in 2025–26, then lower Vietnamese coffee prices cut what they earned in July to September 2026."
+    }
+  ],
+  "checked": "11 November 2026"
+}
