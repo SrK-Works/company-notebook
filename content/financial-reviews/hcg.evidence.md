@@ -35,6 +35,10 @@ Checks: 25,384.29 + 69.76 + 249.89 = 25,703.94 ✔; 7,016.78 − 93.80 + 3,786.0
 
 Impairment of goodwill (refer note 46) (319.11); impact of new labour codes (126.70); total (445.81). Check: 319.11 + 126.70 = 445.81 ✔. The labour-code charge is gratuity 104.30 and compensated absences 22.40 (104.30 + 22.40 = 126.70 ✔).
 
+## Earlier-year tax reversal (note 32.1, consolidated, PDF page 337, printed page 378)
+
+Tax reconciliation line: "Reversal of tax provision of prior years on admission of claims (refer note (a) below) (182.00)" ₹ million = ₹18.20 crore. Note (a): "The income tax expenses for the year ended 31 March 2026, is net of Rs 182 million relating to reversal of income taxes with respect to earlier years." This lowered FY26 tax expense; the lesson prose rounds it to ₹18.2 crore.
+
 ## Milann fertility business (note 46, PDF page 363, printed page 404)
 
 "In March 2026, the management committed to a plan to divest of the Company's entire equity interest in BACC Healthcare Private Limited ("Milann" or "BACC") … The disposal group does not constitute a discontinued operation as it does not represent a separate major line of business in terms of Ind AS 105". Impairment loss of Rs. 319.11 million allocated to goodwill. The Board approved the sale on 19 May 2026 for Rs. 376.44 million, subject to adjustments. So Milann's FY26 revenue and costs remain inside the consolidated totals above.
