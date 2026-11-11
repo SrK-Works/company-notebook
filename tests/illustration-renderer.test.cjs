@@ -46,9 +46,10 @@ test('illustration text cannot inject markup',()=>{
 });
 test('the page loads every script in dist, and every script it loads exists',()=>{
  const index=fs.readFileSync('dist/index.html','utf8');
- const loaded=[...index.matchAll(/<script defer src="([^"?]+)\?v=[0-9-]+"><\/script>/g)].map(m=>m[1]);
+ const loaded=[...index.matchAll(/<script defer src="([^"?]+)\?v=dev"><\/script>/g)].map(m=>m[1]);
  for(const f of loaded)assert.ok(fs.existsSync('dist/'+f),f+' is loaded but missing');
  for(const f of fs.readdirSync('dist').filter(f=>f.endsWith('.js')))assert.ok(loaded.includes(f),f+' exists but is never loaded');
- assert.ok(/style\.css\?v=[0-9-]+/.test(index));
+ assert.ok(/style\.css\?v=dev\"/.test(index),'every file is stamped by the deploy, so the source keeps ?v=dev');
+ assert.ok(!/\?v=(?!dev")/.test(index),'no hand-written version numbers left');
  assert.ok(fs.readFileSync('dist/style.css','utf8').includes('.primer-illustration'));
 });

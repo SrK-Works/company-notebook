@@ -6,7 +6,7 @@ Live: [srk-works.github.io/company-notebook](https://srk-works.github.io/company
 
 ## Run it locally
 
-Serve `dist/` with any static server, for example `cd dist && python3 -m http.server`. Nothing needs installing. Navigation uses hash routes (`#/company/<id>`), so links work on static hosting.
+Run `npm run serve` (or `npm run build`, then serve `dist/` with any static server) and open http://localhost:8765. The build creates three bundles from `content/`; they are not stored in git, so it must run once before the site works locally. The site itself installs nothing. Navigation uses hash routes (`#/company/<id>`), so links work on static hosting.
 
 ## How it fits together
 
@@ -18,7 +18,7 @@ Authors edit one set of files per company. Build scripts turn them into the bund
 | `content/company-lessons/<id>.json` | The explanation: quick answers, steps, what helps and hurts, deeper sections, sources, figure notes | `node scripts/build-company-lessons.cjs` | `dist/profile-lessons.js` |
 | `content/financial-reviews/<id>.json` (+ `.evidence.md`) | A verified annual financial snapshot and the transcription it came from | `node scripts/build-financial-reviews.cjs` | `dist/financial-expansion.js` |
 
-Every build script has a `--check` flag that fails if its bundle is stale.
+`npm run build` runs all three. The bundles are git-ignored: `npm test` and the deploy build them fresh, so separate changes never collide in a generated file. The deploy also replaces `?v=dev` in `dist/index.html` with the commit id, so browsers fetch new files after each release. Every pull request runs the tests and the lesson checker automatically.
 
 Hand-written site files in `dist/`:
 - `app.js`: the home page, search and filters, reading list, starter guide, theme switch, feedback and routing.
@@ -63,7 +63,6 @@ Without an API key, a Claude Code session can write the draft: `--dump-sources w
 
 - `npm test`: data, lessons, the company page, figure walkthroughs, financial records, the drafting step, source checking and design tokens.
 - `node scripts/check-lessons.cjs`: every lesson against the template.
-- The three build scripts with `--check`.
 - `node scripts/check-sources.cjs`: a read-only check of every source link (missing, moved, failing or refusing automated requests). `--tinyfish` retries failures through TinyFish, `--company <id>` limits the check, `--json <file>` saves a report and `--strict` exits with an error for CI. A link that loads does not prove the page still supports the claim.
 
 ## Other features
