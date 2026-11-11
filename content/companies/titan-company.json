@@ -4,6 +4,10 @@
     "id": "titan-company",
     "name": "Titan Company",
     "ticker": "TITAN",
+    "aliases": [
+      "IRTH",
+      "SKINN"
+    ],
     "sector": "Consumer & retail",
     "initial": "T",
     "color": "#8a6030",

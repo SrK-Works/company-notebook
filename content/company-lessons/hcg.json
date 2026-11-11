@@ -7,13 +7,13 @@
   "groups": [
     {
       "title": "Cancer scans and tests",
-      "examples": "Imaging scans such as PET-CT, laboratory tests and tissue checks.",
-      "explanation": "A PET-CT scanner shows how active cells are in the body, which helps doctors see where cancer is and how far it has spread. The scanner is costly, so a hospital earns a return only if enough patients use it."
+      "examples": "Body scans such as positron emission tomography–computed tomography (PET-CT), laboratory tests and tissue checks.",
+      "explanation": "A PET-CT scanner combines two scans: one shows the shape of organs and the other shows how active cells are. Together they help doctors see where cancer is and how far it has spread. The scanner is costly, so a hospital earns a return only if enough patients use it."
     },
     {
       "title": "Radiation, surgery and cancer medicines",
       "examples": "Radiation treatment, operations including robot-assisted surgery, and chemotherapy.",
-      "explanation": "Radiation treatment aims beams of radiation at a tumour using a large machine called a linear accelerator, or LINAC. A surgical robot is a machine that a surgeon controls to carry out an operation. Chemotherapy is medicine that attacks cancer cells, often given in day-care centres. These are the main services a cancer patient pays for."
+      "explanation": "Radiation treatment aims beams of radiation at a tumour using a large machine called a linear accelerator (LINAC). A surgical robot is a machine that a surgeon controls to carry out an operation. Chemotherapy is medicine that attacks cancer cells, often given in day-care centres. These are the main services a cancer patient pays for."
     },
     {
       "title": "Hospitals beyond cancer",
@@ -42,7 +42,7 @@
     },
     {
       "title": "What does 'revenue per patient' tell you?",
-      "text": "HCG reports a figure it calls ARPP, which is average revenue per patient. It rises when patients have more complex treatment or pay at higher rates, and falls when the mix shifts to cheaper treatment or to patients covered by schemes that pay less. Growth in the number of patients and growth in revenue per patient are separate questions."
+      "text": "HCG reports average revenue per patient (ARPP). It rises when patients have more complex treatment or pay at higher rates, and falls when the mix shifts to cheaper treatment or to patients covered by schemes that pay less. Growth in the number of patients and growth in revenue per patient are separate questions."
     }
   ],
   "steps": [
@@ -139,8 +139,8 @@
     ]
   ],
   "context": [
-    "August 2026: a new hospital opened and the fertility business was sold",
-    "HCG’s 6 August 2026 results release says it opened a hospital in north Bengaluru in May 2026, with 56 beds working in the first phase, and sold its Milann fertility business in June 2026. The release reports that revenue and its adjusted operating profit (profit from running the hospitals, before interest, tax and charges for the wear of equipment) grew compared with a year earlier, and that the new hospital’s early loss was left out of its adjusted measure. An adjusted measure is the company’s own version of profit with some items removed, so always check what was removed. The full-year figures at the end of this page cover an earlier period."
+    "November 2026: more patients and higher revenue per patient",
+    "HCG’s 5 November 2026 results release for July to September 2026 says patient numbers rose 9 per cent and average revenue per patient rose 7 per cent from a year earlier, helped by more complex treatments such as robot-assisted surgery. The new north Bengaluru hospital, opened in May 2026, was still making a loss, which HCG again left out of its adjusted operating profit (its own profit measure before interest, tax and charges for the wear of equipment, with some items removed). The fertility business sold in June 2026 is excluded from these figures. The full-year figures at the end of this page cover an earlier period."
   ],
   "sources": [
     [
@@ -154,6 +154,10 @@
     [
       "Quarterly results release · 6 August 2026",
       "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b8f1369a-1bef-4222-ad7e-ffd1b424135d.pdf"
+    ],
+    [
+      "Quarterly results release · 5 November 2026",
+      "https://www.hcgoncology.com/uploads/ir/HCG%20Intimation%20on%20Press%20Release%20-%2005Nov2026.pdf"
     ]
   ],
   "financialNotes": [
@@ -192,7 +196,7 @@
     },
     {
       "title": "Shifting towards cash and insured patients",
-      "text": "HCG says it is raising the share of patients who pay in cash or through insurers’ claim administrators, compared with government schemes."
+      "text": "HCG’s FY 2025–26 annual report says it is raising the share of patients who pay in cash or through insurers’ claim administrators, compared with patients covered by government schemes."
     },
     {
       "title": "New hospitals add room to grow",
@@ -202,7 +206,7 @@
   "hurts": [
     {
       "title": "Payers delay or cut bills",
-      "text": "Insurers, administrators or government schemes may pay late, pay less than billed or change rates. HCG says changes to a scheme in Odisha reduced revenue per patient in its eastern centres."
+      "text": "Insurers, their claim administrators or government schemes may pay late, refuse part of a bill or change rates. HCG says changes to a state scheme in Odisha reduced revenue per patient in its eastern centres."
     },
     {
       "title": "New hospitals take time to fill",
@@ -213,8 +217,8 @@
       "text": "Cancer care depends on skilled specialists. Losing key doctors or struggling to hire can limit what a centre offers."
     },
     {
-      "title": "Machines become costly or outdated",
-      "text": "Treatment machines need upgrades and replacing. An underused or outdated machine weighs on earnings."
+      "title": "Borrowing costs and funding",
+      "text": "New beds and machines are paid for partly with loans. HCG’s annual report says that difficulty raising money on time, or higher interest rates, could affect its expansion plans and profit."
     }
   ]
 }

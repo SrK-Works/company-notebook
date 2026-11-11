@@ -114,8 +114,8 @@
     ]
   ],
   "context": [
-    "Swiggy sold one distribution business in September 2026",
-    "Authorised distribution means supplying a brand’s goods to shops and wholesalers on the brand’s behalf. Swiggy’s 7 September 2026 disclosure says this business-to-business activity would be moved into a subsidiary, Lynks Logistics, and sold to Trustroot Internet, the parent of the wholesale-trading business Udaan. Swiggy is paid in Trustroot shares rather than cash. The October 2026 shareholders’ letter says this business stops being part of Swiggy’s reported results from the October–December 2026 quarter. Other storage and delivery services for sellers remain, so read what customers pay for in each remaining activity rather than assuming earlier sales will repeat."
+    "September 2026: Swiggy agreed to sell one distribution business",
+    "Authorised distribution means supplying a brand’s goods to shops and wholesalers on the brand’s behalf. Swiggy’s 7 September 2026 disclosure says this business-to-business activity would be moved into a subsidiary called Lynks and sold to Trustroot Internet, the parent of the wholesale-trading business Udaan. Swiggy is paid in Trustroot shares rather than cash. The October 2026 shareholders’ letter says this business stops being part of Swiggy’s reported results from the October–December 2026 quarter. Other storage and delivery services for sellers remain, so read what customers pay for in each remaining activity rather than assuming earlier sales will repeat."
   ],
   "sources": [
     [
@@ -142,63 +142,63 @@
   "financialNotes": [
     {
       "title": "The existing table uses the financial statement’s measure",
-      "text": "It preserves external revenue after inter-segment adjustments and the reported segment result. Adjusted EBITDA and gross order value must not be substituted into those columns."
+      "text": "It preserves external revenue after inter-segment adjustments and the reported segment result. Swiggy’s own adjusted earnings before interest, tax, depreciation and amortisation (EBITDA) and gross order value must not be substituted into those columns."
     },
     {
       "title": "Read the losses as part of the business story",
       "text": "The verified snapshot shows different outcomes across food delivery, out-of-home, quick commerce, supply chain and innovations. Segment results still require the source’s reconciliation for other income, share-based payments, finance, depreciation and other items before group net profit."
     }
   ],
-  "checked": "31 October 2026",
+  "checked": "11 November 2026",
   "stepsTitle": "From an order in the app to the doorstep.",
   "quick": [
     {
       "title": "What it does",
-      "text": "Swiggy lets people order restaurant meals, get groceries delivered through Instamart, and book dining and event services. It also stores and distributes goods for businesses."
+      "text": "Swiggy’s app lets people order restaurant meals, get groceries delivered quickly through Instamart, and book restaurant tables and events. It also stores and moves goods for businesses."
     },
     {
       "title": "Who pays",
-      "text": "People ordering meals, groceries and experiences. Restaurants and sellers pay to reach buyers. Businesses pay for storage and distribution."
+      "text": "People pay for meals, groceries, delivery and memberships. Restaurants and sellers pay Swiggy a share of each order and pay for advertising in the app. Businesses pay for storage and delivery of goods."
     },
     {
       "title": "How it earns",
-      "text": "Fees for arranging orders, delivery charges, advertising, memberships, and sales of goods and distribution services. It does not keep everything a customer pays."
+      "text": "It keeps a fee or share from each order, plus delivery charges, advertising, memberships and sales of goods. Most of what a customer pays goes on to the restaurant or seller."
     },
     {
       "title": "What it spends on",
-      "text": "Delivery workers and partners, storage sites, technology and discounts or promotions."
+      "text": "Delivery riders, the small warehouses that pack grocery orders, technology, and discounts and promotions to win customers."
     }
   ],
   "helps": [
     {
-      "title": "Repeat orders",
-      "text": "Customers who order again and again help spread delivery and site costs."
+      "title": "Customers keep coming back",
+      "text": "Swiggy’s October 2026 shareholders’ letter says Instamart kept more of its customers ordering from one month to the next than in earlier quarters, and repeat buyers ordered more often. Repeat orders spread delivery and store costs."
     },
     {
-      "title": "Memberships bring people back",
-      "text": "A membership can encourage people to return or try another Swiggy service, though its benefits still have to be paid for."
+      "title": "Restaurants pay for advertising",
+      "text": "The same letter says advertising by restaurants in the app helped raise the share of each food order’s value that Swiggy keeps to its highest level."
     },
     {
-      "title": "Restaurants and sellers pay too",
-      "text": "Advertising and other services let restaurants and sellers pay to reach Swiggy’s customers."
+      "title": "Food delivery earns a profit",
+      "text": "By Swiggy’s own adjusted measure, food delivery made its highest-ever operating profit in July–September 2026, while Instamart was still losing money."
     }
   ],
   "hurts": [
     {
       "title": "Orders are costly to win",
-      "text": "Discounts and advertising can stop rising demand from producing enough earnings."
+      "text": "Swiggy says Instamart’s losses rose in July–September 2026 because it spent on lower prices for some shoppers and on winning back inactive ones. It expects competition from other quick-delivery and online shops to stay intense."
     },
     {
-      "title": "Late or missing items",
-      "text": "Late, missing or unavailable items can stop people ordering again and create extra costs."
+      "title": "Instamart needs far more orders",
+      "text": "Swiggy says Instamart must reach about 2.3 times its current order value before it stops losing money by Swiggy’s adjusted measure."
     },
     {
-      "title": "New sites keep losing money",
-      "text": "New grocery sites pay rent and staff before they are busy, and may need funding for some time."
+      "title": "New stores cost money first",
+      "text": "Instamart added 69 grocery stores in July–September 2026. Each new store pays rent and staff before it is busy."
     },
     {
-      "title": "Rules and relationships change",
-      "text": "Food safety, consumer rights, rules about delivery workers, data protection or partner disputes can affect costs."
+      "title": "Storage and distribution lose money",
+      "text": "Swiggy’s supply-chain and distribution segment, which stores and moves goods for businesses, reported an operating loss in each of the last five quarters."
     }
   ]
 }
