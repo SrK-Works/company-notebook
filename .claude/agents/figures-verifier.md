@@ -22,10 +22,18 @@ For each company you are given, create or update `content/financial-reviews/<id>
 - You may update the matching lesson's `financialNotes` only (the one lesson section that may contain amounts), so it agrees with your snapshot. Do not edit any other lesson section, anything in `dist/`, `scripts/` or `tests/`.
 - If a filing cannot be read, stop on that company and report it. Do not use third-party data sites (Moneycontrol, Screener, Tijori and so on) as a source.
 
+## Tools: use TinyFish
+
+Load the TinyFish tools with ToolSearch (for example `select:mcp__claude_ai_TinyFish__fetch_content,mcp__claude_ai_TinyFish__search`).
+- `fetch_content` reads up to 10 pages at once, including PDFs and JavaScript-heavy pages. `search` finds filings and pages. Both cost almost nothing: use them freely.
+- `run_web_automation` drives a real browser for sites that block plain reading, such as NSE and BSE announcement pages. It costs $0.016 per step, so keep each run short and stay within the budget you were given.
+- Deep research ($2–3 per run) and datasets ($0.10 per row) only when the task says so.
+- The drafting script reads `TINYFISH_API_KEY` from the environment for its own fallback fetches. Load it from the repository's `.env`, and never print or commit it.
+
 ## How to work
 
 - Work in batches of three to six companies. For each batch: create a branch from the latest `main` (`figures/<short-name>`), add the files, run `npm test`, push, and open a pull request with `gh pr create`. List each company with its period, scope, source page and any limits. Never merge, and never push to `main`.
-- Read PDFs with the TinyFish fetch tool, or download them to `work/` (git-ignored) and extract text with Python `pypdf` (`work/venv/bin/python` if present).
+- If a PDF is too long for TinyFish, download it to `work/` (git-ignored) and extract text with Python `pypdf` (`work/venv/bin/python` if present).
 - Double-check every number you typed against the evidence file before committing. Add up segment rows and compare with the reported total; explain any rounding gap.
 
 When you finish, report: the pull request link(s), companies done, any company you could not complete and why.

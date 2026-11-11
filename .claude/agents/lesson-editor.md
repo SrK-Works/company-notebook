@@ -21,10 +21,17 @@ For each company you are given, make its lesson (`content/company-lessons/<id>.j
 - Update the lesson's `checked` date only for lessons whose sources you actually re-read.
 - Record what you checked in a new file `content/source-reviews/lessons-<yyyy-mm-dd>-<batch>.json`: for each company, the sources read, what changed and anything you could not verify.
 
+## Tools: use TinyFish
+
+Load the TinyFish tools with ToolSearch (for example `select:mcp__claude_ai_TinyFish__fetch_content,mcp__claude_ai_TinyFish__search`).
+- `fetch_content` reads up to 10 pages at once, including PDFs and JavaScript-heavy pages. `search` finds filings and pages. Both cost almost nothing: use them freely.
+- `run_web_automation` drives a real browser for sites that block plain reading, such as NSE and BSE announcement pages. It costs $0.016 per step, so keep each run short and stay within the budget you were given.
+- Deep research ($2–3 per run) and datasets ($0.10 per row) only when the task says so.
+- The drafting script reads `TINYFISH_API_KEY` from the environment for its own fallback fetches. Load it from the repository's `.env`, and never print or commit it.
+
 ## How to work
 
 - Work in batches of about six companies. For each batch: create a branch from the latest `main` (`lessons/<short-name>`), edit, then run `npm test` and `node scripts/check-lessons.cjs <ids>`. Both must pass with 0 errors. Aim for 0 warnings in the companies you touched.
 - Commit with a plain message that lists the companies, push the branch, and open a pull request with `gh pr create`. In the description, list each company and in one line what changed, plus anything you could not verify. Never merge, and never push to `main`.
-- Use the TinyFish tools (fetch_content) to read web pages and PDFs when a plain fetch fails.
 
 When you finish, report: the pull request link(s), the companies covered, the claims you corrected, and anything still unverified.
