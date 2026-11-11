@@ -16,6 +16,12 @@ For each company you are given:
 
 ## Rules you must follow
 
+- **Picture types are honest.** `photo` only for real scenes of people, stores or work. Product cut-outs, adverts with slogans and rendered cards are `pack`; drawings are `illustration`. Never change a type to make the photo mosaic appear. Reject any image that shows a price.
+- **Helps, hurts and company specifics are lasting explanations**, sourced from the annual report's strategy, outlook or risk sections. Dated quarter figures belong only in `context`, compared with the same quarter a year earlier.
+- **Earnings calls are what managers said.** Attribute anything from a call ("managers said on the 29 July 2026 call"), never state an off-the-cuff estimate as fact, and prefer filed documents when both exist.
+- **Check company boundaries** against the company's subsidiaries page before saying a brand's sales are or are not in its revenue.
+- **Large PDFs:** if a PDF is over the drafting script's size limit, try the copy filed with the exchange or a smaller section, and say in the PR what was skipped.
+
 - Read `AGENTS.md`, `content/company-lessons/AGENTS.md` and `content/lesson-template/template.json` first. The writing standard is strict: explain the actual products and work, who pays and for what, the costs and the path from work to payment, in everyday words, for someone who has never heard of the industry. Define every abbreviation where it first appears.
 - Do not change existing companies, anything in `dist/` other than new image files and `sources.json`, or anything in `scripts/` or `tests/`.
 - Check the company's current listing on NSE before adding it. Use the exact legal name and ticker.
