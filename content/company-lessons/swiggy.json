@@ -142,7 +142,7 @@
   "financialNotes": [
     {
       "title": "The existing table uses the financial statement’s measure",
-      "text": "It preserves external revenue after inter-segment adjustments and the reported segment result. Swiggy’s own adjusted earnings before interest, tax, depreciation and amortisation (EBITDA) and gross order value must not be substituted into those columns."
+      "text": "It preserves external revenue after inter-segment adjustments and the reported segment result. Swiggy’s own profit measure (adjusted EBITDA) is roughly profit from running the business before loan costs, tax and the wearing-out of equipment, and it also leaves out staff pay given in shares and some other items. That measure, and gross order value, must not be substituted into those columns."
     },
     {
       "title": "Read the losses as part of the business story",
@@ -171,34 +171,34 @@
   ],
   "helps": [
     {
-      "title": "Customers keep coming back",
-      "text": "Swiggy’s October 2026 shareholders’ letter says Instamart kept more of its customers ordering from one month to the next than in earlier quarters, and repeat buyers ordered more often. Repeat orders spread delivery and store costs."
+      "title": "Repeat customers spread costs",
+      "text": "Swiggy’s FY 2025–26 annual report says every new customer, restaurant, store and rider makes the app more useful to the others. When the same people order again and again, the cost of riders, stores and the app is spread over more orders."
     },
     {
-      "title": "Restaurants pay for advertising",
-      "text": "The same letter says advertising by restaurants in the app helped raise the share of each food order’s value that Swiggy keeps to its highest level."
+      "title": "Restaurants and brands pay for advertising",
+      "text": "Besides its share of each order, Swiggy sells advertising inside the app to restaurants and brands that want to be seen first. That income comes on top of order fees; in July–September 2026 it helped Swiggy keep its highest-ever share of food-order value."
     },
     {
-      "title": "Food delivery earns a profit",
-      "text": "By Swiggy’s own adjusted measure, food delivery made its highest-ever operating profit in July–September 2026, while Instamart was still losing money."
+      "title": "Busier stores earn more",
+      "text": "The annual report says Instamart’s grocery stores can handle many more orders as they fill up. Each extra order shares the same rent and staff, so a busy store costs less per order than a quiet one."
     }
   ],
   "hurts": [
     {
-      "title": "Orders are costly to win",
-      "text": "Swiggy says Instamart’s losses rose in July–September 2026 because it spent on lower prices for some shoppers and on winning back inactive ones. It expects competition from other quick-delivery and online shops to stay intense."
+      "title": "Rivals compete on price",
+      "text": "Swiggy’s annual report describes strong competition in food and quick grocery delivery. Rivals offer discounts and fast delivery, so Swiggy may have to spend on lower prices to keep customers, and its October 2026 letter does not expect this to ease soon."
     },
     {
-      "title": "Instamart needs far more orders",
-      "text": "Swiggy says Instamart must reach about 2.3 times its current order value before it stops losing money by Swiggy’s adjusted measure."
+      "title": "Rules can raise costs",
+      "text": "The annual report says changes in laws on social security for delivery riders, food safety, data protection, consumer protection and foreign ownership could raise its costs or force it to change how it works."
+    },
+    {
+      "title": "Quick grocery delivery still loses money",
+      "text": "Swiggy estimates Instamart must reach roughly 2.3 times today’s yearly order value, and keep more from each order, before it stops losing money by its own adjusted measure, which leaves out some costs such as staff pay given in shares. That is a company estimate, not a promise."
     },
     {
       "title": "New stores cost money first",
-      "text": "Instamart added 69 grocery stores in July–September 2026. Each new store pays rent and staff before it is busy."
-    },
-    {
-      "title": "Storage and distribution lose money",
-      "text": "Swiggy’s supply-chain and distribution segment, which stores and moves goods for businesses, reported an operating loss in each of the last five quarters."
+      "text": "Each new grocery store pays rent and staff before it is busy. Swiggy’s annual report says it front-loaded spending on stores before shifting to filling the ones it has."
     }
   ]
 }

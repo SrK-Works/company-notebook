@@ -34,10 +34,12 @@
         "Defined MHP; removed the word 'platform' by describing ready-made software.",
         "helps 'Faster tools can cut costs' was not supported by the sources read; replaced with the October 2026 release's statement that demand for AI work keeps growing.",
         "helps on industries and multi-year contracts now cite the quarter's industry split and the Porsche/Best Buy agreements.",
-        "Simplified the 'what it does' and 'how it earns' quick answers."
+        "Simplified the 'what it does' and 'how it earns' quick answers.",
+        "Revision: helps lead with the lasting mechanism (spread across industries; new technology such as AI creates new work to sell), with the quarter figure only as an example."
       ],
       "limits": [
-        "The FY 2025–26 annual report PDF on tcs.com returned Access Denied to both a direct download and TinyFish fetch, so the four hurts (spending delays, faults or data exposure, wage pressure, rules and currencies) could not be checked against its risk section. They are left as general statements."
+        "The FY 2025–26 annual report PDF on tcs.com returned Access Denied to both a direct download and TinyFish fetch, so the four hurts (spending delays, faults or data exposure, wage pressure, rules and currencies) could not be checked against its risk section. They are left as general statements.",
+        "The four TCS hurts remain unchecked against the annual report, which is still blocked."
       ]
     },
     {
@@ -50,7 +52,8 @@
       "changes": [
         "Defined DISCOM, AMISP, UDAY and RDSS where first used.",
         "hurts 'Installing millions of meters depends on access, local approval and skilled crews' was not in the source; replaced with the report's project-execution risk (fitting, network connection, years of upkeep).",
-        "Context: replaced news-report wording with the official 28 October filing (board approved on 26 October a tender-offer buyback of up to 4.75 million shares, record date 30 October; promoters not tendering)."
+        "Context: replaced news-report wording with the official 28 October filing (board approved on 26 October a tender-offer buyback of up to 4.75 million shares, record date 30 October; promoters not tendering).",
+        "Revision: buyback source link switched from BSE AttachLive to AttachHis. UDAY now explained by what the scheme did, from the annual report. The share count stays in millions because lakh is not allowed outside financialNotes."
       ],
       "limits": [
         "The lesson checked date stays 31 October 2026 because tests/new-companies.test.cjs requires that value; the sources were re-read on 11 November 2026."
@@ -78,13 +81,15 @@
         "Quarterly update 6 October 2026",
         "FY 2025–26 results commentary page",
         "Q4 FY26 earnings presentation",
-        "Q2 FY27 results 5 November 2026 (new source)"
+        "Q2 FY27 results 5 November 2026 (new source)",
+        "FY 2025–26 annual report (enterprise risks: regulatory/customs duty, geopolitical/gold price volatility; commodity-risk disclosure on gold lease and hedging; competition notes for CaratLane and watches)"
       ],
       "changes": [
         "Added IRTH and SKINN to the company's brand aliases.",
         "hurts 'Quality or service problems' and 'Strong competitors' were not in the sources read; replaced with the Gulf demand problems and the emerging businesses' loss, both stated by Titan.",
         "helps on gold loans now cites 'gold on loan' and hedges in the results; new-shops help cites 78 net additions.",
-        "Context moved to 5 November 2026 results: reported profit lifted by a one-off customs-duty gain on gold."
+        "Context moved to 5 November 2026 results: reported profit lifted by a one-off customs-duty gain on gold.",
+        "Revision: restored 'Strong competitors', now sourced from the annual report (growing competitive intensity for CaratLane, heightened competition in watches). Hurts are now gold price swings, customs-duty changes and competition, all from the annual report's risk sections; the quarter-specific Gulf and emerging-business points were removed. Gold-loan help now explains the annual report's mechanism (gold leased from banks, price fixed at sale). New-shops help leads with the mechanism; 78 shops is only an example."
       ],
       "limits": []
     },
@@ -92,17 +97,20 @@
       "company": "swiggy",
       "sourcesRead": [
         "Q2 FY2027 shareholders' letter 22 October 2026",
-        "Lynks sale intimation 7 September 2026"
+        "Lynks sale intimation 7 September 2026",
+        "FY 2025–26 annual report (network effects, advertising services, dark-store utilisation, competitive intensity, regulatory risk paragraph naming gig-worker social security, food safety, data protection, consumer protection and foreign investment)"
       ],
       "changes": [
         "Defined EBITDA; removed 'logistics' from the context.",
         "helps 'Memberships bring people back' was not supported; all helps and hurts rewritten to the letter's stated facts (Instamart retention, advertising raising the share Swiggy keeps, food-delivery profit, Instamart losses and scale needed, 69 new stores, supply-chain losses).",
         "hurts 'Late or missing items' and 'Rules and relationships change' were not in the sources read and were removed.",
-        "Context title now says Swiggy agreed to sell the business (expected completion 22 October 2026 per the filing; completion not confirmed)."
+        "Context title now says Swiggy agreed to sell the business (expected completion 22 October 2026 per the filing; completion not confirmed).",
+        "Revision: helps and hurts rewritten as lasting mechanisms (repeat customers, advertising income, busier stores; price competition, rules, Instamart losses, new stores) from the annual report. Restored the rules hurt (gig-worker social security, food safety, data and consumer protection) from the annual report's regulatory risk paragraph. Removed the supply-chain-segment hurt, which goes stale once Lynks leaves. Instamart break-even now written as the company's estimate with both conditions (about 2.3 times order value and keeping more per order), without the rupee figure. Adjusted EBITDA explained in plain words."
       ],
       "limits": [
         "Completion of the Lynks sale was not confirmed in an official filing."
       ]
     }
-  ]
+  ],
+  "revision": "11 November 2026, after direction review of PR #15: helps and hurts rewritten as lasting explanations sourced from annual-report risk, strategy or outlook sections; quarter figures kept only as short examples or in context."
 }
