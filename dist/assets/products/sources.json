@@ -3053,7 +3053,7 @@
       "category": "Cards for paying in shops and online",
       "src": "https://www.kotak.bank.in/content/dam/Kotak/personalization-images/desktop-herobanner/mdc-all-cards-d.jpg",
       "url": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards.html",
-      "kind": "photo",
+      "kind": "pack",
       "alt": "Five Kotak bank cards in silver, red, black, rose and gold on a black background — image from Kotak Mahindra Bank’s website",
       "image": "assets/products/kotak-mahindra-bank-cards.webp",
       "reviewed": "2026-11-11"
@@ -3086,8 +3086,8 @@
       "category": "Accounts and money transfers for shops and companies",
       "src": "https://www.kotak.bank.in/content/dam/Kotak/article-images/current-account/how-neft-rtgs-simplify-vendor-payments-t.jpg",
       "url": "https://www.kotak.bank.in/en/home.html",
-      "kind": "photo",
-      "alt": "Folders marked “Vendors” and “Payments processed” beside a tablet showing “Transfer complete” — illustration from a Kotak Mahindra Bank article about paying suppliers",
+      "kind": "illustration",
+      "alt": "Folders marked “Vendors” and “Payments processed” beside a tablet showing “Transfer complete” — drawn illustration from a Kotak Mahindra Bank article about paying suppliers; not a photograph",
       "image": "assets/products/kotak-mahindra-bank-business.webp",
       "reviewed": "2026-11-11"
     },
@@ -3252,7 +3252,7 @@
       "category": "Products made for Star and sold under its own names",
       "src": "https://trentlimited.com/cdn/shop/files/star_img.png?v=1707367572",
       "url": "https://trentlimited.com/",
-      "kind": "photo",
+      "kind": "pack",
       "alt": "Green tubes and bottles of Skye face wash and hand wash beside a towel, with the Star logo — image from Trent’s website",
       "image": "assets/products/trent-star-own-brands.webp",
       "reviewed": "2026-11-11"
@@ -3285,7 +3285,7 @@
       "category": "Packaged iodised salt and lower-sodium versions",
       "src": "https://www.tataconsumer.com/sites/g/files/gfwrlq316/files/Tata-Salt-Banner_800x783%20%282%29_0.jpg",
       "url": "https://www.tataconsumer.com/brands/foods/tata-salt",
-      "kind": "photo",
+      "kind": "pack",
       "alt": "A row of Tata Salt packets in different colours under the line “Desh ki sehat, Desh ka namak” — official image from Tata Consumer Products’ website",
       "image": "assets/products/tata-consumer-products-tata-salt.webp",
       "reviewed": "2026-11-11"
@@ -3318,7 +3318,7 @@
       "category": "Packaged coffee sold in the United States",
       "src": "https://www.tataconsumer.com/sites/g/files/gfwrlq316/files/m_brand-portfolio-eightoclock.jpg",
       "url": "https://www.tataconsumer.com/brands/coffee/eight-o-clock",
-      "kind": "photo",
+      "kind": "pack",
       "alt": "A red cup of coffee beside Eight O’Clock coffee bags against a red wall — image from Tata Consumer Products’ website",
       "image": "assets/products/tata-consumer-products-eight-o-clock.webp",
       "reviewed": "2026-11-11"
@@ -3340,21 +3340,21 @@
       "category": "Sauces, noodles, chutneys and cooking pastes",
       "src": "https://www.tataconsumer.com/sites/g/files/gfwrlq316/files/tcpl-capital-foods_0.png",
       "url": "https://www.tataconsumer.com/brands/foods/chings-secret",
-      "kind": "photo",
+      "kind": "pack",
       "alt": "A bottle of Ching’s red chilli sauce, a Smith & Jones ginger garlic paste pouch and two Ching’s sachets — image from Tata Consumer Products’ website",
       "image": "assets/products/tata-consumer-products-chings-smith-jones.webp",
       "reviewed": "2026-11-11"
     },
     {
       "company": "tata-consumer-products",
-      "name": "Tata Gluco Plus",
-      "category": "Ready-to-drink glucose drinks in cups and bottles",
-      "src": "https://www.tataconsumer.com/sites/g/files/gfwrlq316/files/Tata%20Gluco%2B.png",
-      "url": "https://www.tataconsumer.com/brands/water/tata-gluco-plus",
-      "kind": "photo",
-      "alt": "Cups of Tata Gluco Plus drinks in orange, lemon and other flavours with splashes of juice — image from Tata Consumer Products’ website",
-      "image": "assets/products/tata-consumer-products-gluco-plus.webp",
-      "reviewed": "2026-11-11"
+      "name": "Tata Fruski",
+      "category": "Ready-to-drink fruit drinks in bottles",
+      "src": "https://www.tataconsumer.com/sites/g/files/gfwrlq316/files/Fruski-Digital-Banner-800x547-min.jpg",
+      "url": "https://www.tataconsumer.com/brands/liquid-beverages/tata-fruski",
+      "kind": "pack",
+      "alt": "Three bottles of Tata Fruski drinks (jeera masala, lemon masala and mango) in front of a smiling woman — advertising image from Tata Consumer Products’ website",
+      "image": "assets/products/tata-consumer-products-fruski.webp",
+      "reviewed": "2026-11-12"
     },
     {
       "company": "tata-consumer-products",

@@ -138,7 +138,7 @@
       "category": "Cards for paying in shops and online",
       "image": "assets/products/kotak-mahindra-bank-cards.webp",
       "url": "https://www.kotak.bank.in/en/personal-banking/cards/credit-cards.html",
-      "kind": "photo",
+      "kind": "pack",
       "alt": "Five Kotak bank cards in silver, red, black, rose and gold on a black background — image from Kotak Mahindra Bank’s website"
     },
     {
@@ -162,8 +162,8 @@
       "category": "Accounts and money transfers for shops and companies",
       "image": "assets/products/kotak-mahindra-bank-business.webp",
       "url": "https://www.kotak.bank.in/en/home.html",
-      "kind": "photo",
-      "alt": "Folders marked “Vendors” and “Payments processed” beside a tablet showing “Transfer complete” — illustration from a Kotak Mahindra Bank article about paying suppliers"
+      "kind": "illustration",
+      "alt": "Folders marked “Vendors” and “Payments processed” beside a tablet showing “Transfer complete” — drawn illustration from a Kotak Mahindra Bank article about paying suppliers; not a photograph"
     }
   ]
 }

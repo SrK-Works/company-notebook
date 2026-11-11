@@ -90,7 +90,7 @@
       "category": "Packaged iodised salt and lower-sodium versions",
       "image": "assets/products/tata-consumer-products-tata-salt.webp",
       "url": "https://www.tataconsumer.com/brands/foods/tata-salt",
-      "kind": "photo",
+      "kind": "pack",
       "alt": "A row of Tata Salt packets in different colours under the line “Desh ki sehat, Desh ka namak” — official image from Tata Consumer Products’ website"
     },
     {
@@ -114,7 +114,7 @@
       "category": "Packaged coffee sold in the United States",
       "image": "assets/products/tata-consumer-products-eight-o-clock.webp",
       "url": "https://www.tataconsumer.com/brands/coffee/eight-o-clock",
-      "kind": "photo",
+      "kind": "pack",
       "alt": "A red cup of coffee beside Eight O’Clock coffee bags against a red wall — image from Tata Consumer Products’ website"
     },
     {
@@ -130,16 +130,16 @@
       "category": "Sauces, noodles, chutneys and cooking pastes",
       "image": "assets/products/tata-consumer-products-chings-smith-jones.webp",
       "url": "https://www.tataconsumer.com/brands/foods/chings-secret",
-      "kind": "photo",
+      "kind": "pack",
       "alt": "A bottle of Ching’s red chilli sauce, a Smith & Jones ginger garlic paste pouch and two Ching’s sachets — image from Tata Consumer Products’ website"
     },
     {
-      "name": "Tata Gluco Plus",
-      "category": "Ready-to-drink glucose drinks in cups and bottles",
-      "image": "assets/products/tata-consumer-products-gluco-plus.webp",
-      "url": "https://www.tataconsumer.com/brands/water/tata-gluco-plus",
-      "kind": "photo",
-      "alt": "Cups of Tata Gluco Plus drinks in orange, lemon and other flavours with splashes of juice — image from Tata Consumer Products’ website"
+      "name": "Tata Fruski",
+      "category": "Ready-to-drink fruit drinks in bottles",
+      "image": "assets/products/tata-consumer-products-fruski.webp",
+      "url": "https://www.tataconsumer.com/brands/liquid-beverages/tata-fruski",
+      "kind": "pack",
+      "alt": "Three bottles of Tata Fruski drinks (jeera masala, lemon masala and mango) in front of a smiling woman — advertising image from Tata Consumer Products’ website"
     },
     {
       "name": "Tata Starbucks",

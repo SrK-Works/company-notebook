@@ -74,19 +74,19 @@
   "specifics": [
     {
       "title": "One bank, several businesses under it",
-      "text": "The bank fully owns its broker, fund manager, life insurer and car-loan company. Most group profit comes from lending, but share trading and fund fees add income that does not depend on borrowers repaying."
+      "text": "The bank fully owns its broker, fund manager, life insurer and car-loan company. Its annual report says keeping them in one group lets it keep all the value they create and offer customers several products together."
     },
     {
-      "title": "Rate cuts squeeze the margin for a while",
-      "text": "When the Reserve Bank of India (RBI) cuts its policy rate, many loan rates fall at once, while fixed deposits keep their old rate until they end. Kotak says this is what pressed its margin in 2025–26."
+      "title": "Tractor and truck loans run as separate businesses",
+      "text": "Kotak runs tractor loans, and loans for trucks and construction machines, as stand-alone businesses with their own dealer links. Its presentation says tractor lending reaches more than 600 districts and that truck lending rises and falls with freight and building activity."
     },
     {
       "title": "Most loans are backed by something",
-      "text": "Home loans, gold loans, vehicle loans and business loans make up most lending. Unsecured retail loans, including microcredit, were about 8% of net advances in September 2026, so most borrowers have pledged something the bank can sell."
+      "text": "Home, gold, vehicle and business loans make up most lending. Personal loans, credit cards and microcredit (very small loans to low-income borrowers, mostly women) are unsecured: nothing is pledged, so they charge more interest but lose more when times are hard."
     },
     {
-      "title": "Cheap deposits became a smaller share",
-      "text": "The CASA ratio was 38.2% at 30 September 2026, against 42.3% a year earlier. Kotak says the large inflow of FCNR fixed deposits explains much of the fall; without them the ratio was 41.8%."
+      "title": "A phone-only account for many small savers",
+      "text": "Kotak811 lets people open and run a savings account entirely on a phone. Kotak’s presentation says this costs less to win and serve each customer and brings in many small, steady deposits."
     }
   ],
   "watch": [
@@ -98,7 +98,7 @@
     [
       "Are bad loans in personal loans, cards and microcredit still falling?",
       "Unsecured loans earn more interest but lose more when borrowers stop paying.",
-      "Compare new bad loans (slippages), gross and net NPA ratios and credit cost on the asset-quality slide of several quarterly presentations."
+      "Compare new bad loans (slippages), gross and net NPA ratios and credit cost (new provisions as a share of loans) on the asset-quality slide of several quarterly presentations."
     ],
     [
       "Are deposits keeping up with loans?",
@@ -135,12 +135,12 @@
     ],
     [
       "Quiet stock markets",
-      "Broking and fund fees fall when fewer people trade or invest. Kotak Securities’ profit in July to September 2026 was 35% lower than in the previous quarter."
+      "Broking and fund fees fall when fewer people trade or invest. Kotak Securities earned about the same profit in July to September 2026 as a year earlier, and less than in the busier previous quarter."
     ]
   ],
   "context": [
-    "July to September 2026: a wave of dollar deposits",
-    "On 24 October 2026 Kotak said it took in FCNR fixed deposits from Indians abroad during the quarter, under a Reserve Bank swap facility, and lent part of the money through its overseas branches. Total deposits were 23% higher than a year earlier, or 13% without these deposits. The bank said this inflow was the main reason its net interest margin fell to 4.31% from 4.54%. This describes one quarter, not a trend."
+    "July to September 2026: dollar deposits and fewer bad loans",
+    "On 24 October 2026 Kotak reported results for July to September 2026. Compared with the same quarter a year earlier, deposits were 23% higher, or 13% without the FCNR deposits from Indians abroad that it took in during the quarter and partly lent through its overseas branches. Its net interest margin fell to 4.31% from 4.54%, which the bank said was largely because of those deposits, and the CASA ratio fell to 38.2% from 42.3%. Bad loans eased: gross NPAs were 1.04% of loans against 1.39%, and credit cost, the new provisions for bad loans as a yearly share of loans, fell to 0.35% from 0.79%. This describes one quarter."
   ],
   "sources": [
     [
@@ -183,30 +183,34 @@
   ],
   "helps": [
     {
-      "title": "A large capital cushion",
-      "text": "At 30 September 2026 Kotak’s capital adequacy ratio, its own capital compared with the risk in its loans and investments, was 21.9%. More capital means the bank can absorb losses and keep lending."
+      "title": "Fee businesses cushion the lending business",
+      "text": "Broking, company advice and fund management earn fees that do not depend on the gap between loan and deposit rates. Kotak’s annual report says these businesses held up in 2025–26 while rate cuts squeezed its lending margin."
     },
     {
-      "title": "Fewer bad loans than a year earlier",
-      "text": "Gross bad loans were 1.04% of loans at 30 September 2026, down from 1.39% a year earlier, and the annualised credit cost fell to 0.35% from 0.79%. Fewer bad loans mean smaller provisions."
+      "title": "A thick layer of the owners’ own money",
+      "text": "Capital is the owners’ money in the bank, which absorbs losses before depositors are hurt. Kotak’s annual report describes its capital position as robust; more capital lets a bank keep lending through bad years."
     },
     {
-      "title": "Profit from more than lending",
-      "text": "Kotak Securities, the fund manager, Kotak Mahindra Prime and Kotak Mahindra Life Insurance each reported a profit in July to September 2026, so group profit was higher than the bank’s own."
+      "title": "Branches for advice, apps for everyday banking",
+      "text": "Kotak calls its branches the main channel for building relationships, while routine payments move to its apps. That lets branch staff spend their time on customers who borrow, save or invest more."
     }
   ],
   "hurts": [
     {
-      "title": "The margin dipped in the latest quarter",
-      "text": "Net interest margin fell to 4.31% in July to September 2026 from 4.54% a year earlier. Kotak said this was largely because of the foreign-currency deposits from Indians abroad (FCNR deposits) it took in."
+      "title": "Borrowers who stop repaying",
+      "text": "Kotak’s annual report calls credit risk, the chance that borrowers do not pay back, its most significant risk. Each bad loan needs a provision that comes straight out of profit."
     },
     {
-      "title": "Cheaper deposits are a smaller share",
-      "text": "The share of deposits sitting in low-interest current and savings accounts (the CASA ratio) fell to 38.2% from 42.3% a year earlier. More of the bank’s money now comes from fixed deposits, which cost more."
+      "title": "Rate cuts squeeze the margin for a while",
+      "text": "When the Reserve Bank of India (RBI) cuts rates, many loan rates fall at once, while fixed deposits keep their old rate until they end. Kotak says this pressed its margin in 2025–26."
     },
     {
-      "title": "Microcredit had a hard year",
-      "text": "Kotak’s annual report says microcredit lending shrank across the industry in 2025–26 and that its own microcredit book contracted before starting to recover, with credit costs elevated."
+      "title": "Savers are hard to win",
+      "text": "When loans grow faster than deposits across the banking system, banks compete for the same savers and must pay them more. Kotak’s annual report says this happened in 2025–26."
+    },
+    {
+      "title": "Small unsecured loans go bad first",
+      "text": "In hard times, personal loans, cards and microcredit are the first to see missed payments, because nothing is pledged against them. Kotak’s annual report describes stress in these loans across the industry in 2025–26."
     }
   ],
   "checked": "11 November 2026"

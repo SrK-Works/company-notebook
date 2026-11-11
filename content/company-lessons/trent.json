@@ -1,6 +1,6 @@
 {
   "summary": "Trent, a Tata Group company, runs Westside and Zudio clothing stores that sell clothes, shoes and beauty products under its own labels. It also runs Star supermarkets with a partner and owns part of Zara’s Indian stores.",
-  "description": "Trent designs clothes, footwear, beauty products and home items, has suppliers make them, and sells them in its own shops and online. Westside stores, mostly 20,000 to 30,000 square feet, sell mid-priced fashion and home goods. Zudio stores, around 10,000 to 12,000 square feet, sell clothes and beauty products at low prices. At 30 September 2026 it ran 311 Westside, 999 Zudio and 32 other fashion stores in 339 cities, three of them in the United Arab Emirates. Star supermarkets sell groceries, fresh food and daily needs.",
+  "description": "Trent designs clothes, footwear, beauty products and home items, has suppliers make them, and sells them in its own shops and online. Westside stores, mostly 20,000 to 30,000 square feet, sell mid-priced fashion and home goods. Zudio stores, around 10,000 to 12,000 square feet, sell clothes and beauty products at low prices. At 30 September 2026 it ran 311 Westside, 999 Zudio and 32 other fashion stores in 339 cities; three of those cities are in the United Arab Emirates. Star supermarkets sell groceries, fresh food and daily needs.",
   "money": "Trent earns money by selling goods to shoppers in its stores and online. The price on the tag, minus GST, is its revenue. It spends on buying the clothes and other goods from suppliers, store rent, staff, warehouses and moving stock to stores, and on opening new stores. Clothes that do not sell must be marked down or written off. The shopper’s payment is revenue, not profit.",
   "customers": "Shoppers pay at the till or online for the clothes, shoes, cosmetics and home items they take home. Westside also sells through Westside.com, Tata Cliq and Tata Neu. Star’s shoppers buy groceries and fresh produce. Booker Wholesale sells in bulk to kirana stores (small neighbourhood shops), traders, hotels, restaurants and caterers.",
   "drivers": "How many new stores open and how quickly they fill up, how much each existing store sells compared with a year earlier, and whether prices stay steady while the cost of buying goods and renting stores rises.",
@@ -41,8 +41,8 @@
       "text": "Sales growth counted only from stores that have been open for more than 18 months. It shows whether existing stores are selling more, separate from growth that comes from opening new stores."
     },
     {
-      "title": "Why are Star’s sales not in Trent’s revenue?",
-      "text": "Star stores are run mainly by Trent Hypermarket, a company Trent owns jointly with Tesco. Accounting rules for a jointly owned company mean Trent adds only its share of that company’s profit or loss, not its sales."
+      "title": "Why are only some Star sales in Trent’s revenue?",
+      "text": "Most Star stores are run by Trent Hypermarket, a company Trent owns jointly with Tesco. For a jointly owned company, accounting rules let Trent add only its share of profit or loss, not its sales. Star stores run by Fiora Hypermarket, a company inside the Trent group, are counted in full."
     }
   ],
   "steps": [
@@ -70,11 +70,11 @@
   "specifics": [
     {
       "title": "It owns the brands and runs the stores",
-      "text": "Trent sells mostly its own labels through stores it operates and keeps ownership of the stock. It controls the price and design, but it also carries the cost of stock that does not sell."
+      "text": "Trent sells mostly its own labels through stores it operates and keeps ownership of the stock until it is sold. It controls the price and design, but it also carries the cost of stock that does not sell."
     },
     {
       "title": "Growth comes mainly from new stores",
-      "text": "Same-store growth in fashion was in the mid-single digits in July to September 2026. Trent opens around 250 stores a year, many in smaller cities where it says stores take two to three years to mature."
+      "text": "Trent says it has opened around 250 stores a year in recent years, many in smaller cities. It says newer markets take two to three years to become fully relevant, so new stores sell less at first."
     },
     {
       "title": "Steady prices instead of discounts",
@@ -82,7 +82,7 @@
     },
     {
       "title": "Some rent moves with sales",
-      "text": "Some store rents and fees paid to property partners rise and fall with store sales, so part of the rent bill shrinks in a weak month."
+      "text": "Trent’s January to March 2026 presentation says some store rents and fees paid to property partners rise and fall with store sales, so part of the rent bill shrinks in a weak month."
     }
   ],
   "watch": [
@@ -136,7 +136,7 @@
   ],
   "context": [
     "July to September 2026: the 1,000th Zudio store",
-    "On 29 October 2026 Trent said it opened its 1,000th Zudio store during the quarter and now runs over 1,300 large fashion stores in 339 cities. It opened 10 Westside and 19 Zudio stores in the quarter. Trent says the full year is more representative than one quarter, because store openings are uneven from quarter to quarter."
+    "On 29 October 2026 Trent said it opened its 1,000th Zudio store during the quarter. At 30 September 2026 it ran 311 Westside stores against 261 a year earlier, and 999 Zudio stores against 806. In the quarter it opened 10 Westside and 19 Zudio stores. Trent says the full year is more representative than one quarter, because store openings are uneven."
   ],
   "sources": [
     [
@@ -167,7 +167,7 @@
   "financialNotes": [
     {
       "title": "Standalone, consolidated and Star",
-      "text": "Trent reports standalone results (Westside, Zudio and other fashion) and consolidated results. Consolidated revenue does not include Star’s sales, only Trent’s share of its profit or loss. Trent’s own operating profit measures leave out lease accounting effects, so compare them with reported profit. Verified full-year figures for this profile have not yet been added, so the financial table below is marked as awaiting verification."
+      "text": "Trent reports standalone results (Westside, Zudio and other fashion) and consolidated results. Consolidated revenue does not include the sales of Star stores run by the Tesco joint venture, only Trent’s share of their profit or loss. Trent’s own operating profit measures leave out lease accounting effects, so compare them with reported profit. Verified full-year figures for this profile have not yet been added, so the financial table below is marked as awaiting verification."
     }
   ],
   "stepsTitle": "From a design table to a shopping bag.",
@@ -191,30 +191,34 @@
   ],
   "helps": [
     {
-      "title": "Own brands and own stores",
-      "text": "Trent designs its products and sells them directly to shoppers, which it says lets it set its own value for money and differ from rivals."
+      "title": "Own brands sold directly",
+      "text": "Trent designs its products and sells them directly to shoppers. It says this lets it set its own value for money and stand apart from rivals, instead of selling the same brands as every other shop."
     },
     {
-      "title": "Strong return on money invested",
-      "text": "Trent reported a return on capital employed (ROCE), profit compared with the money tied up in the business, of over 29% in the year to March 2026. It says it pays for growth mainly from its own earnings."
+      "title": "Clusters of stores in the same area",
+      "text": "Trent adds stores close to each other in chosen areas. It says greater density, together with better stores, is lifting sales and profit for each cluster."
     },
     {
-      "title": "More to sell in the same store",
-      "text": "Beauty, innerwear and footwear were over 21% of revenue in July to September 2026, so the same stores sell more kinds of products."
+      "title": "Prices shoppers can rely on",
+      "text": "Trent keeps its prices broadly stable across categories and seasons. It says a steady price structure and steady margins build trust in its brands over time."
     }
   ],
   "hurts": [
     {
-      "title": "Existing stores are growing slowly",
-      "text": "Like-for-like growth in fashion was in the mid-single digits in July to September 2026, so most growth came from new stores."
+      "title": "Clothes are easy to put off buying",
+      "text": "Clothes and cosmetics are purchases people can put off when money is tight. Trent said in early 2026 that shoppers were cutting back on such spending."
     },
     {
-      "title": "Inflation is high across costs",
-      "text": "Trent said inflation across its cost lines remained elevated and that supply-chain disruptions continued."
+      "title": "Rising costs with steady prices",
+      "text": "Because Trent keeps its prices steady, higher costs for fabric, suppliers and transport come out of what it earns on each item until savings are found elsewhere."
     },
     {
-      "title": "Grocery is still being built",
-      "text": "Star has 87 stores in 13 cities. Trent says it remains excited about the business, but Star is still being scaled up and adds only a share of its result."
+      "title": "Heavy competition",
+      "text": "Trent says competition in Indian fashion retail has been high for several years. Rivals with lower prices or more stores can take shoppers."
+    },
+    {
+      "title": "New towns take years to pay back",
+      "text": "Many new stores are in smaller cities that Trent says take two to three years to mature. Meanwhile they still pay rent, staff and fit-out costs."
     }
   ],
   "checked": "11 November 2026"
