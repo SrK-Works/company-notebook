@@ -1,0 +1,20 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited annual financial results",
+  "checked": "12 November 2026",
+  "coverage": "Whole-group totals · one reported business segment (air transportation services)",
+  "profitMetric": "Loss after tax",
+  "definition": "Profit or loss for the year after all expenses, exceptional items and tax. A loss keeps its minus sign. It is not operating profit or cash flow.",
+  "rows": [
+    { "name": "IndiGo (InterGlobe Aviation) · whole group", "revenue": 84961.9, "profit": -2393.6 }
+  ],
+  "source": "https://nsearchives.nseindia.com/corporate/Indigo1_29052026161033_Outcome_of_BM_29052027.pdf",
+  "location": "Audited consolidated financial results, PDF page 5 (year ended 31 March 2026 column), notes 2 and 9 on PDF pages 9–10; the filing has no printed page numbers",
+  "notes": "Source figures are in ₹ million and were divided by 10. Revenue is revenue from operations (₹84,961.9 crore) and excludes other income of ₹4,551.5 crore; total income is ₹89,513.4 crore. The loss of ₹2,393.6 crore is after exceptional items of ₹1,796.4 crore (₹1,219.2 crore for the new Labour Codes and ₹577.2 crore for the December 2025 flight disruptions, including customer compensation, travel vouchers and a ₹22.2 crore regulator penalty) and a net foreign-exchange loss of ₹8,975.7 crore (₹1,617.9 crore the year before). Loss before exceptional items and tax was ₹164.1 crore; tax expense was ₹433.1 crore. ₹2,391.9 crore of the loss belongs to owners and ₹1.7 crore to minority shareholders. The group reports one business segment, so it does not disclose profit by route or product.",
+  "insight": "IndiGo’s group lost money this year after a large foreign-exchange loss and one-off costs. Fuel, aircraft maintenance and rentals, airport charges and staff pay take most of each ticket’s revenue.",
+  "status": "totals",
+  "revenueTotal": 84961.9,
+  "profitTotal": -2393.6
+}

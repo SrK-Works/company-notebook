@@ -1,0 +1,28 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated · bank group",
+  "coverage": "Reported business segments · before inter-segment eliminations",
+  "unit": "₹ crore",
+  "revenueLabel": "Total income",
+  "incomeDefinition": "Each segment’s income: interest earned on loans and investments plus fees and other income, before interest paid to depositors, operating costs and loan-loss provisions. It is not sales. Segments also charge each other, so the rows add up to more than the group’s total income.",
+  "profitMetric": "Segment result",
+  "definition": "Each segment’s profit after provisions (money set aside for possible loan losses) and before tax. The rows add up exactly to group profit before tax of ₹32,293.47 crore. It is not profit after tax.",
+  "rows": [
+    { "name": "Treasury", "revenue": 33271.81, "profit": 5064.54 },
+    { "name": "Corporate/Wholesale Banking", "revenue": 52500.54, "profit": 12175.71 },
+    { "name": "Retail Banking", "revenue": 149401.52, "profit": 9578.58 },
+    { "name": "Other Banking Business", "revenue": 6332.84, "profit": 5411.07 },
+    { "name": "Unallocated", "revenue": 63.57, "profit": 63.57 }
+  ],
+  "source": "https://www.axis.bank.in/docs/default-source/shareholders/financial-results-and-other-information/quarterly-result/2025-2026/audited-financial-results-for-the-quarter-ended-31st-march-2026.pdf",
+  "sourceLabel": "Audited FY2026 financial results",
+  "location": "PDF page 11 (consolidated segmental results, year ended 31.03.2026 column) and PDF page 7 (consolidated results, items 1–17); the filing has no printed page numbers",
+  "notes": "Segment revenue of ₹241,570.28 crore less inter-segment revenue of ₹79,358.33 crore gives group total income of ₹162,211.95 crore. Group profit after tax is ₹26,384.85 crore: profit before tax ₹32,293.47 crore, less tax ₹5,799.65 crore, plus share of an associate ₹54.09 crore, less minority shareholders’ share ₹163.06 crore. Tax is lower by ₹2,193.20 crore (note 11): after regular tax assessment, tax depreciation was allowed on intangibles from the Citi India consumer business, which reversed excess tax provisions of ₹1,129.80 crore, cut current-year tax by ₹265.85 crore and added a deferred tax asset of ₹797.55 crore. Profit was also reduced by two one-time standard-asset provisions: ₹1,231 crore for declassified priority-sector loans (Q2) and ₹2,001 crore of voluntary extra provisioning (Q4). A ₹32.84 crore gratuity charge for the new Labour Codes is also included. Retail Banking includes Digital Banking: segment revenue ₹39,655.73 crore and result ₹4,255.03 crore. This does not show profit for any single account, card or loan product.",
+  "insight": "Retail banking is the largest source of segment income, while corporate lending and treasury earn more profit per rupee of income. A one-off tax saving and one-off extra loan provisions both moved this year’s profit, so compare the year with care.",
+  "status": "segments",
+  "checked": "12 November 2026",
+  "revenueTotal": 241570.28,
+  "revenueTotalLabel": "Gross segment income before inter-segment eliminations",
+  "profitTotal": 32293.47,
+  "profitTotalLabel": "Group profit before tax"
+}
