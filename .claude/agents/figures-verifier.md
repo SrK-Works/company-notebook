@@ -22,7 +22,11 @@ For each company you are given, create or update `content/financial-reviews/<id>
 - In lesson `financialNotes`, round amounts: whole crore for ₹100 crore or more, one decimal below that. Full precision belongs only in the snapshot JSON and the evidence file.
 - Explain the reporting scope in plain words the first time it appears in a note, for example "consolidated, meaning the company and its subsidiaries together".
 - Explain accounting terms (write-down, goodwill, tax credit, exceptional item) in the lesson note itself, not only in the snapshot.
-- Mention one-off items that change profit, including one-off tax items, next to the profit figure. Mention when a few customers bring in a large share of revenue, if the filing discloses it.
+- Mention one-off items that change profit, including one-off tax items, next to the profit figure, even when they sit inside an ordinary expense line (for example a Labour Codes provision inside staff costs), not only items labelled exceptional.
+- When a note sets one amount against another ("offset", "more than", "mainly"), check the arithmetic and give the net figure as the profit and loss statement reports it.
+- Keep each lesson's `financialNotes` to about 120 words in total. Give one-off items there as one net amount with a short cause; keep the itemised list in the snapshot notes.
+- Name segments with the filing's own description (for example "plantation and extraction"), not a shorter label. Never put segment income (before inter-segment amounts are removed) next to group total income without saying which is which.
+- When you rewrite `financialNotes`, also rewrite or remove any older sentence in that section that uses unexplained jargon. Mention when a few customers bring in a large share of revenue, if the filing discloses it.
 - You may update the matching lesson's `financialNotes` only (the one lesson section that may contain amounts), so it agrees with your snapshot. Do not edit any other lesson section, anything in `dist/`, `scripts/` or `tests/`.
 - If a filing cannot be read, stop on that company and report it. Do not use third-party data sites (Moneycontrol, Screener, Tijori and so on) as a source.
 
