@@ -1,0 +1,68 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated · bank group",
+  "coverage": "Reported business segments · before inter-segment eliminations",
+  "unit": "₹ crore",
+  "revenueLabel": "Total income",
+  "incomeDefinition": "Each segment’s income: interest earned on loans and investments, fees, brokerage, fund-management fees and life-insurance premiums. This is gross income before interest paid to depositors, insurance claims, operating costs and loan-loss provisions; it is not sales. Segments also charge each other, for example for money lent between them, so the segment rows add up to more than the group’s total income.",
+  "profitMetric": "Segment result",
+  "definition": "Each segment’s profit before tax: its income less its own expenses and provisions, including charges between segments. The rows add up exactly to group profit before tax, minority interest and share of associates. It is not profit after tax.",
+  "rows": [
+    {
+      "name": "Corporate / Wholesale Banking",
+      "revenue": 26158.79,
+      "profit": 8269.11
+    },
+    {
+      "name": "Treasury, BMU and Corporate Centre",
+      "revenue": 13391.07,
+      "profit": 5723.27
+    },
+    {
+      "name": "Retail Banking",
+      "revenue": 34434.33,
+      "profit": 5653.21
+    },
+    {
+      "name": "Asset Management",
+      "revenue": 3358.52,
+      "profit": 2062.46
+    },
+    {
+      "name": "Broking",
+      "revenue": 4716.22,
+      "profit": 1505.71
+    },
+    {
+      "name": "Insurance",
+      "revenue": 26011.37,
+      "profit": 1089.67
+    },
+    {
+      "name": "Vehicle Financing",
+      "revenue": 4357.79,
+      "profit": 795.91
+    },
+    {
+      "name": "Other Lending Activities",
+      "revenue": 2265.81,
+      "profit": 651.58
+    },
+    {
+      "name": "Advisory and Transactional Services",
+      "revenue": 1109.59,
+      "profit": 241.8
+    }
+  ],
+  "source": "https://www.kotak.bank.in/content/dam/Kotak/investor-relation/governance/governance-sebi-tab/2026/q4-fy2026/financial_results_fy2026.pdf",
+  "sourceLabel": "Audited FY2026 financial results · as filed with BSE and NSE, 2 May 2026",
+  "location": "PDF page 8 · consolidated financial results, year ended 31-Mar-26 column, rows 1–17; PDF pages 9–10 · consolidated segment reporting, sections 1–2; PDF pages 13–14 · notes 6 and 9",
+  "notes": "Segment income totals ₹115,803.49 crore; removing ₹8,239.79 crore charged between segments gives group total income of ₹107,563.70 crore. Segment results total ₹25,992.72 crore, the group’s profit before tax. Treasury includes a one-off ₹367.79 crore gain from selling part of the Infina Finance stake. After ₹6,812.10 crore tax and adding ₹107.27 crore share of associates, group profit after tax is ₹19,287.89 crore; the results show no deduction for minority shareholders. Retail Banking includes Digital Banking (₹2,407.59 crore income, ₹77.63 crore result).",
+  "insight": "Lending to companies, the treasury and retail banking earn most of the group’s profit. Insurance brings in about a quarter of segment income but keeps little of it as profit, because most premiums are set aside for policyholders’ claims and reserves.",
+  "status": "segments",
+  "checked": "12 November 2026",
+  "revenueTotal": 115803.49,
+  "profitTotal": 25992.72,
+  "revenueTotalLabel": "Gross segment income before inter-segment eliminations",
+  "profitTotalLabel": "Group profit before tax"
+}
