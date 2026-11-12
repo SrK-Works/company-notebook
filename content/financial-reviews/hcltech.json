@@ -1,0 +1,26 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited annual financial results",
+  "checked": "12 November 2026",
+  "coverage": "Reported business segments · before inter-segment eliminations",
+  "revenueLabel": "Segment revenue",
+  "incomeDefinition": "Revenue from external customers plus sales to the company’s other segments (₹411 crore in total, mostly from HCL Software). It is before those inter-segment sales are removed, so rows add up to more than group revenue.",
+  "profitMetric": "Segment result",
+  "definition": "Each segment’s profit before unallocable expenses (mainly finance costs), other income, the one-time Labour Codes cost and tax. It is not profit after tax.",
+  "rows": [
+    { "name": "IT and Business Services", "revenue": 96095, "profit": 15390 },
+    { "name": "Engineering and R&D services", "revenue": 22063, "profit": 3703 },
+    { "name": "HCL Software", "revenue": 12397, "profit": 3304 }
+  ],
+  "source": "https://www.hcltech.com/sites/default/files/documents/investor-reports/audited-financial-results-for-the-quarter-ended-march-31-2026.pdf",
+  "location": "PDF page 3, segment information of consolidated financial results, year ended 31 March 2026 column; PDF page 2 (consolidated results) and page 9 (notes 3 and 5); the filing has no printed page numbers",
+  "notes": "Segment revenue rows total ₹130,555 crore; less inter-segment elimination of ₹411 crore gives group revenue from operations of ₹130,144 crore (other income of ₹1,530 crore is separate). Segment results total ₹22,397 crore; less the one-time Labour Codes cost of ₹956 crore and unallocable expenses of ₹869 crore, plus other income of ₹1,530 crore, gives profit before tax of ₹22,102 crore; tax of ₹5,450 crore leaves profit for the year of ₹16,652 crore (₹16,642 crore to owners, ₹10 crore to minority shareholders). The Labour Codes cost is an increase in employee-benefit provisions after the government merged 29 labour laws into four codes; it was partly offset by a tax benefit of ₹237 crore, so profit after tax fell by ₹719 crore. Excluding it, group profit would be ₹17,371 crore.",
+  "insight": "IT and Business Services brings in most of the revenue and segment profit. HCL Software is smaller but earns about 27 paise of segment result per rupee of revenue, against about 16 paise for IT and Business Services.",
+  "status": "segments",
+  "revenueTotal": 130555,
+  "revenueTotalLabel": "Gross segment revenue before inter-segment eliminations",
+  "profitTotal": 22397,
+  "profitTotalLabel": "Segment results before unallocable items"
+}

@@ -1,0 +1,31 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited annual financial statements",
+  "checked": "12 November 2026",
+  "coverage": "Reported segments by region and operation · before inter-segment eliminations",
+  "revenueLabel": "Segment revenue",
+  "incomeDefinition": "External revenue plus sales to the group’s other segments. Tata Steel’s segments sell to each other, so rows add up to more than group revenue.",
+  "profitMetric": "Segment result (EBITDA before exceptional items)",
+  "definition": "Profit before finance income and costs, depreciation, share of joint ventures and associates, exceptional items and tax. It is not profit after tax.",
+  "rows": [
+    { "name": "Tata Steel India", "revenue": 139720.22, "profit": 33035.63 },
+    { "name": "Neelachal Ispat Nigam Limited", "revenue": 5281.59, "profit": 1236.29 },
+    { "name": "Other Indian Operations", "revenue": 12943.95, "profit": 707.25 },
+    { "name": "Tata Steel Netherlands operations", "revenue": 61354.84, "profit": 2721.52 },
+    { "name": "Tata Steel UK operations", "revenue": 23332.67, "profit": -2568.99 },
+    { "name": "Other trade related operations", "revenue": 39561.96, "profit": 610.79 },
+    { "name": "South-East Asian Operations", "revenue": 8605.46, "profit": 774.55 },
+    { "name": "Rest of the world", "revenue": 1795.19, "profit": -837.37 }
+  ],
+  "source": "https://www.tatasteel.com/investors/integrated-report-2025-26/pdf/Consolidated.pdf",
+  "location": "Consolidated financial statements, note 43 Segment reporting: PDF page 127, printed page F256 (year ended 31 March 2026 row of each pair); consolidated statement of profit and loss PDF pages 15–16, printed pages F144–F145",
+  "notes": "Segment revenue rows total ₹292,595.88 crore; less inter-segment eliminations of ₹60,455.94 crore gives group revenue from operations of ₹232,139.94 crore. Segment results total ₹35,679.67 crore; eliminations of −₹831.94 crore give group EBITDA of ₹34,847.73 crore. Adding finance income ₹906.49 crore and share of joint ventures and associates ₹368.50 crore, and deducting finance costs ₹7,167.06 crore and depreciation ₹11,954.51 crore, gives profit before exceptional items and tax of ₹17,001.15 crore. Exceptional items total −₹1,032.46 crore (restructuring and other provisions −₹1,858.47 crore, impairment −₹323.77 crore, new Labour Codes −₹85.37 crore, gains on sales ₹308.35 crore and fair-value gain on investments ₹926.80 crore), giving profit before tax of ₹15,968.69 crore. Tax of ₹5,082.87 crore leaves profit for the year of ₹10,885.82 crore, of which ₹10,793.87 crore belongs to owners. No single customer is 10% or more of group revenue.",
+  "insight": "Tata Steel India earns most of the group’s segment result, while the UK operations and the rest of the world report negative results. Segment result is before interest, depreciation and tax, so it is far larger than profit for the year.",
+  "status": "segments",
+  "revenueTotal": 292595.88,
+  "revenueTotalLabel": "Gross segment revenue before inter-segment eliminations",
+  "profitTotal": 35679.67,
+  "profitTotalLabel": "Segment results before eliminations"
+}

@@ -1,0 +1,22 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated · lending group",
+  "coverage": "Whole group totals · no reportable business segments",
+  "unit": "₹ crore",
+  "revenueLabel": "Total income",
+  "incomeDefinition": "Interest income, fees and commission, fair-value gains, income on loans sold on (assigned) and other income. It is gross income before interest paid on borrowings, loan-loss provisions and other costs; it is not sales.",
+  "profitMetric": "PAT attributable to owners",
+  "definition": "Consolidated profit after tax, after exceptional items and tax, less the share that belongs to minority (non-controlling) shareholders of group subsidiaries. It is not operating profit or cash flow.",
+  "rows": [
+    { "name": "Bajaj Finance group", "revenue": 81989.5, "profit": 19017.39 }
+  ],
+  "source": "https://www.bajajfinserv.in/finance-digital-annual-report-fy26/bajaj-finance-ltd-ar-2025-26-assets/pdf/consolidated-financial-statements.pdf",
+  "sourceLabel": "Audited annual financial statements",
+  "location": "Annual report 2025–26, consolidated statement of profit and loss: PDF pages 15–16, printed pages 380–381; note 37 (exceptional items) PDF page 68, printed page 433; note 39 (no separate operating segments)",
+  "notes": "Interest income is ₹72,776.01 crore of the ₹81,989.50 crore total income (revenue from operations ₹81,982.38 crore plus other income ₹7.12 crore). Profit after tax before minority shareholders is ₹19,332.36 crore; minority shareholders’ share is ₹314.97 crore, leaving ₹19,017.39 crore for owners. Profit is after an exceptional charge of ₹265.22 crore for the increase in past-service gratuity cost from the new Labour Codes (note 37) and after a tax expense of ₹6,484.29 crore. The group reports no separate operating segments, so profit is not disclosed for any loan product.",
+  "insight": "Most of the group’s income is interest charged on loans, and a large part goes to pay for borrowed money and for loans that may not be repaid. These totals cannot show which loan product earns the most.",
+  "status": "totals",
+  "checked": "12 November 2026",
+  "revenueTotal": 81989.5,
+  "profitTotal": 19017.39
+}
