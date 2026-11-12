@@ -1,0 +1,202 @@
+{
+  "summary": "Adani Ports runs 15 ports along India's coast where cargo ships are unloaded and loaded. It also runs trains, trucks, warehouses, tugboats and dredgers that move the cargo to and from the port, and four ports abroad.",
+  "description": "Ships arrive carrying steel boxes called containers, coal, iron ore, grain, oil and gas. The company's cranes lift the cargo off, its yards, tanks and silos hold it, and its trains and trucks carry it inland. Tugboats guide big ships in and out, and dredgers dig the sea floor so large ships can reach the berths. A port is built on land and water that a government allows the company to use under a long agreement called a concession.",
+  "money": "The company earns a charge for each tonne or container it handles, plus charges for storing cargo and for moving it by rail or truck. Its tugs and dredgers earn fees for marine work. The main costs are cranes and equipment, fuel and power, staff, dredging, rent or fees under the concession, and interest on borrowing for new berths. A customer's payment is not profit, because these costs are paid out of it.",
+  "customers": "Customers are shipping lines and the owners of the cargo: importers, exporters, power stations buying coal, steel and fertiliser makers, grain and oil traders. The cargo owner or the shipping line pays for the port stay, handling and storage. A person who buys the finished goods in a shop does not pay the port.",
+  "drivers": "Three things mostly decide how it does: how much cargo moves through its ports, how much it earns on each tonne or container, and how much it spends building new berths, which is mostly paid for with borrowing.",
+  "groups": [
+    {
+      "title": "Containers",
+      "examples": "Boxes of finished goods, machinery and food, unloaded by tall quay cranes.",
+      "explanation": "A container is a standard steel box that fits on a ship, train or truck. The port charges for each box lifted on or off."
+    },
+    {
+      "title": "Loose bulk cargo",
+      "examples": "Coal, iron ore and grain.",
+      "explanation": "These are carried loose in the ship's hold. Grab buckets or conveyors unload them into yards or silos. Power stations and steel plants are typical buyers."
+    },
+    {
+      "title": "Liquids and gas",
+      "examples": "Tank farms and terminals for oil, cooking gas (LPG) and liquefied natural gas.",
+      "explanation": "Ships pump liquid cargo into large tanks on shore. The port earns for the berth and the storage."
+    },
+    {
+      "title": "Trains, trucks and warehouses",
+      "examples": "Owned trains, a trucking network, inland container depots and inland cargo parks.",
+      "explanation": "These take cargo from the port to the customer's gate, so the company earns on the journey inland as well as at the berth."
+    },
+    {
+      "title": "Tugboats and dredging",
+      "examples": "Tugs, workboats, offshore vessels and dredgers.",
+      "explanation": "Tugs push big ships into berths. Dredgers deepen the channel. The company uses them at its own ports and sells the work to others."
+    },
+    {
+      "title": "Ports abroad",
+      "examples": "Ports in Israel, Tanzania, Sri Lanka and Australia.",
+      "explanation": "The same business run in other countries, under each country's rules and with its own risks."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is a concession?",
+      "text": "A long agreement under which a government lets a company build and run a port on public land and water, usually for a fixed number of years. The company does not own the port outright."
+    },
+    {
+      "title": "What is a berth?",
+      "text": "The place where a ship ties up at the quay to be loaded or unloaded. A port can only handle as many ships as it has berths, cranes and space behind them."
+    },
+    {
+      "title": "What is a rake?",
+      "text": "A full train of goods wagons. Owning rakes lets the company move cargo inland without waiting for someone else's train."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Ship arrives",
+      "text": "A tugboat guides the ship to a berth in a channel the company has dredged."
+    },
+    {
+      "title": "Cargo comes off",
+      "text": "Cranes or grab buckets unload the ship. Containers go into stacks, loose cargo goes to yards or silos, and liquids go to tanks."
+    },
+    {
+      "title": "Cargo moves inland",
+      "text": "Trains and trucks carry the cargo to factories, power stations or warehouses."
+    },
+    {
+      "title": "Bill is sent",
+      "text": "The customer is billed for berth use, handling, storage and transport, usually per tonne or per container."
+    },
+    {
+      "title": "Cash comes in",
+      "text": "Revenue is recorded when the work is done, but cash arrives when the customer pays. Wages, fuel and loan interest are paid meanwhile, so profit and cash received are different."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "It also moves the cargo inland",
+      "text": "A port that also owns trains, trucks and warehouses can earn on the whole journey and keep control of delays, rather than only the charge at the berth."
+    },
+    {
+      "title": "Ports are built on long concessions",
+      "text": "The report says its flagship ports have a long average remaining concession period, which gives years of use but ends when the agreement ends."
+    },
+    {
+      "title": "It owns its own tugs and dredgers",
+      "text": "Owning the boats that guide ships and deepen channels means the company does not wait on outside suppliers, and it can sell the same work to others."
+    }
+  ],
+  "watch": [
+    [
+      "How much of the cargo is containers, loose bulk and liquids?",
+      "Each type earns differently and depends on different buyers, such as factories, power stations and oil traders.",
+      "Read the cargo breakdown in the annual report's business review and compare it across several years."
+    ],
+    [
+      "How much of the business is outside India?",
+      "Foreign ports follow other countries' rules and can be hurt by events there.",
+      "Compare the domestic and international port results in the verified financial table once it is added."
+    ],
+    [
+      "How much has it borrowed to build, compared with what it earns?",
+      "New berths and inland transport assets are paid for with borrowing, and interest is paid before profit.",
+      "In the verified financial table, compare the ports company's borrowing with its operating earnings across several years, and note interest paid."
+    ],
+    [
+      "When do the concessions end?",
+      "The company can only earn from a port while its agreement lasts.",
+      "Look for the concession terms in the notes to the accounts and in the report's description of its ports."
+    ],
+    [
+      "Is the inland transport business growing faster than the ports?",
+      "Trains and trucks earn extra on each tonne, but need their own spending.",
+      "Compare the inland transport segment's results with the ports segment's results in the verified financial table, year by year, once it is added."
+    ]
+  ],
+  "risks": [
+    [
+      "Competition from new ports",
+      "The report lists competition from new ports, inland cargo parks and multimodal infrastructure as a risk, with pressure on volumes, prices and market share as the effect."
+    ],
+    [
+      "A slowdown in trade",
+      "The report says a slowdown in the economy, trade or transport sector can reduce cargo demand, which means less use of its ports and less predictable revenue."
+    ],
+    [
+      "Delays in new projects",
+      "The report says delays in expansion projects can cause cost overruns and affect how viable a project is over the long term."
+    ],
+    [
+      "Policy and approval changes",
+      "The report says political instability or a change of government could lead to a review of existing policies or approvals, which could limit growth or reduce profit."
+    ]
+  ],
+  "context": [
+    "2025-26: a new terminal abroad and a record year for domestic ports",
+    "The 2025-26 annual report says its new Colombo terminal in Sri Lanka handled over 1 million twenty-foot container units in its first year, and that it completed the acquisition of a terminal in Australia. The report says domestic flagship ports handled record cargo volumes."
+  ],
+  "sources": [
+    [
+      "Adani Ports and SEZ integrated annual report 2025-26 (filed with NSE)",
+      "https://nsearchives.nseindia.com/annual_reports/AR_29300_ADANIPORTS_2025_2026_A_28945093_29052026225149.pdf"
+    ],
+    [
+      "Adani Ports and SEZ investor downloads",
+      "https://www.adaniports.com/investors/investor-downloads"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "Revenue and profit figures are pending verification. The verified table will say whether each figure is for the company alone (standalone) or the group (consolidated), and give the period and the profit definition."
+    }
+  ],
+  "stepsTitle": "From ship to bill.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Runs ports that unload and load ships, and trains, trucks, warehouses, tugboats and dredgers that move the cargo on."
+    },
+    {
+      "title": "Who pays",
+      "text": "Shipping lines and cargo owners such as importers, exporters, power stations and factories."
+    },
+    {
+      "title": "How it earns",
+      "text": "Charges for handling and storing cargo, for moving it by rail or truck, and for tugboat and dredging work."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Cranes, fuel and power, staff, dredging, concession fees and interest on the money borrowed to build berths."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Many kinds of cargo",
+      "text": "The report says the company handles over 100 commodities, which it describes as a hedge against the commodity cycle."
+    },
+    {
+      "title": "Government plans for ports and transport",
+      "text": "The report says its strategy lines up with the Prime Minister's Gati Shakti programme, a national plan to coordinate roads, rail and ports, and with the maritime vision for 2047."
+    },
+    {
+      "title": "Trade shifting towards India",
+      "text": "The report says companies spreading factories beyond China, new free trade agreements and the India-Middle East-Europe Corridor are reshaping cargo flows in India's favour."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Borrowing costs and access to money",
+      "text": "The report lists weaker credit quality or tight liquidity as a risk. Higher borrowing costs would take more of what the ports earn."
+    },
+    {
+      "title": "Dependence on particular regions",
+      "text": "The report says concentration in some regions exposes it to local rule changes, weather and weak demand."
+    },
+    {
+      "title": "Legal and human-rights exposure",
+      "text": "The report lists failure to uphold human-rights standards across its operations as a risk that could bring legal action, penalties and loss of access to funding."
+    }
+  ],
+  "checked": "12 November 2026"
+}

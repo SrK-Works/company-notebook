@@ -1,0 +1,210 @@
+{
+  "summary": "Adani Enterprises starts large new businesses, such as airports, highways, copper, solar equipment and data centres, and runs them. When one is big enough it can be split off as its own listed company, as ports and power were.",
+  "description": "Adani Enterprises is a holding and incubating company. That means it builds a new business, runs it while it is young, and sometimes moves it into a separate listed company. Today it runs eight airports and builds and operates highways. It digs coal and iron ore for mine owners under service contracts, imports coal and other raw materials for industrial customers, and smelts copper at Mundra. It also makes solar panels and wind turbines, builds data centres in a joint venture, makes ammunition and drones, and owns a news broadcaster.",
+  "money": "Each business is paid differently. Airports earn charges from airlines and passengers plus rent and sales from shops and hotels. Highway builders are paid by government agencies, and some earn tolls. Mining services earn a contracted fee for digging coal. Copper, solar panels and wind turbines are sold to manufacturers and power developers. Big costs are construction, imported ore and coal, power, staff and interest on borrowing. Sales are not profit, because these costs come out first.",
+  "customers": "Customers differ by business. Airlines and passengers use the airports. Government road agencies, such as the National Highways Authority of India, pay for highways. Owners of coal mines, including state power companies, pay for mine digging. Factories and cable makers buy copper. Power developers buy solar panels and wind turbines. The armed forces buy defence equipment, and viewers and advertisers fund the news channels.",
+  "drivers": "Three things mostly decide how it does: whether big projects finish on time and open, how much each new business earns once it is running, and how much it borrowed to build them. Metal and coal prices also matter for copper and trading.",
+  "groups": [
+    {
+      "title": "Airports",
+      "examples": "Eight airports, including the newly opened Navi Mumbai International Airport.",
+      "explanation": "The company runs terminals, runways and cargo areas. Airlines and passengers pay charges, and shops, lounges and hotels pay or earn rent and sales."
+    },
+    {
+      "title": "Roads and other transport building",
+      "examples": "National highways and expressways built for government agencies; also metro and railway work.",
+      "explanation": "The company builds a road and then either gets paid by the agency or collects tolls for a fixed number of years, depending on the contract type."
+    },
+    {
+      "title": "Mining services and resource trading",
+      "examples": "Digging coal for mine owners, and importing coal, fertiliser raw material and ship fuel.",
+      "explanation": "In mining services the company digs and hauls coal for the mine owner and is paid under a long-term contract. In trading it buys raw material abroad and delivers it to industrial customers."
+    },
+    {
+      "title": "Copper",
+      "examples": "Copper cathodes (refined copper sheets) and cast rod made at Mundra in Gujarat.",
+      "explanation": "A smelter turns imported copper ore into pure copper, plus gold, silver and other by-products. Cable and wire makers buy the copper."
+    },
+    {
+      "title": "New energy equipment and data centres",
+      "examples": "Solar cells and panels, wind turbines, a green hydrogen pilot plant, and data centre buildings.",
+      "explanation": "The company makes equipment for clean power and builds data centres, which are secure buildings full of computers that rent out space and power to technology customers."
+    },
+    {
+      "title": "Defence and news",
+      "examples": "Ammunition, missiles, drones and aircraft servicing; NDTV (New Delhi Television) news channels.",
+      "explanation": "The armed forces buy defence equipment. The news channels earn from advertising and other media services."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What does incubating a business mean?",
+      "text": "The company builds a new business, runs it through its early years, and may then split it off into a separate listed company. Adani Ports, Adani Power, Adani Green Energy, Adani Energy Solutions, Adani Total Gas and the business formerly called Adani Wilmar were created this way and are now separate listed companies; their results are not in this company's totals."
+    },
+    {
+      "title": "What is a mine developer and operator contract?",
+      "text": "The company does not own the coal. It develops and runs the mine for the owner, who pays a fee under a long-term contract. The report lists coal and iron ore service contracts with a combined peak capacity set out per year."
+    },
+    {
+      "title": "What is a greenfield project?",
+      "text": "A project built on fresh land with nothing there before, such as a new airport or expressway. It spends heavily for years before it can earn anything."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Win or start the project",
+      "text": "The company wins a contract, such as a highway or mine service, or decides to start its own business, such as a copper smelter."
+    },
+    {
+      "title": "Raise money and build",
+      "text": "Land, equipment and construction are paid for with the company's money and borrowing. This can take years."
+    },
+    {
+      "title": "Open and run it",
+      "text": "The airport, road, smelter or factory starts working. Airlines, agencies, mine owners and buyers start paying."
+    },
+    {
+      "title": "Send the bill",
+      "text": "Airports bill airlines and passengers, road agencies pay under contract terms, and metal and equipment buyers are invoiced on delivery."
+    },
+    {
+      "title": "Collect cash and pay lenders",
+      "text": "Revenue is recorded when work or delivery is done, but cash arrives later. Interest, wages and materials are paid meanwhile, so profit and cash are different."
+    },
+    {
+      "title": "Keep, or split off",
+      "text": "A mature business may stay in the company or be moved into its own listed company."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "It is a portfolio, not one product",
+      "text": "Results depend on many unrelated businesses with different customers. A good year in airports can be offset by a delay in a new plant."
+    },
+    {
+      "title": "Many businesses are still being built",
+      "text": "The report says it is building a copper smelter, solar and wind equipment factories, data centres, a plastics plant and a green hydrogen plant. These cost money for years before they earn."
+    },
+    {
+      "title": "Some activity sits in other companies",
+      "text": "Ports, power and green energy are separate listed companies and are not part of this company's revenue. This company's data centres are a joint venture with another firm."
+    },
+    {
+      "title": "Government is a major customer",
+      "text": "Road agencies, state power companies and the armed forces pay for much of the work, so contract awards and payment timing matter."
+    }
+  ],
+  "watch": [
+    [
+      "Which businesses are running and which are still being built?",
+      "Businesses under construction cost money and do not yet earn.",
+      "Read the segment pages of the annual report and note which ones say operational, ramping up or under development."
+    ],
+    [
+      "How much has the company borrowed to build, compared with what it earns?",
+      "Large projects are paid for with borrowing, and interest is paid before profit.",
+      "In the verified financial table, compare the company's debt with its operating earnings over several years, and read the interest cost."
+    ],
+    [
+      "Which group companies are inside the totals?",
+      "Ports, power and green energy are separate listed companies and are not in this company's results.",
+      "Check the list of subsidiaries, joint ventures and associates in the notes to the accounts, and compare it with the demerged companies named in the report."
+    ],
+    [
+      "Do the new projects open on time?",
+      "The report lists delay in project delivery as a risk with financial loss.",
+      "Compare the opening dates promised in earlier annual reports for airports, expressways and the copper plant with what actually opened and when."
+    ],
+    [
+      "How is each business paid, and by whom?",
+      "Government contracts, airline charges and metal prices behave very differently.",
+      "Read the product and service pages for each segment and note the customer and the payment basis."
+    ]
+  ],
+  "risks": [
+    [
+      "Delay in finishing projects",
+      "The report lists delay in project delivery to required quality standards as a risk, with financial loss and slower growth as the effect."
+    ],
+    [
+      "Raw material price swings",
+      "The report lists commodity price risk. Copper, coal and other raw materials change in price, which changes what the company earns on the same tonnes."
+    ],
+    [
+      "Interest rate and borrowing risk",
+      "The report lists interest rate risk: when interest rates move, the value of financial assets changes and borrowing can cost more."
+    ],
+    [
+      "Geopolitical events and supply disruption",
+      "The report lists geopolitical events and supply chain disruption as top risks. They can delay imported material, raise costs and cut revenue."
+    ]
+  ],
+  "context": [
+    "2025-26: large projects reached the operating stage",
+    "The 2025-26 annual report lists completion of the Ganga Expressway in under 3.5 years, ramp-up of the copper plant, more than 55 megawatts of working data centre capacity, and the opening of Navi Mumbai International Airport. The report says the airport and expressway are expected to start adding to earnings in 2026-27. That is a plan, not a result."
+  ],
+  "sources": [
+    [
+      "Adani Enterprises integrated annual report 2025-26 (filed with NSE)",
+      "https://nsearchives.nseindia.com/annual_reports/AR_29299_ADANIENT_2025_2026_A_17942605_29052026223750.pdf"
+    ],
+    [
+      "Adani Enterprises investor downloads",
+      "https://www.adanienterprises.com/investors/investor-downloads"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "Revenue and profit figures are pending verification. The verified table will say whether each figure is for the company alone (standalone) or the group (consolidated), and give the period and the profit definition."
+    }
+  ],
+  "stepsTitle": "From project to payment.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Builds and runs new businesses: airports, highways, mining services, copper, solar and wind equipment, data centres, defence products and news channels."
+    },
+    {
+      "title": "Who pays",
+      "text": "Airlines and passengers, government road agencies, mine owners, factories, power developers, the armed forces and advertisers, depending on the business."
+    },
+    {
+      "title": "How it earns",
+      "text": "Airport charges and shop income, payments for building and running roads, mining service fees, and sales of copper, panels and equipment."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Construction of large projects, imported raw materials, power, staff, and interest on the money borrowed to build."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Many businesses in one company",
+      "text": "The report describes a portfolio across airports, roads, mining services, copper, new energy, data centres and defence, so no one business decides everything."
+    },
+    {
+      "title": "Long contracts for mining services",
+      "text": "The report says its mine service contracts are long-term contracted, which gives the company payments over many years rather than for one sale."
+    },
+    {
+      "title": "Demand for metals and clean energy",
+      "text": "The report says copper is a transition metal for electrification and clean energy, and that rising demand for renewable power supports its solar and wind equipment businesses."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Weather and climate damage to sites",
+      "text": "The report says its airports and plants face extreme heat, heavy rain, flooding, cyclones and sea-level rise, which can damage assets and interrupt operations."
+    },
+    {
+      "title": "Climate and energy-transition pressure",
+      "text": "The report says energy-transition changes put structural pressure on coal-linked mining services and coal transport, and that climate rules can raise compliance costs."
+    },
+    {
+      "title": "Reputation and legal scrutiny",
+      "text": "The report lists reputational and legal risks, including penalties or loss of licences in sectors such as airports, mining services and defence if rules are not met."
+    }
+  ],
+  "checked": "12 November 2026"
+}

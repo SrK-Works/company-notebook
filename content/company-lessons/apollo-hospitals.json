@@ -1,0 +1,197 @@
+{
+  "summary": "Apollo Hospitals runs a large network of private hospitals where patients are treated and stay for surgery. Through subsidiaries it also runs pharmacies, an online doctor and medicine app, small clinics and diagnostic labs.",
+  "description": "A patient may see a doctor at a clinic or on the Apollo 24|7 phone app, have blood tests or scans at a diagnostic centre, and, if needed, be admitted to a hospital bed for surgery or treatment. Apollo runs hospitals for heart, cancer, brain, bone and many other conditions, thousands of pharmacies that sell medicines, and clinics for diabetes, dental care, kidney dialysis, and mothers and babies. Some hospitals are owned, some are run for other owners under management contracts.",
+  "money": "Hospitals bill for the bed, the doctors, the operation, the medicines and the implants used. Pharmacies earn the gap between what they pay suppliers and what they charge; most of each sale goes to buy the medicine. Clinics and labs charge fees for consultations and tests. Big costs are doctors and nurses, medicines and surgical supplies, equipment, buildings and interest on borrowing for new beds. A bill is not profit, because these costs come out first.",
+  "customers": "Patients pay for their own care, but in many cases an insurance company, an employer or a government scheme pays on their behalf after checking the bill. The report says receivables come mainly from insurance companies, corporate customers and government bodies. Some patients travel from abroad for treatment. Pharmacy and app customers buy medicines and consultations.",
+  "drivers": "Three things mostly decide how it does: how full its beds are and how complex the cases are, because complex surgery pays more per patient; what it pays for medicines, implants and staff; and how fast it adds beds and stores without overspending.",
+  "groups": [
+    {
+      "title": "Hospitals",
+      "examples": "Multi-speciality hospitals with cancer, heart, brain, bone and transplant care.",
+      "explanation": "Patients stay in a bed for surgery or treatment, or come for a day. This is the core business and is described as the largest part of group sales."
+    },
+    {
+      "title": "Pharmacies and the Apollo 24|7 app",
+      "examples": "7,289 pharmacies and an app for online consultations and medicine orders.",
+      "explanation": "The pharmacy business is run by a subsidiary called Apollo HealthCo. It sells a very large number of medicines at a thin gap over what they cost."
+    },
+    {
+      "title": "Clinics",
+      "examples": "Apollo Clinics, Apollo Sugar for diabetes, Apollo Spectra for planned surgery, Apollo Cradle for mothers and babies.",
+      "explanation": "Smaller sites closer to where people live, for check-ups and treatments that do not need a hospital stay."
+    },
+    {
+      "title": "Diagnostic centres",
+      "examples": "Blood tests, scans and health screening.",
+      "explanation": "Labs and collection points that find out what is wrong before treatment, and spot illness early."
+    },
+    {
+      "title": "Health checks and prevention",
+      "examples": "Packages of tests to find silent illness early.",
+      "explanation": "Customers pay for tests while healthy. The report says the aim is to catch illness before it needs hospital care."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is an inpatient and an outpatient?",
+      "text": "An inpatient is admitted to a bed and stays at least a night. An outpatient visits for a consultation, test or day procedure and goes home the same day."
+    },
+    {
+      "title": "What is occupancy?",
+      "text": "The share of hospital beds in use. A hospital with empty beds still pays for the building, equipment and staff, so a fuller hospital earns more from the same costs."
+    },
+    {
+      "title": "What is a payer mix?",
+      "text": "Who pays the bill: the patient, an insurance company, an employer or a government scheme. Each pays different prices and at a different speed."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Patient comes in",
+      "text": "A patient visits a clinic, a hospital, a pharmacy or the app."
+    },
+    {
+      "title": "Tests and diagnosis",
+      "text": "Doctors order scans and blood tests at a diagnostic centre."
+    },
+    {
+      "title": "Treatment or stay",
+      "text": "The patient is treated, operated on or admitted to a bed. Medicines and implants are used."
+    },
+    {
+      "title": "Bill is raised",
+      "text": "The bill lists the room, doctors, operation, tests and supplies. It goes to the patient or to their insurer, employer or scheme."
+    },
+    {
+      "title": "Payment arrives",
+      "text": "Some pay at once. Insurers and others pay after checking, which can take weeks. Revenue is recorded at treatment, but cash arrives later, and wages and supplies have been paid meanwhile."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Complex cases pay more",
+      "text": "The report says it aims to raise the share of complex procedures, such as heart, cancer and brain care, and to improve the mix of who pays. These earn more per patient than simple stays."
+    },
+    {
+      "title": "Not every hospital is owned",
+      "text": "Some hospitals are owned or run through subsidiaries, and some are managed for other owners. The report lists them separately, so a bed count is not all owned beds."
+    },
+    {
+      "title": "A pharmacy shop behaves differently from a hospital",
+      "text": "Most of each pharmacy sale goes on buying the medicine, so profit depends on volume and on private-label and generic products, which the report says it is growing."
+    }
+  ],
+  "watch": [
+    [
+      "How much of the group comes from hospitals, pharmacies and clinics?",
+      "A hospital stay earns more per bill than a pharmacy sale, so the mix changes profit.",
+      "Compare the segment results for hospitals, pharmacies and clinics in the verified financial table once it is added, year by year."
+    ],
+    [
+      "How full are the beds, and how many are new?",
+      "New beds cost money before patients fill them.",
+      "Compare the occupancy figure and the number of operational beds across several annual reports, and see how many beds were added each year."
+    ],
+    [
+      "Who pays the bills?",
+      "Insurers, employers and government schemes pay at different speeds and prices.",
+      "Read the receivables note and the discussion of payer mix in the management discussion, and look for how long insurers take to pay."
+    ],
+    [
+      "What happens to the pharmacy and digital business after the planned reorganisation?",
+      "The report describes a plan to split some of it into a separate company, which would change what is inside the group.",
+      "Read later annual reports and exchange filings to see whether the pharmacy and digital reorganisation was approved and completed, and on what terms."
+    ],
+    [
+      "How dependent is it on patients from abroad?",
+      "The report says tensions abroad reduced international patient visits.",
+      "Look for the share of international patients in later annual reports and in the management discussion of medical value travel."
+    ]
+  ],
+  "risks": [
+    [
+      "Price controls",
+      "The report lists pricing controls and reimbursement limits as a threat, and mentions regulatory price caps on items such as stents. Lower allowed prices reduce what it can charge."
+    ],
+    [
+      "Shortage of skilled staff",
+      "The report lists a shortage of skilled healthcare professionals as a threat to opening and running new capacity."
+    ],
+    [
+      "More competition",
+      "The report lists capacity being added by other hospital chains and possible pricing pressure in key cities."
+    ],
+    [
+      "Fewer patients from abroad",
+      "The report says recent geopolitical developments have led to some moderation in international patient visits, which can lower the number of high-value cases."
+    ]
+  ],
+  "context": [
+    "2025-26: pharmacy and digital business to be reorganised",
+    "The 2025-26 annual report describes a proposed reorganisation in which the pharmacy distribution, Apollo 24|7 app and telehealth businesses would move into a separate company, and Apollo HealthCo would merge with Keimed Private Limited. It also describes a plan to combine the Cradle and Fertility clinics with Cloudnine, subject to competition-regulator approval. These are plans, not completed changes."
+  ],
+  "sources": [
+    [
+      "Apollo Hospitals Enterprise annual report 2025-26 (filed with BSE)",
+      "https://bseindia.com/xml-data/corpfiling/AttachLive/df740957-5277-4434-9808-189da93447aa.pdf"
+    ],
+    [
+      "Apollo Hospitals annual report 2025-26, original version filed with NSE on 1 August 2026",
+      "https://nsearchives.nseindia.com/corporate/APOLLOHOSP_01082026125623_SE_AR_25-26.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "Revenue and profit figures are pending verification. The verified table will say whether each figure is for the company alone (standalone) or the group including its pharmacy and clinic subsidiaries (consolidated), and give the period and the profit definition."
+    }
+  ],
+  "stepsTitle": "From the patient's visit to the payment.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Runs private hospitals, and through subsidiaries pharmacies, an online doctor and medicine app, clinics and diagnostic labs."
+    },
+    {
+      "title": "Who pays",
+      "text": "Patients, and often their insurer, employer or a government scheme on their behalf."
+    },
+    {
+      "title": "How it earns",
+      "text": "Bills for beds, doctors, surgery and tests, and the gap between pharmacy purchase and sale prices."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Doctors and nurses, medicines and surgical supplies, equipment, buildings, and interest on money borrowed for new beds."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Room for more healthcare in India",
+      "text": "The report says India spends less on healthcare than many other countries and that rising incomes, an ageing population and wider health insurance are expected to raise demand."
+    },
+    {
+      "title": "Adding beds and a connected network",
+      "text": "The report describes a plan to add beds in coming years and to link hospitals, pharmacies, clinics, labs and the app into one network, so a patient can use several."
+    },
+    {
+      "title": "Digital and preventive care",
+      "text": "The report says online consultations, medicine orders and health checks bring patients into the network earlier and more often."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Costs and heavy investment",
+      "text": "The report lists rising staff and building costs and continued need to invest in new capacity as a pressure on profit."
+    },
+    {
+      "title": "Currency swings on imports",
+      "text": "The report says movements of the rupee against the US dollar can raise the cost of imported equipment and supplies."
+    },
+    {
+      "title": "Credit risk on what insurers and others owe",
+      "text": "Much of its income is received in cash, but the report says what is owed by insurance companies, corporate customers and governments carries credit risk, so cash can arrive late or fall short."
+    }
+  ],
+  "checked": "12 November 2026"
+}

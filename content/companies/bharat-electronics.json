@@ -1,0 +1,129 @@
+{
+  "order": 61,
+  "company": {
+    "id": "bharat-electronics",
+    "name": "Bharat Electronics",
+    "ticker": "BEL",
+    "sector": "Industrials & infrastructure",
+    "initial": "B",
+    "color": "#3f5f2a",
+    "bg": "#eef3e8",
+    "tag": "Builds radars, communication and electronic warfare equipment mostly for the Indian armed forces",
+    "products": [
+      [
+        "Radars and fire control systems",
+        "Defence electronics"
+      ],
+      [
+        "Communication and network systems",
+        "Defence electronics"
+      ],
+      [
+        "Electronic warfare and avionics (aircraft electronics)",
+        "Defence electronics"
+      ],
+      [
+        "Weapon systems and electro-optic sights",
+        "Defence electronics"
+      ],
+      [
+        "Anti-submarine warfare and naval systems",
+        "Defence electronics"
+      ],
+      [
+        "Tank and gun upgrades",
+        "Defence electronics"
+      ],
+      [
+        "Electronic voting machines, airport radars and rail signalling",
+        "Non-defence"
+      ],
+      [
+        "Cyber security and software",
+        "Non-defence"
+      ]
+    ],
+    "sources": [
+      [
+        "Bharat Electronics website",
+        "https://bel-india.in/"
+      ]
+    ],
+    "productSource": "https://bel-india.in/wp-content/uploads/2026/08/Integrated-Annual-Report-2025-26.pdf",
+    "aliases": [
+      "Bharat Electronics Limited",
+      "Bharat Electronics Ltd",
+      "Bharat Electronics Ltd.",
+      "BEL"
+    ],
+    "productNote": "Products named in Bharat Electronics' 2025–26 integrated annual report. It is a government-owned company that mostly sells to the Indian armed forces. Its joint ventures (with Thales and Israel Aerospace Industries) report separately. Pictures are annual-report photographs; the report does not caption the individual places, and three product pictures are labelled illustrations.",
+    "checked": "12 November 2026",
+    "reviewed": "12 November 2026"
+  },
+  "offerings": [
+    {
+      "name": "Naval ships",
+      "category": "Electronics for naval ships",
+      "image": "assets/products/bharat-electronics-warship.webp",
+      "url": "https://bel-india.in/wp-content/uploads/2026/08/Integrated-Annual-Report-2025-26.pdf#page=5",
+      "kind": "photo",
+      "alt": "A grey naval warship moving fast through open sea — photograph from Bharat Electronics’ 2025–26 integrated annual report"
+    },
+    {
+      "name": "Missile launch",
+      "category": "Missiles and the systems that guide them",
+      "image": "assets/products/bharat-electronics-missile-launch.webp",
+      "url": "https://bel-india.in/wp-content/uploads/2026/08/Integrated-Annual-Report-2025-26.pdf#page=27",
+      "kind": "photo",
+      "alt": "A missile leaving a truck-mounted launcher on open ground — photograph from Bharat Electronics’ 2025–26 integrated annual report"
+    },
+    {
+      "name": "Campus",
+      "category": "Offices, labs and factories where the electronics are designed and built",
+      "image": "assets/products/bharat-electronics-campus.webp",
+      "url": "https://bel-india.in/wp-content/uploads/2026/08/Integrated-Annual-Report-2025-26.pdf#page=23",
+      "kind": "photo",
+      "alt": "A white building complex with a red and glass tower and a curved walkway, seen from above — photograph from Bharat Electronics’ 2025–26 integrated annual report"
+    },
+    {
+      "name": "Solar-covered car park",
+      "category": "Solar power at its sites",
+      "image": "assets/products/bharat-electronics-solar-carport.webp",
+      "url": "https://bel-india.in/wp-content/uploads/2026/08/Integrated-Annual-Report-2025-26.pdf#page=34",
+      "kind": "photo",
+      "alt": "Solar-panel roofs over a car park with white vans parked underneath — photograph from Bharat Electronics’ 2025–26 integrated annual report"
+    },
+    {
+      "name": "Staff",
+      "category": "The people who design and build the equipment",
+      "image": "assets/products/bharat-electronics-team.webp",
+      "url": "https://bel-india.in/wp-content/uploads/2026/08/Integrated-Annual-Report-2025-26.pdf#page=28",
+      "kind": "photo",
+      "alt": "A large group of staff standing in a garden behind a sign that reads I love BEL, Abhyudaya Centre for Learning — photograph from Bharat Electronics’ 2025–26 integrated annual report"
+    },
+    {
+      "name": "Radars",
+      "category": "Radars that spot aircraft and guide weapons",
+      "image": "assets/products/bharat-electronics-radar.svg",
+      "url": "https://bel-india.in/wp-content/uploads/2026/08/Integrated-Annual-Report-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "A radar dish with signal arcs — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Electronic voting machines",
+      "category": "Voting units supplied to the Election Commission",
+      "image": "assets/products/bharat-electronics-evm.svg",
+      "url": "https://bel-india.in/wp-content/uploads/2026/08/Integrated-Annual-Report-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "A box with buttons and a small screen — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Communication systems",
+      "category": "Radios and networks for the armed forces",
+      "image": "assets/products/bharat-electronics-communication.svg",
+      "url": "https://bel-india.in/wp-content/uploads/2026/08/Integrated-Annual-Report-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "A mast with radio waves — conceptual illustration; not a photograph"
+    }
+  ]
+}

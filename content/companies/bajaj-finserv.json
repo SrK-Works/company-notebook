@@ -1,0 +1,128 @@
+{
+  "order": 60,
+  "company": {
+    "id": "bajaj-finserv",
+    "name": "Bajaj Finserv",
+    "ticker": "BAJAJFINSV",
+    "sector": "Banking",
+    "initial": "B",
+    "color": "#0a50a1",
+    "bg": "#e7eef8",
+    "tag": "A holding company that owns Bajaj Finance, home loans, general and life insurance, and fund and broking businesses",
+    "products": [
+      [
+        "Loans for phones, vehicles, business and gold (Bajaj Finance)",
+        "Lending (Bajaj Finance)"
+      ],
+      [
+        "Home loans (Bajaj Housing Finance)",
+        "Lending (Bajaj Housing Finance)"
+      ],
+      [
+        "Fixed deposits (Bajaj Finance)",
+        "Deposits (Bajaj Finance)"
+      ],
+      [
+        "Motor, health, travel and home insurance (Bajaj General Insurance)",
+        "General insurance"
+      ],
+      [
+        "Life insurance and savings plans (Bajaj Life Insurance)",
+        "Life insurance"
+      ],
+      [
+        "Mutual funds (Bajaj Finserv Asset Management)",
+        "Funds"
+      ],
+      [
+        "Share broking and demat accounts (Bajaj Financial Securities)",
+        "Broking"
+      ],
+      [
+        "Bajaj Markets and Bajaj Finserv Health",
+        "Marketplace and health"
+      ]
+    ],
+    "sources": [
+      [
+        "Bajaj Finserv 19th annual report 2025-26 (company site)",
+        "https://www.bajajfinserv.in/finserv-digital-annual-report-fy26/index.html"
+      ]
+    ],
+    "productSource": "https://www.bajajfinserv.in/finserv-digital-annual-report-fy26/assets/pdf/Bajaj%20Finserv%20Limited%20(BFS)%20AR2025-26_CTC.pdf",
+    "aliases": [
+      "Bajaj Finserv Limited",
+      "Bajaj Finserv Ltd",
+      "Bajaj Finserv Ltd."
+    ],
+    "productNote": "Businesses named in Bajaj Finserv's 2025–26 annual report. Bajaj Finserv is the parent: it holds about half of Bajaj Finance (which has its own page and its own listing) and owns the two Bajaj insurers. Bajaj Auto is a different company. The annual report's photographs show community programmes and events, not the lending or insurance work, so every picture is a labelled illustration.",
+    "checked": "12 November 2026",
+    "reviewed": "12 November 2026"
+  },
+  "offerings": [
+    {
+      "name": "Loans",
+      "category": "Instalment, vehicle, business and gold loans from Bajaj Finance",
+      "image": "assets/products/bajaj-finserv-loans.svg",
+      "url": "https://www.bajajfinserv.in/finserv-digital-annual-report-fy26/assets/pdf/Bajaj%20Finserv%20Limited%20(BFS)%20AR2025-26_CTC.pdf",
+      "kind": "illustration",
+      "alt": "A stack of coins beside an arrow pointing right — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Home loans",
+      "category": "Loans to buy or build a home from Bajaj Housing Finance",
+      "image": "assets/products/bajaj-finserv-home-loans.svg",
+      "url": "https://www.bajajfinserv.in/finserv-digital-annual-report-fy26/assets/pdf/Bajaj%20Finserv%20Limited%20(BFS)%20AR2025-26_CTC.pdf",
+      "kind": "illustration",
+      "alt": "A house with a key in front — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Fixed deposits",
+      "category": "Savings kept with Bajaj Finance for a fixed period",
+      "image": "assets/products/bajaj-finserv-deposits.svg",
+      "url": "https://www.bajajfinserv.in/finserv-digital-annual-report-fy26/assets/pdf/Bajaj%20Finserv%20Limited%20(BFS)%20AR2025-26_CTC.pdf",
+      "kind": "illustration",
+      "alt": "A safe with a dial and a coin — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "General insurance",
+      "category": "Cover for vehicles, health, travel and homes",
+      "image": "assets/products/bajaj-finserv-general-insurance.svg",
+      "url": "https://www.bajajfinserv.in/finserv-digital-annual-report-fy26/assets/pdf/Bajaj%20Finserv%20Limited%20(BFS)%20AR2025-26_CTC.pdf",
+      "kind": "illustration",
+      "alt": "A shield with a tick inside — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Life insurance",
+      "category": "Cover for a family if the earner dies, and savings plans",
+      "image": "assets/products/bajaj-finserv-life-insurance.svg",
+      "url": "https://www.bajajfinserv.in/finserv-digital-annual-report-fy26/assets/pdf/Bajaj%20Finserv%20Limited%20(BFS)%20AR2025-26_CTC.pdf",
+      "kind": "illustration",
+      "alt": "An umbrella over a small figure — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Mutual funds",
+      "category": "Funds that pool savers' money to invest in shares and bonds",
+      "image": "assets/products/bajaj-finserv-mutual-funds.svg",
+      "url": "https://www.bajajfinserv.in/finserv-digital-annual-report-fy26/assets/pdf/Bajaj%20Finserv%20Limited%20(BFS)%20AR2025-26_CTC.pdf",
+      "kind": "illustration",
+      "alt": "A bar chart with an upward arrow — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Share broking",
+      "category": "Demat accounts and trading shares through an app",
+      "image": "assets/products/bajaj-finserv-broking.svg",
+      "url": "https://www.bajajfinserv.in/finserv-digital-annual-report-fy26/assets/pdf/Bajaj%20Finserv%20Limited%20(BFS)%20AR2025-26_CTC.pdf",
+      "kind": "illustration",
+      "alt": "A candlestick chart on a phone — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Marketplace and health",
+      "category": "Apps that connect customers with products, doctors and hospitals",
+      "image": "assets/products/bajaj-finserv-marketplace.svg",
+      "url": "https://www.bajajfinserv.in/finserv-digital-annual-report-fy26/assets/pdf/Bajaj%20Finserv%20Limited%20(BFS)%20AR2025-26_CTC.pdf",
+      "kind": "illustration",
+      "alt": "A phone with a grid of small tiles — conceptual illustration; not a photograph"
+    }
+  ]
+}

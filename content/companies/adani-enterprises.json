@@ -1,0 +1,140 @@
+{
+  "order": 57,
+  "company": {
+    "id": "adani-enterprises",
+    "name": "Adani Enterprises",
+    "ticker": "ADANIENT",
+    "sector": "Diversified business",
+    "initial": "A",
+    "color": "#3a4aa0",
+    "bg": "#ecedf8",
+    "tag": "Builds and runs airports, highways, mining services, copper, solar and wind equipment and data centres",
+    "products": [
+      [
+        "Airport terminals and runways (eight airports)",
+        "Airports"
+      ],
+      [
+        "Highways and expressways built for government agencies",
+        "Roads"
+      ],
+      [
+        "Coal and iron ore mining services for mine owners",
+        "Mining services"
+      ],
+      [
+        "Imported coal, fertiliser raw material and ship fuel",
+        "Resource trading"
+      ],
+      [
+        "Copper cathodes and cast rod",
+        "Copper"
+      ],
+      [
+        "Solar cells and panels",
+        "New energy equipment"
+      ],
+      [
+        "Wind turbines",
+        "New energy equipment"
+      ],
+      [
+        "Green hydrogen (pilot plant)",
+        "New energy equipment"
+      ],
+      [
+        "Data centres (joint venture)",
+        "Data centres"
+      ],
+      [
+        "Ammunition, missiles, drones and aircraft servicing",
+        "Defence and aerospace"
+      ],
+      [
+        "News channels (NDTV)",
+        "Media"
+      ]
+    ],
+    "sources": [
+      [
+        "Adani Enterprises investor relations page",
+        "https://www.adanienterprises.com/investors"
+      ]
+    ],
+    "productSource": "https://nsearchives.nseindia.com/annual_reports/AR_29299_ADANIENT_2025_2026_A_17942605_29052026223750.pdf",
+    "aliases": [
+      "Adani Enterprises Limited",
+      "Adani Enterprises Ltd",
+      "Adani Enterprises Ltd."
+    ],
+    "productNote": "Businesses named in Adani Enterprises' 2025–26 integrated annual report. Adani Ports, Adani Power, Adani Green Energy, Adani Energy Solutions, Adani Total Gas and AWL Agri Business were created from this company and are separate listed companies; they are not part of its results. The data centres are a joint venture. Pictures are annual-report photographs.",
+    "checked": "12 November 2026",
+    "reviewed": "12 November 2026"
+  },
+  "offerings": [
+    {
+      "name": "Airports",
+      "category": "Terminals and runways run for airlines and passengers",
+      "image": "assets/products/adani-enterprises-airport-terminal.webp",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_29299_ADANIENT_2025_2026_A_17942605_29052026223750.pdf#page=14",
+      "kind": "photo",
+      "alt": "A wide airport terminal with a curved, tree-like golden roof and an Indian flag beside an empty road — photograph from Adani Enterprises’ 2025–26 integrated annual report"
+    },
+    {
+      "name": "Highways",
+      "category": "Roads and expressways built for government agencies",
+      "image": "assets/products/adani-enterprises-expressway.webp",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_29299_ADANIENT_2025_2026_A_17942605_29052026223750.pdf#page=35",
+      "kind": "photo",
+      "alt": "An aerial view of a wide new highway with a few vehicles, running through flat green land — photograph from Adani Enterprises’ 2025–26 integrated annual report"
+    },
+    {
+      "name": "Mining services",
+      "category": "Open-cast coal mines dug for the mine owner",
+      "image": "assets/products/adani-enterprises-coal-mine.webp",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_29299_ADANIENT_2025_2026_A_17942605_29052026223750.pdf#page=65",
+      "kind": "photo",
+      "alt": "An aerial view of a large open-cast mine cut into pale terraces, with green hills behind — photograph from Adani Enterprises’ 2025–26 integrated annual report"
+    },
+    {
+      "name": "Hauling coal",
+      "category": "Giant trucks that carry coal out of the pit",
+      "image": "assets/products/adani-enterprises-mine-truck.webp",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_29299_ADANIENT_2025_2026_A_17942605_29052026223750.pdf#page=67",
+      "kind": "photo",
+      "alt": "A large yellow mining truck loaded with coal on a dark mine floor — photograph from Adani Enterprises’ 2025–26 integrated annual report"
+    },
+    {
+      "name": "Data centres",
+      "category": "Control room of a data centre built in a joint venture",
+      "image": "assets/products/adani-enterprises-data-centre-control-room.webp",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_29299_ADANIENT_2025_2026_A_17942605_29052026223750.pdf#page=55",
+      "kind": "photo",
+      "alt": "Staff at desks facing a wall of large screens in a dark control room — photograph from Adani Enterprises’ 2025–26 integrated annual report"
+    },
+    {
+      "name": "Solar panels",
+      "category": "A factory line that makes solar modules",
+      "image": "assets/products/adani-enterprises-solar-module-line.webp",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_29299_ADANIENT_2025_2026_A_17942605_29052026223750.pdf#page=51",
+      "kind": "photo",
+      "alt": "A worker in a green protective suit beside a line of solar panels in a factory — photograph from Adani Enterprises’ 2025–26 integrated annual report"
+    },
+    {
+      "name": "Copper",
+      "category": "Refined copper plates (cathodes) from the Mundra smelter",
+      "image": "assets/products/adani-enterprises-copper-cathodes.webp",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_29299_ADANIENT_2025_2026_A_17942605_29052026223750.pdf#page=69",
+      "kind": "photo",
+      "alt": "Tall stacks of reddish copper plates in a factory hall — photograph from Adani Enterprises’ 2025–26 integrated annual report"
+    },
+    {
+      "name": "Wind turbines",
+      "category": "Turbines made for wind-farm developers",
+      "image": "assets/products/adani-enterprises-wind-turbine.webp",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_29299_ADANIENT_2025_2026_A_17942605_29052026223750.pdf#page=53",
+      "kind": "photo",
+      "alt": "A white wind turbine with an Adani logo against a pale blue sky — photograph from Adani Enterprises’ 2025–26 integrated annual report"
+    }
+  ]
+}

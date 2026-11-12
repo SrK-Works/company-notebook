@@ -1,0 +1,129 @@
+{
+  "order": 58,
+  "company": {
+    "id": "adani-ports",
+    "name": "Adani Ports and SEZ",
+    "ticker": "ADANIPORTS",
+    "sector": "Industrials & infrastructure",
+    "initial": "A",
+    "color": "#0a7f8f",
+    "bg": "#e3f3f5",
+    "tag": "Runs ports that load and unload ships, plus trains, trucks, warehouses and tugboats that move the cargo on",
+    "products": [
+      [
+        "Container terminals (loading and unloading boxes from ships)",
+        "Ports"
+      ],
+      [
+        "Coal, iron ore and other loose cargo handling",
+        "Ports"
+      ],
+      [
+        "Liquid cargo tank farms and gas terminals (LNG and LPG)",
+        "Ports"
+      ],
+      [
+        "Ports in Israel, Tanzania, Sri Lanka and Australia",
+        "International ports"
+      ],
+      [
+        "Trains, trucks and inland container depots",
+        "Logistics"
+      ],
+      [
+        "Warehouses, grain silos and logistics parks",
+        "Logistics"
+      ],
+      [
+        "Tugs, workboats and offshore vessels",
+        "Marine services"
+      ],
+      [
+        "Dredging (deepening channels and berths)",
+        "Marine services"
+      ]
+    ],
+    "sources": [
+      [
+        "Adani Ports and SEZ investor relations",
+        "https://www.adaniports.com/investors"
+      ]
+    ],
+    "productSource": "https://nsearchives.nseindia.com/annual_reports/AR_29300_ADANIPORTS_2025_2026_A_28945093_29052026225149.pdf",
+    "aliases": [
+      "Adani Ports and Special Economic Zone Limited",
+      "Adani Ports and Special Economic Zone Ltd",
+      "Adani Ports & SEZ",
+      "Adani Ports and SEZ Ltd"
+    ],
+    "productNote": "Ports, logistics and marine services named in Adani Ports and SEZ's 2025–26 integrated annual report. Adani Enterprises, which once owned the ports business, is a separate listed company with its own page. Pictures are annual-report photographs.",
+    "checked": "12 November 2026",
+    "reviewed": "12 November 2026"
+  },
+  "offerings": [
+    {
+      "name": "Container ships and cranes",
+      "category": "Cranes that load and unload cargo ships",
+      "image": "assets/products/adani-ports-container-ship-cranes.webp",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_29300_ADANIPORTS_2025_2026_A_28945093_29052026225149.pdf#page=7",
+      "kind": "photo",
+      "alt": "A cargo ship with containers on deck alongside tall blue quay cranes at dusk — photograph from Adani Ports and SEZ’s 2025–26 integrated annual report"
+    },
+    {
+      "name": "Container terminals",
+      "category": "Stacks of boxes beside the ship berths",
+      "image": "assets/products/adani-ports-container-terminal.webp",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_29300_ADANIPORTS_2025_2026_A_28945093_29052026225149.pdf#page=53",
+      "kind": "photo",
+      "alt": "An aerial view of a port with blue quay cranes, stacked containers and a ship at the berth — photograph from Adani Ports and SEZ’s 2025–26 integrated annual report"
+    },
+    {
+      "name": "Bulk cargo grabs",
+      "category": "Grab buckets that unload coal and other loose cargo",
+      "image": "assets/products/adani-ports-bulk-grab-cranes.webp",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_29300_ADANIPORTS_2025_2026_A_28945093_29052026225149.pdf#page=32",
+      "kind": "photo",
+      "alt": "Two large steel grab buckets hanging from a crane above a hopper at a port — photograph from Adani Ports and SEZ’s 2025–26 integrated annual report"
+    },
+    {
+      "name": "Container yards",
+      "category": "A forklift moving a container onto a truck",
+      "image": "assets/products/adani-ports-container-yard.webp",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_29300_ADANIPORTS_2025_2026_A_28945093_29052026225149.pdf#page=71",
+      "kind": "photo",
+      "alt": "A red container handler lifting a container beside a white truck, with stacks of containers behind — photograph from Adani Ports and SEZ’s 2025–26 integrated annual report"
+    },
+    {
+      "name": "Tugboats",
+      "category": "Boats that guide big ships into port",
+      "image": "assets/products/adani-ports-tugboat.webp",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_29300_ADANIPORTS_2025_2026_A_28945093_29052026225149.pdf#page=72",
+      "kind": "photo",
+      "alt": "A white and dark tugboat moving across calm sea — photograph from Adani Ports and SEZ’s 2025–26 integrated annual report"
+    },
+    {
+      "name": "Control rooms",
+      "category": "Screens that track ships and cargo",
+      "image": "assets/products/adani-ports-control-room.webp",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_29300_ADANIPORTS_2025_2026_A_28945093_29052026225149.pdf#page=122",
+      "kind": "photo",
+      "alt": "Staff seated at a long desk facing wide screens in a modern control room — photograph from Adani Ports and SEZ’s 2025–26 integrated annual report"
+    },
+    {
+      "name": "Logistics parks",
+      "category": "Trucks parked beside grain silos",
+      "image": "assets/products/adani-ports-logistics-park.webp",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_29300_ADANIPORTS_2025_2026_A_28945093_29052026225149.pdf#page=111",
+      "kind": "photo",
+      "alt": "An aerial view of rows of parked trucks in front of large grey silos — photograph from Adani Ports and SEZ’s 2025–26 integrated annual report"
+    },
+    {
+      "name": "Quayside crews",
+      "category": "Workers handling cargo and ropes at the quay",
+      "image": "assets/products/adani-ports-quayside-crew.webp",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_29300_ADANIPORTS_2025_2026_A_28945093_29052026225149.pdf#page=128",
+      "kind": "photo",
+      "alt": "Port workers in orange overalls and white helmets on a quay beside a container ship — photograph from Adani Ports and SEZ’s 2025–26 integrated annual report"
+    }
+  ]
+}

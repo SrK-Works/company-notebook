@@ -1,0 +1,201 @@
+{
+  "summary": "Bharat Electronics designs and builds radars, radios, electronic warfare gear, sights and weapon electronics, mostly for India's armed forces. It also sells smaller amounts of civilian electronics such as airport radars and electronic voting machines.",
+  "description": "A modern warship, fighter, tank or missile battery carries electronics that find targets, talk to other units and protect against enemy sensors. Bharat Electronics designs and builds many of these systems in its own factories, tests them, installs them and then repairs them and supplies spare parts for years. It also builds civilian equipment, such as radars for airports, electronic voting machines, rail control systems and cyber security tools. It is a company owned by the Government of India under the Ministry of Defence.",
+  "money": "Mostly, the company earns by selling equipment, and a smaller part by services such as repair, spares and support, and by exports. A single order can run for years, so income is recorded as work is delivered. The main costs are electronic parts and materials, many bought from other suppliers, staff, research and development, and factories and test sites. A customer's payment is not profit, because these costs are paid out of it.",
+  "customers": "The main customer is the Government of India, buying for the Army, Navy and Air Force under contracts. Other buyers are other government bodies, such as the election authority and airport operators, and some foreign governments and manufacturers. The people who use the equipment, such as soldiers or sailors, do not pay for it; the government does.",
+  "drivers": "Three things mostly decide how it does: how many new orders it wins and how fast it delivers them, what it pays for imported and bought-in parts, and how well it keeps up in technology that changes quickly.",
+  "groups": [
+    {
+      "title": "Radars and fire control",
+      "examples": "Air defence radars, mountain radars, and systems that aim guns and missiles.",
+      "explanation": "A radar sends out radio waves and listens for the echo to find aircraft or ships. Fire control systems use that information to aim weapons."
+    },
+    {
+      "title": "Communication systems",
+      "examples": "Military radios, satellite terminals and secure networks.",
+      "explanation": "These let soldiers, ships and aircraft talk to each other without being overheard or jammed."
+    },
+    {
+      "title": "Electronic warfare and aircraft electronics",
+      "examples": "Warning receivers and electronics for helicopters and the Light Combat Aircraft.",
+      "explanation": "Electronic warfare means detecting, confusing or blocking enemy radars and radios. Aircraft electronics include displays and sensors in the cockpit."
+    },
+    {
+      "title": "Weapons, sights and naval systems",
+      "examples": "Gun and tank sights, anti-submarine systems and electronics for weapons.",
+      "explanation": "Cameras and thermal sensors for aiming, sonar for finding submarines, and the electronics that run weapons."
+    },
+    {
+      "title": "Civilian electronics",
+      "examples": "Airport surveillance radars, electronic voting machines, rail and metro control and cyber security.",
+      "explanation": "The same electronics skills sold to government and civilian customers outside defence. The report says they are a smaller part of business than defence."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is electronic warfare?",
+      "text": "Using radio waves to find, confuse or block an enemy's radars, radios and missiles, and to protect your own."
+    },
+    {
+      "title": "What is an order book?",
+      "text": "The value of orders already won but not yet delivered. A larger order book means more work already contracted, but revenue only arrives when the equipment is delivered."
+    },
+    {
+      "title": "Why is the armed forces' purchasing important?",
+      "text": "The government decides what to buy, from whom and when, so government budgets and buying rules set how much work the company can win."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Government asks for equipment",
+      "text": "The armed forces describe what they need, and the company bids or is offered the work."
+    },
+    {
+      "title": "Design and test",
+      "text": "Engineers design the system and test it in the lab and in the field."
+    },
+    {
+      "title": "Buy parts and build",
+      "text": "The company buys electronic components, assembles the equipment in its factories and checks quality."
+    },
+    {
+      "title": "Deliver and install",
+      "text": "The equipment is delivered and installed on the ship, vehicle, aircraft or site."
+    },
+    {
+      "title": "Bill and collect",
+      "text": "The company bills the customer under the contract. Revenue is recorded as work is delivered, but cash arrives later, after parts and wages have already been paid."
+    },
+    {
+      "title": "Support for years",
+      "text": "Product support centres supply spares and repairs, which earn service income."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "One main customer",
+      "text": "Most orders come from the government for the armed forces, so government budgets and buying rules matter more than ordinary market demand."
+    },
+    {
+      "title": "Support after the sale",
+      "text": "The report says it keeps product support centres and service engineers to look after equipment through its life, which earns service income."
+    },
+    {
+      "title": "Subsidiaries and joint ventures report separately",
+      "text": "The report covers the company and the financial information of its two subsidiaries; other joint ventures, such as those with a French and an Israeli company, report their own results."
+    }
+  ],
+  "watch": [
+    [
+      "How much of the business is defence and how much civilian?",
+      "Civilian sales spread the company's dependence beyond the armed forces.",
+      "Read the turnover break-up in the report's core businesses section and compare across years."
+    ],
+    [
+      "How large is the order book compared with a year's deliveries?",
+      "It shows how much work is already contracted.",
+      "Compare the order book at the start of the year with that year's turnover in the verified table."
+    ],
+    [
+      "How quickly do orders turn into deliveries?",
+      "Revenue arrives when equipment is delivered, not when orders are won.",
+      "Compare orders received with turnover over several years, and see how long an order typically takes from award to delivery and payment."
+    ],
+    [
+      "How much of its parts come from outside India?",
+      "Imported components can be delayed or cost more.",
+      "Read the risk section on sourcing of components, and look in the notes to the accounts for any imports and for how much is spent on materials."
+    ],
+    [
+      "How much does it earn from exports?",
+      "Exports reduce dependence on the Indian government but come with their own risks.",
+      "Compare export sales and the export order book across several annual reports, and note which countries and products are named."
+    ]
+  ],
+  "risks": [
+    [
+      "Technology changes quickly",
+      "The report says changes in how modern wars are fought make it hard to choose which technologies to invest in. A wrong choice can mean not meeting the customer's needs and losing the resources spent."
+    ],
+    [
+      "More competition",
+      "The report says government policy to widen the supplier base and encourage private firms increases competition and could affect its market position in some segments."
+    ],
+    [
+      "Delays in parts",
+      "The report says war and tension around the world make supply disruptions more likely, with delays in receiving materials and parts that can hold up deliveries."
+    ],
+    [
+      "Reliance on the home defence market",
+      "The report lists exports and civilian markets as ways to reduce reliance on the domestic defence market, which shows that cuts in its main market would hurt."
+    ]
+  ],
+  "context": [
+    "October 2025: night vision facility opened",
+    "The 2025-26 report says the Prime Minister opened its Advanced Night Vision Devices facility at Nimmaluru in Andhra Pradesh in October 2025. It also lists a new electronic warfare facility in Telangana and a joint venture with Israel Aerospace Industries to support a missile programme. These are new capacity, not results yet."
+  ],
+  "sources": [
+    [
+      "Bharat Electronics integrated annual report 2025-26",
+      "https://bel-india.in/wp-content/uploads/2026/08/Integrated-Annual-Report-2025-26.pdf"
+    ],
+    [
+      "Bharat Electronics investor relations",
+      "https://bel-india.in/investors/"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "Revenue and profit figures are pending verification. The verified table will say whether each figure is for the company alone (standalone) or includes its subsidiaries (consolidated), and give the period and the profit definition."
+    }
+  ],
+  "stepsTitle": "From an order to payment.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Designs and builds radars, radios, electronic warfare equipment and weapon electronics, and supports them with repairs and spare parts."
+    },
+    {
+      "title": "Who pays",
+      "text": "Mostly the Government of India, for the armed forces; also civilian agencies and some foreign buyers."
+    },
+    {
+      "title": "How it earns",
+      "text": "Selling equipment under long contracts, plus repair, spares and support services and exports."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Electronic parts and materials, staff, research and development, and factories and test sites."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Government push for Indian-made equipment",
+      "text": "The report says India is accelerating its defence indigenisation, meaning buying equipment made in India, which favours a home maker with decades of experience."
+    },
+    {
+      "title": "Orders already booked",
+      "text": "The report describes its order book as healthy and expects healthy new orders in the next two to three years, which gives it work to deliver."
+    },
+    {
+      "title": "In-house research and partners",
+      "text": "The report says it is granted patents each year and works with hundreds of research partners, including small firms and colleges, to develop new products."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Hard-to-get core technology",
+      "text": "The report says core technologies are often not readily available and that depending on a single source for a technology is a major challenge."
+    },
+    {
+      "title": "Trade rules and barriers",
+      "text": "The report lists strict trade barriers and regulations among the pressures it faces."
+    },
+    {
+      "title": "Stretching into new fields",
+      "text": "The report says it wants to expand beyond its traditional segments into areas such as space, unmanned systems and quantum technologies, where it needs new skills and spending."
+    }
+  ],
+  "checked": "12 November 2026"
+}
