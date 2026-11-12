@@ -94,7 +94,7 @@
   "risks": [
     [
       "A cyber attack or data leak",
-      "Infosys builds and runs systems that hold clients’ data, and it lists cybersecurity among its risks. A breach could disrupt clients’ work and damage their trust."
+      "Infosys builds and runs systems that hold clients’ data. A breach could disrupt clients’ work and damage their trust."
     ],
     [
       "Lawsuits and an investigation",
@@ -106,7 +106,7 @@
     ],
     [
       "Changing its own way of working",
-      "Infosys names carrying out its strategy, retraining staff for AI and making hybrid office-and-home work effective among its risks. Getting these wrong can raise costs or slow delivery."
+      "Carrying out its strategy, retraining staff for AI and making hybrid office-and-home work effective all take effort. Getting these wrong can raise costs or slow delivery."
     ]
   ],
   "context": [
@@ -180,7 +180,7 @@
   "helps": [
     {
       "title": "Big, long contracts",
-      "text": "Large companies often hire Infosys for several years at a time, which gives it work it can plan for. In FY 2025–26 it reported large new deal wins, more than half of them new work rather than renewals; in August 2026 it signed a ten-year agreement with Crocs."
+      "text": "Large companies often hire Infosys for several years at a time, which gives it work it can plan for. In August 2026, for example, it signed a ten-year agreement with Crocs."
     },
     {
       "title": "Customers in many industries",
@@ -188,7 +188,7 @@
     },
     {
       "title": "Selling AI work to existing clients",
-      "text": "Infosys’s annual report says AI-led programmes are now running at 90 per cent of its 200 largest clients. That lets it sell AI work to clients whose systems it already knows."
+      "text": "Clients whose systems Infosys already runs can buy help using AI from the same supplier. AI-led programmes are now running at 90 per cent of its 200 largest clients."
     }
   ],
   "hurts": [
@@ -198,7 +198,7 @@
     },
     {
       "title": "People cost more",
-      "text": "Infosys’s main cost is its staff. It names competition for skilled people, rising wages and the cost of retraining employees among its risks."
+      "text": "Infosys’s main cost is its staff, and it competes for skilled people, faces rising wages and must pay to retrain employees."
     },
     {
       "title": "Clients cut spending in uncertain times",
@@ -206,7 +206,7 @@
     },
     {
       "title": "Visa and immigration rules",
-      "text": "Some staff must work at clients’ offices abroad. Infosys lists changes to immigration rules, including the US H-1B work visa, among its risks."
+      "text": "Some staff must work at clients’ offices abroad, so changes to immigration rules, including the US H-1B work visa, can disrupt that work."
     }
   ]
 }

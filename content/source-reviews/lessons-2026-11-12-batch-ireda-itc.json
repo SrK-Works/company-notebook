@@ -2,7 +2,7 @@
   "checked": "12 November 2026",
   "requestedProvider": "TinyFish",
   "providerStatus": "TinyFish search and fetch_content used to find and read sources; large results were saved to files and searched locally. Company PDFs were downloaded from the companies' own sites and searched locally with pypdf. No browser automation was used.",
-  "method": "Lesson-editor review of quick, helps, hurts, risks and context claim by claim against official sources. Helps and hurts rewritten as lasting explanations from annual-report risk, strategy and outlook sections; risks rewritten so they add detail or a different angle instead of repeating hurts; checker warnings fixed by rewriting or, for a brand name, a company alias.",
+  "method": "Lesson-editor review of quick, helps, hurts, risks and context claim by claim against official sources. Helps and hurts rewritten as lasting explanations from annual-report risk, strategy and outlook sections; risks rewritten so they add detail or a different angle instead of repeating hurts; checker warnings fixed by rewriting or, for a brand name, a company alias. Revision after direction review (PR #25): 'the annual report says' kept only for opinions, forecasts and quotes; no fact repeated across helps, hurts and risks; at most four risks; helps and hurts open with the lasting mechanism and carry at most one dated example.",
   "scope": "ireda, infosys, bajaj-auto, asian-paints, hindustan-unilever, itc. Plain-language and source check of pre-financial text; not a financial audit.",
   "financialPolicy": "No financial figures, snapshots or financial-review files changed. Recent quarterly results are described in words and approximate fractions only.",
   "findings": [
@@ -17,7 +17,8 @@
         "Help 'government links' no longer says 'the Government does not cover its losses' (not in sources); it now cites the sovereign-level ratings.",
         "Hurt 'Electricity buyers pay late' was not in the annual report; replaced with the report's threat 'PPA counterparty stress, land approvals and transmission-readiness' delaying projects. Added the report's threats of refinancing competition from banks and its weakness of not taking deposits.",
         "Risks no longer copy hurts: Gensol detail (fraud declared and reported to RBI, per the annual report), policy dependence, newer technologies, interest and currency moves.",
-        "Context: removed the implied explanation of slow profit growth; now says the release gives no reason."
+        "Context: removed the implied explanation of slow profit growth; now says the release gives no reason.",
+        "Revision: help retitled 'A top credit rating' (the old title implied a government guarantee) and now names S&P, as the annual report does; attributions cut."
       ],
       "limits": [
         "News reports say a new chairman and managing director was appointed around 30 October 2026; not checked against an IREDA filing and not used."
@@ -34,7 +35,8 @@
         "Fixed the 'platform' warning in groups by describing what Finacle does.",
         "Helps and hurts were general and unsourced; now cite large multi-year deals (Crocs example), industry spread, AI programmes at 90 per cent of top 200 clients; hurts cite AI disruption (chairman), talent and wage costs, economic and tariff uncertainty, US immigration rules from the safe-harbour list.",
         "Risks add cybersecurity, pending litigation and a US government investigation (stated as listed risks, outcome unknown), exchange rates, strategy and hybrid-work execution.",
-        "Context: the 23 October results release could not be opened to confirm it mentions Investec; the Investec selection was dated 30 July 2026. Context moved to the newer 27 October 2026 Syngenta go-live, which is directly sourced."
+        "Context: the 23 October results release could not be opened to confirm it mentions Investec; the Investec selection was dated 30 July 2026. Context moved to the newer 27 October 2026 Syngenta go-live, which is directly sourced.",
+        "Revision: 'Big, long contracts' keeps one example (Crocs) instead of two; attributions cut."
       ],
       "limits": [
         "infosys.com PDFs (full annual report, results release) and the SEC copy of the Form 20-F could not be read by automated tools (blocked or timed out). Risk statements therefore come from the safe-harbour list in the SEC-filed April 2026 release, not the 20-F risk-factor section."
@@ -52,7 +54,8 @@
         "Help 'Spare parts keep selling' had no direct source; replaced with three-wheeler market leadership. Added the captive finance company (65–75 per cent of vehicles bought on loans).",
         "Hurts now cite the annual report: lost commuter-motorcycle share to competition, commodity and currency risk, rare-earth magnet shortage, KTM turnaround. Removed the unsourced 'battery problems' hurt.",
         "Risks add export-market conditions, technology change, KTM financing detail and Middle East energy prices.",
-        "Context (Chetak demand ahead of supply) re-checked against the 27 October release."
+        "Context (Chetak demand ahead of supply) re-checked against the 27 October release.",
+        "Revision: restored 'Buyers cannot afford vehicles or loans' (MD&A: 'nearly 65%–75% of vehicles retailed through financing'); the loan-company help no longer repeats that figure. Imported-parts hurt now opens with the lasting dependence, magnet shortage as the one example. Removed the Middle East cost inference. KTM moved from hurts to risks; added a currency risk (favourable currency realisation in the 27 October release). Attributions cut."
       ],
       "limits": []
     },
@@ -67,7 +70,8 @@
         "Fixed the VAE warning in context.",
         "Help 'Cheaper ingredients can help' was a commodity-cycle statement, not a lasting strength; replaced with backward integration (making its own ingredients). Other helps now cite B2B diversification and services as a differentiator.",
         "Hurts now follow the annual report's critical risks: competition, supply and geopolitical cost shocks, counterfeit paint, large capex execution.",
-        "Risks add shifting tastes, new-business complexity, service reputation, factory safety, regulation."
+        "Risks add shifting tastes, new-business complexity, service reputation, factory safety, regulation.",
+        "Revision: dropped the regulation risk to keep four; attributions cut."
       ],
       "limits": []
     },
@@ -83,7 +87,8 @@
         "Help on new channels now cites the annual report's dedicated quick-commerce organisation instead of the Foods review.",
         "Removed the unverified 'HUL says it must keep prices competitive' risk.",
         "Added the annual report to sources; dropped the KWIL allotment FAQ, whose facts (record date, 1:1 ratio, listing on 16 February 2026) are also in the annual report.",
-        "Context re-checked against the 28 October release."
+        "Context re-checked against the 28 October release.",
+        "Revision: restored the price-competition point as a risk (annual report, Home Care review: price reductions 'while maintaining a competitive price-value proposition, led to moderation in Underlying Sales Growth (USG) to 4%' and 'disciplined price–value framework, ensuring affordability'; read from the hul.co.in PDF, which downloaded normally here). Dropped the cyber risk to keep four; attributions cut."
       ],
       "limits": [
         "The Home Care, Beauty & Wellbeing and Foods review pages block plain downloads; they were not re-read this round and remain the source for older text in groups, specifics and financialNotes."
@@ -100,7 +105,8 @@
         "Helps now cite the annual report's diversified-enterprise statement, institutional strengths (farm links, buying power, distribution) and brand reach of nearly 280 million households.",
         "Risks add legal cigarettes' small share of tobacco use, climate exposure, the Century Pulp and Paper acquisition (completed 1 August 2026) and the proposed Happiest Minds merger, cyber security.",
         "Context moved from the August 2026 Happiest Minds proposal to the 2 November 2026 results showing the tax increase's effect.",
-        "Dropped the cigarettes web page from sources to stay within ten; the annual report covers the cigarette business."
+        "Dropped the cigarettes web page from sources to stay within ten; the annual report covers the cigarette business.",
+        "Revision: dropped the cyber risk to keep four; attributions cut to the tax quote and the El Niño warning."
       ],
       "limits": [
         "The Happiest Minds combination's approval status after 31 August 2026 was not found in an ITC filing; it is still described as a proposal."

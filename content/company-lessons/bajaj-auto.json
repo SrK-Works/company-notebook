@@ -93,20 +93,20 @@
   ],
   "risks": [
     [
+      "KTM still needs repairing",
+      "Bajaj took control of the Austrian motorcycle maker KTM after it ran into financial trouble, and arranged new shares and loans to pay its creditors and restart production. The turnaround is under way, with the aim of bringing KTM back to its earlier performance “in due course”."
+    ],
+    [
       "Trouble in export markets",
-      "Exports go to countries whose rules, currencies and economies can change quickly. The annual report names changing conditions in export markets and geopolitical tensions as risks; an import restriction or currency shortage can interrupt sales there."
+      "Exports go to countries whose rules, currencies and economies can change quickly. An import restriction or currency shortage can interrupt sales there."
     ],
     [
       "The move to electric vehicles",
-      "The annual report lists technological change as a risk. Electric scooters and three-wheelers need different parts and suppliers from fuel-engine vehicles, such as the magnets in their motors and their batteries."
+      "Electric scooters and three-wheelers need different parts, suppliers and skills from fuel-engine vehicles, and the technology keeps changing."
     ],
     [
-      "KTM’s debts and losses",
-      "Bajaj arranged new shares and loans to rescue KTM and pay its creditors, and KTM later refinanced its bank loans. The annual report says Bajaj will keep supporting KTM’s management until the turnaround is complete."
-    ],
-    [
-      "Energy prices and inflation",
-      "The annual report says Middle East tensions could raise energy prices and reignite inflation, which can push up Bajaj’s costs."
+      "Currencies move both ways",
+      "Export sales are earned in foreign currencies. A favourable exchange rate lifted revenue in July–September 2026; the same swing in reverse would lower it."
     ]
   ],
   "context": [
@@ -160,33 +160,33 @@
   "helps": [
     {
       "title": "Strong overseas sales",
-      "text": "Bajaj sells in many countries across Africa, Latin America and Asia, so a weak spell in India need not hit every market at once. Its annual report says it leads in most of its key export markets and that its exports grew faster than the industry’s in FY 2025–26."
+      "text": "Bajaj sells in many countries across Africa, Latin America and Asia, so a weak spell in India need not hit every market at once. It leads in most of its key export markets, and its exports grew faster than the industry’s in FY 2025–26."
     },
     {
       "title": "The leading three-wheeler maker",
-      "text": "Bajaj sells about three of every four fuel-engine three-wheelers bought in India, used as auto-rickshaws and small goods carriers. The annual report says it also ended FY 2025–26 as the leader in electric three-wheelers."
+      "text": "Bajaj sells about three of every four fuel-engine three-wheelers bought in India, used as auto-rickshaws and small goods carriers. It also ended FY 2025–26 as the leader in electric three-wheelers."
     },
     {
       "title": "Its own loan company",
-      "text": "Most two- and three-wheelers in India are bought on loans; the annual report puts the share at about two-thirds to three-quarters. Bajaj’s own finance company lends to these buyers, which supports its sales."
+      "text": "Bajaj’s own finance company lends to people buying its two- and three-wheelers, which supports its sales."
     }
   ],
   "hurts": [
     {
+      "title": "Buyers cannot afford vehicles or loans",
+      "text": "Most two- and three-wheelers in India are bought on loans, roughly two-thirds to three-quarters of them. When incomes weaken or loans get dearer or harder to get, people delay buying a vehicle."
+    },
+    {
       "title": "Tough competition in everyday motorcycles",
-      "text": "Bajaj’s share of India’s motorcycle market fell in FY 2025–26. The annual report blames heavier competition, especially among cheaper commuter bikes."
+      "text": "Rivals compete hard for buyers of cheaper commuter bikes. Bajaj’s share of India’s motorcycle market fell in FY 2025–26, partly for that reason."
     },
     {
-      "title": "Metal prices and currencies move",
-      "text": "The annual report lists rising prices of key materials and currency swings among its risks. Bajaj cannot always raise vehicle prices as fast as costs rise."
+      "title": "Depending on imported parts",
+      "text": "Electric scooters depend on a few imported parts, such as the rare-earth magnets in their motors, so one country’s export limits can stop production. In FY 2025–26, for example, China’s limits on these magnets cut Chetak supply for months."
     },
     {
-      "title": "One missing part can stop production",
-      "text": "In FY 2025–26 China restricted exports of rare-earth magnets, which electric motors need. The annual report says this cut Chetak supply for months until Bajaj redesigned its motors and found other suppliers."
-    },
-    {
-      "title": "KTM still needs repairing",
-      "text": "Bajaj took control of the Austrian motorcycle maker KTM after it ran into financial trouble. The annual report says the turnaround is under way, with the aim of bringing KTM back to its earlier performance in due course."
+      "title": "Material prices rise",
+      "text": "Materials make up most of a vehicle’s cost, and when their prices rise Bajaj cannot always raise vehicle prices as fast."
     }
   ]
 }

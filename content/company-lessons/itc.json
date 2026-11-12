@@ -120,19 +120,15 @@
   "risks": [
     [
       "Legal cigarettes are a small slice of tobacco use",
-      "The annual report says legal cigarettes are only about a tenth of the tobacco used in India; most is chewed or smoked in cheaper, lower-taxed forms. A price rise can push more smokers to those other forms."
+      "Legal cigarettes are only about a tenth of the tobacco used in India; most is chewed or smoked in cheaper, lower-taxed forms. That gives smokers many alternatives when cigarette prices rise."
     ],
     [
       "Crops and forests depend on the weather",
-      "ITC relies on farm crops and wood. The annual report says this leaves it inherently exposed to climate-related risks, and it warns that El Niño conditions could weaken monsoons and intensify heatwaves."
+      "ITC relies on farm crops and wood, which leaves it exposed to climate risks. The annual report warns that El Niño conditions could weaken monsoons and intensify heatwaves."
     ],
     [
       "Buying and merging companies",
       "ITC completed the purchase of Century Pulp and Paper’s paper unit in August 2026, and ITC Infotech has proposed merging with Happiest Minds Technologies. Bought businesses need money and attention before they show whether they were worth it."
-    ],
-    [
-      "A cyber attack",
-      "As ITC moves more of its operations online and into connected factory systems, an attack could disrupt production or sales. The annual report says it has set up a separate committee and round-the-clock monitoring to guard against this."
     ],
     [
       "A headline figure hides a change in scope",
@@ -220,25 +216,25 @@
   "helps": [
     {
       "title": "Many different businesses",
-      "text": "Packaged foods, personal care, notebooks, cigarettes, farm produce, paper and packaging depend on different customers and prices, so ITC is not tied to one market. The annual report describes ITC as a diversified enterprise."
+      "text": "Packaged foods, personal care, notebooks, cigarettes, farm produce, paper and packaging depend on different customers and prices, so ITC is not tied to one market."
     },
     {
       "title": "Its businesses help each other",
-      "text": "ITC buys crops through its own links with farmers for its foods, uses its paper-making skills for Classmate notebooks and makes packaging. The annual report counts these farm links, its buying power and its distribution network among its lasting advantages."
+      "text": "ITC buys crops through its own links with farmers for its foods, uses its paper-making skills for Classmate notebooks and makes packaging. Those farm links, its buying power and its distribution network give it lasting cost and reach advantages."
     },
     {
       "title": "Brands in hundreds of millions of homes",
-      "text": "Aashirvaad, Sunfeast, Bingo!, Classmate and Savlon are bought again and again. The annual report says ITC’s consumer brands reach nearly 280 million Indian households."
+      "text": "Aashirvaad, Sunfeast, Bingo!, Classmate and Savlon are bought again and again, and ITC’s consumer brands reach nearly 280 million Indian households."
     }
   ],
   "hurts": [
     {
       "title": "Cigarette taxes",
-      "text": "Cigarettes still earn most of ITC’s segment profit, and the government sets their tax. From 1 February 2026 taxes on cigarettes rose steeply, which the annual report calls an unprecedented increase."
+      "text": "Cigarettes still earn most of ITC’s segment profit, and the government sets their tax. From 1 February 2026 taxes on cigarettes rose steeply, which the annual report calls an “unprecedented increase”."
     },
     {
       "title": "Smuggled and cheaper tobacco",
-      "text": "When cigarettes get dearer, some smokers switch to smuggled cigarettes, which pay little or no tax, or to cheaper forms of tobacco. The annual report says high taxes have fed this illegal trade in the past."
+      "text": "When cigarettes get dearer, some smokers switch to smuggled cigarettes, which pay little or no tax, or to cheaper forms of tobacco."
     },
     {
       "title": "Cheap imported paper",
@@ -246,7 +242,7 @@
     },
     {
       "title": "Supply shocks",
-      "text": "Conflicts, trade tariffs and energy-market swings can raise ingredient, fuel and shipping costs or delay supplies. The annual report says these swings increased in FY 2025–26."
+      "text": "Conflicts, trade tariffs and energy-market swings can raise ingredient, fuel and shipping costs or delay supplies."
     }
   ],
   "checked": "12 November 2026"

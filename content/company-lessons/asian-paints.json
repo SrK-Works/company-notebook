@@ -94,11 +94,11 @@
   "risks": [
     [
       "Tastes change",
-      "The annual report says buyers are moving towards eco-friendly paints, complete painting solutions and niche products. A company slow to follow can lose sales."
+      "Buyers are moving towards eco-friendly paints, complete painting solutions and niche products. A company slow to follow can lose sales."
     ],
     [
       "New businesses are unfamiliar",
-      "Making chemicals and other new products needs different skills, raw materials and safety rules from paint. The annual report warns that inexperience can delay a start or cause a loss."
+      "Making chemicals and other new products needs different skills, raw materials and safety rules from paint. Inexperience can delay a start or cause a loss."
     ],
     [
       "A service job goes badly",
@@ -107,10 +107,6 @@
     [
       "Factory safety",
       "Paint and chemical plants handle hazardous materials and heavy machinery. An accident can injure people and stop production."
-    ],
-    [
-      "Rules change",
-      "New laws, such as India’s labour codes and data-privacy rules, can raise costs, and breaking them can bring penalties."
     ]
   ],
   "context": [
@@ -164,7 +160,7 @@
   "helps": [
     {
       "title": "Many kinds of buyer",
-      "text": "Dealers, households, painters, builders, housing projects and factories all buy from Asian Paints. The annual report says growing sales to builders and institutions has widened where its revenue comes from."
+      "text": "Dealers, households, painters, builders, housing projects and factories all buy from Asian Paints. Growing sales to builders and institutions have widened where its revenue comes from."
     },
     {
       "title": "Selling a finished wall, not just a tin",
@@ -172,17 +168,17 @@
     },
     {
       "title": "Making its own ingredients",
-      "text": "Asian Paints is building plants to make some of the chemicals in its paint instead of buying them. The annual report says this is meant to lower costs and let it develop its own distinct paint formulas."
+      "text": "Asian Paints is building plants to make some of the chemicals in its paint instead of buying them, to lower costs and develop its own distinct paint formulas."
     }
   ],
   "hurts": [
     {
       "title": "More paint brands to choose from",
-      "text": "More brands give dealers and households more choice. The annual report names losing customers and market share to this competition as a key risk."
+      "text": "More brands give dealers and households more choice, so Asian Paints can lose customers and market share to competitors."
     },
     {
       "title": "Ingredient prices and supply",
-      "text": "Wars, trade tariffs and supplier problems can make ingredients dearer or scarce. The annual report says this can stop production or cut profit; in 2026, price rises only partly covered a steep jump in costs."
+      "text": "Wars, trade tariffs and supplier problems can make ingredients dearer or scarce, which can stop production or cut profit. In 2026, for example, price rises only partly covered a steep jump in costs."
     },
     {
       "title": "Fake paint",
