@@ -1,0 +1,201 @@
+{
+  "summary": "HDFC Life sells life insurance and long-term savings plans. Customers pay premiums, the company promises a payout on death or at the end of a plan, and it invests the premiums in between.",
+  "description": "Life insurance is a promise. You pay a regular amount, called a premium, and if the insured person dies during the plan, your family receives a lump sum. Other plans work like long-term savings: you pay for years and receive money at the end, or a regular income in retirement. HDFC Life sells such plans to individuals, and to groups such as employees of one employer. Between collecting premiums and paying out, it invests the money. Plans are sold by agents, by bank branches and by partners such as lenders and small finance companies, and many policies run for decades.",
+  "money": "HDFC Life collects premiums and earns returns on the money it invests. From these it pays claims and maturity amounts, commission to the agents and banks that sell its plans, running costs such as staff and technology, and it sets money aside in reserves to pay future claims. Some plans share their surplus with policyholders, as bonuses. Premiums received in a year are not profit, because most of that money is held for future payouts and the rest goes on costs.",
+  "customers": "Individuals pay premiums to cover their family against their death, or to save for goals such as education and retirement. Organisations such as employers and lenders pay for group plans that cover many people at once. The person who receives the money when a claim is made is usually the family, not the person who paid.",
+  "drivers": "Mostly three things: how many new policies it sells and whether customers keep paying for years; how its investments perform; and whether claims turn out in line with the company's assumptions.",
+  "groups": [
+    {
+      "title": "Protection plans",
+      "examples": "Cover that pays a lump sum to the family if the insured person dies.",
+      "explanation": "The customer pays a premium for years and receives nothing if nothing happens. The cover is for peace of mind about the family's income."
+    },
+    {
+      "title": "Savings plans",
+      "examples": "Non-participating plans: the payout is set when the plan is sold.",
+      "explanation": "The customer pays for a fixed number of years and receives amounts promised in the policy, whatever the markets do."
+    },
+    {
+      "title": "Participating plans",
+      "examples": "Traditional plans that add bonuses to the policy.",
+      "explanation": "The customer shares in the surplus the company earns on this group of policies. Most of that surplus is added to the policy as bonuses."
+    },
+    {
+      "title": "Unit-linked plans",
+      "examples": "ULIPs (unit-linked insurance plans): insurance with money invested in funds.",
+      "explanation": "The value of the policy rises and falls with the market value of the chosen fund. The customer, not the insurer, carries the investment risk."
+    },
+    {
+      "title": "Retirement and group plans",
+      "examples": "Pension plans, and group plans for employers and lenders.",
+      "explanation": "A pension plan collects money during working years to pay an income later. A group plan covers many people under one contract, such as a lender's borrowers."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is a premium?",
+      "text": "The payment a customer makes for the insurance, once or regularly. The insurer pools many customers' premiums and uses them to pay the claims of those who need them."
+    },
+    {
+      "title": "What does it mean when a policy lapses?",
+      "text": "A customer stops paying premiums and the policy ends. Insurers watch this closely, because they spend money to sell a policy and only earn back the cost if customers keep paying. The share of policies still paid after a period is called persistency."
+    },
+    {
+      "title": "Why do insurers keep large reserves?",
+      "text": "Money received today is mainly meant for payouts years later. The law requires an insurer to hold reserves, which are funds set aside to cover future claims, and to keep enough capital as a buffer."
+    },
+    {
+      "title": "Who regulates insurers?",
+      "text": "The Insurance Regulatory and Development Authority of India (IRDAI), which sets rules on products, reserves, selling and investments."
+    }
+  ],
+  "steps": [
+    {
+      "title": "A plan is sold",
+      "text": "An agent, a bank branch or a partner explains a plan and the customer applies. The insurer checks details such as age and health."
+    },
+    {
+      "title": "Premiums come in",
+      "text": "The customer pays once or regularly. Commission and checks on a new policy are mostly paid up front."
+    },
+    {
+      "title": "The insurer invests and sets aside reserves",
+      "text": "Premiums are invested. Part is put into reserves to pay future claims."
+    },
+    {
+      "title": "Claims and maturities are paid",
+      "text": "When the insured person dies, or the plan reaches its end, the insurer pays the amount in the policy."
+    },
+    {
+      "title": "Profit is what is left",
+      "text": "After claims, commissions, running costs and reserves, the surplus is shared with policyholders on some plans, and the rest belongs to shareholders. Cash arrives long before payouts leave."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "A bank is both owner and seller",
+      "text": "HDFC Bank holds about half of HDFC Life and its branches sell its plans, which brings many customers cheaply. HDFC Life is a separate listed company: its premiums, claims and profit are its own, not HDFC Bank's."
+    },
+    {
+      "title": "Who bears the risk depends on the plan",
+      "text": "In unit-linked plans the customer carries investment risk. In traditional plans the insurer carries more of it, and in participating plans surplus is shared. So the product mix changes how risky and how profitable the business is."
+    },
+    {
+      "title": "Many sales channels",
+      "text": "The report lists agents, bank partners, other partners such as lenders, and direct sales as separate ways of selling, each with its own cost and reach."
+    }
+  ],
+  "watch": [
+    [
+      "How long do customers keep paying?",
+      "Policies earn profit only if premiums keep coming, so frequent lapses make the business less valuable.",
+      "Look in the annual report for persistency, the share of policies still paid after 13 months and later, and compare several years."
+    ],
+    [
+      "How much does the business depend on HDFC Bank's branches?",
+      "One large partner is a strength, but changes in that relationship could change how many policies are sold.",
+      "Read the sections on distribution and on related-party arrangements, and compare each sales channel's share over time."
+    ],
+    [
+      "Which kinds of plans are growing?",
+      "Protection, savings and unit-linked plans earn differently and carry different risks.",
+      "Compare the premium split across plan types in the management discussion and the segment tables, year by year, and note which types grow fastest."
+    ],
+    [
+      "How are claims and expenses behaving?",
+      "If claims or running costs rise faster than premiums, profit shrinks.",
+      "Compare benefits paid, commission and operating expenses with premiums collected over several years, in the income statement analysis."
+    ],
+    [
+      "How strong is the capital buffer?",
+      "Regulators require insurers to hold more capital than their liabilities, called a solvency margin, so growth needs capital.",
+      "Check the solvency ratio and the notes on capital in the annual report, and compare it with the minimum the regulator requires."
+    ]
+  ],
+  "risks": [
+    [
+      "Interest rates and markets move against it",
+      "The report lists market and interest rate swings. Falling markets lower returns on invested premiums and the value of unit-linked funds, which can disappoint customers and cause them to stop paying."
+    ],
+    [
+      "Higher claims or more lapses than expected",
+      "The report names adverse changes in deaths, illness and how long customers keep paying. If these turn out worse than assumed, the company must pay or set aside more."
+    ],
+    [
+      "Tax rules on insurance change",
+      "The report says changes in tax policy can affect financial performance. A less favourable tax on insurance can make plans less attractive to buy."
+    ],
+    [
+      "Weaker ties with banks and other partners",
+      "The report names disruption in relationships with key distribution partners as a risk. Fewer partner sales would slow new business."
+    ]
+  ],
+  "context": [
+    "2025-26: spending on a technology overhaul",
+    "The report says HDFC Life is investing in a technology transformation called Project INSPIRE, which aims to improve data analytics, automation and artificial intelligence (AI) for underwriting, customer service and the links to its sales partners. It is described as an ongoing programme, not a finished result."
+  ],
+  "sources": [
+    [
+      "HDFC Life integrated annual report 2025-26",
+      "https://hdfclife.com/content/dam/hdfclifeinsurancecompany/about-us/pdf/investor-relations/financial-information/annual-reports/Integrated-Annual-Report-FY-2025-26.pdf"
+    ],
+    [
+      "NSE Indices Limited, NIFTY 50 constituent list (HDFC Life, symbol HDFCLIFE)",
+      "https://www.niftyindices.com/IndexConstituent/ind_nifty50list.csv"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "Premium, profit and embedded value figures are pending verification. The verified table will say whether each is standalone, how profit is defined, and how premium differs from revenue for an insurer."
+    }
+  ],
+  "stepsTitle": "From a premium to a payout",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "It sells life insurance, savings and retirement plans to individuals and to groups, and invests the premiums it collects."
+    },
+    {
+      "title": "Who pays",
+      "text": "Individuals pay premiums for protection and savings. Employers, lenders and other groups pay for group cover."
+    },
+    {
+      "title": "How it earns",
+      "text": "Mainly from premiums collected and from returns on investing them. For some plans it keeps a share of the surplus."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Claims and maturity payouts, commission to agents and banks, staff and technology costs, and money set aside for future claims."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Private insurers keep gaining ground",
+      "text": "The report says private insurers' share of new individual business has risen over several years, helped by wider selling networks and new products."
+    },
+    {
+      "title": "A wide spread of products and channels",
+      "text": "The company sells savings, protection and retirement plans through agents, banks and other partners, so it does not rely on a single product or seller."
+    },
+    {
+      "title": "Long contracts bring steady premiums",
+      "text": "Because many policies run for years, renewal premiums from existing customers arrive without new selling costs."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Heavy competition",
+      "text": "The report says the industry faces intense competition, and a few insurers hold most of the market, so winning customers requires spending on distribution and commissions."
+    },
+    {
+      "title": "Profit appears slowly",
+      "text": "Costs of selling a policy come in the first year, while the profit builds over many years of premiums, so rapid growth can reduce short-term profit."
+    },
+    {
+      "title": "Customers must stay for years",
+      "text": "A policy earns its keep only if the customer keeps paying. Lapses reduce the profit expected from the sale."
+    }
+  ],
+  "checked": "13 November 2026"
+}

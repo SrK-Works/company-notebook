@@ -1,0 +1,117 @@
+{
+  "order": 66,
+  "company": {
+    "id": "max-healthcare",
+    "name": "Max Healthcare Institute",
+    "ticker": "MAXHEALTH",
+    "sector": "Healthcare",
+    "initial": "M",
+    "color": "#0b5fa8",
+    "bg": "#e6f0fa",
+    "tag": "Runs hospitals mainly around Delhi, a home care service and diagnostic labs",
+    "products": [
+      [
+        "Super-speciality hospitals",
+        "Hospitals"
+      ],
+      [
+        "Doctor consultations",
+        "Hospitals"
+      ],
+      [
+        "Nursing care and recovery",
+        "Hospitals"
+      ],
+      [
+        "Care for children",
+        "Hospitals"
+      ],
+      [
+        "Max@Home: care at home",
+        "Home care"
+      ],
+      [
+        "Robotic surgery",
+        "Hospitals"
+      ],
+      [
+        "Scans and diagnostic tests (Max Lab)",
+        "Diagnostics"
+      ]
+    ],
+    "sources": [
+      [
+        "Max Healthcare investor relations",
+        "https://www.maxhealthcare.in/investors"
+      ]
+    ],
+    "productSource": "https://max-website20-images.s3.ap-south-1.amazonaws.com/FY_2025_26_Integrated_Annual_Report_ab5f34d431.pdf",
+    "aliases": [
+      "Max Healthcare Institute Limited",
+      "Max Healthcare Institute Ltd",
+      "Max Healthcare Institute Ltd.",
+      "Max Healthcare"
+    ],
+    "productNote": "Services named in Max Healthcare’s 2025–26 integrated annual report. Some network figures include partner hospitals that Max runs for other owners. Not related to the HCG, Park Medi World or Rainbow pages. Pictures are photographs from the annual report; they are posed images, not pictures of particular patients.",
+    "checked": "13 November 2026",
+    "reviewed": "13 November 2026"
+  },
+  "offerings": [
+    {
+      "name": "Super-speciality hospitals",
+      "category": "Hospitals for complex cancer, heart and brain treatment",
+      "image": "assets/products/max-healthcare-hospital.webp",
+      "url": "https://max-website20-images.s3.ap-south-1.amazonaws.com/FY_2025_26_Integrated_Annual_Report_ab5f34d431.pdf#page=2",
+      "kind": "photo",
+      "alt": "A Max Healthcare hospital building with glass front under a blue sky — photograph from Max Healthcare’s 2025–26 annual report"
+    },
+    {
+      "name": "Doctor consultations",
+      "category": "Doctors seeing and examining patients",
+      "image": "assets/products/max-healthcare-consultation.webp",
+      "url": "https://max-website20-images.s3.ap-south-1.amazonaws.com/FY_2025_26_Integrated_Annual_Report_ab5f34d431.pdf#page=5",
+      "kind": "photo",
+      "alt": "A doctor in a white coat resting a hand on the shoulder of a seated older man in a consulting room — photograph from Max Healthcare’s 2025–26 annual report; a posed scene, not a particular patient"
+    },
+    {
+      "name": "Nursing care and recovery",
+      "category": "Nurses helping patients to walk and recover",
+      "image": "assets/products/max-healthcare-nursing.webp",
+      "url": "https://max-website20-images.s3.ap-south-1.amazonaws.com/FY_2025_26_Integrated_Annual_Report_ab5f34d431.pdf#page=4",
+      "kind": "photo",
+      "alt": "A nurse in blue scrubs helping an older woman with a walking frame beside a hospital bed — photograph from Max Healthcare’s 2025–26 annual report; a posed scene"
+    },
+    {
+      "name": "Care for children",
+      "category": "Doctors treating young patients",
+      "image": "assets/products/max-healthcare-children.webp",
+      "url": "https://max-website20-images.s3.ap-south-1.amazonaws.com/FY_2025_26_Integrated_Annual_Report_ab5f34d431.pdf#page=3",
+      "kind": "photo",
+      "alt": "A doctor in a white coat using a stethoscope on a child lying in a hospital bed — photograph from Max Healthcare’s 2025–26 annual report; a posed scene"
+    },
+    {
+      "name": "Max@Home",
+      "category": "Nurses who look after patients in their own homes",
+      "image": "assets/products/max-healthcare-max-at-home.webp",
+      "url": "https://max-website20-images.s3.ap-south-1.amazonaws.com/FY_2025_26_Integrated_Annual_Report_ab5f34d431.pdf#page=42",
+      "kind": "photo",
+      "alt": "A nurse in blue scrubs helping an older man walk across a living room — photograph from Max Healthcare’s 2025–26 annual report; a posed scene"
+    },
+    {
+      "name": "Robotic surgery",
+      "category": "Surgeons guide a robotic arm for precise operations",
+      "image": "assets/products/max-healthcare-robotic-surgery.webp",
+      "url": "https://max-website20-images.s3.ap-south-1.amazonaws.com/FY_2025_26_Integrated_Annual_Report_ab5f34d431.pdf#page=36",
+      "kind": "pack",
+      "alt": "A nurse in blue scrubs standing beside a surgical robot arm on a white background — advertising image from Max Healthcare’s 2025–26 annual report; a cut-out composite, not a photograph of an operation"
+    },
+    {
+      "name": "Scans and diagnostic tests",
+      "category": "Doctors reading scans and lab results",
+      "image": "assets/products/max-healthcare-diagnostics.webp",
+      "url": "https://max-website20-images.s3.ap-south-1.amazonaws.com/FY_2025_26_Integrated_Annual_Report_ab5f34d431.pdf#page=57",
+      "kind": "illustration",
+      "alt": "A hand pointing at brain scan images on a computer screen with unreadable text — advertising image from Max Healthcare’s 2025–26 annual report; not a photograph of real work"
+    }
+  ]
+}

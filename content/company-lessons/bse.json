@@ -1,0 +1,201 @@
+{
+  "summary": "BSE runs India's oldest stock exchange, a marketplace where companies list their shares and investors buy and sell them. It also runs a mutual fund ordering system and sells price data. It earns a fee on activity.",
+  "description": "A stock exchange is a regulated marketplace. A company that wants to raise money from the public lists its shares on it, and investors place buy and sell orders through brokers, the licensed middlemen who place orders for clients. BSE's computers match each buyer with a seller within moments and publish the price. It does this for shares and for derivatives, which are contracts whose value follows a share or an index. The best known index is the Sensex, which tracks 30 large listed companies. A subsidiary called a clearing corporation then makes sure each trade is completed, so the buyer's money and the seller's shares really change hands.",
+  "money": "BSE earns most of its money from transaction charges, a small fee each time a trade is made on its markets. Other income: annual listing fees from listed companies, charges for software used when companies sell shares, fees on mutual fund orders, rent from brokers who keep computers inside BSE's data centre, fees for price data and index licences, and investment income. Its main costs are technology, payments to the regulator and an investor protection fund, clearing and settlement, and staff. Fees collected are not profit.",
+  "customers": "Brokers, who trade on BSE on behalf of investors, pay the trading charges. Listed companies pay listing fees. Mutual fund distributors and fund companies pay for orders placed through BSE's ordering system. Banks, funds and data users pay for price data and for the right to use BSE's indices. Ordinary investors pay BSE only indirectly, through the charges their broker passes on.",
+  "drivers": "Mostly three things: how many trades are made each day, especially in derivatives; how many companies list shares or raise money through the exchange; and the rules from the regulator on fees, competition and how an exchange may use its profit.",
+  "groups": [
+    {
+      "title": "Trading markets",
+      "examples": "Shares, index derivatives such as Sensex contracts, currency and commodity contracts.",
+      "explanation": "Investors buy and sell through brokers. BSE matches the orders and earns a fee on every trade."
+    },
+    {
+      "title": "Listing and company services",
+      "examples": "Listing of shares and bonds, a separate market for small and medium enterprises (SMEs), book-building software.",
+      "explanation": "A company lists to raise money from the public. It pays BSE an annual fee, and fees for tools used when it sells shares."
+    },
+    {
+      "title": "Mutual fund ordering system",
+      "examples": "BSE StAR MF (MF is short for mutual fund), the ordering system distributors use to buy fund units for clients.",
+      "explanation": "A mutual fund pools many people's savings. Distributors send purchase orders through BSE's system and pay a charge on each order."
+    },
+    {
+      "title": "Data, indices and technology",
+      "examples": "The Sensex, other BSE indices, price data, server space inside BSE's data centre.",
+      "explanation": "Funds that copy an index and firms that need prices pay for them. Brokers pay rent to keep their computers next to BSE's, which makes their orders arrive a split second sooner."
+    },
+    {
+      "title": "Clearing, and an overseas exchange",
+      "examples": "Indian Clearing Corporation; India International Exchange (India INX) in GIFT City.",
+      "explanation": "The clearing corporation completes each trade. India INX is an exchange in GIFT City, a special financial zone in Gujarat built for international business, where Sensex contracts priced in US dollars trade."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What does it mean to list a share?",
+      "text": "The company asks the exchange to let its shares be traded there. Once listed, anyone can buy or sell them through a broker, and the company must publish regular reports."
+    },
+    {
+      "title": "What is a derivative?",
+      "text": "A contract whose value depends on something else, such as a share or an index like the Sensex. Traders use it to bet on, or protect against, price moves without owning the shares."
+    },
+    {
+      "title": "What does clearing mean?",
+      "text": "After two people agree a trade, a clearing corporation steps in between them and guarantees it. The buyer gets the shares and the seller gets the money, even if one side fails."
+    },
+    {
+      "title": "Who watches over the exchange?",
+      "text": "The Securities and Exchange Board of India (SEBI), the government's market regulator, supervises exchanges and sets rules that affect what they can charge and how they run."
+    }
+  ],
+  "steps": [
+    {
+      "title": "A company lists",
+      "text": "A company applies, meets the rules and its shares become tradable. It then pays annual listing fees."
+    },
+    {
+      "title": "An investor places an order",
+      "text": "The investor tells a broker to buy or sell. The broker sends the order to BSE's computers."
+    },
+    {
+      "title": "BSE matches the trade",
+      "text": "The system pairs a buyer with a seller and publishes the price. BSE records a transaction charge for the broker's trade."
+    },
+    {
+      "title": "The clearing corporation completes it",
+      "text": "It makes sure the money and the shares or contracts move between the two sides."
+    },
+    {
+      "title": "BSE is paid and pays its costs",
+      "text": "Fees are billed to brokers and others. BSE pays for technology, regulatory contributions and staff. Revenue earned, profit left and cash received arrive at different times."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Many income lines, one large one",
+      "text": "Besides trading charges, BSE has listing fees, software fees, data fees and rent for server space. Even so, the report says transaction charges make up most of its revenue, and most of those come from derivatives."
+    },
+    {
+      "title": "Subsidiaries do key jobs",
+      "text": "BSE's own results include its subsidiaries: the clearing corporation, a technology company, an index company and India INX, in which BSE holds a majority stake. The Sensex and the clearing function are not separate listed companies."
+    },
+    {
+      "title": "Part of what it collects is passed on",
+      "text": "The report shows expense lines for a contribution to the regulator, SEBI, and to a fund that guarantees settlement. These payments rise with activity and cannot be avoided."
+    }
+  ],
+  "watch": [
+    [
+      "How much of income comes from derivatives compared with shares?",
+      "A business that depends on one product moves with that product's rules and popularity.",
+      "In the verified financial table and the report's financial performance section, compare each type of transaction charge over several years."
+    ],
+    [
+      "How do costs behave when trading rises and falls?",
+      "The report says costs grew much more slowly than revenue in the latest year, but costs for technology and regulators do not disappear when trading falls.",
+      "Compare total expenses with revenue over several years, and read the technology and regulatory contribution lines."
+    ],
+    [
+      "How much do listing, data and mutual fund fees add?",
+      "These fees are steadier than trading fees and could soften a quiet market.",
+      "In the annual report, compare listing fees, data fees and mutual fund ordering system charges with transaction charges."
+    ],
+    [
+      "How competitive is the exchange business?",
+      "The report says the securities transaction business is competitive, and that regulation affects who can compete.",
+      "Read the report's sections on competition and regulatory changes, and compare BSE's share of derivatives trading with the other exchange over time."
+    ],
+    [
+      "How reliable are BSE's systems?",
+      "An outage or cyber attack would stop the main source of income and harm trust.",
+      "Read the technology and cybersecurity sections, and look for any disclosed trading halts or SEBI actions."
+    ]
+  ],
+  "risks": [
+    [
+      "A cyber attack",
+      "The report says capital markets remain prime targets for cybercriminals. A successful breach could stop trading, damage trust and cost money to repair."
+    ],
+    [
+      "Technology that falls behind or fails",
+      "The report says exchange technology changes quickly and BSE must keep upgrading. If systems fail or lag rivals, brokers and investors may move trading elsewhere."
+    ],
+    [
+      "Changes in taxes on trading",
+      "The report lists changes in tax policy, including transaction tax, among factors outside its control. Higher tax on trades can reduce the number of trades, and so BSE's fees."
+    ],
+    [
+      "War, inflation and shocks to confidence",
+      "The report names war, inflation and loss of investor confidence as factors that could reduce trading and listings."
+    ]
+  ],
+  "context": [
+    "2025-26: the mutual fund ordering system was rebuilt",
+    "The report says BSE launched StAR MF 2.0, a rebuild of its mutual fund ordering system from the ground up, in its 2025-26 financial year. It also says the system processed more orders than a year earlier, with a larger number of monthly investment plans (SIPs, where an investor sends a fixed amount each month) registered."
+  ],
+  "sources": [
+    [
+      "BSE Limited annual report 2025-26 (filed with NSE, 23 July 2026)",
+      "https://nsearchives.nseindia.com/corporate/BSE1_23072026103414_NSEintimationNoticeandAR2026.pdf"
+    ],
+    [
+      "NSE Indices Limited, NIFTY 50 constituent list (BSE Ltd, symbol BSE)",
+      "https://www.niftyindices.com/IndexConstituent/ind_nifty50list.csv"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "Revenue and profit figures are pending verification. The verified table will say whether each figure is standalone (BSE alone) or consolidated (BSE with its subsidiaries) and how profit is defined."
+    }
+  ],
+  "stepsTitle": "From an order to BSE's fee",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "BSE runs a marketplace where shares, bonds and derivatives are listed and traded, and an ordering system for mutual fund units."
+    },
+    {
+      "title": "Who pays",
+      "text": "Brokers pay trading charges. Listed companies pay listing fees. Fund distributors and data users pay for use of its ordering system and for information."
+    },
+    {
+      "title": "How it earns",
+      "text": "Mainly a fee on each trade, plus listing fees, mutual fund order fees, data and index fees, rent for server space and investment income."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Mostly technology and data centres, clearing and settlement, payments to the regulator and an investor protection fund, and staff."
+    }
+  ],
+  "helps": [
+    {
+      "title": "A well-known name and index",
+      "text": "The report says BSE is Asia's oldest stock exchange and that the Sensex is widely used as a barometer of Indian markets, which helps attract companies and investors."
+    },
+    {
+      "title": "Costs rise more slowly than trading",
+      "text": "The report says that when revenue grew sharply, operating costs grew much less, because exchange technology can handle more trades without matching extra spending."
+    },
+    {
+      "title": "A large mutual fund ordering network",
+      "text": "The report says BSE's mutual fund ordering system handles more than 85% of orders on exchange-based platforms, which gives it fees that do not depend only on share trading."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Income follows market activity",
+      "text": "The report says performance depends on the number and value of trades, new listings and capital raised, and many of these are outside BSE's control."
+    },
+    {
+      "title": "Competition and regulation shape what it can earn",
+      "text": "The report says competition is challenging and that rules on ownership, fees, levies and how exchanges may distribute profit all affect BSE's ability to compete."
+    },
+    {
+      "title": "Growth leans on one kind of product",
+      "text": "The report credits index derivatives for much of its recent growth. If the rules or popularity of such contracts change, income could change quickly."
+    }
+  ],
+  "checked": "13 November 2026"
+}

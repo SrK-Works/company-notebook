@@ -1,0 +1,129 @@
+{
+  "order": 65,
+  "company": {
+    "id": "jio-financial-services",
+    "name": "Jio Financial Services",
+    "ticker": "JIOFIN",
+    "sector": "Banking",
+    "initial": "J",
+    "color": "#3b3fa8",
+    "bg": "#ecedf9",
+    "tag": "Holding company for new digital finance businesses: loans, a payments bank, insurance broking and mutual funds",
+    "products": [
+      [
+        "Home loans, loans against property, shares and mutual funds",
+        "Loans"
+      ],
+      [
+        "JioFinance app",
+        "Digital access"
+      ],
+      [
+        "Payments bank accounts and cards",
+        "Banking"
+      ],
+      [
+        "Payment collection for shops and websites",
+        "Payments"
+      ],
+      [
+        "Insurance broking",
+        "Insurance"
+      ],
+      [
+        "Mutual funds with BlackRock",
+        "Investing"
+      ],
+      [
+        "Wealth advice and share broking",
+        "Investing"
+      ],
+      [
+        "Leasing of devices and cars",
+        "Leasing"
+      ]
+    ],
+    "sources": [
+      [
+        "Jio Financial Services annual report",
+        "https://jfs.in/annual-report"
+      ]
+    ],
+    "productSource": "https://nsearchives.nseindia.com/corporate/JIOFINANCIAL_03082026124905_JFSLNoticeandAR.pdf",
+    "aliases": [
+      "Jio Financial Services Limited",
+      "Jio Financial Services Ltd",
+      "Jio Financial Services Ltd.",
+      "JFSL"
+    ],
+    "productNote": "Businesses named in Jio Financial Services’ 2025–26 annual report. It was separated from Reliance Industries in 2023 and is not Reliance Industries or Jio Platforms (the mobile network company), whose sales are not in its results. The report says some of its images are AI-generated, so pictures here are original illustrations.",
+    "checked": "13 November 2026",
+    "reviewed": "13 November 2026"
+  },
+  "offerings": [
+    {
+      "name": "Loans",
+      "category": "Home loans and loans against property, shares and mutual funds",
+      "image": "assets/products/jio-financial-services-loans.svg",
+      "url": "https://nsearchives.nseindia.com/corporate/JIOFINANCIAL_03082026124905_JFSLNoticeandAR.pdf",
+      "kind": "illustration",
+      "alt": "A house — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "JioFinance app",
+      "category": "One app for payments, savings, loans and insurance",
+      "image": "assets/products/jio-financial-services-app.svg",
+      "url": "https://nsearchives.nseindia.com/corporate/JIOFINANCIAL_03082026124905_JFSLNoticeandAR.pdf",
+      "kind": "illustration",
+      "alt": "A phone showing a plus sign — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Payments bank",
+      "category": "Accounts, cards and cash through local agents",
+      "image": "assets/products/jio-financial-services-payments-bank.svg",
+      "url": "https://nsearchives.nseindia.com/corporate/JIOFINANCIAL_03082026124905_JFSLNoticeandAR.pdf",
+      "kind": "illustration",
+      "alt": "A bank card — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Payments for shops",
+      "category": "Lets shops and websites accept payments",
+      "image": "assets/products/jio-financial-services-merchant-payments.svg",
+      "url": "https://nsearchives.nseindia.com/corporate/JIOFINANCIAL_03082026124905_JFSLNoticeandAR.pdf",
+      "kind": "illustration",
+      "alt": "A small shop — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Insurance broking",
+      "category": "Sells other companies’ life, health and general policies",
+      "image": "assets/products/jio-financial-services-insurance.svg",
+      "url": "https://nsearchives.nseindia.com/corporate/JIOFINANCIAL_03082026124905_JFSLNoticeandAR.pdf",
+      "kind": "illustration",
+      "alt": "A shield with a tick — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Mutual funds",
+      "category": "Funds run with BlackRock",
+      "image": "assets/products/jio-financial-services-mutual-funds.svg",
+      "url": "https://nsearchives.nseindia.com/corporate/JIOFINANCIAL_03082026124905_JFSLNoticeandAR.pdf",
+      "kind": "illustration",
+      "alt": "A rising and falling price line on a chart — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Wealth advice and broking",
+      "category": "Advice and share-trading services being set up",
+      "image": "assets/products/jio-financial-services-wealth.svg",
+      "url": "https://nsearchives.nseindia.com/corporate/JIOFINANCIAL_03082026124905_JFSLNoticeandAR.pdf",
+      "kind": "illustration",
+      "alt": "A stack of coins — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Leasing",
+      "category": "Renting devices and cars to businesses",
+      "image": "assets/products/jio-financial-services-leasing.svg",
+      "url": "https://nsearchives.nseindia.com/corporate/JIOFINANCIAL_03082026124905_JFSLNoticeandAR.pdf",
+      "kind": "illustration",
+      "alt": "A car — conceptual illustration; not a photograph"
+    }
+  ]
+}

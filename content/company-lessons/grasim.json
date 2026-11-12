@@ -1,0 +1,210 @@
+{
+  "summary": "Grasim makes fibre for clothes from wood pulp, chemicals such as caustic soda, and Birla Opus paints. It also controls UltraTech Cement and Aditya Birla Capital, the financial services arm.",
+  "description": "Grasim began as a maker of viscose, a soft fibre made from wood pulp that is spun into yarn and woven into cloth for clothes. That is still its base. It also runs chemical plants: caustic soda, used to make aluminium, paper, soap and textiles, and epoxy, used in wind-turbine blades and coatings. Since 2024 it has also sold paints under the Birla Opus brand and runs a website where builders buy materials from many sellers. On top of this, Grasim controls two large subsidiaries: UltraTech Cement, the world's largest maker of grey cement by sales volume, and Aditya Birla Capital, which lends money and sells insurance and mutual funds.",
+  "money": "Grasim sells fibre and yarn to textile mills, chemicals to industrial buyers, and paints through dealers. Its website for builders earns from the sales made through it. Through its subsidiaries, cement sales and loan interest and insurance premiums also appear in the group's results. Major costs are pulp and other raw materials, power and fuel for plants, freight, advertising and dealers for paints, interest on borrowing, and wages. Sale prices are not profit: raw materials and energy take a large part.",
+  "customers": "Textile spinners and weavers buy the fibre and yarn. Industrial buyers such as aluminium, paper, soap and wind-blade makers buy chemicals. Householders, painters and contractors buy paint through dealers. Builders buy materials on the website. For cement, builders and dealers pay UltraTech. For the financial arm, borrowers, savers and policyholders pay Aditya Birla Capital.",
+  "drivers": "Mostly three things: world prices for fibre and chemicals, which depend on supply from China; how quickly the new paints and website businesses grow compared with their start-up costs; and the results of its two big subsidiaries, cement and finance.",
+  "groups": [
+    {
+      "title": "Fibres and yarn",
+      "examples": "Viscose staple fibre, lyocell, and cellulosic fashion yarn.",
+      "explanation": "Fibre made from wood pulp is spun and woven into clothing and home textiles. Spinners buy fibre, and weavers and knitters buy yarn."
+    },
+    {
+      "title": "Chemicals",
+      "examples": "Caustic soda, chlorine products and epoxy resins.",
+      "explanation": "Caustic soda and chlorine are made together from salt and electricity. Industries use caustic soda to make aluminium, paper, soap and cloth. Epoxy hardens into coatings, glues and wind-blade material."
+    },
+    {
+      "title": "Paints and building materials online",
+      "examples": "Birla Opus paints, wall putty, wallpapers; Birla Pivot.",
+      "explanation": "Paint is sold through dealers to householders and painters. Birla Pivot is a website where businesses buy building materials and are offered credit."
+    },
+    {
+      "title": "Cement through UltraTech",
+      "examples": "Grey and white cement, wall putty, ready-mix concrete.",
+      "explanation": "UltraTech is a subsidiary, a company Grasim controls. Builders buy cement through dealers. Its sales and profit are combined into Grasim's group results."
+    },
+    {
+      "title": "Finance through Aditya Birla Capital",
+      "examples": "Loans, home loans, life and health insurance, mutual funds.",
+      "explanation": "A subsidiary that lends and insures. It earns interest on loans and premiums, and fees for managing money."
+    },
+    {
+      "title": "Other businesses",
+      "examples": "Textiles, insulators, and renewable power.",
+      "explanation": "Smaller businesses that make fabric and power-line insulators, and generate solar and wind power."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is a subsidiary and why does it matter here?",
+      "text": "A subsidiary is a company controlled by another. Grasim's report consolidates UltraTech and Aditya Birla Capital, meaning their sales and profits are added into Grasim's group figures, though outside shareholders may own part of each."
+    },
+    {
+      "title": "What is cellulosic staple fibre (CSF)?",
+      "text": "Short threads made from wood pulp, a soft natural-based material, that are spun into yarn for fabric."
+    },
+    {
+      "title": "What is an inverted duty?",
+      "text": "An import duty (a tax on goods brought into India) that is higher on a raw material than on the finished product made from it. Foreign finished goods then become cheaper than what a local maker pays for its inputs."
+    },
+    {
+      "title": "What is B2B?",
+      "text": "Short for business-to-business: one company selling to another, not to the public."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Buy raw materials",
+      "text": "Wood pulp for fibre, salt and power for chemicals, and ingredients for paint."
+    },
+    {
+      "title": "Make the product",
+      "text": "Plants spin fibre, run chemical reactions or mix paints."
+    },
+    {
+      "title": "Sell through customers or dealers",
+      "text": "Mills and factories buy directly. Paint goes through dealers. Builders buy on the website."
+    },
+    {
+      "title": "Bill and collect",
+      "text": "Industrial buyers are invoiced and pay after an agreed period. Dealers and shops may pay sooner or later."
+    },
+    {
+      "title": "Profit is what is left",
+      "text": "After raw materials, power, freight, advertising, interest and wages. A new business such as paints can spend more than it earns for years."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Two layers in one set of numbers",
+      "text": "The report gives figures for Grasim's own businesses (standalone) and for the group, which adds the subsidiaries. Cement and finance sales are in the group figures, not in the standalone ones."
+    },
+    {
+      "title": "Chemical products are made together",
+      "text": "Caustic soda and chlorine come out of one process, so a weak market for one affects how much of the other the plant can sell."
+    },
+    {
+      "title": "The building-materials website extends credit",
+      "text": "The report says credit and financing are built into every purchase made on Birla Pivot. That helps sales, but Grasim then carries the risk that buyers pay late or not at all."
+    }
+  ],
+  "watch": [
+    [
+      "How much does each business add to group sales and profit?",
+      "Fibre, chemicals, paints, cement and finance have very different economics.",
+      "Read the verified segment table and compare each segment's sales and profit over several years."
+    ],
+    [
+      "How quickly is paints moving towards profit?",
+      "The report says it is in an investment phase with costs that reduce reported profit.",
+      "Compare paints sales growth, dealer numbers and segment results in successive annual reports."
+    ],
+    [
+      "How much do prices for fibre and chemicals swing?",
+      "Cheap imports and oversupply push prices down, and plants have large fixed costs.",
+      "Read the market discussion for fibre, yarn and caustic soda, and compare selling prices and volumes over time."
+    ],
+    [
+      "How much profit belongs to outside shareholders of the subsidiaries?",
+      "Grasim's group profit includes profit that belongs to others.",
+      "In the consolidated accounts, compare group profit with the profit attributable to Grasim's owners."
+    ],
+    [
+      "How much debt funds the paints expansion?",
+      "Interest costs can reduce profit even when sales grow.",
+      "Compare borrowings and finance costs with earnings in the standalone accounts and the notes on loans, over several years."
+    ]
+  ],
+  "risks": [
+    [
+      "Tariffs and trade tensions",
+      "The report says global trade tensions can raise raw material costs and squeeze margins, and higher tariffs can raise prices and lower customers' spending."
+    ],
+    [
+      "Rising raw material and energy costs",
+      "Wood pulp, salt, power and fuel are large costs. The report says prices that rise faster than selling prices squeeze margins."
+    ],
+    [
+      "Slow adoption of new technology",
+      "The report says delays in new manufacturing and digital technology could prevent targeted efficiency and emissions goals, and could force it to buy carbon credits."
+    ],
+    [
+      "Import duty rules that work against it",
+      "The report says an anti-dumping duty on a raw material for epoxy, together with a trade agreement with South Korea, created an inverted duty structure and squeezed margins in epoxy."
+    ]
+  ],
+  "context": [
+    "November 2025: fibre import rule withdrawn",
+    "The report says the government withdrew its quality control order on cellulosic staple fibre in November 2025. A quality control order is a rule that limits imports to products meeting set standards, so its withdrawal made imports easier. The report lists it among several pressures on the fibre business in FY 2025-26, which was weaker in the first half and stronger in the second."
+  ],
+  "sources": [
+    [
+      "Grasim integrated annual report 2025-26: management discussion and analysis",
+      "https://www.grasim.com/integrated-annual-report-2025-26/pdf/MDA.pdf"
+    ],
+    [
+      "Grasim integrated annual report 2025-26: about Grasim",
+      "https://www.grasim.com/integrated-annual-report-2025-26/pdf/About-Grasim.pdf"
+    ],
+    [
+      "NSE Indices Limited, NIFTY 50 constituent list (Grasim Industries, symbol GRASIM)",
+      "https://www.niftyindices.com/IndexConstituent/ind_nifty50list.csv"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "Revenue and profit figures are pending verification. The verified table will say whether each figure is standalone (Grasim alone) or consolidated (including UltraTech Cement and Aditya Birla Capital) and how profit is defined."
+    }
+  ],
+  "stepsTitle": "From pulp, salt and pigment to a customer's payment",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "It makes fibre for clothes, chemicals and paints, and controls a cement company and a financial services company."
+    },
+    {
+      "title": "Who pays",
+      "text": "Textile mills, industrial buyers, paint buyers and builders pay Grasim. Cement and finance customers pay its subsidiaries."
+    },
+    {
+      "title": "How it earns",
+      "text": "From selling fibre, yarn, chemicals and paints, and, through subsidiaries, cement and interest and premiums."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Raw materials such as wood pulp, power and fuel, freight, advertising and dealers for paints, staff and interest."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Control of key raw material for fibre",
+      "text": "The report says the fibre business draws resilience from an integrated model, including its own supply of dissolving-grade wood pulp."
+    },
+    {
+      "title": "A mix that balances cycles",
+      "text": "Its chief financial officer says in the report that the diversified portfolio is its shield, as cycles in different businesses naturally balance out."
+    },
+    {
+      "title": "Large subsidiaries",
+      "text": "The report says UltraTech is the world's largest producer of grey cement by sales volume, and that growth in the latest year was led by UltraTech and Aditya Birla Capital."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Chinese competition and oversupply",
+      "text": "The report says cheap Chinese fibre and yarn kept prices under pressure, and that Asian caustic soda was oversupplied with soft pricing."
+    },
+    {
+      "title": "Paints cost money before they earn it",
+      "text": "The report says paints' finance and depreciation costs reduce reported profit during an anticipated investment phase."
+    },
+    {
+      "title": "Weak yarn demand",
+      "text": "The report says weak demand from yarn buyers, along with imports, kept fashion yarn under pressure."
+    }
+  ],
+  "checked": "13 November 2026"
+}

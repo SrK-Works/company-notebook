@@ -1,0 +1,133 @@
+{
+  "order": 63,
+  "company": {
+    "id": "grasim",
+    "name": "Grasim Industries",
+    "ticker": "GRASIM",
+    "sector": "Diversified business",
+    "initial": "G",
+    "color": "#1f7a4d",
+    "bg": "#e7f4ec",
+    "tag": "Makes fibre for clothes, chemicals and paints, and controls a cement company and a financial services company",
+    "products": [
+      [
+        "Viscose and other cellulosic staple fibre",
+        "Fibres"
+      ],
+      [
+        "Cellulosic fashion yarn",
+        "Fibres"
+      ],
+      [
+        "Caustic soda and chlorine products",
+        "Chemicals"
+      ],
+      [
+        "Epoxy resins and curing agents",
+        "Chemicals"
+      ],
+      [
+        "Birla Opus paints, wall putty, wallpapers",
+        "Paints"
+      ],
+      [
+        "Birla Pivot: business-to-business website for building materials",
+        "Building materials"
+      ],
+      [
+        "Cement through UltraTech Cement (subsidiary)",
+        "Cement"
+      ],
+      [
+        "Loans, insurance and funds through Aditya Birla Capital (subsidiary)",
+        "Financial services"
+      ],
+      [
+        "Textiles, insulators and renewable power",
+        "Other businesses"
+      ]
+    ],
+    "sources": [
+      [
+        "Grasim investor relations: results, reports and presentations",
+        "https://www.grasim.com/investors/results-reports-and-presentations"
+      ]
+    ],
+    "productSource": "https://www.grasim.com/integrated-annual-report-2025-26/pdf/MDA.pdf",
+    "aliases": [
+      "Grasim Industries Limited",
+      "Grasim Industries Ltd",
+      "Grasim Industries Ltd.",
+      "Grasim"
+    ],
+    "productNote": "Businesses named in Grasim’s 2025–26 integrated annual report. UltraTech Cement and Aditya Birla Capital are subsidiaries: their sales are included in Grasim’s group (consolidated) results but not in its standalone results. The report’s photographs are mostly portraits and events, so pictures are original illustrations.",
+    "checked": "13 November 2026",
+    "reviewed": "13 November 2026"
+  },
+  "offerings": [
+    {
+      "name": "Fibre for clothes",
+      "category": "Viscose staple fibre made from wood pulp",
+      "image": "assets/products/grasim-fibre.svg",
+      "url": "https://www.grasim.com/integrated-annual-report-2025-26/pdf/MDA.pdf",
+      "kind": "illustration",
+      "alt": "A spool of thread — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Fashion yarn",
+      "category": "Yarn spun from cellulosic fibre",
+      "image": "assets/products/grasim-yarn.svg",
+      "url": "https://www.grasim.com/integrated-annual-report-2025-26/pdf/MDA.pdf",
+      "kind": "illustration",
+      "alt": "A spool of thread — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Caustic soda and chlorine",
+      "category": "Chemicals for aluminium, paper, soap and water treatment",
+      "image": "assets/products/grasim-caustic-soda.svg",
+      "url": "https://www.grasim.com/integrated-annual-report-2025-26/pdf/MDA.pdf",
+      "kind": "illustration",
+      "alt": "A laboratory flask — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Epoxy resins",
+      "category": "Resins for coatings, glues and wind-turbine blades",
+      "image": "assets/products/grasim-epoxy.svg",
+      "url": "https://www.grasim.com/integrated-annual-report-2025-26/pdf/MDA.pdf",
+      "kind": "illustration",
+      "alt": "A laboratory flask — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Birla Opus paints",
+      "category": "Paints, putty and wallpapers sold through dealers",
+      "image": "assets/products/grasim-paints.svg",
+      "url": "https://www.grasim.com/integrated-annual-report-2025-26/pdf/MDA.pdf",
+      "kind": "illustration",
+      "alt": "A paint can — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Birla Pivot website",
+      "category": "Business-to-business site for building materials, with credit",
+      "image": "assets/products/grasim-pivot.svg",
+      "url": "https://www.grasim.com/integrated-annual-report-2025-26/pdf/MDA.pdf",
+      "kind": "illustration",
+      "alt": "A web browser window — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Cement (UltraTech, subsidiary)",
+      "category": "Cement and concrete for builders",
+      "image": "assets/products/grasim-cement.svg",
+      "url": "https://www.grasim.com/integrated-annual-report-2025-26/pdf/MDA.pdf",
+      "kind": "illustration",
+      "alt": "A brick wall — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Financial services (Aditya Birla Capital, subsidiary)",
+      "category": "Loans, insurance and mutual funds",
+      "image": "assets/products/grasim-finance.svg",
+      "url": "https://www.grasim.com/integrated-annual-report-2025-26/pdf/MDA.pdf",
+      "kind": "illustration",
+      "alt": "A stack of coins — conceptual illustration; not a photograph"
+    }
+  ]
+}
