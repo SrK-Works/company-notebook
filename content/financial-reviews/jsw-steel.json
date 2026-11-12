@@ -1,0 +1,24 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited annual report",
+  "checked": "12 November 2026",
+  "coverage": "Whole-group totals · one reported business segment (steel)",
+  "profitMetric": "Profit for the year",
+  "definition": "Profit for the year after all expenses, exceptional items and tax, including a large one-time gain. It includes profit that belongs to minority owners of subsidiaries and is not operating profit or cash flow.",
+  "rows": [
+    {
+      "name": "JSW Steel · whole group",
+      "revenue": 185470,
+      "profit": 25508
+    }
+  ],
+  "source": "https://jsw-steel-s3.s3.ap-south-1.amazonaws.com/jsw-steel-images/uploads/2026/06/JSWSL-Integrated-Annual-Report-FY-2025-26.pdf",
+  "location": "Integrated Annual Report 2025–26, consolidated statement of profit and loss: PDF page 287 (page header 570/571); note 48 exceptional items: PDF pages 339–340; note 42 segment reporting: PDF page 325",
+  "notes": "Revenue is revenue from operations and excludes other income of ₹1,248 crore. Profit for the year is ₹25,508 crore, of which ₹22,316 crore belongs to owners of JSW Steel and ₹3,192 crore to non-controlling interests. Exceptional items were a net gain of ₹17,359 crore: a gain of ₹18,051 crore recorded on 27 March 2026 when JSW Steel lost control of the Bhushan Power and Steel business by putting it into a 50:50 joint venture with JFE Steel of Japan, less ₹692 crore for the new Labour Codes (higher employee-benefit obligations). A further ₹2,301 crore of that gain is deferred and will be recognised later. Profit before exceptional items and tax was ₹11,891 crore; tax was ₹3,742 crore. The group reports steel manufacturing as a single reportable segment, so no profit by product is shown. Revenue by customer location: ₹158,569 crore within India and ₹26,901 crore outside India.",
+  "insight": "Most of JSW Steel’s reported profit this year comes from a one-time accounting gain on the Bhushan Power and Steel joint venture rather than from selling steel. Profit before that gain and tax was ₹11,891 crore, which is a fairer guide to the underlying business.",
+  "status": "totals",
+  "revenueTotal": 185470,
+  "profitTotal": 25508
+}
