@@ -107,25 +107,25 @@
   ],
   "risks": [
     [
-      "Input prices or demand turn unfavourable",
-      "Fuel and material prices can leave less after buying inputs and running plants."
+      "A conflict disrupts oil and fuel trade",
+      "The Middle East conflict hurt fuels and chemicals earnings at the end of FY 2025–26, and the annual report calls the outlook for FY 2026–27 “extremely vulnerable” to geopolitical and policy risks. Government decisions on fuel taxes and duties can also squeeze margins."
     ],
     [
-      "Large projects need prolonged funding",
-      "Factories, networks and shops can use cash before sales cover their costs."
+      "An accident at a plant",
+      "Refineries and chemical plants handle hazardous materials. Leaks, fires, explosions, extreme weather and contractor mistakes can harm people and stop production."
     ],
     [
-      "Customers choose competitors",
-      "Retail, connectivity and media need useful selection, reliable service and workable prices."
+      "A cyber attack or data leak",
+      "More digital services and use of artificial intelligence give attackers more ways in. Mishandling customers’ personal data can also break India’s data-protection law."
     ],
     [
-      "Group arrangements become hard to compare",
-      "Acquisitions, partnerships and partly owned companies can change which sales and earnings belong in each reported figure."
+      "Growing faster than it can hire",
+      "Fast growth in stores, digital services and new energy can leave the group short of skilled staff and managers."
     ]
   ],
   "context": [
     "Jio’s shares began trading separately on 28 October 2026",
-    "A BSE notice dated 27 October 2026 says shares of Jio Platforms, the Reliance company that runs Jio’s mobile, broadband and digital services, were listed and admitted to trading from 28 October 2026. Listing means its shares can now be bought and sold on the stock exchange in their own right. The offer document names Reliance Industries as Jio’s promoter, meaning the shareholder in control, and describes the offer as new shares only. So the money raised went to Jio, not to Reliance selling its own Jio shares. Jio remains part of the Reliance group, but it now also has public shareholders, so not all of Jio’s profit belongs to Reliance’s shareholders. The annual figures below cover the period before this listing."
+    "A BSE notice dated 27 October 2026 says shares of Jio Platforms, the Reliance company that runs Jio’s mobile, broadband and digital services, were listed and admitted to trading from 28 October 2026. Listing means its shares can be bought and sold on the stock exchange in their own right. The offer document names Reliance Industries as Jio’s promoter, meaning the shareholder in control, and describes the offer as new shares only, so the money raised went to Jio. Jio stays in the Reliance group, but it now also has public shareholders, so not all of Jio’s profit belongs to Reliance’s shareholders. Two days later, Reliance’s results release for July–September 2026 reported record quarterly revenue and profit, led by fuels and chemicals in a very tight world fuel market. The annual figures below cover the period before the listing."
   ],
   "sources": [
     [
@@ -137,12 +137,32 @@
       "https://www.ril.com/ar2025-26/mda.html"
     ],
     [
+      "Annual report: risk management (commodity, customer, partner, safety, cyber and financial risks)",
+      "https://www.ril.com/ar2025-26/risk-and-governance.html"
+    ],
+    [
+      "Annual report: Digital Services (Jio)",
+      "https://www.ril.com/ar2025-26/digital-services.html"
+    ],
+    [
+      "Annual report: Retail",
+      "https://www.ril.com/ar2025-26/retail.html"
+    ],
+    [
+      "Annual report: Oil to Chemicals (outlook)",
+      "https://www.ril.com/ar2025-26/oil-to-chemicals.html"
+    ],
+    [
       "BSE notice: Jio Platforms shares listed from 28 October 2026 · 27 October 2026",
       "https://www.bseindia.com/downloads/UploadDocs/Notices/20261027-9/20261027-9.pdf"
     ],
     [
       "Jio Platforms red herring prospectus (offer document) · October 2026",
       "https://www.sebi.gov.in/sebi_data/commondocs/oct-2026/Jio%20Platforms%20Limited%20-%20Red%20Herring%20Prospectus%20and%20Abridged%20Prospectus_p.pdf"
+    ],
+    [
+      "Media release on results for July–September 2026, as filed with BSE and NSE · 30 October 2026",
+      "https://rilstaticasset.akamaized.net/sites/default/files/2026-10/SE_30102026_MR.pdf"
     ]
   ],
   "financialNotes": [
@@ -151,11 +171,11 @@
       "text": "The verified table is a set of report business highlights, not a full consolidated revenue or profit reconciliation. Retail uses the report’s value-of-sales presentation. The rows must not be treated as exact shares of group revenue."
     },
     {
-      "title": "EBITDA is not net profit or shareholder cash",
-      "text": "The earnings column is EBITDA. Depreciation, financing, tax, ownership interests and investment needs matter afterward. Oil to Chemicals leads the displayed revenue, while Digital Services leads the displayed EBITDA; those answer different questions."
+      "title": "Operating earnings (EBITDA) are not net profit",
+      "text": "The earnings column is EBITDA: what each business earns from its operations before the cost of wear on equipment (depreciation), interest and tax. Ownership interests and investment needs matter afterward too. Oil to Chemicals leads the displayed revenue, while Digital Services leads the displayed EBITDA; those answer different questions."
     }
   ],
-  "checked": "31 October 2026",
+  "checked": "12 November 2026",
   "stepsTitle": "From building capacity to collecting payment.",
   "quick": [
     {
@@ -177,34 +197,34 @@
   ],
   "helps": [
     {
-      "title": "Many unrelated businesses",
-      "text": "Telecoms, retail, media, fuels and materials depend on different customers and conditions, so the group does not rest on one market."
+      "title": "Many different businesses",
+      "text": "Reliance earns from mobile and broadband plans, shops, media, fuels, chemicals and gas. These depend on different customers and prices, so the group does not rest on one market."
     },
     {
-      "title": "Paying subscribers return every month",
-      "text": "Jio subscribers pay for plans again and again, which brings repeated income from the same network."
+      "title": "Subscribers who pay every month",
+      "text": "Jio customers renew their mobile or broadband plans again and again on the same network. Jio grew by adding subscribers and raising the average payment per user, and had over 524 million customers in March 2026."
     },
     {
-      "title": "Repeat shoppers",
-      "text": "Shops and online retail earn when shoppers return and buy enough to cover shop and delivery costs."
+      "title": "Buying for thousands of shops",
+      "text": "Reliance Retail buys goods for a very large chain of shops and online orders. That scale of buying and its own supply chain help it keep shelves stocked and offer good value."
     }
   ],
   "hurts": [
     {
-      "title": "Input prices or demand turn",
-      "text": "Fuel and material prices can leave less after buying inputs and running plants."
+      "title": "Fuel and chemical prices swing",
+      "text": "Reliance buys crude oil and sells fuels and chemicals, and all these prices move with world events. The gap between what it pays and what it sells for can shrink quickly; the annual report calls these prices “inherently volatile”."
     },
     {
-      "title": "Huge projects need years of funding",
-      "text": "Factories, networks and shops can use cash for a long time before sales cover their costs."
+      "title": "Customers can walk away",
+      "text": "Shoppers, mobile users and viewers can switch to a rival if service, choice or price disappoints."
     },
     {
-      "title": "Customers choose competitors",
-      "text": "Retail, telecoms and media all need good choice, reliable service and fair prices to keep customers."
+      "title": "Borrowing costs",
+      "text": "Reliance borrows large sums, some in dollars, to build plants, networks and shops. Higher interest rates raise its finance costs, and a weaker rupee makes dollar debt dearer."
     },
     {
-      "title": "Hard to compare the group",
-      "text": "Acquisitions, partnerships and partly owned companies can change which earnings belong in each reported figure."
+      "title": "Partners and bought companies",
+      "text": "Reliance works with many partners and has bought many smaller firms. If these are not watched closely they can cause financial, legal or reputational problems."
     }
   ]
 }

@@ -39,7 +39,7 @@
   "basics": [
     {
       "title": "What does engineering, procurement and construction mean?",
-      "text": "Often shortened to EPC, it means designing the project, arranging materials and equipment, and carrying out construction. The contract says which tasks the company must complete, what the customer pays and who bears delays or extra costs."
+      "text": "This kind of contract (EPC) covers designing the project, buying the materials and equipment, and building it. The contract says which tasks the company must complete, what the customer pays and who bears delays or extra costs."
     },
     {
       "title": "An order is work still to be done",
@@ -107,20 +107,20 @@
   ],
   "risks": [
     [
-      "Work is late or costs more",
-      "Permits, suppliers, site conditions or customer changes can delay billing and raise costs."
+      "Materials arrive late",
+      "Trade tariffs, port congestion, closed airspace and changed shipping routes have made deliveries of imported materials slower and dearer, which can stretch project timelines."
     ],
     [
-      "Customers dispute or cannot pay bills",
-      "Extra-work claims or financial pressure on customers can leave earned amounts unpaid or require a loss to be recorded."
+      "Conflict in West Asia",
+      "West Asia is one of L&T’s main overseas markets. The conflict there has raised security risks and insurance and shipping costs, and made new investment in the region less certain."
     ],
     [
-      "Other group businesses weaken",
-      "Technology spending can slow, borrowers can miss repayments and property demand can change alongside project conditions."
+      "Software clients automate",
+      "Clients are using AI tools to write and test software themselves, so L&T’s technology-services companies must change what they offer."
     ],
     [
-      "Funding and overseas commitments add pressure",
-      "Currency changes, local rules, borrowing and guarantees can increase costs or payment obligations."
+      "Guarantees tie up credit",
+      "Customers usually require bank guarantees while a project is built and sometimes after, so L&T must keep enough bank credit lines to provide them."
     ]
   ],
   "context": [
@@ -133,7 +133,7 @@
       "https://www.larsentoubro.com/corporate/about-lt-group"
     ],
     [
-      "FY 2025–26 integrated annual report",
+      "FY 2025–26 integrated annual report (risk management framework, outlook)",
       "https://investors.larsentoubro.com/upload/AnnualRep/FY2026AnnualRepLNTIARFY2026.pdf"
     ],
     [
@@ -155,7 +155,7 @@
       "text": "Reported segment revenue includes internal sales, which are removed when reconciling to net group revenue. Other finance costs, unallocated items, exceptional items and tax also separate the segment-result total from company profit."
     }
   ],
-  "checked": "31 October 2026",
+  "checked": "12 November 2026",
   "stepsTitle": "From a contract to a finished project.",
   "quick": [
     {
@@ -177,34 +177,34 @@
   ],
   "helps": [
     {
-      "title": "Several different businesses",
-      "text": "Construction, equipment, technology services, lending and property depend on different customers and conditions, so one weak area need not hit all of them."
+      "title": "Many businesses in many countries",
+      "text": "Construction, equipment, technology services, lending and property depend on different customers, in many countries. That mix helps L&T cope when one area weakens."
     },
     {
-      "title": "Large, varied customers",
-      "text": "Governments, infrastructure owners and big industrial companies commission large projects that can run for years."
+      "title": "Years of work already won",
+      "text": "L&T’s order book is the work customers have agreed to but L&T has not yet done. It reached a record in March 2026, about half of it abroad, giving several years of visible revenue."
     },
     {
-      "title": "Some contracts pass on cost rises",
-      "text": "Some contracts let certain cost increases be passed to the customer, rather than L&T bearing all of them."
+      "title": "India keeps building",
+      "text": "Steady government spending on infrastructure creates the kind of project L&T builds, and the annual report expects that spending and household demand to keep India’s economy growing."
     }
   ],
   "hurts": [
     {
-      "title": "Work runs late or costs more",
-      "text": "Permits, suppliers, site conditions or customer changes can delay billing and raise costs."
+      "title": "Projects run late",
+      "text": "Big sites face land-access problems, difficult ground, slow approvals, design changes and shortages of workers. Each can delay billing and add cost."
     },
     {
-      "title": "Fixed prices can trap extra costs",
-      "text": "On a fixed-price contract, if labour or materials get dearer, L&T may bear the increase."
+      "title": "Metal and cement prices jump",
+      "text": "Steel, cement, aluminium and copper are a large share of project costs. On fixed-price contracts, a price rise after bidding can come out of L&T’s margin."
     },
     {
-      "title": "Customers dispute or delay payment",
-      "text": "Claims for extra work or customers under financial pressure can leave earned amounts unpaid."
+      "title": "Tough price competition",
+      "text": "Government work is usually won through competitive bidding, and rivals in India and abroad may bid aggressively. That squeezes margins and can cost L&T projects."
     },
     {
-      "title": "Funding and overseas commitments",
-      "text": "Currency changes, local rules, borrowing and guarantees can raise costs or payment obligations."
+      "title": "Customers pay late or argue",
+      "text": "Long projects with many parties, slow approvals or unclear terms can lead to disagreements over who pays for what. Money for work already done can stay unpaid, and part of it may have to be written off."
     }
   ]
 }
