@@ -1,0 +1,201 @@
+{
+  "summary": "Hindalco digs bauxite, refines it, melts it into aluminium, and makes copper. It rolls and shapes both metals into sheet, foil and rods, and its subsidiary Novelis rolls aluminium for drink cans and car bodies around the world.",
+  "description": "Aluminium starts as bauxite, a reddish rock dug from the ground. Hindalco refines it into alumina, a white powder, and then melts the alumina with large amounts of electricity in a smelter to get aluminium metal. Some metal is sold as it is, in ingots, thick bars called billets, and wire rods. Some is rolled flat into sheet and foil or pushed through shaped holes to make extrusions, such as window frames. Copper is made from imported ore concentrate, which is smelted and refined into copper plates and rod. Novelis, Hindalco's subsidiary, melts used drink cans and scrap, and rolls aluminium sheet for beverage cans, cars and aircraft.",
+  "money": "Hindalco earns money by selling metal and metal products by the tonne. The base price of aluminium and copper is set by trading on the London Metal Exchange (LME), and Hindalco takes that price. It earns more on products it has processed further, such as foil and sheet. Copper smelting also brings a processing fee and by-products such as gold, silver and sulphuric acid. The big costs are coal and electricity, bauxite, ore and scrap, staff and plant upkeep. A customer's payment is not profit, because metal costs are paid out of it.",
+  "customers": "Customers are manufacturers. In India they include makers of electrical cables, vehicles, packaging, buildings and appliances, who buy metal, wire rod, foil and extrusions. Novelis sells mainly to drink-can makers and car makers, often under long-term supply agreements. The company that buys the metal pays; the people who end up drinking from the can or driving the car do not.",
+  "drivers": "Three things mostly decide how Hindalco does: the world price of aluminium and copper, the cost of coal, power and raw materials, and how much of its metal it turns into higher-value products such as sheet, foil and car parts.",
+  "groups": [
+    {
+      "title": "Aluminium made from ore (upstream)",
+      "examples": "Alumina, aluminium ingots, billets and wire rods.",
+      "explanation": "These are the basic forms of the metal. Upstream means the early part of the chain, close to the mine. The price follows the world metal market."
+    },
+    {
+      "title": "Aluminium products (downstream)",
+      "examples": "Rolled sheet, foil, extrusions and plates.",
+      "explanation": "Downstream means later steps. Hindalco rolls or shapes the metal for customers such as packers, car makers and builders, who pay more than for plain metal."
+    },
+    {
+      "title": "Copper",
+      "examples": "Copper cathodes and cast rod, plus gold, silver and sulphuric acid recovered along the way.",
+      "explanation": "Hindalco smelts imported copper ore concentrate into pure copper. Cathodes are the thick refined copper sheets, and cast rod is the wire-ready form used by cable makers."
+    },
+    {
+      "title": "Specialty alumina",
+      "examples": "Alumina used in ceramics, flame retardants and catalysts.",
+      "explanation": "Alumina is also sold as a speciality chemical to industry, at higher prices than the grade used for making metal."
+    },
+    {
+      "title": "Novelis (rolled aluminium abroad)",
+      "examples": "Sheet for drink cans, car bodies and aircraft.",
+      "explanation": "Novelis is a subsidiary and a separate company that reports its own results. It uses a lot of recycled aluminium, and its results are included in Hindalco's group results."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is the LME?",
+      "text": "The London Metal Exchange is a market where aluminium, copper and other metals are traded. Its prices are the reference that most buyers and sellers use when they agree a price."
+    },
+    {
+      "title": "What are treatment and refining charges?",
+      "text": "A smelter buys copper ore concentrate and is paid a treatment and refining charge (TC/RC) for turning it into metal. When the charge is low, the smelter earns less from the same work."
+    },
+    {
+      "title": "What is value-added?",
+      "text": "Extra processing that gives the metal a form a customer needs, such as foil or a car part. The customer pays more than the plain metal price for that work."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Dig and refine",
+      "text": "Bauxite is mined and refined into alumina. Copper concentrate is bought and brought to the smelter."
+    },
+    {
+      "title": "Melt into metal",
+      "text": "Alumina is smelted into aluminium using coal-based power. Copper concentrate is smelted and refined."
+    },
+    {
+      "title": "Roll, cast or shape",
+      "text": "Metal is cast into ingots and rods, or rolled and shaped into sheet, foil and extrusions."
+    },
+    {
+      "title": "Deliver to the customer",
+      "text": "Products go by road, rail or ship to factories in India and abroad."
+    },
+    {
+      "title": "Bill at the metal price plus a premium",
+      "text": "The invoice follows the world price of the metal on the pricing date plus an amount for processing."
+    },
+    {
+      "title": "Collect payment and pay costs",
+      "text": "Revenue is booked on delivery. Cash arrives after the customer pays. Meanwhile coal, ore, scrap and wages have been paid, so cash and profit are different."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Hindalco takes the world price",
+      "text": "Upstream aluminium and copper sell at world prices, so Hindalco cannot set them. What it controls is its own cost, its volumes and how much of its metal is turned into higher-value products."
+    },
+    {
+      "title": "An Indian business and a global business in one",
+      "text": "Hindalco's India business (mines, refineries, smelters and rolling plants) and Novelis (plants in North America, Europe, Asia and South America) earn in different markets and currencies. Their results are added together in the group totals but can move in different directions."
+    },
+    {
+      "title": "Copper earns a fee, not just a price",
+      "text": "A copper smelter earns the processing fee for turning ore into metal, plus by-products. This is why copper results can fall even when copper prices rise."
+    }
+  ],
+  "watch": [
+    [
+      "How much of the group's profit comes from India and how much from Novelis?",
+      "They run on different markets, costs and currencies.",
+      "Compare the segment results for aluminium, copper and Novelis in the verified financial table and the notes."
+    ],
+    [
+      "How much of the India aluminium output goes into value-added products?",
+      "More processing usually earns more per tonne than selling plain metal.",
+      "Compare downstream production and sales with upstream metal sales in the management discussion."
+    ],
+    [
+      "How secure are Hindalco's coal and bauxite supplies?",
+      "Coal and ore are major costs, and captive mines lower the dependence on suppliers.",
+      "Read the sections on captive coal and bauxite and compare the share of own supply over several years."
+    ],
+    [
+      "How exposed is the copper business to processing fees and imports?",
+      "Low fees and imported copper can squeeze copper earnings.",
+      "Compare the treatment and refining charges and the copper sales volumes with earlier years, and read what the management discussion says about imports into India."
+    ],
+    [
+      "How much money is going into new plants, and when will they start earning?",
+      "New capacity takes years to pay back.",
+      "Compare Hindalco's capital spending with the cash its operations produce, and read the stated start dates of the new smelter, refinery and rolling projects."
+    ]
+  ],
+  "risks": [
+    [
+      "Metal price swings",
+      "Hindalco itself lists its upstream metal as a commodity tied to LME price movements. When the world price drops, income from the same tonnes falls while costs may not."
+    ],
+    [
+      "Trade rules and tariffs",
+      "The annual report names geopolitical instability, tariffs and protectionist measures as threats that could raise costs or reduce customer demand, especially for Novelis, which ships across regions."
+    ],
+    [
+      "Cost and supply of raw materials",
+      "Hindalco depends on imported copper concentrate, and Novelis relies on outside suppliers of metal and scrap. Competition for scrap could make it more expensive."
+    ],
+    [
+      "Newer materials replacing aluminium",
+      "The annual report lists advances in alternative materials or technologies as a threat that could reduce demand for aluminium products."
+    ]
+  ],
+  "context": [
+    "16 September and 20 November 2025: fires at a Novelis plant",
+    "Fires at Novelis's Oswego plant in New York state on 16 September 2025 and 20 November 2025 temporarily suspended its operations. Novelis shipped less rolled aluminium in 2025-26 than a year earlier, and Hindalco's annual report links the fall to the disruption."
+  ],
+  "sources": [
+    [
+      "Hindalco integrated annual report 2025-26 (filed with NSE)",
+      "https://nsearchives.nseindia.com/corporate/HINDALCOIND_30062026203910_Reg34_Annual_Report_final_signed.pdf"
+    ],
+    [
+      "Hindalco annual report 2025-26: message from the Managing Director",
+      "https://hindalco.com/iar-summary-online-report-2026/pdf/Message%20from%20the%20Managing%20Director.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "Revenue and profit figures are pending verification. The verified table will say whether each figure is for Hindalco alone (standalone) or the group including Novelis (consolidated), and give the period and the profit definition."
+    }
+  ],
+  "stepsTitle": "From ore to a paid invoice",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Mines bauxite, refines it, makes aluminium and copper, and rolls and shapes the metal into sheet, foil, rods and extrusions."
+    },
+    {
+      "title": "Who pays",
+      "text": "Manufacturers of cables, vehicles, packaging and buildings in India, and through Novelis, drink-can and car makers worldwide."
+    },
+    {
+      "title": "How it earns",
+      "text": "By selling metal at the world price plus extra for products it has processed further, and by copper processing fees and by-products."
+    },
+    {
+      "title": "What it mainly spends on",
+      "text": "Coal and electricity, bauxite, copper ore and scrap metal, staff, and the upkeep and expansion of plants."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Own coal and bauxite",
+      "text": "Hindalco says its aluminium business is backed by captive coal and bauxite, which it believes keeps its cost of production in the lowest quarter of the world."
+    },
+    {
+      "title": "More of the metal sold as products",
+      "text": "The annual report says a growing share of value-added products will help the company be further delinked from LME price movements."
+    },
+    {
+      "title": "Demand from newer uses",
+      "text": "The company points to structural demand from the energy transition, electric vehicles, packaging and industrial uses, where lighter metal and recycled content matter."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Imports of copper into India",
+      "text": "The annual report says that imports of copper into India hurt demand for Hindalco's domestic copper sales in 2025-26."
+    },
+    {
+      "title": "Reliance on outside suppliers and global supply chains",
+      "text": "Novelis depends on third-party suppliers for raw materials and on global shipping, which exposes it to disruptions."
+    },
+    {
+      "title": "Weak building demand",
+      "text": "The annual report says weak construction, mainly in China, limits demand growth for aluminium."
+    }
+  ],
+  "checked": "12 November 2026"
+}

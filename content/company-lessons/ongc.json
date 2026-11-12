@@ -1,0 +1,206 @@
+{
+  "summary": "ONGC (Oil and Natural Gas Corporation) finds crude oil and natural gas under India's land and seabed, drills wells, pumps them up and sells them. Through subsidiaries it also refines oil, sells petrol and diesel, and makes raw materials for plastics.",
+  "description": "ONGC's core work is to find and bring up oil and gas. Teams map the rock underground with seismic surveys (sending sound waves into the ground and recording the echoes), then drill wells from rigs on land or from steel platforms standing in the sea. The oil and gas that comes up is cleaned and separated at processing plants. Crude oil is the thick liquid that refineries turn into petrol and diesel. Natural gas is burned for power or used as a raw material. Some of it is split into cooking gas (LPG, liquefied petroleum gas) and naphtha, a raw material for chemicals. Most of this work happens in fields that have been producing for decades, so ONGC must keep drilling to hold output steady.",
+  "money": "ONGC earns money by selling crude oil, natural gas and processed products such as cooking gas and naphtha, mostly in bulk. Its main costs are finding and drilling wells, running rigs, platforms and pipelines, paying staff, and royalty and a cess, which are government charges on the oil and gas it produces. A customer's payment is not profit: the levies and operating costs are taken out first, and drilling spend has to be repeated every year.",
+  "customers": "The buyers are mainly large companies that take oil and gas in bulk through pipelines and ships. The annual report describes a bulk supply model, with safety boards at pipelines and delivery points. Refineries pay for crude oil and gas users pay for gas. Petrol-pump customers pay the fuel-retail subsidiary, not ONGC itself.",
+  "drivers": "Three things mostly decide how ONGC does: the price its crude oil sells for, how much its ageing fields can still produce, and the rules that set the price of gas from its older fields.",
+  "groups": [
+    {
+      "title": "Crude oil",
+      "examples": "Oil from the Mumbai High field in the sea off Mumbai and from fields on land.",
+      "explanation": "Crude oil is the raw liquid pumped from wells. Refineries buy it and turn it into petrol, diesel and aviation fuel."
+    },
+    {
+      "title": "Natural gas",
+      "examples": "Gas piped from offshore platforms and wells on land.",
+      "explanation": "Natural gas comes up with the oil or from its own wells. Buyers burn it to make power or use it as a raw material."
+    },
+    {
+      "title": "Value-added products",
+      "examples": "Cooking gas (LPG), naphtha, ethane, propane and butane.",
+      "explanation": "These are separated from the raw oil and gas at processing plants and sold on their own, usually at a higher price than the raw material."
+    },
+    {
+      "title": "Refining and fuel retail (subsidiaries)",
+      "examples": "Hindustan Petroleum (HPCL) refineries and petrol pumps, and Mangalore Refinery and Petrochemicals (MRPL).",
+      "explanation": "These companies buy crude oil, refine it and sell fuel. They are separate listed or unlisted companies in the ONGC group and report their own results."
+    },
+    {
+      "title": "Plastics raw materials (petrochemicals)",
+      "examples": "Plants run by OPaL (ONGC Petro additions) and MRPL.",
+      "explanation": "Petrochemical plants turn oil and gas products into the basic chemicals used to make plastics."
+    },
+    {
+      "title": "Overseas oil and gas",
+      "examples": "Fields held through ONGC Videsh Limited (OVL), ONGC's overseas arm.",
+      "explanation": "OVL buys stakes in oil and gas fields abroad and sells what they produce, which spreads ONGC's output beyond India."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What are exploration and production (E&P)?",
+      "text": "Exploration is the search for oil and gas, by surveys and test wells. Production is pumping it up once a field is proven. ONGC does both, which is called the upstream part of the oil business. Refining and selling fuel are called downstream."
+    },
+    {
+      "title": "What are proved reserves?",
+      "text": "They are the oil and gas the company is reasonably sure it can still recover from known fields. They fall as oil is pumped and rise only when new finds or better recovery are added."
+    },
+    {
+      "title": "What is in the ONGC group?",
+      "text": "ONGC is the parent company. Subsidiaries such as HPCL, MRPL, OPaL and OVL have their own accounts, and the group's combined (consolidated) results include them. ONGC's own (standalone) results do not."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Map and drill",
+      "text": "Surveys pick a spot and a rig drills the well. Drilling is paid for before any oil flows, and some wells find nothing."
+    },
+    {
+      "title": "Pump and process",
+      "text": "Oil and gas are brought up, then cleaned and separated at plants. Cooking gas and naphtha are split off."
+    },
+    {
+      "title": "Deliver in bulk",
+      "text": "Oil and gas go by pipeline or ship to refineries and other large buyers."
+    },
+    {
+      "title": "Bill at the going price",
+      "text": "Crude oil follows market prices. Gas from older fields follows a government formula. The sale is booked as revenue when the goods are delivered."
+    },
+    {
+      "title": "Collect and pay levies",
+      "text": "The buyer pays after the invoice date. ONGC then pays royalty and cess on what it produced, wages and other costs. What remains is profit before tax."
+    },
+    {
+      "title": "Replace what was pumped",
+      "text": "Because wells run down, ONGC has to drill again, which is why cash received and profit are not the same."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Old fields need constant drilling",
+      "text": "Many of ONGC's main fields are mature, and Mumbai High itself has been producing for five decades. Holding output flat means drilling hundreds of wells a year, so spending does not stop even when prices are low."
+    },
+    {
+      "title": "Parts of the group earn in different ways",
+      "text": "The upstream business earns from the oil price. A refiner earns the gap between the price of crude it buys and the fuel it sells, so the group's combined result can move differently from ONGC's own."
+    },
+    {
+      "title": "A national role beyond profit",
+      "text": "The Government of India has asked ONGC to build strategic petroleum reserves, which are underground oil stores that India keeps for emergencies, at Mangalore. Projects of national importance can shape where money is spent."
+    }
+  ],
+  "watch": [
+    [
+      "How much of the group's profit comes from ONGC itself and how much from its subsidiaries?",
+      "Subsidiaries such as HPCL earn money in a different way from ONGC's wells.",
+      "Compare ONGC's standalone and consolidated profit in the annual report and read the notes on which companies are included."
+    ],
+    [
+      "How quickly are the older fields declining, and what does it cost to hold output steady?",
+      "Falling output with the same drilling bill hurts returns.",
+      "Compare crude oil and gas production over five years with the number of wells drilled, in the annual report's operating highlights."
+    ],
+    [
+      "How is the price of gas from older fields set, and where does it sit within its allowed range?",
+      "A government formula can limit how much ONGC earns when gas is in demand.",
+      "Read the gas pricing section of the management discussion and compare it with the price ONGC actually received."
+    ],
+    [
+      "How much do new discoveries add compared with what is produced each year?",
+      "A company that pumps out more than it finds has less to sell later.",
+      "Compare reserves added with reserves used in the annual report and read where the discoveries were made."
+    ],
+    [
+      "How much cash is spent on drilling and projects compared with cash from sales?",
+      "Profit can look healthy while cash goes back into new wells.",
+      "Compare operating cash flow with capital spending in the cash-flow statement once figures are verified."
+    ]
+  ],
+  "risks": [
+    [
+      "Oil and gas prices swing",
+      "ONGC says price changes, driven by world demand, supply, production decisions by oil-producing countries and government action, can change its revenue, profit and cash flow, and can make projects look worth doing or not."
+    ],
+    [
+      "Deep-water exploration may not pay off",
+      "The company is moving into deep and very deep sea areas where the geology is less certain, the technology is harder and the spending is large. Limited success would leave less to produce later."
+    ],
+    [
+      "The shift away from fossil fuels",
+      "ONGC names climate change and the energy transition as a strategic risk. New rules and changing demand could affect how long oil and gas stay valuable, and its low-carbon projects have longer payback times."
+    ],
+    [
+      "Accidents at rigs and platforms",
+      "ONGC says work on offshore platforms, rigs and refineries exposes workers to hazardous chemicals, equipment failure, fire and explosions, which can injure people and stop production."
+    ]
+  ],
+  "context": [
+    "26 December 2025: a partner for Mumbai High",
+    "ONGC awarded the first phase of a redevelopment plan for the Mumbai High field to bp, working as technical services provider. The plan is described as aiming at extra oil and gas by March 2040. That is a target, not a result."
+  ],
+  "sources": [
+    [
+      "ONGC integrated annual report 2025-26",
+      "https://ongcindia.com/documents/77751/2660534/ONGC-AnnualReport_07082026.pdf"
+    ],
+    [
+      "ONGC, OVL, MRPL and OPaL financial results presentation, 2025-26",
+      "https://ongcindia.com/documents/77751/2660534/ONGC_OVL_MRPL_OPaL_FY2025-26_26052026.pdf/da4c0244-7eea-3aae-03cb-51691e247a28"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "Revenue and profit figures are pending verification. The verified table will state whether each figure is for ONGC alone (standalone) or the whole group (consolidated), with the period and the profit definition."
+    }
+  ],
+  "stepsTitle": "From a well to a payment",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Finds, drills for and pumps up crude oil and natural gas in India, and owns companies that refine oil, sell fuel and make plastics raw materials."
+    },
+    {
+      "title": "Who pays",
+      "text": "Refineries, gas users and other bulk buyers of oil and gas, and motorists who buy fuel from its retail subsidiary."
+    },
+    {
+      "title": "How it earns",
+      "text": "By selling crude oil, gas and processed products such as cooking gas and naphtha, at prices that follow the oil market or government rules."
+    },
+    {
+      "title": "What it mainly spends on",
+      "text": "Drilling and running wells, rigs and platforms, staff, and government royalty and cess on what it produces."
+    }
+  ],
+  "helps": [
+    {
+      "title": "India's largest producer",
+      "text": "In 2025-26 ONGC produced more than 73% of India's crude oil and about 57% of its natural gas, so it starts from a large base of fields, skills and equipment."
+    },
+    {
+      "title": "Other businesses cushion the oil price",
+      "text": "The annual report calls its subsidiaries and joint ventures a buffer against the swings of exploration and production, because refining, fuel retail and petrochemicals earn in different ways."
+    },
+    {
+      "title": "Government steps to lift upstream returns",
+      "text": "The annual report describes a lower effective royalty burden and a new law on oilfields that is meant to bring stability and faster handling of disputes."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "A cap on gas prices",
+      "text": "Gas from ONGC's older fields is priced by a government formula with a floor and a ceiling, so the company cannot keep the full gain when gas is scarce."
+    },
+    {
+      "title": "Plastics makers face a flood of imports",
+      "text": "The annual report says capacity built in China has left too much supply, pushing down prices and margins for petrochemical makers such as OPaL and MRPL."
+    },
+    {
+      "title": "Government charges come first",
+      "text": "Royalty and cess are paid on what is produced. They take a share of sales before ONGC counts any profit."
+    }
+  ],
+  "checked": "12 November 2026"
+}

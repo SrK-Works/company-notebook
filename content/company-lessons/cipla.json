@@ -1,0 +1,206 @@
+{
+  "summary": "Cipla makes medicines, especially inhalers for asthma and lung disease, and sells them on prescription in India, the United States, Africa and other markets. It also sells everyday health brands such as pain gel and antiseptic.",
+  "description": "A medicine is made from an active ingredient, the part that treats the illness, mixed with other substances and shaped into a tablet, capsule, liquid, injection or inhaler. Cipla makes tablets, capsules, liquids, sprays and inhalers in its own factories and makes some of the active ingredients itself. An inhaler is a handheld device that puffs a measured dose of medicine into the lungs. Cipla sells some medicines under its own brand names on a doctor's prescription. Others are generics, copies of medicines whose patents have ended, sold at lower prices. Cipla also sells health products, such as pain gels and antiseptics, that people can buy at a chemist without a prescription.",
+  "money": "Cipla earns money by selling medicines and health products to distributors, wholesalers, hospitals and pharmacies. Its main costs are raw materials and active ingredients, running factories, research and clinical trials to prove new products work, staff and the cost of selling and marketing to doctors and chemists. The customer's payment is not profit, because factory, research and selling costs come out of it first.",
+  "customers": "The patient uses the medicine, but the buyers are businesses in the chain between factory and patient. The annual report names distributors, wholesalers, hospitals and pharmacies. In India a doctor chooses the medicine by writing a prescription, and a chemist sells it. Almost all of Cipla's sales go to dealers and distributors rather than to patients directly.",
+  "drivers": "Three things mostly decide how Cipla does: how many doctors prescribe its products and how well its brands sell, the prices it can charge in each country, and whether it launches new or harder-to-copy products on time.",
+  "groups": [
+    {
+      "title": "Inhalers and lung medicines",
+      "examples": "Foracort and Asthalin inhalers, nebuliser liquids for asthma and chronic obstructive pulmonary disease (COPD).",
+      "explanation": "COPD is a long-term lung illness. An inhaler delivers medicine straight to the lungs, which is how many people control asthma. This is Cipla's best-known area."
+    },
+    {
+      "title": "Prescription medicines in India",
+      "examples": "Medicines for diabetes, the heart, the kidney and the urinary system.",
+      "explanation": "Cipla sells these under its own brand names. Doctors choose them, and chemists sell them to patients."
+    },
+    {
+      "title": "Consumer health brands",
+      "examples": "Omnigel, Cipladine, Nicotex, Cofsils and Prolyte.",
+      "explanation": "These are health products people buy at a chemist or shop without a prescription, such as a pain gel, an antiseptic, a nicotine gum or an oral rehydration drink. They are sold by a subsidiary, Cipla Health Limited."
+    },
+    {
+      "title": "Generic medicines abroad",
+      "examples": "Generic inhalers, injections and tablets for the United States, Europe and emerging markets.",
+      "explanation": "A generic is a copy of a medicine whose patent has ended. It can be sold at a lower price, so volume and a regulator's approval matter."
+    },
+    {
+      "title": "Africa",
+      "examples": "Medicines for South Africa, other African countries and access programmes.",
+      "explanation": "Cipla sells both prescription and over-the-counter products in South Africa and supplies lower-cost medicines to access programmes across the continent."
+    },
+    {
+      "title": "Active ingredients",
+      "examples": "Active pharmaceutical ingredients (APIs), the part of a medicine that treats the illness.",
+      "explanation": "Cipla makes some ingredients itself for its own medicines and for sale, which lowers its dependence on outside suppliers."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is a generic medicine?",
+      "text": "A medicine with the same active ingredient as an original brand, sold after the original's patent has ended. A generic is usually cheaper, so many companies compete on price."
+    },
+    {
+      "title": "What does \"complex\" mean for a generic?",
+      "text": "Some medicines are hard to copy because of how they are delivered, such as inhalers and some injections. Fewer rivals can make them, so prices fall less. The annual report says Cipla has moved from simple generics to complex ones."
+    },
+    {
+      "title": "Why do regulators matter?",
+      "text": "Every country approves medicines and inspects the factories that make them. A medicine cannot be sold, or a factory cannot supply it, without passing those checks."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Buy materials and make the medicine",
+      "text": "Cipla buys raw materials and makes active ingredients and finished medicines in its factories."
+    },
+    {
+      "title": "Test and approve",
+      "text": "Each batch is tested. New products also need regulator approval before they can be sold."
+    },
+    {
+      "title": "Sell to the chain",
+      "text": "Medicines go to distributors, wholesalers, hospitals and pharmacies, which supply patients."
+    },
+    {
+      "title": "Bill the buyer",
+      "text": "The invoice follows the agreed price for the quantity sent, less any discounts."
+    },
+    {
+      "title": "Collect payment",
+      "text": "Revenue is booked on delivery. Cash arrives when the distributor pays, sometimes weeks later."
+    },
+    {
+      "title": "Pay costs and fund new products",
+      "text": "Factories, research and staff are paid throughout the year, so cash received and profit are different things."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Three kinds of products earn differently",
+      "text": "Branded prescription medicines in India depend on doctors choosing them. Generics abroad depend on being approved and on price. Consumer brands depend on shop shelves and advertising."
+    },
+    {
+      "title": "A medicine and its device",
+      "text": "For inhalers the device matters as much as the drug. The annual report mentions new device and drug combinations, such as Ciphaler, that are harder for others to copy."
+    },
+    {
+      "title": "Consumer health sits in a subsidiary",
+      "text": "The brands such as Omnigel and Nicotex are sold by Cipla Health Limited, a subsidiary, whose results are included in Cipla's group results."
+    }
+  ],
+  "watch": [
+    [
+      "How much of the sales come from India, the United States, Africa and other markets?",
+      "Each market has different prices, rules and rivals.",
+      "Compare the sales split by region in the verified financial table with the regional sections of the annual report, and note which markets are growing fastest."
+    ],
+    [
+      "How much does the respiratory business depend on a few products?",
+      "A few leading products can carry much of the result.",
+      "Read the respiratory section and compare the sales of its leading brands over several years."
+    ],
+    [
+      "How are prices changing in its main markets?",
+      "Falling prices cut income from the same quantity.",
+      "Read the pricing discussion in the risk section and compare average selling prices over time."
+    ],
+    [
+      "Which new products are waiting for approval, and when?",
+      "Launches are what lift growth, and approvals can slip.",
+      "Read the pipeline and launch sections of the annual report, and then look for later exchange announcements of approvals and launches."
+    ],
+    [
+      "How much does research cost compared with sales?",
+      "Research is spent years before launches pay.",
+      "Compare research spending with sales over several years of annual reports, and read what the company says it expects the spending to deliver."
+    ]
+  ],
+  "risks": [
+    [
+      "Tight rules on medicine quality",
+      "The annual report says pharmaceuticals are among the most heavily regulated industries. Failing an inspection can lead to warnings, delayed launches, a stop to manufacturing, recalls or limits on exports."
+    ],
+    [
+      "New medicines may fail or be delayed",
+      "Developing a medicine needs large spending before launch and may meet patent lawsuits, trial delays or technical problems. Cipla says its growth plans partly rely on launching new products."
+    ],
+    [
+      "Supply of materials and shipping",
+      "Some materials come from only one supplier. The company also says conflict in the Middle East disrupted shipping routes and raised freight and insurance costs."
+    ],
+    [
+      "Local-first policies and currency swings",
+      "The annual report says several export markets want to rely more on their own makers, and that its sales and cash are exposed to changes in exchange rates."
+    ]
+  ],
+  "context": [
+    "April 2026: approval for a generic version of Ventolin",
+    "In April 2026 Cipla said it received approval for the first generic version of Ventolin, an asthma and COPD inhaler brand, to carry the equivalence rating that lets it be swapped for the original. This was one approval; sales will depend on launch and demand."
+  ],
+  "sources": [
+    [
+      "Cipla integrated annual report 2025-26",
+      "https://www.cipla.com/sites/default/files/Cipla-Annual-Report-FY2025-26.pdf"
+    ],
+    [
+      "Cipla audited financial results for the year ended 31 March 2026 (list of subsidiaries)",
+      "https://www.cipla.com/sites/default/files/SignedFinancialResults13052026Signed.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "Revenue and profit figures are pending verification. The verified table will say whether each figure is for Cipla alone (standalone) or the group with its subsidiaries (consolidated), and give the period and the profit definition."
+    }
+  ],
+  "stepsTitle": "From factory to a paid invoice",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Makes tablets, injections and inhalers for asthma, diabetes and other illnesses, and sells them with everyday health brands."
+    },
+    {
+      "title": "Who pays",
+      "text": "Distributors, wholesalers, hospitals and pharmacies in India, the United States, Africa and other markets."
+    },
+    {
+      "title": "How it earns",
+      "text": "By selling medicines under its own brands and as generics, and selling health products through chemists and shops."
+    },
+    {
+      "title": "What it mainly spends on",
+      "text": "Raw materials and ingredients, factories, research and trials, staff, and selling to doctors and chemists."
+    }
+  ],
+  "helps": [
+    {
+      "title": "A leading respiratory business in India",
+      "text": "Cipla says it is the leader in respiratory medicines in India, with its inhalers and nebuliser liquids holding large shares of their segments."
+    },
+    {
+      "title": "Hard-to-copy products",
+      "text": "The annual report describes a move from generics to complex generics, inhalers with new devices and biosimilars, which fewer rivals can supply."
+    },
+    {
+      "title": "A healthy balance sheet",
+      "text": "The annual report says strong cash flow and a healthy balance sheet let the company allocate capital with discipline."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Falling prices and price controls",
+      "text": "The annual report says prices of both existing medicines and new launches are eroding in several markets, along with government price controls and pressure from large customers."
+    },
+    {
+      "title": "Reliance on dealers and distributors",
+      "text": "Almost all sales are made through dealers and distributors. If they hold too much stock or pay late, Cipla's cash is affected."
+    },
+    {
+      "title": "Forecasting errors",
+      "text": "The company says wrong demand forecasts can leave too much stock that expires or cause penalties for not meeting contracted supply."
+    }
+  ],
+  "checked": "12 November 2026"
+}
