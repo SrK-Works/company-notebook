@@ -35,7 +35,7 @@
         "Hospitals"
       ],
       [
-        "Scans and diagnostic tests (Max Lab)",
+        "Scans and imaging",
         "Diagnostics"
       ]
     ],
@@ -106,8 +106,8 @@
       "alt": "A nurse in blue scrubs standing beside a surgical robot arm on a white background — advertising image from Max Healthcare’s 2025–26 annual report; a cut-out composite, not a photograph of an operation"
     },
     {
-      "name": "Scans and diagnostic tests",
-      "category": "Doctors reading scans and lab results",
+      "name": "Scans and imaging",
+      "category": "Doctors reading scan images",
       "image": "assets/products/max-healthcare-diagnostics.webp",
       "url": "https://max-website20-images.s3.ap-south-1.amazonaws.com/FY_2025_26_Integrated_Annual_Report_ab5f34d431.pdf#page=57",
       "kind": "illustration",

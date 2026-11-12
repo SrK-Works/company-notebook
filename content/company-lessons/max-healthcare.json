@@ -1,8 +1,8 @@
 {
   "summary": "Max Healthcare runs hospitals mainly in and around Delhi, where doctors and nurses treat patients for operations, cancer, heart and brain problems. It also runs a home care service and a network of blood-test labs.",
-  "description": "A hospital is a building where patients are admitted to a bed, operated on, nursed and sent home. Max Healthcare runs a network of 21 hospitals with over 6,000 beds, mostly in Delhi and nearby cities, plus others in Punjab, Uttarakhand, Maharashtra, Uttar Pradesh and Odisha. Doctors see patients in outpatient clinics, perform surgeries in operating theatres and treat serious cases in intensive care. Outside hospitals, Max@Home sends nurses and equipment to patients' homes, and Max Lab collects blood and other samples and tests them. Some hospitals are owned by Max, and some are run by Max for other owners.",
-  "money": "A hospital earns by billing for each patient: the bed, doctors' procedures, operating theatre time, medicines and tests. Max also earns fees for running hospitals owned by others, and from its labs and home care. Big costs are medicines, surgical items and implants, fees paid to doctors, nurses and staff, building and equipment costs, and interest on borrowing for new hospitals. What a patient pays is mostly spent on care, so it is not profit.",
-  "customers": "Patients are the users, but who pays differs: some pay themselves, many are covered by health insurers, and others by government schemes for officials and ex-servicemen, where the scheme fixes the rates. Some patients travel from abroad for treatment. A hospital's income depends on this mix, because insurers and government schemes may pay less than patients who pay directly.",
+  "description": "A hospital is a building where patients are admitted to a bed, operated on, nursed and sent home. Max Healthcare runs a network of 21 healthcare facilities with over 6,000 beds, mostly in Delhi and nearby cities, plus others in Punjab, Uttarakhand, Maharashtra, Uttar Pradesh and Odisha. Doctors see patients in outpatient clinics, perform surgeries in operating theatres and treat serious cases in intensive care. Outside hospitals, Max@Home sends nurses and equipment to patients' homes, and Max Lab collects blood and other samples and tests them. Some hospitals are owned by Max, and some are run by Max for other owners.",
+  "money": "A hospital earns by billing for each patient: the bed, doctors' procedures, operating theatre time, medicines and tests. Max also earns income from running hospitals owned by others, and from its labs and home care. Big costs are medicines, surgical items and implants, fees paid to doctors, nurses and staff, building and equipment costs, and interest on borrowing for new hospitals. What a patient pays is mostly spent on care, so it is not profit.",
+  "customers": "Patients are the users, but who pays differs: some pay themselves, many are covered by health insurers, and others by government schemes for officials and ex-servicemen, where the scheme fixes the rates. Some patients travel from abroad for treatment. The report calls this split the payor mix and says changes in it affect margins.",
   "drivers": "Mostly three things: how full its beds are and how serious the cases treated are; how its patients are split between self-paying, insured and government-scheme patients; and how quickly new beds fill up after they open.",
   "groups": [
     {
@@ -27,8 +27,8 @@
     },
     {
       "title": "Hospitals run for others",
-      "examples": "A 303-bed hospital in Dwarka, Delhi, run under an agreement with Muthoot Hospitals.",
-      "explanation": "Max can run a hospital that another company owns, and charge a fee for it. Its report calls this an asset-light model, since Max does not have to pay for the building."
+      "examples": "A 303-bed hospital in Dwarka, Delhi, which started operating in July 2024 and is run under an agreement with Muthoot Hospitals.",
+      "explanation": "Max can run a hospital that another company owns, under a services agreement. Its report calls this an asset-light model, since Max does not have to pay for the building."
     }
   ],
   "basics": [
@@ -42,7 +42,7 @@
     },
     {
       "title": "What is an asset-light hospital?",
-      "text": "One where another company owns the building and Max runs it for a fee, so Max spends less money building it."
+      "text": "One where another company owns the building and Max runs it under an agreement, so Max spends less money building it."
     },
     {
       "title": "What are the government health schemes for officials?",
@@ -64,7 +64,7 @@
     },
     {
       "title": "The payer settles",
-      "text": "Self-paying patients pay at once. Insurers and government schemes may pay weeks later and sometimes reduce the amount."
+      "text": "Payment comes from the patient, an insurer or a government scheme. As general explanation, not from the report, timing and amounts differ by payer."
     },
     {
       "title": "Profit is what is left",
@@ -93,7 +93,7 @@
     ],
     [
       "Who pays for the treatments?",
-      "The report says changes in payor mix affected margins. Insurers and government schemes may pay less than self-paying patients.",
+      "The report says margins moderated in the latest year partly because of changes in payor mix, meaning the split between who pays.",
       "Compare the share of self-paying, insured and government-scheme patients in the management discussion year by year."
     ],
     [
@@ -131,8 +131,8 @@
     ]
   ],
   "context": [
-    "2025-26: an asset-light hospital in Dwarka opens",
-    "The report says Max commissioned a 303-bed hospital in Dwarka, Delhi, under its first asset-light greenfield model, which it runs under a services agreement with Muthoot Hospitals Private Limited. The report also describes new towers at Saket, Mohali and Nanavati in Mumbai."
+    "2025-26: new towers at three hospitals",
+    "The report says three new towers were added or brought into use in 2025-26: a 160-bed tower at Mohali, a 280-bed tower at Nanavati-Max in Mumbai and a 400-bed tower at Max Smart in Saket, Delhi, the last in phases. A further 260-bed tower at Dwarka is described as a plan, not something already built."
   ],
   "sources": [
     [
