@@ -3,7 +3,7 @@ Checked: 12 November 2026
 Primary document: Hindalco Industries Limited, statement of consolidated audited financial results for the year ended 31 March 2026 (board approved 22 May 2026), filed with the exchanges
 https://www.hindalco.com/Upload/PDF/hindalco-financial-results-q4-fy26.pdf
 Unit ₹ crore ("' In Crore"), no conversion. Column "Year ended 31/03/2026 (Audited)". The filing has no printed page numbers.
-Reading limit: the PDF is a scanned image with machine-read text. Rows below were transcribed from that text; every row was checked by recomputing sums (below). The tax write-back amounts and the Labour Codes amount in note 5 and note 8 were read from scanned text ("505", "210", "297", "51") and are not covered by a sum check; the parent should confirm them on the page images.
+Reading limit: the PDF is a scanned image with machine-read text. Rows below were transcribed from that text and every published row was checked by recomputing sums (below). The note amounts for the tax write-backs (read as 505 deferred tax, 210 OCI, 297 earlier-year current tax), the Labour Codes provision (read as 51) and the coal mine impairment (161) could not be read cleanly or confirmed (the filing and the results presentation could not be re-fetched as text) and are NOT VERIFIED, so they are not used in the snapshot or lesson. Only the existence of these one-off items is stated.
 
 ## Consolidated statement of profit and loss — PDF page 21
 | Row | FY2026 ₹ crore |
