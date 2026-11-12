@@ -1,0 +1,24 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated · Ind AS",
+  "coverage": "Whole group totals · single automobile segment · VECV included only as a share of profit",
+  "unit": "₹ crore",
+  "profitMetric": "PAT attributable to owners",
+  "definition": "Profit after tax that belongs to Eicher’s own shareholders. It includes Eicher’s share of profit from the VE Commercial Vehicles (VECV) truck-and-bus joint venture and is after a one-off Labour Codes charge. No profit belongs to outside shareholders in this year. It is not operating profit or cash.",
+  "rows": [
+    {
+      "name": "Eicher Motors · whole group",
+      "revenue": 23407.56,
+      "profit": 5515.23
+    }
+  ],
+  "source": "https://www.eicher.in/content/dam/eicher-motors/investor/financial-and-reports/quarterly-results/consolidated-financials-may-22-2026.pdf",
+  "sourceLabel": "Statement of consolidated audited financial results, year ended 31 March 2026",
+  "location": "PDF page 1 · statement of consolidated audited financial results, year ended 31.03.2026 column, rows 1–11 and profit attributable to owners; PDF page 4 · notes on Labour Codes and segment",
+  "notes": "Revenue is revenue from operations (mostly Royal Enfield motorcycles, spare parts and riding gear) and excludes ₹1,486.53 crore other income, largely from investments. VECV’s own sales are not in revenue; Eicher adds only its ₹797.81 crore share of VECV’s profit. Profit is after a one-off ₹55.45 crore provision for the new Labour Codes. The group reports a single segment, automobile products, so no profit is split by brand or model.",
+  "insight": "Revenue grew about 24% and owners’ profit about 16% compared with the previous year. About one-seventh of profit is Eicher’s share of the VECV truck-and-bus business rather than motorcycle sales.",
+  "status": "single",
+  "checked": "12 November 2026",
+  "revenueTotal": 23407.56,
+  "profitTotal": 5515.23
+}

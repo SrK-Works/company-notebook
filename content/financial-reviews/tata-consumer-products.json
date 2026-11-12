@@ -1,0 +1,36 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated · Ind AS",
+  "coverage": "Reported business segments · before inter-segment sales, corporate costs and exceptional items",
+  "unit": "₹ crore",
+  "profitMetric": "Segment result",
+  "definition": "Each segment’s revenue less the costs directly identifiable to it. It is before most other income, finance costs, common corporate costs, exceptional items, tax and the share of joint ventures and associates such as Tata Starbucks. It is not segment profit after tax.",
+  "rows": [
+    {
+      "name": "Branded · India Business",
+      "revenue": 12778.88,
+      "profit": 1503.74
+    },
+    {
+      "name": "Branded · International Business",
+      "revenue": 5250.67,
+      "profit": 626.13
+    },
+    {
+      "name": "Non Branded Business (plantations and extraction)",
+      "revenue": 2387,
+      "profit": 280.47
+    }
+  ],
+  "source": "https://www.tataconsumer.com/sites/g/files/gfwrlq316/files/2026-11/OUTCOME-OF-BOARD-MEETING-HELD-ON-MAY-08-2026.pdf",
+  "sourceLabel": "Outcome of board meeting, 8 May 2026 · audited consolidated financial results, as filed with BSE and NSE",
+  "location": "PDF page 18 · consolidated financial results, year ended March 31, 2026 column; PDF page 19 · notes 2–3, exceptional items; PDF page 20 · consolidated segment-wise revenue and results, year ended March 31, 2026 column",
+  "notes": "Segment revenue totals ₹20,416.55 crore; adding ₹40.60 crore of ‘Others’ and removing ₹166.72 crore of sales between segments gives revenue from operations of ₹20,290.43 crore. Segment results total ₹2,410.34 crore; adding ₹141.76 crore other income and deducting ₹137.03 crore finance costs, ₹222.23 crore corporate costs and ₹20.06 crore net exceptional items gives profit before tax of ₹2,172.78 crore. After tax and a ₹90.70 crore share of losses in joint ventures and associates, group profit is ₹1,546.80 crore, of which ₹1,542.30 crore belongs to Tata Consumer’s shareholders. No profit is disclosed for individual brands such as Tata Tea or Tetley.",
+  "insight": "India branded products bring in most revenue and segment profit. The International Business earned less segment profit than a year earlier despite higher sales; the company cited US tariffs and higher coffee costs in the final quarter.",
+  "status": "segments",
+  "checked": "12 November 2026",
+  "revenueTotal": 20416.55,
+  "profitTotal": 2410.34,
+  "revenueTotalLabel": "Total segment revenue before ‘Others’ and inter-segment sales",
+  "profitTotalLabel": "Total segment results before corporate items"
+}
