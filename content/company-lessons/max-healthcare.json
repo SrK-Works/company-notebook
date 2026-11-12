@@ -1,0 +1,201 @@
+{
+  "summary": "Max Healthcare runs hospitals mainly in and around Delhi, where doctors and nurses treat patients for operations, cancer, heart and brain problems. It also runs a home care service and a network of blood-test labs.",
+  "description": "A hospital is a building where patients are admitted to a bed, operated on, nursed and sent home. Max Healthcare runs a network of 21 healthcare facilities with over 6,000 beds, mostly in Delhi and nearby cities, plus others in Punjab, Uttarakhand, Maharashtra, Uttar Pradesh and Odisha. Doctors see patients in outpatient clinics, perform surgeries in operating theatres and treat serious cases in intensive care. Outside hospitals, Max@Home sends nurses and equipment to patients' homes, and Max Lab collects blood and other samples and tests them. Some hospitals are owned by Max, and some are run by Max for other owners.",
+  "money": "A hospital earns by billing for each patient: the bed, doctors' procedures, operating theatre time, medicines and tests. Max also earns income from running hospitals owned by others, and from its labs and home care. Big costs are medicines, surgical items and implants, fees paid to doctors, nurses and staff, building and equipment costs, and interest on borrowing for new hospitals. What a patient pays is mostly spent on care, so it is not profit.",
+  "customers": "Patients are the users, but who pays differs: some pay themselves, many are covered by health insurers, and others by government schemes for officials and ex-servicemen, where the scheme fixes the rates. Some patients travel from abroad for treatment. The report calls this split the payor mix and says changes in it affect margins.",
+  "drivers": "Mostly three things: how full its beds are and how serious the cases treated are; how its patients are split between self-paying, insured and government-scheme patients; and how quickly new beds fill up after they open.",
+  "groups": [
+    {
+      "title": "Hospitals",
+      "examples": "Super-speciality hospitals such as those in Saket, Shalimar Bagh and Vaishali in Delhi region.",
+      "explanation": "A super-speciality hospital treats complex problems such as cancer, heart and brain disease. Patients pay for the bed, procedure, medicines and tests."
+    },
+    {
+      "title": "Specialist care",
+      "examples": "Cancer, heart, brain, bone, children's and women's care.",
+      "explanation": "Serious conditions need teams of doctors and costly machines, so the hospital builds its care around specialities, each with its own doctors."
+    },
+    {
+      "title": "Care at home",
+      "examples": "Max@Home: nurses, equipment and treatment at the patient's house.",
+      "explanation": "Patients who have left hospital, or cannot travel, are treated at home. It needs few buildings, so it can grow with less capital."
+    },
+    {
+      "title": "Diagnostic labs",
+      "examples": "Max Lab: sample collection centres and testing.",
+      "explanation": "A lab tests blood and other samples from patients and from people who walk in. Max Lab serves customers outside the hospitals too."
+    },
+    {
+      "title": "Hospitals run for others",
+      "examples": "A 303-bed hospital in Dwarka, Delhi, which started operating in July 2024 and is run under an agreement with Muthoot Hospitals.",
+      "explanation": "Max can run a hospital that another company owns, under a services agreement. Its report calls this an asset-light model, since Max does not have to pay for the building."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is a bed in hospital terms?",
+      "text": "A place where a patient stays overnight and is nursed. Counting beds shows how much a hospital can treat, so adding beds is how a hospital grows."
+    },
+    {
+      "title": "What is a brownfield or greenfield expansion?",
+      "text": "Brownfield means adding beds in or beside a hospital that already works, which is quicker and cheaper. Greenfield means building a new hospital on new land."
+    },
+    {
+      "title": "What is an asset-light hospital?",
+      "text": "One where another company owns the building and Max runs it under an agreement, so Max spends less money building it."
+    },
+    {
+      "title": "What are the government health schemes for officials?",
+      "text": "The Central Government Health Scheme (CGHS) covers central government employees, and the Ex-servicemen Contributory Health Scheme (ECHS) covers retired armed forces members and their families. Hospitals treat their members at rates the government fixes."
+    }
+  ],
+  "steps": [
+    {
+      "title": "A patient arrives",
+      "text": "Through the outpatient clinic, emergency room or a referral, often with an insurer's approval."
+    },
+    {
+      "title": "Care is given",
+      "text": "Doctors diagnose and treat, using beds, operating theatres, scans and medicines."
+    },
+    {
+      "title": "The bill is raised",
+      "text": "At discharge, the bill adds the bed, doctors' fees, medicines and tests."
+    },
+    {
+      "title": "The payer settles",
+      "text": "Payment comes from the patient, an insurer or a government scheme. As general explanation, not from the report, timing and amounts differ by payer."
+    },
+    {
+      "title": "Profit is what is left",
+      "text": "After medicines, staff, doctors, building costs and interest, the rest is profit. Billing, cash and profit arrive at different times."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Two sets of numbers",
+      "text": "The report says its network figures include partner hospitals that Max runs for others, so network figures and the company's own accounts cannot be compared directly."
+    },
+    {
+      "title": "A newly opened bed takes time to fill",
+      "text": "New towers and hospitals add costs first, and the report says expansion costs and a shift in the mix of payers briefly held back margins."
+    },
+    {
+      "title": "Mostly in one region",
+      "text": "Most of the hospitals are in Delhi and nearby cities, so local competition and rules matter more than for a nationwide chain."
+    }
+  ],
+  "watch": [
+    [
+      "How full are the beds, and what is earned per occupied bed?",
+      "A hospital's building and staff costs are mostly fixed, so fuller beds earn far more than half-empty ones.",
+      "In the annual report, look at occupancy and the average revenue per occupied bed for the network, over several years."
+    ],
+    [
+      "Who pays for the treatments?",
+      "The report says margins moderated in the latest year partly because of changes in payor mix, meaning the split between who pays.",
+      "Compare the share of self-paying, insured and government-scheme patients in the management discussion year by year."
+    ],
+    [
+      "How quickly do new beds fill?",
+      "New towers and acquired hospitals cost money before they earn it.",
+      "Read the capacity and ramp-up discussion and compare bed counts and occupancy at new sites over time."
+    ],
+    [
+      "How much debt is used to expand?",
+      "Borrowing for new hospitals adds interest costs.",
+      "Compare finance costs and net debt with earnings, and read the stated limit on how much debt the company will take."
+    ],
+    [
+      "How large is the share of hospitals run for others?",
+      "These hospitals bring less capital cost but also different income.",
+      "Read the company's notes on partner hospitals in the annual report, and see which figures include them and which do not."
+    ]
+  ],
+  "risks": [
+    [
+      "Price limits and government scheme rates",
+      "The report says wider price controls on consumables and diagnostics, and rate revisions under government schemes, may reduce what the hospital is paid and its margins."
+    ],
+    [
+      "Cost inflation",
+      "The report says rising prices of medical consumables, equipment, utilities and other inputs could reduce cost efficiency."
+    ],
+    [
+      "Serious incidents",
+      "The report names high-risk legal cases, fires and major rule changes as events that could materially affect operations and reputation."
+    ],
+    [
+      "Cyber and data privacy",
+      "The report says cybersecurity and patient data privacy have become critical focus areas as digital use grows, and failures could harm trust."
+    ]
+  ],
+  "context": [
+    "2025-26: new towers at three hospitals",
+    "The report says three new towers were added or brought into use in 2025-26: a 160-bed tower at Mohali, a 280-bed tower at Nanavati-Max in Mumbai and a 400-bed tower at Max Smart in Saket, Delhi, the last in phases. A further 260-bed tower at Dwarka is described as a plan, not something already built."
+  ],
+  "sources": [
+    [
+      "Max Healthcare Institute integrated annual report 2025-26",
+      "https://max-website20-images.s3.ap-south-1.amazonaws.com/FY_2025_26_Integrated_Annual_Report_ab5f34d431.pdf"
+    ],
+    [
+      "NSE Indices Limited, NIFTY 50 constituent list (Max Healthcare, symbol MAXHEALTH)",
+      "https://www.niftyindices.com/IndexConstituent/ind_nifty50list.csv"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "Revenue and profit figures are pending verification. The verified table will say whether each figure is for the company with its subsidiaries, or for the wider hospital network that includes partner hospitals."
+    }
+  ],
+  "stepsTitle": "From a patient's admission to payment",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "It runs hospitals, a home care service and diagnostic labs, mainly in and around Delhi."
+    },
+    {
+      "title": "Who pays",
+      "text": "Patients, health insurers and government health schemes pay for treatment, tests and care."
+    },
+    {
+      "title": "How it earns",
+      "text": "It bills for beds, procedures, medicines and tests, and earns fees for running hospitals owned by others."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Doctors and other professionals, nurses and staff, medicines and implants, buildings, equipment and interest on borrowing."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Demand for formal healthcare is rising",
+      "text": "The report points to an ageing population, more serious diseases, wider insurance cover and government support, which shift patients towards organised hospitals."
+    },
+    {
+      "title": "A pipeline of new beds",
+      "text": "The report describes a plan to add many beds through new towers, new hospitals and hospitals run for others, with the aim of growing without spending equally on buildings."
+    },
+    {
+      "title": "A focus on complex treatment",
+      "text": "The report says it focuses on high-acuity (serious and complex) care, which the report says improves the quality of its revenue."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "More hospitals competing nearby",
+      "text": "The report says other large chains are adding capacity in Delhi region, Lucknow and Mumbai, which may press on pricing, doctor availability and the cost of winning patients."
+    },
+    {
+      "title": "Doctors are a large and rising cost",
+      "text": "Fees paid to doctors and other professionals are one of its biggest costs, and the report links the rise to hiring clinical talent for new beds."
+    },
+    {
+      "title": "New capacity and takeovers take time to pay off",
+      "text": "The report says newly bought hospitals still need integration and a ramp-up in use before they reach target returns."
+    }
+  ],
+  "checked": "13 November 2026"
+}

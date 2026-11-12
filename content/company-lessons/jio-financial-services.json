@@ -1,0 +1,205 @@
+{
+  "summary": "Jio Financial Services is a holding company for new, mostly digital finance businesses: loans, a bank for payments and savings, payment collection for shops, insurance broking and mutual funds with BlackRock.",
+  "description": "A holding company owns shares in other companies and does not deal with customers itself. Jio Financial Services' companies lend money against homes, property, shares and mutual funds, run a payments bank for everyday accounts, help shops and websites collect payments, sell other firms' insurance, and, with the American asset manager BlackRock, run mutual funds and advice. Customers reach them through the JioFinance app. Many of these businesses started only recently, so much of the money coming in is still small compared with the money being spent to build them.",
+  "money": "Its loan company earns interest from borrowers and pays interest on the money it borrows. The payments companies earn small fees on each payment they handle, the insurance broker earns commission from insurers, and the mutual fund company earns a fee for managing investors' money. The group also earns returns on its own large pool of cash invested in bonds and funds. Costs are staff, technology, interest paid, loan losses and the expense of launching new businesses. Interest and fees received are not profit.",
+  "customers": "Borrowers pay interest on loans. Shops and businesses pay fees to collect payments. Insurers pay commission to the broker, while customers pay premiums to the insurers. Investors pay fees to the fund managers. People who keep money in the payments bank give it deposits and use its payment services.",
+  "drivers": "Mostly three things: how fast its new businesses win customers and loans; whether borrowers repay and what it costs the group to borrow; and how its large investment balance performs while these businesses grow.",
+  "groups": [
+    {
+      "title": "Loans",
+      "examples": "Home loans, loans against property, against shares and against mutual funds, and finance for suppliers.",
+      "explanation": "Jio Credit lends money and earns interest. Because most loans are secured by something the borrower owns, the lender can claim it if repayment stops."
+    },
+    {
+      "title": "Payments and banking",
+      "examples": "Jio Payments Bank accounts and cards; Jio Payment Solutions for businesses.",
+      "explanation": "The payments bank holds savings accounts and lets people pay and withdraw cash through local agents. The payment company lets shops and websites accept money from customers and charges a small fee."
+    },
+    {
+      "title": "Insurance",
+      "examples": "Jio Insurance Broking; joint ventures with Allianz for reinsurance and general insurance.",
+      "explanation": "A broker sells other companies' policies and earns commission. Reinsurance means insurers insure part of their own risk with another company, which is the new joint venture's work."
+    },
+    {
+      "title": "Investing",
+      "examples": "Jio BlackRock mutual funds, wealth advice and broking.",
+      "explanation": "Mutual funds pool savers' money; the fund company earns a fee on what it manages. The wealth advice and share-broking companies are being set up."
+    },
+    {
+      "title": "Leasing and the JioFinance app",
+      "examples": "Leasing of devices and cars to businesses; the app that brings these services together.",
+      "explanation": "Leasing means renting an item for a fixed period for regular payments. The app is the main way customers reach the other businesses."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is a core investment company?",
+      "text": "A company registered with the Reserve Bank of India (RBI) whose main job is holding shares of group companies. Jio Financial Services is one, so its results combine the businesses it controls."
+    },
+    {
+      "title": "What is a non-bank lender?",
+      "text": "A finance company that lends money but cannot run everyday savings accounts like a bank. Its loan company is of this type."
+    },
+    {
+      "title": "What is a payments bank?",
+      "text": "A bank allowed to hold deposits and offer payments, but not to make loans."
+    },
+    {
+      "title": "What is a joint venture?",
+      "text": "A company owned together with another firm. Jio Financial Services shares ownership with BlackRock and with Allianz, so it does not keep all their profit."
+    }
+  ],
+  "steps": [
+    {
+      "title": "A customer arrives",
+      "text": "A customer opens the JioFinance app, a payments bank account, or applies for a loan or fund."
+    },
+    {
+      "title": "The relevant company serves them",
+      "text": "The loan company checks the borrower and lends; the payments company handles a payment; the broker places an insurance policy."
+    },
+    {
+      "title": "Money or fees come in",
+      "text": "Borrowers pay interest, businesses pay payment fees and insurers pay commission."
+    },
+    {
+      "title": "Costs go out",
+      "text": "The group pays interest on what it borrows, staff, technology and loan losses."
+    },
+    {
+      "title": "Profit is what is left",
+      "text": "Profit after costs can be low or negative for new businesses. Cash received and profit differ in timing."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "A parent of many businesses",
+      "text": "The listed company holds shares and lends within the group, so its results mix the lender, the payments bank and others. Its report treats investing and financing as one reporting segment, so results are not split business by business."
+    },
+    {
+      "title": "A large cash pile earns money while businesses grow",
+      "text": "The company holds a large amount of money invested in bonds and funds. The report says treasury income was hurt when bond yields jumped, showing that this income moves with markets."
+    },
+    {
+      "title": "Joint ventures share the profit",
+      "text": "BlackRock and Allianz are partners in the investing and insurance businesses. The group's share of their profit, or loss, appears in one line of its accounts."
+    },
+    {
+      "title": "Separate from Reliance and Jio Platforms",
+      "text": "Jio Financial Services was split off from Reliance Industries in 2023 and has its own listing, board and results. Jio Platforms, the mobile network company, is linked to it only through the Reliance group and is not part of it, so telecom sales are not in its revenue."
+    }
+  ],
+  "watch": [
+    [
+      "Which businesses are growing, and which are still spending to start?",
+      "Group profit mixes growing businesses with ones that are new and loss-making.",
+      "In the verified figures and the annual report's business reviews, compare each company's income with the costs of building it."
+    ],
+    [
+      "How good are the loans?",
+      "A fast-growing lender can lose money if borrowers do not repay.",
+      "Look for loan losses and overdue loans in the notes, and compare the size of the loan book year by year."
+    ],
+    [
+      "How much profit comes from joint ventures and associates?",
+      "Profit from partners is not fully controlled by the group.",
+      "Compare the line for share of profit of associates and joint ventures with total profit in the consolidated accounts."
+    ],
+    [
+      "How is its cash invested and what does it earn?",
+      "Investment returns can rise and fall with the markets.",
+      "Read the treasury and fair value notes in the annual report, and compare gains on invested money across different years."
+    ],
+    [
+      "What do the rules say about each business?",
+      "Banks, lenders, brokers and insurers each have their own regulator.",
+      "Read the risk section of the annual report and any regulatory notices listed on the company website for each business."
+    ]
+  ],
+  "risks": [
+    [
+      "Interest rates move",
+      "The report says interest rate movements, driven by RBI policy, inflation and global events, are a key sensitivity. They change what the lender earns on loans and pays on borrowing."
+    ],
+    [
+      "Cyber threats and fraud",
+      "The report says digital transactions are mirrored by increasingly sophisticated cyber threats and AI-driven fraud, so the group must keep spending on security."
+    ],
+    [
+      "Changes in rules",
+      "The report says adverse changes to laws, new regulations or new interpretations could affect its costs and how freely it can operate."
+    ],
+    [
+      "A fall in confidence",
+      "The report names reputational risk as a key risk, including contagion from group companies. Lost trust could harm business relationships and the group's access to funding."
+    ]
+  ],
+  "context": [
+    "April to May 2026: Allianz insurance venture",
+    "The report says a binding agreement signed on 22 April 2026 led to the incorporation in May 2026 of Jio Allianz General Insurance, a 50:50 venture for general and health insurance. It also says a separate, non-binding agreement exists to explore life insurance with Allianz. A non-binding agreement is only an intention."
+  ],
+  "sources": [
+    [
+      "Jio Financial Services annual report 2025-26 (filed with NSE, 3 August 2026)",
+      "https://nsearchives.nseindia.com/corporate/JIOFINANCIAL_03082026124905_JFSLNoticeandAR.pdf"
+    ],
+    [
+      "NSE Indices Limited, NIFTY 50 constituent list (Jio Financial Services, symbol JIOFIN)",
+      "https://www.niftyindices.com/IndexConstituent/ind_nifty50list.csv"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "Income and profit figures are pending verification. The verified table will say whether each figure is standalone (the holding company alone) or consolidated (with its subsidiaries) and how associates and joint ventures are counted."
+    }
+  ],
+  "stepsTitle": "From a customer to the group's income",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "It owns and builds digital finance businesses: loans, a payments bank, payment services for shops, insurance broking and mutual funds."
+    },
+    {
+      "title": "Who pays",
+      "text": "Borrowers pay interest, businesses pay payment fees, insurers pay commission and investors pay fund fees."
+    },
+    {
+      "title": "How it earns",
+      "text": "Interest on loans, fees and commission, and returns on its own invested cash. Its newest businesses are still small."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Staff and technology, interest on borrowing, loan losses, and building new businesses."
+    }
+  ],
+  "helps": [
+    {
+      "title": "A strong capital base",
+      "text": "The report says the group has a high capital base and liquid assets to meet its obligations and support group companies."
+    },
+    {
+      "title": "Savings moving into financial products",
+      "text": "The report describes households shifting savings from physical assets into mutual funds and shares, which suits an investing and lending group."
+    },
+    {
+      "title": "Partners with experience",
+      "text": "The BlackRock and Allianz ventures bring asset management and insurance expertise that the group did not have on its own."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Newer businesses may take time",
+      "text": "The report says some businesses show growth while others are still investing to build a base, so group profit can lag growth."
+    },
+    {
+      "title": "It relies on outside companies for some work",
+      "text": "The report lists third-party risk, from outsourcing core activities, as a risk. A supplier failure could disrupt customers."
+    },
+    {
+      "title": "Borrowing costs depend on credit ratings",
+      "text": "The report says downgrades in India's sovereign credit rating could affect the group's access to funding and its terms."
+    }
+  ],
+  "checked": "13 November 2026"
+}

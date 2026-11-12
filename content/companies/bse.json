@@ -1,0 +1,117 @@
+{
+  "order": 62,
+  "company": {
+    "id": "bse",
+    "name": "BSE Limited",
+    "ticker": "BSE",
+    "sector": "Banking",
+    "initial": "B",
+    "color": "#1f3a6e",
+    "bg": "#e9eef8",
+    "tag": "Runs a stock exchange where shares are listed and traded, and sells data and a mutual fund ordering system",
+    "products": [
+      [
+        "Trading in shares and index derivatives",
+        "Trading markets"
+      ],
+      [
+        "Listing of companies’ shares and bonds",
+        "Listing and company services"
+      ],
+      [
+        "Mutual fund ordering system (StAR MF)",
+        "Mutual fund ordering"
+      ],
+      [
+        "Sensex and other indices; price data",
+        "Data and indices"
+      ],
+      [
+        "Server space inside the exchange (colocation)",
+        "Technology"
+      ],
+      [
+        "Clearing and settlement through a subsidiary",
+        "Clearing"
+      ],
+      [
+        "International exchange in GIFT City (India INX)",
+        "International"
+      ]
+    ],
+    "sources": [
+      [
+        "BSE Limited annual reports",
+        "https://www.bseindia.com/investor-relations/annual-reports"
+      ]
+    ],
+    "productSource": "https://nsearchives.nseindia.com/corporate/BSE1_23072026103414_NSEintimationNoticeandAR2026.pdf",
+    "aliases": [
+      "BSE Limited",
+      "BSE Ltd",
+      "BSE Ltd.",
+      "Bombay Stock Exchange"
+    ],
+    "productNote": "Services named in BSE Limited’s 2025–26 annual report. BSE Limited is the company that runs the BSE stock exchange; it is not the BSE Sensex index itself, which it publishes. Its subsidiaries (clearing, technology, index and the India INX exchange) are part of the group. Pictures are original illustrations: the report’s photographs are of company events, not of its services.",
+    "checked": "13 November 2026",
+    "reviewed": "13 November 2026"
+  },
+  "offerings": [
+    {
+      "name": "Share and derivatives trading",
+      "category": "Buying and selling shares and index contracts",
+      "image": "assets/products/bse-trading.svg",
+      "url": "https://nsearchives.nseindia.com/corporate/BSE1_23072026103414_NSEintimationNoticeandAR2026.pdf",
+      "kind": "illustration",
+      "alt": "A rising and falling price line on a chart — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Listing of companies",
+      "category": "Companies list shares to raise money from the public",
+      "image": "assets/products/bse-listing.svg",
+      "url": "https://nsearchives.nseindia.com/corporate/BSE1_23072026103414_NSEintimationNoticeandAR2026.pdf",
+      "kind": "illustration",
+      "alt": "A building with columns, like a stock exchange — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Mutual fund ordering",
+      "category": "The system distributors use to buy fund units for clients",
+      "image": "assets/products/bse-mutual-funds.svg",
+      "url": "https://nsearchives.nseindia.com/corporate/BSE1_23072026103414_NSEintimationNoticeandAR2026.pdf",
+      "kind": "illustration",
+      "alt": "A document with lines of text — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Sensex and price data",
+      "category": "Index of 30 large companies, and data for firms that need prices",
+      "image": "assets/products/bse-indices.svg",
+      "url": "https://nsearchives.nseindia.com/corporate/BSE1_23072026103414_NSEintimationNoticeandAR2026.pdf",
+      "kind": "illustration",
+      "alt": "A stack of coins — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Server space for brokers",
+      "category": "Brokers rent space for their computers inside BSE’s data centre",
+      "image": "assets/products/bse-colocation.svg",
+      "url": "https://nsearchives.nseindia.com/corporate/BSE1_23072026103414_NSEintimationNoticeandAR2026.pdf",
+      "kind": "illustration",
+      "alt": "Three stacked computer servers — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Clearing and settlement",
+      "category": "A clearing corporation completes each trade",
+      "image": "assets/products/bse-clearing.svg",
+      "url": "https://nsearchives.nseindia.com/corporate/BSE1_23072026103414_NSEintimationNoticeandAR2026.pdf",
+      "kind": "illustration",
+      "alt": "Two arrows swapping in opposite directions — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "International exchange",
+      "category": "India INX in GIFT City, a financial zone for overseas-currency business",
+      "image": "assets/products/bse-india-inx.svg",
+      "url": "https://nsearchives.nseindia.com/corporate/BSE1_23072026103414_NSEintimationNoticeandAR2026.pdf",
+      "kind": "illustration",
+      "alt": "A globe with lines of latitude and longitude — conceptual illustration; not a photograph"
+    }
+  ]
+}

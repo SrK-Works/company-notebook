@@ -1,0 +1,117 @@
+{
+  "order": 64,
+  "company": {
+    "id": "hdfc-life",
+    "name": "HDFC Life Insurance",
+    "ticker": "HDFCLIFE",
+    "sector": "Banking",
+    "initial": "H",
+    "color": "#b3282d",
+    "bg": "#fbeaeb",
+    "tag": "Sells life insurance, savings and retirement plans, and invests the premiums it collects",
+    "products": [
+      [
+        "Protection plans (pay out on death)",
+        "Protection"
+      ],
+      [
+        "Savings plans with fixed payouts",
+        "Savings"
+      ],
+      [
+        "Participating plans with bonuses",
+        "Savings"
+      ],
+      [
+        "Unit-linked plans (insurance with fund investing)",
+        "Investment-linked"
+      ],
+      [
+        "Pension and retirement plans",
+        "Retirement"
+      ],
+      [
+        "Group plans for employers and lenders",
+        "Group"
+      ],
+      [
+        "Selling through banks, agents and partners",
+        "Distribution"
+      ]
+    ],
+    "sources": [
+      [
+        "HDFC Life results press release, year ended March 2026",
+        "https://hdfclife.com/content/dam/hdfclifeinsurancecompany/about-us/pdf/investor-relations/financial-information/Quarterly-financial-results/HDFC-Life-12M-FY2026-Press-Release.pdf"
+      ]
+    ],
+    "productSource": "https://hdfclife.com/content/dam/hdfclifeinsurancecompany/about-us/pdf/investor-relations/financial-information/annual-reports/Integrated-Annual-Report-FY-2025-26.pdf",
+    "aliases": [
+      "HDFC Life Insurance Company Limited",
+      "HDFC Life Insurance Company Ltd",
+      "HDFC Life Insurance Company Ltd.",
+      "HDFC Life"
+    ],
+    "productNote": "Plan types named in HDFC Life’s 2025–26 integrated annual report. HDFC Life is a separate listed company; HDFC Bank holds about half and sells its plans through its branches, but HDFC Bank’s own business is covered on its own page. The report’s photographs are advertising scenes and group portraits, so pictures are original illustrations.",
+    "checked": "13 November 2026",
+    "reviewed": "13 November 2026"
+  },
+  "offerings": [
+    {
+      "name": "Protection plans",
+      "category": "Cover that pays a lump sum to the family on death",
+      "image": "assets/products/hdfc-life-protection.svg",
+      "url": "https://hdfclife.com/content/dam/hdfclifeinsurancecompany/about-us/pdf/investor-relations/financial-information/annual-reports/Integrated-Annual-Report-FY-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "A shield with a tick — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Savings plans",
+      "category": "Premiums for years, fixed payouts later",
+      "image": "assets/products/hdfc-life-savings.svg",
+      "url": "https://hdfclife.com/content/dam/hdfclifeinsurancecompany/about-us/pdf/investor-relations/financial-information/annual-reports/Integrated-Annual-Report-FY-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "A calendar — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Participating plans",
+      "category": "Plans that add bonuses from surplus",
+      "image": "assets/products/hdfc-life-participating.svg",
+      "url": "https://hdfclife.com/content/dam/hdfclifeinsurancecompany/about-us/pdf/investor-relations/financial-information/annual-reports/Integrated-Annual-Report-FY-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "A growing plant — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Unit-linked plans",
+      "category": "Insurance with money invested in funds",
+      "image": "assets/products/hdfc-life-unit-linked.svg",
+      "url": "https://hdfclife.com/content/dam/hdfclifeinsurancecompany/about-us/pdf/investor-relations/financial-information/annual-reports/Integrated-Annual-Report-FY-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "A rising and falling price line on a chart — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Retirement and pension plans",
+      "category": "Money saved now for an income later",
+      "image": "assets/products/hdfc-life-retirement.svg",
+      "url": "https://hdfclife.com/content/dam/hdfclifeinsurancecompany/about-us/pdf/investor-relations/financial-information/annual-reports/Integrated-Annual-Report-FY-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "A sun setting over a horizon — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Group plans",
+      "category": "One contract covering many people, for employers and lenders",
+      "image": "assets/products/hdfc-life-group.svg",
+      "url": "https://hdfclife.com/content/dam/hdfclifeinsurancecompany/about-us/pdf/investor-relations/financial-information/annual-reports/Integrated-Annual-Report-FY-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Two people — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Banks, agents and partners",
+      "category": "The branches and people who sell the plans",
+      "image": "assets/products/hdfc-life-channels.svg",
+      "url": "https://hdfclife.com/content/dam/hdfclifeinsurancecompany/about-us/pdf/investor-relations/financial-information/annual-reports/Integrated-Annual-Report-FY-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "A house — conceptual illustration; not a photograph"
+    }
+  ]
+}
