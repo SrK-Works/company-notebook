@@ -1,0 +1,31 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated · group",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited consolidated financial results filed with the exchanges",
+  "checked": "12 November 2026",
+  "coverage": "Reported business segments · segment income before inter-segment revenue",
+  "profitMetric": "Segment result (profit before finance costs, tax and unallocated items)",
+  "definition": "Each segment’s profit before finance costs, interest income, other unallocated income and expense, exceptional items and tax. The two rows add up to ₹17,591.65 crore. After finance costs, interest income and other unallocated items this becomes profit before exceptional items and tax of ₹15,056.26 crore. It is not profit after tax.",
+  "rows": [
+    {
+      "name": "Port and SEZ activities",
+      "revenue": 33532.0,
+      "profit": 16942.41
+    },
+    {
+      "name": "Others (mainly logistics and transportation)",
+      "revenue": 5438.6,
+      "profit": 649.24
+    }
+  ],
+  "source": "https://www.adaniports.com/-/media/project/ports/investor/investor-downloads/quarterly-results/q4-fy26.pdf",
+  "location": "PDF page 18 (note 3, consolidated segment revenue and results, year ended March 31, 2026 column), PDF page 15 (consolidated results) and PDF page 20 (note 7); the filing has no printed page numbers",
+  "notes": "Port and SEZ activities means developing, operating and maintaining port services, port-related infrastructure and infrastructure at the contiguous Special Economic Zone. Segment income of ₹38,970.60 crore is before ₹234.83 crore of inter-segment revenue; after it, revenue from operations is ₹38,735.77 crore. Total income, including other income of ₹2,118.59 crore, is ₹40,854.36 crore. Group profit after tax is ₹12,782.03 crore: profit before tax ₹14,848.56 crore less tax ₹2,066.53 crore. Of it, ₹12,806.21 crore belongs to owners of the company and −₹24.18 crore to minority owners of subsidiaries. Profit is after exceptional costs of ₹207.70 crore (note 7): ₹145.64 crore for the new Labour Codes (higher employee retirement-pay liability) and ₹62.06 crore to settle a voluntary retirement plan at a foreign subsidiary. Profit includes a ₹257.62 crore share of profit from joint ventures. The filing does not disclose profit for any single port or terminal.",
+  "insight": "Ports and the special economic zone earn almost all of the segment profit, and a much larger share of each rupee of income than the logistics business. Finance costs are a large deduction on the way to the group profit.",
+  "status": "segments",
+  "revenueTotal": 38970.6,
+  "revenueTotalLabel": "Segment income before inter-segment revenue",
+  "profitTotal": 17591.65,
+  "profitTotalLabel": "Total segment result"
+}

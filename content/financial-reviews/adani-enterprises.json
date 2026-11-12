@@ -1,0 +1,66 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated · group",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited consolidated financial results filed with the exchanges",
+  "checked": "12 November 2026",
+  "coverage": "Reported business segments · segment revenue before inter-segment transfers",
+  "profitMetric": "Segment result (profit before interest and tax)",
+  "definition": "Each segment’s profit before interest and tax, as the company reports it. The Unallocable income row is other income that is not assigned to any segment. The rows add up to ₹19,543.78 crore, which becomes group profit before tax of ₹13,524.66 crore after finance costs of ₹6,019.12 crore. It is not profit after tax.",
+  "rows": [
+    {
+      "name": "Integrated Resources Management",
+      "revenue": 28362.46,
+      "profit": 2205.49
+    },
+    {
+      "name": "Mining Services",
+      "revenue": 4445.86,
+      "profit": 1709.53
+    },
+    {
+      "name": "Commercial Mining",
+      "revenue": 5642.3,
+      "profit": -2079.97
+    },
+    {
+      "name": "New Energy Ecosystem",
+      "revenue": 15399.0,
+      "profit": 3609.0
+    },
+    {
+      "name": "Airport",
+      "revenue": 13215.43,
+      "profit": 2770.3
+    },
+    {
+      "name": "Road",
+      "revenue": 6347.18,
+      "profit": 679.45
+    },
+    {
+      "name": "Copper",
+      "revenue": 15284.34,
+      "profit": -402.7
+    },
+    {
+      "name": "Others",
+      "revenue": 14289.6,
+      "profit": 8578.05
+    },
+    {
+      "name": "Unallocable income",
+      "revenue": 0,
+      "profit": 2474.63
+    }
+  ],
+  "source": "https://www.adanienterprises.com/-/media/Project/Enterprises/Investors/Investor-Downloads/Financial/Q4-FY26.pdf",
+  "location": "PDF page 17 (note 19, consolidated segment revenue and results, year ended 31-03-2026 column), PDF page 11 (consolidated results) and PDF page 13 (notes 4 and 5); the filing has no printed page numbers",
+  "notes": "Segment revenue of ₹102,986.17 crore is before ₹2,517.56 crore of transfers between segments; after them, net revenue from operations is ₹100,468.61 crore. Group total income, which also includes other income of ₹2,474.63 crore, is ₹102,943.24 crore. Group profit before tax of ₹13,524.66 crore includes exceptional gains of ₹9,215.37 crore: ₹8,600.81 crore (₹7,116.68 crore after tax) from selling the remaining 30.42% stake in AWL Agri Business (note 4), and a ₹614.56 crore gain when Adani Cementation merged into Ambuja Cements and the company received Ambuja shares (note 5). Profit before tax and before exceptional items was ₹4,309.29 crore. The filing does not say which segment row holds these gains. Tax was ₹3,831.15 crore. Profit after tax is ₹9,950.69 crore, including a ₹257.18 crore share of profit from jointly controlled entities and associates, of which ₹9,339.47 crore belongs to owners of the company and ₹611.22 crore to minority owners of subsidiaries. Note 15 says the new Labour Codes impact was recognised but gives no amount in these results. The results do not disclose profit for any product or brand.",
+  "insight": "Adani Enterprises runs many different businesses, and the segment table shows large differences: commercial mining made a segment loss while airports and new energy earned large segment profits. This year’s group profit was lifted by about ₹9,215 crore of one-off gains from selling and merging stakes, so it is a poor guide to ordinary earnings.",
+  "status": "segments",
+  "revenueTotal": 102986.17,
+  "revenueTotalLabel": "Segment revenue before inter-segment transfers",
+  "profitTotal": 19543.78,
+  "profitTotalLabel": "Total profit before interest and tax"
+}
