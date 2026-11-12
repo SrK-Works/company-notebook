@@ -58,11 +58,11 @@
   "specifics": [
     {
       "title": "Average customer spending is not every customer’s bill",
-      "text": "ARPU means average revenue per user under the company’s stated definition. It can change because prices rise or because a different set of customers and plans is included. Check the country and business covered."
+      "text": "The average amount each customer pays in a month (ARPU, average revenue per user) can change because prices rise or because a different set of customers and plans is counted. Check the country and business covered."
     },
     {
       "title": "An operating earnings measure leaves costs still to pay",
-      "text": "EBITDA is earnings before interest, tax and the accounting charges for equipment and other assets losing value over time. It is not money left after buying equipment, paying for spectrum or meeting all borrowing and lease obligations."
+      "text": "Operating earnings (EBITDA) are what the business earns before interest, tax and the accounting charge for equipment wearing out. They are not money left after buying equipment, paying for spectrum or meeting all borrowing and lease obligations."
     },
     {
       "title": "The group includes more than India phone plans",
@@ -98,25 +98,29 @@
   ],
   "risks": [
     [
-      "Customers switch or prices come under pressure",
-      "Competing plans can make it harder to keep customers without discounts or extra spending."
+      "Weak economies in Africa",
+      "Many of Airtel’s African markets face high inflation, currency falls and limits on moving money abroad. A weaker local currency lowers the rupee value of what Airtel earns there."
     ],
     [
-      "The network keeps requiring cash",
-      "Spectrum, equipment upgrades and leased sites can require payments even while the business reports profit."
+      "Borrowing in foreign currencies",
+      "Some of Airtel’s loans are in foreign currencies at interest rates that move. The annual report says this exposes its earnings and cash to market swings."
     ],
     [
-      "Connections or systems fail",
-      "Outages, security problems and breaches of licence conditions can interrupt service and damage trust."
+      "Customer data is leaked",
+      "Airtel holds personal details of hundreds of millions of people. India’s Digital Personal Data Protection Act of 2023 sets rules on how that data may be used. The annual report says keeping control of so much data is challenging."
     ],
     [
-      "Overseas conditions change",
-      "Currency movements, inflation and local rules can change costs and reported results."
+      "Only selling the pipe",
+      "If Airtel only carries data while other companies sell the apps and cloud services on top, the annual report says customers may pay less per head and margins may shrink."
+    ],
+    [
+      "Mistakes in handling money",
+      "Airtel processes a very large number of payments, including mobile money. The annual report says weak internal checks could lead to losses, fraud or penalties."
     ]
   ],
   "context": [
-    "One postpaid bill can pay for several services",
-    "Airtel’s 7 October 2026 release describes new postpaid plans, where the customer pays a monthly bill rather than recharging in advance. They combine unlimited calls and data, spam and fraud protection, subscriptions to other companies’ entertainment and storage apps and, from 8 October 2026, one free international-roaming pack per SIM each year. Roaming means using the phone on networks abroad. One bill therefore covers Airtel’s own network service as well as items supplied by other companies or used abroad. The release does not say what Airtel pays for those items, so the plan price is not all Airtel’s to keep. Keeping a household longer helps only if the payments cover these costs."
+    "A record number of new monthly-bill customers",
+    "Airtel’s 5 November 2026 results release for July–September 2026 reports its largest-ever quarterly rise in postpaid customers, who pay a monthly bill instead of recharging in advance. It links this to its plan of selling richer, pricier plans, which during the quarter added Apple’s iCloud+ storage and entertainment to postpaid bundles. The average amount each Indian mobile customer paid also rose from a year earlier. The release says Airtel bought land for data centres during the quarter, as a step towards its ambition of 1 gigawatt (GW, a measure of electrical capacity) of data-centre capacity. That is an ambition, not capacity already built. It also says its new financial-services business has launched commercially."
   ],
   "sources": [
     [
@@ -128,12 +132,20 @@
       "https://www.airtel.in/about-bharti/equity/results/annual-results"
     ],
     [
+      "Integrated Report and Annual Financial Statements 2025–26 (key risks, SCOT analysis, management discussion)",
+      "https://assets.airtel.in/static-assets/cms/investor/docs/annual_results_2025_26/Airtel---Annual-Report-2026.pdf"
+    ],
+    [
       "Indus Towers: tower, power and space services",
       "https://www.industowers.com/offerings/"
     ],
     [
       "New postpaid plans with bundled subscriptions and roaming · 7 October 2026",
       "https://www.airtel.in/press-release/10-2026/airtel-offers-free-international-roaming-on-all-postpaid-plans/"
+    ],
+    [
+      "Media release on results for July–September 2026 · 5 November 2026",
+      "https://assets.airtel.in/static-assets/cms/investor/docs/quarterly_results/2026-27/Q2/Press-Release.pdf"
     ]
   ],
   "financialNotes": [
@@ -142,7 +154,7 @@
       "text": "The table preserves the audited segment definitions and separates segment sums from consolidated revenue after internal-sales eliminations. The reported earnings measure comes before financing, exceptional items and tax. Do not combine India customer-spending averages, Africa revenue and a group EBITDA margin into an invented profit calculation."
     }
   ],
-  "checked": "31 October 2026",
+  "checked": "12 November 2026",
   "stepsTitle": "From a tower to a working connection.",
   "quick": [
     {
@@ -165,33 +177,33 @@
   "helps": [
     {
       "title": "Many customers share one network",
-      "text": "Once towers and cables are built, each extra paying customer adds income without needing a whole new network."
+      "text": "Once towers and cables are built, each extra paying customer adds income without needing a whole new network. The annual report says revenue grew with more customers and more data use, while costs were held down."
     },
     {
-      "title": "Plan prices matter a lot",
-      "text": "Average revenue per user (ARPU) is the average a customer pays. When plan prices rise or customers choose bigger plans, it can rise across millions of customers."
+      "title": "Room to charge more",
+      "text": "Indian mobile users pay some of the lowest prices in the world while using some of the most data. The annual report says price rises across the industry are needed to pay for networks, and few Indians yet use monthly-bill (postpaid) plans."
     },
     {
       "title": "Several businesses, not one",
-      "text": "India mobile, home internet, business connections, Africa, mobile money and towers earn in different ways, so the group does not depend on phone plans alone."
+      "text": "India mobile, home internet, business connections, Africa, mobile money and towers earn in different ways. The annual report says this spread across products and countries lowers Airtel’s dependence on any one of them."
     }
   ],
   "hurts": [
     {
-      "title": "Customers switch or prices are pushed down",
-      "text": "Competing plans can make it harder to keep customers without discounts or extra spending."
+      "title": "Rivals fight for the best customers",
+      "text": "Every operator wants the customers who pay most. The annual report says competition is growing in 5G and home broadband, so Airtel must keep spending on its network and offers to keep them."
     },
     {
-      "title": "The network keeps needing cash",
-      "text": "Spectrum, equipment upgrades and leased sites need payments even while the business reports a profit."
+      "title": "Costs can rise before income",
+      "text": "New sites, wages, energy and currency changes push costs up. The annual report warns this can come before the matching revenue, squeezing cash and adding debt."
     },
     {
-      "title": "Outages and security problems",
-      "text": "Network failures, security breaches or breaking licence conditions can interrupt service and damage trust."
+      "title": "Networks can fail",
+      "text": "Equipment faults, cut fibre cables, power shortages and natural disasters can take service down."
     },
     {
-      "title": "Overseas conditions change",
-      "text": "Changes in African currencies, inflation and local rules can change costs and the rupee value of results."
+      "title": "Rules and politics change",
+      "text": "Governments set spectrum prices, customer-checking rules and penalties. The annual report adds that some countries Airtel works in face political instability."
     }
   ]
 }

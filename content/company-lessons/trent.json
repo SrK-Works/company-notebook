@@ -115,23 +115,23 @@
   "risks": [
     [
       "Shoppers cut back",
-      "Clothes and cosmetics are easy to put off buying. Trent said in early 2026 that consumers were spending with caution."
+      "A rise in the cost of living or uncertain times can make people buy fewer clothes. In early 2026 Trent linked shoppers’ caution to uncertainty, disruption in the Middle East and a possible rise in the cost of living."
     ],
     [
       "Costs of goods rise",
-      "Trent says inflation across its costs remains elevated. Because it keeps its prices steady, higher costs reduce what it earns on each item."
+      "Trent names geopolitical events, interest rates and supply disruption as causes of cost inflation, and some suppliers have had trouble finding workers. Because it tries to keep prices steady, higher costs can reduce what it earns on each item."
     ],
     [
-      "Heavy competition",
-      "Trent says competition in Indian fashion retail has been high for several years. Rivals with lower prices or more stores can take shoppers."
+      "Rivals of very different sizes",
+      "Trent says competitors differ widely in size, store numbers and sales channels. A rival with lower prices or more stores in a town can take shoppers."
     ],
     [
-      "New stores mature slowly",
-      "Many new stores are in smaller cities that Trent says take longer to mature, so they may earn less for some years while still paying rent and staff."
+      "New stores are not like old ones",
+      "Stores in new towns sell less at first, so total sales can grow more slowly than the store count. Trent also says newer stores add depreciation (the cost of fit-out spread over its life) faster than revenue."
     ],
     [
       "Grocery is a tough business",
-      "Trent describes Star’s competitive landscape as evolving. Star needs investment in new stores before it earns a steady profit."
+      "Trent describes Star’s competition as “evolving” and plans to keep spending on new Star stores to build scale. Money goes into those stores before they bring in sales."
     ]
   ],
   "context": [
@@ -140,15 +140,15 @@
   ],
   "sources": [
     [
-      "Press release on results for July to September 2026 · 29 October 2026",
+      "Press release on results for July to September 2026, as filed with NSE and BSE · 29 October 2026",
       "https://docs.trent-tata.com/Press_Release_Q2_FY27.pdf"
     ],
     [
-      "Investor presentation for July to September 2026",
+      "Investor presentation for July to September 2026 (results context and store counts)",
       "https://docs.trent-tata.com/Investor_Presentation_Q2_FY27.pdf"
     ],
     [
-      "Investor presentation for January to March 2026 and the year 2025–26",
+      "Investor presentation for January to March 2026 and the year 2025–26 (market context, pricing, new markets)",
       "https://docs.trent-tata.com/Investor_Presentation_Q4_FY26.pdf"
     ],
     [
@@ -192,34 +192,34 @@
   "helps": [
     {
       "title": "Own brands sold directly",
-      "text": "Trent designs its products and sells them directly to shoppers. It says this lets it set its own value for money and stand apart from rivals, instead of selling the same brands as every other shop."
+      "text": "Trent designs its products and sells them in its own stores and online, instead of selling the same brands as every other shop. It says this lets it decide what value for money it offers and stand apart from rivals."
     },
     {
       "title": "Clusters of stores in the same area",
-      "text": "Trent adds stores close to each other in chosen areas. It says greater density, together with better stores, is lifting sales and profit for each cluster."
+      "text": "Trent opens new stores close to its existing ones in chosen areas. It says this greater density, together with better stores, is lifting sales and profit for each cluster of stores."
     },
     {
       "title": "Prices shoppers can rely on",
-      "text": "Trent keeps its prices broadly stable across categories and seasons. It says a steady price structure and steady margins build trust in its brands over time."
+      "text": "Trent says its prices stay broadly stable across categories and are not cut or raised to manage short-term demand. It believes steady prices and steady margins build trust in its brands over time."
     }
   ],
   "hurts": [
     {
-      "title": "Clothes are easy to put off buying",
-      "text": "Clothes and cosmetics are purchases people can put off when money is tight. Trent said in early 2026 that shoppers were cutting back on such spending."
+      "title": "Clothes are easy to put off",
+      "text": "People can delay buying clothes and cosmetics when money is tight. In its January–March 2026 update Trent said shoppers were spending with caution."
     },
     {
-      "title": "Rising costs with steady prices",
-      "text": "Because Trent keeps its prices steady, higher costs for fabric, suppliers and transport come out of what it earns on each item until savings are found elsewhere."
+      "title": "Costs keep rising",
+      "text": "Fabric, suppliers’ labour, transport and store costs can rise faster than sales. Trent says inflation across its costs remains elevated."
     },
     {
-      "title": "Heavy competition",
-      "text": "Trent says competition in Indian fashion retail has been high for several years. Rivals with lower prices or more stores can take shoppers."
+      "title": "Many rivals",
+      "text": "India’s clothing market is large and attracts many competitors. Trent says competition has been intense for several years."
     },
     {
       "title": "New towns take years to pay back",
-      "text": "Many new stores are in smaller cities that Trent says take two to three years to mature. Meanwhile they still pay rent, staff and fit-out costs."
+      "text": "Many new stores are in smaller cities. Trent says new markets take two to three years to become relevant, while the stores pay rent and staff from day one."
     }
   ],
-  "checked": "11 November 2026"
+  "checked": "12 November 2026"
 }

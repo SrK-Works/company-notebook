@@ -97,25 +97,25 @@
   ],
   "risks": [
     [
-      "Fuel or equipment is unavailable",
-      "Fuel shortages, breakdowns and weather conditions can reduce output or raise costs."
+      "Electricity buyers short of money",
+      "NTPC’s main customers are electricity distribution companies, and the annual report names their finances as a strategic risk. Under 2022 rules, some buyers’ overdue bills were rescheduled over up to 48 months."
     ],
     [
-      "Allowed charges disappoint",
-      "Pricing decisions, operating standards or disputed bills can prevent expected cost recovery."
+      "Too much daytime solar",
+      "For NTPC’s own solar farms, the annual report warns that excess daytime supply can push market prices down. Shortages of transmission lines can also stop new plants from selling all they produce."
     ],
     [
-      "Customers pay late",
-      "Money can remain tied up in electricity buyers while NTPC’s own bills are due."
+      "Contractors fall behind",
+      "New projects depend on outside builders. In September 2026 NTPC cancelled a battery-storage contract at its Mouda station because the contractor was too far behind, and had to tender the work again."
     ],
     [
-      "New projects take longer or cost more",
-      "Construction delays, price increases and unfamiliar technology can reduce what the investment earns."
+      "Interest, currency and fuel costs move",
+      "NTPC borrows heavily to build plants, some of it in foreign currency. The annual report lists interest rates, exchange rates and fuel costs among its financial risks."
     ]
   ],
   "context": [
-    "One Patratu unit moved from testing to regular service in 2026",
-    "Patratu Vidyut Utpadan Nigam Limited (PVUNL) is an NTPC subsidiary, meaning a company NTPC controls. On 18 May 2026 NTPC told the stock exchanges that PVUNL’s Unit 2 at Patratu, able to produce 800 megawatts (MW, a measure of how much power it can supply at one moment), had finished its trial run, a test period of running under approved standards, so it was added to the group’s installed capacity. A later disclosure dated 23 June 2026 said the same unit was declared in commercial operation from 25 June 2026, meaning it moved from testing into regular commercial service, the stage from which a unit normally operates and bills under its sales agreement. NTPC therefore reports installed capacity and commercial capacity as two separate totals. Neither disclosure says how much electricity the unit has sold or what it has earned."
+    "More electricity generated, higher profit in July–September 2026",
+    "NTPC’s 31 October 2026 results release says profit rose mainly because it generated more electricity and ran its plants more efficiently. Between April and September 2026, its coal stations ran at about three-quarters of their full possible output. That measure is the plant load factor (PLF): electricity actually produced compared with running flat out all the time. The rest of India’s coal plants averaged a lower PLF. Its subsidiaries, the companies NTPC controls, also earned much more than a year earlier. One half-year does not settle the longer question in the annual report: whether growing solar power keeps reducing how much coal plants run."
   ],
   "sources": [
     [
@@ -129,6 +129,18 @@
     [
       "Annual-report library",
       "https://ntpc.co.in/investors/financial-performance/annual-reports"
+    ],
+    [
+      "Integrated annual report 2025–26: risk management, SWOT analysis and tariff note",
+      "https://ntpc.co.in/sites/default/files/annual-report/complete-reports/Annual%20Report%202025-26%20%283%29.pdf"
+    ],
+    [
+      "Results for July–September 2026 · 31 October 2026",
+      "https://ntpc.co.in/media/press-releases/ntpc-announces-robust-financial-performance-h1-fy27"
+    ],
+    [
+      "Mouda battery-storage contract terminated · 19 September 2026",
+      "https://ntpc.co.in/media/press-releases/ntpc-terminates-mouda-400-mwh-bess-contract-due-contractor-default"
     ],
     [
       "Patratu Unit 2 trial-run completion · 18 May 2026",
@@ -145,7 +157,7 @@
       "text": "Read the audited generation and other-business definitions, together with the internal-sales and other-income reconciliation. Capacity and power generation are operating measures, not revenue or profit. The reported segment result does not establish an individual plant’s net return or cash distribution."
     }
   ],
-  "checked": "31 October 2026",
+  "checked": "12 November 2026",
   "stepsTitle": "From a power station to a paid bill.",
   "quick": [
     {
@@ -167,34 +179,34 @@
   ],
   "helps": [
     {
-      "title": "Charges for being ready",
-      "text": "Under some agreements, buyers pay to keep a plant ready to generate, not only for the electricity actually supplied."
+      "title": "Paid for being ready, plus fuel",
+      "text": "For most of NTPC’s stations, the regulator sets a two-part charge. A fixed part, paid for keeping the plant ready, covers its loans, upkeep and a return on the owners’ money. A second part, paid per unit of electricity, mainly covers fuel."
     },
     {
-      "title": "Contracted buyers",
-      "text": "Its electricity goes to buyers under agreements and pricing rules that set what they pay."
+      "title": "Bills that get paid",
+      "text": "The annual report says NTPC collected all it billed in FY 2025–26 and that its sales are backed by secured payment arrangements under three-party agreements."
     },
     {
-      "title": "Trading and consultancy too",
-      "text": "NTPC also earns from electricity trading and consultancy, which have their own customers."
+      "title": "More electricity needed",
+      "text": "The annual report expects India’s demand for electricity to grow by about 6 to 6.5 per cent a year, driven by wider use of electricity, electric vehicles and data centres. NTPC plans to add coal, renewable and nuclear capacity to meet it."
     }
   ],
   "hurts": [
     {
-      "title": "Fuel or equipment problems",
-      "text": "Fuel shortages, breakdowns and weather can reduce output or raise costs."
+      "title": "Solar pushes coal plants aside",
+      "text": "When the sun shines, cheap solar power fills much of the demand, so coal plants are asked to run less. The annual report says this cut how much its coal plants ran in FY 2025–26."
     },
     {
-      "title": "Allowed charges disappoint",
-      "text": "Pricing decisions, operating standards or disputed bills can stop it recovering expected costs. A fuel-cost rise is not always repaid straight away."
+      "title": "Fuel shortages and breakdowns",
+      "text": "A plant without enough coal or gas, or with broken equipment, produces less. Some of NTPC’s gas plants already sit underused because gas is scarce or costly."
     },
     {
-      "title": "Customers pay late",
-      "text": "Money can stay tied up with electricity buyers while NTPC’s own bills fall due."
+      "title": "Batteries compete with new coal",
+      "text": "Solar farms with large batteries are getting cheaper and can supply power after sunset, competing with new coal plants for that job."
     },
     {
-      "title": "New projects take longer or cost more",
-      "text": "Construction delays, price rises and unfamiliar technology can reduce what an investment earns."
+      "title": "Heavily regulated",
+      "text": "Laws, pricing rules and approvals for power stations can change, and a regulator decides which costs NTPC may recover."
     }
   ]
 }
