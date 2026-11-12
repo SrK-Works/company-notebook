@@ -1,5 +1,5 @@
 {
-  "summary": "Axis Bank keeps money for people and companies in savings, current and fixed-deposit accounts and lends it out as home, car, gold, personal and business loans. It also issues cards, handles UPI payments and owns companies that run mutual funds and broking.",
+  "summary": "Axis Bank keeps people’s and companies’ money in accounts and deposits and lends it out as home, car, gold, personal and business loans. It also issues cards, handles UPI phone payments (India’s instant bank transfers) and owns fund and broking firms.",
   "description": "A bank takes in money that people and businesses deposit, keeps it safe, lets them pay and withdraw it, and lends much of it to borrowers who pay interest. Axis does this through 6,278 branches in India, 12,796 cash machines and its phone app. It began in 1994 as UTI Bank and was renamed Axis Bank in 2008. In the year to March 2023 it bought Citibank’s consumer banking business in India. Around the bank sit companies it controls: Axis Finance lends, Axis Asset Management runs mutual funds, Axis Securities buys and sells shares for clients and Axis Capital advises companies raising money.",
   "money": "Most income is interest. Borrowers pay interest on loans, and the bank earns interest on government bonds it holds. From this it pays interest to depositors; what is left, net interest income, was about two-thirds of its operating revenue in 2025–26. Fees for cards, payments, selling investments and services to companies bring in most of the rest. It spends on staff, branches and technology, and sets money aside for loans that may not be repaid. A deposit is money the bank owes back, so it is not income, and income is not profit.",
   "customers": "Savers and borrowers are both customers. Individuals keep salaries and savings in accounts and fixed deposits, and the bank pays them interest. Home buyers, car buyers, people pledging gold, card users and small businesses borrow and pay interest; loans to individuals were 55% of all its loans in March 2026, with home loans the biggest part. Large and mid-sized companies borrow and pay fees for payments and trade services. Shops take card payments on its machines.",
@@ -7,7 +7,7 @@
   "groups": [
     {
       "title": "Accounts and deposits",
-      "examples": "A salary savings account run on the open by Axis Bank app, a shop’s current account or a fixed deposit.",
+      "examples": "A salary savings account used through the bank’s ‘open’ mobile app, a shop’s current account or a fixed deposit.",
       "explanation": "Places to keep money. Savings and current accounts pay little or no interest, so they are the bank’s cheapest money. A fixed deposit locks money away for a set time in return for a higher interest rate."
     },
     {
@@ -73,16 +73,12 @@
   ],
   "specifics": [
     {
-      "title": "A big payments business",
-      "text": "Axis is one of the largest card issuers in India and the largest bank for sending UPI payments from customers’ phones. Its annual report says UPI drives frequent customer interactions, which keeps customers using Axis for everyday banking."
+      "title": "Lending to companies as well as people",
+      "text": "In March 2026 loans to individuals were 55% of its loans, loans to companies 33% and loans to small and medium firms 12%. Company loans grew fastest in 2025–26, so a problem at a large borrower matters more than before."
     },
     {
-      "title": "Most loans follow the RBI rate",
-      "text": "About three-quarters of its loans are floating-rate, tied to benchmarks such as the repo rate. Loan income adjusts within months of an RBI change, while fixed-deposit costs adjust only as deposits come up for renewal."
-    },
-    {
-      "title": "A push into smaller towns",
-      "text": "Axis says almost half of its branch network now serves rural and semi-urban areas, which its report calls RuSu markets. Its strategy calls this Bharat Banking: lending to farmers and small borrowers and gathering many small deposits."
+      "title": "A separate service for wealthier customers",
+      "text": "Under the Burgundy and Burgundy Private names, Axis offers investment advice and family-office services, help with managing a family’s wealth, to well-off customers. These customers bring large deposits and fees."
     },
     {
       "title": "Citibank customers added",
@@ -118,20 +114,16 @@
   ],
   "risks": [
     [
-      "Borrowers stop repaying",
-      "The bank records provisions, which cut profit directly. Axis’s annual report says bad loans added in 2025–26 rose, and that it took a watchful stance on unsecured lending for part of the year."
+      "Trouble at a large borrower",
+      "Axis says its credit-risk work aims to control concentration, the danger of lending too much to one borrower or sector. One large company failing to repay would need a big provision at once."
     ],
     [
-      "Interest rate cuts shrink the margin",
-      "Axis says its net interest margin fell in 2025–26 mainly because floating-rate loans were repriced after the RBI cut the repo rate."
+      "Bond and currency markets move against it",
+      "Axis holds government and company bonds and foreign-exchange contracts. In 2025–26 it recorded a loss on revaluing investments because markets were unsettled at the year end by geopolitical conflicts."
     ],
     [
-      "Loans growing faster than deposits",
-      "Its loans equalled about 92% of deposits in March 2026, up from about 89% a year earlier. A bank in this position may have to pay more to attract deposits."
-    ],
-    [
-      "Regulatory findings",
-      "After the RBI’s yearly inspection, Axis made an extra one-time provision in 2025–26 for some loans it had counted as priority-sector lending, the lending to farms and small firms that banks must do. It says customers’ loan terms were unchanged."
+      "A slower economy",
+      "Its annual report warns that growth in India might slow notably if global conditions stay difficult. Fewer people and firms would borrow, and more would struggle to repay."
     ],
     [
       "Cyber attacks and system failures",
@@ -198,7 +190,7 @@
     },
     {
       "title": "Rate cuts squeeze the margin for a while",
-      "text": "When the RBI cuts rates, most Axis loans reprice quickly, while fixed deposits keep their old rate until they end. Axis says this pressed its margin in 2025–26."
+      "text": "Most Axis loans are floating-rate, so their rates fall soon after an RBI cut, while fixed deposits keep their old rate until they end. Axis says this pressed its margin in 2025–26."
     },
     {
       "title": "Competing for deposits",

@@ -18,7 +18,7 @@
     {
       "title": "Packaging, wire and engineering steel",
       "examples": "Tinplate for cans and drums, Tata Wiron wire, plates and pipes for machines, ships and energy projects.",
-      "explanation": "Other factories buy this steel and turn it into their own products. Tata Steel’s downstream units cut, coat and shape steel closer to what the customer needs."
+      "explanation": "Other factories buy this steel and turn it into their own products. Its downstream units, businesses that work on steel after it is made, cut, coat and shape it closer to what the customer needs."
     },
     {
       "title": "Mining and raw materials",
@@ -52,7 +52,7 @@
     },
     {
       "title": "Iron and steel are made",
-      "text": "Coal is baked into coke, ore is melted in blast furnaces, and the iron is turned into steel and cast into slabs or billets."
+      "text": "Coal is baked into coke, ore is melted in blast furnaces, and the iron is turned into steel and cast into slabs (thick flat blocks) or billets (long square bars)."
     },
     {
       "title": "Steel is rolled and finished",
@@ -69,20 +69,20 @@
   ],
   "specifics": [
     {
-      "title": "Its own iron ore",
-      "text": "Tata Steel says its captive mines supply all the iron ore its Indian plants need, and its own collieries about a quarter of their coal. Owning ore protects it when bought ore becomes expensive."
-    },
-    {
       "title": "Brands sold to households",
       "text": "Unlike most steelmakers, it sells branded products such as Tata Tiscon bars to individual home builders through dealers and its Aashiyana online store, not only bulk steel to factories."
     },
     {
-      "title": "Europe is a separate story",
-      "text": "Its Dutch and UK plants face strict carbon rules and, in the UK, a switch from blast furnaces to an electric furnace. Their results can move very differently from India’s."
+      "title": "Melting scrap in electric furnaces",
+      "text": "Its Ludhiana plant, opened in March 2026, makes Tata Tiscon bars entirely from scrap steel in an electric arc furnace, with far lower carbon emissions than a blast furnace."
     },
     {
       "title": "Still growing in India",
       "text": "It is expanding capacity at Neelachal Ispat Nigam in Odisha and adding downstream lines such as tinplate, which its July–September 2026 press release lists as major projects."
+    },
+    {
+      "title": "By-products are sold too",
+      "text": "Steelmaking leaves by-products that Tata Steel sells, which its integrated report counts as a separate source of revenue."
     }
   ],
   "watch": [
@@ -114,24 +114,20 @@
   ],
   "risks": [
     [
-      "Steel prices fall",
-      "Its risk section says weak Chinese demand led to high Chinese exports and price pressure; lower prices cut revenue while costs stay."
-    ],
-    [
-      "Coal and freight costs jump",
-      "Coal supply is concentrated in a few countries such as Australia and South Africa, and wars or weather can raise prices and disrupt shipping routes."
-    ],
-    [
-      "Climate rules in Europe",
-      "The European Union (EU) charge on the carbon in imported goods (CBAM, Carbon Border Adjustment Mechanism) and strict emission rules raise costs, and Tata Steel Netherlands must meet strict environmental requirements."
-    ],
-    [
-      "The UK change-over",
-      "Tata Steel UK faces operational risk while it moves away from blast furnaces to an electric furnace."
+      "Mining leases end",
+      "Its mining leases in Jharkhand and Odisha approach expiry by 2030 and must then be won again at auction. It aims to keep at least half its iron ore from its own mines."
     ],
     [
       "Plant breakdowns and safety",
       "Ageing equipment, breakdowns and interrupted power, water or gas can stop production, and steelmaking carries serious safety hazards."
+    ],
+    [
+      "Unhappy neighbouring communities",
+      "The report says failing to meet the expectations of communities near its plants and mines could cost it its social licence to operate and bring penalties."
+    ],
+    [
+      "Cyber attacks",
+      "More use of AI and automation raises the risk of cyber attacks and data problems that could disrupt operations."
     ]
   ],
   "context": [
@@ -184,7 +180,7 @@
     },
     {
       "title": "Products that earn more per tonne",
-      "text": "It concentrates on value-added products, downstream processing and car steel, which its risk section names as ways to protect margins."
+      "text": "It concentrates on value-added products, downstream processing (cutting, coating and shaping steel closer to what customers need) and car steel, which its risk section names as ways to protect margins."
     }
   ],
   "hurts": [

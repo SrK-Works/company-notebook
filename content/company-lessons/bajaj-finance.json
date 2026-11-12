@@ -1,6 +1,6 @@
 {
   "summary": "Bajaj Finance lends money but is not a bank. It pays for phones and TVs in shops in monthly instalments, and makes personal, gold, vehicle and business loans, funded by borrowing from banks and bond buyers and by fixed deposits.",
-  "description": "Bajaj Finance is a non-banking financial company (NBFC): a company the Reserve Bank of India (RBI) registers to lend, but which cannot offer savings or current accounts or issue cheques. It started in 1987 as Bajaj Auto Finance, lending for two- and three-wheelers. Today a shopper buying a phone, TV or fridge can pay in monthly instalments with its loan or its Insta EMI Card, and other customers borrow for personal needs, gold, cars, homes or small businesses. It works from 4,098 locations, most in small towns and villages. Its parent is Bajaj Finserv, and it owns most of Bajaj Housing Finance, which makes home loans.",
+  "description": "Bajaj Finance is a non-banking financial company (NBFC): a company the Reserve Bank of India (RBI) registers to lend, but which cannot offer savings or current accounts or issue cheques. It started in 1987 as Bajaj Auto Finance, lending for two- and three-wheelers. Today a shopper buying a phone, TV or fridge can pay in fixed monthly instalments, known as EMI (equated monthly instalment), with its loan or its Insta EMI Card, and other customers borrow for personal needs, gold, cars, homes or small businesses. It works from 4,098 locations, most in small towns and villages. Its parent is Bajaj Finserv, and it owns most of Bajaj Housing Finance, which makes home loans.",
   "money": "Most income is interest. Borrowers pay interest on their loans; Bajaj Finance in turn pays interest on the money it borrows from banks, bond buyers and depositors. What is left is net interest income. It also earns fees and commissions, for example for selling insurance with its loans. It spends on staff, branches and technology, and on loan losses, the part of loans it does not expect to get back. Money borrowed or repaid is not income, and income is not profit.",
   "customers": "Borrowers pay. Shoppers pay interest or fees on loans for phones, appliances and two-wheelers; salaried people and small-business owners pay interest on personal and business loans; families pledge gold or property. Women in low-income rural households take small group loans. Fixed-deposit holders lend it money and receive interest. It counted 119 million customers in March 2026.",
   "drivers": "How many borrowers repay on time, how cheaply it can borrow compared with what it charges, and how many new loans it can sell to the customers it already has.",
@@ -34,7 +34,7 @@
   "basics": [
     {
       "title": "What is a non-bank lender?",
-      "text": "An NBFC (non-banking financial company) lends like a bank but is not one. The RBI says NBFCs cannot take deposits that can be withdrawn on demand, such as savings accounts, cannot issue cheques, and their fixed-deposit holders do not get the government-backed deposit insurance that bank depositors get."
+      "text": "An NBFC (non-banking financial company) lends like a bank but is not one. The RBI says NBFCs cannot take deposits that can be withdrawn on demand, such as savings accounts, cannot issue cheques, and their fixed-deposit holders do not get deposit insurance from the RBI-owned insurer, the Deposit Insurance and Credit Guarantee Corporation (DICGC), that bank depositors get."
     },
     {
       "title": "Where does the money it lends come from?",
@@ -73,20 +73,16 @@
   ],
   "specifics": [
     {
-      "title": "Millions of small loans at shop counters",
-      "text": "Its consumer lending is offered at about 222,500 shop points. Its annual report says the model is built on winning millions of customers and then offering them more loans and services."
-    },
-    {
-      "title": "A large, active customer base",
-      "text": "It booked over 52 million new loans in 2025–26. Knowing how customers repaid earlier loans helps it decide whom to offer the next one, such as a pre-approved personal loan."
-    },
-    {
-      "title": "Closely watched as an upper-layer NBFC",
-      "text": "The RBI places Bajaj Finance and Bajaj Housing Finance in its upper layer of NBFCs, the largest ones, which face stricter rules than smaller lenders."
-    },
-    {
       "title": "Moving away from Bajaj Auto bikes",
       "text": "It began by financing Bajaj Auto vehicles. Its annual report describes winding down these captive two- and three-wheeler loans while lending for bikes of other makers."
+    },
+    {
+      "title": "Part of a larger group",
+      "text": "Its parent is Bajaj Finserv, a separate listed company. Bajaj Finance in turn owns most of Bajaj Housing Finance, which is listed too and makes home loans, so consolidated results include it."
+    },
+    {
+      "title": "Selling loans with AI",
+      "text": "It uses AI voice calls to find borrowers: its annual report says leads from AI voice calls produced about 8% of personal loans paid out to existing customers in 2025–26."
     }
   ],
   "watch": [
@@ -118,24 +114,20 @@
   ],
   "risks": [
     [
-      "Borrowers stop repaying",
-      "Its annual report says it saw early stress in small-business loans in 2025–26, cut back new loans there, and stopped lending to customers who already had several unsecured loans."
-    ],
-    [
-      "Higher cost of borrowing",
-      "Bajaj Finance borrows the money it lends. Changes in interest rates and market conditions change what it pays, which can squeeze its margin if loan rates cannot rise as fast."
-    ],
-    [
-      "Economic slowdown",
-      "The annual report says slowdowns or inflation may weaken borrowers’ ability to repay and compress margins."
-    ],
-    [
-      "Stricter rules for large NBFCs",
-      "As an upper-layer NBFC it faces an enhanced regulatory framework, and new RBI rules on lending can change how it runs its business."
-    ],
-    [
       "Gold price falls",
       "Gold loans depend on the value of pledged jewellery. It says it lends on average about 61% of the gold’s value to protect against short-term price drops."
+    ],
+    [
+      "Fraud",
+      "Its risk team works to stop fraud by customers, by the shops and agents who bring in loans, and by employees. Fraud can leave it with loans that will never be repaid."
+    ],
+    [
+      "Mistakes by AI systems",
+      "The annual report says poor data, biased models or privacy failures in its AI tools could harm customers and break rules."
+    ],
+    [
+      "Weather and climate",
+      "Floods, droughts and other climate events can damage borrowers’ incomes and the value of what they pledged, especially in rural areas."
     ]
   ],
   "context": [
@@ -184,7 +176,7 @@
   "helps": [
     {
       "title": "A huge base of repeat customers",
-      "text": "The annual report describes a model of winning millions of customers and selling them several loans and services over time."
+      "text": "Its loans are offered at about 222,500 shop points, and the annual report describes a model of winning millions of customers there and selling them several loans and services over time."
     },
     {
       "title": "Spread across many kinds of loans",

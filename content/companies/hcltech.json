@@ -68,7 +68,23 @@
       "image": "assets/products/hcltech-engineering.webp",
       "url": "https://www.hcltech.com/engineering",
       "kind": "photo",
-      "alt": "A woman wearing a virtual-reality headset beside a small robot arm on a desk — image from HCLTech’s engineering services page"
+      "alt": "A woman wearing a virtual-reality headset reaching towards a small tracked robot on a desk — image from HCLTech’s engineering services page"
+    },
+    {
+      "name": "Digital workplace",
+      "category": "Looking after the laptops, apps and help desk a client’s staff use",
+      "image": "assets/products/hcltech-digital-workplace.webp",
+      "url": "https://www.hcltech.com/digital-workplace",
+      "kind": "photo",
+      "alt": "A smiling man at a laptop while a colleague leans over the desk and points at the screen — image from HCLTech’s digital workplace page"
+    },
+    {
+      "name": "Business process operations",
+      "category": "Running customer calls, billing and other back-office work",
+      "image": "assets/products/hcltech-business-process.webp",
+      "url": "https://www.hcltech.com/business-operations",
+      "kind": "photo",
+      "alt": "Staff wearing headsets working at computers in an office — image from HCLTech’s business operations page"
     },
     {
       "name": "Software for vehicles",
@@ -77,22 +93,6 @@
       "url": "https://www.hcltech.com/engineering",
       "kind": "illustration",
       "alt": "A computer-made picture of a car on a glowing road at dusk — rendered image from HCLTech’s engineering services page; not a photograph of real work"
-    },
-    {
-      "name": "Business software projects",
-      "category": "Building and updating the programs clients run on",
-      "image": "assets/products/hcltech-applications.webp",
-      "url": "https://www.hcltech.com/digital-workplace",
-      "kind": "photo",
-      "alt": "A man in a suit and a woman looking at a laptop together in a bright room — banner image from HCLTech’s digital workplace page"
-    },
-    {
-      "name": "Digital workplace",
-      "category": "Looking after the laptops, apps and help desk a client’s staff use",
-      "image": "assets/products/hcltech-digital-workplace.webp",
-      "url": "https://www.hcltech.com/digital-workplace",
-      "kind": "photo",
-      "alt": "Colleagues smiling around a table with a laptop and papers — image from HCLTech’s digital workplace page"
     },
     {
       "name": "Cloud and data centres",
@@ -109,14 +109,6 @@
       "url": "https://www.hcltech.com/cybersecurity",
       "kind": "illustration",
       "alt": "The dark outline of a person using a phone against a blue patterned background — designed image from HCLTech’s cybersecurity page"
-    },
-    {
-      "name": "Business process operations",
-      "category": "Running customer calls, billing and other back-office work",
-      "image": "assets/products/hcltech-business-process.webp",
-      "url": "https://www.hcltech.com/business-operations",
-      "kind": "photo",
-      "alt": "Staff wearing headsets working at computers in an office — image from HCLTech’s business operations page"
     },
     {
       "name": "HCLSoftware",

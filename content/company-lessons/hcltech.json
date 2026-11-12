@@ -70,15 +70,15 @@
   "specifics": [
     {
       "title": "Engineering for product makers",
-      "text": "Its ERS segment designs chips, devices and embedded software for manufacturers, a kind of work its annual report calls chip to cloud. This ties part of its income to product-development budgets, not only office IT."
+      "text": "Its ERS segment designs chips, devices and embedded software, the programs built into a product such as a car’s brake controls or a medical device, for manufacturers. Its annual report calls this chip-to-cloud work."
     },
     {
       "title": "Owning software, not just selling staff time",
       "text": "Through HCLSoftware it owns products that it licenses. This revenue does not need a matching rise in headcount, unlike services."
     },
     {
-      "title": "AI changes the work",
-      "text": "The annual report sorts its services into AI-disrupted, AI-accelerated and AI-native. AI can shrink routine tasks that once needed many people, while creating new projects to build and run AI systems."
+      "title": "Building AI systems is now its own line",
+      "text": "Since 2025–26 HCLTech reports revenue from advanced AI work separately: building and running AI systems, AI-ready computing centres and AI software for clients."
     }
   ],
   "watch": [
@@ -110,14 +110,6 @@
   ],
   "risks": [
     [
-      "Tough competition",
-      "The annual report says HCLTech competes with other IT firms, consulting firms and clients’ own global capability centres, which could cost it clients and work."
-    ],
-    [
-      "Talent shortages and wage rises",
-      "It says shortages and wage inflation, especially in AI, cybersecurity and cloud, challenge delivery and margins, and visa limits could make it harder to send staff abroad."
-    ],
-    [
       "Currency swings",
       "It earns most revenue from clients outside India while many costs are in other currencies, so exchange-rate changes can cause losses."
     ],
@@ -128,6 +120,10 @@
     [
       "Fixed-price projects running over",
       "On fixed-price contracts, extra time and cost fall on HCLTech, and its investor releases list such overruns among the risks."
+    ],
+    [
+      "Acquisitions that do not work out",
+      "HCLTech buys companies regularly. Its annual report says poor integration can mean the expected benefits never come and the price paid has to be written down."
     ]
   ],
   "context": [
@@ -171,8 +167,8 @@
   ],
   "helps": [
     {
-      "title": "Spread across services, engineering and software",
-      "text": "The annual report calls its mix of IT services, engineering services and software an all-weather portfolio. A slowdown in one kind of client spending can be offset by another."
+      "title": "Work spread across many countries",
+      "text": "HCLTech has staff in about sixty countries and says its distributed delivery model, with nearshore centres close to clients, keeps services running when one location is disrupted."
     },
     {
       "title": "Long relationships with big companies",

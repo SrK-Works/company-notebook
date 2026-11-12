@@ -82,6 +82,54 @@
   },
   "offerings": [
     {
+      "name": "Steelworks",
+      "category": "Large plants where iron is melted and made into steel",
+      "image": "assets/products/tata-steel-kalinganagar.webp",
+      "url": "https://www.tatatiscon.co.in/about-us/",
+      "kind": "photo",
+      "alt": "A steelworks lit up at night, with a tall chimney and a large round gas holder — image named Kalinganagar on the Tata Tiscon website’s about page"
+    },
+    {
+      "name": "Bars and wire rods",
+      "category": "Steel for building that leaves the mill in bundles and coils",
+      "image": "assets/products/tata-steel-bars.webp",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_29336_TATASTEEL_2025_2026_A_19703090_03062026194432.pdf#page=22",
+      "kind": "photo",
+      "alt": "A worker in a hard hat and orange vest checking bundles of steel bars and coils in a mill — photograph from Tata Steel’s 2025–26 integrated report"
+    },
+    {
+      "name": "Its own mines",
+      "category": "Iron ore and coal dug from mines it holds leases for",
+      "image": "assets/products/tata-steel-mine.webp",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_29336_TATASTEEL_2025_2026_A_19703090_03062026194432.pdf#page=56",
+      "kind": "photo",
+      "alt": "An open-pit mine with terraces of red earth and a processing plant behind it — photograph from Tata Steel’s 2025–26 integrated report"
+    },
+    {
+      "name": "Electric arc furnace, Ludhiana",
+      "category": "A newer plant that melts scrap steel with electricity",
+      "image": "assets/products/tata-steel-ludhiana.webp",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_29336_TATASTEEL_2025_2026_A_19703090_03062026194432.pdf#page=9",
+      "kind": "photo",
+      "alt": "A long green factory building surrounded by fields, seen from above — the EAF plant in Ludhiana, Punjab, from Tata Steel’s 2025–26 integrated report"
+    },
+    {
+      "name": "Blast furnaces",
+      "category": "Tall furnaces that melt iron ore with coke to make iron",
+      "image": "assets/products/tata-steel-blast-furnace.webp",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_29336_TATASTEEL_2025_2026_A_19703090_03062026194432.pdf#page=47",
+      "kind": "photo",
+      "alt": "A red blast furnace and its surrounding plant seen from the air — photograph from Tata Steel’s 2025–26 integrated report"
+    },
+    {
+      "name": "Engineers and plant staff",
+      "category": "People who run, check and repair the plants",
+      "image": "assets/products/tata-steel-engineers.webp",
+      "url": "https://www.tatasteel.com/corporate/our-organisation/company-profile/",
+      "kind": "photo",
+      "alt": "Three engineers in white hard hats, ear defenders and yellow Tata jackets looking up inside a plant — image from Tata Steel’s company profile page"
+    },
+    {
       "name": "Tata Tiscon rebars",
       "category": "Ribbed steel bars that hold concrete together in houses and bridges",
       "image": "assets/products/tata-steel-tiscon.webp",
@@ -90,60 +138,12 @@
       "alt": "A single ribbed steel bar with the Tiscon name rolled into it, on a plain background — product image from the Tata Tiscon website"
     },
     {
-      "name": "Steel sold through dealers",
-      "category": "Local shops that sell bars and sheets to home builders",
-      "image": "assets/products/tata-steel-dealer.webp",
-      "url": "https://www.tatatiscon.co.in/",
-      "kind": "photo",
-      "alt": "A man in white standing beside bundles of steel bars outside a busy roadside shop — image from the Tata Tiscon website"
-    },
-    {
-      "name": "Steel for cars",
-      "category": "Thin, strong sheet that car makers press into body panels",
-      "image": "assets/products/tata-steel-automotive.webp",
-      "url": "https://www.tatasteel.com/products-solutions/india/",
-      "kind": "photo",
-      "alt": "The rear of a dark blue car driving along a country road — automotive image from Tata Steel’s products page"
-    },
-    {
       "name": "Tinplate for packaging",
       "category": "Thin coated steel made into cans, drums and barrels",
       "image": "assets/products/tata-steel-tinplate.webp",
       "url": "https://www.tatasteel.com/products-solutions/india/",
       "kind": "pack",
       "alt": "Rows of shiny steel cans seen from above — consumer-goods image from Tata Steel’s products page"
-    },
-    {
-      "name": "Wire rods and coils",
-      "category": "Coiled steel that other factories draw into wire and fasteners",
-      "image": "assets/products/tata-steel-wire-coils.webp",
-      "url": "https://www.tatasteel.com/products-solutions/india/",
-      "kind": "photo",
-      "alt": "Two workers in safety vests and helmets beside stacks of large steel wire coils in a warehouse — image from Tata Steel’s products page"
-    },
-    {
-      "name": "Rolling mills",
-      "category": "Machines that squeeze hot steel slabs into sheet and coil",
-      "image": "assets/products/tata-steel-rolling-mill.webp",
-      "url": "https://www.tatasteel.com/products-solutions/india/",
-      "kind": "photo",
-      "alt": "A glowing red-hot steel slab moving out of a furnace in a large mill — engineering image from Tata Steel’s products page"
-    },
-    {
-      "name": "Blast furnaces",
-      "category": "Tall furnaces that melt iron ore with coke to make iron",
-      "image": "assets/products/tata-steel-blast-furnace.webp",
-      "url": "https://www.tatasteel.com/products-solutions/india/",
-      "kind": "photo",
-      "alt": "A lit-up steel plant structure with large pipes against a dark blue night sky — energy and power image from Tata Steel’s products page"
-    },
-    {
-      "name": "Steel for farming",
-      "category": "Farm customers, including Tata Agrico hand tools",
-      "image": "assets/products/tata-steel-agriculture.webp",
-      "url": "https://www.tatasteel.com/products-solutions/india/",
-      "kind": "photo",
-      "alt": "A man pushing a red harvesting machine through a green field — agriculture image from Tata Steel’s products page"
     }
   ]
 }

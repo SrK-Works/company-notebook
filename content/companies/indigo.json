@@ -67,60 +67,60 @@
   },
   "offerings": [
     {
-      "name": "Domestic flights",
-      "category": "Short flights between Indian cities, the core of the business",
-      "image": "assets/products/indigo-domestic-flights.webp",
-      "url": "https://www.goindigo.in/content/dam/s6web/in/en/assets/investor-relations/policies/2026/annual_report_FY26.pdf",
-      "kind": "photo",
-      "alt": "A white and blue IndiGo passenger jet climbing against a blue sky with clouds — photograph from InterGlobe Aviation’s 2025–26 annual report"
-    },
-    {
-      "name": "International flights",
-      "category": "Longer routes abroad, a growing share of seats",
+      "name": "Flights across India and abroad",
+      "category": "Short, frequent routes at home and a growing number abroad",
       "image": "assets/products/indigo-international.webp",
-      "url": "https://www.goindigo.in/content/dam/s6web/in/en/assets/investor-relations/policies/2026/annual_report_FY26.pdf",
+      "url": "https://www.goindigo.in/content/dam/s6web/in/en/assets/investor-relations/policies/2026/annual_report_FY26.pdf#page=44",
       "kind": "photo",
       "alt": "An IndiGo jet rolling along a runway under a grey sky — photograph from InterGlobe Aviation’s 2025–26 annual report"
     },
     {
-      "name": "The fleet",
-      "category": "Mostly Airbus narrow-body planes, many of them leased",
-      "image": "assets/products/indigo-aircraft.webp",
-      "url": "https://www.goindigo.in/content/dam/s6web/in/en/assets/investor-relations/policies/2026/annual_report_FY26.pdf",
-      "kind": "pack",
-      "alt": "A side view of an IndiGo passenger jet in white and blue livery, cut out on a black background — image from InterGlobe Aviation’s 2025–26 annual report"
-    },
-    {
-      "name": "Route network",
-      "category": "Many flights a day linking cities across India and abroad",
-      "image": "assets/products/indigo-network.webp",
-      "url": "https://www.goindigo.in/content/dam/s6web/in/en/assets/investor-relations/policies/2026/annual_report_FY26.pdf",
-      "kind": "illustration",
-      "alt": "A drawn outline map of India made of connected dots with a plane flying above it — illustration from InterGlobe Aviation’s 2025–26 annual report; not a photograph"
+      "name": "More than 2,000 flights a day",
+      "category": "Mostly short hops between Indian cities",
+      "image": "assets/products/indigo-domestic-flights.webp",
+      "url": "https://www.goindigo.in/content/dam/s6web/in/en/assets/investor-relations/policies/2026/annual_report_FY26.pdf#page=29",
+      "kind": "photo",
+      "alt": "A white and blue IndiGo passenger jet climbing against a blue sky with clouds — photograph from InterGlobe Aviation’s 2025–26 annual report"
     },
     {
       "name": "Ground handling",
       "category": "Guiding, loading and turning planes round at airports (Agile Airport Services)",
       "image": "assets/products/indigo-ground-handling.webp",
-      "url": "https://www.goindigo.in/content/dam/s6web/in/en/assets/investor-relations/policies/2026/annual_report_FY26.pdf",
+      "url": "https://www.goindigo.in/content/dam/s6web/in/en/assets/investor-relations/policies/2026/annual_report_FY26.pdf#page=14",
       "kind": "photo",
-      "alt": "A ground worker in a high-visibility vest raising both arms to guide an IndiGo jet on an airport apron at dusk — photograph from InterGlobe Aviation’s 2025–26 annual report"
-    },
-    {
-      "name": "Cabin crew and on-board service",
-      "category": "Staff who look after passengers and sell snacks on board",
-      "image": "assets/products/indigo-cabin-crew.webp",
-      "url": "https://www.goindigo.in/content/dam/s6web/in/en/assets/investor-relations/policies/2026/annual_report_FY26.pdf",
-      "kind": "photo",
-      "alt": "A cheering group of IndiGo cabin crew in dark blue uniforms holding two award plaques — photograph from InterGlobe Aviation’s 2025–26 annual report"
+      "alt": "A ground worker in a high-visibility vest raising two lit wands to guide an IndiGo jet on an airport apron, with a control tower behind — photograph from InterGlobe Aviation’s 2025–26 annual report"
     },
     {
       "name": "Crew and staff",
       "category": "The people who fly the planes and look after passengers",
       "image": "assets/products/indigo-crew.webp",
-      "url": "https://www.goindigo.in/content/dam/s6web/in/en/assets/investor-relations/policies/2026/annual_report_FY26.pdf",
+      "url": "https://www.goindigo.in/content/dam/s6web/in/en/assets/investor-relations/policies/2026/annual_report_FY26.pdf#page=20",
       "kind": "photo",
       "alt": "Four women in dark blue IndiGo uniforms laughing together in front of a ‘Hello 6E’ sign — photograph from InterGlobe Aviation’s 2025–26 annual report"
+    },
+    {
+      "name": "Service awards",
+      "category": "Cabin crew celebrating awards the airline won for its service",
+      "image": "assets/products/indigo-cabin-crew.webp",
+      "url": "https://www.goindigo.in/content/dam/s6web/in/en/assets/investor-relations/policies/2026/annual_report_FY26.pdf#page=34",
+      "kind": "photo",
+      "alt": "A cheering group of IndiGo cabin crew in dark blue uniforms holding two award plaques — photograph from InterGlobe Aviation’s 2025–26 annual report"
+    },
+    {
+      "name": "Route network",
+      "category": "Flights linking cities across India and abroad",
+      "image": "assets/products/indigo-network.webp",
+      "url": "https://www.goindigo.in/content/dam/s6web/in/en/assets/investor-relations/policies/2026/annual_report_FY26.pdf#page=36",
+      "kind": "illustration",
+      "alt": "A drawn outline map of India made of connected dots with a plane flying above it — illustration from InterGlobe Aviation’s 2025–26 annual report; not a photograph"
+    },
+    {
+      "name": "The fleet",
+      "category": "Mostly Airbus narrow-body planes, many of them leased",
+      "image": "assets/products/indigo-aircraft.webp",
+      "url": "https://www.goindigo.in/content/dam/s6web/in/en/assets/investor-relations/policies/2026/annual_report_FY26.pdf#page=13",
+      "kind": "pack",
+      "alt": "A side view of an IndiGo passenger jet in white and blue livery, cut out on a black background — image from InterGlobe Aviation’s 2025–26 annual report"
     }
   ]
 }

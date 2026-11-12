@@ -94,12 +94,60 @@
   },
   "offerings": [
     {
+      "name": "Business loans",
+      "category": "Money lent to small firms and factories for stock, machines and wages",
+      "image": "assets/products/axis-bank-business-loan.webp",
+      "url": "https://www.axis.bank.in/loans/business-loan",
+      "kind": "photo",
+      "alt": "Two men talking over a folder on a factory floor while workers in helmets stand behind them — banner image from Axis Bank’s business-loan page"
+    },
+    {
+      "name": "Car loans",
+      "category": "Money lent to buy a car, repaid in monthly instalments",
+      "image": "assets/products/axis-bank-car-loan.webp",
+      "url": "https://www.axis.bank.in/loans/car-loan",
+      "kind": "photo",
+      "alt": "A smiling man leaning out of a car window with a woman at the wheel beside him — banner image from Axis Bank’s car-loan page"
+    },
+    {
       "name": "Savings accounts and the open app",
       "category": "A place to keep everyday money, run mostly from a phone",
       "image": "assets/products/axis-bank-open-app.webp",
       "url": "https://www.axis.bank.in/bank-smart/open-by-axis-bank",
       "kind": "photo",
-      "alt": "A smiling woman in a pale pink shirt looking at a tablet — image from the open by Axis Bank app page on Axis Bank’s website"
+      "alt": "A smiling woman giving a thumbs-up while holding out a phone that shows a banking app screen — banner image from Axis Bank’s open by Axis Bank app page"
+    },
+    {
+      "name": "Personal loans",
+      "category": "A loan with nothing pledged, approved on income and credit history",
+      "image": "assets/products/axis-bank-personal-loan.webp",
+      "url": "https://www.axis.bank.in/loans/personal-loan",
+      "kind": "photo",
+      "alt": "A smiling man in a pink T-shirt pointing at the phone in his other hand, on a pale pink background — banner image from Axis Bank’s personal-loan page"
+    },
+    {
+      "name": "Gold loans",
+      "category": "A loan given against gold jewellery left with the bank",
+      "image": "assets/products/axis-bank-gold-loan.webp",
+      "url": "https://www.axis.bank.in/loans/gold-loan",
+      "kind": "photo",
+      "alt": "A smiling couple holding a red cloth bundle with gold jewellery — banner image from Axis Bank’s gold-loan page"
+    },
+    {
+      "name": "Home loans",
+      "category": "Money lent to buy a house, repaid over many years",
+      "image": "assets/products/axis-bank-home-loan.webp",
+      "url": "https://www.axis.bank.in/loans/home-loan",
+      "kind": "photo",
+      "alt": "A father lifting his laughing daughter in the doorway of a home — image from Axis Bank’s home-loan page"
+    },
+    {
+      "name": "Current accounts for businesses",
+      "category": "Accounts that shops and companies use to collect and pay money",
+      "image": "assets/products/axis-bank-current-account.webp",
+      "url": "https://www.axis.bank.in/business-banking/current-account",
+      "kind": "photo",
+      "alt": "A man in a maroon jacket working on a laptop at an office desk — banner image from Axis Bank’s current-account page"
     },
     {
       "name": "Fixed deposits",
@@ -116,54 +164,6 @@
       "url": "https://www.axis.bank.in/cards/debit-card",
       "kind": "pack",
       "alt": "Three silver and pink Axis Bank debit cards fanned out — product image from Axis Bank’s debit-card page"
-    },
-    {
-      "name": "Home loans",
-      "category": "Money lent to buy a house, repaid over many years",
-      "image": "assets/products/axis-bank-home-loan.webp",
-      "url": "https://www.axis.bank.in/loans/home-loan",
-      "kind": "photo",
-      "alt": "A father lifting his laughing daughter in the doorway of a home — image from Axis Bank’s home-loan page"
-    },
-    {
-      "name": "Gold loans",
-      "category": "A loan given against gold jewellery left with the bank",
-      "image": "assets/products/axis-bank-gold-loan.webp",
-      "url": "https://www.axis.bank.in/loans/gold-loan",
-      "kind": "photo",
-      "alt": "A smiling couple holding a red cloth bundle with gold jewellery — banner image from Axis Bank’s gold-loan page"
-    },
-    {
-      "name": "Car loans",
-      "category": "Money lent to buy a car, repaid in monthly instalments",
-      "image": "assets/products/axis-bank-car-loan.webp",
-      "url": "https://www.axis.bank.in/loans/car-loan",
-      "kind": "photo",
-      "alt": "A man driving a car with a woman in a sun hat beside him — image from Axis Bank’s car-loan page"
-    },
-    {
-      "name": "Personal loans",
-      "category": "A loan with nothing pledged, approved on income and credit history",
-      "image": "assets/products/axis-bank-personal-loan.webp",
-      "url": "https://www.axis.bank.in/loans/personal-loan",
-      "kind": "photo",
-      "alt": "A man in a pink T-shirt pointing at his phone — banner image from Axis Bank’s personal-loan page"
-    },
-    {
-      "name": "Current accounts for businesses",
-      "category": "Accounts that shops and companies use to collect and pay money",
-      "image": "assets/products/axis-bank-current-account.webp",
-      "url": "https://www.axis.bank.in/business-banking/current-account",
-      "kind": "photo",
-      "alt": "A man in a maroon jacket working on a laptop at an office desk — banner image from Axis Bank’s current-account page"
-    },
-    {
-      "name": "Business loans",
-      "category": "Money lent to small firms and factories for stock, machines and wages",
-      "image": "assets/products/axis-bank-business-loan.webp",
-      "url": "https://www.axis.bank.in/loans/business-loan",
-      "kind": "photo",
-      "alt": "Two men talking over a folder on a factory floor while workers in helmets stand behind them — banner image from Axis Bank’s business-loan page"
     }
   ]
 }

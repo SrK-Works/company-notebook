@@ -89,7 +89,15 @@
   },
   "offerings": [
     {
-      "name": "Loans for shop purchases (EMI)",
+      "name": "Branches",
+      "category": "Where customers apply for loans and deposits in person",
+      "image": "assets/products/bajaj-finance-branch.webp",
+      "url": "https://www.bajajfinserv.in/finance-digital-annual-report-fy26/bajaj-finance-ltd-ar-2025-26-assets/pdf/bajaj-finance-AR-2025-26.pdf#page=3",
+      "kind": "photo",
+      "alt": "A Bajaj Finance staff member in a blue shirt showing a customer something on a phone at a branch counter — photograph from Bajaj Finance’s 2025–26 annual report"
+    },
+    {
+      "name": "Loans for shop purchases",
       "category": "Pay for a TV, phone or fridge in monthly instalments",
       "image": "assets/products/bajaj-finance-consumer-durables.webp",
       "url": "https://www.bajajfinserv.in/insta-emi-card",
@@ -97,52 +105,60 @@
       "alt": "A flat-screen television on a blue background — product image from Bajaj Finance’s Insta EMI Card page"
     },
     {
-      "name": "Personal loans",
-      "category": "Money lent with nothing pledged, for any personal need",
-      "image": "assets/products/bajaj-finance-personal-loan.webp",
-      "url": "https://www.bajajfinserv.in/personal-loan",
-      "kind": "photo",
-      "alt": "A hiker in an orange jacket looking at snowy mountains — image from Bajaj Finance’s personal-loan page"
-    },
-    {
-      "name": "Gold loans",
-      "category": "A loan given against gold jewellery kept at a branch",
-      "image": "assets/products/bajaj-finance-gold-loan.webp",
-      "url": "https://www.bajajfinserv.in/gold-loan",
-      "kind": "photo",
-      "alt": "A woman at a branch desk beside a sealed packet of gold jewellery while a staff member handles it — video image from Bajaj Finance’s gold-loan page"
-    },
-    {
       "name": "Two-wheeler loans",
       "category": "Money lent to buy a motorcycle or scooter",
       "image": "assets/products/bajaj-finance-two-wheeler-loan.webp",
       "url": "https://www.bajajfinserv.in/two-wheeler-loan",
-      "kind": "photo",
-      "alt": "A man in a black jacket holding a helmet in a motorcycle workshop — video image from Bajaj Finance’s two-wheeler-loan page"
+      "kind": "illustration",
+      "alt": "A man in a black jacket holding a helmet in a motorcycle workshop — advertising image from bajajfinserv.in; not a photograph of real customers or staff"
     },
     {
       "name": "Business loans",
       "category": "Money lent to small firms and self-employed professionals",
       "image": "assets/products/bajaj-finance-business-loan.webp",
       "url": "https://www.bajajfinserv.in/business-loan",
-      "kind": "photo",
-      "alt": "A man in glasses reading papers at a laptop — video image from Bajaj Finance’s business-loan page"
+      "kind": "illustration",
+      "alt": "A man in glasses reading papers at a laptop — advertising image from bajajfinserv.in; not a photograph of real customers or staff"
     },
     {
       "name": "Loans against property",
       "category": "A loan backed by a house, shop or office the borrower owns",
       "image": "assets/products/bajaj-finance-loan-against-property.webp",
       "url": "https://www.bajajfinserv.in/loan-against-property",
+      "kind": "illustration",
+      "alt": "A smiling woman in a striped shirt sitting in an office — advertising image from bajajfinserv.in; not a photograph of real customers or staff"
+    },
+    {
+      "name": "Customer service in the field",
+      "category": "Staff who meet customers outside branches",
+      "image": "assets/products/bajaj-finance-field-service.webp",
+      "url": "https://www.bajajfinserv.in/finance-digital-annual-report-fy26/bajaj-finance-ltd-ar-2025-26-assets/pdf/bajaj-finance-AR-2025-26.pdf#page=17",
       "kind": "photo",
-      "alt": "A smiling woman in a striped shirt sitting in an office — video image from Bajaj Finance’s loan-against-property page"
+      "alt": "A woman in a blue company T-shirt taking notes while a man shows her his phone outdoors — photograph from the ESG priorities page of Bajaj Finance’s 2025–26 annual report"
+    },
+    {
+      "name": "Reaching people outside banks",
+      "category": "Small loans in villages, including group loans to women",
+      "image": "assets/products/bajaj-finance-inclusion.webp",
+      "url": "https://www.bajajfinserv.in/finance-digital-annual-report-fy26/bajaj-finance-ltd-ar-2025-26-assets/pdf/bajaj-finance-AR-2025-26.pdf#page=17",
+      "kind": "photo",
+      "alt": "A large group of women sitting on a mat in a room while others stand and talk — photograph from the ESG priorities page of Bajaj Finance’s 2025–26 annual report"
+    },
+    {
+      "name": "Personal loans",
+      "category": "Money lent with nothing pledged, for any personal need",
+      "image": "assets/products/bajaj-finance-personal-loan.webp",
+      "url": "https://www.bajajfinserv.in/personal-loan",
+      "kind": "illustration",
+      "alt": "A hiker in an orange jacket looking at snowy mountains — advertising image from bajajfinserv.in; not a photograph of real customers or staff"
     },
     {
       "name": "Fixed deposits",
       "category": "Money people lend to Bajaj Finance for a set time and interest rate",
       "image": "assets/products/bajaj-finance-fixed-deposit.webp",
       "url": "https://www.bajajfinserv.in/investments/fixed-deposit",
-      "kind": "photo",
-      "alt": "An older man with a grey beard speaking in a living room — video image from Bajaj Finance’s fixed-deposit pages"
+      "kind": "illustration",
+      "alt": "An older man with a grey beard speaking in a living room — advertising image from bajajfinserv.in; not a photograph of real customers or staff"
     }
   ]
 }
