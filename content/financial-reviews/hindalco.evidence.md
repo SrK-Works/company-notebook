@@ -65,3 +65,6 @@ The company's press release of 22 May 2026 (hindalco.com) gives the same annual 
 - Exceptional: 7,357 − 394 = 6,963.
 - 18,496 − 7,531 + 2,426 = 13,391.
 - 277,833 − 252,370 = 25,463; − 4 = 25,459; − 6,963 = 18,496.
+
+
+Parent review note (12 Nov 2026): the ₹505 crore and ₹51 crore group figures are printed as garbled characters ('~SOS', 'Sl'); reading them as numbers was a guess. They are not used in the snapshot or lesson. Only ₹297 crore, ₹161 crore and the standalone ₹48 crore read cleanly.
