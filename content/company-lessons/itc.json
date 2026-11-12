@@ -119,29 +119,29 @@
   ],
   "risks": [
     [
-      "Dependence on a regulated tobacco business",
-      "Changes in tobacco taxes, restrictions, consumer demand or illegal competition can affect cigarette sales and earnings."
+      "Legal cigarettes are a small slice of tobacco use",
+      "The annual report says legal cigarettes are only about a tenth of the tobacco used in India; most is chewed or smoked in cheaper, lower-taxed forms. A price rise can push more smokers to those other forms."
     ],
     [
-      "More consumer brands do not automatically mean more profit",
-      "Ingredients, advertising, distribution, competition and new launches cost money, and a growing range can take time to earn enough."
+      "Crops and forests depend on the weather",
+      "ITC relies on farm crops and wood. The annual report says this leaves it inherently exposed to climate-related risks, and it warns that El Niño conditions could weaken monsoons and intensify heatwaves."
     ],
     [
-      "Paper and crop prices move against the business",
-      "Selling prices, harvests, wood and energy costs need not move together. A factory or a stock of crops can absorb cash in a weak period."
+      "Buying and merging companies",
+      "ITC completed the purchase of Century Pulp and Paper’s paper unit in August 2026, and ITC Infotech has proposed merging with Happiest Minds Technologies. Bought businesses need money and attention before they show whether they were worth it."
     ],
     [
-      "Investments do not deliver",
-      "Factories, acquisitions and new categories need spending before they earn. Later results may not support the original case."
+      "A cyber attack",
+      "As ITC moves more of its operations online and into connected factory systems, an attack could disrupt production or sales. The annual report says it has set up a separate committee and round-the-clock monitoring to guard against this."
     ],
     [
       "A headline figure hides a change in scope",
-      "Tax changes, acquisitions, internal sales and the hotel separation can make comparisons between years misleading."
+      "Tax changes, acquisitions, internal sales and the hotel separation can make comparisons between years misleading. For example, after the 2026 tax change, cigarette gross revenue rose sharply while revenue after tax fell."
     ]
   ],
   "context": [
-    "August 2026: a proposed deal could change how ITC Infotech is owned",
-    "On 31 August 2026, ITC Infotech announced a plan to buy about 22.1% of Happiest Minds Technologies from its founding controlling shareholders and then merge Happiest Minds into ITC Infotech, whose own shares would then be listed on stock exchanges. The deal still needs shareholder, regulator, exchange and tribunal approvals, which the companies expected to take up to 15 months. A proposal is not a completed purchase."
+    "November 2026: the cigarette tax rise hits profit",
+    "ITC’s 2 November 2026 results for July–September 2026 show the effect of the cigarette tax increase that began on 1 February 2026. Cigarette revenue after tax fell by about a fifth and the cigarette segment’s result by about a quarter from a year earlier, and ITC says legal cigarette volumes remain under pressure. It also reports a sharp increase in seizures of smuggled cigarettes. Its other businesses together grew revenue by close to a fifth, with strong growth in packaged foods and a recovery in paper. Because cigarettes earn most of the profit, ITC’s total profit still fell."
   ],
   "sources": [
     [
@@ -151,10 +151,6 @@
     [
       "ITC FMCG businesses",
       "https://itcportal.com/itc-businesses/fmcg.html"
-    ],
-    [
-      "ITC cigarettes business",
-      "https://itcportal.com/itc-businesses/fmcg/cigarette.html"
     ],
     [
       "Agricultural products and sourcing",
@@ -175,6 +171,14 @@
     [
       "Group companies and hotel relationship",
       "https://itcportal.com/itc-businesses/group-companies.html"
+    ],
+    [
+      "Report and Accounts 2026: Report of the Board of Directors and management discussion (taxation, risk management, segment reviews)",
+      "https://itcportal.com/content/dam/itc-corporate/investors/annual-report-2026/itc-r-and-a-ma-and-a-2026.pdf"
+    ],
+    [
+      "Results presentation for July–September 2026 (cigarette tax effect, CPP acquisition) · 2 November 2026",
+      "https://itcportal.com/content/dam/itc-corporate/pdfs/financial-result/quarterly-results-2026-2027/september-2026/ITC-Quarterly-Result-Presentation-Q2-FY2027.pdf"
     ],
     [
       "ITC Infotech and Happiest Minds proposed combination · 31 August 2026",
@@ -216,34 +220,34 @@
   "helps": [
     {
       "title": "Many different businesses",
-      "text": "Consumer goods, cigarettes, crops, paper and packaging, and technology services depend on different customers and conditions, so ITC is not tied to one market."
+      "text": "Packaged foods, personal care, notebooks, cigarettes, farm produce, paper and packaging depend on different customers and prices, so ITC is not tied to one market. The annual report describes ITC as a diversified enterprise."
     },
     {
-      "title": "Its businesses supply each other",
-      "text": "ITC buys crops for its own foods and makes packaging for its own products. Shared skills may save costs or improve quality, though that needs evidence in the results."
+      "title": "Its businesses help each other",
+      "text": "ITC buys crops through its own links with farmers for its foods, uses its paper-making skills for Classmate notebooks and makes packaging. The annual report counts these farm links, its buying power and its distribution network among its lasting advantages."
     },
     {
-      "title": "Familiar everyday brands",
-      "text": "Aashirvaad, Sunfeast, Bingo!, Classmate and Savlon are bought again and again by households through shops and online sellers."
+      "title": "Brands in hundreds of millions of homes",
+      "text": "Aashirvaad, Sunfeast, Bingo!, Classmate and Savlon are bought again and again. The annual report says ITC’s consumer brands reach nearly 280 million Indian households."
     }
   ],
   "hurts": [
     {
-      "title": "Tobacco taxes and rules",
-      "text": "Cigarettes are a separately reported business. Changes in tobacco taxes, restrictions, demand or illegal competition can affect sales and earnings."
+      "title": "Cigarette taxes",
+      "text": "Cigarettes still earn most of ITC’s segment profit, and the government sets their tax. From 1 February 2026 taxes on cigarettes rose steeply, which the annual report calls an unprecedented increase."
     },
     {
-      "title": "New brands cost money first",
-      "text": "Ingredients, advertising, distribution and new launches cost money, and a growing range of consumer brands can take time to earn enough."
+      "title": "Smuggled and cheaper tobacco",
+      "text": "When cigarettes get dearer, some smokers switch to smuggled cigarettes, which pay little or no tax, or to cheaper forms of tobacco. The annual report says high taxes have fed this illegal trade in the past."
     },
     {
-      "title": "Paper and crop prices swing",
-      "text": "Selling prices, harvests, wood and energy costs need not move together, and stock or factories can absorb cash in a weak period."
+      "title": "Cheap imported paper",
+      "text": "Low-priced paper and paperboard from China and Indonesia hold down the prices ITC can charge, while the cost of wood, its main raw material, can stay high."
     },
     {
-      "title": "Hard to compare years",
-      "text": "Tax changes, acquisitions, internal sales and the separation of the hotels can make simple year-on-year comparisons misleading."
+      "title": "Supply shocks",
+      "text": "Conflicts, trade tariffs and energy-market swings can raise ingredient, fuel and shipping costs or delay supplies. The annual report says these swings increased in FY 2025–26."
     }
   ],
-  "checked": "31 October 2026"
+  "checked": "12 November 2026"
 }

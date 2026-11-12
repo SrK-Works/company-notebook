@@ -117,20 +117,16 @@
   ],
   "risks": [
     [
-      "Raw materials and packaging cost more",
-      "HUL’s Personal Care review ties its pricing to rising raw material prices. If HUL cannot raise prices enough, it earns less on each pack. If it raises prices, shoppers may buy less."
+      "Palm oil and other ingredients get dearer",
+      "Soap and many personal-care products are made from palm oil. The annual report says Personal Care sales grew in FY 2025–26 mainly through price rises taken because palm-based ingredients kept getting dearer. Higher prices can slow how much shoppers buy."
     ],
     [
-      "Shoppers move to cheaper choices",
-      "HUL says it must keep prices competitive for the value shoppers get. When household budgets are tight, shoppers can switch to smaller packs or cheaper brands, and HUL may need to cut prices or spend more on promotion to keep sales."
+      "Computer systems are attacked or fail",
+      "HUL relies on digital systems and outside technology providers to take orders, plan production and move goods. The annual report says a cyber attack or system failure could hold up sales and supplies."
     ],
     [
-      "Competition for shoppers is strong",
-      "HUL’s Beauty & Wellbeing review describes a market with strong competition. Rival and new brands can win shoppers, and defending sales can mean more advertising and discounts, which leaves less profit."
-    ],
-    [
-      "Supply chain problems",
-      "Home Care’s review mentions supply chain problems. Delays or higher costs in moving goods can leave shelves empty or raise costs."
+      "The ice-cream business has left",
+      "HUL’s ice-cream business was separated into Kwality Wall’s (India), which became effective on 1 December 2025. Shareholders received shares in the new company, so HUL’s figures before and after that date cover different businesses."
     ],
     [
       "One-off items can hide the everyday picture",
@@ -149,6 +145,10 @@
     [
       "HUL brand directory",
       "https://www.hul.co.in/brands/"
+    ],
+    [
+      "Integrated annual report 2025–26 (key risks and mitigation, segment reviews, demerger)",
+      "https://www.hul.co.in/files/annual-report-2025-26.pdf"
     ],
     [
       "Home Care review, FY 2025–26",
@@ -175,10 +175,6 @@
       "https://www.hul.co.in/files/faqs-for-the-scheme-of-arrangement-amongst-hul-kwil-and-their-respective-shareholders.pdf"
     ],
     [
-      "HUL FAQs on the allotment of Kwality Wall’s shares",
-      "https://www.hul.co.in/files/faqs-on-allotment-of-kwil-shares-pursuant-to-the-scheme-of-demerger.pdf"
-    ],
-    [
       "Kwality Wall’s (India) results announcement, 6 March 2026",
       "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c0bfdfc9-6058-4763-b25d-774870d8502c.pdf"
     ]
@@ -203,7 +199,7 @@
       "text": "These numbers are fictional and are not HUL’s prices or results. Imagine a made-up detergent pack that a seller buys at ₹10. If 100 packs are sold, sales are ₹1,000. If 110 packs are sold at ₹10, sales are ₹1,100 because more was sold. If 100 packs are sold at ₹11, sales are also ₹1,100, but only because of the price. If shoppers switch to a larger, pricier pack, sales change again because the mix changed. Volume, price and mix can all move at once, which is why HUL reports underlying sales growth and underlying volume growth separately."
     }
   ],
-  "checked": "2 November 2026",
+  "checked": "12 November 2026",
   "stepsTitle": "From the factory to your shopping bag.",
   "quick": [
     {
@@ -226,33 +222,33 @@
   "helps": [
     {
       "title": "Goods people buy again and again",
-      "text": "Detergent, soap and tea run out and get bought again. HUL says its brands reach 9 out of 10 Indian households."
+      "text": "Detergent, soap and tea run out and get bought again, week after week. HUL’s annual report says its brands reach 9 out of 10 Indian households."
     },
     {
       "title": "Moving shoppers to premium versions",
-      "text": "HUL is moving shoppers to pricier versions, such as liquid detergents instead of powders. These earn more per pack if the extra price covers the extra cost."
+      "text": "HUL is moving shoppers to pricier versions, such as liquid detergents instead of powders, premium soaps and bodywash, and has built a new laboratory for liquids. These earn more per pack if the extra price covers the extra cost."
     },
     {
-      "title": "New ways to sell",
-      "text": "HUL says online and quick delivery apps gave strong growth for Foods, and helped new products such as Kissan chutneys and Red Label Instant Tea reach shoppers."
+      "title": "New ways to reach shoppers",
+      "text": "The annual report says online shops and quick delivery apps are growing fast, and HUL has set up a separate team and supply chain to serve them, alongside the small local shops that remain its main route to shoppers."
     }
   ],
   "hurts": [
     {
-      "title": "Raw materials cost more",
-      "text": "If HUL cannot raise prices enough, it earns less on each pack. If it does raise them, shoppers may buy less."
+      "title": "Raw materials and supply shocks",
+      "text": "Wars, trade disputes and swings in commodity prices can raise the cost of ingredients or hold up supplies. The annual report says this risk increased in FY 2025–26."
     },
     {
-      "title": "Shoppers switch to cheaper choices",
-      "text": "When budgets are tight, shoppers can move to smaller packs or cheaper brands, and HUL may need to cut prices or spend more on promotion."
+      "title": "New kinds of rival",
+      "text": "New brands compete for the same shoppers. The annual report says new entrants with different business models are making competition more intense."
     },
     {
-      "title": "Strong competition",
-      "text": "HUL’s Beauty & Wellbeing review describes strong competition. Defending sales can mean more advertising and discounts, which leaves less profit."
+      "title": "A product problem harms trust",
+      "text": "A contaminated ingredient, a faulty batch or a wrong label can harm people, disrupt production and bring legal claims. The annual report says any such failure could erode shoppers’ trust."
     },
     {
-      "title": "Supply problems",
-      "text": "HUL’s Home Care review mentions supply chain problems. Delays or higher costs in moving goods can leave shelves empty or raise costs."
+      "title": "Plastic packaging rules",
+      "text": "Plastic packs keep products safe, but stricter rules and shoppers’ expectations push HUL to use less new plastic and more recycled or other materials, which can cost more."
     }
   ]
 }
