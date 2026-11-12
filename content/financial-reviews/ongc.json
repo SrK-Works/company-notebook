@@ -1,0 +1,24 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited consolidated financial results filed with the exchanges",
+  "checked": "12 November 2026",
+  "coverage": "Whole-group totals · results are reported by business and region, but profit by segment is before unallocated items",
+  "profitMetric": "Profit for the year",
+  "definition": "Profit for the year after all expenses, the share of associates and joint ventures, exceptional items and tax. It includes profit that belongs to minority owners of subsidiaries and is not operating profit or cash flow.",
+  "rows": [
+    {
+      "name": "ONGC · whole group",
+      "revenue": 662247.32,
+      "profit": 49793.10
+    }
+  ],
+  "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/26b495d6-df81-4f00-8f08-13578afb27f9.pdf",
+  "location": "Audited consolidated results for the year ended 31 March 2026 filed with BSE: PDF page 34 (consolidated statement of profit and loss, year ended 31 March 2026 column) and PDF pages 39–46 (consolidated segment table and notes); the statement carries no printed page numbers",
+  "notes": "Revenue is revenue from operations and excludes other income of ₹12,356.52 crore. Profit for the year is ₹49,793.10 crore, of which ₹41,424.38 crore belongs to owners of ONGC and ₹8,368.72 crore to non-controlling interests (other owners of subsidiaries). It is after an exceptional expense of ₹435.72 crore, which the results do not explain, and a net deferred-tax credit of ₹972.32 crore. The notes also report that ONGC recognised ₹2,526 crore in the year as a provision for disputed service tax and GST on royalty it pays (cumulative provision ₹19,645 crore), still being argued in court, and that the group's Sakhalin-1 stake carried an impairment charge of ₹515 crore against its share of profit. ONGC says the effect of the new Labour Codes is not material. ONGC's segment table mixes regions and businesses (exploration and production, refining and marketing, petrochemicals) and ends in profit before finance cost and unallocated items, so this snapshot shows group totals only. No profit by product is shown.",
+  "insight": "ONGC’s group earned about 7.5 paise of profit on each rupee of revenue because most revenue from refining and marketing passes straight to buying crude oil and paying levies. These totals cannot show how much profit comes from oil and gas production compared with refining.",
+  "status": "totals",
+  "revenueTotal": 662247.32,
+  "profitTotal": 49793.10
+}

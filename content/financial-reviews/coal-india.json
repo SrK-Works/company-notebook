@@ -1,0 +1,24 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited annual report",
+  "checked": "12 November 2026",
+  "coverage": "Whole-group totals · one reported business (coal mining)",
+  "profitMetric": "Profit for the year",
+  "definition": "Profit for the year after all expenses, the share of joint-venture profit and tax. It includes the small share that belongs to minority owners of subsidiaries and is not operating profit or cash flow.",
+  "rows": [
+    {
+      "name": "Coal India · whole group",
+      "revenue": 168400.29,
+      "profit": 31070.58
+    }
+  ],
+  "source": "https://coal-india-flipbook-25-26.vercel.app/coal-india.pdf",
+  "location": "Integrated Annual Report 2025–26, consolidated statement of profit and loss: PDF page 229, printed pages 454–455; consolidated notes, segment reporting: PDF page 224",
+  "notes": "Revenue is revenue from operations and excludes other income of ₹11,275.68 crore (mostly interest and non-operating income). Profit for the year is ₹31,070.58 crore, of which ₹31,094.29 crore belongs to owners of Coal India and −₹23.71 crore to non-controlling interests. The report states there were no exceptional items and that the new Labour Codes have no material impact. Tax was ₹10,852.51 crore, after a deferred-tax credit of ₹118.98 crore. Revenue includes ₹3,142.76 crore of a ₹300-a-tonne “Singrauli Punarsthapan Charge” levied by Northern Coalfields from 1 May 2025; power-company customers challenged it in the Jabalpur High Court, which stayed it for the petitioners, and some credit notes were issued. The company says coal mining is its only reportable segment, so no profit by subsidiary or coal grade is shown. Last year’s figures were restated; only FY 2025–26 is used here.",
+  "insight": "Coal India turned about 18 paise of every rupee of revenue into profit after paying wages, contractors, royalties and tax. Because it reports one segment, these totals do not show profit by coalfield or by buyer.",
+  "status": "totals",
+  "revenueTotal": 168400.29,
+  "profitTotal": 31070.58
+}

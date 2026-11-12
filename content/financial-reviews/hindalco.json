@@ -1,0 +1,27 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited consolidated financial results filed with the exchanges",
+  "checked": "12 November 2026",
+  "coverage": "Reported business segments · gross segment revenue before internal eliminations",
+  "revenueLabel": "Segment revenue",
+  "incomeDefinition": "Sales to outside customers plus sales to Hindalco’s other segments, before adjustments. Segments sell to each other, so rows add up to more than group revenue.",
+  "profitMetric": "Segment result",
+  "definition": "Each segment’s profit before finance cost, depreciation, impairment, exceptional items, share of equity-accounted investments and tax (EBITDA). It is not profit after tax.",
+  "rows": [
+    { "name": "Novelis", "revenue": 162882, "profit": 14546 },
+    { "name": "Aluminium upstream", "revenue": 41447, "profit": 18884 },
+    { "name": "Aluminium downstream", "revenue": 15938, "profit": 978 },
+    { "name": "Copper", "revenue": 69838, "profit": 2809 }
+  ],
+  "source": "https://www.hindalco.com/Upload/PDF/hindalco-financial-results-q4-fy26.pdf",
+  "location": "Audited consolidated results for the year ended 31 March 2026, filed 22 May 2026: PDF page 22 (segmentwise consolidated revenue, results, assets and liabilities, year ended 31/03/2026 column) and PDF page 21 (consolidated statement of profit and loss); notes 5, 7 and 8 on PDF page 25. The filing has no printed page numbers.",
+  "notes": "Segment revenue rows total ₹290,105 crore; less a ₹3,211 crore adjustment for different accounting policies at Novelis (which reports under US accounting rules) and ₹11,950 crore of inter-segment revenue gives group revenue from operations of ₹274,944 crore. Segment results total ₹37,217 crore; adjustments of −₹65 crore (Novelis accounting policies), −₹512 crore (inter-segment profit) and ₹1,457 crore unallocable income give ₹38,097 crore. Deducting finance cost ₹3,480 crore, depreciation ₹8,830 crore, impairment ₹324 crore, a ₹4 crore loss from equity-accounted investments and exceptional expenses of ₹6,963 crore gives profit before tax of ₹18,496 crore. Tax of ₹7,531 crore current less ₹2,426 crore deferred benefit leaves profit for the year of ₹13,391 crore, all attributable to owners. Exceptional expenses are ₹7,357 crore, net of insurance, of costs from two fires at Novelis’s Oswego plant in New York (the second on 20 November 2025), less ₹394 crore of insurance recovered for the 2024 flood at the Sierre plant in Switzerland. Tax includes one-off benefits: a net deferred-tax liability write-back of about ₹505 crore after Hindalco opted into the lower-tax regime from 1 April 2026, and a ₹297 crore write-back of an earlier year’s current-tax provision. Staff costs include a Labour Codes provision of about ₹51 crore. Hindalco also recognised ₹161 crore of impairment on a coal mine it is surrendering. The tax and Labour Codes figures come from a scanned filing; see the evidence file. The filing’s segment results are called EBITDA by the company.",
+  "insight": "Aluminium upstream, which makes metal from ore in India, earns the largest segment result even though Novelis has the most revenue. Two fires at the Oswego plant cut group profit sharply, and segment results are before those costs.",
+  "status": "segments",
+  "revenueTotal": 290105,
+  "revenueTotalLabel": "Gross segment revenue before internal eliminations",
+  "profitTotal": 37217,
+  "profitTotalLabel": "Segment results before adjustments"
+}

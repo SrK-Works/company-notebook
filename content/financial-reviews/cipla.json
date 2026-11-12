@@ -1,0 +1,24 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited consolidated financial results filed with the exchanges",
+  "checked": "12 November 2026",
+  "coverage": "Whole-group totals · one reported business segment (pharmaceutical and related products)",
+  "profitMetric": "Net profit for the year",
+  "definition": "Profit for the year after all expenses, exceptional items, tax and the share of associates’ result. It includes a small loss that belongs to minority owners of subsidiaries and is not operating profit or cash flow.",
+  "rows": [
+    {
+      "name": "Cipla · whole group",
+      "revenue": 28162.59,
+      "profit": 3861.74
+    }
+  ],
+  "source": "https://cipla.com/sites/default/files/SignedFinancialResults13052026Signed.pdf",
+  "location": "Audited consolidated financial results for the year ended 31 March 2026, filed 13 May 2026: PDF page 3 (printed page 1/5), year ended 31-03-2026 column; notes 4, 9 and 10 on PDF pages 6–7",
+  "notes": "Revenue is total revenue from operations (sale of products ₹27,711.69 crore plus other operating revenue ₹450.90 crore) and excludes other income of ₹882.01 crore. Net profit for the year is ₹3,861.74 crore, of which ₹3,879.23 crore belongs to owners of Cipla and −₹17.49 crore to non-controlling interests. It is after an exceptional expense of ₹275.91 crore for the new Labour Codes (higher gratuity and leave liabilities from the changed definition of wages), a ₹42.02 crore write-down of investments in associates, and a tax charge of ₹1,353.84 crore that includes a deferred-tax credit of ₹87.11 crore. Cipla reports a single operating segment, so profit by product or market is not disclosed.",
+  "insight": "Cipla kept about 14 paise of profit from each rupee of revenue after a one-time labour-law cost and a tax charge. These totals cannot show how much comes from India, the US or other markets.",
+  "status": "totals",
+  "revenueTotal": 28162.59,
+  "profitTotal": 3861.74
+}
