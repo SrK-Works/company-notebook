@@ -119,24 +119,20 @@
   ],
   "risks": [
     [
-      "Ingredient costs rise while shoppers watch prices",
-      "Dearer milk, coffee, cocoa, grains or packaging raise costs. Raising prices or shrinking packs can protect earnings per sale but may change what people buy."
-    ],
-    [
-      "Food safety or labelling problems",
-      "A product issue, restriction or recall can interrupt supply, add costs and damage trust."
+      "Price and pack choices change what people buy",
+      "Raising prices or shrinking packs can protect earnings per sale but may push shoppers to cheaper packs or other brands."
     ],
     [
       "Shoppers choose alternatives",
-      "Other packaged brands, regional products, fresh food and changing tastes compete for household spending, and fighting back with advertising costs money."
+      "Other packaged brands, regional products and fresh food compete for household spending, and fighting back with advertising costs money."
     ],
     [
-      "Expansion uses money before it earns",
-      "Factories, equipment and new distribution need spending. If demand comes slowly, costs weigh on results while stock and unpaid bills tie up cash."
+      "Expansion ties up cash",
+      "If demand comes slowly, stock and unpaid bills hold money that the business would otherwise have."
     ],
     [
-      "A headline comparison hides a different measure",
-      "Product sales, revenue, operating profit and profit after tax measure different things, and changes in mix, one-off items or period length can make simple comparisons misleading."
+      "Payments to the wider group",
+      "Nestlé India pays royalties to group companies for brands and know-how. Their size and terms appear in the related-party notes."
     ]
   ],
   "context": [
@@ -234,7 +230,7 @@
   "hurts": [
     {
       "title": "Ingredient costs rise",
-      "text": "Dearer milk, coffee, cocoa, grains or packaging raise costs. Raising prices or shrinking packs can change what shoppers buy."
+      "text": "Dearer milk, coffee, cocoa, grains or packaging raise costs."
     },
     {
       "title": "Food safety or labelling problems",

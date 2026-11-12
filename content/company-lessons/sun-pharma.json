@@ -97,20 +97,20 @@
   ],
   "risks": [
     [
-      "Competition or reliance on important products",
-      "New alternatives, changes in what buyers pay for and expiry of product rights can reduce sales."
+      "US tariffs and trade rules",
+      "The annual report names tariff uncertainty and changing trade policy as pressures on its US business."
     ],
     [
-      "Factory or quality restrictions",
-      "Inspection findings, recalls or corrective work can interrupt supply and increase costs."
+      "Slower launches",
+      "The annual report says factory compliance limits slowed the pace at which some products could be launched."
     ],
     [
-      "New products disappoint",
-      "Testing can fail, permission can be delayed or customer demand can be weaker than expected."
+      "Stopped projects still cost money",
+      "When Sun stopped development of one product in FY 2025–26 it recorded a charge for the work already done."
     ],
     [
-      "Legal and partner commitments",
-      "Disputes over product rights, product-related claims and payments promised in agreements can add costs."
+      "US lawsuits over generic prices",
+      "Sun’s US businesses settled lawsuits about generic medicine prices, one in 2025 that the filing says involved no admission of wrongdoing and another in September 2026."
     ]
   ],
   "context": [
@@ -133,6 +133,10 @@
     [
       "Organon purchase status and exceptional charges · results filing 30 October 2026",
       "https://www.bseindia.com/xml-data/corpfiling/AttachLive/658231ad-7203-4355-be99-2a162b722c0c.pdf"
+    ],
+    [
+      "FY 2025–26 annual report (strategy, US market and factory sections)",
+      "https://sunpharma.com/wp-content/uploads/2026/07/Sun-Pharma_AR-2025-26.pdf"
     ]
   ],
   "financialNotes": [
@@ -141,7 +145,7 @@
       "text": "The audited group reports one Pharmaceuticals segment. The table uses revenue from operations and profit attributable to owners, including reported exceptional items. Product, geographical and therapy sales descriptions can overlap; none establishes a separately audited profit for each medicine or therapy."
     }
   ],
-  "checked": "31 October 2026",
+  "checked": "12 November 2026",
   "stepsTitle": "From research to a medicine on the shelf.",
   "quick": [
     {
@@ -164,25 +168,25 @@
   "helps": [
     {
       "title": "Several kinds of product",
-      "text": "Finished medicines, ingredients for other makers and consumer-health products sell to different buyers."
+      "text": "The annual report describes a mix of innovative medicines, branded and unbranded generics, ingredients and consumer-health products that sell to different buyers."
     },
     {
-      "title": "Products in development",
-      "text": "Its pipeline, the set of products being developed, can add new medicines to sell, though some will fail or sell less than expected."
+      "title": "Making its own ingredients",
+      "text": "Sun makes the active ingredients as well as the finished medicines. The annual report says this lets it produce at lower cost and reach new markets quickly."
     },
     {
-      "title": "A successful generic can sell well",
-      "text": "A generic is a copy of a medicine whose patent has ended. A successful one can earn well, though it tends to attract rival versions that push prices down."
+      "title": "Newer medicines of its own",
+      "text": "Sun develops newer medicines for skin, eye and skin-cancer care. In FY 2025–26 they were about a fifth of sales and grew faster than the whole company."
     }
   ],
   "hurts": [
     {
-      "title": "Competition for important products",
-      "text": "New rival versions, changes in what buyers pay for and the end of product rights can reduce sales."
+      "title": "Competition and price pressure",
+      "text": "Rival versions and buyers’ price pressure can reduce what Sun earns on a product. The annual report describes lasting price pressure in the US."
     },
     {
       "title": "Factory or quality restrictions",
-      "text": "Inspection findings, recalls or corrective work can interrupt supply from a site and add costs."
+      "text": "Inspection findings, recalls or corrective work can interrupt supply from a site and add costs. For example, two Gujarat factories were rated “Official Action Indicated”, a US regulator’s rating that a factory must improve its compliance."
     },
     {
       "title": "New products disappoint",

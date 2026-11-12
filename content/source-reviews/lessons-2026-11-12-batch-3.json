@@ -1,0 +1,104 @@
+{
+  "checked": "12 November 2026",
+  "provider": "TinyFish fetch and search",
+  "scope": "Clarity and accuracy review of lesson helps, hurts, risks and context against official sources. Applied the newest rules: at most four risks, each point stated once across helps, hurts and risks. No figures or financial-review files touched.",
+  "findings": [
+    {
+      "company": "icici-bank",
+      "sourcesRead": [
+        "ICICI Bank performance review, quarter ended 30 September 2026 (17 October 2026)",
+        "ICICI Bank about-us page",
+        "ICICI Bank FY 2025-26 annual report (branches, iMobile, risk governance, market and liquidity risk, fee income)"
+      ],
+      "changes": [
+        "Replaced the SEC copy of the annual report (not readable) with the same report on icici.bank.in.",
+        "Helps rewritten around branch network (about half rural and semi-urban) and fee income mostly from retail, rural and business banking, both from the annual report and release.",
+        "Removed the unsecured-loan point from hurts (it was repeated in risks) and gave each risk a different angle: unsecured loans, tight money conditions, liability from fraudsters misusing systems, borrowing in other currencies with hedges.",
+        "Context re-read: FCNR(B) deposit and loan figures and the treasury loss match the 17 October 2026 release; unchanged."
+      ],
+      "unverified": []
+    },
+    {
+      "company": "hdfc-bank",
+      "sourcesRead": [
+        "HDFC Bank results release, quarter ended 30 September 2026 (17 October 2026)",
+        "HDFC Bank our-businesses page",
+        "HDFC Bank integrated annual report 2025-26 (branches, savings and current account share, rate-cut commentary, cybersecurity)"
+      ],
+      "changes": [
+        "Corrected the interest-rate hurt: the annual report says that after rate cuts in 2025 loans repriced faster than deposits and narrowed the margin, so the old wording (deposit costs rising before loan income) was not what the source says.",
+        "Replaced the annual-reports library link with the 2025-26 integrated annual report itself.",
+        "Helps rewritten from the businesses page and annual report (reach, customer groups, deposits as funding).",
+        "Risks given new angles (borrower group concentration, required reserves from the treasury description, volatile treasury gains, digital exposure) so none repeats hurts.",
+        "Context re-read against the release; unchanged."
+      ],
+      "unverified": [
+        "Required reserves are described in the businesses page as statutory reserve requirements; no rate or share was read."
+      ]
+    },
+    {
+      "company": "sun-pharma",
+      "sourcesRead": [
+        "Sun Pharma results filing and press release, 30 October 2026 (Organon status, exceptional items, notes 3-10)",
+        "Sun Pharma Q4 FY26 press release (22 May 2026)",
+        "Sun Pharma annual report 2025-26 (portfolio, vertical integration, US pricing pressure, tariffs, Halol and Baska ratings)"
+      ],
+      "changes": [
+        "Added the FY 2025-26 annual report to sources.",
+        "Replaced the generic-copy help, which no source supported, with sourced helps: mixed portfolio, own ingredient supply, newer medicines.",
+        "Hurts now cite the annual report's price pressure in the US and the two Gujarat factory ratings, defined plainly.",
+        "Risks changed to non-repeating angles: US tariffs, slower launches, a stopped project charge, US generic-price lawsuit settlements.",
+        "Context re-read: the signed Organon agreement, pending approvals, indicative closing by the January-March 2027 quarter, exceptional items and the fall in reported net profit all match the filing; unchanged."
+      ],
+      "unverified": [
+        "The expiry of product rights as a cause of lower sales was removed from hurts and risks because the documents read do not state it."
+      ]
+    },
+    {
+      "company": "ultratech-cement",
+      "sourcesRead": [
+        "UltraTech results release, 19 October 2026 (Petnikota, debottlenecking, Ultravolt, capacity plan)",
+        "UltraTech integrated and sustainability report 2025-26 (demand outlook, dealers and retailers, operating margin drivers, monsoon and fuel outlook, regulatory risk, forward-looking factors)"
+      ],
+      "changes": [
+        "Added the annual report to sources.",
+        "Helps now rest on the annual report: demand outlook, dealer and retailer network, operating leverage.",
+        "The local-supply hurt is softened to the annual report's own wording about supply, demand and prices.",
+        "Risks given distinct angles: monsoon, petroleum coke and crude oil, capacity plan, emissions and land rules.",
+        "Context re-read; unchanged."
+      ],
+      "unverified": [
+        "A specific statement that rival producers cut prices when supply is plentiful was not found; wording now rests on 'demand-supply conditions, finished goods prices and cyclical demand'."
+      ]
+    },
+    {
+      "company": "eternal",
+      "sourcesRead": [
+        "Eternal Q2 FY27 shareholders' letter and results (21 October 2026) including notes to the results",
+        "Eternal Q3 FY26 and Q4 FY26 letter summaries",
+        "Eternal Hyperpure business page"
+      ],
+      "changes": [
+        "Helps rewritten from the Q2 FY27 letter (restaurant supplies via Hyperpure, advertising, store capacity).",
+        "Removed unsupported spoilage and damage claims from the owned-stock hurt.",
+        "Risks replaced with non-repeating, sourced angles: ten-minute delivery steps, AI shopping agents, the adjusted-earnings definition, Karnataka gig-worker law that the company is contesting.",
+        "Context re-read: two-hour Hyperpure delivery in all major cities, complete kitchens and logistics for restaurant chains match the letter; unchanged."
+      ],
+      "unverified": [
+        "The FY 2025-26 annual report on NSE could not be opened; food safety and consumer-protection rules in the hurts rest on the letter's remark that compliance requirements are tightening, not on a risk section."
+      ]
+    },
+    {
+      "company": "nestle-india",
+      "sourcesRead": [],
+      "changes": [
+        "Cut risks from five to four: removed the headline-comparison risk (already a watch question) and removed repeats of hurts (food safety stays in hurts only).",
+        "Ingredient-cost hurt shortened so the price and pack-size point appears only once, in risks."
+      ],
+      "unverified": [
+        "nestle.in blocked every fetch (annual report, key figures, at-a-glance) and the NSE copy could not be read, so no Nestle source was re-read this session; the checked date is unchanged at 29 October 2026.",
+        "The royalty risk restates what the lesson's basics already say; the royalty disclosure page was not re-read."
+      ]
+    }
+  ]
+}
