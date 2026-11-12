@@ -44,7 +44,7 @@ Load the TinyFish tools with ToolSearch (for example `select:mcp__claude_ai_Tiny
 
 - Work in batches of three to six companies. For each batch: create a branch from the latest `main` (`figures/<short-name>`), add the files, run `npm test`, push, and open a pull request with `gh pr create`. List each company with its period, scope, source page and any limits. Never merge, and never push to `main`.
 - If a PDF is too long for TinyFish, download it to `work/` (git-ignored) and extract text with Python `pypdf` (`work/venv/bin/python` if present).
-- Before calling a figure unreadable, extract the PDF text (pypdf) and search for the number; a filing with OCR-style slips is still readable. Check that every note number you cite matches the section of the filing you are citing (standalone and consolidated notes are numbered differently).
+- Before calling a figure unreadable, extract the PDF text (pypdf) and search for the number; a filing with OCR-style slips is still readable. Check that every note number you cite matches the section of the filing you are citing (standalone and consolidated notes are numbered differently). Never read garbled characters as digits (for example "SOS" as 505): if a figure cannot be read cleanly, leave it out and say so.
 - Double-check every number you typed against the evidence file before committing. Add up segment rows and compare with the reported total; explain any rounding gap.
 
 When you finish, report: the pull request link(s), companies done, any company you could not complete and why.
