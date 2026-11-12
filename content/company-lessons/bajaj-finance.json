@@ -1,0 +1,209 @@
+{
+  "summary": "Bajaj Finance lends money but is not a bank. It pays for phones and TVs in shops in monthly instalments, and makes personal, gold, vehicle and business loans, funded by borrowing from banks and bond buyers and by fixed deposits.",
+  "description": "Bajaj Finance is a non-banking financial company (NBFC): a company the Reserve Bank of India (RBI) registers to lend, but which cannot offer savings or current accounts or issue cheques. It started in 1987 as Bajaj Auto Finance, lending for two- and three-wheelers. Today a shopper buying a phone, TV or fridge can pay in fixed monthly instalments, known as EMI (equated monthly instalment), with its loan or its Insta EMI Card, and other customers borrow for personal needs, gold, cars, homes or small businesses. It works from 4,098 locations, most in small towns and villages. Its parent is Bajaj Finserv, and it owns most of Bajaj Housing Finance, which makes home loans.",
+  "money": "Most income is interest. Borrowers pay interest on their loans; Bajaj Finance in turn pays interest on the money it borrows from banks, bond buyers and depositors. What is left is net interest income. It also earns fees and commissions, for example for selling insurance with its loans. It spends on staff, branches and technology, and on loan losses, the part of loans it does not expect to get back. Money borrowed or repaid is not income, and income is not profit.",
+  "customers": "Borrowers pay. Shoppers pay interest or fees on loans for phones, appliances and two-wheelers; salaried people and small-business owners pay interest on personal and business loans; families pledge gold or property. Women in low-income rural households take small group loans. Fixed-deposit holders lend it money and receive interest. It counted 119 million customers in March 2026.",
+  "drivers": "How many borrowers repay on time, how cheaply it can borrow compared with what it charges, and how many new loans it can sell to the customers it already has.",
+  "groups": [
+    {
+      "title": "Loans for things people buy in shops",
+      "examples": "A phone, TV, fridge or two-wheeler bought on monthly instalments at a shop counter or online, often with the Insta EMI Card.",
+      "explanation": "The shopper takes home the item and repays Bajaj Finance in fixed monthly instalments, often called EMIs (equated monthly instalments). Each loan is small, but there are tens of millions of them, and each new customer can later be offered other loans."
+    },
+    {
+      "title": "Personal and business loans",
+      "examples": "A personal loan for a salaried worker, a business loan for a shop owner, or a loan for a doctor’s clinic.",
+      "explanation": "Most of these are unsecured: nothing is pledged, so the interest rate is higher and losses are bigger when borrowers stop paying. Some business loans are backed by a house, shop or office the borrower owns."
+    },
+    {
+      "title": "Loans backed by gold, vehicles or homes",
+      "examples": "A gold loan at a branch, a car or tractor loan, or a home loan from Bajaj Housing Finance.",
+      "explanation": "These are secured: the lender can sell the gold, vehicle or property if the loan is not repaid. They usually charge lower rates but lose less when things go wrong."
+    },
+    {
+      "title": "Rural and small group loans",
+      "examples": "Small loans in villages and group loans to women in low-income households.",
+      "explanation": "Branch staff meet borrowers in central village locations to give and collect loans. Small, frequent repayments make these loans work for people outside the formal banking system."
+    },
+    {
+      "title": "Fixed deposits and partner services",
+      "examples": "A fixed deposit for a fixed period, or life, health and general insurance sold alongside a loan.",
+      "explanation": "Fixed deposits are money customers lend to Bajaj Finance at a set rate. Insurance is sold for partner insurers, which pay Bajaj Finance a commission."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is a non-bank lender?",
+      "text": "An NBFC (non-banking financial company) lends like a bank but is not one. The RBI says NBFCs cannot take deposits that can be withdrawn on demand, such as savings accounts, cannot issue cheques, and their fixed-deposit holders do not get deposit insurance from the RBI-owned insurer, the Deposit Insurance and Credit Guarantee Corporation (DICGC), that bank depositors get."
+    },
+    {
+      "title": "Where does the money it lends come from?",
+      "text": "Instead of savings accounts, Bajaj Finance borrows from banks, sells bonds and short-term notes to investors, borrows abroad and takes fixed deposits. Fixed deposits made up about a fifth of its own borrowing in March 2026."
+    },
+    {
+      "title": "What is a bad loan?",
+      "text": "A non-performing asset (NPA) is a loan whose repayments are more than about three months overdue. Lenders set aside money, called a provision or impairment, for loans they may not get back, and this comes straight out of profit."
+    },
+    {
+      "title": "What are assets under management?",
+      "text": "Assets under management (AUM) is the total amount of loans the company is collecting repayments on. It is a balance, not a sale: it shows how much has been lent and not yet repaid."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Bajaj Finance borrows money",
+      "text": "It raises money from banks, bond investors and fixed-deposit holders, and agrees to pay them interest."
+    },
+    {
+      "title": "A customer applies for a loan",
+      "text": "At a shop counter, branch, app or website, it checks the customer’s income, credit history and existing loans, often within minutes."
+    },
+    {
+      "title": "The loan is paid out",
+      "text": "For a shop loan the money goes to the shop and the customer takes the item home. For other loans the money goes to the borrower."
+    },
+    {
+      "title": "The customer repays in instalments",
+      "text": "Each instalment repays part of the loan and pays interest. Only the interest and fees are income; the rest is the lender’s own money coming back."
+    },
+    {
+      "title": "Losses are chased and provided for",
+      "text": "If payments stop, collectors follow up and pledged gold or property may be sold. Expected losses are set aside from profit, so revenue, profit and cash received are three different things."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Moving away from Bajaj Auto bikes",
+      "text": "It began by financing Bajaj Auto vehicles. Its annual report describes winding down these captive two- and three-wheeler loans while lending for bikes of other makers."
+    },
+    {
+      "title": "Part of a larger group",
+      "text": "Its parent is Bajaj Finserv, a separate listed company. Bajaj Finance in turn owns most of Bajaj Housing Finance, which is listed too and makes home loans, so consolidated results include it."
+    },
+    {
+      "title": "Selling loans with AI",
+      "text": "It uses AI voice calls to find borrowers: its annual report says leads from AI voice calls produced about 8% of personal loans paid out to existing customers in 2025–26."
+    }
+  ],
+  "watch": [
+    [
+      "Are losses on unsecured and small-business loans under control?",
+      "Personal and small-business loans have nothing pledged, so losses come straight out of profit.",
+      "Compare loan losses and provisions as a share of average loans, and gross and net NPA, in several quarterly presentations."
+    ],
+    [
+      "Is its cost of borrowing falling or rising?",
+      "It earns from the gap between what it charges and what it pays to borrow.",
+      "Track the cost of funds and the net interest margin in each quarterly presentation and annual report."
+    ],
+    [
+      "How fast are loans growing, and in which products?",
+      "Growth in safer secured loans and riskier unsecured loans has different effects on future losses.",
+      "Read the business-segment AUM table in each presentation and compare secured products such as gold and mortgages with personal and business loans."
+    ],
+    [
+      "How much does Bajaj Housing Finance add?",
+      "Home loans are a large part of the group and are reported in the consolidated numbers.",
+      "Compare standalone and consolidated results each quarter, and read Bajaj Housing Finance’s own results and presentation."
+    ],
+    [
+      "Are new rules for NBFCs tightening?",
+      "RBI rules for large NBFCs and for unsecured loans can raise costs or slow lending.",
+      "Read the regulatory sections of the annual report and RBI circulars on NBFCs and consumer credit."
+    ]
+  ],
+  "risks": [
+    [
+      "Gold price falls",
+      "Gold loans depend on the value of pledged jewellery. It says it lends on average about 61% of the gold’s value to protect against short-term price drops."
+    ],
+    [
+      "Fraud",
+      "Its risk team works to stop fraud by customers, by the shops and agents who bring in loans, and by employees. Fraud can leave it with loans that will never be repaid."
+    ],
+    [
+      "Mistakes by AI systems",
+      "The annual report says poor data, biased models or privacy failures in its AI tools could harm customers and break rules."
+    ],
+    [
+      "Weather and climate",
+      "Floods, droughts and other climate events can damage borrowers’ incomes and the value of what they pledged, especially in rural areas."
+    ]
+  ],
+  "context": [
+    "July to September 2026: faster growth and fewer bad loans",
+    "On 19 October 2026 Bajaj Finance reported results for July to September 2026. Compared with the same quarter a year earlier, its loans under management were 26% higher and profit before tax 29% higher. It booked 13.45 million new loans in the quarter and had 128.85 million customers. Net NPA, bad loans after provisions, was 0.42% of loans against 0.60% a year earlier. This describes one quarter."
+  ],
+  "sources": [
+    [
+      "Bajaj Finance annual report 2025–26: management discussion and analysis",
+      "https://www.bajajfinserv.in/finance-digital-annual-report-fy26/bajaj-finance-ltd-ar-2025-26-assets/pdf/management-discussion-and-analysis.pdf"
+    ],
+    [
+      "Investor presentation for the quarter ended 30 September 2026 (filed with BSE) · 19 October 2026",
+      "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e7c0f169-e396-4a7d-a57d-b1f7c47f6290.pdf"
+    ],
+    [
+      "Reserve Bank of India: frequently asked questions on NBFCs",
+      "https://www.rbi.org.in/Scripts/FAQView.aspx?Id=92"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Read a lender’s numbers carefully",
+      "text": "Loans under management are balances, not sales. Bajaj Finance alone (standalone) and the group including Bajaj Housing Finance (consolidated) report separate results, so do not mix the two. Verified full-year figures for this profile have not yet been added, so the financial table below is marked as awaiting verification."
+    }
+  ],
+  "stepsTitle": "From borrowed money to your monthly instalment.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Lends for shop purchases, personal needs, gold, vehicles, homes and small businesses, without being a bank. It borrows the money it lends."
+    },
+    {
+      "title": "Who pays",
+      "text": "Borrowers pay interest and fees. Depositors and bond buyers are lenders to the company; it pays them interest."
+    },
+    {
+      "title": "How it earns",
+      "text": "Mostly from the gap between the interest it charges borrowers and the interest it pays on its own borrowing, plus fees such as commissions for selling insurance."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Interest on its borrowing, staff and branches, technology, and loans that turn bad."
+    }
+  ],
+  "helps": [
+    {
+      "title": "A huge base of repeat customers",
+      "text": "Its loans are offered at about 222,500 shop points, and the annual report describes a model of winning millions of customers there and selling them several loans and services over time."
+    },
+    {
+      "title": "Spread across many kinds of loans",
+      "text": "It runs eleven product groups, from shop loans to gold, vehicles and loans to companies. A problem in one, such as small-business loans in 2025–26, can be offset by others."
+    },
+    {
+      "title": "A thick layer of the owners’ own money",
+      "text": "Its capital adequacy, the owners’ money compared with risky loans, is well above the RBI minimum, according to its annual report. This lets it absorb losses and keep lending in bad years."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "No cheap savings deposits",
+      "text": "As an NBFC it cannot take savings or current account deposits, so it relies on banks, bond buyers and fixed-deposit holders, whose rates move with markets."
+    },
+    {
+      "title": "Unsecured loans go bad first",
+      "text": "Personal and small-business loans have nothing pledged. When borrowers take on too much debt, these are the first loans to see missed payments, as the annual report describes."
+    },
+    {
+      "title": "Rules can change quickly",
+      "text": "The RBI supervises large NBFCs closely. Its rules on capital, lending practices and gold loans can force changes to products or slow growth."
+    },
+    {
+      "title": "Wider economic and political shocks",
+      "text": "The annual report lists geopolitical and economic risks that can raise funding costs, cut demand for loans and hurt borrowers’ repayments."
+    }
+  ],
+  "checked": "12 November 2026"
+}

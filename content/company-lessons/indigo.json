@@ -1,0 +1,201 @@
+{
+  "summary": "InterGlobe Aviation runs IndiGo, India’s largest airline. It flies passengers between Indian cities and abroad on mostly leased Airbus planes, sells tickets and extras such as seats, bags and snacks, and carries cargo.",
+  "description": "IndiGo sells seats on more than 2,000 flights a day to about 97 Indian and 45 foreign destinations, and in 2025–26 it carried about 123 million passengers. It flies 441 aircraft, mostly single-aisle Airbus jets; most are rented from aircraft-leasing companies rather than owned. Its annual report credits a young, fuel-efficient fleet and closely packed seating for keeping the fuel cost per seat low. A wholly owned company, Agile Airport Services, guides, loads and unloads its planes at airports, and another, based in the International Financial Services Centre (IFSC) at GIFT City, a special finance zone in Gujarat, buys planes and leases them to the airline.",
+  "money": "Most income is passenger ticket revenue. Ancillary revenue adds money from cargo, extra baggage, booking fees, ticket changes and cancellations, seat choice and food sold on board. Fuel and the cost of owning or renting aircraft, including engine rentals and maintenance, are the largest costs, followed by staff and airport charges. Many of these are paid in US dollars, so a weaker rupee raises costs. A ticket sold for a future date is not revenue until the flight happens, and revenue is not profit.",
+  "customers": "Mostly individual travellers, who pay for a ticket and sometimes extras; more choose its business-style IndiGoStretch seats or flexible fares. Companies ship goods in its planes’ holds and in a few freighter aircraft. Partner banks issue IndiGo co-branded credit cards that earn BluChip loyalty points. The airline holds over 60% of the Indian domestic market.",
+  "drivers": "Average ticket prices and how full planes are, the price of jet fuel, the rupee against the dollar, and whether it has enough working aircraft and crew to fly its schedule.",
+  "groups": [
+    {
+      "title": "Flights within India",
+      "examples": "A morning flight from Delhi to Mumbai or Bengaluru to Kolkata.",
+      "explanation": "Short, frequent routes are the core of the business. The more seats sold on each flight and the higher the average fare, the more each flight earns."
+    },
+    {
+      "title": "Flights abroad",
+      "examples": "Flights to the Gulf, South-East Asia and, with longer-range planes, Europe.",
+      "explanation": "International routes are a growing share of its seats. They earn some revenue in foreign currency, which offsets part of its dollar costs."
+    },
+    {
+      "title": "Fare types and extras",
+      "examples": "Saver and Flexi fares, the roomier IndiGoStretch seats, seat choice, extra baggage and snacks on board.",
+      "explanation": "Passengers who want more pay more, either through a higher fare type or by adding services. These extras earn money without adding flights."
+    },
+    {
+      "title": "Cargo",
+      "examples": "Parcels and goods carried under passenger cabins and in its freighter aircraft.",
+      "explanation": "Shippers pay to send goods. Cargo in passenger planes uses space on flights that are already flying."
+    },
+    {
+      "title": "Loyalty programme",
+      "examples": "IndiGo BluChip points earned on flights and through co-branded credit cards.",
+      "explanation": "Members earn points they can spend on IndiGo flights, which encourages them to fly with IndiGo again."
+    }
+  ],
+  "basics": [
+    {
+      "title": "How do airlines measure their seats and sales?",
+      "text": "An available seat kilometre (ASK) is one seat flown one kilometre, the measure of capacity. Load factor is the share of seats filled. Yield is the average fare earned per kilometre a passenger flies."
+    },
+    {
+      "title": "Why lease planes instead of buying them?",
+      "text": "Most IndiGo planes are on operating leases: it rents them from leasing companies instead of paying the full price up front. The rent is largely owed in US dollars over many years, so a weaker rupee makes these debts bigger."
+    },
+    {
+      "title": "What are the crew duty rules?",
+      "text": "Flight Duty Time Limitation (FDTL) rules set how long pilots may fly and how much rest they must get. IndiGo says putting the revised rules into practice during a peak travel period contributed to delays and cancellations in December 2025."
+    }
+  ],
+  "steps": [
+    {
+      "title": "IndiGo plans routes and leases planes",
+      "text": "It decides which cities to link and how often, and takes delivery of aircraft, mostly on lease, years ahead."
+    },
+    {
+      "title": "Passengers book and pay",
+      "text": "Customers buy tickets on its app, website or through agents, often weeks before flying. The money is received but held as owed to the customer until the flight."
+    },
+    {
+      "title": "The flight operates",
+      "text": "Ground staff load bags and cargo, crew fly the plane and serve passengers, and fuel and airport charges are paid. Only now is the ticket counted as revenue."
+    },
+    {
+      "title": "Extras and cargo add income",
+      "text": "Seat choices, bags, meals and changes bring extra fees; shippers pay for cargo carried on the same flights."
+    },
+    {
+      "title": "Bills are paid",
+      "text": "IndiGo pays fuel suppliers, lessors, airports and staff. Revenue, profit after all these costs and cash in the bank are three different things."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Its own ground crews and plane financing",
+      "text": "Agile Airport Services, which IndiGo owns, does its ground handling at Indian airports. IndiGo IFSC buys aircraft and leases them to the airline; it leased 45 planes to IndiGo in 2025–26."
+    },
+    {
+      "title": "Growing faster abroad than at home",
+      "text": "In 2025–26 its international seat capacity grew about 23% against about 4% at home, and longer-range Airbus A321XLR and A350 planes are meant to take it further."
+    },
+    {
+      "title": "Extras grow faster than tickets",
+      "text": "Revenue from extras such as cargo, baggage and seat choice grew 14.5% in 2025–26, against 5.7% for tickets."
+    }
+  ],
+  "watch": [
+    [
+      "Are fares and load factors holding up?",
+      "Revenue depends on how full planes are and what each passenger pays.",
+      "Compare yield and load factor with the same quarter a year earlier in each quarterly press release."
+    ],
+    [
+      "What is fuel costing?",
+      "Fuel is one of its largest costs and can jump with oil prices and wars.",
+      "Track fuel cost per available seat kilometre in each press release and the fuel-price comments in the annual report."
+    ],
+    [
+      "How much does the rupee hurt?",
+      "Many costs and lease debts are in dollars.",
+      "Compare profit with and without foreign exchange effects, which IndiGo shows separately in its press releases."
+    ],
+    [
+      "Is the international push paying off?",
+      "New long routes need new planes and time to fill seats.",
+      "Follow international capacity, load factor and destinations in the annual report’s operating table each year."
+    ],
+    [
+      "Are operations reliable?",
+      "Cancellations, like those in December 2025, bring compensation costs, penalties and lost bookings.",
+      "Read on-time performance and cancellation rates in each press release, and any regulator orders mentioned in filings."
+    ]
+  ],
+  "risks": [
+    [
+      "Competition",
+      "Rivals adding planes and cutting fares can lower yields, market share and margins."
+    ],
+    [
+      "Bad weather and technical faults",
+      "IndiGo says weather or technical problems can disrupt its network, leading to delays, cancellations and compensation costs."
+    ],
+    [
+      "An accident or serious incident",
+      "Its annual report says an incident causing injury, loss of life or aircraft damage would bring major disruption, financial cost and harm to its reputation."
+    ],
+    [
+      "Damage to its reputation",
+      "Bad publicity, for example after mass cancellations, can push travellers to other airlines."
+    ]
+  ],
+  "context": [
+    "July to September 2026: higher fares, fewer passengers, costly fuel",
+    "On 29 October 2026 IndiGo reported results for July to September 2026. Compared with the same quarter a year earlier, it flew 1% less capacity and carried 27.5 million passengers, 4.7% fewer. Yield, the average fare per kilometre, rose 34.3% and revenue from operations 25.9%, but fuel cost per seat kilometre rose 68.9% and the rupee weakened, so it reported a net loss. It had also made a loss, a larger one, in the same quarter a year earlier. This describes one quarter."
+  ],
+  "sources": [
+    [
+      "InterGlobe Aviation annual report 2025–26",
+      "https://www.goindigo.in/content/dam/s6web/in/en/assets/investor-relations/policies/2026/annual_report_FY26.pdf"
+    ],
+    [
+      "Press release for the quarter ended 30 September 2026 (filed with NSE) · 29 October 2026",
+      "https://nsearchives.nseindia.com/corporate/Indigo1_29102026161010_Press_Release_29102026.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Separate the exchange-rate effect",
+      "text": "IndiGo’s profit can swing on foreign exchange gains or losses, so it also reports profit excluding those effects. Standalone (the airline) and consolidated (with its subsidiaries) results are separate. Verified full-year figures for this profile have not yet been added, so the financial table below is marked as awaiting verification."
+    }
+  ],
+  "stepsTitle": "From a booked seat to a finished flight.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Flies passengers and cargo across India and abroad on a large fleet of mostly leased Airbus jets."
+    },
+    {
+      "title": "Who pays",
+      "text": "Travellers pay for tickets and extras, and companies pay to send cargo."
+    },
+    {
+      "title": "How it earns",
+      "text": "Mainly ticket sales, plus fees for bags, seats, changes, food on board and cargo."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Jet fuel, aircraft rent and maintenance, staff, and airport charges, many of them in US dollars."
+    }
+  ],
+  "helps": [
+    {
+      "title": "The biggest network in India",
+      "text": "Its annual report says it is positioned to benefit from rising air travel, new airports and more international links through its large domestic network."
+    },
+    {
+      "title": "Low cost per seat",
+      "text": "A young fleet of fuel-efficient Airbus planes and high-density seating keep its cost per seat low, which the annual report names as a way it protects margins."
+    },
+    {
+      "title": "Planes on order for years ahead",
+      "text": "An order book of more than 900 aircraft gives it clear capacity for future growth at home and abroad."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Costs it cannot control",
+      "text": "Fuel prices and the rupee move with world events. The annual report lists both as major risks, and both can change costs within weeks."
+    },
+    {
+      "title": "Climate rules add costs",
+      "text": "From 2026–27 it expects costs from an international carbon-offset scheme for airlines and from rules requiring sustainable aviation fuel (SAF), which costs more than normal jet fuel."
+    },
+    {
+      "title": "Dependence on people and rules",
+      "text": "Pilots, engineers and cabin crew are scarce, and changes to duty rules or labour unrest can force flights to be cancelled."
+    },
+    {
+      "title": "Geopolitics",
+      "text": "Wars and airspace closures can force long detours and cut demand on international routes, the area where it is trying to grow."
+    }
+  ],
+  "checked": "12 November 2026"
+}

@@ -1,0 +1,169 @@
+{
+  "order": 47,
+  "company": {
+    "id": "axis-bank",
+    "name": "Axis Bank",
+    "ticker": "AXISBANK",
+    "sector": "Banking",
+    "initial": "A",
+    "color": "#97144d",
+    "bg": "#fbeaf1",
+    "tag": "A private bank for savers, borrowers, card users and companies",
+    "products": [
+      [
+        "Savings accounts and the open by Axis Bank app",
+        "Deposits and payments"
+      ],
+      [
+        "Current accounts for shops and companies",
+        "Business banking"
+      ],
+      [
+        "Fixed and recurring deposits",
+        "Deposits"
+      ],
+      [
+        "Credit and debit cards",
+        "Payments and credit"
+      ],
+      [
+        "UPI payments and card machines for shops",
+        "Payments"
+      ],
+      [
+        "Home loans and loans against property",
+        "Secured lending"
+      ],
+      [
+        "Car loans and gold loans",
+        "Secured lending"
+      ],
+      [
+        "Personal loans",
+        "Unsecured lending"
+      ],
+      [
+        "Rural and farm loans (Bharat Banking)",
+        "Rural lending"
+      ],
+      [
+        "Loans to small, medium and large companies",
+        "Business lending"
+      ],
+      [
+        "neo by Axis Bank for corporate payments and trade",
+        "Transaction banking"
+      ],
+      [
+        "Burgundy and Burgundy Private wealth banking",
+        "Wealth management"
+      ],
+      [
+        "Loans from Axis Finance",
+        "Group company: lending"
+      ],
+      [
+        "Mutual funds (Axis Asset Management Company)",
+        "Group company: fund management"
+      ],
+      [
+        "Share trading (Axis Securities)",
+        "Group company: broking"
+      ],
+      [
+        "Investment banking (Axis Capital)",
+        "Group company: advice to companies"
+      ]
+    ],
+    "sources": [
+      [
+        "Axis Bank shareholders’ corner: annual reports",
+        "https://www.axis.bank.in/shareholders-corner/shareholders-information/annual-reports"
+      ]
+    ],
+    "productSource": "https://www.axis.bank.in/",
+    "checked": "12 November 2026",
+    "reviewed": "12 November 2026",
+    "aliases": [
+      "Axis Bank Limited",
+      "Axis Bank Ltd",
+      "Axis",
+      "UTI Bank"
+    ],
+    "productNote": "Main product and service families from the bank’s website and its 2025–26 integrated annual report, grouped by what the customer gets. Group companies are listed from the annual report’s list of subsidiaries."
+  },
+  "offerings": [
+    {
+      "name": "Business loans",
+      "category": "Money lent to small firms and factories for stock, machines and wages",
+      "image": "assets/products/axis-bank-business-loan.webp",
+      "url": "https://www.axis.bank.in/loans/business-loan",
+      "kind": "photo",
+      "alt": "Two men talking over a folder on a factory floor while workers in helmets stand behind them — banner image from Axis Bank’s business-loan page"
+    },
+    {
+      "name": "Car loans",
+      "category": "Money lent to buy a car, repaid in monthly instalments",
+      "image": "assets/products/axis-bank-car-loan.webp",
+      "url": "https://www.axis.bank.in/loans/car-loan",
+      "kind": "photo",
+      "alt": "A smiling man leaning out of a car window with a woman at the wheel beside him — banner image from Axis Bank’s car-loan page"
+    },
+    {
+      "name": "Savings accounts and the open app",
+      "category": "A place to keep everyday money, run mostly from a phone",
+      "image": "assets/products/axis-bank-open-app.webp",
+      "url": "https://www.axis.bank.in/bank-smart/open-by-axis-bank",
+      "kind": "photo",
+      "alt": "A smiling woman giving a thumbs-up while holding out a phone that shows a banking app screen — banner image from Axis Bank’s open by Axis Bank app page"
+    },
+    {
+      "name": "Personal loans",
+      "category": "A loan with nothing pledged, approved on income and credit history",
+      "image": "assets/products/axis-bank-personal-loan.webp",
+      "url": "https://www.axis.bank.in/loans/personal-loan",
+      "kind": "photo",
+      "alt": "A smiling man in a pink T-shirt pointing at the phone in his other hand, on a pale pink background — banner image from Axis Bank’s personal-loan page"
+    },
+    {
+      "name": "Gold loans",
+      "category": "A loan given against gold jewellery left with the bank",
+      "image": "assets/products/axis-bank-gold-loan.webp",
+      "url": "https://www.axis.bank.in/loans/gold-loan",
+      "kind": "photo",
+      "alt": "A smiling couple holding a red cloth bundle with gold jewellery — banner image from Axis Bank’s gold-loan page"
+    },
+    {
+      "name": "Home loans",
+      "category": "Money lent to buy a house, repaid over many years",
+      "image": "assets/products/axis-bank-home-loan.webp",
+      "url": "https://www.axis.bank.in/loans/home-loan",
+      "kind": "photo",
+      "alt": "A father lifting his laughing daughter in the doorway of a home — image from Axis Bank’s home-loan page"
+    },
+    {
+      "name": "Current accounts for businesses",
+      "category": "Accounts that shops and companies use to collect and pay money",
+      "image": "assets/products/axis-bank-current-account.webp",
+      "url": "https://www.axis.bank.in/business-banking/current-account",
+      "kind": "photo",
+      "alt": "A man in a maroon jacket working on a laptop at an office desk — banner image from Axis Bank’s current-account page"
+    },
+    {
+      "name": "Fixed deposits",
+      "category": "Money left with the bank for a set time at a set interest rate",
+      "image": "assets/products/axis-bank-fixed-deposit.webp",
+      "url": "https://www.axis.bank.in/deposits/fixed-deposits",
+      "kind": "photo",
+      "alt": "An older couple riding bicycles side by side, the woman raising one arm — banner image from Axis Bank’s fixed-deposit page"
+    },
+    {
+      "name": "Debit and credit cards",
+      "category": "Cards for paying in shops and online",
+      "image": "assets/products/axis-bank-cards.webp",
+      "url": "https://www.axis.bank.in/cards/debit-card",
+      "kind": "pack",
+      "alt": "Three silver and pink Axis Bank debit cards fanned out — product image from Axis Bank’s debit-card page"
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "summary": "HCLTech supplies teams of engineers who build, run and fix computer systems for large companies, mostly in the USA and Europe. It also designs chips and product software for manufacturers, and sells its own business software on licence and subscription.",
+  "description": "A bank, carmaker or drug company hands HCLTech part of its technology work. HCLTech staff write and update the programs the client runs on, look after its servers, cloud accounts, networks and office laptops, guard against cyber attacks and answer its customers’ calls. For companies that make products, its engineers design chips, devices and the software inside cars and factory machines. A third, smaller business, HCLSoftware, sells software the company owns. Shiv Nadar founded HCL about 50 years ago, and HCLTech had about 230,000 people in September 2026.",
+  "money": "Most revenue comes from service fees. Some clients pay for the hours or volume of work done, called time-and-material contracts; others pay a fixed price for a project, so HCLTech carries the risk if it takes longer. Software customers pay once for a licence or yearly for subscription and support. Staff pay is by far the biggest cost, followed by subcontractors, offices and travel. A signed deal is not revenue until the work is done, and revenue is not profit.",
+  "customers": "Large companies and governments pay, mostly outside India: in July to September 2026 about 56% of its services revenue came from the USA and about 27% from Europe. Financial services firms and manufacturers are its two biggest client groups. Its 20 largest clients bring in about 28.5% of revenue. The people who use the systems, such as a bank’s customers, do not pay HCLTech.",
+  "drivers": "How much big companies spend on technology, how many staff HCLTech needs for each piece of work as AI takes over routine tasks, salary costs, and the rupee’s value against the dollar and euro.",
+  "groups": [
+    {
+      "title": "Building and updating business software",
+      "examples": "Moving a bank’s old programs to new systems, setting up large packaged software for accounts and supplies, or adding AI tools to a client’s apps.",
+      "explanation": "This is part of IT and Business Services (ITBS), the largest of its three segments. Teams of programmers plan, write, test and then maintain the client’s software."
+    },
+    {
+      "title": "Running computers, cloud and networks",
+      "examples": "Looking after a company’s servers, cloud accounts, networks, office laptops and help desk, and guarding them against attacks.",
+      "explanation": "These contracts often run for several years. HCLTech staff, many working from India, keep the systems running and fix problems as they appear."
+    },
+    {
+      "title": "Back-office work",
+      "examples": "Answering customer calls, processing bills and claims, and running accounts for client companies.",
+      "explanation": "Business process operations, the work once called BPO (business process outsourcing), is paid by the volume of transactions handled or by contract."
+    },
+    {
+      "title": "Engineering and R&D services",
+      "examples": "Designing a computer chip, testing software for a car or a medical device, or digitising a factory.",
+      "explanation": "Engineering and R&D Services (ERS) is the second segment. Product makers hire HCLTech engineers instead of, or alongside, their own research and development teams."
+    },
+    {
+      "title": "HCLSoftware",
+      "examples": "Business software products that HCLTech owns and licenses to companies.",
+      "explanation": "The third and smallest segment. Customers pay for a licence and then a yearly fee for support and updates, so much of the revenue repeats each year."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is constant currency?",
+      "text": "HCLTech earns mostly in dollars and euros but reports in rupees. Growth in constant currency removes the effect of exchange-rate changes, so it shows how much the business itself grew."
+    },
+    {
+      "title": "What is a deal booking?",
+      "text": "When a client signs a new contract, HCLTech counts its expected value as a booking. The money becomes revenue only over the following months or years as the work is done."
+    },
+    {
+      "title": "What is a global capability centre?",
+      "text": "A global capability centre (GCC) is an office a foreign company sets up in India to do its own technology work with its own staff, instead of hiring a firm like HCLTech."
+    }
+  ],
+  "steps": [
+    {
+      "title": "A client signs a contract",
+      "text": "After a bid, the client agrees a project or a multi-year service deal, priced by time worked, by volume or as a fixed price."
+    },
+    {
+      "title": "HCLTech assigns staff",
+      "text": "It hires or moves engineers onto the work, some at the client’s site and most in its centres in India and other countries."
+    },
+    {
+      "title": "The work is done and measured",
+      "text": "Teams build, test, run or fix systems. For fixed-price projects, revenue is counted as the work progresses, based on costs spent so far."
+    },
+    {
+      "title": "HCLTech sends invoices",
+      "text": "It bills the client monthly or at agreed stages. Work done but not yet billed is recorded as unbilled revenue."
+    },
+    {
+      "title": "The client pays",
+      "text": "Payment arrives weeks later. Revenue, profit after salaries and other costs, and cash received are three different things."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Engineering for product makers",
+      "text": "Its ERS segment designs chips, devices and embedded software, the programs built into a product such as a car’s brake controls or a medical device, for manufacturers. Its annual report calls this chip-to-cloud work."
+    },
+    {
+      "title": "Owning software, not just selling staff time",
+      "text": "Through HCLSoftware it owns products that it licenses. This revenue does not need a matching rise in headcount, unlike services."
+    },
+    {
+      "title": "Building AI systems is now its own line",
+      "text": "Since 2025–26 HCLTech reports revenue from advanced AI work separately: building and running AI systems, AI-ready computing centres and AI software for clients."
+    }
+  ],
+  "watch": [
+    [
+      "Are new deal bookings turning into revenue growth?",
+      "Bookings show future work, but they become revenue only as projects run.",
+      "Compare new bookings with revenue growth in constant currency over several quarterly investor releases."
+    ],
+    [
+      "Is AI shrinking old contracts faster than it creates new ones?",
+      "Automation can cut the number of paid hours on routine work.",
+      "Track the services growth rate and the reported AI revenue in each investor release, and read management’s comments on contract renewals."
+    ],
+    [
+      "Are margins holding as salaries rise?",
+      "Staff pay is the largest cost, so wage rises hit profit directly.",
+      "Follow the operating margin and staff costs as a share of revenue in each annual report and quarterly release."
+    ],
+    [
+      "Is it depending too much on a few clients or markets?",
+      "Losing a big client or a slowdown in the USA would hurt revenue.",
+      "Check the top-client share, revenue by geography and revenue by industry in the investor release each quarter."
+    ],
+    [
+      "Is HCLSoftware growing again?",
+      "Software revenue declined in 2025–26; recurring subscription revenue matters for its value.",
+      "Compare software revenue and annual recurring revenue, the yearly value of active subscriptions, in each investor release."
+    ]
+  ],
+  "risks": [
+    [
+      "Currency swings",
+      "It earns most revenue from clients outside India while many costs are in other currencies, so exchange-rate changes can cause losses."
+    ],
+    [
+      "Client and sector concentration",
+      "Its 20 biggest clients bring in about 28.5% of revenue, so trouble at a few clients or in one industry would show up in its results."
+    ],
+    [
+      "Fixed-price projects running over",
+      "On fixed-price contracts, extra time and cost fall on HCLTech, and its investor releases list such overruns among the risks."
+    ],
+    [
+      "Acquisitions that do not work out",
+      "HCLTech buys companies regularly. Its annual report says poor integration can mean the expected benefits never come and the price paid has to be written down."
+    ]
+  ],
+  "context": [
+    "July to September 2026: more new deals, slow growth",
+    "On 12 October 2026 HCLTech reported results for July to September 2026. Compared with the same quarter a year earlier, revenue grew 2.6% in constant currency, new deal bookings were 27% higher and revenue from its advanced AI services was 78% higher. Its workforce was 230,339 people, against 226,640 a year earlier. This describes one quarter."
+  ],
+  "sources": [
+    [
+      "HCLTech integrated annual report 2025–26",
+      "https://www.hcltech.com/hcl-annual-report-2026/pdfs/Annual-Report-2025-26.pdf"
+    ],
+    [
+      "Investor release for the quarter ended 30 September 2026 · 12 October 2026",
+      "https://hcltech.com/sites/default/files/document/open/quarter-results/2026-10/hcltech-Q2-fy27-Investor-release.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Read the currency and the scope",
+      "text": "HCLTech reports in rupees but also gives figures in US dollars and in constant currency, which can show different growth rates for the same period. The consolidated results include its subsidiaries abroad. Verified full-year figures for this profile have not yet been added, so the financial table below is marked as awaiting verification."
+    }
+  ],
+  "stepsTitle": "From a signed contract to a paid invoice.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Builds, runs and repairs computer systems for large companies, designs products for manufacturers, and sells its own software."
+    },
+    {
+      "title": "Who pays",
+      "text": "Large companies and governments, mostly in the USA and Europe, pay for services and software licences."
+    },
+    {
+      "title": "How it earns",
+      "text": "Fees for staff time or for fixed-price projects, plus software licences, subscriptions and support."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Mostly salaries for its engineers and staff, then subcontractors, offices, travel and technology."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Work spread across many countries",
+      "text": "HCLTech has staff in about sixty countries and says its distributed delivery model, with nearshore centres close to clients, keeps services running when one location is disrupted."
+    },
+    {
+      "title": "Long relationships with big companies",
+      "text": "Its annual report counts 976 clients each bringing in over a million dollars. Existing clients often hand it more work, which costs less to win than new clients."
+    },
+    {
+      "title": "Steady need for technology work",
+      "text": "Its annual report expects companies’ technology spending to stay structurally resilient, because putting off modernisation creates its own risks."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "AI can do part of the work",
+      "text": "Where AI automates coding, testing or support, clients may pay for fewer staff hours. HCLTech’s annual report calls some of its services AI-disrupted."
+    },
+    {
+      "title": "Wages and staff turnover",
+      "text": "Engineers are the main cost. Wage inflation and staff leaving for rivals push costs up or slow projects, as the annual report’s talent risk describes."
+    },
+    {
+      "title": "Clients can do the work themselves",
+      "text": "More large companies are opening their own global capability centres in India, which the annual report lists as competition."
+    },
+    {
+      "title": "Foreign politics and visas",
+      "text": "Rules that limit work visas, or that favour local hiring, make it harder and costlier to staff projects in the USA and Europe."
+    }
+  ],
+  "checked": "12 November 2026"
+}

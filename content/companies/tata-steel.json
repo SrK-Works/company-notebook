@@ -1,0 +1,149 @@
+{
+  "order": 50,
+  "company": {
+    "id": "tata-steel",
+    "name": "Tata Steel",
+    "ticker": "TATASTEEL",
+    "sector": "Industrials & infrastructure",
+    "initial": "T",
+    "color": "#1d4e9e",
+    "bg": "#e9effa",
+    "tag": "Digs iron ore and coal, makes steel in India and Europe, and sells it to builders and factories",
+    "products": [
+      [
+        "Tata Tiscon steel bars for concrete (rebars)",
+        "Construction steel"
+      ],
+      [
+        "Tata Structura hollow steel sections and Tata Pravesh steel doors",
+        "Construction steel"
+      ],
+      [
+        "Tata Steel Colors coated and painted sheets for roofs and walls",
+        "Construction steel"
+      ],
+      [
+        "Steel sheet and coils for car and appliance makers",
+        "Automotive and flat steel"
+      ],
+      [
+        "Tinplate for cans, drums and barrels",
+        "Packaging"
+      ],
+      [
+        "Tata Wiron wires and wire rods",
+        "Wire products"
+      ],
+      [
+        "Tata Agrico hand tools for farms",
+        "Farm tools"
+      ],
+      [
+        "Plates and pipes for engineering, shipbuilding and energy",
+        "Engineering steel"
+      ],
+      [
+        "Ferro alloys from its chromite and manganese mines",
+        "Ferro alloys"
+      ],
+      [
+        "Aashiyana online store for people building homes",
+        "Retail"
+      ],
+      [
+        "Flat steel from IJmuiden (Tata Steel Nederland)",
+        "Europe"
+      ],
+      [
+        "Strip steel from Tata Steel UK",
+        "Europe"
+      ],
+      [
+        "Bars and wire rods from Tata Steel Thailand",
+        "South-east Asia"
+      ]
+    ],
+    "sources": [
+      [
+        "Tata Steel investor relations",
+        "https://www.tatasteel.com/investors/"
+      ]
+    ],
+    "productSource": "https://www.tatasteel.com/products-solutions/india/",
+    "checked": "12 November 2026",
+    "reviewed": "12 November 2026",
+    "aliases": [
+      "Tata Steel Limited",
+      "Tata Steel Ltd",
+      "TISCO",
+      "Tata Iron and Steel Company"
+    ],
+    "productNote": "Product families and brands named in the 2025–26 integrated report and on Tata Steel’s product pages, grouped by what the customer uses the steel for. Plants in the Netherlands, the UK and Thailand belong to subsidiaries."
+  },
+  "offerings": [
+    {
+      "name": "Steelworks",
+      "category": "Large plants where iron is melted and made into steel",
+      "image": "assets/products/tata-steel-kalinganagar.webp",
+      "url": "https://www.tatatiscon.co.in/about-us/",
+      "kind": "photo",
+      "alt": "A steelworks lit up at night, with a tall chimney and a large round gas holder — image named Kalinganagar on the Tata Tiscon website’s about page"
+    },
+    {
+      "name": "Bars and wire rods",
+      "category": "Steel for building that leaves the mill in bundles and coils",
+      "image": "assets/products/tata-steel-bars.webp",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_29336_TATASTEEL_2025_2026_A_19703090_03062026194432.pdf#page=22",
+      "kind": "photo",
+      "alt": "A worker in a hard hat and orange vest checking bundles of steel bars and coils in a mill — photograph from Tata Steel’s 2025–26 integrated report"
+    },
+    {
+      "name": "Its own mines",
+      "category": "Iron ore and coal dug from mines it holds leases for",
+      "image": "assets/products/tata-steel-mine.webp",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_29336_TATASTEEL_2025_2026_A_19703090_03062026194432.pdf#page=56",
+      "kind": "photo",
+      "alt": "An open-pit mine with terraces of red earth and a processing plant behind it — photograph from Tata Steel’s 2025–26 integrated report"
+    },
+    {
+      "name": "Electric arc furnace, Ludhiana",
+      "category": "A newer plant that melts scrap steel with electricity",
+      "image": "assets/products/tata-steel-ludhiana.webp",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_29336_TATASTEEL_2025_2026_A_19703090_03062026194432.pdf#page=9",
+      "kind": "photo",
+      "alt": "A long green factory building surrounded by fields, seen from above — the EAF plant in Ludhiana, Punjab, from Tata Steel’s 2025–26 integrated report"
+    },
+    {
+      "name": "Blast furnaces",
+      "category": "Tall furnaces that melt iron ore with coke to make iron",
+      "image": "assets/products/tata-steel-blast-furnace.webp",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_29336_TATASTEEL_2025_2026_A_19703090_03062026194432.pdf#page=47",
+      "kind": "photo",
+      "alt": "A red blast furnace and its surrounding plant seen from the air — photograph from Tata Steel’s 2025–26 integrated report"
+    },
+    {
+      "name": "Engineers and plant staff",
+      "category": "People who run, check and repair the plants",
+      "image": "assets/products/tata-steel-engineers.webp",
+      "url": "https://www.tatasteel.com/corporate/our-organisation/company-profile/",
+      "kind": "photo",
+      "alt": "Three engineers in white hard hats, ear defenders and yellow Tata jackets looking up inside a plant — image from Tata Steel’s company profile page"
+    },
+    {
+      "name": "Tata Tiscon rebars",
+      "category": "Ribbed steel bars that hold concrete together in houses and bridges",
+      "image": "assets/products/tata-steel-tiscon.webp",
+      "url": "https://www.tatatiscon.co.in/",
+      "kind": "pack",
+      "alt": "A single ribbed steel bar with the Tiscon name rolled into it, on a plain background — product image from the Tata Tiscon website"
+    },
+    {
+      "name": "Tinplate for packaging",
+      "category": "Thin coated steel made into cans, drums and barrels",
+      "image": "assets/products/tata-steel-tinplate.webp",
+      "url": "https://www.tatasteel.com/products-solutions/india/",
+      "kind": "pack",
+      "alt": "Rows of shiny steel cans seen from above — consumer-goods image from Tata Steel’s products page"
+    }
+  ]
+}
