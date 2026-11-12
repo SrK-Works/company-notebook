@@ -93,25 +93,25 @@
   ],
   "risks": [
     [
-      "Competitors cut prices",
-      "Discounts and payments to support dealer sales can reduce profit even if more litres are sold."
+      "Tastes change",
+      "Buyers are moving towards eco-friendly paints, complete painting solutions and niche products. A company slow to follow can lose sales."
     ],
     [
-      "Ingredients or currency costs rise",
-      "Some materials depend on commodity prices or imports; costs can rise before customer prices change."
+      "New businesses are unfamiliar",
+      "Making chemicals and other new products needs different skills, raw materials and safety rules from paint. Inexperience can delay a start or cause a loss."
     ],
     [
       "A service job goes badly",
-      "Late work, poor application or faulty installation can lead to complaints, repeated work and extra costs."
+      "Late work, poor application or a faulty fitting can lead to complaints and repeat work. Because the service carries the brand, a bad experience can hurt paint sales too."
     ],
     [
-      "New factories or ranges attract too little demand",
-      "Staff, buildings and equipment still cost money when sales grow slowly."
+      "Factory safety",
+      "Paint and chemical plants handle hazardous materials and heavy machinery. An accident can injure people and stop production."
     ]
   ],
   "context": [
     "Price increases can make sales grow faster than litres",
-    "Asian Paints’ 29 October 2026 results presentation says its decorative business in India, meaning paints for homes and buildings, sold more paint by volume in July–September 2026. Its sales value grew faster because the company had raised prices after the cost of its ingredients rose sharply earlier in the year. Paint made with ingredients bought at those higher costs was still being sold, so gross margin, the share of sales left after paying for materials, fell. Group profit grew more slowly than sales. The same presentation says the first stage of a new plant at Dahej in Gujarat has started making VAE emulsion, a liquid ingredient used in its paint formulas, which the company would otherwise have to buy. The company expects a stronger cost benefit only after a second stage is running, so a plant start does not yet prove a saving."
+    "Asian Paints’ 29 October 2026 results presentation says its decorative business in India, meaning paints for homes and buildings, sold more paint by volume in July–September 2026. Its sales value grew faster because the company had raised prices after the cost of its ingredients rose sharply earlier in the year. Paint made with ingredients bought at those higher costs was still being sold, so gross margin, the share of sales left after paying for materials, fell. Group profit grew more slowly than sales. The same presentation says the first stage of a new plant at Dahej in Gujarat has started making VAE (a liquid ingredient used in its paint formulas), which the company would otherwise have to buy. The company expects a stronger margin benefit only after a second stage is running, so a plant start does not yet prove a saving."
   ],
   "sources": [
     [
@@ -119,12 +119,16 @@
       "https://www.asianpaints.com/content/annualreport/annual-report-25-26.html"
     ],
     [
+      "FY 2025–26 annual report: managing risks (critical risks and mitigation)",
+      "https://static.asianpaints.com/content/dam/annual-report-2526/pdf/Managing-risks.pdf"
+    ],
+    [
       "Official annual-report library",
       "https://www.asianpaints.com/more/investors/investors-landing-page.html?q=annual-reports"
     ],
     [
-      "Volume versus value, ingredient costs and Dahej plant · results presentation 29 October 2026",
-      "https://www.bseindia.com/xml-data/corpfiling/AttachLive/83b2bead-08c8-4789-a658-7985de0c772f.pdf"
+      "Volume versus value, ingredient costs and Dahej plant · results presentation filed with BSE, 29 October 2026",
+      "https://www.bseindia.com/xml-data/corpfiling/AttachHis/83b2bead-08c8-4789-a658-7985de0c772f.pdf"
     ]
   ],
   "financialNotes": [
@@ -133,7 +137,7 @@
       "text": "The audited group reports one business segment. The table shows revenue from operations and group profit after tax, including non-controlling interests. Decorative paints, industrial ventures, international activities and home décor are not assigned invented separate profits. Check how each venture enters the group accounts before comparing business highlights."
     }
   ],
-  "checked": "31 October 2026",
+  "checked": "12 November 2026",
   "stepsTitle": "From the factory to a painted wall.",
   "quick": [
     {
@@ -156,33 +160,33 @@
   "helps": [
     {
       "title": "Many kinds of buyer",
-      "text": "Dealers, households, painters, builders and industrial customers all buy from the company. Demand does not rest on one type of customer."
+      "text": "Dealers, households, painters, builders, housing projects and factories all buy from Asian Paints. Growing sales to builders and institutions have widened where its revenue comes from."
     },
     {
-      "title": "Services can turn paint into finished jobs",
-      "text": "Painting and fitted-home services help a customer get a finished wall or kitchen, not just a tin. When jobs are done well, this adds earnings beyond the paint itself."
+      "title": "Selling a finished wall, not just a tin",
+      "text": "Asian Paints also sends painters and supervisors to paint a home or waterproof a roof. The annual report calls these services a key way to stand apart from rivals and to earn beyond the paint itself."
     },
     {
-      "title": "Cheaper ingredients can help",
-      "text": "Many ingredients follow commodity prices. When they fall, costs drop, though the lesson notes the company may pass some of this on as lower prices."
+      "title": "Making its own ingredients",
+      "text": "Asian Paints is building plants to make some of the chemicals in its paint instead of buying them, to lower costs and develop its own distinct paint formulas."
     }
   ],
   "hurts": [
     {
-      "title": "Competitors cut prices",
-      "text": "Discounts and payments to support dealer sales can reduce profit even if more litres are sold."
+      "title": "More paint brands to choose from",
+      "text": "More brands give dealers and households more choice, so Asian Paints can lose customers and market share to competitors."
     },
     {
-      "title": "More litres can still bring less money",
-      "text": "If prices fall or buyers choose cheaper ranges, selling more paint need not raise sales value by the same amount."
+      "title": "Ingredient prices and supply",
+      "text": "Wars, trade tariffs and supplier problems can make ingredients dearer or scarce, which can stop production or cut profit. In 2026, for example, price rises only partly covered a steep jump in costs."
     },
     {
-      "title": "Ingredient or currency costs rise",
-      "text": "Some materials depend on commodity prices or imports, so costs can rise before customer prices change."
+      "title": "Fake paint",
+      "text": "Counterfeit tins carrying its brand names take sales and can perform badly, which damages trust in the real product."
     },
     {
-      "title": "New factories wait for demand",
-      "text": "A new factory or range still costs money in staff, buildings and equipment while sales grow slowly."
+      "title": "Big new plants can run late",
+      "text": "Large factory projects can be delayed by design changes, late suppliers or worker shortages, and cost more than planned."
     }
   ]
 }

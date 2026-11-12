@@ -36,8 +36,8 @@
       "text": "IREDA does not lend only its own cash. It borrows from bond investors, banks and overseas lenders, then lends the money on at a higher interest rate. The gap between the rate it earns and the rate it pays is called the spread. If its borrowing costs rise faster than the rates on its loans, it earns less on each loan."
     },
     {
-      "title": "What is an NPA?",
-      "text": "NPA stands for non-performing asset: a loan where repayments have been overdue for longer than the Reserve Bank’s rules allow, generally more than three months. A rising share of NPAs suggests more borrowers are struggling. Lenders set aside provisions against them, which reduces profit."
+      "title": "What is a bad loan (NPA)?",
+      "text": "A non-performing asset (NPA) is a loan whose repayments are overdue for longer than the Reserve Bank’s rules allow, generally more than three months. A rising share of such loans suggests more borrowers are struggling. Lenders set money aside against them, which reduces profit."
     }
   ],
   "steps": [
@@ -109,29 +109,25 @@
   ],
   "risks": [
     [
-      "Borrowers fail to repay",
-      "Construction delays, weak electricity sales or a borrower’s own problems can stop repayments. IREDA’s FY 2025–26 report describes loans to a solar-construction and electric-vehicle-leasing group, Gensol, that it recalled after the market regulator, SEBI, issued an interim order about irregularities at the group. IREDA complained to the police, began insolvency proceedings and classed the accounts as fraud."
+      "One large borrower turned out badly",
+      "IREDA recalled its loans to two Gensol group companies, a solar-construction firm and an electric-vehicle leasing firm, after the market regulator, SEBI, issued an interim order about irregularities there. IREDA complained to the police, began insolvency proceedings and declared and reported the accounts to the RBI as fraud."
     ],
     [
-      "The electricity buyer is slow to pay",
-      "Many projects depend on a power company or other large buyer paying on time. If the buyer pays late, the project may not be able to repay IREDA."
+      "Growth depends on government policy",
+      "IREDA’s lending growth is tied to government policies, auctions for new clean-energy capacity and incentives. As a government-owned company, it can also be affected by changes in policy, schemes, ownership and leadership."
     ],
     [
-      "Borrowing gets more expensive",
-      "If IREDA must pay more to borrow while loans already given carry fixed or slow-to-change rates, its earnings per loan can narrow."
+      "Newer technologies have less history",
+      "IREDA wants to finance green hydrogen, battery storage, offshore wind and similar projects “ahead of the market”. These have less operating history in India to judge their ability to repay."
     ],
     [
-      "Newer technologies do not work as hoped",
-      "Hydrogen, storage and other newer projects have less history, so it is harder to predict whether they will earn enough to repay."
-    ],
-    [
-      "Government priorities change",
-      "As a government-owned company, IREDA can be affected by changes in policy, schemes, ownership and leadership."
+      "Interest rates and currencies move",
+      "IREDA borrows partly in foreign currencies and at interest rates that can change. If its borrowing costs rise faster than the rates on its loans, it earns less on each loan."
     ]
   ],
   "context": [
     "September 2026: lending grew faster than profit",
-    "IREDA’s 19 October 2026 results release says it paid out more loans and its loan book grew, while its profit after tax was only slightly higher than a year earlier. It also reports a lower share of troubled loans after setting aside money for them than a year before. A lender’s profit can rise more slowly than its lending if new loans have only just begun earning interest, if its own borrowing becomes more expensive, or if more money must be set aside. Treat this as one quarter’s explanation, not a forecast. The full-year figures that will appear at the end of this page cover a different period."
+    "IREDA’s 19 October 2026 results release says it paid out more loans in July–September 2026 and its loan book grew, while its profit after tax was only slightly higher than a year earlier. The share of bad loans, after money set aside for them, fell sharply from a year before. The release does not say why profit grew more slowly than lending. In general a lender’s profit can lag its lending when new loans have only just begun earning interest, borrowing costs rise or more money is set aside. The full-year figures at the end of this page cover a different period."
   ],
   "sources": [
     [
@@ -157,7 +153,7 @@
       "text": "For IREDA, the loan book is the total of loans still owed, not sales. Its main income is interest earned, and its main cost is interest paid. In the year to 31 March 2026 the group’s total income was ₹8,339 crore and its profit after tax was ₹1,874 crore (consolidated, meaning IREDA and its small subsidiary together; audited). More than half of that income went straight out again as interest on IREDA’s own borrowing, and it set aside ₹777 crore for loans that may not be repaid, more than three times the amount a year before."
     }
   ],
-  "checked": "31 October 2026",
+  "checked": "12 November 2026",
   "stepsTitle": "From a loan application to repayment.",
   "quick": [
     {
@@ -179,34 +175,34 @@
   ],
   "helps": [
     {
-      "title": "Government links help it borrow",
-      "text": "IREDA’s annual report says its credit rating is closely linked to the Government of India’s. That helps it borrow, though the Government does not cover its losses."
+      "title": "A top credit rating",
+      "text": "A lender with a strong credit rating can borrow the money it lends more cheaply. IREDA’s rating is closely linked to the Government of India’s standing, and S&P rates it at the same level as India itself. A rating is not a government guarantee of its debts."
     },
     {
-      "title": "Clean-energy projects need loans",
-      "text": "Building solar, wind and other clean-energy plants takes large upfront loans, which is the work IREDA specialises in."
+      "title": "Clean energy needs huge loans",
+      "text": "India aims to have much more of its electricity capacity come from non-fossil sources by 2030 and 2035. The annual report expects this to need very large investment over the next decade and says IREDA is well placed to lend for it."
     },
     {
-      "title": "Several sources of funding",
-      "text": "It borrows through bonds, banks and overseas lenders, and uses hedging contracts to limit exchange-rate risk on foreign loans."
+      "title": "Long loans from world lenders",
+      "text": "Besides bonds and banks, IREDA has long-term credit lines from development lenders such as the World Bank and the Asian Development Bank, and uses hedging contracts to limit currency risk on foreign loans."
     }
   ],
   "hurts": [
     {
       "title": "Borrowers fail to repay",
-      "text": "Delays or weak electricity sales can stop repayments. IREDA recalled loans to the Gensol group after the market regulator, SEBI, issued an interim order about irregularities there, and classed them as fraud."
+      "text": "A borrower in trouble can stop paying, and IREDA must then set money aside and try to recover the loan. Its loans to the Gensol group are a recent example."
     },
     {
-      "title": "Electricity buyers pay late",
-      "text": "Many projects depend on a power company paying on time. If it pays late, the project may not repay IREDA."
+      "title": "Projects get stuck before they earn",
+      "text": "A plant still being built can be held up by land approvals, a missing transmission line or a weak electricity buyer. That delays repayment and strains loans to projects not yet running."
     },
     {
-      "title": "Borrowing gets more expensive",
-      "text": "If IREDA pays more to borrow while existing loans earn fixed or slow-changing rates, it earns less on each loan."
+      "title": "Banks compete for finished projects",
+      "text": "Once a plant is running, banks and global lenders with cheaper money may offer to refinance it, which squeezes IREDA’s lending margin."
     },
     {
-      "title": "Newer technologies are less proven",
-      "text": "Hydrogen, storage and other new projects have less history, so it is harder to judge whether they will repay."
+      "title": "It cannot take deposits",
+      "text": "Unlike a bank, IREDA may not take savings from the public, so it must keep borrowing in the market and raising fresh capital to grow."
     }
   ]
 }

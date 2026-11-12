@@ -93,20 +93,20 @@
   ],
   "risks": [
     [
-      "Buyers cannot afford purchases or loans",
-      "Weak household or driver income can lead people to keep an older vehicle."
+      "KTM still needs repairing",
+      "Bajaj took control of the Austrian motorcycle maker KTM after it ran into financial trouble, and arranged new shares and loans to pay its creditors and restart production. The turnaround is under way, with the aim of bringing KTM back to its earlier performance “in due course”."
     ],
     [
-      "Overseas orders are disrupted",
-      "Currency shortages, import restrictions or transport problems can interrupt sales."
+      "Trouble in export markets",
+      "Exports go to countries whose rules, currencies and economies can change quickly. An import restriction or currency shortage can interrupt sales there."
     ],
     [
-      "Electric vehicles cost more to support than expected",
-      "Battery problems, repair costs and price competition can reduce what remains from sales."
+      "The move to electric vehicles",
+      "Electric scooters and three-wheelers need different parts, suppliers and skills from fuel-engine vehicles, and the technology keeps changing."
     ],
     [
-      "An acquired business keeps needing money",
-      "Improving a struggling operation may take cash and management time without an immediate recovery."
+      "Currencies move both ways",
+      "Export sales are earned in foreign currencies. A favourable exchange rate lifted revenue in July–September 2026; the same swing in reverse would lower it."
     ]
   ],
   "context": [
@@ -115,7 +115,7 @@
   ],
   "sources": [
     [
-      "FY 2025–26 business review",
+      "FY 2025–26 business review (management discussion: market share, three-wheelers, Chetak, exports, risks, subsidiaries)",
       "https://investors.bajajauto.com/ar26/management-discussion-analysis/"
     ],
     [
@@ -137,7 +137,7 @@
       "text": "The reported segments are Automotive, Investments and Financing, rather than one segment for each familiar vehicle brand. Segment income includes sales and other income; segment earnings come before the remaining financing and tax deductions. Read the reconciliation and the post-control KTM consolidation period before comparing years."
     }
   ],
-  "checked": "31 October 2026",
+  "checked": "12 November 2026",
   "stepsTitle": "From parts to a vehicle on the road.",
   "quick": [
     {
@@ -159,34 +159,34 @@
   ],
   "helps": [
     {
-      "title": "Sales in India and abroad",
-      "text": "Bajaj sells through dealers in India and partners in other countries. A weak spell in one market need not hit every market at the same time."
+      "title": "Strong overseas sales",
+      "text": "Bajaj sells in many countries across Africa, Latin America and Asia, so a weak spell in India need not hit every market at once. It leads in most of its key export markets, and its exports grew faster than the industry’s in FY 2025–26."
     },
     {
-      "title": "A wide range of vehicles",
-      "text": "Motorcycles, electric scooters and three-wheelers for passengers or goods reach different buyers, from daily commuters to people who drive for a living."
+      "title": "The leading three-wheeler maker",
+      "text": "Bajaj sells about three of every four fuel-engine three-wheelers bought in India, used as auto-rickshaws and small goods carriers. It also ended FY 2025–26 as the leader in electric three-wheelers."
     },
     {
-      "title": "Spare parts keep selling",
-      "text": "Vehicles already on the road need parts and service. These sales continue after the original vehicle is sold."
+      "title": "Its own loan company",
+      "text": "Bajaj’s own finance company lends to people buying its two- and three-wheelers, which supports its sales."
     }
   ],
   "hurts": [
     {
       "title": "Buyers cannot afford vehicles or loans",
-      "text": "Weak household or driver income can lead people to keep an older vehicle for longer."
+      "text": "Most two- and three-wheelers in India are bought on loans, roughly two-thirds to three-quarters of them. When incomes weaken or loans get dearer or harder to get, people delay buying a vehicle."
     },
     {
-      "title": "Overseas orders are disrupted",
-      "text": "Currency shortages, import restrictions or transport problems in another country can interrupt sales there."
+      "title": "Tough competition in everyday motorcycles",
+      "text": "Rivals compete hard for buyers of cheaper commuter bikes. Bajaj’s share of India’s motorcycle market fell in FY 2025–26, partly for that reason."
     },
     {
-      "title": "Electric scooters must cover all their costs",
-      "text": "Battery problems, repair costs and price competition can reduce what remains from each electric vehicle sold."
+      "title": "Depending on imported parts",
+      "text": "Electric scooters depend on a few imported parts, such as the rare-earth magnets in their motors, so one country’s export limits can stop production. In FY 2025–26, for example, China’s limits on these magnets cut Chetak supply for months."
     },
     {
-      "title": "KTM may keep needing money",
-      "text": "Bajaj took control of the Austrian KTM business in November 2025. Improving a struggling business can take cash and management time before it recovers."
+      "title": "Material prices rise",
+      "text": "Materials make up most of a vehicle’s cost, and when their prices rise Bajaj cannot always raise vehicle prices as fast."
     }
   ]
 }

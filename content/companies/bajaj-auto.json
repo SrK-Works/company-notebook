@@ -71,7 +71,10 @@
     ],
     "productSource": "https://www.bajajauto.com/bikes",
     "productNote": "Major official brand, product and business-offering families reviewed in October 2026. This groups variants, pack sizes, models, formulations or service subtypes where listing each one would obscure the company overview.",
-    "logo": "assets/logos/bajaj-auto.png"
+    "logo": "assets/logos/bajaj-auto.png",
+    "aliases": [
+      "KTM"
+    ]
   },
   "offerings": [
     {
