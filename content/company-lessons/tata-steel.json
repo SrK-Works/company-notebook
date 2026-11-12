@@ -1,0 +1,209 @@
+{
+  "summary": "Tata Steel digs iron ore and coal, melts them into steel and rolls the steel into bars, sheets, wire and tubes. Builders, carmakers, can makers and other factories buy it, in India and from its plants in the Netherlands, the UK and Thailand.",
+  "description": "In a blast furnace, iron ore, coke made from coal and limestone are heated until the iron melts out. That iron is turned into steel, cast into slabs and squeezed between rollers into coils, sheets, bars and wire. Tata Steel does this mainly in Jamshedpur in Jharkhand and at Kalinganagar and Meramandali in Odisha, and since March 2026 it also melts scrap in an electric furnace in Ludhiana. Its own mines supply all the iron ore for its Indian plants. Abroad, it makes flat steel at IJmuiden in the Netherlands and is rebuilding its UK plant around an electric furnace.",
+  "money": "Almost all income is from selling steel by the tonne, plus by-products from steelmaking. The price per tonne follows Indian and world steel prices, which rise and fall with demand. The biggest costs are raw materials, especially coking coal, much of which is imported, then power, freight, staff and plant upkeep. It also borrows to build new plants and pays interest. Steel sold is not cash until customers pay, and revenue is not profit.",
+  "customers": "Mostly other businesses. Builders and infrastructure projects buy bars and structural steel; carmakers buy thin sheet; can makers buy tinplate; engineering, energy and shipbuilding firms buy plates and pipes; smaller mills buy steel to process further. People building their own homes buy Tata Tiscon bars and other products through some 27,000 dealers and distributors and its Aashiyana online store.",
+  "drivers": "Steel prices in India and abroad, the cost of imported coking coal, how much steel its plants make and sell, and whether its European plants stop losing money.",
+  "groups": [
+    {
+      "title": "Steel for building",
+      "examples": "Tata Tiscon bars for concrete, Tata Structura hollow sections, coated roofing sheets and steel doors.",
+      "explanation": "Bars hold concrete together in houses, bridges and flyovers. Builders and contractors buy in bulk; individual home builders buy through local dealers."
+    },
+    {
+      "title": "Sheet steel for cars and appliances",
+      "examples": "Thin, strong coils for car bodies and steel for washing machines and fridges.",
+      "explanation": "Carmakers press the sheet into panels, so it must meet strict standards for strength and surface finish."
+    },
+    {
+      "title": "Packaging, wire and engineering steel",
+      "examples": "Tinplate for cans and drums, Tata Wiron wire, plates and pipes for machines, ships and energy projects.",
+      "explanation": "Other factories buy this steel and turn it into their own products. Tata Steel’s downstream units cut, coat and shape steel closer to what the customer needs."
+    },
+    {
+      "title": "Mining and raw materials",
+      "examples": "Iron ore and coal from its own mines, and chromite and manganese for ferro alloys.",
+      "explanation": "Owning mines means Tata Steel does not have to buy its iron ore in the market. Its chromite and manganese mines supply its ferro alloy business, which makes metals added to steel to change its properties."
+    },
+    {
+      "title": "Steel from Europe and Thailand",
+      "examples": "Flat steel from IJmuiden in the Netherlands, strip steel from the UK and bars and wire rods from Thailand.",
+      "explanation": "These are run by subsidiaries. Its annual report says Europe saw margin strain in 2025–26, and both European businesses face strict environmental rules."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is a blast furnace, and what is an electric arc furnace?",
+      "text": "A blast furnace melts iron ore with coke made from coal and gives off a lot of carbon dioxide. An electric arc furnace (EAF) melts scrap steel with electricity and gives off far less, which is why Tata Steel is building them in the UK and India."
+    },
+    {
+      "title": "What is coking coal?",
+      "text": "A special coal that is baked into coke, which both heats the furnace and pulls oxygen out of iron ore. Tata Steel’s own collieries meet only about a quarter of its coal needs in India, so the rest is bought, much of it imported at world prices."
+    },
+    {
+      "title": "What does a plant’s capacity mean?",
+      "text": "Million tonnes per annum (MTPA) is how much crude steel the plants could make in a year if fully used. Tata Steel’s capacity across all countries is 36 MTPA; actual production is usually lower."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Ore and coal are mined or bought",
+      "text": "Iron ore comes from its own mines; part of the coal comes from its own collieries and the rest is bought, much of it shipped in from countries such as Australia and South Africa."
+    },
+    {
+      "title": "Iron and steel are made",
+      "text": "Coal is baked into coke, ore is melted in blast furnaces, and the iron is turned into steel and cast into slabs or billets."
+    },
+    {
+      "title": "Steel is rolled and finished",
+      "text": "Mills roll the steel into coils, sheets, bars and wire. Some is coated, cut or shaped further for particular customers."
+    },
+    {
+      "title": "Steel is delivered and billed",
+      "text": "Trains, trucks and ships carry it to customers and dealers, and Tata Steel sends the bill."
+    },
+    {
+      "title": "Customers pay",
+      "text": "Payment follows delivery, sometimes after a credit period. Revenue, profit after raw materials and other costs, and cash received are different things."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Its own iron ore",
+      "text": "Tata Steel says its captive mines supply all the iron ore its Indian plants need, and its own collieries about a quarter of their coal. Owning ore protects it when bought ore becomes expensive."
+    },
+    {
+      "title": "Brands sold to households",
+      "text": "Unlike most steelmakers, it sells branded products such as Tata Tiscon bars to individual home builders through dealers and its Aashiyana online store, not only bulk steel to factories."
+    },
+    {
+      "title": "Europe is a separate story",
+      "text": "Its Dutch and UK plants face strict carbon rules and, in the UK, a switch from blast furnaces to an electric furnace. Their results can move very differently from India’s."
+    },
+    {
+      "title": "Still growing in India",
+      "text": "It is expanding capacity at Neelachal Ispat Nigam in Odisha and adding downstream lines such as tinplate, which its July–September 2026 press release lists as major projects."
+    }
+  ],
+  "watch": [
+    [
+      "Are steel prices in India holding up?",
+      "Revenue per tonne follows the steel market, and cheap imports can pull Indian prices down.",
+      "Compare realisations (average price per tonne) and deliveries in each quarterly presentation, and read what management says about imports."
+    ],
+    [
+      "What is happening to coking coal costs?",
+      "Coal is the biggest raw-material cost, and most of it is imported.",
+      "Read the raw-material cost comments in each press release and the commodity-risk section of the annual report."
+    ],
+    [
+      "Are the UK and Netherlands improving?",
+      "Losses in Europe can wipe out part of the profit from India.",
+      "Compare the UK and Netherlands results in each quarterly press release, and follow progress on the UK electric furnace."
+    ],
+    [
+      "Are new Indian plants coming on time?",
+      "Expansion adds tonnes to sell but costs money and borrowing before it pays back.",
+      "Track capital spending, new capacity coming on stream and net debt in each quarterly presentation and the annual report."
+    ],
+    [
+      "How heavy is its debt?",
+      "Borrowing to build plants means interest costs and less room in a downturn.",
+      "Compare net debt with EBITDA (earnings before interest, tax, depreciation and amortisation) in each quarterly press release."
+    ]
+  ],
+  "risks": [
+    [
+      "Steel prices fall",
+      "Its risk section says weak Chinese demand led to high Chinese exports and price pressure; lower prices cut revenue while costs stay."
+    ],
+    [
+      "Coal and freight costs jump",
+      "Coal supply is concentrated in a few countries such as Australia and South Africa, and wars or weather can raise prices and disrupt shipping routes."
+    ],
+    [
+      "Climate rules in Europe",
+      "The European Union (EU) charge on the carbon in imported goods (CBAM, Carbon Border Adjustment Mechanism) and strict emission rules raise costs, and Tata Steel Netherlands must meet strict environmental requirements."
+    ],
+    [
+      "The UK change-over",
+      "Tata Steel UK faces operational risk while it moves away from blast furnaces to an electric furnace."
+    ],
+    [
+      "Plant breakdowns and safety",
+      "Ageing equipment, breakdowns and interrupted power, water or gas can stop production, and steelmaking carries serious safety hazards."
+    ]
+  ],
+  "context": [
+    "July to September 2026: more steel sold in India",
+    "On 7 November 2026 Tata Steel reported results for July to September 2026. Compared with the same quarter a year earlier, its Indian operations delivered 5.98 million tonnes of steel against 5.55 million and made 6.18 million tonnes against 5.64 million. In the Netherlands, a restarted plant line helped results; the UK business still made an operating loss as imports and high stocks weighed on demand. This describes one quarter."
+  ],
+  "sources": [
+    [
+      "Tata Steel integrated report and annual accounts 2025–26 (filed with NSE)",
+      "https://nsearchives.nseindia.com/annual_reports/AR_29336_TATASTEEL_2025_2026_A_19703090_03062026194432.pdf"
+    ],
+    [
+      "Press release for the quarter ended 30 September 2026 · 7 November 2026",
+      "https://www.tatasteel.com/media/26626/2qfy2027-press-release.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "India, Europe and the whole group",
+      "text": "Tata Steel reports its Indian business and the whole group (consolidated, including the Netherlands, UK and Thailand) separately, and the two can tell very different stories. Verified full-year figures for this profile have not yet been added, so the financial table below is marked as awaiting verification."
+    }
+  ],
+  "stepsTitle": "From iron ore to a steel bar on a building site.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Mines iron ore and coal, makes steel and rolls it into bars, sheets, wire and tubes in India and Europe."
+    },
+    {
+      "title": "Who pays",
+      "text": "Builders, carmakers, can makers, engineering firms and home builders who buy through dealers."
+    },
+    {
+      "title": "How it earns",
+      "text": "By selling steel by the tonne, at prices that move with the steel market, plus by-products."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Coking coal and other raw materials, power, freight, staff, plant upkeep, and interest on money borrowed for new plants."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Owning the raw material",
+      "text": "Captive iron ore mines cover all its Indian plants’ needs and its own collieries part of its coal, so it is less exposed to market prices for ore than steelmakers that buy it."
+    },
+    {
+      "title": "India keeps building",
+      "text": "Its annual report says Indian steel demand stayed resilient, driven by infrastructure, construction, automotive and industrial use, while other regions were weak."
+    },
+    {
+      "title": "Products that earn more per tonne",
+      "text": "It concentrates on value-added products, downstream processing and car steel, which its risk section names as ways to protect margins."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "A price-taker in a world market",
+      "text": "Steel is traded globally. When China or others export cheaply, prices in India and Europe fall, and Tata Steel cannot set its own price."
+    },
+    {
+      "title": "Imported coal",
+      "text": "Much of its coking coal is shipped in from a few countries, so wars, weather and freight rates can raise its biggest cost quickly."
+    },
+    {
+      "title": "Costly change in Europe",
+      "text": "Carbon rules, the UK furnace switch and environmental demands in the Netherlands require heavy spending, and the UK business has been making operating losses."
+    },
+    {
+      "title": "Heavy plants and debt",
+      "text": "Steel plants cost a lot to build and keep running. It borrows to expand, and interest must be paid whether prices are good or bad."
+    }
+  ],
+  "checked": "12 November 2026"
+}

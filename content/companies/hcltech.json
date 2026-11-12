@@ -1,0 +1,130 @@
+{
+  "order": 49,
+  "company": {
+    "id": "hcltech",
+    "name": "HCLTech",
+    "ticker": "HCLTECH",
+    "sector": "Technology & services",
+    "initial": "H",
+    "color": "#4b2ba8",
+    "bg": "#efebfa",
+    "tag": "Builds, runs and repairs computer systems for big companies abroad, and sells its own software",
+    "products": [
+      [
+        "Building and updating business software for clients (Digital Business Services)",
+        "IT and Business Services"
+      ],
+      [
+        "Running clients’ data centres, cloud servers, networks and office computers (Digital Foundation Services)",
+        "IT and Business Services"
+      ],
+      [
+        "Cybersecurity: guarding clients’ systems against attacks",
+        "IT and Business Services"
+      ],
+      [
+        "Running back-office work such as customer calls, billing and accounts (Business Process Operations)",
+        "IT and Business Services"
+      ],
+      [
+        "Online and classroom courses (HCLTech Career Shaper)",
+        "IT and Business Services"
+      ],
+      [
+        "Designing chips, devices, vehicle software and factory systems for product makers",
+        "Engineering and R&D Services"
+      ],
+      [
+        "AI services and its AI Force platform",
+        "Across both services segments"
+      ],
+      [
+        "Software products sold on licence and subscription",
+        "HCLSoftware"
+      ]
+    ],
+    "sources": [
+      [
+        "HCLTech Integrated Annual Report 2025–26",
+        "https://www.hcltech.com/en-us/hcl-annual-report-2026"
+      ]
+    ],
+    "productSource": "https://www.hcltech.com/",
+    "checked": "12 November 2026",
+    "reviewed": "12 November 2026",
+    "aliases": [
+      "HCL Technologies Limited",
+      "HCL Technologies Ltd",
+      "HCL Technologies",
+      "HCL Tech",
+      "HCL"
+    ],
+    "productNote": "The company reports three segments: IT and Business Services, Engineering and R&D Services, and HCLSoftware. The list follows the service lines named in its 2025–26 annual report."
+  },
+  "offerings": [
+    {
+      "name": "Engineering and R&D services",
+      "category": "Designing and testing products for companies that make them",
+      "image": "assets/products/hcltech-engineering.webp",
+      "url": "https://www.hcltech.com/engineering",
+      "kind": "photo",
+      "alt": "A woman wearing a virtual-reality headset beside a small robot arm on a desk — image from HCLTech’s engineering services page"
+    },
+    {
+      "name": "Software for vehicles",
+      "category": "Engineering work on the software inside cars",
+      "image": "assets/products/hcltech-vehicle-software.webp",
+      "url": "https://www.hcltech.com/engineering",
+      "kind": "illustration",
+      "alt": "A computer-made picture of a car on a glowing road at dusk — rendered image from HCLTech’s engineering services page; not a photograph of real work"
+    },
+    {
+      "name": "Business software projects",
+      "category": "Building and updating the programs clients run on",
+      "image": "assets/products/hcltech-applications.webp",
+      "url": "https://www.hcltech.com/digital-workplace",
+      "kind": "photo",
+      "alt": "A man in a suit and a woman looking at a laptop together in a bright room — banner image from HCLTech’s digital workplace page"
+    },
+    {
+      "name": "Digital workplace",
+      "category": "Looking after the laptops, apps and help desk a client’s staff use",
+      "image": "assets/products/hcltech-digital-workplace.webp",
+      "url": "https://www.hcltech.com/digital-workplace",
+      "kind": "photo",
+      "alt": "Colleagues smiling around a table with a laptop and papers — image from HCLTech’s digital workplace page"
+    },
+    {
+      "name": "Cloud and data centres",
+      "category": "Running the servers and storage that clients’ systems sit on",
+      "image": "assets/products/hcltech-cloud.webp",
+      "url": "https://www.hcltech.com/cloud",
+      "kind": "illustration",
+      "alt": "A computer-made picture of a glowing tunnel of circuit shapes — rendered image from HCLTech’s cloud page; not a photograph of a real data centre"
+    },
+    {
+      "name": "Cybersecurity",
+      "category": "Watching for and stopping attacks on clients’ systems",
+      "image": "assets/products/hcltech-cybersecurity.webp",
+      "url": "https://www.hcltech.com/cybersecurity",
+      "kind": "illustration",
+      "alt": "The dark outline of a person using a phone against a blue patterned background — designed image from HCLTech’s cybersecurity page"
+    },
+    {
+      "name": "Business process operations",
+      "category": "Running customer calls, billing and other back-office work",
+      "image": "assets/products/hcltech-business-process.webp",
+      "url": "https://www.hcltech.com/business-operations",
+      "kind": "photo",
+      "alt": "Staff wearing headsets working at computers in an office — image from HCLTech’s business operations page"
+    },
+    {
+      "name": "HCLSoftware",
+      "category": "Software products the company owns and licenses to clients",
+      "image": "assets/products/hcltech-software.webp",
+      "url": "https://www.hcltech.com/en-us/products-and-platforms",
+      "kind": "illustration",
+      "alt": "A computer-made picture of glass panels in a row on a dark blue background — rendered image from HCLTech’s products and platforms page"
+    }
+  ]
+}

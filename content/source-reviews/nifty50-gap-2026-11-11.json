@@ -9,7 +9,8 @@
     "coveredBefore": 22,
     "missingBefore": 28,
     "addedInBatch1": 4,
-    "stillMissing": 24
+    "stillMissing": 19,
+    "addedInBatch2": 5
   },
   "specialCases": [
     "Tata Motors split in 2025. This constituent is the passenger-vehicle company (cars, electric cars and Jaguar Land Rover); it kept the old Tata Motors ISIN and was renamed Tata Motors Passenger Vehicles. The separately listed commercial-vehicle company (trucks and buses) is not in NIFTY 50.",
@@ -51,7 +52,8 @@
       "ticker": "AXISBANK",
       "industry": "Financial Services",
       "isin": "INE238A01034",
-      "status": "missing"
+      "status": "missing before; added in batch 2",
+      "id": "axis-bank"
     },
     {
       "name": "BSE Ltd.",
@@ -74,7 +76,8 @@
       "ticker": "BAJFINANCE",
       "industry": "Financial Services",
       "isin": "INE296A01032",
-      "status": "missing"
+      "status": "missing before; added in batch 2",
+      "id": "bajaj-finance"
     },
     {
       "name": "Bajaj Finserv Ltd.",
@@ -149,7 +152,8 @@
       "ticker": "HCLTECH",
       "industry": "Information Technology",
       "isin": "INE860A01027",
-      "status": "missing"
+      "status": "missing before; added in batch 2",
+      "id": "hcltech"
     },
     {
       "name": "HDFC Bank Ltd.",
@@ -210,7 +214,8 @@
       "ticker": "INDIGO",
       "industry": "Services",
       "isin": "INE646L01027",
-      "status": "missing"
+      "status": "missing before; added in batch 2",
+      "id": "indigo"
     },
     {
       "name": "JSW Steel Ltd.",
@@ -365,7 +370,8 @@
       "ticker": "TATASTEEL",
       "industry": "Metals & Mining",
       "isin": "INE081A01020",
-      "status": "missing"
+      "status": "missing before; added in batch 2",
+      "id": "tata-steel"
     },
     {
       "name": "Tech Mahindra Ltd.",

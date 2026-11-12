@@ -1,0 +1,148 @@
+{
+  "order": 48,
+  "company": {
+    "id": "bajaj-finance",
+    "name": "Bajaj Finance",
+    "ticker": "BAJFINANCE",
+    "sector": "Banking",
+    "initial": "B",
+    "color": "#0b5aa8",
+    "bg": "#e8f1fb",
+    "tag": "A lender that is not a bank: instalment loans in shops, personal, gold and business loans",
+    "products": [
+      [
+        "Loans to buy phones, TVs, fridges and furniture in shops and online (consumer lending)",
+        "Consumer loans"
+      ],
+      [
+        "Insta EMI Card for paying for purchases in monthly instalments",
+        "Consumer loans"
+      ],
+      [
+        "Two-wheeler and three-wheeler loans",
+        "Vehicle loans"
+      ],
+      [
+        "New car, used car, tractor and commercial-vehicle loans",
+        "Vehicle loans"
+      ],
+      [
+        "Personal loans for salaried people and existing customers",
+        "Unsecured loans"
+      ],
+      [
+        "Business loans for small firms and professionals such as doctors",
+        "MSME loans"
+      ],
+      [
+        "Loans against property and equipment loans",
+        "Secured business loans"
+      ],
+      [
+        "Gold loans",
+        "Secured loans"
+      ],
+      [
+        "Rural loans and microfinance group loans",
+        "Rural lending"
+      ],
+      [
+        "Loans to mid-sized companies",
+        "Commercial lending"
+      ],
+      [
+        "Loans against shares, mutual funds and insurance policies",
+        "Loans against securities"
+      ],
+      [
+        "Fixed deposits",
+        "Deposits"
+      ],
+      [
+        "Insurance sold for partner insurers",
+        "Partnerships and services"
+      ],
+      [
+        "Home loans (Bajaj Housing Finance)",
+        "Group company: housing finance"
+      ],
+      [
+        "Share trading (Bajaj Financial Securities)",
+        "Group company: broking"
+      ]
+    ],
+    "sources": [
+      [
+        "Bajaj Finance Annual Report 2025–26",
+        "https://www.bajajfinserv.in/finance-digital-annual-report-fy26/index.html"
+      ]
+    ],
+    "productSource": "https://www.bajajfinserv.in/",
+    "checked": "12 November 2026",
+    "reviewed": "12 November 2026",
+    "aliases": [
+      "Bajaj Finance Limited",
+      "Bajaj Finance Ltd",
+      "BFL"
+    ],
+    "productNote": "The eleven product groups named in the 2025–26 annual report’s management discussion, plus the two subsidiaries it lists. Bajaj Finance is itself a subsidiary of Bajaj Finserv, which is a separate listed company."
+  },
+  "offerings": [
+    {
+      "name": "Loans for shop purchases (EMI)",
+      "category": "Pay for a TV, phone or fridge in monthly instalments",
+      "image": "assets/products/bajaj-finance-consumer-durables.webp",
+      "url": "https://www.bajajfinserv.in/insta-emi-card",
+      "kind": "pack",
+      "alt": "A flat-screen television on a blue background — product image from Bajaj Finance’s Insta EMI Card page"
+    },
+    {
+      "name": "Personal loans",
+      "category": "Money lent with nothing pledged, for any personal need",
+      "image": "assets/products/bajaj-finance-personal-loan.webp",
+      "url": "https://www.bajajfinserv.in/personal-loan",
+      "kind": "photo",
+      "alt": "A hiker in an orange jacket looking at snowy mountains — image from Bajaj Finance’s personal-loan page"
+    },
+    {
+      "name": "Gold loans",
+      "category": "A loan given against gold jewellery kept at a branch",
+      "image": "assets/products/bajaj-finance-gold-loan.webp",
+      "url": "https://www.bajajfinserv.in/gold-loan",
+      "kind": "photo",
+      "alt": "A woman at a branch desk beside a sealed packet of gold jewellery while a staff member handles it — video image from Bajaj Finance’s gold-loan page"
+    },
+    {
+      "name": "Two-wheeler loans",
+      "category": "Money lent to buy a motorcycle or scooter",
+      "image": "assets/products/bajaj-finance-two-wheeler-loan.webp",
+      "url": "https://www.bajajfinserv.in/two-wheeler-loan",
+      "kind": "photo",
+      "alt": "A man in a black jacket holding a helmet in a motorcycle workshop — video image from Bajaj Finance’s two-wheeler-loan page"
+    },
+    {
+      "name": "Business loans",
+      "category": "Money lent to small firms and self-employed professionals",
+      "image": "assets/products/bajaj-finance-business-loan.webp",
+      "url": "https://www.bajajfinserv.in/business-loan",
+      "kind": "photo",
+      "alt": "A man in glasses reading papers at a laptop — video image from Bajaj Finance’s business-loan page"
+    },
+    {
+      "name": "Loans against property",
+      "category": "A loan backed by a house, shop or office the borrower owns",
+      "image": "assets/products/bajaj-finance-loan-against-property.webp",
+      "url": "https://www.bajajfinserv.in/loan-against-property",
+      "kind": "photo",
+      "alt": "A smiling woman in a striped shirt sitting in an office — video image from Bajaj Finance’s loan-against-property page"
+    },
+    {
+      "name": "Fixed deposits",
+      "category": "Money people lend to Bajaj Finance for a set time and interest rate",
+      "image": "assets/products/bajaj-finance-fixed-deposit.webp",
+      "url": "https://www.bajajfinserv.in/investments/fixed-deposit",
+      "kind": "photo",
+      "alt": "An older man with a grey beard speaking in a living room — video image from Bajaj Finance’s fixed-deposit pages"
+    }
+  ]
+}
