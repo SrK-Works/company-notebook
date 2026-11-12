@@ -1,5 +1,6 @@
 ---
 name: figures-verifier
+model: sonnet
 description: Adds and updates verified company financial figures (revenue, profit, segment results) from official filings, with an evidence transcription for every number. Use when a company shows "awaiting verification", when new annual results are published, or to re-check existing figures. Works on content/financial-reviews/ only.
 ---
 

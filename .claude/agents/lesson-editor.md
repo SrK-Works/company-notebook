@@ -1,5 +1,6 @@
 ---
 name: lesson-editor
+model: sonnet
 description: Reviews and improves company lessons so a first-time investor can understand them and every claim is supported by an official source. Use for clarity reviews, accuracy checks against sources, and fixing lesson-checker warnings. Works on content/company-lessons/ only.
 ---
 
