@@ -4275,8 +4275,8 @@
       "category": "Turbines made for wind-farm developers",
       "src": "https://nsearchives.nseindia.com/annual_reports/AR_29299_ADANIENT_2025_2026_A_17942605_29052026223750.pdf#page=53",
       "url": "https://nsearchives.nseindia.com/annual_reports/AR_29299_ADANIENT_2025_2026_A_17942605_29052026223750.pdf#page=53",
-      "kind": "photo",
-      "alt": "A white wind turbine with an Adani logo against a pale blue sky — photograph from Adani Enterprises’ 2025–26 integrated annual report",
+      "kind": "illustration",
+      "alt": "advertising image from Adani Enterprises",
       "image": "assets/products/adani-enterprises-wind-turbine.webp",
       "reviewed": "2026-11-12"
     },
@@ -4557,39 +4557,6 @@
     },
     {
       "company": "bharat-electronics",
-      "name": "Campus",
-      "category": "Offices, labs and factories where the electronics are designed and built",
-      "src": "https://bel-india.in/wp-content/uploads/2026/08/Integrated-Annual-Report-2025-26.pdf#page=23",
-      "url": "https://bel-india.in/wp-content/uploads/2026/08/Integrated-Annual-Report-2025-26.pdf#page=23",
-      "kind": "photo",
-      "alt": "A white building complex with a red and glass tower and a curved walkway, seen from above — photograph from Bharat Electronics’ 2025–26 integrated annual report",
-      "image": "assets/products/bharat-electronics-campus.webp",
-      "reviewed": "2026-11-12"
-    },
-    {
-      "company": "bharat-electronics",
-      "name": "Solar-covered car park",
-      "category": "Solar power at its sites",
-      "src": "https://bel-india.in/wp-content/uploads/2026/08/Integrated-Annual-Report-2025-26.pdf#page=34",
-      "url": "https://bel-india.in/wp-content/uploads/2026/08/Integrated-Annual-Report-2025-26.pdf#page=34",
-      "kind": "photo",
-      "alt": "Solar-panel roofs over a car park with white vans parked underneath — photograph from Bharat Electronics’ 2025–26 integrated annual report",
-      "image": "assets/products/bharat-electronics-solar-carport.webp",
-      "reviewed": "2026-11-12"
-    },
-    {
-      "company": "bharat-electronics",
-      "name": "Staff",
-      "category": "The people who design and build the equipment",
-      "src": "https://bel-india.in/wp-content/uploads/2026/08/Integrated-Annual-Report-2025-26.pdf#page=28",
-      "url": "https://bel-india.in/wp-content/uploads/2026/08/Integrated-Annual-Report-2025-26.pdf#page=28",
-      "kind": "photo",
-      "alt": "A large group of staff standing in a garden behind a sign that reads I love BEL, Abhyudaya Centre for Learning — photograph from Bharat Electronics’ 2025–26 integrated annual report",
-      "image": "assets/products/bharat-electronics-team.webp",
-      "reviewed": "2026-11-12"
-    },
-    {
-      "company": "bharat-electronics",
       "name": "Radars",
       "category": "Radars that spot aircraft and guide weapons",
       "src": "Original SVG illustration by Company Notebook",
@@ -4619,6 +4586,39 @@
       "kind": "illustration",
       "alt": "A mast with radio waves — conceptual illustration; not a photograph",
       "image": "assets/products/bharat-electronics-communication.svg",
+      "reviewed": "2026-11-12"
+    },
+    {
+      "company": "bharat-electronics",
+      "name": "Night vision and sights",
+      "category": "Cameras and thermal sensors for seeing and aiming in the dark",
+      "src": "Original SVG illustration by Company Notebook",
+      "url": "https://bel-india.in/wp-content/uploads/2026/08/Integrated-Annual-Report-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "A large eye with a crosshair mark — conceptual illustration; not a photograph",
+      "image": "assets/products/bharat-electronics-night-vision.svg",
+      "reviewed": "2026-11-12"
+    },
+    {
+      "company": "bharat-electronics",
+      "name": "Electronic warfare",
+      "category": "Equipment that detects and blocks enemy radars and radios",
+      "src": "Original SVG illustration by Company Notebook",
+      "url": "https://bel-india.in/wp-content/uploads/2026/08/Integrated-Annual-Report-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "A shield with radio waves inside — conceptual illustration; not a photograph",
+      "image": "assets/products/bharat-electronics-electronic-warfare.svg",
+      "reviewed": "2026-11-12"
+    },
+    {
+      "company": "bharat-electronics",
+      "name": "Rail and metro control",
+      "category": "Signalling and train supervision systems",
+      "src": "Original SVG illustration by Company Notebook",
+      "url": "https://bel-india.in/wp-content/uploads/2026/08/Integrated-Annual-Report-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Railway tracks narrowing into the distance — conceptual illustration; not a photograph",
+      "image": "assets/products/bharat-electronics-rail-control.svg",
       "reviewed": "2026-11-12"
     }
   ]

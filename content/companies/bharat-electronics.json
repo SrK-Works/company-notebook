@@ -56,7 +56,7 @@
       "Bharat Electronics Ltd.",
       "BEL"
     ],
-    "productNote": "Products named in Bharat Electronics' 2025–26 integrated annual report. It is a government-owned company that mostly sells to the Indian armed forces. Its joint ventures (with Thales and Israel Aerospace Industries) report separately. Pictures are annual-report photographs; the report does not caption the individual places, and three product pictures are labelled illustrations.",
+    "productNote": "Products named in Bharat Electronics' 2025–26 integrated annual report. It is a government-owned company that mostly sells to the Indian armed forces. Its joint ventures (with Thales and Israel Aerospace Industries) report separately. Pictures are annual-report photographs; the report does not caption the individual places, and the other six pictures are labelled illustrations. The report has no usable photographs of individual products beyond the naval and missile pictures.",
     "checked": "12 November 2026",
     "reviewed": "12 November 2026"
   },
@@ -76,30 +76,6 @@
       "url": "https://bel-india.in/wp-content/uploads/2026/08/Integrated-Annual-Report-2025-26.pdf#page=27",
       "kind": "photo",
       "alt": "A missile leaving a truck-mounted launcher on open ground — photograph from Bharat Electronics’ 2025–26 integrated annual report"
-    },
-    {
-      "name": "Campus",
-      "category": "Offices, labs and factories where the electronics are designed and built",
-      "image": "assets/products/bharat-electronics-campus.webp",
-      "url": "https://bel-india.in/wp-content/uploads/2026/08/Integrated-Annual-Report-2025-26.pdf#page=23",
-      "kind": "photo",
-      "alt": "A white building complex with a red and glass tower and a curved walkway, seen from above — photograph from Bharat Electronics’ 2025–26 integrated annual report"
-    },
-    {
-      "name": "Solar-covered car park",
-      "category": "Solar power at its sites",
-      "image": "assets/products/bharat-electronics-solar-carport.webp",
-      "url": "https://bel-india.in/wp-content/uploads/2026/08/Integrated-Annual-Report-2025-26.pdf#page=34",
-      "kind": "photo",
-      "alt": "Solar-panel roofs over a car park with white vans parked underneath — photograph from Bharat Electronics’ 2025–26 integrated annual report"
-    },
-    {
-      "name": "Staff",
-      "category": "The people who design and build the equipment",
-      "image": "assets/products/bharat-electronics-team.webp",
-      "url": "https://bel-india.in/wp-content/uploads/2026/08/Integrated-Annual-Report-2025-26.pdf#page=28",
-      "kind": "photo",
-      "alt": "A large group of staff standing in a garden behind a sign that reads I love BEL, Abhyudaya Centre for Learning — photograph from Bharat Electronics’ 2025–26 integrated annual report"
     },
     {
       "name": "Radars",
@@ -124,6 +100,30 @@
       "url": "https://bel-india.in/wp-content/uploads/2026/08/Integrated-Annual-Report-2025-26.pdf",
       "kind": "illustration",
       "alt": "A mast with radio waves — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Night vision and sights",
+      "category": "Cameras and thermal sensors for seeing and aiming in the dark",
+      "image": "assets/products/bharat-electronics-night-vision.svg",
+      "url": "https://bel-india.in/wp-content/uploads/2026/08/Integrated-Annual-Report-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "A large eye with a crosshair mark — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Electronic warfare",
+      "category": "Equipment that detects and blocks enemy radars and radios",
+      "image": "assets/products/bharat-electronics-electronic-warfare.svg",
+      "url": "https://bel-india.in/wp-content/uploads/2026/08/Integrated-Annual-Report-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "A shield with radio waves inside — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Rail and metro control",
+      "category": "Signalling and train supervision systems",
+      "image": "assets/products/bharat-electronics-rail-control.svg",
+      "url": "https://bel-india.in/wp-content/uploads/2026/08/Integrated-Annual-Report-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Railway tracks narrowing into the distance — conceptual illustration; not a photograph"
     }
   ]
 }
