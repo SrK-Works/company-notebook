@@ -3393,17 +3393,6 @@
     },
     {
       "company": "axis-bank",
-      "name": "Savings accounts and the open app",
-      "category": "A place to keep everyday money, run mostly from a phone",
-      "src": "https://www.axis.bank.in/images/default-source/bank-smart/webp/bank-smart-banner-d.webp",
-      "url": "https://www.axis.bank.in/bank-smart/open-by-axis-bank",
-      "kind": "photo",
-      "alt": "A smiling woman giving a thumbs-up while holding out a phone that shows a banking app screen — banner image from Axis Bank’s open by Axis Bank app page",
-      "image": "assets/products/axis-bank-open-app.webp",
-      "reviewed": "2026-11-12"
-    },
-    {
-      "company": "axis-bank",
       "name": "Personal loans",
       "category": "A loan with nothing pledged, approved on income and credit history",
       "src": "https://www.axis.bank.in/images/default-source/default-album/plbannernew/webp/1366x400-pl-banner-webp.webp",
