@@ -20,7 +20,11 @@ For each company you are given, make its lesson (`content/company-lessons/<id>.j
 - **Helps and hurts are lasting explanations**, not news. Each one says, in plain words, how the business works and stays true for years (for example: "people delay buying a car when incomes fall or loans get dearer"). Source it from the annual report's or offer document's risk, strategy or outlook sections. A recent figure may follow only as one short example. Quarter statistics belong in `context`. If a general explanation has no direct source, look in the risk factors first; remove it only if no official document supports it, and say so in the review record. Never replace it with a quarter statistic.
 - **Definitions explain, not expand.** Explain an abbreviation, drug or measure by what it does or means (for example "Form 483: a list of problems a US drug inspector found at a factory"), not by spelling it out into more jargon.
 - **Company estimates stay estimates.** Write a target or break-even path as "the company estimates…", with every condition it gives.
-- **Never say the same fact as both a help and a hurt.**
+- **Never say the same fact twice** across `helps`, `hurts` and `risks`. `hurts` is the short plain version; `risks` adds a different angle or detail.
+- **State facts plainly.** Attribute to a document ("the annual report says…") only for opinions, estimates, forecasts or direct quotes. The source belongs in `sources`, not in every sentence.
+- **Search before you delete.** Before removing a lasting help, hurt or risk as unsourced, search the whole annual report (segment reviews and management discussion, not only the risk section), the exchange copy and the investor presentation, and record where you looked. Keep these basics unless a source contradicts them: customer affordability and credit for vehicles and other big purchases; customer payment and collection for contractors and lenders; price competition for consumer goods.
+- **Open with the lasting mechanism.** A help or hurt starts with how the business works; one dated event may follow as an example, never two.
+- Keep `risks` to at most four items, like `hurts`, so pages do not keep growing.
 - Use BSE `AttachHis` links, not `AttachLive` (those expire).
 
 - Read `AGENTS.md`, `content/company-lessons/AGENTS.md` and `content/lesson-template/template.json` before starting. The template is the format; the root AGENTS.md is the writing standard.
