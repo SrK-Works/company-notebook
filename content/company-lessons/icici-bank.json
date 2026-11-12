@@ -97,20 +97,20 @@
   ],
   "risks": [
     [
-      "Borrowers fail to repay",
-      "Household or business difficulties can cause losses, including on loans without pledged property."
+      "Loans with no property pledged",
+      "These are harder to recover from when a borrower stops paying. The annual report lists the unsecured loan book among the exposures the bank watches closely."
     ],
     [
-      "Deposits cost more or move away",
-      "Competition and withdrawals can raise funding costs or restrict further lending."
+      "Tight money in the banking system",
+      "The annual report names tighter money conditions through much of the year, and exchange-rate moves, among its market and liquidity risks."
     ],
     [
-      "Systems or safeguards fail",
-      "Fraud, outages, cyber incidents and rule breaches can interrupt services and cause losses."
+      "Others misusing the bank’s systems",
+      "The annual report names possible liability when fraudsters misuse the bank’s systems, alongside cyber threats."
     ],
     [
-      "Interest rates and investment prices move",
-      "These can change the income earned, funding cost and value of investments at different times."
+      "Money raised in other currencies",
+      "The bank borrows some long-term money in US dollars and other currencies and uses hedging contracts, which offset rate and currency moves, to limit the effect of exchange rates."
     ]
   ],
   "context": [
@@ -127,8 +127,8 @@
       "https://www.icici.bank.in/about-us/annual"
     ],
     [
-      "FY 2025–26 annual report filed with the SEC",
-      "https://www.sec.gov/Archives/edgar/data/1103838/000095010326011004/dp250272_ex9901.pdf"
+      "FY 2025–26 annual report (risk, branch and digital sections)",
+      "https://www.icici.bank.in/content/dam/icicibank/managed-assets/docs/investor/annual-reports/2026/ICICI-BankAR2025-2026.pdf"
     ],
     [
       "July–September 2026 performance review · 17 October 2026",
@@ -141,7 +141,7 @@
       "text": "The audited figures cover the consolidated group, including insurance businesses. Gross total income, net interest income and profit after tax measure different stages of the business. Deposits, advances and assets are balance-sheet amounts. The table does not allocate profit to each card, account or loan product."
     }
   ],
-  "checked": "31 October 2026",
+  "checked": "12 November 2026",
   "stepsTitle": "From a deposit to a repaid loan.",
   "quick": [
     {
@@ -163,22 +163,22 @@
   ],
   "helps": [
     {
+      "title": "Branches in towns and villages, plus apps",
+      "text": "The bank serves customers through a large branch network, about half of it in rural and semi-urban areas, and through apps such as iMobile. More ways to reach people help it gather deposits and sell loans."
+    },
+    {
       "title": "Many kinds of customer",
       "text": "Households, businesses, large companies and overseas Indians use the bank for different needs, which spreads where its income comes from."
     },
     {
-      "title": "Branches plus apps",
-      "text": "Customers can bank in branches or on digital channels such as iMobile, giving several ways to reach and serve them."
-    },
-    {
       "title": "Fees as well as interest",
-      "text": "Some services earn fees, which add to the income from lending."
+      "text": "Fees, mostly from retail, rural and business banking customers, add income that does not depend on lending alone."
     }
   ],
   "hurts": [
     {
       "title": "Borrowers fail to repay",
-      "text": "Household or business difficulties can cause losses, including on loans with no property pledged against them."
+      "text": "Household or business difficulties can cause losses."
     },
     {
       "title": "Deposits cost more or move away",

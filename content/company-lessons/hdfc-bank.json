@@ -97,20 +97,20 @@
   ],
   "risks": [
     [
-      "Borrowers cannot repay",
-      "Lost jobs, business difficulties or lower sale proceeds from pledged property can increase losses."
+      "Trouble in one borrower group",
+      "The bank lends to individuals, small businesses, farmers and large companies. A setback in any one group means it must set aside more for possible losses."
     ],
     [
-      "Funding becomes expensive or leaves",
-      "The bank may need to pay more for deposits or find other money to meet withdrawals and fund loans."
+      "Reserves it must keep",
+      "Rules require the bank to hold reserves, so not all deposited money can be lent."
     ],
     [
-      "Interest rates change at different times",
-      "What the bank pays for deposits can rise before what it earns from existing loans."
+      "Investment gains rise and fall",
+      "Treasury gains from trading bonds and other investments move with market prices, so they can swing profit from one period to the next."
     ],
     [
-      "Payments or controls fail",
-      "System outages, fraud, cyber incidents or rule breaches can cost money and damage customer trust."
+      "More digital use, more exposure",
+      "As more customers use digital services, a cyber attack or data leak can reach more of them. The annual report describes security checks and testing as a continuing focus."
     ]
   ],
   "context": [
@@ -127,8 +127,8 @@
       "https://www.hdfc.bank.in/about-us/investor-relations/financial-results"
     ],
     [
-      "Official annual reports",
-      "https://www.hdfc.bank.in/about-us/investor-relations/annual-reports"
+      "FY 2025–26 integrated annual report",
+      "https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/pdf/annual-reports/2025-26/reports/HDFC_Bank_IR26.pdf"
     ],
     [
       "July–September 2026 results release · 17 October 2026",
@@ -141,7 +141,7 @@
       "text": "The table pairs consolidated group total income with profit after tax attributable to owners. Total income is before funding, insurance, operating and credit-loss costs, and is different from net interest income. Deposit and loan balances are not revenue. Use the standalone bank accounts separately when investigating lending spreads and provisions."
     }
   ],
-  "checked": "31 October 2026",
+  "checked": "12 November 2026",
   "stepsTitle": "From a deposit to a repaid loan.",
   "quick": [
     {
@@ -163,16 +163,16 @@
   ],
   "helps": [
     {
-      "title": "Customers use many services",
-      "text": "One customer can have an account, a card, a home loan and business services with the same bank, which gives several ways to earn from one relationship."
+      "title": "Many ways to reach customers",
+      "text": "Customers can use branches, cash machines, business agents and digital channels, so the bank can serve towns as well as villages."
+    },
+    {
+      "title": "Lending to different kinds of customer",
+      "text": "It lends to individuals, small businesses, farmers and large companies, and one customer can use several services, so it does not rely on one kind of borrower."
     },
     {
       "title": "Deposits fund the lending",
-      "text": "Money customers keep in accounts is one way the bank funds its loans, alongside other borrowing."
-    },
-    {
-      "title": "Lending to many kinds of borrower",
-      "text": "Home loans, other personal loans and business loans spread its lending across different borrowers and needs."
+      "text": "Money customers keep in savings and current accounts is one source of funds for loans, alongside fixed deposits and other borrowing. These account balances were about a third of deposits at March 2026."
     }
   ],
   "hurts": [
@@ -185,8 +185,8 @@
       "text": "The bank may need to pay more for deposits, or find other money, to meet withdrawals and fund new loans."
     },
     {
-      "title": "Interest rates move at different times",
-      "text": "What the bank pays on deposits can rise before what it earns on existing loans."
+      "title": "Interest rates move at different speeds",
+      "text": "Loan rates and deposit rates reset at different speeds. After the Reserve Bank of India cut rates in 2025, the annual report says loan income fell faster than deposit costs, which narrowed the gap between them."
     },
     {
       "title": "Systems or controls fail",

@@ -97,20 +97,20 @@
   ],
   "risks": [
     [
-      "Competition makes orders costly to win",
-      "Discounts, advertising and customer benefits can use up the benefit of higher demand."
+      "Delivery in minutes leaves no room for error",
+      "The company’s letter describes a ten-minute order as many linked steps (store stock, picking, rider, payment) that must all work."
     ],
     [
-      "Orders are unavailable, late or wrong",
-      "Poor stock availability, packing, delivery or booking service can discourage repeat use."
+      "Shopping by AI software",
+      "The company’s letter says AI agents that compare apps on results rather than habit could weaken customer loyalty. It rates District at medium-to-high risk and some other businesses lower."
     ],
     [
-      "Goods tie up money or lose value",
-      "Owned stock must be funded and may spoil, become damaged or remain unsold."
+      "The headline profit measure leaves costs out",
+      "The company’s adjusted earnings measure adds back the cost of shares given to staff and subtracts rent for leased premises, so it is not the profit in its accounts."
     ],
     [
-      "Trust and operating rules are breached",
-      "Food safety, consumer protection, worker arrangements and data or app failures can cause costs and disruption."
+      "Delivery workers’ laws",
+      "Karnataka passed a law on gig workers’ welfare in 2025. Eternal is contesting its validity and says the present financial effect is not material; new national labour codes also apply."
     ]
   ],
   "context": [
@@ -149,7 +149,7 @@
       "text": "The disclosed food-delivery result and the quick-commerce revenue answer different questions. Preserve losses in the other rows, exclude internal transactions as the source does, and reconcile segment results to company profit rather than calling them net earnings."
     }
   ],
-  "checked": "31 October 2026",
+  "checked": "12 November 2026",
   "stepsTitle": "From an order in the app to the doorstep.",
   "quick": [
     {
@@ -175,8 +175,8 @@
       "text": "A delivery site has fixed costs such as rent and staff. More orders from nearby homes spread those costs over more deliveries."
     },
     {
-      "title": "Several businesses share customers",
-      "text": "Food delivery, quick shopping, dining and tickets, and restaurant supplies all serve households or restaurants, so one app can lead people to another."
+      "title": "Restaurants that need supplies",
+      "text": "Hyperpure sells ingredients to restaurants, many of which buy from wholesale markets, often for cash. The company says it competes on reliability, speed and quality, not the lowest price."
     },
     {
       "title": "Sellers and restaurants pay to be seen",
@@ -186,7 +186,7 @@
   "hurts": [
     {
       "title": "Competition makes orders costly to win",
-      "text": "Discounts, advertising and customer benefits can use up the gain from higher demand."
+      "text": "Discounts, advertising and customer benefits can use up the gain from higher demand. The company says customers who come only for a deep discount tend to leave when it ends."
     },
     {
       "title": "Late, missing or wrong orders",
@@ -194,7 +194,7 @@
     },
     {
       "title": "Owned stock ties up money",
-      "text": "Goods Blinkit owns must be paid for and may spoil, get damaged or go unsold."
+      "text": "Goods Blinkit owns must be paid for before they are sold, and goods that go unsold are a cost."
     },
     {
       "title": "Rules and trust",

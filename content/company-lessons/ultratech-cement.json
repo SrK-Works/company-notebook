@@ -93,20 +93,20 @@
   ],
   "risks": [
     [
-      "Too much competing local supply",
-      "Producers may lower prices to win buyers even when more cement is being used."
+      "Weak rains hold back building",
+      "The annual report says a below-normal monsoon would affect demand in the countryside."
     ],
     [
-      "Fuel and transport become dearer",
-      "Coal, other fuels, electricity and moving materials can raise the cost of each sale."
+      "Oil and petroleum coke prices",
+      "Petroleum coke is a solid fuel left over from oil refining, burned in kilns. The annual report says its price and crude oil prices will set the pace of selling-price changes."
     ],
     [
-      "Expansion takes too long to earn back its cost",
-      "New or acquired factories need money, maintenance and enough buyers."
+      "Capacity can run ahead of buyers",
+      "The company plans to grow capacity to over 240 million tonnes a year by March 2028. A plant earns only when customers buy what it makes."
     ],
     [
-      "Production is interrupted",
-      "Permit problems, lost quarry access, accidents or equipment failures can stop work and add costs."
+      "Rules on emissions and land",
+      "The annual report names changing rules, limited land access, higher compensation costs and carbon pricing as pressures on cement makers."
     ]
   ],
   "context": [
@@ -125,6 +125,10 @@
     [
       "Results for the quarter ended 30 September 2026, new capacity and Ultravolt launch · 19 October 2026",
       "https://www.ultratechcement.com/corporate/media/press-releases/financial-results-q2fy27"
+    ],
+    [
+      "FY 2025–26 integrated annual report (outlook, costs and risk sections)",
+      "https://www.ultratechcement.com/content/dam/ultratechcementwebsite/pdf/financials/annual-reports/integrated-and-sustainability-report-2025-26-single-page.pdf"
     ]
   ],
   "financialNotes": [
@@ -133,7 +137,7 @@
       "text": "The table uses audited consolidated revenue from operations and statutory group profit after tax, including exceptional items. It does not substitute a net-sales or adjusted-profit press-release headline. Match the reporting period with volume disclosures; capacity is not sales, and company profit is not a profit allocation to cement, concrete or individual brands."
     }
   ],
-  "checked": "31 October 2026",
+  "checked": "12 November 2026",
   "stepsTitle": "From the quarry to the building site.",
   "quick": [
     {
@@ -156,21 +160,21 @@
   "helps": [
     {
       "title": "Building needs cement",
-      "text": "Homes, roads, factories and other projects all use cement and concrete, so construction activity drives demand."
+      "text": "Homes, roads, factories and other projects all use cement and concrete. The annual report expects housing and infrastructure building to keep demand growing."
     },
     {
-      "title": "Many kinds of buyer",
-      "text": "Dealers, homebuilders, contractors, developers and large project builders all buy from it."
+      "title": "A wide network of dealers and shops",
+      "text": "It sells through more than 40,000 dealers and over 100,000 retailers, so bags reach buyers in many places."
     },
     {
       "title": "Busier plants spread costs",
-      "text": "When customers buy more of what a plant can make, its fixed costs are spread over more tonnes."
+      "text": "When customers buy more of what a plant can make, its fixed costs are spread over more tonnes. The annual report credits higher volumes for part of a better operating margin."
     }
   ],
   "hurts": [
     {
-      "title": "Too much local supply",
-      "text": "Rival producers may cut prices to win buyers, even when more cement is being used."
+      "title": "Prices follow supply and demand",
+      "text": "When cement is plentiful nearby or building slows, producers may cut prices to win buyers."
     },
     {
       "title": "Fuel and transport get dearer",
@@ -178,7 +182,7 @@
     },
     {
       "title": "Expansion takes time to pay back",
-      "text": "New or bought factories need money, maintenance and enough buyers."
+      "text": "New or bought factories cost money before they earn."
     },
     {
       "title": "Production stops",
