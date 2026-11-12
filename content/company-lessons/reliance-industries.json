@@ -108,11 +108,11 @@
   "risks": [
     [
       "A conflict disrupts oil and fuel trade",
-      "The annual report says the Middle East conflict hurt fuels and chemicals earnings at the end of FY 2025–26 and calls the outlook for FY 2026–27 “extremely vulnerable” to geopolitical and policy risks. Government decisions on fuel taxes and duties can also squeeze margins."
+      "The Middle East conflict hurt fuels and chemicals earnings at the end of FY 2025–26, and the annual report calls the outlook for FY 2026–27 “extremely vulnerable” to geopolitical and policy risks. Government decisions on fuel taxes and duties can also squeeze margins."
     ],
     [
       "An accident at a plant",
-      "Refineries and chemical plants handle hazardous materials. The annual report names leaks, fires, explosions, extreme weather and contractor safety as risks that can harm people and stop production."
+      "Refineries and chemical plants handle hazardous materials. Leaks, fires, explosions, extreme weather and contractor mistakes can harm people and stop production."
     ],
     [
       "A cyber attack or data leak",
@@ -120,7 +120,7 @@
     ],
     [
       "Growing faster than it can hire",
-      "The annual report says fast growth in stores, digital services and new energy can leave it short of skilled staff and managers."
+      "Fast growth in stores, digital services and new energy can leave the group short of skilled staff and managers."
     ]
   ],
   "context": [
@@ -198,33 +198,33 @@
   "helps": [
     {
       "title": "Many different businesses",
-      "text": "Reliance earns from mobile and broadband plans, shops, media, fuels, chemicals and gas. These depend on different customers and prices, so the group does not rest on one market. The annual report describes this as a wide portfolio serving energy, connectivity and consumption needs."
+      "text": "Reliance earns from mobile and broadband plans, shops, media, fuels, chemicals and gas. These depend on different customers and prices, so the group does not rest on one market."
     },
     {
       "title": "Subscribers who pay every month",
-      "text": "Jio customers renew their mobile or broadband plans again and again on the same network. The annual report credits Jio’s growth to more subscribers and a higher average payment per user; it had over 524 million customers in March 2026."
+      "text": "Jio customers renew their mobile or broadband plans again and again on the same network. Jio grew by adding subscribers and raising the average payment per user, and had over 524 million customers in March 2026."
     },
     {
       "title": "Buying for thousands of shops",
-      "text": "Reliance Retail buys goods for a very large chain of shops and online orders. The annual report says this scale of buying and its own supply chain help it keep shelves stocked and offer good value."
+      "text": "Reliance Retail buys goods for a very large chain of shops and online orders. That scale of buying and its own supply chain help it keep shelves stocked and offer good value."
     }
   ],
   "hurts": [
     {
       "title": "Fuel and chemical prices swing",
-      "text": "Reliance buys crude oil and sells fuels and chemicals, and all of these prices move with world events. The annual report calls energy and materials prices “inherently volatile”, so the gap between what it pays and what it sells for can shrink quickly."
+      "text": "Reliance buys crude oil and sells fuels and chemicals, and all these prices move with world events. The gap between what it pays and what it sells for can shrink quickly; the annual report calls these prices “inherently volatile”."
     },
     {
       "title": "Customers can walk away",
-      "text": "Shoppers, mobile users and viewers can switch to a rival if service, choice or price disappoints. The annual report lists losing customers this way as a risk."
+      "text": "Shoppers, mobile users and viewers can switch to a rival if service, choice or price disappoints."
     },
     {
       "title": "Borrowing costs",
-      "text": "Reliance borrows large sums, some in dollars, to build plants, networks and shops. The annual report says higher interest rates raise its finance costs and a weaker rupee makes dollar debt dearer."
+      "text": "Reliance borrows large sums, some in dollars, to build plants, networks and shops. Higher interest rates raise its finance costs, and a weaker rupee makes dollar debt dearer."
     },
     {
       "title": "Partners and bought companies",
-      "text": "Reliance works with many partners and has bought many smaller firms. The annual report warns that if these are not watched closely they can cause financial, legal or reputational problems."
+      "text": "Reliance works with many partners and has bought many smaller firms. If these are not watched closely they can cause financial, legal or reputational problems."
     }
   ]
 }

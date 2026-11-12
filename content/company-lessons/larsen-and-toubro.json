@@ -108,23 +108,19 @@
   "risks": [
     [
       "Materials arrive late",
-      "The annual report says trade tariffs, port congestion, closed airspace and changed shipping routes have made deliveries of imported materials slower and dearer, which can stretch project timelines."
+      "Trade tariffs, port congestion, closed airspace and changed shipping routes have made deliveries of imported materials slower and dearer, which can stretch project timelines."
     ],
     [
       "Conflict in West Asia",
-      "West Asia is one of L&T’s main overseas markets. The annual report says the conflict there has raised security risks and insurance and shipping costs, and made new investment in the region less certain."
-    ],
-    [
-      "Less oil and gas work",
-      "As the world shifts from oil and gas to renewable power, the annual report calls this a material risk for L&T’s oil-and-gas construction business, even as it creates solar, wind and storage work."
+      "West Asia is one of L&T’s main overseas markets. The conflict there has raised security risks and insurance and shipping costs, and made new investment in the region less certain."
     ],
     [
       "Software clients automate",
-      "Clients are using AI tools to write and test software themselves. The annual report says L&T’s technology-services companies must change what they offer as a result."
+      "Clients are using AI tools to write and test software themselves, so L&T’s technology-services companies must change what they offer."
     ],
     [
       "Guarantees tie up credit",
-      "Customers usually require bank guarantees while a project is built and sometimes after. L&T must keep enough bank credit lines to provide them."
+      "Customers usually require bank guarantees while a project is built and sometimes after, so L&T must keep enough bank credit lines to provide them."
     ]
   ],
   "context": [
@@ -182,15 +178,15 @@
   "helps": [
     {
       "title": "Many businesses in many countries",
-      "text": "Construction, equipment, technology services, lending and property depend on different customers. The annual report says this mix and L&T’s presence in many countries help it cope when one area weakens."
+      "text": "Construction, equipment, technology services, lending and property depend on different customers, in many countries. That mix helps L&T cope when one area weakens."
     },
     {
       "title": "Years of work already won",
-      "text": "L&T’s order book, the work customers have agreed to but L&T has not yet done, was at a record high in March 2026, and about half of it was abroad. The annual report says this gives it several years of visible revenue."
+      "text": "L&T’s order book is the work customers have agreed to but L&T has not yet done. It reached a record in March 2026, about half of it abroad, giving several years of visible revenue."
     },
     {
       "title": "India keeps building",
-      "text": "The annual report expects India’s economy to keep growing on the back of household spending and steady government spending on infrastructure, the kind of project L&T builds."
+      "text": "Steady government spending on infrastructure creates the kind of project L&T builds, and the annual report expects that spending and household demand to keep India’s economy growing."
     }
   ],
   "hurts": [
@@ -207,8 +203,8 @@
       "text": "Government work is usually won through competitive bidding, and rivals in India and abroad may bid aggressively. That squeezes margins and can cost L&T projects."
     },
     {
-      "title": "Disagreements over contracts",
-      "text": "Long projects with many parties, slow approvals or unclear contract terms can lead to disagreements with customers over who pays for what."
+      "title": "Customers pay late or argue",
+      "text": "Long projects with many parties, slow approvals or unclear terms can lead to disagreements over who pays for what. Money for work already done can stay unpaid, and part of it may have to be written off."
     }
   ]
 }

@@ -106,7 +106,7 @@
     ],
     [
       "A low bid locks in a low charge",
-      "In a bidding contest, the winner is whoever asks for the lowest charge over 35 years. If building or running the line turns out to cost more, the charge does not rise to match."
+      "The same 35-year fixed charge that gives certainty also cannot rise. If building or running a bid-won line turns out to cost more, the charge does not change to match."
     ],
     [
       "Storms, disasters and outages",
@@ -176,17 +176,17 @@
     },
     {
       "title": "Charges set by rules or by bid",
-      "text": "For many of its lines, the national electricity regulator sets charges that cover approved building and running costs, interest and a set return on the owners’ money. For lines won in a bidding contest, the winning charge is fixed for 35 years."
+      "text": "For many of its lines, the national electricity regulator sets charges that cover approved building and running costs, interest and a set return on the owners’ money. For lines won in a bidding contest, the winning charge is fixed for 35 years, which gives certainty."
     },
     {
       "title": "Safeguards on payment",
-      "text": "The annual report says customers have several payment-security arrangements, so the company has no significant unpaid bills it expects to lose. It also says it collected slightly more than it billed in FY 2025–26, as older dues were cleared."
+      "text": "Customers have several payment-security arrangements, so the company has no significant unpaid bills it expects to lose. In FY 2025–26 it collected slightly more than it billed, as older dues were cleared."
     }
   ],
   "hurts": [
     {
       "title": "Land and permits take time",
-      "text": "Every new line must cross private land and sometimes forests. The annual report names delays in getting this permission as one of its biggest risks."
+      "text": "Every new line must cross private land and sometimes forests, and getting permission is slow. The annual report names it one of the company’s biggest risks."
     },
     {
       "title": "The regulator may not pay for overruns",

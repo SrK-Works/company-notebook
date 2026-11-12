@@ -98,19 +98,19 @@
   "risks": [
     [
       "Electricity buyers short of money",
-      "NTPC’s main customers are electricity distribution companies, and the annual report names their finances as a strategic risk. Under 2022 rules, some buyers’ overdue bills were rescheduled over up to 48 months."
+      "NTPC’s main customers are electricity distribution companies, and their financial health affects whether NTPC is paid on time. Under 2022 rules, some buyers’ overdue bills were rescheduled over up to 48 months."
     ],
     [
       "Too much daytime solar",
-      "For NTPC’s own solar farms, the annual report warns that excess daytime supply can push market prices down. Shortages of transmission lines can also stop new plants from selling all they produce."
+      "For NTPC’s own solar farms, excess daytime supply can push market prices down, and shortages of transmission lines can stop new plants from selling all they produce."
     ],
     [
       "Contractors fall behind",
-      "New projects depend on outside builders. In September 2026 NTPC cancelled a battery-storage contract at its Mouda station because the contractor was too far behind, and had to tender the work again."
+      "New projects depend on outside builders. In September 2026, for example, NTPC cancelled a battery-storage contract at its Mouda station because the contractor was too far behind, and had to tender the work again."
     ],
     [
       "Interest, currency and fuel costs move",
-      "NTPC borrows heavily to build plants, some of it in foreign currency. The annual report lists interest rates, exchange rates and fuel costs among its financial risks."
+      "NTPC borrows heavily to build plants, some of it in foreign currency, so interest rates, exchange rates and fuel costs all affect its results."
     ]
   ],
   "context": [
@@ -184,7 +184,7 @@
     },
     {
       "title": "Bills that get paid",
-      "text": "The annual report says NTPC collected all it billed in FY 2025–26 and that its sales are backed by secured payment arrangements under three-party agreements."
+      "text": "NTPC’s sales are backed by secured payment arrangements under three-party agreements, and it collected all it billed in FY 2025–26."
     },
     {
       "title": "More electricity needed",
@@ -194,7 +194,7 @@
   "hurts": [
     {
       "title": "Solar pushes coal plants aside",
-      "text": "When the sun shines, cheap solar power fills much of the demand, so coal plants are asked to run less. The annual report says this cut how much its coal plants ran in FY 2025–26."
+      "text": "When the sun shines, cheap solar power fills much of the demand, so coal plants are asked to run less. In FY 2025–26 this cut how much NTPC’s coal plants ran."
     },
     {
       "title": "Fuel shortages and breakdowns",

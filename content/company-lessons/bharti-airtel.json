@@ -99,23 +99,19 @@
   "risks": [
     [
       "Weak economies in Africa",
-      "Many of Airtel’s African markets face high inflation, currency falls and limits on moving money abroad. A weaker local currency lowers the rupee value of what Airtel earns there."
-    ],
-    [
-      "Borrowing in foreign currencies",
-      "Some of Airtel’s loans are in foreign currencies at interest rates that move. The annual report says this exposes its earnings and cash to market swings."
+      "Many of Airtel’s African markets face high inflation, currency falls and limits on moving money abroad. A weaker local currency lowers the rupee value of what Airtel earns there. Some of its loans are also in foreign currencies at interest rates that move."
     ],
     [
       "Customer data is leaked",
-      "Airtel holds personal details of hundreds of millions of people. India’s Digital Personal Data Protection Act of 2023 sets rules on how that data may be used. The annual report says keeping control of so much data is challenging."
+      "Airtel holds personal details of hundreds of millions of people. India’s Digital Personal Data Protection Act of 2023 sets rules on how that data may be used, and keeping control of so much data is hard."
     ],
     [
       "Only selling the pipe",
-      "If Airtel only carries data while other companies sell the apps and cloud services on top, the annual report says customers may pay less per head and margins may shrink."
+      "If Airtel only carries data while other companies sell the apps and cloud services on top, customers may pay less per head and margins may shrink."
     ],
     [
       "Mistakes in handling money",
-      "Airtel processes a very large number of payments, including mobile money. The annual report says weak internal checks could lead to losses, fraud or penalties."
+      "Airtel processes a very large number of payments, including mobile money. Weak internal checks could lead to losses, fraud or penalties."
     ]
   ],
   "context": [
@@ -177,25 +173,25 @@
   "helps": [
     {
       "title": "Many customers share one network",
-      "text": "Once towers and cables are built, each extra paying customer adds income without needing a whole new network. The annual report says revenue grew with more customers and more data use, while costs were held down."
+      "text": "Once towers and cables are built, each extra paying customer adds income without needing a whole new network. Revenue has grown with more customers and more data use while costs were held down."
     },
     {
       "title": "Room to charge more",
-      "text": "Indian mobile users pay some of the lowest prices in the world while using some of the most data. The annual report says price rises across the industry are needed to pay for networks, and few Indians yet use monthly-bill (postpaid) plans."
+      "text": "Indian mobile users pay some of the lowest prices in the world while using some of the most data. The annual report argues price rises are needed to pay for networks, It also sees nearly 90 million of its customers as candidates to upgrade to pricier monthly-bill (postpaid) plans."
     },
     {
       "title": "Several businesses, not one",
-      "text": "India mobile, home internet, business connections, Africa, mobile money and towers earn in different ways. The annual report says this spread across products and countries lowers Airtel’s dependence on any one of them."
+      "text": "India mobile, home internet, business connections, Africa, mobile money and towers earn in different ways, in many countries. That spread lowers Airtel’s dependence on any one of them."
     }
   ],
   "hurts": [
     {
       "title": "Rivals fight for the best customers",
-      "text": "Every operator wants the customers who pay most. The annual report says competition is growing in 5G and home broadband, so Airtel must keep spending on its network and offers to keep them."
+      "text": "Every operator wants the customers who pay most, and competition is growing in 5G and home broadband. Airtel must keep spending on its network and offers to keep them."
     },
     {
       "title": "Costs can rise before income",
-      "text": "New sites, wages, energy and currency changes push costs up. The annual report warns this can come before the matching revenue, squeezing cash and adding debt."
+      "text": "New sites, wages, energy and currency changes push costs up, sometimes before the matching revenue arrives. That squeezes cash and can add debt."
     },
     {
       "title": "Networks can fail",
@@ -203,7 +199,7 @@
     },
     {
       "title": "Rules and politics change",
-      "text": "Governments set spectrum prices, customer-checking rules and penalties. The annual report adds that some countries Airtel works in face political instability."
+      "text": "Governments set spectrum prices, customer-checking rules and penalties, and some countries Airtel works in face political instability."
     }
   ]
 }

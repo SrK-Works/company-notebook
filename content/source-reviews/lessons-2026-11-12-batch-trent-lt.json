@@ -2,7 +2,7 @@
   "checked": "12 November 2026",
   "requestedProvider": "TinyFish",
   "providerStatus": "TinyFish search and fetch_content used to find and read sources. Company PDFs were downloaded from the companies' own sites and searched locally with pypdf. No browser automation was used.",
-  "method": "Lesson-editor review of quick, helps, hurts, risks and context claim by claim against official sources. Helps and hurts rewritten as lasting explanations from annual-report risk, strategy and outlook sections; risks rewritten so they add detail or a different angle instead of repeating hurts; checker warnings fixed by rewriting.",
+  "method": "Lesson-editor review of quick, helps, hurts, risks and context claim by claim against official sources. Helps and hurts rewritten as lasting explanations from annual-report risk, strategy and outlook sections; risks rewritten so they add detail or a different angle instead of repeating hurts; checker warnings fixed by rewriting. Revision after direction review (PR #24): 'the annual report says' kept only for opinions, forecasts and quotes; no fact repeated across helps, hurts and risks; at most four risks; at most one dated example per help or hurt.",
   "scope": "trent, reliance-industries, bharti-airtel, power-grid, ntpc, larsen-and-toubro. Plain-language and source check of pre-financial text; not a financial audit.",
   "financialPolicy": "No financial figures, snapshots or financial-review files changed. Reliance financialNotes[1] reworded only to define EBITDA. Recent quarterly results are described in words and percentages only.",
   "findings": [
@@ -19,7 +19,8 @@
         "Hurt 'Rising costs with steady prices' restated the stable-price help as a hurt; replaced with 'Costs keep rising' (inflation across line items remains elevated).",
         "Hurt on new towns now cites the source's 'two-to-three year period' for new markets.",
         "Risks rewritten so they no longer copy hurts: cost-of-living and Middle East caution, causes of cost inflation and supplier labour, rivals of different sizes, newer stores' extra depreciation, Star expansion spending.",
-        "Removed 'Star needs investment before it earns a steady profit' (not in source); now says Trent plans to keep spending on new Star stores."
+        "Removed 'Star needs investment before it earns a steady profit' (not in source); now says Trent plans to keep spending on new Star stores.",
+        "Revision: dropped the steady-prices sentence from the cost risk (it repeated the help); dropped the rivals risk to keep four risks; removed attributions on plain facts."
       ],
       "limits": [
         "docs.trent-tata.com was reachable on 12 November 2026; the separate NSE/BSE announcement pages were not opened."
@@ -37,7 +38,8 @@
         "Hurts now cite the annual report risk list: volatile energy and materials prices, customer experience and retention, interest-rate and currency risk, partner and acquisition oversight. Removed 'hard to compare the group' (not in sources).",
         "Risks now add different angles from the same risk list: Middle East conflict and FY 2026–27 outlook, plant safety, cyber and data privacy, staff shortages.",
         "Context kept on the Jio listing (still the main structural change) and adds the 30 October 2026 results, led by fuels and chemicals.",
-        "Defined EBITDA in financialNotes title and text (checker warning)."
+        "Defined EBITDA in financialNotes title and text (checker warning).",
+        "Revision: attributions cut from 10 to 2 (kept 'inherently volatile' and 'extremely vulnerable' quotes)."
       ],
       "limits": [
         "The Jio Platforms red herring prospectus was not re-read; the 'new shares only' statement rests on last round's reading."
@@ -54,7 +56,8 @@
         "Helps now cite the annual report: growth from more customers and data use with cost discipline; low Indian prices and the 'tariff repair' outlook plus low postpaid use; spread across products and countries.",
         "Hurts now cite the key-risk list: competition for high-value customers, costs rising ahead of revenue, network failures, regulation and politics.",
         "Risks now add different angles: African economies and currencies, floating-rate foreign borrowing, data protection law, being reduced to a data pipe, internal controls over payments.",
-        "Context moved from the 7 October postpaid plans to the 5 November 2026 results: record postpaid additions, Apple iCloud+ bundle, data-centre land as a step toward a stated ambition, financial-services launch."
+        "Context moved from the 7 October postpaid plans to the 5 November 2026 results: record postpaid additions, Apple iCloud+ bundle, data-centre land as a step toward a stated ambition, financial-services launch.",
+        "Revision: 'few Indians yet use postpaid plans' was not in the report; replaced with its statement that nearly 90 million customers are an upgrade opportunity (AR PDF page 10). Merged the foreign-borrowing risk into the Africa risk to keep four; attributions cut."
       ],
       "limits": [
         "The NSE copy of the results filing could not be read (automated download blocked); Airtel's own copy of the media release was used."
@@ -71,7 +74,8 @@
         "Help 'Charges set before the work' was inaccurate for regulated projects (charges are set on actual capital cost); rewritten as 'charges set by rules or by bid', with the 35-year bid charge.",
         "Help 'Fibre and advice' replaced with payment safeguards (collection above billing, no material impaired receivables); hurt 'cash is stretched by late payments' removed so the same fact is not both.",
         "Hurts now follow the annual report's key risks: right of way, regulatory disallowance of overruns, private competition for bid projects, cyber and obsolescence.",
-        "Context moved to the 1 November 2026 release (six projects won in July–September 2026, availability above 99.8 per cent); this also removes the undefined REZ warning."
+        "Context moved to the 1 November 2026 release (six projects won in July–September 2026, availability above 99.8 per cent); this also removes the undefined REZ warning.",
+        "Revision: help and risk now state the link explicitly (the same 35-year fixed charge gives certainty but cannot rise); attributions cut."
       ],
       "limits": []
     },
@@ -87,7 +91,8 @@
         "Removed help 'Trading and consultancy too' (minor and unsourced as a strength).",
         "Hurts from the SWOT threats and risk categories: renewables cutting coal-plant use, fuel and equipment problems with underused gas plants, solar-plus-battery competition, regulation.",
         "Risks add distribution-company finances (dues rescheduled up to 48 months), daytime solar surplus and transmission bottlenecks, the Mouda contractor default, interest, currency and fuel costs.",
-        "Context moved from the Patratu unit (June 2026) to the 31 October 2026 results; this removes the 55-word sentence warning. Plant load factor defined."
+        "Context moved from the Patratu unit (June 2026) to the 31 October 2026 results; this removes the 55-word sentence warning. Plant load factor defined.",
+        "Revision: attributions cut to the demand forecast only; Mouda kept as a single dated example."
       ],
       "limits": []
     },
@@ -102,7 +107,8 @@
         "Help 'Some contracts pass on cost rises' dropped so price-variation and fixed-price exposure are not used as both a help and a hurt; helps now cite diversification, the record order book and sustained public infrastructure spending.",
         "Hurts now cite the annual report: execution delays (right of way, geology, approvals, design changes, labour), commodity prices on fixed-price contracts, competitive bidding, contractual disagreements.",
         "Risks add different angles: supply-chain disruption, West Asia conflict, energy transition, AI in technology services, bank guarantees.",
-        "Context re-checked against the 27 October 2026 results: sale agreement dated 29 April 2026, completion expected by 31 December 2026, still held for sale."
+        "Context re-checked against the 27 October 2026 results: sale agreement dated 29 April 2026, completion expected by 31 December 2026, still held for sale.",
+        "Revision: restored late and unpaid customer payments in the contract hurt (AR p.44, higher provisioning on contract assets and customer receivables); dropped the energy-transition risk to keep four; attributions cut."
       ],
       "limits": []
     }
