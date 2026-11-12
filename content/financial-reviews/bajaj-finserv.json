@@ -1,0 +1,48 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated · group",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited consolidated financial statements (annual report)",
+  "checked": "12 November 2026",
+  "coverage": "Reported business segments · total revenue before inter-segment amounts",
+  "revenueLabel": "Total revenue",
+  "incomeDefinition": "Interest on loans, insurance premiums and other operating income plus other income, shown for the whole subsidiary even where outside owners hold part of it. It is not product sales. Segments also charge each other, so the rows add up to more than the group’s total income.",
+  "profitMetric": "Segment result (profit before tax)",
+  "definition": "Each segment’s profit before tax, after interest paid, insurance claims and loan-loss provisions (money set aside for loans that may not be repaid), and after the one-off Labour Codes charge. It counts 100% of subsidiaries such as Bajaj Finance, so a large part belongs to outside owners. The rows add up exactly to group profit before tax of ₹26,883.15 crore. It is not profit after tax.",
+  "rows": [
+    {
+      "name": "Life insurance",
+      "revenue": 34210.07,
+      "profit": 196.87
+    },
+    {
+      "name": "General insurance",
+      "revenue": 34649.89,
+      "profit": 1974.85
+    },
+    {
+      "name": "Windmill",
+      "revenue": 23.97,
+      "profit": 12.5
+    },
+    {
+      "name": "Retail financing",
+      "revenue": 81989.5,
+      "profit": 25601.49
+    },
+    {
+      "name": "Investments and others",
+      "revenue": 3619.47,
+      "profit": -902.56
+    }
+  ],
+  "source": "https://www.bajajfinserv.in/finserv-digital-annual-report-fy26/assets/pdf/CONSOLIDATED%20from%20Bajaj%20Finserv%20Limited%20BFS%20AR2025-26.pdf",
+  "location": "Annual report 2025–26, consolidated financial statements: note 43 segment information (printed page 287, PDF page 81), consolidated statement of profit and loss (printed page 224, PDF page 18) and note 39(A) (printed page 282, PDF page 76)",
+  "notes": "Segment total revenue of ₹154,492.90 crore less inter-segment amounts of ₹3,962.52 crore gives group total income of ₹150,530.38 crore. Group profit before tax of ₹26,883.15 crore less tax of ₹7,213.68 crore gives profit after tax of ₹19,669.47 crore, of which ₹9,868.50 crore belongs to non-controlling interests (outside owners of subsidiaries such as Bajaj Finance) and ₹9,800.97 crore to owners of Bajaj Finserv. Profit is after an exceptional item of ₹379.49 crore (note 39(A)): a one-time rise in gratuity (retirement pay for past service) caused by the new Labour Codes. Tax includes a credit of ₹69.77 crore relating to earlier years. The filing does not give profit for any loan product, insurance product or brand.",
+  "insight": "Retail financing, mainly Bajaj Finance, produces almost all of the segment profit. Only about half of the group’s profit after tax belongs to Bajaj Finserv’s own shareholders, because outside owners hold part of the subsidiaries.",
+  "status": "segments",
+  "revenueTotal": 154492.9,
+  "revenueTotalLabel": "Total revenue before inter-segment amounts",
+  "profitTotal": 26883.15,
+  "profitTotalLabel": "Group profit before tax"
+}

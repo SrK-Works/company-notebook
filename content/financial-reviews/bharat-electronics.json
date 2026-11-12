@@ -1,0 +1,24 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited consolidated financial results filed with the exchanges",
+  "checked": "12 November 2026",
+  "coverage": "Whole-group totals · no segment results (defence production is exempt from segment reporting)",
+  "profitMetric": "Profit for the year",
+  "definition": "Profit for the year after all expenses and tax, including a small share of associates’ profit. It is not operating profit or cash flow. The audited results remain subject to a supplementary audit by the Comptroller and Auditor General of India.",
+  "rows": [
+    {
+      "name": "Bharat Electronics · whole group",
+      "revenue": 27610.11,
+      "profit": 6062.26
+    }
+  ],
+  "source": "https://nsearchives.nseindia.com/corporate/BEL_19052026151725_Letter_signed.pdf",
+  "location": "PDF page 13 (B. Consolidated Results, year ended 31.03.2026 column), PDF page 12 (A. Standalone Results) and PDF page 22 (notes 6, 9 and 14); the filing has no printed page numbers",
+  "notes": "Source figures are in ₹ lakh and were divided by 100. Revenue is revenue from operations and excludes other income of ₹566.03 crore (total income ₹28,176.14 crore). Profit for the year of ₹6,062.26 crore is profit before tax of ₹8,052.96 crore, less tax of ₹2,029.49 crore, plus a ₹38.79 crore share of profit of associates; ₹6,062.00 crore belongs to owners of the company and ₹0.26 crore to minority owners of a subsidiary. There were no exceptional items. Note 9 says the new Labour Codes raised gratuity and provident fund liabilities by ₹20.55 crore; the filing does not say where this is charged in the profit and loss statement. BEL alone (standalone) reported revenue from operations of ₹27,479.63 crore and profit for the year of ₹6,048.48 crore. Under a government exemption for defence production (note 6), BEL does not report segment results, so profit by product is not disclosed.",
+  "insight": "BEL kept about 22 paise of profit from each rupee of revenue. These totals cannot show how much comes from radars, missile electronics, communication equipment or non-defence work.",
+  "status": "totals",
+  "revenueTotal": 27610.11,
+  "profitTotal": 6062.26
+}

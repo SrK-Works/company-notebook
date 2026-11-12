@@ -1,0 +1,41 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated · group",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited consolidated financial results filed with the exchanges",
+  "checked": "12 November 2026",
+  "coverage": "Reported business segments · segment revenue before inter-segment revenue",
+  "profitMetric": "Segment result",
+  "definition": "Each segment’s profit before finance costs, other unallocated income, the share of associates’ and joint ventures’ profit, exceptional items and tax. The rows add up to ₹2,893.2 crore, which becomes group profit before tax of ₹2,660.9 crore after those items. It is not profit after tax.",
+  "rows": [
+    {
+      "name": "Healthcare services",
+      "revenue": 12750.1,
+      "profit": 2430.3
+    },
+    {
+      "name": "Retail health and diagnostics",
+      "revenue": 1865.3,
+      "profit": 72.3
+    },
+    {
+      "name": "Digital health and pharmacy distribution",
+      "revenue": 10808.1,
+      "profit": 398.7
+    },
+    {
+      "name": "Others",
+      "revenue": 5.2,
+      "profit": -8.1
+    }
+  ],
+  "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3fa98f13-d39f-4e4b-beb3-6b4b565d134d.pdf",
+  "location": "PDF page 13 (consolidated segment revenue and results, year ended 31/03/2026 column), PDF page 11 (consolidated results) and PDF pages 16–17 (consolidated note 9); the filing has no printed page numbers",
+  "notes": "Source figures are in ₹ million and were divided by 10. Segment revenue of ₹25,428.7 crore is before ₹200.2 crore of inter-segment revenue; after it, revenue from operations is ₹25,228.5 crore. Total income, including other income of ₹191.6 crore, is ₹25,420.1 crore. Group profit after tax is ₹2,002.7 crore: profit before tax ₹2,660.9 crore less tax ₹658.2 crore. Of it, ₹1,941.7 crore belongs to owners of the company and ₹61.0 crore to minority owners of subsidiaries. Profit is after an exceptional item of ₹19.2 crore: higher gratuity (retirement pay for past service) and leave liability caused by the government’s new Labour Codes, which the company calls non-recurring and regulator-driven (note 9). Group profit also includes a ₹44.9 crore share of profit from associates and joint ventures. Apollo does not disclose profit for any single hospital, clinic or pharmacy.",
+  "insight": "Hospitals bring in about half of the segment revenue and most of the segment profit. Pharmacy distribution brings in a little less revenue than hospitals but far less segment profit.",
+  "status": "segments",
+  "revenueTotal": 25428.7,
+  "revenueTotalLabel": "Segment revenue before inter-segment revenue",
+  "profitTotal": 2893.2,
+  "profitTotalLabel": "Total segment result"
+}
