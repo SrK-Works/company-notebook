@@ -1,0 +1,197 @@
+{
+  "summary": "Bajaj Finserv is a holding company: it owns about half of Bajaj Finance, which lends money, plus home loans, general and life insurance, a fund manager, a stockbroker and a health and marketplace app.",
+  "description": "A holding company does not sell to customers itself; it owns shares in other companies that do. Bajaj Finserv's subsidiaries lend money for phones, vehicles, homes and business, take deposits, sell insurance for vehicles, health, travel and life, manage mutual funds, and run a share-trading app. Its biggest holding is Bajaj Finance, which has its own listing on the stock exchange and its own page on this site. Bajaj Auto, which makes motorcycles, is a different company.",
+  "money": "Lenders earn interest from borrowers and pay interest on what they borrow and on deposits; the gap is their income, and loan losses come out of it. Insurers collect premiums up front, pay claims later, and earn income by investing the premiums in between. The fund manager and stockbroker earn fees and brokerage. Staff and technology are large costs. Income is not profit, because interest paid and claims come out first.",
+  "customers": "Borrowers pay interest on loans, policyholders pay premiums for cover, investors pay fees to have money managed or shares traded, and depositors lend money to the group. The report says Bajaj Finserv serves 1 in 3 Indian households.",
+  "drivers": "Three things mostly decide how it does: how many loans are repaid on time, how many insurance claims are paid compared with premiums collected, and what it costs the lenders to borrow money.",
+  "groups": [
+    {
+      "title": "Loans and deposits",
+      "examples": "Bajaj Finance: loans for phones, vehicles, business and gold, and fixed deposits.",
+      "explanation": "Bajaj Finance is a lender that is not a bank. It lends its own money plus borrowed money and earns the difference. Bajaj Finserv holds about half of it; it is a separate listed company."
+    },
+    {
+      "title": "Home loans",
+      "examples": "Bajaj Housing Finance.",
+      "explanation": "A subsidiary of Bajaj Finance, listed on its own, that lends to people buying or building homes and to property developers."
+    },
+    {
+      "title": "General insurance",
+      "examples": "Bajaj General Insurance: motor, health, travel and home cover.",
+      "explanation": "Customers pay a premium, and the insurer pays for losses covered by the policy, such as an accident or a hospital stay."
+    },
+    {
+      "title": "Life insurance",
+      "examples": "Bajaj Life Insurance: protection, savings, retirement plans.",
+      "explanation": "Customers pay premiums for years. The insurer pays out if the customer dies or the plan matures, and invests the premiums meanwhile."
+    },
+    {
+      "title": "Funds, broking and apps",
+      "examples": "Bajaj Finserv Asset Management, Bajaj Financial Securities, Bajaj Markets and Bajaj Finserv Health.",
+      "explanation": "A mutual fund manager, a share-trading app, a marketplace that connects customers with financial products, and a health app linking customers, doctors and hospitals."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is a holding company?",
+      "text": "A company whose main assets are shares in other companies. Its income comes from dividends and from the profits of the companies it controls."
+    },
+    {
+      "title": "What is a non-bank lender?",
+      "text": "A finance company that lends money but cannot take everyday savings accounts like a bank. It funds loans by borrowing from banks and bond buyers and by taking fixed deposits."
+    },
+    {
+      "title": "What does a minority share mean?",
+      "text": "Bajaj Finserv owns only part of Bajaj Finance, so the rest of its profit belongs to other shareholders. Group results show a separate line for profit that belongs to such outside owners."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Customer applies",
+      "text": "A customer asks for a loan or buys a policy, a fund or a share-trading account, often through an app."
+    },
+    {
+      "title": "Check and approve",
+      "text": "A lender checks whether the borrower can repay. An insurer prices the risk."
+    },
+    {
+      "title": "Money moves",
+      "text": "The lender pays out the loan. The insurer collects the premium. The investor's money is placed in a fund or a share."
+    },
+    {
+      "title": "Interest or premium comes in",
+      "text": "Borrowers pay instalments with interest. Policyholders pay premiums, and the group earns fees on investing services."
+    },
+    {
+      "title": "Costs go out",
+      "text": "The group pays interest on its own borrowing, insurance claims, loan losses, staff and technology. Profit is what is left, and cash arrives on a different timetable."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Income comes through subsidiaries",
+      "text": "Bajaj Finserv is a parent, so its results mostly combine the results of Bajaj Finance, the insurers and other businesses it controls. Bajaj Finance has its own listing and its own page."
+    },
+    {
+      "title": "A large share belongs to outside owners",
+      "text": "Because it holds only about half of Bajaj Finance, the group's profit statement shows a large share as belonging to non-controlling (minority) owners, so profit that belongs to Bajaj Finserv's own shareholders is smaller than the group total."
+    },
+    {
+      "title": "Lending and insurance work in opposite ways",
+      "text": "A lender pays out money first and is repaid over time. An insurer receives money first and pays claims later. The same group therefore faces two different kinds of risk."
+    }
+  ],
+  "watch": [
+    [
+      "How much of the group's profit belongs to Bajaj Finserv's own shareholders?",
+      "Outside owners of Bajaj Finance and other subsidiaries receive a share of group profit.",
+      "In the verified financial table, compare group profit with profit attributable to the company's owners."
+    ],
+    [
+      "Which subsidiary earns the most?",
+      "A lender, an insurer and an app business have different risks and growth.",
+      "Read the segment results and the business-by-business discussion in the report, and compare each subsidiary's profit with the group total."
+    ],
+    [
+      "How well do borrowers repay?",
+      "Loans that are not repaid are the main loss for a lender.",
+      "Look for credit cost and overdue-loan measures in the Bajaj Finance disclosures, and compare them over several years and quarters."
+    ],
+    [
+      "How do claims compare with premiums at the insurers?",
+      "If claims rise faster than premiums, the insurer earns less.",
+      "Compare claims paid with premiums collected in the insurers' sections of the report, and look at how many policyholders keep paying premiums."
+    ],
+    [
+      "How is the group paying for its growth?",
+      "Lenders depend on borrowing, and the report names funding as a constraint for non-bank lenders.",
+      "Read the funding and borrowing discussion in the management discussion, and look at how the lenders raise money and how long it lasts."
+    ]
+  ],
+  "risks": [
+    [
+      "War and world events",
+      "The report says continued conflict in West Asia could raise oil prices, inflation and currency pressure in India, slowing the economy and the demand for loans and insurance."
+    ],
+    [
+      "Money for non-bank lenders",
+      "The report says India's debt market lacks depth, limiting access to varied domestic funding, and that overseas borrowing is still new for many non-bank lenders."
+    ],
+    [
+      "Loan defaults and rising credit costs",
+      "The report says rising credit costs may reduce the profit of non-bank lenders, and affordability can make insurance customers stop paying premiums."
+    ],
+    [
+      "More insurance competition",
+      "The report says 100% foreign ownership of insurers is now allowed and several firms have lined up for licences, which raises competition for customers."
+    ]
+  ],
+  "context": [
+    "January to March 2026: both insurers became fully owned",
+    "In the last quarter of its 2025-26 financial year, Bajaj Finserv and other entities in its promoter group completed buying the 26% stake that Allianz held in the two insurers. The report says the partnership agreements ended, and the insurers were renamed Bajaj General Insurance and Bajaj Life Insurance. Both are now 100% Bajaj."
+  ],
+  "sources": [
+    [
+      "Bajaj Finserv 19th annual report 2025-26",
+      "https://www.bajajfinserv.in/finserv-digital-annual-report-fy26/assets/pdf/Bajaj%20Finserv%20Limited%20(BFS)%20AR2025-26_CTC.pdf"
+    ],
+    [
+      "Bajaj Finserv investor relations",
+      "https://www.bajajfinserv.in/finserv-investor-relations"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "Revenue and profit figures are pending verification. The verified table will say whether each figure is for Bajaj Finserv alone (standalone) or the group (consolidated), and will show separately the profit that belongs to outside owners of subsidiaries such as Bajaj Finance."
+    }
+  ],
+  "stepsTitle": "From application to payment.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Owns lenders, insurers, a fund manager, a stockbroker and a health and marketplace app, and runs them as one group."
+    },
+    {
+      "title": "Who pays",
+      "text": "Borrowers, policyholders, investors and savers who use its subsidiaries."
+    },
+    {
+      "title": "How it earns",
+      "text": "Interest on loans, insurance premiums, and fees and brokerage from investing services."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Interest on borrowed money and deposits, insurance claims, loan losses, staff and technology."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Few people have insurance yet",
+      "text": "The report says insurance reaches a smaller share of the economy in India than in many other countries, and that rising incomes and a larger working population leave room to grow."
+    },
+    {
+      "title": "A group that sells many products to one customer",
+      "text": "The report says the aim is to join its companies together so the total is larger than the sum of its parts, and says the group already serves 1 in 3 Indian households."
+    },
+    {
+      "title": "Technology to lower costs",
+      "text": "The report says it is building artificial intelligence into loans, claims, customer service and fraud checks, to speed work and reduce effort per customer."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Data and cyber security",
+      "text": "The report says the heavy use of digital services in finance creates data and cyber security risk, which will grow as artificial intelligence is used more."
+    },
+    {
+      "title": "Technology rules and fairness",
+      "text": "The report says that being early with artificial intelligence exposes the group to problems such as bias in models, data privacy and accountability."
+    },
+    {
+      "title": "Climate and natural disasters",
+      "text": "The report says more frequent natural disasters make its businesses, especially insurance, more exposed to climate risk than before."
+    }
+  ],
+  "checked": "12 November 2026"
+}

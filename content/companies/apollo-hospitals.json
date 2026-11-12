@@ -1,0 +1,117 @@
+{
+  "order": 59,
+  "company": {
+    "id": "apollo-hospitals",
+    "name": "Apollo Hospitals",
+    "ticker": "APOLLOHOSP",
+    "sector": "Healthcare",
+    "initial": "A",
+    "color": "#2a7de1",
+    "bg": "#e8f1fd",
+    "tag": "Runs hospitals, and also pharmacies, clinics, diagnostic labs and a health app",
+    "products": [
+      [
+        "Multi-speciality hospitals (78 hospitals, 10,970 beds)",
+        "Hospitals"
+      ],
+      [
+        "Cancer, heart, brain and bone care",
+        "Hospitals"
+      ],
+      [
+        "Apollo Pharmacy stores (7,289)",
+        "Pharmacy (Apollo HealthCo)"
+      ],
+      [
+        "Apollo 24|7 app: online doctor consultations and medicine orders",
+        "Digital health (Apollo HealthCo)"
+      ],
+      [
+        "Diagnostic centres and blood tests",
+        "Diagnostics (Apollo Health and Lifestyle)"
+      ],
+      [
+        "Clinics for diabetes, dental, dialysis, women and children",
+        "Clinics (Apollo Health and Lifestyle)"
+      ],
+      [
+        "Health checks and preventive care",
+        "Prevention"
+      ]
+    ],
+    "sources": [
+      [
+        "Apollo Hospitals investor relations",
+        "https://www.apollohospitals.com/investor-relations"
+      ]
+    ],
+    "productSource": "https://bseindia.com/xml-data/corpfiling/AttachLive/df740957-5277-4434-9808-189da93447aa.pdf",
+    "aliases": [
+      "Apollo Hospitals Enterprise Limited",
+      "Apollo Hospitals Enterprise Ltd",
+      "Apollo Hospitals Enterprise Ltd.",
+      "Apollo Hospitals"
+    ],
+    "productNote": "Services named in Apollo Hospitals Enterprise's 2025–26 annual report. Apollo HealthCo (pharmacies and the 24|7 app) and Apollo Health and Lifestyle (clinics and diagnostics) are subsidiaries whose results are included in the group totals. The annual report has no usable photographs of the hospitals' work, so every picture is a labelled illustration.",
+    "checked": "12 November 2026",
+    "reviewed": "12 November 2026"
+  },
+  "offerings": [
+    {
+      "name": "Hospitals",
+      "category": "Multi-speciality hospitals where patients stay for surgery and treatment",
+      "image": "assets/products/apollo-hospitals-hospital.svg",
+      "url": "https://bseindia.com/xml-data/corpfiling/AttachLive/df740957-5277-4434-9808-189da93447aa.pdf",
+      "kind": "illustration",
+      "alt": "A hospital building with a cross on its front — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Heart and cancer care",
+      "category": "Specialist departments for the heart, cancer, brain and bones",
+      "image": "assets/products/apollo-hospitals-specialist-care.svg",
+      "url": "https://bseindia.com/xml-data/corpfiling/AttachLive/df740957-5277-4434-9808-189da93447aa.pdf",
+      "kind": "illustration",
+      "alt": "A heart with a pulse line through it — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Pharmacies",
+      "category": "Shops that sell prescribed medicines and health products",
+      "image": "assets/products/apollo-hospitals-pharmacy.svg",
+      "url": "https://bseindia.com/xml-data/corpfiling/AttachLive/df740957-5277-4434-9808-189da93447aa.pdf",
+      "kind": "illustration",
+      "alt": "A medicine bottle with a cross on its label — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Online consultations",
+      "category": "The Apollo 24|7 app: talk to a doctor and order medicines",
+      "image": "assets/products/apollo-hospitals-app.svg",
+      "url": "https://bseindia.com/xml-data/corpfiling/AttachLive/df740957-5277-4434-9808-189da93447aa.pdf",
+      "kind": "illustration",
+      "alt": "A phone showing a cross and a chat bubble — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Diagnostic tests",
+      "category": "Labs that test blood and take scans",
+      "image": "assets/products/apollo-hospitals-diagnostics.svg",
+      "url": "https://bseindia.com/xml-data/corpfiling/AttachLive/df740957-5277-4434-9808-189da93447aa.pdf",
+      "kind": "illustration",
+      "alt": "Three test tubes in a rack — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Clinics",
+      "category": "Smaller clinics for diabetes, dental, dialysis, mothers and babies",
+      "image": "assets/products/apollo-hospitals-clinic.svg",
+      "url": "https://bseindia.com/xml-data/corpfiling/AttachLive/df740957-5277-4434-9808-189da93447aa.pdf",
+      "kind": "illustration",
+      "alt": "A small clinic building with a plus sign — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Health checks",
+      "category": "Check-ups to spot illness early",
+      "image": "assets/products/apollo-hospitals-health-check.svg",
+      "url": "https://bseindia.com/xml-data/corpfiling/AttachLive/df740957-5277-4434-9808-189da93447aa.pdf",
+      "kind": "illustration",
+      "alt": "A clipboard with ticks beside a stethoscope — conceptual illustration; not a photograph"
+    }
+  ]
+}
