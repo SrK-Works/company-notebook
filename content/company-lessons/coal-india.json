@@ -1,0 +1,201 @@
+{
+  "summary": "Coal India digs coal out of the ground in open pits and underground mines across India and sells it by the tonne, mainly to power stations and also to steel, cement and other factories.",
+  "description": "Coal India's work starts with getting at the coal. In an open-cast mine, machines first remove the soil and rock sitting on top of the coal (called overburden), then dig the coal out in layers. In an underground mine, miners work in tunnels. Trucks and conveyor belts take the coal to loading points, where it is filled into railway wagons. Some coal is washed in plants called washeries to remove dirt and stone. The work is done by seven mining subsidiaries, each in its own coalfield, plus a mine-planning company. Coal India is the parent company, and its group results include them.",
+  "money": "Coal India earns money by selling coal by the tonne. Part is sold under long-term supply contracts. Part is sold at online auctions, where buyers bid a price above a minimum price. Its main costs are removing the rock above the coal, running machines, paying staff and mining contractors, moving coal to the railway, and government levies. A buyer's payment is not profit: all of those come out first.",
+  "customers": "The buyers are mostly power producers that burn coal to make electricity, and factories that need coal for steel, cement and fertiliser. Coal India gives long-term supply rights directly to these end users, with no dealers in between. For auctions, any Indian buyer can take part, including traders. The buyer pays for the coal it takes, by weight and grade.",
+  "drivers": "Three things mostly decide how Coal India does: how much coal its mines can dig and send out, how much coal power stations and factories want to buy, and the price it gets in contracts and auctions.",
+  "groups": [
+    {
+      "title": "Coal for power stations",
+      "examples": "Coal burned in power plants to make electricity.",
+      "explanation": "This kind of coal is called non-coking coal. Power stations are the main buyers, and much of it is sold under long-term supply contracts."
+    },
+    {
+      "title": "Coal for making steel",
+      "examples": "Coking coal for steel plants.",
+      "explanation": "Coking coal, when heated without air, turns into hard coke that steelmakers use in blast furnaces to melt iron ore. It is scarcer and graded by how little ash it has."
+    },
+    {
+      "title": "Washed coal",
+      "examples": "Coal cleaned at washeries.",
+      "explanation": "Washing removes stone and dirt, which lowers ash and makes the coal more valuable, especially for steel."
+    },
+    {
+      "title": "Auction coal",
+      "examples": "Coal sold through Coal India's online auction site.",
+      "explanation": "Buyers bid for coal on the auction site and pay a premium over a minimum price. This is the route that responds most to demand."
+    },
+    {
+      "title": "Newer businesses",
+      "examples": "Solar power, critical minerals and coal gasification.",
+      "explanation": "Coal gasification turns coal into gas for making chemicals. The annual report describes these as new areas of growth."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is overburden?",
+      "text": "The soil and rock lying above a coal seam. An open-cast mine must remove and dump it before any coal can be dug, and this is a large cost."
+    },
+    {
+      "title": "What is a fuel supply agreement (FSA)?",
+      "text": "A long-term contract in which Coal India agrees to supply coal to a buyer, usually a power producer. It gives the buyer steady supply and gives Coal India steady demand."
+    },
+    {
+      "title": "What is first-mile connectivity?",
+      "text": "The first leg of the journey: moving coal from the mine to the railway loading point by conveyor belt, road or other transport. Coal cannot be sold until it is out of the mine area."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Get land and permissions",
+      "text": "The mine needs land and government clearances before digging starts. Delays here hold up output."
+    },
+    {
+      "title": "Remove rock and dig coal",
+      "text": "Machines remove the overburden and dig the coal, or miners work underground."
+    },
+    {
+      "title": "Move to the loading point",
+      "text": "Trucks and conveyor belts carry coal to loading points near the railway line."
+    },
+    {
+      "title": "Load and send by rail",
+      "text": "Coal is weighed and loaded into railway wagons, then sent to the buyer's plant."
+    },
+    {
+      "title": "Bill the buyer",
+      "text": "The invoice follows the contract price or the auction price for the quantity and grade sent."
+    },
+    {
+      "title": "Collect payment and pay costs",
+      "text": "Revenue is booked when the coal is delivered. Cash comes in after the buyer pays. Costs and levies are paid on their own dates."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Two ways of selling coal",
+      "text": "Coal under long-term contracts brings steady volume. Coal sold at auction can fetch a premium over the minimum price, but only if buyers want it. The mix between the two shapes the average price Coal India gets."
+    },
+    {
+      "title": "Mines vary in cost",
+      "text": "An open-cast mine with thick coal seams and little overburden is cheaper to work than a mine where much rock must be removed first. Coal India runs many mines of different kinds under seven mining subsidiaries, which are Eastern, Bharat Coking, Central, Western, South Eastern, Northern and Mahanadi Coalfields. The board has approved in principle a plan to sell a 25% stake in two of them, Mahanadi and South Eastern Coalfields, to the public. That is a plan, not a completed sale."
+    },
+    {
+      "title": "Quality matters to price",
+      "text": "Coal is graded by its heat value and ash content. Washing lifts the quality of coal for steel, so how much coal is washed affects the price mix."
+    }
+  ],
+  "watch": [
+    [
+      "How much of the coal is sold under contract and how much at auction?",
+      "Auction coal can sell at a premium but is less certain.",
+      "Compare the quantities sold under each route and the average premium over the floor price in the annual report."
+    ],
+    [
+      "How much do the mining subsidiaries differ from each other?",
+      "Some coalfields have cheaper coal or better rail links than others.",
+      "Compare output, offtake and results of each subsidiary in the consolidated notes and the directors' report."
+    ],
+    [
+      "How big is the gap between coal dug and coal sent out?",
+      "Coal piled at the mine earns nothing until it reaches a buyer.",
+      "Compare production with offtake over several years and read what the company says about rail and road bottlenecks."
+    ],
+    [
+      "What share of coal goes to power plants, and how fast is their demand growing?",
+      "Power producers are the main buyers, so their demand matters most.",
+      "Read the supply by sector in the annual report and compare with the outlook for coal-fired power."
+    ],
+    [
+      "How much is spent on new projects such as solar power and critical minerals?",
+      "New projects take money and time and may earn less than mining.",
+      "Compare the capital spending plan with spending on mines and read what the company says about expected returns."
+    ]
+  ],
+  "risks": [
+    [
+      "Delays in getting land and permissions",
+      "Coal India lists delays in taking possession of land and in getting statutory clearances as risks. A mine that cannot start or grow produces less than planned while its fixed costs continue."
+    ],
+    [
+      "Competition from mines run by other companies",
+      "The annual report names risk from captive and commercial mining, where other companies mine coal for themselves or sell it. More coal from other miners can reduce Coal India's sales."
+    ],
+    [
+      "Getting coal out of the mine and onto railways",
+      "The company speaks of action on evacuation bottlenecks. Coal that cannot be moved piles up, and buyers who cannot get it may buy elsewhere."
+    ],
+    [
+      "Accidents in mines",
+      "The company lists operational safety among its risks. An accident can hurt workers, stop a mine for days and bring penalties."
+    ]
+  ],
+  "context": [
+    "2025-26: more coal sold at auction",
+    "In 2025-26 Coal India allocated more coal through its online auctions than in 2024-25, while the average premium over the minimum price was slightly lower than a year before. This describes one year."
+  ],
+  "sources": [
+    [
+      "Coal India integrated annual report 2025-26",
+      "https://coal-india-flipbook-25-26.vercel.app/coal-india.pdf"
+    ],
+    [
+      "Coal India business responsibility and sustainability report 2024-25",
+      "https://www.coalindia.in/documents/12465/Coal_India_BRSR_31.07.2025.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "Revenue and profit figures are pending verification. The verified table will say whether each figure is for Coal India alone (standalone) or for the group with its mining subsidiaries (consolidated), and give the period and the profit definition."
+    }
+  ],
+  "stepsTitle": "From the mine to the payment",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Digs coal from open-cast and underground mines through its mining subsidiaries, cleans some of it, and loads it for delivery."
+    },
+    {
+      "title": "Who pays",
+      "text": "Power producers and factories that use coal for steel, cement and fertiliser, through long-term contracts and auctions."
+    },
+    {
+      "title": "How it earns",
+      "text": "By selling coal by the tonne under supply contracts and at online auctions, where buyers bid above a minimum price."
+    },
+    {
+      "title": "What it mainly spends on",
+      "text": "Removing rock above the coal, mining machines, staff and contractors, moving coal to railways, and government levies."
+    }
+  ],
+  "helps": [
+    {
+      "title": "A large resource base",
+      "text": "The chairman describes a strong resource base and an expanding project pipeline, which gives Coal India many places to mine for years."
+    },
+    {
+      "title": "Coal stays central to India's power",
+      "text": "The annual report says coal will remain an important part of India's energy mix while it becomes more varied, and that domestic coal producers are expected to stay central."
+    },
+    {
+      "title": "Contracts give steady demand",
+      "text": "Long-term supply agreements with power producers and other industries give a base of demand that does not depend on each month's auction."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Underground mines can lose money",
+      "text": "The company lists the risk that underground mining operations become unviable. Working in tunnels usually costs more per tonne than open-cast mining."
+    },
+    {
+      "title": "A thin bench of skilled people",
+      "text": "The annual report names critical manpower and succession as a risk. Mining needs experienced engineers and managers, and losing them is hard to fix quickly."
+    },
+    {
+      "title": "Contractors do part of the work",
+      "text": "Coal India lists contract performance among its risks. When a contractor removing rock or moving coal falls behind, output falls behind too."
+    }
+  ],
+  "checked": "12 November 2026"
+}

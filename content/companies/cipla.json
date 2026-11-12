@@ -1,0 +1,120 @@
+{
+  "order": 56,
+  "company": {
+    "id": "cipla",
+    "name": "Cipla",
+    "ticker": "CIPLA",
+    "sector": "Healthcare",
+    "initial": "C",
+    "color": "#00829b",
+    "bg": "#e5f4f7",
+    "tag": "Makes inhalers and medicines sold by prescription, and everyday health brands",
+    "products": [
+      [
+        "Inhalers for asthma and COPD (Foracort, Asthalin)",
+        "Respiratory medicines"
+      ],
+      [
+        "Prescription medicines for diabetes, heart, kidney and urinary conditions",
+        "India prescription business"
+      ],
+      [
+        "Omnigel, Cipladine, Nicotex, Cofsils and Prolyte",
+        "Consumer health"
+      ],
+      [
+        "Generic medicines for the United States",
+        "Generics abroad"
+      ],
+      [
+        "Medicines for South Africa and other African markets",
+        "Africa"
+      ],
+      [
+        "Emerging markets and Europe",
+        "Generics abroad"
+      ],
+      [
+        "Active ingredients (the drug itself)",
+        "Ingredients"
+      ],
+      [
+        "Medicines supplied through Cipla Global Access",
+        "Access programmes"
+      ]
+    ],
+    "sources": [
+      [
+        "Cipla annual reports",
+        "https://www.cipla.com/investors/annual-reports"
+      ]
+    ],
+    "productSource": "https://www.cipla.com/investors/annual-reports",
+    "aliases": [
+      "Cipla Limited",
+      "Cipla Ltd",
+      "Cipla Ltd."
+    ],
+    "productNote": "Product families named in Cipla's 2025–26 integrated annual report. Consumer health brands are sold by Cipla Health Limited, a subsidiary. The annual report has no usable product or plant photographs, so two pictures are openly licensed Wikimedia Commons product photographs and the rest are labelled illustrations.",
+    "checked": "12 November 2026",
+    "reviewed": "12 November 2026"
+  },
+  "offerings": [
+    {
+      "name": "Respiratory inhalers",
+      "category": "Handheld devices that deliver asthma medicine into the lungs",
+      "image": "assets/products/cipla-respiratory-inhaler.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:Cipla_inhaler.jpg",
+      "kind": "pack",
+      "alt": "A Cipla Asthalin salbutamol inhaler beside its box on a black background — Wikimedia Commons photograph by Kristoferb (CC BY-SA 3.0), not an image supplied by Cipla"
+    },
+    {
+      "name": "Generic tablets",
+      "category": "Low-cost copies of medicines whose patents have ended",
+      "image": "assets/products/cipla-generic-tablets.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:Generic_finasteride_tablets_cipla.jpg",
+      "kind": "pack",
+      "alt": "A heap of plain white round tablets on a black surface — Wikimedia Commons photograph by Kristoferb (CC BY-SA 3.0) of generic tablets, not an image supplied by Cipla"
+    },
+    {
+      "name": "Prescription medicines in India",
+      "category": "Medicines a doctor prescribes for long-term conditions",
+      "image": "assets/products/cipla-india-prescription.svg",
+      "url": "https://www.cipla.com/investors/annual-reports",
+      "kind": "illustration",
+      "alt": "A capsule and a pill beside a prescription sheet — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Consumer health brands",
+      "category": "Pain gels, antiseptics and cough lozenges bought from a chemist",
+      "image": "assets/products/cipla-consumer-health.svg",
+      "url": "https://www.cipla.com/investors/annual-reports",
+      "kind": "illustration",
+      "alt": "A tube and a small bottle on a shelf — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Medicines abroad",
+      "category": "Generic medicines sold in the United States, Europe and emerging markets",
+      "image": "assets/products/cipla-global-generics.svg",
+      "url": "https://www.cipla.com/investors/annual-reports",
+      "kind": "illustration",
+      "alt": "A shipping box with an arrow pointing to a globe — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Africa",
+      "category": "Medicines sold through Cipla in South Africa and other African markets",
+      "image": "assets/products/cipla-africa.svg",
+      "url": "https://www.cipla.com/investors/annual-reports",
+      "kind": "illustration",
+      "alt": "A map-shaped outline with a medicine cross — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Making the medicine",
+      "category": "Plants that make tablets, inhalers and the active ingredient",
+      "image": "assets/products/cipla-manufacturing.svg",
+      "url": "https://www.cipla.com/investors/annual-reports",
+      "kind": "illustration",
+      "alt": "Rows of tablets on a factory belt — conceptual illustration; not a photograph"
+    }
+  ]
+}

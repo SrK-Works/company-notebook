@@ -1,0 +1,120 @@
+{
+  "order": 54,
+  "company": {
+    "id": "hindalco",
+    "name": "Hindalco",
+    "ticker": "HINDALCO",
+    "sector": "Industrials & infrastructure",
+    "initial": "H",
+    "color": "#c25b00",
+    "bg": "#fdf0e3",
+    "tag": "Makes aluminium and copper in India, and rolled aluminium for cans and cars through Novelis",
+    "products": [
+      [
+        "Aluminium metal in ingots, billets and wire rods",
+        "Aluminium (upstream)"
+      ],
+      [
+        "Alumina, the white powder aluminium is made from",
+        "Aluminium (upstream)"
+      ],
+      [
+        "Rolled aluminium sheet and foil",
+        "Aluminium (downstream)"
+      ],
+      [
+        "Aluminium extrusions (shaped bars and tubes)",
+        "Aluminium (downstream)"
+      ],
+      [
+        "Copper cathodes and cast copper rod",
+        "Copper"
+      ],
+      [
+        "Gold and silver recovered from copper ore",
+        "Copper by-products"
+      ],
+      [
+        "Specialty alumina for ceramics and flame retardants",
+        "Specialty alumina"
+      ],
+      [
+        "Aluminium sheet for drink cans and car bodies (Novelis)",
+        "Group company: rolled aluminium"
+      ]
+    ],
+    "sources": [
+      [
+        "Hindalco annual report 2025-26 (summary site)",
+        "https://hindalco.com/iar-summary-online-report-2026/index"
+      ]
+    ],
+    "productSource": "https://nsearchives.nseindia.com/corporate/HINDALCOIND_30062026203910_Reg34_Annual_Report_final_signed.pdf",
+    "aliases": [
+      "Hindalco Industries Limited",
+      "Hindalco Industries Ltd",
+      "Hindalco Industries"
+    ],
+    "productNote": "Products named in Hindalco's 2025–26 integrated annual report. Novelis, the world's largest maker of rolled aluminium, is a subsidiary whose results are included in Hindalco's group totals. The pictures are annual-report photographs of Hindalco's people and plants.",
+    "checked": "12 November 2026",
+    "reviewed": "12 November 2026"
+  },
+  "offerings": [
+    {
+      "name": "Plants and teams",
+      "category": "Aluminium and copper plants run by shifts of staff",
+      "image": "assets/products/hindalco-plant-team.webp",
+      "url": "https://nsearchives.nseindia.com/corporate/HINDALCOIND_30062026203910_Reg34_Annual_Report_final_signed.pdf#page=43",
+      "kind": "photo",
+      "alt": "Six employees in blue work clothes and white hard hats standing in a plant hall — photograph from Hindalco's 2025–26 integrated annual report"
+    },
+    {
+      "name": "Rolled aluminium coils",
+      "category": "Aluminium sheet wound into heavy rolls",
+      "image": "assets/products/hindalco-aluminium-coils.webp",
+      "url": "https://nsearchives.nseindia.com/corporate/HINDALCOIND_30062026203910_Reg34_Annual_Report_final_signed.pdf#page=65",
+      "kind": "photo",
+      "alt": "A worker in a hard hat holding a tablet beside several large rolls of aluminium sheet — photograph from Hindalco's 2025–26 integrated annual report"
+    },
+    {
+      "name": "Rolling lines",
+      "category": "Machines that press metal into thin sheet",
+      "image": "assets/products/hindalco-rolling-line.webp",
+      "url": "https://nsearchives.nseindia.com/corporate/HINDALCOIND_30062026203910_Reg34_Annual_Report_final_signed.pdf#page=62",
+      "kind": "photo",
+      "alt": "A worker with a tablet beside a long rolling line with rows of yellow-guarded motors — photograph from Hindalco's 2025–26 integrated annual report"
+    },
+    {
+      "name": "Laboratories",
+      "category": "Labs that test new alloys and chemicals",
+      "image": "assets/products/hindalco-laboratory.webp",
+      "url": "https://nsearchives.nseindia.com/corporate/HINDALCOIND_30062026203910_Reg34_Annual_Report_final_signed.pdf#page=107",
+      "kind": "photo",
+      "alt": "A woman in a lab coat and goggles holding up a flask of pink liquid — photograph from Hindalco's 2025–26 integrated annual report"
+    },
+    {
+      "name": "Process plant",
+      "category": "Pipes, pumps and tanks that turn raw material into metal",
+      "image": "assets/products/hindalco-process-plant.webp",
+      "url": "https://nsearchives.nseindia.com/corporate/HINDALCOIND_30062026203910_Reg34_Annual_Report_final_signed.pdf#page=114",
+      "kind": "photo",
+      "alt": "A worker in a hard hat standing among pipes, gauges and tanks in a processing plant — photograph from Hindalco's 2025–26 integrated annual report"
+    },
+    {
+      "name": "Control rooms",
+      "category": "Screens that run the plants",
+      "image": "assets/products/hindalco-control-room.webp",
+      "url": "https://nsearchives.nseindia.com/corporate/HINDALCOIND_30062026203910_Reg34_Annual_Report_final_signed.pdf#page=73",
+      "kind": "photo",
+      "alt": "Staff in blue work shirts at desks in front of large screens in a control room — photograph from Hindalco's 2025–26 integrated annual report"
+    },
+    {
+      "name": "Aluminium for cans and cars (Novelis)",
+      "category": "Rolled aluminium sheet for drink cans and car bodies",
+      "image": "assets/products/hindalco-novelis-sheet.svg",
+      "url": "https://nsearchives.nseindia.com/corporate/HINDALCOIND_30062026203910_Reg34_Annual_Report_final_signed.pdf",
+      "kind": "illustration",
+      "alt": "A drink can beside a roll of aluminium sheet — conceptual illustration; not a photograph"
+    }
+  ]
+}

@@ -9,8 +9,9 @@
     "coveredBefore": 22,
     "missingBefore": 28,
     "addedInBatch1": 4,
-    "stillMissing": 19,
-    "addedInBatch2": 5
+    "stillMissing": 14,
+    "addedInBatch2": 5,
+    "addedInBatch3": 5
   },
   "specialCases": [
     "Tata Motors split in 2025. This constituent is the passenger-vehicle company (cars, electric cars and Jaguar Land Rover); it kept the old Tata Motors ISIN and was renamed Tata Motors Passenger Vehicles. The separately listed commercial-vehicle company (trucks and buses) is not in NIFTY 50.",
@@ -107,14 +108,16 @@
       "ticker": "CIPLA",
       "industry": "Healthcare",
       "isin": "INE059A01026",
-      "status": "missing"
+      "status": "missing before; added in batch 3",
+      "id": "cipla"
     },
     {
       "name": "Coal India Ltd.",
       "ticker": "COALINDIA",
       "industry": "Oil Gas & Consumable Fuels",
       "isin": "INE522F01014",
-      "status": "missing"
+      "status": "missing before; added in batch 3",
+      "id": "coal-india"
     },
     {
       "name": "Dr. Reddy's Laboratories Ltd.",
@@ -175,7 +178,8 @@
       "ticker": "HINDALCO",
       "industry": "Metals & Mining",
       "isin": "INE038A01020",
-      "status": "missing"
+      "status": "missing before; added in batch 3",
+      "id": "hindalco"
     },
     {
       "name": "Hindustan Unilever Ltd.",
@@ -222,7 +226,8 @@
       "ticker": "JSWSTEEL",
       "industry": "Metals & Mining",
       "isin": "INE019A01038",
-      "status": "missing"
+      "status": "missing before; added in batch 3",
+      "id": "jsw-steel"
     },
     {
       "name": "Jio Financial Services Ltd.",
@@ -293,7 +298,8 @@
       "ticker": "ONGC",
       "industry": "Oil Gas & Consumable Fuels",
       "isin": "INE213A01029",
-      "status": "missing"
+      "status": "missing before; added in batch 3",
+      "id": "ongc"
     },
     {
       "name": "Power Grid Corporation of India Ltd.",

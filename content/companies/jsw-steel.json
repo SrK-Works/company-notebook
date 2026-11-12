@@ -1,0 +1,124 @@
+{
+  "order": 55,
+  "company": {
+    "id": "jsw-steel",
+    "name": "JSW Steel",
+    "ticker": "JSWSTEEL",
+    "sector": "Industrials & infrastructure",
+    "initial": "J",
+    "color": "#6b3fa0",
+    "bg": "#f1ebf8",
+    "tag": "Digs iron ore, makes steel in giant plants, and rolls it into coils, bars and coated sheets",
+    "products": [
+      [
+        "Hot-rolled steel coils and sheets",
+        "Flat steel"
+      ],
+      [
+        "Cold-rolled steel",
+        "Flat steel"
+      ],
+      [
+        "Galvanised and galvalume steel (zinc and aluminium-zinc coated)",
+        "Coated steel"
+      ],
+      [
+        "Colour-coated roofing sheets",
+        "Coated steel"
+      ],
+      [
+        "Tinplate for cans",
+        "Coated steel"
+      ],
+      [
+        "Neosteel TMT bars for concrete",
+        "Long steel"
+      ],
+      [
+        "Wire rods and special steel",
+        "Long steel"
+      ],
+      [
+        "Electrical steel for motors and transformers",
+        "Special steel"
+      ],
+      [
+        "Iron ore and coal from own mines",
+        "Raw materials"
+      ]
+    ],
+    "sources": [
+      [
+        "JSW Steel investor information",
+        "https://www.jsw.in/steel"
+      ]
+    ],
+    "productSource": "https://www.jsw.in/steel",
+    "aliases": [
+      "JSW Steel Limited",
+      "JSW Steel Ltd",
+      "JSW Steel Ltd."
+    ],
+    "productNote": "Products named in JSW Steel's 2025–26 integrated report. The steel business of Bhushan Power and Steel was moved on 27 March 2026 into a 50:50 joint venture with JFE Steel and is no longer part of JSW Steel's consolidated results. Pictures are annual-report photographs.",
+    "checked": "12 November 2026",
+    "reviewed": "12 November 2026"
+  },
+  "offerings": [
+    {
+      "name": "Steelworks",
+      "category": "A large steel plant beside a lake",
+      "image": "assets/products/jsw-steel-works.webp",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/Attachhis/e44105ed-fc16-4d0a-a1a1-4521dc30b148.pdf#page=4",
+      "kind": "photo",
+      "alt": "An aerial view of a large steelworks with chimneys beside a lake and a tree-lined road — photograph from JSW Steel's 2025–26 integrated report"
+    },
+    {
+      "name": "Coil bays",
+      "category": "Halls where finished steel coils are stored",
+      "image": "assets/products/jsw-steel-coil-bay.webp",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/Attachhis/e44105ed-fc16-4d0a-a1a1-4521dc30b148.pdf#page=20",
+      "kind": "photo",
+      "alt": "Rolls of steel sheet on a factory floor with yellow safety rails — photograph from JSW Steel's 2025–26 integrated report"
+    },
+    {
+      "name": "Control rooms",
+      "category": "Screens that run furnaces and rolling mills",
+      "image": "assets/products/jsw-steel-control-room.webp",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/Attachhis/e44105ed-fc16-4d0a-a1a1-4521dc30b148.pdf#page=78",
+      "kind": "photo",
+      "alt": "Staff at desks facing a wide wall of screens in a steel plant control room — photograph from JSW Steel's 2025–26 integrated report"
+    },
+    {
+      "name": "Steel melting",
+      "category": "Molten steel poured at a furnace",
+      "image": "assets/products/jsw-steel-furnace.webp",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/Attachhis/e44105ed-fc16-4d0a-a1a1-4521dc30b148.pdf#page=43",
+      "kind": "photo",
+      "alt": "Glowing molten steel pouring from a furnace in a dark plant hall — photograph from JSW Steel's 2025–26 integrated report"
+    },
+    {
+      "name": "Iron ore mines",
+      "category": "Mines that supply the iron ore for the plants",
+      "image": "assets/products/jsw-steel-iron-ore-mine.webp",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/Attachhis/e44105ed-fc16-4d0a-a1a1-4521dc30b148.pdf#page=69",
+      "kind": "photo",
+      "alt": "A hillside mine cut into red-brown terraces, with green hills around it — photograph from JSW Steel's 2025–26 integrated report"
+    },
+    {
+      "name": "Pipe and tube mill",
+      "category": "Machines that shape and check steel tubes",
+      "image": "assets/products/jsw-steel-tube-mill.webp",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/Attachhis/e44105ed-fc16-4d0a-a1a1-4521dc30b148.pdf#page=41",
+      "kind": "photo",
+      "alt": "Two engineers in hard hats pointing at a large steel tube on a mill — photograph from JSW Steel's 2025–26 integrated report"
+    },
+    {
+      "name": "Coil stores",
+      "category": "Racks of finished coils ready to ship",
+      "image": "assets/products/jsw-steel-coil-store.webp",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/Attachhis/e44105ed-fc16-4d0a-a1a1-4521dc30b148.pdf#page=37",
+      "kind": "photo",
+      "alt": "A long hall with orange steel frames and rows of wrapped steel coils — photograph from JSW Steel's 2025–26 integrated report"
+    }
+  ]
+}

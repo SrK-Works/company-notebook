@@ -1,0 +1,129 @@
+{
+  "order": 52,
+  "company": {
+    "id": "ongc",
+    "name": "ONGC",
+    "ticker": "ONGC",
+    "sector": "Energy & utilities",
+    "initial": "O",
+    "color": "#b3261e",
+    "bg": "#fceceb",
+    "tag": "Finds and pumps India's oil and gas, and owns fuel and plastics companies",
+    "products": [
+      [
+        "Crude oil from wells on land and in the sea",
+        "Oil and gas production"
+      ],
+      [
+        "Natural gas",
+        "Oil and gas production"
+      ],
+      [
+        "Cooking gas (LPG)",
+        "Processed products"
+      ],
+      [
+        "Naphtha, a raw material for chemicals",
+        "Processed products"
+      ],
+      [
+        "Ethane, propane and butane",
+        "Processed products"
+      ],
+      [
+        "Petrol, diesel and fuel retail (HPCL)",
+        "Group company: refining and fuel retail"
+      ],
+      [
+        "Refined fuels (MRPL)",
+        "Group company: refining"
+      ],
+      [
+        "Plastics raw materials (OPaL)",
+        "Group company: petrochemicals"
+      ],
+      [
+        "Overseas oil and gas fields (ONGC Videsh)",
+        "Group company: overseas production"
+      ],
+      [
+        "Wind and solar power (ONGC Green)",
+        "Group company: renewable energy"
+      ]
+    ],
+    "sources": [
+      [
+        "ONGC annual reports",
+        "https://ongcindia.com/web/eng/investors/annual-reports"
+      ]
+    ],
+    "productSource": "https://ongcindia.com/documents/77751/2660534/ONGC-AnnualReport_07082026.pdf",
+    "aliases": [
+      "Oil and Natural Gas Corporation Limited",
+      "Oil & Natural Gas Corporation Ltd",
+      "Oil and Natural Gas Corporation",
+      "ONGC Limited"
+    ],
+    "productNote": "Products and group companies named in ONGC's 2025–26 integrated annual report. HPCL, MRPL, OPaL, ONGC Videsh and ONGC Green are separate companies in the ONGC group. Pictures are photographs from the annual report, which does not caption the individual places.",
+    "checked": "12 November 2026",
+    "reviewed": "12 November 2026"
+  },
+  "offerings": [
+    {
+      "name": "Oil and gas processing complex",
+      "category": "Plants that clean oil and gas and split off cooking gas",
+      "image": "assets/products/ongc-processing-complex.webp",
+      "url": "https://ongcindia.com/documents/77751/2660534/ONGC-AnnualReport_07082026.pdf#page=4",
+      "kind": "photo",
+      "alt": "A large industrial site of pipes, tanks and buildings seen from the air, with green land around it — photograph from ONGC's 2025–26 integrated annual report"
+    },
+    {
+      "name": "Offshore platforms",
+      "category": "Steel platforms in the sea that bring oil and gas up",
+      "image": "assets/products/ongc-offshore-platform.webp",
+      "url": "https://ongcindia.com/documents/77751/2660534/ONGC-AnnualReport_07082026.pdf#page=407",
+      "kind": "photo",
+      "alt": "Yellow steel platforms joined by walkways in the open sea, with a support ship beside them — photograph from ONGC's 2025–26 integrated annual report"
+    },
+    {
+      "name": "Drilling rigs",
+      "category": "Tall rigs that drill the wells",
+      "image": "assets/products/ongc-drilling-rig.webp",
+      "url": "https://ongcindia.com/documents/77751/2660534/ONGC-AnnualReport_07082026.pdf#page=195",
+      "kind": "photo",
+      "alt": "A tall drilling rig and a crane on open ground under a heavy grey sky — photograph from ONGC's 2025–26 integrated annual report"
+    },
+    {
+      "name": "Oil wells on land",
+      "category": "Pumps that lift oil from wells on land",
+      "image": "assets/products/ongc-oil-wells.webp",
+      "url": "https://ongcindia.com/documents/77751/2660534/ONGC-AnnualReport_07082026.pdf#page=35",
+      "kind": "photo",
+      "alt": "Two oil pumps in silhouette against an orange sunset sky — photograph from ONGC's 2025–26 integrated annual report"
+    },
+    {
+      "name": "Laboratories",
+      "category": "Labs that test rock and oil samples",
+      "image": "assets/products/ongc-laboratory.webp",
+      "url": "https://ongcindia.com/documents/77751/2660534/ONGC-AnnualReport_07082026.pdf#page=137",
+      "kind": "photo",
+      "alt": "Two technicians in white coats checking a liquid in a measuring cylinder, with an ONGC sign behind them — photograph from ONGC's 2025–26 integrated annual report"
+    },
+    {
+      "name": "Control rooms",
+      "category": "Screens that watch wells and plants",
+      "image": "assets/products/ongc-control-room.webp",
+      "url": "https://ongcindia.com/documents/77751/2660534/ONGC-AnnualReport_07082026.pdf#page=275",
+      "kind": "photo",
+      "alt": "A man seen from behind at a desk of screens, with a lit processing plant in the picture behind — photograph from ONGC's 2025–26 integrated annual report"
+    },
+    {
+      "name": "Pipelines",
+      "category": "Pipes that carry oil and gas to buyers",
+      "image": "assets/products/ongc-pipeline.webp",
+      "url": "https://ongcindia.com/documents/77751/2660534/ONGC-AnnualReport_07082026.pdf#page=285",
+      "kind": "photo",
+      "alt": "Two workers in hard hats fitting a large pipe covered in frost — photograph from ONGC's 2025–26 integrated annual report"
+    }
+  ]
+}

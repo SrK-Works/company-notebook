@@ -1,0 +1,116 @@
+{
+  "order": 53,
+  "company": {
+    "id": "coal-india",
+    "name": "Coal India",
+    "ticker": "COALINDIA",
+    "sector": "Energy & utilities",
+    "initial": "C",
+    "color": "#2f3a40",
+    "bg": "#eceff1",
+    "tag": "Digs coal from open-cast and underground mines and sells it to power plants and factories",
+    "products": [
+      [
+        "Coal for power stations (non-coking coal)",
+        "Thermal coal"
+      ],
+      [
+        "Coal for steel making (coking coal)",
+        "Steel-grade coal"
+      ],
+      [
+        "Washed coal (cleaned to lower the ash)",
+        "Cleaned coal"
+      ],
+      [
+        "Coal sold at auction (e-auction)",
+        "Auction sales"
+      ],
+      [
+        "Coal under long-term supply agreements",
+        "Contract sales"
+      ],
+      [
+        "Solar power for its own use",
+        "Renewables"
+      ],
+      [
+        "Critical minerals and coal gasification projects",
+        "New businesses"
+      ]
+    ],
+    "sources": [
+      [
+        "Coal India annual reports",
+        "https://www.coalindia.in/performance/annual-reports/"
+      ]
+    ],
+    "productSource": "https://coal-india-flipbook-25-26.vercel.app/coal-india.pdf",
+    "aliases": [
+      "Coal India Limited",
+      "Coal India Ltd",
+      "CIL"
+    ],
+    "productNote": "Coal types and sales routes named in Coal India's 2025–26 integrated annual report. Coal India's mining subsidiaries (Eastern, Bharat Coking, Central, Western, South Eastern, Northern and Mahanadi Coalfields) are consolidated into the group.",
+    "checked": "12 November 2026",
+    "reviewed": "12 November 2026"
+  },
+  "offerings": [
+    {
+      "name": "Open-cast mines",
+      "category": "Huge pits where coal is dug out in layers",
+      "image": "assets/products/coal-india-opencast-mine.webp",
+      "url": "https://coal-india-flipbook-25-26.vercel.app/coal-india.pdf#page=3",
+      "kind": "photo",
+      "alt": "An aerial view of a very large open pit coal mine cut into terraces — photograph from Coal India's 2025–26 integrated annual report"
+    },
+    {
+      "name": "Digging and loading",
+      "category": "Machines that dig coal and load it onto trucks",
+      "image": "assets/products/coal-india-excavator.webp",
+      "url": "https://coal-india-flipbook-25-26.vercel.app/coal-india.pdf#page=47",
+      "kind": "photo",
+      "alt": "A large excavator filling a yellow mining dumper truck on a mine floor — photograph from Coal India's 2025–26 integrated annual report"
+    },
+    {
+      "name": "Coal faces",
+      "category": "Layers of coal opened up and worked by machines",
+      "image": "assets/products/coal-india-mine-face.webp",
+      "url": "https://coal-india-flipbook-25-26.vercel.app/coal-india.pdf#page=23",
+      "kind": "photo",
+      "alt": "A wide black coal mine floor with two yellow machines working on it — photograph from Coal India's 2025–26 integrated annual report"
+    },
+    {
+      "name": "Conveyors",
+      "category": "Covered belts that carry coal to loading points",
+      "image": "assets/products/coal-india-conveyor.webp",
+      "url": "https://coal-india-flipbook-25-26.vercel.app/coal-india.pdf#page=19",
+      "kind": "photo",
+      "alt": "An aerial view of blue covered conveyor belts crossing a mining area — photograph from Coal India's 2025–26 integrated annual report"
+    },
+    {
+      "name": "Draglines",
+      "category": "Giant digging machines that clear rock above the coal",
+      "image": "assets/products/coal-india-dragline.webp",
+      "url": "https://coal-india-flipbook-25-26.vercel.app/coal-india.pdf#page=46",
+      "kind": "photo",
+      "alt": "A very large dragline digging machine with a long boom against a hazy sky — photograph from Coal India's 2025–26 integrated annual report"
+    },
+    {
+      "name": "Rail loading silos",
+      "category": "Tall silos that fill railway wagons with coal",
+      "image": "assets/products/coal-india-loading-silo.webp",
+      "url": "https://coal-india-flipbook-25-26.vercel.app/coal-india.pdf#page=46",
+      "kind": "photo",
+      "alt": "A tall blue coal loading silo beside rail tracks in a green valley — photograph from Coal India's 2025–26 integrated annual report"
+    },
+    {
+      "name": "Command and control centre",
+      "category": "A room that watches mine sites on screens",
+      "image": "assets/products/coal-india-control-centre.webp",
+      "url": "https://coal-india-flipbook-25-26.vercel.app/coal-india.pdf#page=43",
+      "kind": "photo",
+      "alt": "A uniformed man at a desk in front of a wall of screens showing mine cameras — photograph from Coal India's 2025–26 integrated annual report"
+    }
+  ]
+}

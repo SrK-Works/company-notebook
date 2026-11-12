@@ -1,0 +1,201 @@
+{
+  "summary": "JSW Steel digs iron ore and coal, melts them into steel in giant plants, and rolls the steel into coils, bars, wire and coated sheets for builders, carmakers, appliance makers and can makers.",
+  "description": "Steel is made by heating iron ore with coke, which is baked coal, in a tall blast furnace. The liquid iron is turned into steel and cast into thick slabs or bars. Rolling mills then press these into the shapes customers need: long flat coils, thin sheets, ribbed bars for concrete and wire. Further plants coat steel with zinc or paint it, so that roof sheets and car parts last. JSW Steel's largest plant is at Vijayanagar in Karnataka. It owns iron ore mines and coal mines and is putting more of its supply under its own control.",
+  "money": "JSW Steel earns money by selling steel by the tonne. Prices move with the steel market, and coated and special steel sells for more than plain coils. Its main costs are iron ore, coal for making coke, electricity, freight and staff. A customer's payment is not profit: ore, coal and the cost of moving them come out first. Because making a tonne of steel means moving about four times that weight of material, transport is a large cost.",
+  "customers": "Customers are builders and construction firms, carmakers, makers of appliances and pipes, can makers and roofing sellers. Finished steel is supplied through a network of dealers, distributors and direct channels. The firm or dealer that buys the steel pays, not the person who finally lives in the house or drives the car.",
+  "drivers": "Three things mostly decide how JSW Steel does: the price of steel against the cost of iron ore and coal, how much it makes and sells, and how much of its steel is coated or special grade rather than plain.",
+  "groups": [
+    {
+      "title": "Flat steel",
+      "examples": "Hot-rolled and cold-rolled coils and sheets.",
+      "explanation": "Flat steel is rolled into wide sheets and wound into heavy coils. Carmakers, appliance makers and pipe makers buy it and cut or form it into parts."
+    },
+    {
+      "title": "Coated steel and roofing",
+      "examples": "Galvanised sheets, colour-coated roofing and tinplate for cans.",
+      "explanation": "These are flat steel with a coat of zinc, paint or tin, which stops rust. Roofing sellers and food-can makers are typical buyers."
+    },
+    {
+      "title": "Bars and wire (long steel)",
+      "examples": "Neosteel bars (thermo-mechanically treated, or TMT) and wire rods.",
+      "explanation": "TMT bars are ribbed steel bars that are set inside concrete to hold buildings and bridges together. Wire rods are drawn into wire and nails."
+    },
+    {
+      "title": "Special steel",
+      "examples": "Electrical steel for motors and transformers.",
+      "explanation": "Special grades are made for demanding uses, such as steel that helps electric motors waste less energy."
+    },
+    {
+      "title": "Raw materials from its own mines",
+      "examples": "Iron ore and coking coal mines.",
+      "explanation": "Owning mines gives JSW Steel more control over what it pays for ore and coal, though some is still bought from outside."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What are value-added and special products?",
+      "text": "JSW Steel uses this name for steel that has had extra work, such as coating, painting or a special grade, and that sells for more than plain coils. Its annual report gives their share of the sales mix."
+    },
+    {
+      "title": "What is captive mining?",
+      "text": "A steelmaker mining its own ore or coal for its own plants, instead of buying all of it from outside miners."
+    },
+    {
+      "title": "What is a joint venture?",
+      "text": "A business owned together with another company. JSW Steel has joint ventures with Japanese and Korean steelmakers, and a joint venture's results are not added into JSW Steel's group results unless JSW Steel controls it."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Mine and move the raw materials",
+      "text": "Iron ore and coal are dug, or bought, and moved by conveyor, rail and ship to the plant."
+    },
+    {
+      "title": "Melt and cast steel",
+      "text": "Blast furnaces and steel shops turn ore, coke and scrap into liquid steel, cast into slabs or bars."
+    },
+    {
+      "title": "Roll and coat",
+      "text": "Mills roll the steel into coils, sheets, bars and wire. Downstream plants coat or paint some of it."
+    },
+    {
+      "title": "Ship to the customer",
+      "text": "Steel is sent by rail and road to factories, dealers and building sites."
+    },
+    {
+      "title": "Bill at the steel price",
+      "text": "The invoice follows the price of that grade of steel on the day of sale."
+    },
+    {
+      "title": "Collect payment and pay costs",
+      "text": "Revenue is booked on delivery. Cash arrives when the buyer pays. Ore, coal, power and freight were paid for earlier, so cash and profit differ."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "A heavy business",
+      "text": "Making a tonne of steel means moving about four times that weight of ore, coal and other material. Rail wagons, conveyors and ports therefore matter as much as the furnaces."
+    },
+    {
+      "title": "More than half of sales are value-added",
+      "text": "More than 60% of 2025-26 sales were value-added and special products. These earn more per tonne than plain steel, so the mix affects profit as much as the volume does."
+    },
+    {
+      "title": "Smaller plants abroad",
+      "text": "JSW Steel has a plant in Ohio in the United States, a plate and pipe mill at Baytown in Texas, and a rail mill at Piombino in Italy. These are small next to its Indian plants and make different products."
+    }
+  ],
+  "watch": [
+    [
+      "How much steel is sold at what mix of products?",
+      "Coated and special steel earn more per tonne than plain steel.",
+      "Compare sales volume and the share of value-added and special products in the sales mix over the last several years of the integrated reports."
+    ],
+    [
+      "How much of the iron ore and coal comes from its own mines?",
+      "Own mines make costs steadier but take years to build.",
+      "Read the raw material sections and compare captive and bought-in ore and coal over several years."
+    ],
+    [
+      "How much does freight cost, and what are the new transport projects?",
+      "Moving heavy material is a large cost.",
+      "Read the transport risk section of the integrated report and track the progress of the slurry pipeline, conveyor and rail wagon projects it names."
+    ],
+    [
+      "How will the joint ventures with Japanese and Korean partners change the group?",
+      "A joint venture can share costs but also share profits.",
+      "Read the notes to the accounts on joint ventures and subsidiaries, and check which businesses are inside the consolidated results and from what date."
+    ],
+    [
+      "How much money is planned for new capacity and cleaner steel making?",
+      "Large projects need years of spending before they earn.",
+      "Compare the approved spending plan for new capacity and cleaner steel making with cash from operations, and read the dates by which each project is meant to start."
+    ]
+  ],
+  "risks": [
+    [
+      "Steel is a cyclical business",
+      "The annual report says steel prices have swung widely with raw material costs, world and home demand, new capacity and trade. Margins and cash flow follow those swings."
+    ],
+    [
+      "Moving heavy goods",
+      "Rail wagons, storage space and road capacity can be short. The company names limited railway rakes, road bottlenecks and rising freight cost, which can slow deliveries and add cost."
+    ],
+    [
+      "Export rules and carbon charges",
+      "The annual report says changes in rules and protectionism can hurt exports. Since January 2026 the European Union charges importers for the carbon released making steel, which directly affects JSW Steel's exports to Europe."
+    ],
+    [
+      "Climate and water rules",
+      "Tighter environmental and climate rules can raise costs and slow approvals for new capacity. Making steel with lower emissions may need large spending and new technology, and water shortages could disrupt plants."
+    ]
+  ],
+  "context": [
+    "27 March 2026: the Bhushan Power and Steel business moves into a joint venture",
+    "On 27 March 2026 JSW Steel transferred the steel business of Bhushan Power and Steel (BPSL) into a 50:50 joint venture with a Japanese steelmaker. That business is no longer part of JSW Steel's consolidated results from that date, so results before and after are not like-for-like."
+  ],
+  "sources": [
+    [
+      "JSW Steel integrated report 2025-26",
+      "https://www.bseindia.com/xml-data/corpfiling/Attachhis/e44105ed-fc16-4d0a-a1a1-4521dc30b148.pdf"
+    ],
+    [
+      "JSW Steel results presentation for the quarter and year ended March 2026 (filed with NSE)",
+      "https://nsearchives.nseindia.com/corporate/jessydenny_14052026164431_JSW_Steel_Q4_FY26_vF.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "Revenue and profit figures are pending verification. The verified table will say whether each figure is for JSW Steel alone (standalone) or the group (consolidated), and will note that the Bhushan Power and Steel business left the group on 27 March 2026. It will give the period and the profit definition."
+    }
+  ],
+  "stepsTitle": "From ore to a paid invoice",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Mines iron ore and coal, makes steel in large plants, and rolls and coats it into sheets, bars, wire and roofing."
+    },
+    {
+      "title": "Who pays",
+      "text": "Builders, carmakers, appliance and can makers and roofing sellers, directly or through dealers and distributors."
+    },
+    {
+      "title": "How it earns",
+      "text": "By selling steel by the tonne, at prices that move with the steel market, and more for coated and special steel."
+    },
+    {
+      "title": "What it mainly spends on",
+      "text": "Iron ore and coal, electricity, freight to move heavy raw material and steel, staff and plant upkeep."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Own iron ore",
+      "text": "The annual report says more use of own iron ore lowers the cost of moving material and reduces exposure to market swings in ore prices."
+    },
+    {
+      "title": "Scale and a growth plan",
+      "text": "JSW Steel is India's largest steelmaker by capacity. It plans to raise its Indian capacity from about 32 million tonnes a year to 50 million by 2029-30. This is a plan, not a result."
+    },
+    {
+      "title": "Low conversion cost",
+      "text": "The report describes integrated operations, scale and plant location as reasons it keeps its cost of turning raw material into steel among the lowest in the world."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Imported coking coal",
+      "text": "A steelmaker needs coking coal, and JSW Steel relies on imports for part of it. The company says its new coal mine in Mozambique is meant to reduce reliance on other imported coking coal."
+    },
+    {
+      "title": "Mines take years to bring on",
+      "text": "Of its 25 iron ore mines, 13 are operating, and the rest are at various stages of development and commissioning, so more own ore takes time."
+    },
+    {
+      "title": "A furnace upgrade means a stop",
+      "text": "Raising a blast furnace's capacity means shutting it down for a period. Blast Furnace 3 at Vijayanagar has been shut for an upgrade since the end of September 2025, which reduced steel output."
+    }
+  ],
+  "checked": "12 November 2026"
+}
