@@ -1,0 +1,24 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated · Max Healthcare and its subsidiaries together",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited consolidated financial statements (integrated annual report)",
+  "checked": "14 November 2026",
+  "coverage": "Whole-group totals · the group reports one segment, ‘Medical and Healthcare Services’, so there are no segment results",
+  "profitMetric": "Profit for the year",
+  "definition": "Profit after all expenses, one-off items and tax. It is the group’s profit before the share belonging to outside owners of subsidiaries; the statement shows no such share. It is not operating profit or cash flow.",
+  "rows": [
+    {
+      "name": "Max Healthcare · whole group",
+      "revenue": 8373.45,
+      "profit": 1442.41
+    }
+  ],
+  "source": "https://max-website20-images.s3.ap-south-1.amazonaws.com/FY_2025_26_Integrated_Annual_Report_ab5f34d431.pdf",
+  "location": "Max Healthcare Institute Limited Integrated Annual Report 2025–26: consolidated statement of profit and loss (PDF page 252, printed page 501), note 27 revenue (PDF page 279), note 32.01 exceptional items (PDF page 280, printed page 557), note 16 tax (PDF page 270, printed pages 536–537), note 34.14 segment reporting (PDF page 293) and notes 34.21–34.22 (PDF page 296)",
+  "notes": "Source figures are in ₹ lakh and were divided by 100. Revenue from operations of ₹8,373.45 crore is ₹8,225.43 crore from customers (healthcare services ₹7,990.67 crore and sale of drugs ₹234.76 crore) plus ₹148.02 crore of other operating revenue. With other income of ₹162.62 crore, total income is ₹8,536.07 crore. Profit before exceptional items and tax was ₹1,723.82 crore. Exceptional items of ₹48.24 crore were deducted: ₹33.90 crore for the new Labour Codes (extra gratuity and leave pay for past service) and ₹14.34 crore of stamp duty estimated on merging two subsidiaries. Profit before tax was ₹1,675.58 crore. Tax was ₹233.17 crore, which is lower than usual because of a ₹141.48 crore one-time tax benefit from the merger of two subsidiaries (Crosslay Remedies and Jaypee Healthcare); tax for earlier years also gave back ₹42.10 crore of current tax. Profit for the year is ₹1,442.41 crore. Purchases of drugs, consumables and implants (₹1,798.75 crore) and professional and consultancy fees (₹1,794.01 crore, which the filing links to clinical talent and network expansion) are the two largest costs. The filing says no external customer gives 10% or more of revenue. These totals cover the group only, not the partner hospitals it has long-term service agreements with, whose own results are separate. The filing gives no profit for any single hospital or service.",
+  "insight": "Without the one-time tax benefit of ₹141.48 crore, profit for the year would have been that much lower. Professional and consultancy fees, linked to clinical talent, cost more than the group’s own employee pay.",
+  "status": "totals",
+  "revenueTotal": 8373.45,
+  "profitTotal": 1442.41
+}

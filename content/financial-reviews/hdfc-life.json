@@ -1,0 +1,26 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Standalone · HDFC Life alone",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited standalone financial statements (integrated annual report)",
+  "checked": "14 November 2026",
+  "coverage": "Whole-company totals · no profit is given for any single insurance product",
+  "revenueLabel": "Total income",
+  "incomeDefinition": "Premiums customers paid for policies, after the part passed to reinsurers (other insurers that share the risk), plus income earned by investing customers’ money and shareholders’ money, plus small other income. A premium is a customer’s payment for cover; it is not profit.",
+  "profitMetric": "Profit after tax",
+  "definition": "Profit shown in the shareholders’ account after the insurer’s expenses, interest on its subordinated debt (loans that are repaid after other debts) and tax. It is not the premiums collected or cash flow.",
+  "rows": [
+    {
+      "name": "HDFC Life · standalone",
+      "revenue": 99315.0,
+      "profit": 1909.99
+    }
+  ],
+  "source": "https://hdfclife.com/content/dam/hdfclifeinsurancecompany/about-us/pdf/investor-relations/financial-information/annual-reports/Integrated-Annual-Report-FY-2025-26.pdf",
+  "location": "Integrated Annual Report 2025-26: Management Discussion income statement (printed page 164, PDF page 143), standalone revenue account (PDF page 273, printed page 294), standalone profit and loss account (PDF page 275, printed page 296) and Schedule 16(B) note 4 on the new Labour Codes (PDF page 311, printed page 332). The PDF prints two numbered pages on each sheet.",
+  "notes": "Total income is shown in whole ₹ crore as printed in the Management Discussion table: net premium ₹77,315 crore (gross premium ₹79,387.07 crore less ₹2,071.85 crore passed to reinsurers) plus investment income ₹21,653 crore plus other income ₹347 crore. Profit before tax of ₹1,955.04 crore less tax of ₹45.05 crore gives profit after tax of ₹1,909.99 crore. The shareholders’ account transferred ₹434.85 crore to the policyholders’ account to cover a shortfall in some policy funds. Profit is after a one-time charge of ₹106.02 crore for the new Labour Codes (extra retirement-pay and leave liability for past service), charged in the policyholders’ account. The company says profit would have grown 16% instead of 6% without that charge and a change in goods and services tax (GST) rules; it does not give the GST amount as one figure. HDFC Life with its subsidiaries (consolidated) reported profit after tax of ₹1,912.32 crore; this table uses the standalone figures. The filing gives results by fund type (for example participating, non-participating and unit-linked) but not by product, and those results are not shown here.",
+  "insight": "Most of what an insurer takes in goes out again to policyholders or into reserves for future claims, so profit is small next to total income. The company’s own measure of what a year’s new policies are worth, the value of new business, is reported separately and is not profit.",
+  "status": "totals",
+  "revenueTotal": 99315.0,
+  "profitTotal": 1909.99
+}

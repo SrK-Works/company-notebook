@@ -1,0 +1,26 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated · Jio Financial Services and its subsidiaries together, with associates and joint ventures counted by share of profit",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited consolidated financial statements (annual report)",
+  "checked": "14 November 2026",
+  "coverage": "Whole-group totals · the group reports one segment (investing and financing), so there are no segment results",
+  "revenueLabel": "Total income",
+  "incomeDefinition": "Interest earned on loans and deposits, dividends, fees and commission, gains on the value of investments and other income. It is gross income before interest paid, staff and other costs; it is not product sales.",
+  "profitMetric": "Profit for the year",
+  "definition": "Profit after all expenses, tax and the group’s share of profit of associates and joint ventures (companies it part-owns). It includes a one-time gain shown as an exceptional item. It is not operating profit or cash flow.",
+  "rows": [
+    {
+      "name": "Jio Financial Services · whole group",
+      "revenue": 3542.61,
+      "profit": 1560.9
+    }
+  ],
+  "source": "https://www.jfs.in/docs/cms/assets/jfs/investor-relations/financials/annual-reports/fy-2025-2026/annual-report-2025-2026.pdf",
+  "location": "Annual Report FY 2025-26: consolidated statement of profit and loss (printed page 170, PDF page 86), note 9.F step acquisition (printed page 196, PDF page 99), note 33 segment reporting (printed page 210, PDF page 106) and note 39 employee benefits (printed page 216, PDF page 109); the PDF prints two numbered pages on each sheet",
+  "notes": "Total income of ₹3,542.61 crore is revenue from operations of ₹3,513.26 crore (interest income ₹1,901.87 crore, net gain on fair value changes ₹745.41 crore, fees and commission ₹597.01 crore and dividends ₹268.97 crore) plus other income of ₹29.35 crore. Total expenses were ₹1,982.93 crore, including finance costs of ₹745.09 crore. Profit before share of associates and joint ventures, exceptional items and tax was ₹1,559.68 crore. Adding the ₹323.41 crore share of profit of associates and joint ventures and a ₹28.57 crore exceptional item gives profit before tax of ₹1,911.66 crore. Tax of ₹350.76 crore, including ₹6.70 crore relating to earlier years, leaves profit for the year of ₹1,560.90 crore. The exceptional item (note 9.F) arose when the company bought the remaining 14.96% of Jio Payments Bank in June 2025: the bank became a subsidiary and the 85.04% stake held before was revalued, a gain of ₹439.16 crore, less ₹410.59 crore of goodwill (the price paid above the value of the bank’s assets) written off at once. Profit also includes a ₹5.43 crore charge for the new Labour Codes (extra gratuity and leave pay) inside employee benefits expense (note 39). The statement does not split profit between the company’s owners and outside owners. The filing gives no profit for any single product or subsidiary.",
+  "insight": "Interest and dividends together make up about three-fifths of income. Profit for the year was slightly lower than the previous year’s ₹1,612.59 crore, even though income grew by about 70%.",
+  "status": "totals",
+  "revenueTotal": 3542.61,
+  "profitTotal": 1560.9
+}

@@ -1,0 +1,26 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated · BSE and its subsidiaries together",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited consolidated financial statements (annual report)",
+  "checked": "14 November 2026",
+  "coverage": "Whole-group totals · BSE reports one operating segment, so there are no segment results",
+  "revenueLabel": "Revenue from operations",
+  "incomeDefinition": "Fees earned from running the exchange: transaction charges on trades, listing fees, treasury income on clearing and settlement funds, and charges for co-location, data and index services. It leaves out investment income and other income.",
+  "profitMetric": "Net profit for the year (all operations)",
+  "definition": "Profit after all expenses and tax, plus the group’s share of its associates’ profit and a small profit from a subsidiary sold during the year. It is the group’s profit before the share belonging to outside owners of subsidiaries. It is not operating profit or cash flow.",
+  "rows": [
+    {
+      "name": "BSE · whole group",
+      "revenue": 4833.95,
+      "profit": 2487.25
+    }
+  ],
+  "source": "https://bseindia.com/downloads1/5fb448fb-7894-41c0-93da-b43f2196b3e0.pdf",
+  "location": "BSE Limited Annual Report 2025-26: consolidated statement of profit and loss (printed page 153, PDF page 163), note 22 revenue from operations (printed page 200, PDF page 210), note 39 segment reporting (printed page 217, PDF page 227), note 49 discontinued operation (printed page 228, PDF page 238) and Board’s Report financial summary (printed page 12, PDF page 22)",
+  "notes": "Source figures are in ₹ lakh and were divided by 100. Revenue from operations of ₹4,833.95 crore is mostly transaction charges of ₹3,794.99 crore. Adding investment income of ₹290.30 crore and other income of ₹23.85 crore gives total income of ₹5,148.10 crore. Profit before tax was ₹3,299.14 crore, including a ₹65.42 crore share of profit of associates, after a ₹76.96 crore contribution to the core settlement guarantee fund (a safety fund that covers defaults in trades). Tax was ₹823.84 crore, giving profit of ₹2,475.30 crore from continuing operations. A discontinued operation, the sale of BSE Institute Limited (a training subsidiary), added ₹11.95 crore, including a ₹14.40 crore gain on the sale before tax. Net profit for the year is ₹2,487.25 crore, of which ₹2,496.98 crore belongs to owners of BSE and −₹9.73 crore to outside owners of subsidiaries. BSE alone (standalone) reported net profit of ₹2,334.16 crore after a ₹15.90 crore exceptional gain from selling a strategic investment. The filing does not mention the new Labour Codes as a separate item. It gives no profit for any single market or product.",
+  "insight": "Trading fees drive nearly all of BSE’s revenue, so its profit follows how much trading happens on its markets. Its costs are small next to its fees, which is why about half of each rupee of revenue remains as profit.",
+  "status": "totals",
+  "revenueTotal": 4833.95,
+  "profitTotal": 2487.25
+}

@@ -1,0 +1,46 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated · group",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited consolidated financial statements (integrated annual report)",
+  "checked": "14 November 2026",
+  "coverage": "Reported business segments · segment revenue before inter-segment amounts",
+  "profitMetric": "Segment result (EBITDA)",
+  "definition": "Each segment’s earnings before interest, tax, depreciation and amortisation (EBITDA): its profit before paying interest, tax and the yearly cost of wear on machines and buildings. For Financial Services only, the interest the lending and insurance businesses pay on their own funding is deducted first, as that is part of their trade. The rows add up to ₹25,693.20 crore. After ₹178.89 crore of unallocated corporate income, this gives group EBITDA of ₹25,872.09 crore. It is not profit after tax.",
+  "rows": [
+    {
+      "name": "Cellulosic Fibres",
+      "revenue": 17104.48,
+      "profit": 1751.34
+    },
+    {
+      "name": "Chemicals",
+      "revenue": 9592.12,
+      "profit": 1405.84
+    },
+    {
+      "name": "Building Materials",
+      "revenue": 101201.56,
+      "profit": 16363.97
+    },
+    {
+      "name": "Financial Services",
+      "revenue": 45426.61,
+      "profit": 5292.64
+    },
+    {
+      "name": "Others",
+      "revenue": 3892.35,
+      "profit": 879.41
+    }
+  ],
+  "source": "https://www.grasim.com/integrated-annual-report-2025-26/pdf/Consolidated-Financials.pdf",
+  "location": "Integrated Annual Report 2025-26, consolidated financial statements: note 4.6 operating segments (printed page 618, PDF page 165), consolidated statement of profit and loss (printed pages 478–479, PDF pages 25–26) and note 3.11 exceptional items (printed page 581, PDF page 128)",
+  "notes": "Segment revenue of ₹177,217.12 crore is before ₹1,786.38 crore of sales between segments; after removing it, revenue from operations is ₹175,430.74 crore. Cellulosic Fibres means Cellulosic Staple Fibre and Cellulosic Fashion Yarn (fabric fibre made from wood pulp). Chemicals means Chlor Alkali, Specialty Chemicals and Chlorine Derivatives. Building Materials means Cement, Paints and B2B E-Commerce. Financial Services means non-bank lending, life insurance, asset management, housing finance, equity broking, wealth management, asset reconstruction and health insurance. Others is mainly Textiles, Insulators and Renewable Power. Group EBITDA of ₹25,872.09 crore, less finance costs of ₹3,539.92 crore (excluding ₹11,603.95 crore of lending-business interest already deducted in Financial Services) and depreciation and amortisation of ₹7,725.94 crore, gives profit before exceptional items and tax of ₹14,606.23 crore. Add ₹189.44 crore share of profit of associates and joint ventures and deduct exceptional items of ₹322.92 crore: profit before tax is ₹14,472.75 crore. After tax of ₹4,172.46 crore, profit for the year is ₹10,300.29 crore, of which ₹5,333.81 crore belongs to non-controlling interests (outside owners of subsidiaries such as UltraTech Cement and Aditya Birla Capital) and ₹4,966.48 crore to owners of Grasim. Exceptional items of ₹322.92 crore (note 3.11) are: ₹177.49 crore one-time extra gratuity and leave pay from the new Labour Codes; ₹47.86 crore write-down of equipment at the Chemicals Vilayat plant after repeated failures and corrosion; ₹50.07 crore write-down by UltraTech of an investment or asset held for sale; ₹34.00 crore write-down of an investment in and expected losses on AV Terrace Bay Inc; and ₹13.50 crore for Birla Advanced Knits. The filing says no single customer accounts for 10% or more of group revenue. It gives no profit for any single brand or product.",
+  "insight": "Building Materials (cement and paints) brings in well over half of segment revenue and most of the EBITDA. More than half of the group’s profit for the year belongs to outside owners of its subsidiaries, not to Grasim’s own shareholders.",
+  "status": "segments",
+  "revenueTotal": 177217.12,
+  "revenueTotalLabel": "Segment revenue before inter-segment amounts",
+  "profitTotal": 25693.2,
+  "profitTotalLabel": "Total segment EBITDA"
+}
