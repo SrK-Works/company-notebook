@@ -27,6 +27,9 @@ For each company you are given:
 - **Helps, hurts and company specifics are lasting explanations**, sourced from the annual report's strategy, outlook or risk sections. Dated quarter figures belong only in `context`, compared with the same quarter a year earlier.
 - **Earnings calls are what managers said.** Attribute anything from a call ("managers said on the 29 July 2026 call"), never state an off-the-cuff estimate as fact, and prefer filed documents when both exist.
 - **Check company boundaries** against the company's subsidiaries page before saying a brand's sales are or are not in its revenue.
+- **Pictures show the offering itself.** Where an everyday object exists (a gas cylinder, a truck, a tractor, a car), draw or use that object; use a metaphor icon only for services with no object. Each car or vehicle family needs its own distinct picture.
+- **Category labels repeat only what the lesson supports.** Do not copy superlatives ("the largest", "leading") onto cards; use the report's own wording.
+- **Aliases belong to this company only.** Never use another listed company's name as an alias, including a demerged or sister entity (for example, the trucks and buses company's name for a passenger-vehicle company).
 - **Only what the filings say.** Statements that do not come from the filings are marked as general explanation or left out. Dates, "first" claims and context events must match the report's own page and year. Prefer the report's own words.
 - **Large PDFs:** if a PDF is over the drafting script's size limit, try the copy filed with the exchange or a smaller section, and say in the PR what was skipped.
 

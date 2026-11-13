@@ -1,0 +1,129 @@
+{
+  "order": 70,
+  "company": {
+    "id": "tech-mahindra",
+    "name": "Tech Mahindra",
+    "ticker": "TECHM",
+    "sector": "Technology & services",
+    "initial": "T",
+    "color": "#c8102e",
+    "bg": "#fdeaed",
+    "tag": "Builds, runs and fixes software and networks for large companies, especially phone and telecom firms",
+    "products": [
+      [
+        "Engineering services",
+        "Services"
+      ],
+      [
+        "Business process services",
+        "Services"
+      ],
+      [
+        "Cloud, network and security services",
+        "Services"
+      ],
+      [
+        "Business applications (ERP and CRM)",
+        "Services"
+      ],
+      [
+        "Data, design and consulting",
+        "Services"
+      ],
+      [
+        "AI products and platforms",
+        "Services"
+      ],
+      [
+        "Work for telecom firms",
+        "Industries"
+      ],
+      [
+        "Work for manufacturers",
+        "Industries"
+      ]
+    ],
+    "sources": [
+      [
+        "Tech Mahindra annual reports and filings page",
+        "https://www.techmahindra.com/investors/annual-reports-filings/"
+      ]
+    ],
+    "productSource": "https://insights.techmahindra.com/investors/tml-integrated-annual-report-fy-2025-2026.pdf",
+    "aliases": [
+      "Tech Mahindra Limited",
+      "Tech Mahindra Ltd",
+      "Tech Mahindra Ltd.",
+      "TechM"
+    ],
+    "productNote": "Service lines and industries named in Tech Mahindra’s 2025–26 integrated annual report. The report’s photographs are advertising scenes and staff portraits, so pictures are original illustrations.",
+    "checked": "14 November 2026",
+    "reviewed": "14 November 2026"
+  },
+  "offerings": [
+    {
+      "name": "Engineering services",
+      "category": "Designing and testing products, software inside devices, and chips",
+      "image": "assets/products/tech-mahindra-engineering-services.svg",
+      "url": "https://insights.techmahindra.com/investors/tml-integrated-annual-report-fy-2025-2026.pdf",
+      "kind": "illustration",
+      "alt": "A cog wheel — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Business process services",
+      "category": "Running a client’s routine back-office and customer work",
+      "image": "assets/products/tech-mahindra-business-process-services.svg",
+      "url": "https://insights.techmahindra.com/investors/tml-integrated-annual-report-fy-2025-2026.pdf",
+      "kind": "illustration",
+      "alt": "A document — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Cloud, network and security",
+      "category": "Running client computer systems, networks and their protection",
+      "image": "assets/products/tech-mahindra-cloud-network-and-security.svg",
+      "url": "https://insights.techmahindra.com/investors/tml-integrated-annual-report-fy-2025-2026.pdf",
+      "kind": "illustration",
+      "alt": "A cloud — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Business software",
+      "category": "Setting up and running software for accounts, sales and operations",
+      "image": "assets/products/tech-mahindra-business-software.svg",
+      "url": "https://insights.techmahindra.com/investors/tml-integrated-annual-report-fy-2025-2026.pdf",
+      "kind": "illustration",
+      "alt": "A computer chip — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Data, design and consulting",
+      "category": "Advice, data work and design of customer experiences",
+      "image": "assets/products/tech-mahindra-data-design-and-consulting.svg",
+      "url": "https://insights.techmahindra.com/investors/tml-integrated-annual-report-fy-2025-2026.pdf",
+      "kind": "illustration",
+      "alt": "A rising and falling price line on a chart — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "AI tools and platforms",
+      "category": "Artificial intelligence products and the company’s own software",
+      "image": "assets/products/tech-mahindra-ai-tools-and-platforms.svg",
+      "url": "https://insights.techmahindra.com/investors/tml-integrated-annual-report-fy-2025-2026.pdf",
+      "kind": "illustration",
+      "alt": "A head-like circle with connected lines — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Telecom clients",
+      "category": "Phone and network companies, a significant share of revenue",
+      "image": "assets/products/tech-mahindra-telecom-clients.svg",
+      "url": "https://insights.techmahindra.com/investors/tml-integrated-annual-report-fy-2025-2026.pdf",
+      "kind": "illustration",
+      "alt": "A mobile tower — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Manufacturing clients",
+      "category": "Factories and equipment makers",
+      "image": "assets/products/tech-mahindra-manufacturing-clients.svg",
+      "url": "https://insights.techmahindra.com/investors/tml-integrated-annual-report-fy-2025-2026.pdf",
+      "kind": "illustration",
+      "alt": "A factory — conceptual illustration; not a photograph"
+    }
+  ]
+}

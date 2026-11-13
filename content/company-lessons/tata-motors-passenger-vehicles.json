@@ -1,0 +1,201 @@
+{
+  "summary": "This company makes and sells cars: Tata cars and electric cars, mainly in India, and Jaguar, Land Rover, Range Rover, Defender and Discovery luxury vehicles built in the UK and sold around the world.",
+  "description": "The company designs, builds and sells passenger vehicles under two very different banners. In India it sells Tata cars, from small hatchbacks such as Tiago and Altroz to SUVs (sport utility vehicles, taller family cars) such as Nexon, Punch, Harrier, Safari and Sierra, in petrol, diesel, CNG (compressed natural gas) and electric versions. Its second business is Jaguar Land Rover (JLR), a British luxury carmaker with four brands: Range Rover, Defender, Discovery and Jaguar. The trucks and buses business was split off in 2025 and is a separate listed company, not covered here.",
+  "money": "The company earns when a car is sold: dealers and retailers buy vehicles from it and customers pay the dealer. Its main costs are the steel, aluminium, batteries and parts that go into each car, factories, workers, design and engineering, and the warranty it gives buyers. A car is only counted as sold once it goes to a dealer or customer, so cash arrives when sales happen, while money for new models is spent years earlier.",
+  "customers": "Buyers are families and individuals who buy a car, mostly through dealers in India and through retailers abroad for Jaguar Land Rover. As general explanation, not from the report, many Indian buyers take a car loan. The report says it is working to bring electric car prices closer to petrol ones and to improve range and charging speed. Luxury buyers abroad pay much more per car but are fewer and can delay purchases when economies weaken.",
+  "drivers": "Mostly: how many cars it sells and at what price and model mix, the cost of materials and batteries, how fast buyers switch to electric cars, and trade rules such as tariffs (taxes on imports) that affect Jaguar Land Rover.",
+  "groups": [
+    {
+      "title": "Tata SUVs",
+      "examples": "Nexon, Punch, Harrier, Safari, Sierra and Curvv.",
+      "explanation": "Taller family cars that make up much of the Indian range. The report says Nexon and Punch were among the top three selling models in India in the second half of the year."
+    },
+    {
+      "title": "Small cars",
+      "examples": "Tiago, Tigor and Altroz hatchbacks and sedans.",
+      "explanation": "Lower-priced cars for first-time and city buyers. The report says Altroz was relaunched in a new version in 2025-26."
+    },
+    {
+      "title": "Electric cars",
+      "examples": "Punch.ev, Tiago.ev, Nexon.ev, Curvv.ev and Harrier.ev.",
+      "explanation": "Cars with a battery and electric motor instead of a petrol or diesel engine. The company is also building charging stations and gives a lifetime battery warranty on some models."
+    },
+    {
+      "title": "CNG cars",
+      "examples": "Cars with twin small gas cylinders that run on compressed natural gas.",
+      "explanation": "A cheaper fuel than petrol for buyers who drive a lot. The report says its twin-cylinder design, which keeps boot space, is a differentiator."
+    },
+    {
+      "title": "Jaguar Land Rover",
+      "examples": "Range Rover, Defender, Discovery and Jaguar.",
+      "explanation": "Luxury and off-road vehicles built mostly in the UK and sold in many countries. These sell at much higher prices than Tata cars."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is a dealer?",
+      "text": "An independent business that buys cars from the carmaker and sells them to customers, and often services them too. The carmaker earns when it sells a car to the dealer."
+    },
+    {
+      "title": "Why do EVs matter?",
+      "text": "EV means electric vehicle. Governments are pushing a shift from petrol and diesel to electric. Carmakers must spend heavily on batteries and new models while still selling petrol and diesel cars."
+    },
+    {
+      "title": "What is a tariff?",
+      "text": "A tax a country adds to imported goods. A higher tariff makes a car exported from the UK more expensive in the country that charges it."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Design and engineering",
+      "text": "Teams design a model and test it for years before sale. This costs money long before any car is sold."
+    },
+    {
+      "title": "Parts and materials are bought",
+      "text": "Suppliers send steel, aluminium, batteries and thousands of parts to the factories."
+    },
+    {
+      "title": "Cars are built",
+      "text": "Factories assemble the cars. A long stoppage, such as the production pause the report describes at Jaguar Land Rover, means no cars to sell."
+    },
+    {
+      "title": "Cars go to dealers and retailers",
+      "text": "The company sells to dealers in India and retailers abroad, and the customer pays the dealer, often with a loan."
+    },
+    {
+      "title": "Service and warranty",
+      "text": "After the sale the company pays for repairs under warranty, which is a cost that arrives later."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Two businesses under one company",
+      "text": "Tata cars in India and Jaguar Land Rover abroad are run differently: different customers, prices, currencies and rules. The report treats them as separate business segments inside one set of results."
+    },
+    {
+      "title": "A company that was split in 2025",
+      "text": "The trucks and buses business was demerged, which means separated into its own listed company, from 1 October 2025. This company kept the passenger-vehicle business and the original listing, under a new name. Truck and bus results are no longer part of it."
+    },
+    {
+      "title": "A leading seller of electric cars in India",
+      "text": "The report describes the company as the market leader in electric cars in India and says it is expanding charging and giving long battery warranties to make buyers more confident."
+    },
+    {
+      "title": "A Freelander joint venture",
+      "text": "The report says Jaguar Land Rover is developing growth through a new Freelander model in a joint venture with Chery Automotive."
+    }
+  ],
+  "watch": [
+    [
+      "How are Tata car sales and market share doing in India?",
+      "India is the main market for the Tata cars business, so its model launches decide growth.",
+      "Look in the annual report for sales volumes by model, the electric share, and which segments the company says it leads."
+    ],
+    [
+      "How is Jaguar Land Rover recovering?",
+      "The report says production was paused and tariffs hurt in the year, so recovery decides group results.",
+      "Read the Jaguar Land Rover section and compare its sales and profit margin with the year before."
+    ],
+    [
+      "Can it make electric cars pay?",
+      "Electric cars cost more to build because of batteries, and customers' choices are uncertain.",
+      "Look for what the report says about prices, battery supply and the electric share of sales, and watch for any change in the plan."
+    ],
+    [
+      "How exposed is it to trade rules?",
+      "Tariffs and trade tensions affect cars exported from the UK and parts moved across borders.",
+      "Read the risk section on trade fragmentation and what the company says it is doing about it."
+    ],
+    [
+      "How much does it spend on new models?",
+      "Designing new cars and electric platforms takes cash years before sales arrive.",
+      "Check what the report says about investment in new products and technology, and compare it with cash generated."
+    ]
+  ],
+  "risks": [
+    [
+      "Trade rules and tariffs",
+      "The report says new tariffs, regulatory barriers and political tensions can raise costs, disrupt supply chains and limit access to key markets and materials. Exports from the UK to the US and to the European Union (a group of European countries) were already hit during the year."
+    ],
+    [
+      "A slow or uneven shift to electric cars",
+      "The report says changing government policy, charging gaps and buyer preferences could leave the company's products out of step with demand, reducing sales and leaving investment stranded."
+    ],
+    [
+      "Cyber attacks and shutdowns",
+      "The report says Jaguar Land Rover had a cyber incident that stopped production for five weeks, and says cyber risks remain elevated. Another attack could halt factories again."
+    ],
+    [
+      "Supply of key materials",
+      "The report says rare earth elements and other special materials needed for electric cars carry a significant supply risk, and that strikes or disasters can disrupt just-in-time factories."
+    ]
+  ],
+  "context": [
+    "2025-26: Jaguar Land Rover production stopped for five weeks",
+    "The report says Jaguar Land Rover was hit by new US tariffs on exports from the UK, and by a cyber incident that made the company pause production for five weeks. It says production then returned to normal and the last quarter of the year recovered."
+  ],
+  "sources": [
+    [
+      "Tata Motors Passenger Vehicles integrated annual report 2025-26",
+      "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b37e4ca4-826d-4b6c-b250-fcdf423e6bc4.pdf"
+    ],
+    [
+      "NSE Indices Limited, NIFTY 50 constituent list (Tata Motors Passenger Vehicles, symbol TMPV)",
+      "https://www.niftyindices.com/IndexConstituent/ind_nifty50list.csv"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "Sales, profit and segment figures are pending verification. The verified table will say which figures are consolidated, how the India cars and Jaguar Land Rover segments are reported, and in which currency."
+    }
+  ],
+  "stepsTitle": "From design to a car on the road",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "It makes Tata cars and electric cars for India, and Jaguar, Land Rover, Range Rover, Defender and Discovery luxury vehicles."
+    },
+    {
+      "title": "Who pays",
+      "text": "Dealers and retailers buy the cars; customers pay them, often with a loan."
+    },
+    {
+      "title": "How it earns",
+      "text": "From selling cars to dealers and retailers."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Materials and batteries, factories and workers, design of new models, and warranty repairs."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Strong demand for its popular models",
+      "text": "The report says Nexon and Punch were among the top three selling cars in India in the second half of the year, and that it launched a new Sierra and refreshed Altroz and Punch."
+    },
+    {
+      "title": "A head start in electric cars",
+      "text": "The report says it passed a large cumulative total of electric cars sold and is building charging stations and giving lifetime battery warranties to widen buyer confidence."
+    },
+    {
+      "title": "Luxury brands that hold their appeal",
+      "text": "The report says Range Rover was in the Top 100 global brands for the second year, and the group plans a pure-electric Range Rover in 2026 and a new four-door electric Jaguar grand tourer, a long-distance sports car, in 2027."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Jaguar Land Rover is exposed to trade rules",
+      "text": "The report says its exports from the UK were hit by new US tariffs, and it sells in many countries whose rules and currencies can change."
+    },
+    {
+      "title": "Electric transition is costly",
+      "text": "The report says it must spend on electric cars while petrol and diesel cars still sell, and that the pace of switch is uncertain."
+    },
+    {
+      "title": "A long production stop can be costly",
+      "text": "The five-week pause in production after the cyber incident meant fewer cars to sell, and the report says it weighed on the year's results."
+    }
+  ],
+  "checked": "14 November 2026"
+}

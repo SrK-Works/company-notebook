@@ -1,0 +1,117 @@
+{
+  "order": 67,
+  "company": {
+    "id": "sbi-life",
+    "name": "SBI Life Insurance",
+    "ticker": "SBILIFE",
+    "sector": "Banking",
+    "initial": "S",
+    "color": "#1c5aa6",
+    "bg": "#e8f0fa",
+    "tag": "Sells life insurance, savings and retirement plans, mostly through State Bank of India branches and agents",
+    "products": [
+      [
+        "Protection plans (pay out on death)",
+        "Protection"
+      ],
+      [
+        "Savings plans with guaranteed benefits",
+        "Savings"
+      ],
+      [
+        "Wealth plans (unit-linked, invested in funds)",
+        "Investment-linked"
+      ],
+      [
+        "Retirement and annuity plans",
+        "Retirement"
+      ],
+      [
+        "Group plans for employers and lenders",
+        "Group"
+      ],
+      [
+        "Selling through bank branches",
+        "Distribution"
+      ],
+      [
+        "Selling through agents, brokers and online",
+        "Distribution"
+      ]
+    ],
+    "sources": [
+      [
+        "SBI Life results press release, year ended March 2026",
+        "https://www.sbilife.co.in/documents/d/sbil/news-release_performance_mar-2026-final"
+      ]
+    ],
+    "productSource": "https://www.sbilife.co.in/documents/d/annual-reports-fy-2025-26/microsites_annualreports26_pdf_sbi-life-integrated-annual-report-fy2026",
+    "aliases": [
+      "SBI Life Insurance Company Limited",
+      "SBI Life Insurance Company Ltd",
+      "SBI Life Insurance Company Ltd.",
+      "SBI Life"
+    ],
+    "productNote": "Plan types named in SBI Life’s 2025–26 integrated annual report. SBI Life is a separate listed company; State Bank of India is its largest shareholder and its branches sell most of its plans, but the bank’s own business is on its own page. The report’s photographs are advertising scenes and group portraits, so pictures are original illustrations.",
+    "checked": "14 November 2026",
+    "reviewed": "14 November 2026"
+  },
+  "offerings": [
+    {
+      "name": "Protection plans",
+      "category": "Cover that pays a lump sum to the family on death",
+      "image": "assets/products/sbi-life-protection-plans.svg",
+      "url": "https://www.sbilife.co.in/documents/d/annual-reports-fy-2025-26/microsites_annualreports26_pdf_sbi-life-integrated-annual-report-fy2026",
+      "kind": "illustration",
+      "alt": "A shield with a tick — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Savings plans",
+      "category": "Premiums for a fixed time, guaranteed benefits later",
+      "image": "assets/products/sbi-life-savings-plans.svg",
+      "url": "https://www.sbilife.co.in/documents/d/annual-reports-fy-2025-26/microsites_annualreports26_pdf_sbi-life-integrated-annual-report-fy2026",
+      "kind": "illustration",
+      "alt": "A calendar — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Wealth plans",
+      "category": "Insurance with money invested in market funds",
+      "image": "assets/products/sbi-life-wealth-plans.svg",
+      "url": "https://www.sbilife.co.in/documents/d/annual-reports-fy-2025-26/microsites_annualreports26_pdf_sbi-life-integrated-annual-report-fy2026",
+      "kind": "illustration",
+      "alt": "A rising and falling price line on a chart — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Retirement and annuity plans",
+      "category": "Money saved now for a regular income later",
+      "image": "assets/products/sbi-life-retirement-and-annuity-plans.svg",
+      "url": "https://www.sbilife.co.in/documents/d/annual-reports-fy-2025-26/microsites_annualreports26_pdf_sbi-life-integrated-annual-report-fy2026",
+      "kind": "illustration",
+      "alt": "A sun setting over a horizon — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Group insurance",
+      "category": "One contract covering many people, such as employees or borrowers",
+      "image": "assets/products/sbi-life-group-insurance.svg",
+      "url": "https://www.sbilife.co.in/documents/d/annual-reports-fy-2025-26/microsites_annualreports26_pdf_sbi-life-integrated-annual-report-fy2026",
+      "kind": "illustration",
+      "alt": "Two people — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "SBI and bank branches",
+      "category": "The bank branches that sell most of the plans",
+      "image": "assets/products/sbi-life-sbi-and-bank-branches.svg",
+      "url": "https://www.sbilife.co.in/documents/d/annual-reports-fy-2025-26/microsites_annualreports26_pdf_sbi-life-integrated-annual-report-fy2026",
+      "kind": "illustration",
+      "alt": "A bank building with columns — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Agents and other partners",
+      "category": "The people who advise and sell the plans",
+      "image": "assets/products/sbi-life-agents-and-other-partners.svg",
+      "url": "https://www.sbilife.co.in/documents/d/annual-reports-fy-2025-26/microsites_annualreports26_pdf_sbi-life-integrated-annual-report-fy2026",
+      "kind": "illustration",
+      "alt": "A person — conceptual illustration; not a photograph"
+    }
+  ]
+}

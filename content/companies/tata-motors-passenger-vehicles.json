@@ -1,0 +1,130 @@
+{
+  "order": 69,
+  "company": {
+    "id": "tata-motors-passenger-vehicles",
+    "name": "Tata Motors Passenger Vehicles",
+    "ticker": "TMPV",
+    "sector": "Homes & mobility",
+    "initial": "T",
+    "color": "#1f4e9c",
+    "bg": "#e9eff8",
+    "tag": "Makes Tata cars and electric cars in India, and Jaguar and Land Rover luxury cars in the UK",
+    "products": [
+      [
+        "Tata SUVs and crossover cars",
+        "Cars in India"
+      ],
+      [
+        "Tata small cars (Tiago, Tigor, Altroz)",
+        "Cars in India"
+      ],
+      [
+        "Tata electric cars",
+        "Electric"
+      ],
+      [
+        "Tata cars with CNG fuel option",
+        "Cars in India"
+      ],
+      [
+        "Range Rover luxury SUVs",
+        "Jaguar Land Rover"
+      ],
+      [
+        "Defender off-road vehicles",
+        "Jaguar Land Rover"
+      ],
+      [
+        "Discovery family SUVs",
+        "Jaguar Land Rover"
+      ],
+      [
+        "Jaguar luxury cars",
+        "Jaguar Land Rover"
+      ]
+    ],
+    "sources": [
+      [
+        "Tata Motors Passenger Vehicles integrated annual report 2025-26 (copy filed with NSE)",
+        "https://nsearchives.nseindia.com/annual_reports/AR_29395_TMPV_2025_2026_A_21445169_15062026215933.pdf"
+      ]
+    ],
+    "productSource": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b37e4ca4-826d-4b6c-b250-fcdf423e6bc4.pdf",
+    "aliases": [
+      "Tata Motors Passenger Vehicles Limited",
+      "Tata Motors Passenger Vehicles Ltd",
+      "Tata Motors Passenger Vehicles Ltd.",
+      "TMPVL",
+      "Jaguar Land Rover"
+    ],
+    "productNote": "Model families named in the 2025–26 integrated annual report. This company (formerly Tata Motors Limited) holds the passenger-vehicle business, including Jaguar Land Rover; the trucks and buses business moved to a separate listed company, Tata Motors Limited, on 1 October 2025 and is not covered here. The report’s photographs are advertising images, so pictures are original illustrations.",
+    "checked": "14 November 2026",
+    "reviewed": "14 November 2026"
+  },
+  "offerings": [
+    {
+      "name": "Tata SUVs",
+      "category": "Nexon, Punch, Harrier, Safari, Sierra and Curvv",
+      "image": "assets/products/tata-motors-passenger-vehicles-tata-suvs.svg",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b37e4ca4-826d-4b6c-b250-fcdf423e6bc4.pdf",
+      "kind": "illustration",
+      "alt": "A sport utility car — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Tata hatchbacks and sedans",
+      "category": "Tiago, Tigor and Altroz",
+      "image": "assets/products/tata-motors-passenger-vehicles-tata-hatchbacks-and-sedans.svg",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b37e4ca4-826d-4b6c-b250-fcdf423e6bc4.pdf",
+      "kind": "illustration",
+      "alt": "A small car — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Tata electric cars",
+      "category": "Punch.ev, Nexon.ev, Harrier.ev and others",
+      "image": "assets/products/tata-motors-passenger-vehicles-tata-electric-cars.svg",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b37e4ca4-826d-4b6c-b250-fcdf423e6bc4.pdf",
+      "kind": "illustration",
+      "alt": "A lightning bolt — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Tata CNG cars",
+      "category": "Cars that run on compressed natural gas",
+      "image": "assets/products/tata-motors-passenger-vehicles-tata-cng-cars.svg",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b37e4ca4-826d-4b6c-b250-fcdf423e6bc4.pdf",
+      "kind": "illustration",
+      "alt": "A gas cylinder with a valve and a fuel nozzle — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Range Rover",
+      "category": "Luxury SUVs from the Jaguar Land Rover group",
+      "image": "assets/products/tata-motors-passenger-vehicles-range-rover.svg",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b37e4ca4-826d-4b6c-b250-fcdf423e6bc4.pdf",
+      "kind": "illustration",
+      "alt": "A luxury sport utility car with roof rails — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Defender",
+      "category": "Rugged off-road vehicles",
+      "image": "assets/products/tata-motors-passenger-vehicles-defender.svg",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b37e4ca4-826d-4b6c-b250-fcdf423e6bc4.pdf",
+      "kind": "illustration",
+      "alt": "A boxy off-road vehicle with a spare wheel on the back — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Discovery",
+      "category": "Family SUVs for travel and exploring",
+      "image": "assets/products/tata-motors-passenger-vehicles-discovery.svg",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b37e4ca4-826d-4b6c-b250-fcdf423e6bc4.pdf",
+      "kind": "illustration",
+      "alt": "A family sport utility car with a stepped roof — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Jaguar",
+      "category": "Luxury cars, with a new electric model planned",
+      "image": "assets/products/tata-motors-passenger-vehicles-jaguar.svg",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b37e4ca4-826d-4b6c-b250-fcdf423e6bc4.pdf",
+      "kind": "illustration",
+      "alt": "A low sleek sports car — conceptual illustration; not a photograph"
+    }
+  ]
+}
