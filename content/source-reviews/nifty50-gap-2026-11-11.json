@@ -9,11 +9,12 @@
     "coveredBefore": 22,
     "missingBefore": 28,
     "addedInBatch1": 4,
-    "stillMissing": 4,
+    "stillMissing": 0,
     "addedInBatch2": 5,
     "addedInBatch3": 5,
     "addedInBatch4": 5,
-    "addedInBatch5": 5
+    "addedInBatch5": 5,
+    "addedInBatch6": 4
   },
   "specialCases": [
     "Tata Motors split in 2025. This constituent is the passenger-vehicle company (cars, electric cars and Jaguar Land Rover); it kept the old Tata Motors ISIN and was renamed Tata Motors Passenger Vehicles. The separately listed commercial-vehicle company (trucks and buses) is not in NIFTY 50.",
@@ -334,14 +335,16 @@
       "ticker": "SBILIFE",
       "industry": "Financial Services",
       "isin": "INE123W01016",
-      "status": "missing"
+      "status": "missing before; added in batch 6",
+      "id": "sbi-life"
     },
     {
       "name": "Shriram Finance Ltd.",
       "ticker": "SHRIRAMFIN",
       "industry": "Financial Services",
       "isin": "INE721A01047",
-      "status": "missing"
+      "status": "missing before; added in batch 6",
+      "id": "shriram-finance"
     },
     {
       "name": "State Bank of India",
@@ -380,8 +383,9 @@
       "ticker": "TMPV",
       "industry": "Automobile and Auto Components",
       "isin": "INE155A01022",
-      "status": "missing",
-      "note": "Tata Motors split in 2025. This constituent is the passenger-vehicle company (cars, electric cars and Jaguar Land Rover); it kept the old Tata Motors ISIN and was renamed Tata Motors Passenger Vehicles. The separately listed commercial-vehicle company (trucks and buses) is not in NIFTY 50."
+      "status": "missing before; added in batch 6",
+      "note": "Tata Motors split in 2025. This constituent is the passenger-vehicle company (cars, electric cars and Jaguar Land Rover); it kept the old Tata Motors ISIN and was renamed Tata Motors Passenger Vehicles. The separately listed commercial-vehicle company (trucks and buses) is not in NIFTY 50.",
+      "id": "tata-motors-passenger-vehicles"
     },
     {
       "name": "Tata Steel Ltd.",
@@ -396,7 +400,8 @@
       "ticker": "TECHM",
       "industry": "Information Technology",
       "isin": "INE669C01036",
-      "status": "missing"
+      "status": "missing before; added in batch 6",
+      "id": "tech-mahindra"
     },
     {
       "name": "Titan Company Ltd.",

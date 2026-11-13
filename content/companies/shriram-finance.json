@@ -1,0 +1,129 @@
+{
+  "order": 68,
+  "company": {
+    "id": "shriram-finance",
+    "name": "Shriram Finance",
+    "ticker": "SHRIRAMFIN",
+    "sector": "Banking",
+    "initial": "S",
+    "color": "#c2410c",
+    "bg": "#fdf0e8",
+    "tag": "Lends to truck owners, small businesses and farmers, mostly against vehicles and equipment",
+    "products": [
+      [
+        "Commercial vehicle loans (trucks and buses)",
+        "Vehicles"
+      ],
+      [
+        "Passenger vehicle loans",
+        "Vehicles"
+      ],
+      [
+        "Construction equipment loans",
+        "Equipment"
+      ],
+      [
+        "Tractor and farm equipment loans",
+        "Equipment"
+      ],
+      [
+        "Two-wheeler loans",
+        "Vehicles"
+      ],
+      [
+        "MSME (small business) loans",
+        "Business"
+      ],
+      [
+        "Gold loans",
+        "Personal"
+      ],
+      [
+        "Personal loans",
+        "Personal"
+      ]
+    ],
+    "sources": [
+      [
+        "Shriram Finance consolidated results, year ended March 2026",
+        "https://cdn.shriramfinance.in/sfl-kalam/files/2026-04/SFL_Quarterly-Results-Consolidated-March-2026.pdf"
+      ]
+    ],
+    "productSource": "https://cdn.shriramfinance.in/sfl-kalam/files/2026-06/Annual-Report-2025-26.pdf",
+    "aliases": [
+      "Shriram Finance Limited",
+      "Shriram Finance Ltd",
+      "Shriram Finance Ltd.",
+      "Shriram Transport Finance"
+    ],
+    "productNote": "Loan types named in the “Product Range” pages of Shriram Finance’s 2025–26 annual report. The report’s photographs are customer stories and advertising scenes, so pictures are original illustrations. Shriram Finance is not related to other listed companies that share the Shriram name.",
+    "checked": "14 November 2026",
+    "reviewed": "14 November 2026"
+  },
+  "offerings": [
+    {
+      "name": "Commercial vehicle loans",
+      "category": "Loans to buy trucks and buses, new or used",
+      "image": "assets/products/shriram-finance-commercial-vehicle-loans.svg",
+      "url": "https://cdn.shriramfinance.in/sfl-kalam/files/2026-06/Annual-Report-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "A truck — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Passenger vehicle loans",
+      "category": "Loans for new and used cars",
+      "image": "assets/products/shriram-finance-passenger-vehicle-loans.svg",
+      "url": "https://cdn.shriramfinance.in/sfl-kalam/files/2026-06/Annual-Report-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "A car — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Construction equipment loans",
+      "category": "Loans for diggers, loaders and similar machines",
+      "image": "assets/products/shriram-finance-construction-equipment-loans.svg",
+      "url": "https://cdn.shriramfinance.in/sfl-kalam/files/2026-06/Annual-Report-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "A crane — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Tractor and farm equipment loans",
+      "category": "Loans for farmers to buy tractors and farm machines",
+      "image": "assets/products/shriram-finance-tractor-and-farm-equipment-loans.svg",
+      "url": "https://cdn.shriramfinance.in/sfl-kalam/files/2026-06/Annual-Report-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "A tractor — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Two-wheeler loans",
+      "category": "Loans for scooters and motorcycles",
+      "image": "assets/products/shriram-finance-two-wheeler-loans.svg",
+      "url": "https://cdn.shriramfinance.in/sfl-kalam/files/2026-06/Annual-Report-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "A scooter — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Business loans for small firms",
+      "category": "Secured and unsecured loans to small businesses",
+      "image": "assets/products/shriram-finance-business-loans-for-small-firms.svg",
+      "url": "https://cdn.shriramfinance.in/sfl-kalam/files/2026-06/Annual-Report-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "A shop front — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Gold loans",
+      "category": "Cash lent against gold jewellery kept as security",
+      "image": "assets/products/shriram-finance-gold-loans.svg",
+      "url": "https://cdn.shriramfinance.in/sfl-kalam/files/2026-06/Annual-Report-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "A pile of gold bars — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Personal loans",
+      "category": "Loans to individuals for personal needs",
+      "image": "assets/products/shriram-finance-personal-loans.svg",
+      "url": "https://cdn.shriramfinance.in/sfl-kalam/files/2026-06/Annual-Report-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "A person — conceptual illustration; not a photograph"
+    }
+  ]
+}

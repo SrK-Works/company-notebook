@@ -1,0 +1,201 @@
+{
+  "summary": "Shriram Finance lends money to truck owners, small businesses, farmers and individuals, mostly against vehicles, equipment and gold. It earns the interest borrowers pay, and pays interest on the money it borrows.",
+  "description": "Many truck drivers, shopkeepers and farmers cannot get a loan from a large bank because they have little paperwork to show. Shriram Finance lends to them. A typical customer buys a used truck, tractor or digger with a loan and repays it in instalments, with interest, while using the machine to earn a living. The company also lends for new and used cars, scooters, small business needs, personal needs and against gold jewellery. It is a non-banking financial company (NBFC): a lender regulated by the Reserve Bank of India (RBI) that cannot offer ordinary current accounts the way a bank does, but can take fixed deposits.",
+  "money": "Shriram Finance earns interest on the loans it gives, plus some fees. Its main cost is the interest it pays on the money it borrowed to lend onwards: from banks, from fixed deposits placed by the public, from bonds and from selling loans to other investors. Other costs are branch and staff costs, and losses when borrowers stop paying, which it must set aside money for. Interest due is not cash received: profit counts only once borrowers actually repay.",
+  "customers": "The report names its core customers as self-employed people, small business owners and first-generation earners, for example a transporter who owns a few trucks. Farmers borrow for tractors and farm machines, and builders for construction equipment. Customers pay the company a monthly instalment of interest and loan repayment. People who deposit money with the company are lenders to it, and receive interest.",
+  "drivers": "Mostly three things: how much it lends and at what interest rate, what it pays to borrow, and how many borrowers fail to repay. Freight activity, small-business demand and rural incomes all affect these.",
+  "groups": [
+    {
+      "title": "Vehicle loans",
+      "examples": "Loans for trucks and buses, cars and scooters, new or used.",
+      "explanation": "The customer buys a vehicle with the loan and repays in instalments. The report says the company is a leading financier of pre-owned commercial vehicles, meaning used trucks and buses."
+    },
+    {
+      "title": "Equipment loans",
+      "examples": "Loans for construction equipment and for tractors and farm machines.",
+      "explanation": "A builder or farmer buys a digger or tractor to earn income, and repays from the work it does. When building or farming slows, repayments can slow too."
+    },
+    {
+      "title": "Business loans for small firms",
+      "examples": "Secured and unsecured loans to micro, small and medium enterprises (MSME).",
+      "explanation": "The loans pay for stock, equipment or growth. A secured loan has an asset pledged as backup; an unsecured loan has none."
+    },
+    {
+      "title": "Gold loans",
+      "examples": "Cash lent against gold jewellery kept as security.",
+      "explanation": "The customer hands over gold, receives cash and repays with interest to get the gold back. As general explanation, not from the report, the lender keeps the gold until the loan is repaid."
+    },
+    {
+      "title": "Personal loans and deposits",
+      "examples": "Personal loans, and fixed deposits from the public.",
+      "explanation": "Personal loans are given for personal needs. Fixed deposits go the other way: the public lends money to the company for a fixed time and earns interest, and the company uses it to fund loans."
+    }
+  ],
+  "basics": [
+    {
+      "title": "How does a lender make money?",
+      "text": "It earns more interest from borrowers than it pays on the money it borrowed. The gap, after costs and losses, is the profit."
+    },
+    {
+      "title": "What is a loan against a vehicle?",
+      "text": "As general explanation, not from the report: the vehicle bought is usually pledged as security, so if the borrower stops paying the lender can take and sell it to recover money."
+    },
+    {
+      "title": "What is an NBFC?",
+      "text": "A non-banking financial company lends like a bank but is regulated separately by the RBI. It usually pays more to borrow than a bank does because it cannot raise money from ordinary savings accounts."
+    },
+    {
+      "title": "What does a bad loan mean?",
+      "text": "A loan whose borrower has stopped paying. The lender must set aside money to cover the likely loss, which reduces its profit."
+    }
+  ],
+  "steps": [
+    {
+      "title": "The company raises money",
+      "text": "It borrows from banks and other lenders, takes fixed deposits from the public, issues bonds, and sells some loans to investors."
+    },
+    {
+      "title": "A customer applies",
+      "text": "A branch assesses the person's income and cash flow, using credit reports and its own knowledge of the local trade, often with little paperwork."
+    },
+    {
+      "title": "The loan is paid out",
+      "text": "The money pays for a vehicle, machine or business need, or is lent against gold."
+    },
+    {
+      "title": "The customer repays in instalments",
+      "text": "Each month the borrower pays interest and part of the loan. Staff follow up on late payments in person."
+    },
+    {
+      "title": "Profit is what is left",
+      "text": "Interest received, less interest paid, running costs and money set aside for loans that go bad."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "A used-vehicle specialist",
+      "text": "The report calls the company the largest financier of pre-owned vehicles. It is less involved in financing new vehicles, which the report lists as a weakness because it may miss growth when new-vehicle sales boom."
+    },
+    {
+      "title": "A new owner has joined",
+      "text": "In April 2026 a Japanese bank (MUFG Bank), part of a global financial group, bought a 20% stake. The report says credit rating agencies then upgraded the company's ratings, which can lower its cost of borrowing."
+    },
+    {
+      "title": "A merged group",
+      "text": "The company was created in 2022-23 when Shriram City Union Finance and Shriram Capital were merged into Shriram Transport Finance, which took the name Shriram Finance. In 2024-25 its board approved the sale of its housing finance subsidiary to Warburg Pincus, an investment firm."
+    }
+  ],
+  "watch": [
+    [
+      "Are borrowers repaying?",
+      "A lender's profit disappears if many borrowers stop paying, especially small borrowers whose income is uneven.",
+      "Look in the annual report for the share of loans that have gone bad and the money set aside for losses, and compare several years."
+    ],
+    [
+      "What does it cost to borrow?",
+      "As an NBFC it generally pays more to borrow than a bank does, so its interest margin depends on cheap funding.",
+      "Compare the interest earned on loans with the interest paid on borrowings, and note the mix of bank loans, deposits and bonds in the funding table."
+    ],
+    [
+      "How cyclical is the vehicle business?",
+      "A meaningful part of the loan book depends on commercial vehicles, whose owners earn less when freight slows.",
+      "Check the split of loans by type in the product pages of the annual report, and see which types are growing and which are shrinking."
+    ],
+    [
+      "How strong is the capital buffer and cash cushion?",
+      "A lender must hold capital and cash to absorb losses and repay its own lenders on time.",
+      "Look at the capital adequacy ratio and liquidity coverage in the highlights and the risk section, and compare with the regulator's minimums."
+    ],
+    [
+      "How will the new Japanese shareholder change things?",
+      "A large investor can lower funding costs and raise capital, but can also change plans.",
+      "Read the Partnership Update and the directors' report for what the company says it will do with the new capital."
+    ]
+  ],
+  "risks": [
+    [
+      "Borrowers stop repaying",
+      "The report names credit risk, the possibility of borrowers failing to repay, as inherent to retail lending. In softer times, small borrowers in income-sensitive trades may fall behind, and the company must set aside money for losses."
+    ],
+    [
+      "Rising borrowing costs",
+      "The report lists interest rate movement as a threat: if its cost of borrowing rises faster than the interest it charges, the gap that makes up its profit shrinks."
+    ],
+    [
+      "Rule changes by the RBI",
+      "The report says changes in RBI norms on provisioning, capital or compliance can add complexity and cost."
+    ],
+    [
+      "Competition and a slower economy",
+      "Banks, other lenders and digital lenders compete on price. The report also names slower freight activity, small-business demand and rural incomes as threats to lending and repayment."
+    ]
+  ],
+  "context": [
+    "April 2026: a Japanese bank becomes a shareholder",
+    "The report says a Japanese bank (MUFG Bank), part of a global financial group, invested for a 20% stake on 8 April 2026, and that credit rating agencies upgraded the company's ratings after the investment."
+  ],
+  "sources": [
+    [
+      "Shriram Finance annual report 2025-26",
+      "https://cdn.shriramfinance.in/sfl-kalam/files/2026-06/Annual-Report-2025-26.pdf"
+    ],
+    [
+      "NSE Indices Limited, NIFTY 50 constituent list (Shriram Finance, symbol SHRIRAMFIN)",
+      "https://www.niftyindices.com/IndexConstituent/ind_nifty50list.csv"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "Loans outstanding, interest income, profit and bad-loan figures are pending verification. The verified table will say whether each is standalone or consolidated and how profit is defined."
+    }
+  ],
+  "stepsTitle": "From a loan to repayment",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "It lends to truck owners, farmers, small businesses and individuals, mostly against vehicles, equipment and gold."
+    },
+    {
+      "title": "Who pays",
+      "text": "Borrowers pay monthly instalments of interest and loan repayment."
+    },
+    {
+      "title": "How it earns",
+      "text": "From the interest borrowers pay, less the interest it pays on the money it borrows."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Interest on deposits and borrowings, branch and staff costs, and money set aside for loans that go bad."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Specialist in used vehicles",
+      "text": "The report describes decades of local knowledge and a wide branch network in towns and villages, which helps it judge borrowers that big banks avoid."
+    },
+    {
+      "title": "Many kinds of loans",
+      "text": "Vehicles, equipment, small-business, gold and personal loans mean it does not depend on a single type of customer."
+    },
+    {
+      "title": "Room to grow in smaller places",
+      "text": "The report points to rising demand for loans in rural and small-town India and to small businesses needing working capital and equipment finance."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Higher cost of borrowing",
+      "text": "The report says that as an NBFC the company generally pays more than banks to raise money, which can squeeze its profit margin."
+    },
+    {
+      "title": "Tied to vehicle demand",
+      "text": "A meaningful part of the loan book depends on commercial vehicles, and the report says this can move with freight activity and the wider economy."
+    },
+    {
+      "title": "Small payments need constant follow-up",
+      "text": "Many small loans mean staff must collect repayments in person, and the report says customers' cash flow can be uneven."
+    }
+  ],
+  "checked": "14 November 2026"
+}

@@ -1,0 +1,201 @@
+{
+  "summary": "SBI Life sells life insurance and long-term savings and retirement plans. Customers pay premiums; the company promises a payout on death or at the end of a plan, and invests the premiums in between.",
+  "description": "Life insurance is a promise. You pay a regular amount, called a premium, and if the insured person dies during the plan, your family receives a lump sum. Other plans work like long-term savings: you pay for years and later receive a set amount, or a regular income in retirement. SBI Life sells such plans to individuals, and to groups such as employees of one employer or borrowers of one lender. Most plans are sold through State Bank of India (SBI) branches, which are the main sales channel, and through agents. Between collecting premiums and paying out, the company invests the money.",
+  "money": "SBI Life collects premiums and earns returns on the money it invests. From these it pays claims and maturity amounts, commission to the agents and banks that sell its plans, running costs such as staff and technology, and it sets money aside in reserves, which are funds kept to pay future claims. Some plans share their surplus with policyholders as bonuses. Premiums received in a year are not profit, because most of that money is held for future payouts and the rest goes on costs.",
+  "customers": "Individuals pay premiums to protect their family against their death, or to save for goals such as retirement. Employers pay for group plans that cover their staff, and lenders pay for cover on their borrowers' loans. The person who receives the money when a claim is made is usually the family, not the person who paid.",
+  "drivers": "Mostly three things: how many new policies it sells, mainly through SBI branches and agents, and whether customers keep paying for years; how its investments perform; and whether claims match the company's assumptions.",
+  "groups": [
+    {
+      "title": "Protection plans",
+      "examples": "Cover that pays a lump sum to the family if the insured person dies.",
+      "explanation": "The customer pays a premium and receives nothing if nothing happens. The cover is for peace of mind about the family's income. Some plans offer lower premiums to non-smokers."
+    },
+    {
+      "title": "Savings plans",
+      "examples": "Plans that combine cover with guaranteed payouts on some products.",
+      "explanation": "The customer pays for a set number of years and receives amounts promised in the policy, whatever the markets do. Some plans pay money back in stages."
+    },
+    {
+      "title": "Wealth plans (unit-linked)",
+      "examples": "Unit-linked insurance plans, often called ULIPs: insurance with money invested in market funds.",
+      "explanation": "The value of the policy rises and falls with the market value of the fund the customer chose. The customer, not the insurer, carries the investment risk."
+    },
+    {
+      "title": "Retirement and annuity plans",
+      "examples": "Plans that turn savings into a lifetime income.",
+      "explanation": "An annuity is a regular payment, usually monthly, for the rest of a person's life. The customer pays in during working years and receives the income after retiring."
+    },
+    {
+      "title": "Group plans",
+      "examples": "Group term cover, cover on loan borrowers, and plans that help employers fund staff retirement benefits.",
+      "explanation": "One contract covers many people. A lender, for example, can protect its borrowers so that an outstanding loan is paid if a borrower dies."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is a premium?",
+      "text": "The payment a customer makes for the insurance, once or regularly. The insurer pools many customers' premiums and uses them to pay the claims of those who need them."
+    },
+    {
+      "title": "What does it mean when a policy lapses?",
+      "text": "A customer stops paying premiums and the policy ends. Insurers watch this closely, because they spend money to sell a policy and only earn it back if customers keep paying. The share of policies still paid after a period is called persistency."
+    },
+    {
+      "title": "Why do insurers keep large reserves?",
+      "text": "Money received today is mainly meant for payouts years later. An insurer must keep reserves for future claims, and enough extra capital as a buffer, called the solvency margin."
+    },
+    {
+      "title": "Who regulates insurers?",
+      "text": "The Insurance Regulatory and Development Authority of India (IRDAI), which sets rules on products, reserves, selling and investments."
+    }
+  ],
+  "steps": [
+    {
+      "title": "A plan is sold",
+      "text": "A bank branch, an agent or another partner explains a plan and the customer applies. The insurer checks details such as age and health."
+    },
+    {
+      "title": "Premiums come in",
+      "text": "The customer pays once or regularly. Commission and checking costs on a new policy are mostly paid early."
+    },
+    {
+      "title": "The insurer invests and sets aside reserves",
+      "text": "Premiums are invested, mostly in bonds, which are loans to governments and companies. Part is put into reserves to pay future claims."
+    },
+    {
+      "title": "Claims and maturities are paid",
+      "text": "When the insured person dies, or the plan reaches its end, the insurer pays the amount in the policy."
+    },
+    {
+      "title": "Profit is what is left",
+      "text": "After claims, commissions, running costs and reserves, the surplus is shared with policyholders on some plans, and the rest belongs to shareholders. Cash arrives long before payouts leave."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "A bank is both owner and seller",
+      "text": "State Bank of India holds more than half of SBI Life, and its branches and rural-bank partners sell most of the new premium. SBI Life is a separate listed company: its premiums, claims and profit are its own, not the bank's."
+    },
+    {
+      "title": "A very large agent network",
+      "text": "Besides the bank, the company lists a large force of individual agents, brokers and other corporate agents. Agents give personal advice, while bank branches bring customers who already trust the bank."
+    },
+    {
+      "title": "Mostly safe investments",
+      "text": "The report says most of the invested money sits in debt, which means bonds and similar loans, and nearly all of that is government-backed or top-rated. This lowers investment risk for plans where the insurer carries it."
+    }
+  ],
+  "watch": [
+    [
+      "How long do customers keep paying?",
+      "Policies earn profit only if premiums keep coming, so frequent lapses make the business less valuable.",
+      "Look in the annual report for persistency, the share of policies still paid after 13 months and 61 months, and compare several years."
+    ],
+    [
+      "How much does the business depend on SBI's branches?",
+      "One large partner is a strength, but changes in that relationship would change how many policies are sold.",
+      "Read the distribution section and compare the share of new business from the bank, agents and other channels over time."
+    ],
+    [
+      "Which kinds of plans are growing?",
+      "Protection, savings, wealth and retirement plans earn differently and carry different risks.",
+      "Compare the split of new business across plan types in the annual report, year by year, and note which types grow fastest."
+    ],
+    [
+      "How are claims and costs behaving?",
+      "If claims or running costs rise faster than premiums, profit shrinks.",
+      "Compare benefits paid, commission and operating costs with premiums collected over several years in the financial statements."
+    ],
+    [
+      "How strong is the capital buffer?",
+      "Regulators require insurers to hold more capital than their liabilities, so growth needs capital.",
+      "Check the solvency margin in the annual report and compare it with the minimum the regulator requires."
+    ]
+  ],
+  "risks": [
+    [
+      "Weaker ties with the main bank partner",
+      "The report lists distribution risk among its main risks. Because most new premium comes through one bank group, a change in that relationship would slow new business."
+    ],
+    [
+      "A mix of plans that earns less",
+      "The report names product mix risk. If customers prefer plans that earn the company less, or guaranteed plans that tie up more capital, profit from each sale falls."
+    ],
+    [
+      "Insurance and investment risks",
+      "The company names insurance risk, such as more deaths or lapses than expected, and investment risk, such as falling markets or defaults on bonds, among its six risk categories."
+    ],
+    [
+      "Data and technology failures",
+      "Almost all policies are sourced and serviced digitally, and the report lists cybersecurity and data privacy as risks. A breach or outage could hurt customers and reputation."
+    ]
+  ],
+  "context": [
+    "2025-26: new insurance law",
+    "The report describes changes in 2025-26 under the Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Act, 2025. They include raising the limit on foreign ownership of insurers to 100% and extending the period in which a buyer can cancel a new policy without penalty, called the free-look period, from 15 to 30 days."
+  ],
+  "sources": [
+    [
+      "SBI Life integrated annual report 2025-26",
+      "https://www.sbilife.co.in/documents/d/annual-reports-fy-2025-26/microsites_annualreports26_pdf_sbi-life-integrated-annual-report-fy2026"
+    ],
+    [
+      "NSE Indices Limited, NIFTY 50 constituent list (SBI Life, symbol SBILIFE)",
+      "https://www.niftyindices.com/IndexConstituent/ind_nifty50list.csv"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "Premium, profit and embedded value figures are pending verification. The verified table will say whether each is standalone, how profit is defined, and how premium differs from revenue for an insurer."
+    }
+  ],
+  "stepsTitle": "From a premium to a payout",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "It sells life insurance, savings and retirement plans to individuals and groups, and invests the premiums it collects."
+    },
+    {
+      "title": "Who pays",
+      "text": "Individuals pay premiums for protection and savings. Employers and lenders pay for group cover."
+    },
+    {
+      "title": "How it earns",
+      "text": "Mainly from premiums collected and from returns on investing them. On some plans it keeps a share of the surplus."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Claims and maturity payouts, commission to banks and agents, staff and technology costs, and money set aside for future claims."
+    }
+  ],
+  "helps": [
+    {
+      "title": "A trusted bank sells the plans",
+      "text": "The company's biggest sales channel is the branch network of its majority owner, which brings many customers who already deal with the bank."
+    },
+    {
+      "title": "Rising interest in protection and retirement",
+      "text": "The report says households are moving from traditional savings towards market-linked products, and describes demand for protection, savings and retirement cover as growing with incomes."
+    },
+    {
+      "title": "Long contracts bring steady premiums",
+      "text": "As general explanation, not from the report: because many policies run for years, renewal premiums from existing customers arrive without new selling costs."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Heavy competition",
+      "text": "The report says private life insurers have often grown faster than public ones, so competition for customers is strong and winning them needs spending on distribution."
+    },
+    {
+      "title": "Profit appears slowly",
+      "text": "As general explanation, not from the report: the costs of selling a policy come in the first year, while profit builds over many years of premiums, so rapid growth can reduce short-term profit."
+    },
+    {
+      "title": "Customers must stay for years",
+      "text": "As general explanation, not from the report: a policy earns its keep only if the customer keeps paying, so lapses reduce the profit expected from the sale."
+    }
+  ],
+  "checked": "14 November 2026"
+}
