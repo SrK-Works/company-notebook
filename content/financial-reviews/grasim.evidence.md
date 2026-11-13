@@ -43,6 +43,7 @@ Note 4.6.5 (PDF page 168): "No Single customer represents 10% or more of the Gro
 | (i) New Labour Codes: additional gratuity and compensated absences, classified as past service cost | (177.49) |
 | (ii) Impairment of investment and provision for estimated exposure in Birla Advanced Knits Private Limited | (13.50) |
 | (iii) Impairment of plant and equipment and buildings at the Chemical Vilayat facility (persistent equipment failures and corrosion) | (47.86) |
+| (iv) | Not listed in the filing's note (no row (iv)); the listed items still sum to the total | – |
 | (v) Provision for impairment in investment/asset held for sale by UltraTech Cement Limited | (50.07) |
 | (vi) Impairment of investment and provision for estimated exposure in AV Terrace Bay Inc | (34.00) |
 | Total | (322.92) |
