@@ -1,5 +1,5 @@
 {
-  "summary": "Tech Mahindra is an IT services company. Large businesses, especially phone and network companies, pay it to build, run and fix their software, computer systems and networks, using mostly engineers in India.",
+  "summary": "Tech Mahindra is an IT services company. Large businesses, especially phone and network companies, pay it to build, run and fix their software, computer systems and networks, using engineers in India and other countries.",
   "description": "Every large company runs on software and networks: customer accounts, billing, phone networks, factory machines, websites. Most do not want to build and look after all of it themselves. Tech Mahindra's engineers do that work for them, mainly from offices and development centres in India and in many other countries. Examples are building new software, moving a client's systems to the cloud (rented computers run by others), running a client's back-office tasks such as customer support, and protecting systems from attack. Industries it serves include telecommunications, which the report says is a significant share of revenue, manufacturing, banking and finance, healthcare and technology firms. It belongs to the Mahindra Group, which also owns other, separate listed companies.",
   "money": "Clients pay Tech Mahindra for people's time and for finished work. Some contracts pay a fixed price for a project, and the report says it recognises the revenue as the work progresses. Its biggest cost is its people: salaries for engineers, plus offices and travel, and fees to outside contractors. Profit is the gap between what clients pay and these costs. A bill sent to a client is not cash received: money arrives later, so the report tracks how fast clients pay.",
   "customers": "The clients are large companies and organisations around the world, such as phone and network operators, manufacturers, banks and hospitals. They pay for specific projects or ongoing running of a system. The report says the company adds new large clients and grows its biggest accounts, and that it depends heavily on telecom clients.",
@@ -150,7 +150,7 @@
   "quick": [
     {
       "title": "What it does",
-      "text": "It builds, runs and fixes software, computer systems and networks for large companies, mainly with engineers in India."
+      "text": "It builds, runs and fixes software, computer systems and networks for large companies, with engineers in India and other countries."
     },
     {
       "title": "Who pays",

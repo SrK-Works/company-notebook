@@ -54,8 +54,6 @@
       "Tata Motors Passenger Vehicles Limited",
       "Tata Motors Passenger Vehicles Ltd",
       "Tata Motors Passenger Vehicles Ltd.",
-      "Tata Motors Limited",
-      "Tata Motors",
       "TMPVL",
       "Jaguar Land Rover"
     ],
@@ -94,7 +92,7 @@
       "image": "assets/products/tata-motors-passenger-vehicles-tata-cng-cars.svg",
       "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b37e4ca4-826d-4b6c-b250-fcdf423e6bc4.pdf",
       "kind": "illustration",
-      "alt": "A cog wheel — conceptual illustration; not a photograph"
+      "alt": "A gas cylinder with a valve and a fuel nozzle — conceptual illustration; not a photograph"
     },
     {
       "name": "Range Rover",
@@ -102,7 +100,7 @@
       "image": "assets/products/tata-motors-passenger-vehicles-range-rover.svg",
       "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b37e4ca4-826d-4b6c-b250-fcdf423e6bc4.pdf",
       "kind": "illustration",
-      "alt": "A steering wheel — conceptual illustration; not a photograph"
+      "alt": "A luxury sport utility car with roof rails — conceptual illustration; not a photograph"
     },
     {
       "name": "Defender",
@@ -110,7 +108,7 @@
       "image": "assets/products/tata-motors-passenger-vehicles-defender.svg",
       "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b37e4ca4-826d-4b6c-b250-fcdf423e6bc4.pdf",
       "kind": "illustration",
-      "alt": "A sport utility car — conceptual illustration; not a photograph"
+      "alt": "A boxy off-road vehicle with a spare wheel on the back — conceptual illustration; not a photograph"
     },
     {
       "name": "Discovery",
@@ -118,7 +116,7 @@
       "image": "assets/products/tata-motors-passenger-vehicles-discovery.svg",
       "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b37e4ca4-826d-4b6c-b250-fcdf423e6bc4.pdf",
       "kind": "illustration",
-      "alt": "A globe — conceptual illustration; not a photograph"
+      "alt": "A family sport utility car with a stepped roof — conceptual illustration; not a photograph"
     },
     {
       "name": "Jaguar",
@@ -126,7 +124,7 @@
       "image": "assets/products/tata-motors-passenger-vehicles-jaguar.svg",
       "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b37e4ca4-826d-4b6c-b250-fcdf423e6bc4.pdf",
       "kind": "illustration",
-      "alt": "A car — conceptual illustration; not a photograph"
+      "alt": "A low sleek sports car — conceptual illustration; not a photograph"
     }
   ]
 }
