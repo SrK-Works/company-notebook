@@ -1,0 +1,24 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated · continuing operations (passenger vehicles and Jaguar Land Rover)",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited consolidated financial statements (integrated annual report)",
+  "checked": "14 November 2026",
+  "coverage": "Reported segments of continuing operations · segment revenue before inter-segment amounts · the commercial vehicles business, demerged on 1 October 2025, is shown separately as discontinued and is not in these rows",
+  "profitMetric": "Segment result (earnings before other income, finance costs, foreign exchange, exceptional items and tax)",
+  "definition": "Each segment’s earnings before other income (excluding incentives), finance costs, foreign exchange gain or loss, exceptional items and tax. It is not profit after tax.",
+  "rows": [
+    { "name": "Tata and other brand vehicles – passenger vehicles", "revenue": 58465.0, "profit": 825.0 },
+    { "name": "Jaguar Land Rover", "revenue": 273303.0, "profit": 2680.0 },
+    { "name": "Others (information technology services)", "revenue": 5513.0, "profit": 721.0 }
+  ],
+  "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b37e4ca4-826d-4b6c-b250-fcdf423e6bc4.pdf",
+  "location": "Integrated Annual Report 2025-26, consolidated financial statements: note 44 segment reporting (PDF page 422, printed page 417), consolidated statement of profit and loss (PDF pages 332–333, printed pages 327–328), note 39 exceptional items (PDF page 401, printed page 396) and note 50 discontinued operation (PDF pages 436–437, printed pages 431–432)",
+  "notes": "These figures cover only the continuing business: Tata and other brand passenger vehicles (cars, including electric vehicles) in India, Jaguar Land Rover (JLR, in pounds sterling, translated into rupees), and a small IT services business. The commercial vehicles business (trucks and buses) was demerged into a separate company, Tata Motors Limited, with effect from 1 October 2025 (appointed date 1 July 2025) and is reported as a discontinued operation. Segment revenue of ₹337,281 crore adds ₹154 crore of unallocable passenger-vehicle revenue, then removes ₹53 crore of sales between automotive segments and ₹1,800 crore of sales to other segments, leaving revenue from operations of ₹335,582 crore. Segment results of ₹4,226 crore, less unallocable −₹313 crore, automotive eliminations −₹12 crore and other eliminations −₹72 crore, give ₹3,829 crore. Other income (excluding incentives) of ₹2,185 crore, less finance costs ₹2,827 crore, foreign exchange loss ₹1,292 crore and an exceptional loss of ₹4,142 crore, plus a ₹178 crore gain on preference shares measured at fair value and a ₹446 crore share of profit of equity-accounted companies, leaves a loss before tax from continuing operations of ₹1,623 crore. Tax is a credit of ₹246 crore (current ₹3,621 crore less deferred ₹3,867 crore), so the loss after tax from continuing operations is ₹1,377 crore. Exceptional items (note 39) are: ₹2,786 crore supplier claims and expenses from the cyber incident at JLR; ₹1,044 crore employee separation cost; ₹422 crore acquisition and demerger expenses; ₹239 crore one-time extra gratuity and leave pay from the new Labour Codes (₹159 crore plus ₹80 crore); less ₹109 crore reversal of restructuring cost and ₹240 crore gain on losing control of a subsidiary (Tata Motors Global Services Limited, now accounted as an equity-accounted investee). Profit for the year of ₹82,645 crore (₹82,390 crore to owners, ₹255 crore to minority holders) is not comparable: it includes ₹84,022 crore from discontinued operations, of which ₹82,616 crore is an accounting gain from the demerger. The filing says this gain is booked with an equal charge to retained earnings and has no impact on net worth. The filing gives no profit for any single car model or brand; the passenger-vehicle segment result includes ₹412 crore for electric vehicles (revenue ₹23,596 crore). No single-customer share of revenue was found.",
+  "insight": "Jaguar Land Rover brings in about four-fifths of revenue, but its segment result fell sharply; the filing links lower JLR revenue to production stoppages after a cyber incident, the sunset of the Jaguar range and US tariffs. The headline profit of ₹82,645 crore is mainly the paper gain on demerging commercial vehicles, not trading profit.",
+  "status": "segments",
+  "revenueTotal": 337281.0,
+  "revenueTotalLabel": "Sum of the three segments shown, before unallocable amounts and inter-segment eliminations",
+  "profitTotal": 4226.0,
+  "profitTotalLabel": "Sum of the three segment results shown"
+}
