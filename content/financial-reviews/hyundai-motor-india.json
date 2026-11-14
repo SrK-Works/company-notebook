@@ -1,0 +1,24 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited results filed with NSE and BSE, 8 May 2026",
+  "checked": "14 November 2026",
+  "coverage": "Whole-group totals · one operating segment",
+  "profitMetric": "Profit after tax",
+  "definition": "Profit for the year after all expenses and tax. It is not operating profit or cash flow.",
+  "rows": [
+    {
+      "name": "Hyundai Motor India · whole group",
+      "revenue": 70763.33,
+      "profit": 5431.52
+    }
+  ],
+  "source": "https://nsearchives.nseindia.com/corporate/HMILNSE_08052026151400_OutcomeHMIL.pdf",
+  "location": "Filing PDF page 12 (consolidated results, year ended 31-Mar-26 column) and PDF page 15 (consolidated segment table and notes); no printed page numbers. Headline figures cross-checked to the company press release, PDF page 2",
+  "notes": "Source figures are in ₹ million and were divided by 10. Revenue is total revenue from operations, which includes other operating revenue of ₹1,372.17 crore, and excludes other income of ₹949.04 crore. Profit is after tax of ₹1,811.54 crore (profit before tax ₹7,243.06 crore). Hyundai reports one operating segment (making and selling vehicles, engines and parts, with related after-sales, engineering and broking services), so its segment profit is the same ₹7,243.06 crore and it does not disclose profit by model or by domestic versus export sales. Two notes matter for profit: the cost of the new Labour Codes (wage and labour rules) is included in employee costs but the amount is not stated, and no provision is made for new end-of-life vehicle scrapping rules, because the company says the cost cannot yet be estimated.",
+  "insight": "Hyundai reports its car-making business as one segment, so these totals cannot show profit by model or between domestic and export sales. Its profit in a year can move with costs it has not yet been able to measure.",
+  "status": "totals",
+  "revenueTotal": 70763.33,
+  "profitTotal": 5431.52
+}
