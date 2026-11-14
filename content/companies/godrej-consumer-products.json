@@ -1,0 +1,101 @@
+{
+  "order": 82,
+  "company": {
+    "id": "godrej-consumer-products",
+    "name": "Godrej Consumer Products",
+    "ticker": "GODREJCP",
+    "sector": "Everyday essentials",
+    "initial": "G",
+    "color": "#c2255c",
+    "bg": "#fdeef4",
+    "tag": "Makes mosquito repellents, air fresheners, soaps, hair colour and other everyday home and personal care products",
+    "sources": [
+      [
+        "Godrej Consumer Products Limited investor page, annual reports",
+        "https://www.godrejlatam.com/investors/reports-and-financials/annual-reports"
+      ]
+    ],
+    "checked": "14 November 2026",
+    "reviewed": "14 November 2026",
+    "aliases": [
+      "Godrej Consumer Products Limited",
+      "Godrej Consumer Products Ltd",
+      "GCPL"
+    ],
+    "productSource": "https://www.godrejlatam.com/uploads/Our_Strategic_Pillars_7698c0c980.pdf"
+  },
+  "offerings": [
+    {
+      "name": "Liquid vaporisers",
+      "category": "Plug-in mosquito repellent (Goodknight)",
+      "image": "assets/products/godrej-consumer-liquid-vaporizer.svg",
+      "url": "https://www.goodknight.in/",
+      "kind": "illustration",
+      "alt": "Illustration of a plug-in liquid vaporiser with a bottle — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Insect sprays",
+      "category": "Spray against mosquitoes and insects (HIT)",
+      "image": "assets/products/godrej-consumer-insecticide-spray.svg",
+      "url": "https://www.godrejhit.com/",
+      "kind": "illustration",
+      "alt": "Illustration of a spray can — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Incense sticks",
+      "category": "Mosquito-repellent incense sticks (Goodknight agarbatti)",
+      "image": "assets/products/godrej-consumer-incense.svg",
+      "url": "https://www.goodknight.in/",
+      "kind": "illustration",
+      "alt": "Illustration of burning incense sticks in a holder — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Air fresheners",
+      "category": "Fresheners that scent a room (Aer)",
+      "image": "assets/products/godrej-consumer-air-freshener.svg",
+      "url": "https://www.godrejindiasaarc.com/brands",
+      "kind": "illustration",
+      "alt": "Illustration of a pouch air freshener with scent waves — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Soaps",
+      "category": "Bathing soap bars (Godrej No.1)",
+      "image": "assets/products/godrej-consumer-soap.svg",
+      "url": "https://www.godrejindiasaarc.com/brands",
+      "kind": "illustration",
+      "alt": "Illustration of a bar of soap with bubbles — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Foam body wash",
+      "category": "Foaming body wash in a pump bottle (Cinthol)",
+      "image": "assets/products/godrej-consumer-body-wash.svg",
+      "url": "https://cinthol.com/",
+      "kind": "illustration",
+      "alt": "Illustration of a pump bottle of body wash — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Hair colour",
+      "category": "Hair colour cream, powder and shampoo form (Godrej Expert)",
+      "image": "assets/products/godrej-consumer-hair-colour.svg",
+      "url": "https://www.godrejindiasaarc.com/brands",
+      "kind": "illustration",
+      "alt": "Illustration of a tube of hair colour — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Liquid detergent",
+      "category": "Liquid laundry detergent (Godrej Fab)",
+      "image": "assets/products/godrej-consumer-detergent.svg",
+      "url": "https://www.godrejlatam.com/uploads/Our_Strategic_Pillars_7698c0c980.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a bottle of liquid detergent — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Baby wipes",
+      "category": "Wet wipes sold in Indonesia",
+      "image": "assets/products/godrej-consumer-baby-wipes.svg",
+      "url": "https://www.godrejlatam.com/uploads/Boards_report_0844f0c5c9.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a pack of baby wipes — conceptual picture; not a photograph or the company’s own image"
+    }
+  ]
+}

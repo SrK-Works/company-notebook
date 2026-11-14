@@ -6741,6 +6741,96 @@
       "kind": "illustration",
       "alt": "Flow meters — conceptual illustration; not a photograph or product image",
       "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "godrej-consumer-products",
+      "name": "Liquid vaporisers",
+      "category": "Plug-in mosquito repellent (Goodknight)",
+      "image": "assets/products/godrej-consumer-liquid-vaporizer.svg",
+      "url": "https://www.goodknight.in/",
+      "kind": "illustration",
+      "alt": "Liquid vaporisers — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "godrej-consumer-products",
+      "name": "Insect sprays",
+      "category": "Spray against mosquitoes and insects (HIT)",
+      "image": "assets/products/godrej-consumer-insecticide-spray.svg",
+      "url": "https://www.godrejhit.com/",
+      "kind": "illustration",
+      "alt": "Insect sprays — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "godrej-consumer-products",
+      "name": "Incense sticks",
+      "category": "Mosquito-repellent incense sticks (Goodknight agarbatti)",
+      "image": "assets/products/godrej-consumer-incense.svg",
+      "url": "https://www.goodknight.in/",
+      "kind": "illustration",
+      "alt": "Incense sticks — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "godrej-consumer-products",
+      "name": "Air fresheners",
+      "category": "Fresheners that scent a room (Aer)",
+      "image": "assets/products/godrej-consumer-air-freshener.svg",
+      "url": "https://www.godrejindiasaarc.com/brands",
+      "kind": "illustration",
+      "alt": "Air fresheners — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "godrej-consumer-products",
+      "name": "Soaps",
+      "category": "Bathing soap bars (Godrej No.1)",
+      "image": "assets/products/godrej-consumer-soap.svg",
+      "url": "https://www.godrejindiasaarc.com/brands",
+      "kind": "illustration",
+      "alt": "Soaps — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "godrej-consumer-products",
+      "name": "Foam body wash",
+      "category": "Foaming body wash in a pump bottle (Cinthol)",
+      "image": "assets/products/godrej-consumer-body-wash.svg",
+      "url": "https://cinthol.com/",
+      "kind": "illustration",
+      "alt": "Foam body wash — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "godrej-consumer-products",
+      "name": "Hair colour",
+      "category": "Hair colour cream, powder and shampoo form (Godrej Expert)",
+      "image": "assets/products/godrej-consumer-hair-colour.svg",
+      "url": "https://www.godrejindiasaarc.com/brands",
+      "kind": "illustration",
+      "alt": "Hair colour — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "godrej-consumer-products",
+      "name": "Liquid detergent",
+      "category": "Liquid laundry detergent (Godrej Fab)",
+      "image": "assets/products/godrej-consumer-detergent.svg",
+      "url": "https://www.godrejlatam.com/uploads/Our_Strategic_Pillars_7698c0c980.pdf",
+      "kind": "illustration",
+      "alt": "Liquid detergent — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "godrej-consumer-products",
+      "name": "Baby wipes",
+      "category": "Wet wipes sold in Indonesia",
+      "image": "assets/products/godrej-consumer-baby-wipes.svg",
+      "url": "https://www.godrejlatam.com/uploads/Boards_report_0844f0c5c9.pdf",
+      "kind": "illustration",
+      "alt": "Baby wipes — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
     }
   ]
 }
