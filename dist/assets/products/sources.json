@@ -6191,6 +6191,86 @@
       "kind": "illustration",
       "alt": "Vehicle loans — conceptual illustration; not a photograph or product image",
       "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "dlf",
+      "name": "High-rise apartments",
+      "category": "Flats in tall residential towers",
+      "image": "assets/products/dlf-high-rise-apartments.svg",
+      "url": "https://dlf.in/pdf-copporate/July_11_Annual_Report.pdf",
+      "kind": "illustration",
+      "alt": "High-rise apartments — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "dlf",
+      "name": "Independent floors",
+      "category": "Low-rise homes with one floor per household",
+      "image": "assets/products/dlf-independent-floors.svg",
+      "url": "https://dlf.in/pdf-copporate/July_11_Annual_Report.pdf",
+      "kind": "illustration",
+      "alt": "Independent floors — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "dlf",
+      "name": "Plots",
+      "category": "Land sold in developed colonies",
+      "image": "assets/products/dlf-plots.svg",
+      "url": "https://dlf.in/pdf-copporate/July_11_Annual_Report.pdf",
+      "kind": "illustration",
+      "alt": "Plots — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "dlf",
+      "name": "Office buildings",
+      "category": "Offices rented to companies",
+      "image": "assets/products/dlf-office-buildings.svg",
+      "url": "https://dlf.in/pdf-copporate/July_11_Annual_Report.pdf",
+      "kind": "illustration",
+      "alt": "Office buildings — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "dlf",
+      "name": "Shopping malls",
+      "category": "Malls rented to shops",
+      "image": "assets/products/dlf-shopping-malls.svg",
+      "url": "https://dlf.in/pdf-copporate/July_11_Annual_Report.pdf",
+      "kind": "illustration",
+      "alt": "Shopping malls — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "dlf",
+      "name": "Shop-cum-offices",
+      "category": "Small units for shops and offices",
+      "image": "assets/products/dlf-shop-cum-offices.svg",
+      "url": "https://dlf.in/pdf-copporate/July_11_Annual_Report.pdf",
+      "kind": "illustration",
+      "alt": "Shop-cum-offices — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "dlf",
+      "name": "Hotels",
+      "category": "Hotels owned by DLF",
+      "image": "assets/products/dlf-hotels.svg",
+      "url": "https://dlf.in/pdf-copporate/July_11_Annual_Report.pdf",
+      "kind": "illustration",
+      "alt": "Hotels — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "dlf",
+      "name": "Clubs",
+      "category": "Clubs owned by DLF",
+      "image": "assets/products/dlf-clubs.svg",
+      "url": "https://dlf.in/pdf-copporate/July_11_Annual_Report.pdf",
+      "kind": "illustration",
+      "alt": "Clubs — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
     }
   ]
 }
