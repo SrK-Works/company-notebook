@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-14",
+  "batch": "sbilife-shriram",
+  "companies": {
+    "sbi-life": {
+      "sourcesRead": ["SBI Life integrated annual report 2025-26 (full text searched)"],
+      "verified": ["free-look period 15 to 30 days and FDI limit 100% (industry section)", "six risk categories (ERM section)", "SBI holds 55.33%", "bancassurance via SBI and regional rural banks 60.0% of APE", "62.0% of AUM in debt, 93.9% AAA or sovereign", "13th and 61st month persistency", "distribution, product mix, cyber and data privacy risks named", "private insurers grew faster than public"],
+      "changed": ["helps and hurts rewritten: the three 'general explanation, not from the report' items are now sourced from the persistency risk section (renewal premiums, higher acquisition cost when customers lapse)", "removed unsupported 'demand growing with incomes'", "risk 3 no longer repeats lapses; lists the other four risk categories", "investment mix given with the report's figures", "free-look period defined in context"],
+      "unverified": ["NBFC-style claims none; 'cash arrives long before payouts leave' and bonus sharing are general insurance mechanics, bonus policy exists in report but share of surplus not quoted"]
+    },
+    "shriram-finance": {
+      "sourcesRead": ["Shriram Finance annual report 2025-26 (full text searched)"],
+      "verified": ["MUFG 20% stake on a fully diluted basis, allotment 8 April 2026, board approval 19 December 2025", "ratings upgrades (CARE, S&P) and positive watch/outlook (others)", "largest pre-owned vehicle financier, weaknesses and threats in SWOT", "2022-23 merger", "credit risk definition"],
+      "corrected": ["housing finance subsidiary sale was completed on 11 December 2024 (notes to accounts), not only approved; lesson now says so", "20% stake qualified as fully diluted", "rating wording: not all agencies upgraded, some put on positive watch", "removed 'borrowers that big banks avoid' (unsupported)", "removed savings-account claim from NBFC basics; now cites the report's higher cost of funds", "removed duplicated freight point from risks"],
+      "unverified": ["gold loan and vehicle loan security (lender keeps gold / vehicle pledged) is general explanation, labelled as such; report's gold loan page says 'no collateral required', which looks like a template error and was not relied on", "Partnership Update document named in watch list not located"]
+    },
+    "indigo": {
+      "changed": ["split the 56-word sentence in financialNotes[0].text; figures unchanged"]
+    }
+  }
+}

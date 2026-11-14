@@ -82,7 +82,7 @@
     },
     {
       "title": "Mostly safe investments",
-      "text": "The report says most of the invested money sits in debt, which means bonds and similar loans, and nearly all of that is government-backed or top-rated. This lowers investment risk for plans where the insurer carries it."
+      "text": "The report says 62.0% of the invested money sits in debt, which means bonds and similar loans, and 93.9% of that debt is government-backed or top-rated. This lowers investment risk for plans where the insurer carries it."
     }
   ],
   "watch": [
@@ -123,7 +123,7 @@
     ],
     [
       "Insurance and investment risks",
-      "The company names insurance risk, such as more deaths or lapses than expected, and investment risk, such as falling markets or defaults on bonds, among its six risk categories."
+      "The company names insurance risk, such as more death claims than expected, and investment risk, such as falling markets or defaults on bonds, among its six risk categories. The others are strategy and business, operations, technology and information, and regulation and legal."
     ],
     [
       "Data and technology failures",
@@ -132,7 +132,7 @@
   ],
   "context": [
     "2025-26: new insurance law",
-    "The report describes changes in 2025-26 under the Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Act, 2025. They include raising the limit on foreign ownership of insurers to 100% and extending the period in which a buyer can cancel a new policy without penalty, called the free-look period, from 15 to 30 days."
+    "The report describes changes in 2025-26 under the Sabka Bima Sabki Raksha (Amendment of Insurance Laws) Act, 2025. They include raising the limit on foreign ownership of insurers to 100% and extending the free-look period, the time in which a buyer can cancel a new policy without penalty, from 15 to 30 days."
   ],
   "sources": [
     [
@@ -176,11 +176,11 @@
     },
     {
       "title": "Rising interest in protection and retirement",
-      "text": "The report says households are moving from traditional savings towards market-linked products, and describes demand for protection, savings and retirement cover as growing with incomes."
+      "text": "The report says household savings are shifting from traditional instruments towards market-linked products. It also describes growing demand for retirement cover as the population ages and more first-time buyers enter."
     },
     {
-      "title": "Long contracts bring steady premiums",
-      "text": "As general explanation, not from the report: because many policies run for years, renewal premiums from existing customers arrive without new selling costs."
+      "title": "Renewal premiums keep coming",
+      "text": "Many policies run for years, and existing customers pay renewal premiums each year without a new sale being needed. The report says these renewal premiums depend on customers keeping their policies."
     }
   ],
   "hurts": [
@@ -189,12 +189,12 @@
       "text": "The report says private life insurers have often grown faster than public ones, so competition for customers is strong and winning them needs spending on distribution."
     },
     {
-      "title": "Profit appears slowly",
-      "text": "As general explanation, not from the report: the costs of selling a policy come in the first year, while profit builds over many years of premiums, so rapid growth can reduce short-term profit."
+      "title": "Selling costs come first",
+      "text": "Commission and other selling costs fall when a policy is sold, while the premiums that repay them arrive over many years. The report says that when customers drop policies, the company must spend more to find new ones."
     },
     {
-      "title": "Customers must stay for years",
-      "text": "As general explanation, not from the report: a policy earns its keep only if the customer keeps paying, so lapses reduce the profit expected from the sale."
+      "title": "Customers must keep paying",
+      "text": "A policy earns its keep only if the customer keeps paying. The report says lower renewal rates reduce premium inflows and long-term profit, and it gives about 85-87% of policies still paid after 13 months and 58-60% after 61 months."
     }
   ],
   "checked": "14 November 2026"
