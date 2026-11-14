@@ -6101,6 +6101,96 @@
       "kind": "illustration",
       "alt": "Polymers — conceptual illustration; not a photograph or product image",
       "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "tvs-motor",
+      "name": "Motorcycles",
+      "category": "Commuter and sports motorcycles such as Apache and Raider",
+      "image": "assets/products/tvs-motor-motorcycles.svg",
+      "url": "https://www.tvsmotor.com/ar-25-26/pdf/2.%20Company%20Overview/02.%20Products%20and%20Services.pdf",
+      "kind": "illustration",
+      "alt": "Motorcycles — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "tvs-motor",
+      "name": "Scooters",
+      "category": "Scooters such as Jupiter and NTORQ",
+      "image": "assets/products/tvs-motor-scooters.svg",
+      "url": "https://www.tvsmotor.com/ar-25-26/pdf/2.%20Company%20Overview/02.%20Products%20and%20Services.pdf",
+      "kind": "illustration",
+      "alt": "Scooters — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "tvs-motor",
+      "name": "Electric scooters",
+      "category": "Battery scooters such as iQube and Orbiter",
+      "image": "assets/products/tvs-motor-electric-scooters.svg",
+      "url": "https://www.tvsmotor.com/ar-25-26/pdf/2.%20Company%20Overview/02.%20Products%20and%20Services.pdf",
+      "kind": "illustration",
+      "alt": "Electric scooters — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "tvs-motor",
+      "name": "Mopeds",
+      "category": "Low-cost mopeds such as XL100",
+      "image": "assets/products/tvs-motor-mopeds.svg",
+      "url": "https://www.tvsmotor.com/ar-25-26/pdf/2.%20Company%20Overview/02.%20Products%20and%20Services.pdf",
+      "kind": "illustration",
+      "alt": "Mopeds — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "tvs-motor",
+      "name": "Three-wheelers",
+      "category": "Three-wheeled vehicles for passengers and cargo",
+      "image": "assets/products/tvs-motor-three-wheelers.svg",
+      "url": "https://www.tvsmotor.com/ar-25-26/pdf/2.%20Company%20Overview/02.%20Products%20and%20Services.pdf",
+      "kind": "illustration",
+      "alt": "Three-wheelers — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "tvs-motor",
+      "name": "Premium sport bikes",
+      "category": "Higher-performance Apache motorcycles",
+      "image": "assets/products/tvs-motor-premium-sport-bikes.svg",
+      "url": "https://www.tvsmotor.com/ar-25-26/pdf/2.%20Company%20Overview/02.%20Products%20and%20Services.pdf",
+      "kind": "illustration",
+      "alt": "Premium sport bikes — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "tvs-motor",
+      "name": "Norton",
+      "category": "British premium motorcycles owned by TVS",
+      "image": "assets/products/tvs-motor-norton.svg",
+      "url": "https://www.tvsmotor.com/ar-25-26/pdf/2.%20Company%20Overview/02.%20Products%20and%20Services.pdf",
+      "kind": "illustration",
+      "alt": "Norton — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "tvs-motor",
+      "name": "Exports",
+      "category": "Vehicles sold in other countries",
+      "image": "assets/products/tvs-motor-exports.svg",
+      "url": "https://www.tvsmotor.com/ar-25-26/pdf/2.%20Company%20Overview/02.%20Products%20and%20Services.pdf",
+      "kind": "illustration",
+      "alt": "Exports — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "tvs-motor",
+      "name": "Vehicle loans",
+      "category": "Loans to buy two- and three-wheelers",
+      "image": "assets/products/tvs-motor-vehicle-loans.svg",
+      "url": "https://www.tvsmotor.com/ar-25-26/pdf/2.%20Company%20Overview/02.%20Products%20and%20Services.pdf",
+      "kind": "illustration",
+      "alt": "Vehicle loans — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
     }
   ]
 }

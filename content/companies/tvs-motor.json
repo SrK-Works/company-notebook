@@ -1,0 +1,102 @@
+{
+  "order": 79,
+  "company": {
+    "id": "tvs-motor",
+    "name": "TVS Motor Company",
+    "ticker": "TVSMOTOR",
+    "sector": "Homes & mobility",
+    "initial": "T",
+    "color": "#364fc7",
+    "bg": "#edf0fc",
+    "tag": "Builds motorcycles, scooters, mopeds, electric scooters and three-wheelers",
+    "sources": [
+      [
+        "TVS Motor Company Annual Report 2025-26 (products and services)",
+        "https://www.tvsmotor.com/ar-25-26/pdf/2.%20Company%20Overview/02.%20Products%20and%20Services.pdf"
+      ]
+    ],
+    "productSource": "https://www.tvsmotor.com/ar-25-26/pdf/2.%20Company%20Overview/02.%20Products%20and%20Services.pdf",
+    "checked": "14 November 2026",
+    "reviewed": "14 November 2026",
+    "aliases": [
+      "TVS Motor Company Limited",
+      "TVS Motor Company Ltd",
+      "TVS Motor",
+      "TVSM"
+    ]
+  },
+  "offerings": [
+    {
+      "name": "Motorcycles",
+      "category": "Commuter and sports motorcycles such as Apache and Raider",
+      "image": "assets/products/tvs-motor-motorcycles.svg",
+      "url": "https://www.tvsmotor.com/ar-25-26/pdf/2.%20Company%20Overview/02.%20Products%20and%20Services.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a motorcycle — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Scooters",
+      "category": "Scooters such as Jupiter and NTORQ",
+      "image": "assets/products/tvs-motor-scooters.svg",
+      "url": "https://www.tvsmotor.com/ar-25-26/pdf/2.%20Company%20Overview/02.%20Products%20and%20Services.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a scooter — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Electric scooters",
+      "category": "Battery scooters such as iQube and Orbiter",
+      "image": "assets/products/tvs-motor-electric-scooters.svg",
+      "url": "https://www.tvsmotor.com/ar-25-26/pdf/2.%20Company%20Overview/02.%20Products%20and%20Services.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of an electric scooter — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Mopeds",
+      "category": "Low-cost mopeds such as XL100",
+      "image": "assets/products/tvs-motor-mopeds.svg",
+      "url": "https://www.tvsmotor.com/ar-25-26/pdf/2.%20Company%20Overview/02.%20Products%20and%20Services.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a moped — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Three-wheelers",
+      "category": "Three-wheeled vehicles for passengers and cargo",
+      "image": "assets/products/tvs-motor-three-wheelers.svg",
+      "url": "https://www.tvsmotor.com/ar-25-26/pdf/2.%20Company%20Overview/02.%20Products%20and%20Services.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a three-wheeler — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Premium sport bikes",
+      "category": "Higher-performance Apache motorcycles",
+      "image": "assets/products/tvs-motor-premium-sport-bikes.svg",
+      "url": "https://www.tvsmotor.com/ar-25-26/pdf/2.%20Company%20Overview/02.%20Products%20and%20Services.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a sport motorcycle — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Norton",
+      "category": "British premium motorcycles owned by TVS",
+      "image": "assets/products/tvs-motor-norton.svg",
+      "url": "https://www.tvsmotor.com/ar-25-26/pdf/2.%20Company%20Overview/02.%20Products%20and%20Services.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a classic motorcycle — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Exports",
+      "category": "Vehicles sold in other countries",
+      "image": "assets/products/tvs-motor-exports.svg",
+      "url": "https://www.tvsmotor.com/ar-25-26/pdf/2.%20Company%20Overview/02.%20Products%20and%20Services.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of vehicles on a ship — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Vehicle loans",
+      "category": "Loans to buy two- and three-wheelers",
+      "image": "assets/products/tvs-motor-vehicle-loans.svg",
+      "url": "https://www.tvsmotor.com/ar-25-26/pdf/2.%20Company%20Overview/02.%20Products%20and%20Services.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a key and coins — conceptual picture; not a photograph or the company’s own image"
+    }
+  ]
+}

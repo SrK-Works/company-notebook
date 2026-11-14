@@ -1,0 +1,214 @@
+{
+  "summary": "TVS Motor designs and builds motorcycles, scooters, mopeds, electric scooters and three-wheeled vehicles, mostly at plants in India and Indonesia. It sells them through dealers in India and in more than 90 countries.",
+  "description": "A moped is a small, low-cost two-wheeler with a small engine; a scooter has a flat footboard and the rider sits upright; a motorcycle has the rider astride the engine. TVS Motor builds all three, plus electric scooters that run on a battery and three-wheelers that carry passengers or cargo. It makes the vehicles in its own factories and sells them through dealers to riders and businesses. It also sells spare parts, engine oil and repair services.",
+  "money": "TVS Motor earns money when it sells a vehicle for more than it cost to design and build. It also earns from spare parts, oil and servicing, and its finance subsidiary, TVS Credit, earns interest on loans to vehicle buyers. The biggest costs are the parts and materials that go into the vehicles, the factories and the people who build them, and the design work. A buyer’s payment is revenue, not profit.",
+  "customers": "Riders are the end customers: commuters, young city riders, sports riders and families. Small businesses buy three-wheelers to carry passengers and cargo. In most cases the buyer pays a dealer. General explanation: the dealer pays TVS Motor for the vehicles it stocks. The company says it serves riders in more than 90 countries.",
+  "drivers": "How many vehicles it sells and in what mix, from cheap mopeds to premium bikes, the cost of materials, and how well exports and electric scooters do.",
+  "groups": [
+    {
+      "title": "Motorcycles",
+      "examples": "Apache sports bikes, the Raider, the Ronin, and commuter bikes such as Star City+ and Sport.",
+      "explanation": "Motorcycles range from low-cost commuter bikes to the Apache racing-inspired line. In October 2025 TVS also launched a new Apache model built for long adventure rides, which the report says won an Indian motorcycle award for 2026."
+    },
+    {
+      "title": "Scooters",
+      "examples": "The Jupiter and the Ntorq.",
+      "explanation": "TVS sells scooters with 110 cc to 150 cc engines (cc measures engine size). It launched a new 150 cc Ntorq in 2025-26, a fast scooter for enthusiasts."
+    },
+    {
+      "title": "Electric scooters",
+      "examples": "The iQube and the Orbiter.",
+      "explanation": "Electric scooters run on a battery and a motor instead of petrol. The Orbiter, launched in 2025-26, is aimed at young city riders, and one version lets the buyer pay for the battery as a service."
+    },
+    {
+      "title": "Mopeds",
+      "examples": "The TVS XL100.",
+      "explanation": "The XL100 is a low-cost moped. The report says TVS refreshed it in 2025-26 with alloy wheels, a digital speedometer and updated styling."
+    },
+    {
+      "title": "Three-wheelers",
+      "examples": "The King Deluxe, the King EV Max and cargo models such as the King Kargo.",
+      "explanation": "TVS sells three-wheelers in petrol, CNG (compressed natural gas) and electric versions, including cargo models for the last stretch of a delivery. The report says it is working with Hyundai on a new electric three-wheeler."
+    },
+    {
+      "title": "Norton, exports and vehicle loans",
+      "examples": "A Norton motorcycle, a TVS motorcycle sold in Africa, a loan to buy a bike.",
+      "explanation": "TVS owns the British Norton motorcycle brand and says it is rebuilding it. It exports to more than 90 countries. Its finance subsidiary TVS Credit lends to vehicle buyers."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What do cc and electric vehicle mean here?",
+      "text": "The cc number (cubic centimetres) is the size of the engine; bigger numbers usually mean more power. An electric vehicle (EV) runs on a battery. The report counts electric scooters separately from petrol ones."
+    },
+    {
+      "title": "What is a premium bike?",
+      "text": "A premium bike is a more powerful, higher-priced motorcycle, such as the top Apache sports model. The report says the market is shifting towards these, and that bikes above 250 cc grew the fastest."
+    },
+    {
+      "title": "What is TVS Credit?",
+      "text": "TVS Credit Services is a finance company that TVS Motor owns about 81% of. It lends to people buying two-wheelers, three-wheelers and other vehicles. Because it is a subsidiary, whether its income is inside a reported number depends on whether the number is standalone or consolidated."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Design and engineer",
+      "text": "TVS designs vehicles in its own centres in Hosur in India, Jakarta in Indonesia, Bologna in Italy and Solihull in the UK. The report says it carries over lessons from more than 40 years of racing into everyday models."
+    },
+    {
+      "title": "Build in factories",
+      "text": "Vehicles are assembled at plants in Hosur, Mysuru and Nalagarh in India and in Indonesia. TVS buys parts and materials from outside suppliers and builds the rest."
+    },
+    {
+      "title": "Sell to dealers and exporters",
+      "text": "Vehicles go to dealers in India and to distributors abroad. General explanation: dealers pay TVS for stock, then sell to riders and keep a margin."
+    },
+    {
+      "title": "Riders buy, often with a loan",
+      "text": "Riders pay cash or take a loan, sometimes from TVS Credit. The company says that TVS Credit mainly serves self-employed and new-to-credit borrowers in smaller towns and rural areas."
+    },
+    {
+      "title": "Service, parts and oil",
+      "text": "After the sale TVS earns from servicing, spare parts and engine oil. The report counts 4,500 authorised service centres. Revenue (the bill), profit (what is left after costs) and cash received are different things."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "A wide price range from one maker",
+      "text": "TVS sells everything from low-cost mopeds to premium motorcycles of 1,200 cc, so a slowdown in one price band can be offset by another. The report says this breadth is a key strength."
+    },
+    {
+      "title": "Servicing, parts and oil bring repeat income",
+      "text": "The report says the parts and oil business grew by about 19% in 2025-26, supported by its TruChamp online system that links more than 24,000 retailers and 90,000 technicians, so earnings do not rely only on new vehicle sales."
+    },
+    {
+      "title": "Its own lender helps customers buy",
+      "text": "TVS Credit gives TVS buyers a way to pay in instalments. This can lift vehicle sales, but the loans also carry the risk that borrowers do not repay."
+    },
+    {
+      "title": "A rebuilt British brand",
+      "text": "TVS owns Norton Motorcycle Co. Ltd. in the UK and says it plans to launch new Norton models, including the Manx and Atlas, and start US sales in 2026-27. These are plans, and the brand is still being rebuilt."
+    }
+  ],
+  "watch": [
+    [
+      "How is TVS Motor’s sales mix changing across motorcycles, scooters, electric and three-wheelers?",
+      "The report names these as five separate groups. Mix matters because a premium bike carries more value than a moped.",
+      "Compare units sold in each group year by year in the annual report, and note which groups grow fastest."
+    ],
+    [
+      "How much of the business now comes from exports?",
+      "The report says exports grew faster than the industry and are important to its growth, but they depend on foreign economies and currencies.",
+      "Compare export units with India units across years, and read the regions the report names, such as Africa, Latin America and Asia."
+    ],
+    [
+      "Are electric scooters earning their keep?",
+      "The report says electric scooters carried a reduced tax advantage after GST changes, and describes a rare-earth magnet shortage.",
+      "Compare electric scooter volumes and margins in each results release and read the report’s notes on electric vehicle costs."
+    ],
+    [
+      "What is TVS Credit’s loan quality?",
+      "TVS Credit lends mainly to self-employed and new-to-credit borrowers, so repayment problems would show up there first.",
+      "Read the subsidiary section of the annual report and compare the standalone and consolidated statements for loan losses."
+    ],
+    [
+      "Will Norton and the premium push pay off?",
+      "The report describes large and continuing spending to rebuild Norton, with sales planned for the US.",
+      "Check the Norton launch timing and sales in each update, and compare spending on the brand with the volumes it reports."
+    ]
+  ],
+  "risks": [
+    [
+      "Customers are sensitive to fuel prices and borrowing costs",
+      "The report lists higher fuel prices, inflation, changing rules and tighter liquidity as risks to demand for two-wheelers in India."
+    ],
+    [
+      "Exports depend on the health of other countries",
+      "Much of the export growth is in African markets, where the report says industry revival followed currency stabilisation and lower inflation. A reversal would reduce sales."
+    ],
+    [
+      "Loans to first-time borrowers may go unpaid",
+      "TVS Credit mainly serves self-employed and new-to-credit borrowers in smaller towns and rural areas. Missed repayments would cost the lender."
+    ],
+    [
+      "Electric scooters are a crowded race",
+      "The report says economics, product relevance, service readiness and how well each maker delivers are shaping competitive advantage in electric vehicles."
+    ]
+  ],
+  "context": [
+    "Italian engine design firm bought",
+    "The report says TVS Motor, through its Singapore subsidiary, bought 100% of Engines Engineering S.p.A. of Italy on 3 October 2025 to strengthen engineering and design for global products."
+  ],
+  "sources": [
+    [
+      "TVS Motor Company Annual Report 2025-26, management discussion and analysis",
+      "https://www.tvsmotor.com/ar-25-26/pdf/6.%20Statutory%20Reports/04.%20Management%20Discussion%20and%20Analysis.pdf"
+    ],
+    [
+      "TVS Motor Company Annual Report 2025-26, directors’ report",
+      "https://www.tvsmotor.com/ar-25-26/pdf/6.%20Statutory%20Reports/03.%20Directors'%20Report.pdf"
+    ],
+    [
+      "TVS Motor Company Annual Report 2025-26, corporate portrait",
+      "https://www.tvsmotor.com/ar-25-26/pdf/2.%20Company%20Overview/01.%20Corporate%20Portrait.pdf"
+    ],
+    [
+      "TVS Motor Company Annual Report 2025-26, operating context",
+      "https://www.tvsmotor.com/ar-25-26/pdf/2.%20Company%20Overview/05.%20Operating%20Context.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "TVS Motor’s revenue, profit and segment figures are pending verification against the filed results, so none are shown here."
+    }
+  ],
+  "stepsTitle": "From the drawing board to a rider’s garage.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "TVS Motor designs and builds motorcycles, scooters, mopeds, electric scooters and three-wheelers, and sells them in India and in more than 90 countries."
+    },
+    {
+      "title": "Who pays",
+      "text": "Riders and small businesses pay for the vehicles, usually through a dealer. They also pay for spare parts, oil and servicing."
+    },
+    {
+      "title": "How it earns",
+      "text": "It sells vehicles for more than they cost to build. It also earns from parts, oil, servicing, and interest through its finance subsidiary."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Parts and materials, running factories, designing new models, selling and servicing, and bringing its Norton motorcycles back."
+    }
+  ],
+  "helps": [
+    {
+      "title": "A range from mopeds to premium bikes",
+      "text": "The report says its range across motorcycles, scooters, electric scooters, mopeds and commercial vehicles lets it take part in many segments and respond to changing customer needs."
+    },
+    {
+      "title": "Factories and sales in several countries",
+      "text": "The report says its manufacturing hubs in India and Indonesia, and market growth in Africa, Latin America and Southeast Asia, give it a diversified base."
+    },
+    {
+      "title": "Engineering centres in four countries",
+      "text": "The report lists design and research centres in Bologna, Jakarta, Hosur and Solihull, which feed new products across all its segments."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Rising fuel prices and inflation",
+      "text": "The report says higher fuel prices and inflation are risks to India demand, and that near-term growth could moderate if input costs rise."
+    },
+    {
+      "title": "Weak monsoon and rural income",
+      "text": "The report says a possible El Niño weather event could hurt farm output and rural incomes, and with it spending on vehicles."
+    },
+    {
+      "title": "Trade barriers and supply gaps",
+      "text": "The report says tariffs, trade fragmentation and disrupted shipping routes raise freight, insurance and input costs, and that a rare-earth magnet shortage showed supply weakness for electric vehicles."
+    }
+  ],
+  "checked": "14 November 2026"
+}
