@@ -1,0 +1,93 @@
+{
+  "order": 83,
+  "company": {
+    "id": "pidilite-industries",
+    "name": "Pidilite Industries",
+    "ticker": "PIDILITIND",
+    "sector": "Homes & mobility",
+    "initial": "P",
+    "color": "#e8590c",
+    "bg": "#fff0e6",
+    "tag": "Makes glues, sealants, waterproofing and tile adhesives such as Fevicol, Fevikwik, M-Seal and Dr. Fixit",
+    "sources": [
+      [
+        "Pidilite Industries investor relations, annual reports",
+        "https://www.pidilite.com/investor-relations/financials/annual-reports"
+      ]
+    ],
+    "checked": "14 November 2026",
+    "reviewed": "14 November 2026",
+    "aliases": [
+      "Pidilite Industries Limited",
+      "Pidilite Industries Ltd",
+      "Pidilite"
+    ],
+    "productSource": "https://pidilite.com/content/dam/pidilitecorporatewebsite/financial/annual-reports/annual-report-2025-26.pdf"
+  },
+  "offerings": [
+    {
+      "name": "Wood and household glue",
+      "category": "White glue for furniture and repairs (Fevicol)",
+      "image": "assets/products/pidilite-wood-glue.svg",
+      "url": "https://www.pidilite.com/consumer-brands/fevicol",
+      "kind": "illustration",
+      "alt": "Illustration of a squeeze bottle of glue — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Instant glue",
+      "category": "One-drop quick-setting adhesive (Fevikwik)",
+      "image": "assets/products/pidilite-instant-glue.svg",
+      "url": "https://www.pidilite.com/consumer-brands/fevikwik",
+      "kind": "illustration",
+      "alt": "Illustration of a tube of instant glue with a drop — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Sealants and repair putty",
+      "category": "Fix leaks and fill gaps (M-Seal)",
+      "image": "assets/products/pidilite-sealant.svg",
+      "url": "https://www.pidilite.com/consumer-brands/mseal",
+      "kind": "illustration",
+      "alt": "Illustration of a sealant cartridge in a gun — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Waterproofing",
+      "category": "Coatings that keep water out of roofs and walls (Dr. Fixit)",
+      "image": "assets/products/pidilite-waterproofing.svg",
+      "url": "https://www.pidilite.com/consumer-brands/dr-fixit",
+      "kind": "illustration",
+      "alt": "Illustration of a roller coating a roof slab under rain — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Tile adhesive",
+      "category": "Adhesive for fixing tiles and stone (Roff)",
+      "image": "assets/products/pidilite-tile-adhesive.svg",
+      "url": "https://www.pidilite.com/consumer-brands/roff",
+      "kind": "illustration",
+      "alt": "Illustration of a notched trowel above floor tiles — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Art and craft colours",
+      "category": "Paints and glues for hobbies (Fevicryl)",
+      "image": "assets/products/pidilite-art-craft.svg",
+      "url": "https://www.pidilite.com/consumer-brands/fevicryl",
+      "kind": "illustration",
+      "alt": "Illustration of a paint palette and brush — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Industrial adhesives",
+      "category": "Glue sold to factories for packaging, footwear and joinery",
+      "image": "assets/products/pidilite-industrial-adhesive.svg",
+      "url": "https://pidilite.com/content/dam/pidilitecorporatewebsite/financial/annual-reports/annual-report-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a nozzle applying glue to a carton — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Pigments",
+      "category": "Coloured powders sold to factories",
+      "image": "assets/products/pidilite-pigments.svg",
+      "url": "https://pidilite.com/content/dam/pidilitecorporatewebsite/financial/annual-reports/annual-report-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of heaps of coloured powder — conceptual picture; not a photograph or the company’s own image"
+    }
+  ]
+}

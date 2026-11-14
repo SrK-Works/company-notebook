@@ -6831,6 +6831,86 @@
       "kind": "illustration",
       "alt": "Baby wipes — conceptual illustration; not a photograph or product image",
       "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "pidilite-industries",
+      "name": "Wood and household glue",
+      "category": "White glue for furniture and repairs (Fevicol)",
+      "image": "assets/products/pidilite-wood-glue.svg",
+      "url": "https://www.pidilite.com/consumer-brands/fevicol",
+      "kind": "illustration",
+      "alt": "Wood and household glue — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "pidilite-industries",
+      "name": "Instant glue",
+      "category": "One-drop quick-setting adhesive (Fevikwik)",
+      "image": "assets/products/pidilite-instant-glue.svg",
+      "url": "https://www.pidilite.com/consumer-brands/fevikwik",
+      "kind": "illustration",
+      "alt": "Instant glue — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "pidilite-industries",
+      "name": "Sealants and repair putty",
+      "category": "Fix leaks and fill gaps (M-Seal)",
+      "image": "assets/products/pidilite-sealant.svg",
+      "url": "https://www.pidilite.com/consumer-brands/mseal",
+      "kind": "illustration",
+      "alt": "Sealants and repair putty — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "pidilite-industries",
+      "name": "Waterproofing",
+      "category": "Coatings that keep water out of roofs and walls (Dr. Fixit)",
+      "image": "assets/products/pidilite-waterproofing.svg",
+      "url": "https://www.pidilite.com/consumer-brands/dr-fixit",
+      "kind": "illustration",
+      "alt": "Waterproofing — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "pidilite-industries",
+      "name": "Tile adhesive",
+      "category": "Adhesive for fixing tiles and stone (Roff)",
+      "image": "assets/products/pidilite-tile-adhesive.svg",
+      "url": "https://www.pidilite.com/consumer-brands/roff",
+      "kind": "illustration",
+      "alt": "Tile adhesive — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "pidilite-industries",
+      "name": "Art and craft colours",
+      "category": "Paints and glues for hobbies (Fevicryl)",
+      "image": "assets/products/pidilite-art-craft.svg",
+      "url": "https://www.pidilite.com/consumer-brands/fevicryl",
+      "kind": "illustration",
+      "alt": "Art and craft colours — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "pidilite-industries",
+      "name": "Industrial adhesives",
+      "category": "Glue sold to factories for packaging, footwear and joinery",
+      "image": "assets/products/pidilite-industrial-adhesive.svg",
+      "url": "https://pidilite.com/content/dam/pidilitecorporatewebsite/financial/annual-reports/annual-report-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Industrial adhesives — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "pidilite-industries",
+      "name": "Pigments",
+      "category": "Coloured powders sold to factories",
+      "image": "assets/products/pidilite-pigments.svg",
+      "url": "https://pidilite.com/content/dam/pidilitecorporatewebsite/financial/annual-reports/annual-report-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Pigments — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
     }
   ]
 }
