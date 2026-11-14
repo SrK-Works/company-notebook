@@ -5841,6 +5841,96 @@
       "alt": "An electric vehicle charger with a cable — conceptual illustration; not a photograph",
       "image": "assets/products/tata-power-ev-charging.svg",
       "reviewed": "2026-11-14"
+    },
+    {
+      "company": "indian-oil",
+      "name": "Petrol and diesel pumps",
+      "category": "Fuel sold to drivers at filling stations",
+      "image": "assets/products/indian-oil-petrol-diesel-pumps.svg",
+      "url": "https://iocl.com/admin/img/UploadedFiles/IntimationStockExchanges/Images/064587e5e07944f9b99b9353ae60bc48.pdf",
+      "kind": "illustration",
+      "alt": "Petrol and diesel pumps — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "indian-oil",
+      "name": "Cooking gas cylinders",
+      "category": "LPG cylinders delivered to homes",
+      "image": "assets/products/indian-oil-cooking-gas-cylinders.svg",
+      "url": "https://iocl.com/admin/img/UploadedFiles/IntimationStockExchanges/Images/064587e5e07944f9b99b9353ae60bc48.pdf",
+      "kind": "illustration",
+      "alt": "Cooking gas cylinders — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "indian-oil",
+      "name": "Aviation fuel",
+      "category": "Fuel filled into aircraft at airports",
+      "image": "assets/products/indian-oil-aviation-fuel.svg",
+      "url": "https://iocl.com/admin/img/UploadedFiles/IntimationStockExchanges/Images/064587e5e07944f9b99b9353ae60bc48.pdf",
+      "kind": "illustration",
+      "alt": "Aviation fuel — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "indian-oil",
+      "name": "CNG stations",
+      "category": "Compressed natural gas for vehicles",
+      "image": "assets/products/indian-oil-cng-stations.svg",
+      "url": "https://iocl.com/admin/img/UploadedFiles/IntimationStockExchanges/Images/064587e5e07944f9b99b9353ae60bc48.pdf",
+      "kind": "illustration",
+      "alt": "CNG stations — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "indian-oil",
+      "name": "Electric charging",
+      "category": "Charging points for electric vehicles",
+      "image": "assets/products/indian-oil-electric-charging.svg",
+      "url": "https://iocl.com/admin/img/UploadedFiles/IntimationStockExchanges/Images/064587e5e07944f9b99b9353ae60bc48.pdf",
+      "kind": "illustration",
+      "alt": "Electric charging — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "indian-oil",
+      "name": "Lubricants",
+      "category": "Engine and machine oils",
+      "image": "assets/products/indian-oil-lubricants.svg",
+      "url": "https://iocl.com/admin/img/UploadedFiles/IntimationStockExchanges/Images/064587e5e07944f9b99b9353ae60bc48.pdf",
+      "kind": "illustration",
+      "alt": "Lubricants — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "indian-oil",
+      "name": "Petrochemicals",
+      "category": "Plastics and chemical raw materials",
+      "image": "assets/products/indian-oil-petrochemicals.svg",
+      "url": "https://iocl.com/admin/img/UploadedFiles/IntimationStockExchanges/Images/064587e5e07944f9b99b9353ae60bc48.pdf",
+      "kind": "illustration",
+      "alt": "Petrochemicals — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "indian-oil",
+      "name": "Pipelines",
+      "category": "Underground pipes that carry crude oil and fuel",
+      "image": "assets/products/indian-oil-pipelines.svg",
+      "url": "https://iocl.com/admin/img/UploadedFiles/IntimationStockExchanges/Images/064587e5e07944f9b99b9353ae60bc48.pdf",
+      "kind": "illustration",
+      "alt": "Pipelines — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "indian-oil",
+      "name": "Refineries",
+      "category": "Plants that turn crude oil into fuels",
+      "image": "assets/products/indian-oil-refineries.svg",
+      "url": "https://iocl.com/admin/img/UploadedFiles/IntimationStockExchanges/Images/064587e5e07944f9b99b9353ae60bc48.pdf",
+      "kind": "illustration",
+      "alt": "Refineries — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
     }
   ]
 }
