@@ -48,3 +48,7 @@ Load the TinyFish tools with ToolSearch (for example `select:mcp__claude_ai_Tiny
 - Double-check every number you typed against the evidence file before committing. Add up segment rows and compare with the reported total; explain any rounding gap.
 
 When you finish, report: the pull request link(s), companies done, any company you could not complete and why.
+
+## Added rules (14 November 2026 review)
+- Every number in `insight` and `notes`, including prior-year comparatives, must appear in the evidence file. Search for each before committing.
+- Define corporate-action words such as demerger in the lesson text, and say whether a gain is cash.
