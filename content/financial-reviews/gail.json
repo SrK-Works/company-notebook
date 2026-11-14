@@ -1,0 +1,58 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited consolidated financial statements in the annual report",
+  "checked": "14 November 2026",
+  "coverage": "Reported business segments · gross segment revenue before sales between segments are removed",
+  "revenueLabel": "Segment revenue",
+  "incomeDefinition": "Sales to outside customers plus sales to GAIL’s other segments, before adjustments. Segments sell to each other, so the rows add up to far more than the group’s revenue.",
+  "profitMetric": "Segment result",
+  "definition": "Each segment’s profit before interest and tax. It is not profit after tax, and it is before costs that are not allocated to a segment.",
+  "rows": [
+    {
+      "name": "Transmission services · natural gas",
+      "revenue": 11205.94,
+      "profit": 6229.11
+    },
+    {
+      "name": "Transmission services · LPG",
+      "revenue": 916.18,
+      "profit": 455.54
+    },
+    {
+      "name": "Natural gas marketing",
+      "revenue": 144712.58,
+      "profit": 3175.16
+    },
+    {
+      "name": "Petrochemicals",
+      "revenue": 7574.42,
+      "profit": -1410.27
+    },
+    {
+      "name": "LPG and other liquid hydrocarbons",
+      "revenue": 4293.33,
+      "profit": 489.32
+    },
+    {
+      "name": "City gas",
+      "revenue": 7401.37,
+      "profit": 698.68
+    },
+    {
+      "name": "Other segment",
+      "revenue": 1238.21,
+      "profit": 453.49
+    }
+  ],
+  "source": "https://gailebank.gail.co.in/InvestorsZone/AnnualReports/Gail-Annual-Report%202025-26.pdf",
+  "location": "GAIL (India) Limited annual report 2025–26: consolidated statement of profit and loss, PDF page 318 (printed page 316); consolidated note 43 segment information, PDF pages 376–377 (printed pages 374–375); notes 66–68, PDF page 400; list of subsidiaries, joint ventures and associates, PDF page 115",
+  "notes": "Consolidated means GAIL and its subsidiaries together, including the wholly owned city gas company GAIL Gas. Its joint ventures and associates, such as Indraprastha Gas and Mahanagar Gas, are not added line by line; only GAIL’s share of their profit, ₹1,504.21 crore, is included in group profit, and the filing does not split that share by segment. Segment revenue rows total ₹177,342.03 crore, plus ₹0.54 crore not allocated, which is ₹177,342.57 crore; removing ₹35,248.27 crore of sales between segments gives group revenue from operations of ₹142,094.30 crore. Segment results total ₹10,091.03 crore; less ₹156.84 crore of unallocated expenses, less interest of ₹964.18 crore, plus ₹755.21 crore of interest and dividend income gives profit before tax of ₹9,725.22 crore, which includes the ₹1,504.21 crore share of joint ventures and associates. Tax of ₹2,143.70 crore, including a ₹322.95 crore credit for earlier periods (the statement does not say why), leaves profit for the year of ₹7,581.52 crore, of which ₹7,582.47 crore belongs to GAIL’s owners. There were no exceptional items this year; the year before included ₹2,440.03 crore received from an LNG supplier to settle a dispute over undelivered cargoes. The petrochemicals segment lost money. Note 68 also says West Asia disruption in March 2026 cut LNG supplies, and gas sales and transmission volumes, in that month.",
+  "insight": "Pipelines (natural gas transmission) earn the largest segment result, while gas marketing has by far the most revenue but a much smaller result. Petrochemicals made a loss.",
+  "status": "segments",
+  "revenueTotal": 177342.03,
+  "revenueTotalLabel": "Seven segment rows before removing sales between segments (₹0.54 crore unallocated is not shown)",
+  "profitTotal": 10091.03,
+  "profitTotalLabel": "Segment results before unallocated items, interest and tax"
+}
