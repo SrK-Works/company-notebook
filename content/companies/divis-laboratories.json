@@ -1,0 +1,86 @@
+{
+  "order": 83,
+  "company": {
+    "id": "divis-laboratories",
+    "name": "Divi's Laboratories",
+    "ticker": "DIVISLAB",
+    "sector": "Healthcare",
+    "initial": "D",
+    "color": "#0f766e",
+    "bg": "#e6f6f4",
+    "tag": "Makes the active chemicals inside medicines, for drug companies around the world",
+    "sources": [
+      [
+        "Divi’s Laboratories annual reports page",
+        "https://www.divislabs.com/investor-relations/reports-and-filings/annual-reporting/"
+      ]
+    ],
+    "productSource": "https://divislabs.com/wp-content/uploads/2026/07/Annual-Report2025-26.pdf",
+    "checked": "14 November 2026",
+    "reviewed": "14 November 2026",
+    "aliases": [
+      "Divi's Laboratories Limited",
+      "Divi's Laboratories Ltd",
+      "Divi's Labs",
+      "Divis Laboratories"
+    ]
+  },
+  "offerings": [
+    {
+      "name": "Generic APIs",
+      "category": "Active ingredients for medicines whose patents have ended",
+      "image": "assets/products/divis-laboratories-generic-apis.svg",
+      "url": "https://divislabs.com/wp-content/uploads/2026/07/Annual-Report2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a laboratory flask with powder — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Custom synthesis",
+      "category": "Medicine ingredients made to a drug company’s own design",
+      "image": "assets/products/divis-laboratories-custom-synthesis.svg",
+      "url": "https://divislabs.com/wp-content/uploads/2026/07/Annual-Report2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a chemical reactor vessel with a stirrer — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Peptides",
+      "category": "Chains of amino acids and their building blocks, used in newer medicines",
+      "image": "assets/products/divis-laboratories-peptides.svg",
+      "url": "https://divislabs.com/wp-content/uploads/2026/07/Annual-Report2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a chain of linked beads — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Carotenoids",
+      "category": "Nutrition ingredients such as beta-carotene and lycopene",
+      "image": "assets/products/divis-laboratories-carotenoids.svg",
+      "url": "https://divislabs.com/wp-content/uploads/2026/07/Annual-Report2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a carrot and a tomato — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Fat-soluble vitamins",
+      "category": "Vitamins A, D2, D3, E and K2 for food and supplements",
+      "image": "assets/products/divis-laboratories-fat-soluble-vitamins.svg",
+      "url": "https://divislabs.com/wp-content/uploads/2026/07/Annual-Report2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a sun and a vitamin capsule — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Starting materials and intermediates",
+      "category": "Chemicals made in-house that go into the finished ingredient",
+      "image": "assets/products/divis-laboratories-starting-materials.svg",
+      "url": "https://divislabs.com/wp-content/uploads/2026/07/Annual-Report2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of three chemical drums — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Process development",
+      "category": "Laboratory work that proves a new process before factory scale",
+      "image": "assets/products/divis-laboratories-process-development.svg",
+      "url": "https://divislabs.com/wp-content/uploads/2026/07/Annual-Report2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a row of test tubes in a rack — conceptual picture; not a photograph or the company’s own image"
+    }
+  ]
+}

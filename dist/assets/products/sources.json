@@ -6431,6 +6431,76 @@
       "kind": "illustration",
       "alt": "Generator sets for export — conceptual illustration; not a photograph or product image",
       "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "divis-laboratories",
+      "name": "Generic APIs",
+      "category": "Active ingredients for medicines whose patents have ended",
+      "image": "assets/products/divis-laboratories-generic-apis.svg",
+      "url": "https://divislabs.com/wp-content/uploads/2026/07/Annual-Report2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Generic APIs — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "divis-laboratories",
+      "name": "Custom synthesis",
+      "category": "Medicine ingredients made to a drug company’s own design",
+      "image": "assets/products/divis-laboratories-custom-synthesis.svg",
+      "url": "https://divislabs.com/wp-content/uploads/2026/07/Annual-Report2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Custom synthesis — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "divis-laboratories",
+      "name": "Peptides",
+      "category": "Chains of amino acids and their building blocks, used in newer medicines",
+      "image": "assets/products/divis-laboratories-peptides.svg",
+      "url": "https://divislabs.com/wp-content/uploads/2026/07/Annual-Report2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Peptides — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "divis-laboratories",
+      "name": "Carotenoids",
+      "category": "Nutrition ingredients such as beta-carotene and lycopene",
+      "image": "assets/products/divis-laboratories-carotenoids.svg",
+      "url": "https://divislabs.com/wp-content/uploads/2026/07/Annual-Report2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Carotenoids — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "divis-laboratories",
+      "name": "Fat-soluble vitamins",
+      "category": "Vitamins A, D2, D3, E and K2 for food and supplements",
+      "image": "assets/products/divis-laboratories-fat-soluble-vitamins.svg",
+      "url": "https://divislabs.com/wp-content/uploads/2026/07/Annual-Report2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Fat-soluble vitamins — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "divis-laboratories",
+      "name": "Starting materials and intermediates",
+      "category": "Chemicals made in-house that go into the finished ingredient",
+      "image": "assets/products/divis-laboratories-starting-materials.svg",
+      "url": "https://divislabs.com/wp-content/uploads/2026/07/Annual-Report2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Starting materials and intermediates — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "divis-laboratories",
+      "name": "Process development",
+      "category": "Laboratory work that proves a new process before factory scale",
+      "image": "assets/products/divis-laboratories-process-development.svg",
+      "url": "https://divislabs.com/wp-content/uploads/2026/07/Annual-Report2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Process development — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
     }
   ]
 }

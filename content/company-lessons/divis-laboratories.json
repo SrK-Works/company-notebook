@@ -1,0 +1,232 @@
+{
+  "summary": "Divi's Laboratories makes the active chemicals inside medicines, and vitamin and nutrition ingredients, in factories in Telangana and Andhra Pradesh, and sells them mostly to drug and supplement companies abroad.",
+  "description": "Divi's Laboratories makes active pharmaceutical ingredients (APIs), the part of a medicine that works on the body, which drug companies then turn into tablets and injections. It makes them in three ways: standard APIs for medicines whose patents have ended (generics), APIs made to order for drug companies developing new medicines (custom synthesis), and nutrition ingredients such as carotenoids and vitamins for food and supplement makers. The report says it stays focused on ingredients so that it does not compete with its customers.",
+  "money": "Divi's earns money by selling chemicals made in its factories, mostly in dollars, pounds and euros to buyers abroad. For custom synthesis it makes a product to a customer's own design and agreed supply terms. The report says its costs include materials, power and fuel, repairs, packing, research and development, freight and commissions. A customer's payment is not profit, and much cash is tied up in chemicals still being made.",
+  "customers": "Customers are drug companies and supplement, food and feed makers, mostly overseas. The report says about nine-tenths of sales are exports, and that the top five customers account for about half of sales. Large drug companies buy custom-made ingredients, and the report says it works with 12 of the world's 20 largest drug companies.",
+  "drivers": "The price and volume of standard APIs, how many custom projects move to commercial production, the cost of raw materials and power, and exchange rates, because sales are mostly in foreign currency.",
+  "groups": [
+    {
+      "title": "Generic APIs",
+      "examples": "Active ingredients for widely used medicines whose patents have ended.",
+      "explanation": "Typically, a generic active pharmaceutical ingredient (API) can be made by any approved maker once the original patent ends. Divi's competes on cost and dependable supply. The report says it is recognised as the world's largest maker of ten key APIs."
+    },
+    {
+      "title": "Custom synthesis",
+      "examples": "An ingredient or intermediate chemical made for a drug company's new or late-stage medicine.",
+      "explanation": "Here Divi's works as a contract manufacturer for innovator drug companies. The report calls it a contract development and manufacturing organisation (CDMO) and says the work involves difficult chemistry, high-potency handling and scaling up safely."
+    },
+    {
+      "title": "Peptides",
+      "examples": "Short chains of amino acids and their building blocks, used in newer medicines such as some obesity treatments.",
+      "explanation": "Typically, a peptide is a short chain of amino acids, the building blocks of proteins. The report says Divi's opened a Peptide Centre of Excellence and makes fragments and protected amino acids, the building blocks, for global drug companies."
+    },
+    {
+      "title": "Carotenoids",
+      "examples": "Beta-carotene, lycopene, astaxanthin, canthaxanthin and apocarotenal.",
+      "explanation": "Carotenoids are nutrition ingredients that the report says Divi's supplies to food, drink, supplement and animal feed makers. The report says few makers offer so wide a range at this scale."
+    },
+    {
+      "title": "Fat-soluble vitamins",
+      "examples": "Vitamins A, D2, D3, E and K2.",
+      "explanation": "These vitamins dissolve in fat rather than water. The report lists them as part of the nutraceutical business, which sells to food, drink, supplement and feed makers."
+    },
+    {
+      "title": "Starting materials and intermediates",
+      "examples": "Basic chemicals and half-finished chemicals made at its Kakinada factory.",
+      "explanation": "The report says Unit 3 at Kakinada makes starting materials and intermediates in-house, so Divi's depends less on suppliers and frees space at other plants. This is called backward integration, meaning making an earlier step yourself."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is an API, and what is a generic?",
+      "text": "An active pharmaceutical ingredient (API) is the chemical in a medicine that does the work. Drug companies buy APIs, mix them with other substances and sell tablets or injections. A generic is a medicine, or its API, sold after the original patent has ended."
+    },
+    {
+      "title": "What does custom synthesis mean?",
+      "text": "It means making a chemical to a customer's own recipe and quality rules, often for a medicine the customer is developing. The report says some projects move to factory-scale production after development, validation and approval by the customer and by regulators."
+    },
+    {
+      "title": "Which other companies are in the group?",
+      "text": "The report names two wholly-owned subsidiaries (Divis Laboratories (USA) Inc., in New Jersey, and Divi's Laboratories Europe AG (typically, AG marks a joint-stock company in German-speaking countries), in Basel, Switzerland) that support the marketing of its nutraceutical products. Nutraceutical means a nutrition or wellness ingredient."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Develop the process",
+      "text": "Chemists at research and process development centres work out how to make a chemical, then scale up from gram quantities to commercial scale."
+    },
+    {
+      "title": "Make starting materials and ingredients",
+      "text": "Factories make intermediates and then the final ingredient. For large-volume products, the report says plants run in campaigns, building stock so the multi-purpose plants can switch to other products."
+    },
+    {
+      "title": "Test, qualify and ship",
+      "text": "Typically, customers and regulators approve a factory and product before a medicine ingredient is sold in markets such as the United States and Europe. The report says Divi's has a presence in more than 100 countries."
+    },
+    {
+      "title": "Invoice and collect",
+      "text": "Typically, a buyer is invoiced when goods are shipped and pays later. Revenue, profit and cash received are three different things, and much cash is tied up in stock still being made."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Heavily dependent on a few customers and products",
+      "text": "The report says the top five products and top five customers each account for around half of sales. A decision by a single large buyer, or a price fall on one major product, therefore matters more than it would for a company with many small customers."
+    },
+    {
+      "title": "Mostly sold abroad",
+      "text": "The report says exports are 89% of sales, with 74% going to Europe and America, and most export sales are priced in US dollars. So exchange rates and rules in other countries matter as much as demand in India."
+    },
+    {
+      "title": "Inventory is large",
+      "text": "Because it makes large-volume products in campaigns, the report says it holds a significant amount of work in progress, which means chemicals part-made and paid for but not yet sold."
+    },
+    {
+      "title": "A mix of medicines at different life stages",
+      "text": "The report says custom synthesis covers medicines from the patent phase to late in their life, and that new molecules keep entering the pipeline. It says this balance reduces concentration risk."
+    }
+  ],
+  "watch": [
+    [
+      "How much of the growth comes from custom synthesis compared with standard APIs?",
+      "The report says custom synthesis is the key growth driver while standard APIs face pricing pressure, so the mix changes how the business behaves.",
+      "Read the business portfolio section each year and compare what is said about generics, custom synthesis and nutraceuticals."
+    ],
+    [
+      "When will the new capacity start producing, and for whom?",
+      "The report says new capacity is tied to long-term supply commitments but needs customer approvals and regulatory clearances before it contributes.",
+      "Compare capital work in progress and capacity statements across annual reports, and look for news of approvals."
+    ],
+    [
+      "How concentrated is the customer base?",
+      "A small number of customers and products take about half of sales, so changes in one relationship can move results.",
+      "Read the management discussion's customer and product concentration percentages each year and compare them with the year before."
+    ],
+    [
+      "How well do inspections by regulators go?",
+      "Selling to the US and Europe depends on passing quality inspections, and the report calls regulatory risk inherent to the business.",
+      "Read the report's regulatory and quality compliance section and look for inspection results in company announcements."
+    ],
+    [
+      "How exposed is it to changes in Chinese export rules?",
+      "The report says policy changes such as China's withdrawal of export tax rebates could raise input costs in parts of the chemical chain.",
+      "Compare imports as a share of materials and what the report says each year about sourcing and input costs."
+    ]
+  ],
+  "risks": [
+    [
+      "Dependence on global markets",
+      "The report says it has significant exposure to export markets, so a change in the global economy, supply chains or protective actions by governments of buying countries would affect it."
+    ],
+    [
+      "Regulatory and quality rules",
+      "The report says it reaches markets such as Europe and the United States, where compliance risks are inherent to the business, and it must keep following changing rules."
+    ],
+    [
+      "Currency swings",
+      "The report says large exports and imports give it large exposure to exchange rates, which have been volatile and are hard to predict."
+    ],
+    [
+      "Supply and input costs",
+      "The report says geopolitical uncertainty, shifting trade policy and transport disruption can affect sourcing costs and delivery times, and that China's withdrawal of export tax rebates could raise some input costs."
+    ]
+  ],
+  "context": [
+    "Peptide Centre of Excellence opened in 2025-26",
+    "The report says Divi's inaugurated a Peptide Centre of Excellence during the year and is working with several large drug companies on peptide medicines at different stages of trials. It also marked 20 years of its nutraceuticals business."
+  ],
+  "sources": [
+    [
+      "Divi's Laboratories Annual Report 2025-26 (company website)",
+      "https://divislabs.com/wp-content/uploads/2026/07/Annual-Report2025-26.pdf"
+    ],
+    [
+      "Divi's Laboratories nutraceuticals page",
+      "https://divislabs.com/api-manufacturer-world/nutraceuticals-company"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "Divi's revenue, profit and segment figures are pending verification against the filed results, so none are shown here."
+    }
+  ],
+  "stepsTitle": "From a laboratory process to an ingredient shipped abroad.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "It makes active ingredients for medicines, ingredients made to order for drug companies, and vitamin and nutrition ingredients."
+    },
+    {
+      "title": "Who pays",
+      "text": "Drug companies, and food, supplement and animal feed makers, mostly outside India."
+    },
+    {
+      "title": "How it earns",
+      "text": "It sells the chemicals it makes at a price above the cost of materials, power and running its factories."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Materials, power and fuel, repairs, packing, research and development, freight and sales commission."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Focus on ingredients only",
+      "text": "The report says Divi's chose to stay API-led, meaning it makes ingredients and not finished brands, so it does not compete with its own customers and can go deeper in its chemistry."
+    },
+    {
+      "title": "Making earlier steps itself",
+      "text": "The report says backward integration, making starting chemicals in-house, improves cost, supply reliability and speed. It is investing in more of this, for example at its Unit 3 in Kakinada."
+    },
+    {
+      "title": "Growing demand for peptides",
+      "text": "The report says the pharmaceutical industry is seeing strong growth in peptides, driven by demand for more targeted therapies. Divi's has built a dedicated centre and building-block capability to serve it."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Pricing pressure on standard APIs",
+      "text": "The report says its generics business faces persistent pricing pressure across the market, which limited value growth even though volumes were steady."
+    },
+    {
+      "title": "Harder work needs more skill",
+      "text": "The report says higher-value opportunities come with materially higher thresholds for delivering well, as project complexity and regulatory expectations rise. Meeting these costs time and money."
+    },
+    {
+      "title": "Spending ahead of sales",
+      "text": "The report says three major capacity projects, backed by long-term supply commitments, should begin contributing over the next 12 to 24 months, subject to customer approvals and regulatory clearances. Money is spent well before extra sales arrive."
+    }
+  ],
+  "checked": "14 November 2026",
+  "products": [
+    [
+      "Generic APIs",
+      "Active ingredients for medicines whose patents have ended"
+    ],
+    [
+      "Custom synthesis",
+      "Medicine ingredients made to a drug company’s own design"
+    ],
+    [
+      "Peptides",
+      "Chains of amino acids and their building blocks, used in newer medicines"
+    ],
+    [
+      "Carotenoids",
+      "Nutrition ingredients such as beta-carotene and lycopene"
+    ],
+    [
+      "Fat-soluble vitamins",
+      "Vitamins A, D2, D3, E and K2 for food and supplements"
+    ],
+    [
+      "Starting materials and intermediates",
+      "Chemicals made in-house that go into the finished ingredient"
+    ],
+    [
+      "Process development",
+      "Laboratory work that proves a new process before factory scale"
+    ]
+  ]
+}
