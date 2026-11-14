@@ -1,0 +1,24 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated · includes J.B. Chemicals & Pharmaceuticals from 21 January 2026",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited annual financial statements",
+  "checked": "14 November 2026",
+  "coverage": "Whole-group totals · one reported business segment",
+  "profitMetric": "Profit after tax",
+  "definition": "Group profit for the year after all expenses, exceptional items and tax, including the share that belongs to minority owners of subsidiaries. It is not operating profit or cash flow.",
+  "rows": [
+    {
+      "name": "Torrent Pharmaceuticals · whole group",
+      "revenue": 13979.73,
+      "profit": 2138.18
+    }
+  ],
+  "source": "https://www.torrentpharma.com/pdf/investors/AR-2025-26.pdf",
+  "location": "Integrated annual report 2025–26, PDF page 170 (printed pages 336–337), consolidated statement of profit and loss; PDF pages 197–198, note 38 (segment and customers); PDF page 202, note 40 (exceptional items); PDF pages 203–204, note 42 (J.B. Chemicals acquisition)",
+  "notes": "Figures are reported in ₹ crore and are not converted. Revenue is revenue from operations; other income was a net loss of ₹93.58 crore and is excluded. J.B. Chemicals & Pharmaceuticals became a subsidiary on 21 January 2026, so its results are in for only the last part of the year: from that date to 31 March 2026 it added revenue of ₹775.40 crore and profit before tax of ₹191.87 crore. The company says that, had the acquisition happened on 1 April 2025, group revenue would have been about ₹17,352 crore and profit before tax ₹2,570 crore. The previous year (revenue ₹11,516.09 crore, profit ₹1,911.25 crore) has no J.B. figures, so the two years are not like-for-like. The merger of J.B. Chemicals into Torrent has been filed with the tribunal and was not yet effective in the report. Group profit after tax includes ₹25.19 crore of loss that belongs to J.B. Chemicals' minority shareholders; profit attributable to Torrent's owners is ₹2,163.37 crore. Profit is after exceptional items of ₹88.75 crore: ₹70.02 crore of regulatory and statutory fees and related costs of the J.B. acquisition and ₹18.72 crore of severance pay for restructuring J.B.'s distribution network (the filing's two figures add to ₹88.74 crore; the ₹0.01 crore gap is rounding). Torrent reports one segment, generic formulations, and no customer brought in more than 10% of revenue. It does not disclose profit by brand or market.",
+  "insight": "Torrent's profit was earned on a business that grew partly by buying J.B. Chemicals late in the year. The year's totals cannot be compared directly with the previous year or used to show what J.B. will add over a full year.",
+  "status": "single",
+  "revenueTotal": 13979.73,
+  "profitTotal": 2138.18
+}
