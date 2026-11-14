@@ -38,7 +38,7 @@
     },
     {
       "title": "What are power distribution companies, and what are electricity losses?",
-      "text": "A DISCOM (distribution company) delivers electricity to customers. AT&C (aggregate technical and commercial) losses are the share of electricity put into the network that is lost on the wires or never paid for. Lower losses mean more of the power sold turns into cash."
+      "text": "A DISCOM (distribution company) delivers electricity to customers. AT&C (aggregate technical and commercial) loss is the share of electricity put into the network that is lost on the wires or never paid for. Lower losses mean more of the power sold turns into cash."
     },
     {
       "title": "What do MW (megawatt) and GW (gigawatt) mean?",
@@ -87,9 +87,9 @@
   ],
   "watch": [
     [
-      "How is the Mundra plant doing under its new agreement?",
-      "A fixed-price contract and imported coal can leave a plant earning less than it costs to run, which the report calls under-recovery.",
-      "Read what the report says about Mundra's contract changes and compare the plant's results across years."
+      "How is the Mundra coal power plant doing under its new agreement?",
+      "Mundra is a coal-fired power plant in Gujarat. If the buyer's price is fixed and the coal is imported, the plant can earn less than its fuel costs. The report calls this shortfall under-recovery.",
+      "Read what the report says about the changes to Mundra's selling agreement and compare the plant's results across years."
     ],
     [
       "Are electricity losses falling in Odisha?",
@@ -114,8 +114,8 @@
   ],
   "risks": [
     [
-      "Coal cost at Mundra can exceed what the contract pays",
-      "The report names coal under-recovery at Mundra, which it says is influenced by rigid contract tariffs, imported coal, currency swings and limits on passing costs on."
+      "Coal cost at the Mundra plant can exceed what the buyer pays",
+      "The report names under-recovery at Mundra, where coal costs exceed the price paid. It says this is influenced by fixed contract prices (tariffs), imported coal, currency swings and limits on passing costs on to the buyer."
     ],
     [
       "Cyber attacks on grids and customer systems",
@@ -132,7 +132,7 @@
   ],
   "context": [
     "2025-26: Mundra plant paused, then a supplementary agreement signed",
-    "The report says the Mundra plant's operations were temporarily suspended from July 2025 until March 2026. It also says a supplementary power purchase agreement (SPPA) was signed with GUVNL (Gujarat Urja Vikas Nigam, a Gujarat state electricity buyer, as general explanation), and that talks with other buyers are continuing."
+    "The report says the Mundra plant's operations were temporarily suspended from July 2025 until March 2026. It also says an extra power purchase agreement (an add-on to the original selling contract) was signed with GUVNL (Gujarat Urja Vikas Nigam, the Gujarat state electricity buyer), and that talks with other buyers are continuing."
   ],
   "sources": [
     [

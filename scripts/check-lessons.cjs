@@ -86,7 +86,7 @@ function validateLesson(lesson,ownNames=[]){
    const n=sentence.split(/\s+/).length;
    if(n>R.maxSentenceWords)warnings.push(`${where}: a ${n}-word sentence is hard for a beginner; split it ("${sentence.slice(0,50)}…")`);
   }
-  for(const m of text.matchAll(/\b[A-Z]{2,6}\b/g)){
+  for(const m of text.matchAll(/\b[A-Z]{2,6}\b(?!&)/g)){
    const a=m[0];if(allowed.has(a)||seenAbbr.has(a))continue;seenAbbr.add(a);
    const before=text.slice(Math.max(0,m.index-3),m.index),after=text.slice(m.index+a.length,m.index+a.length+3);
    const defined=before.includes('(')||/^\s*\(/.test(after)||/^\)/.test(after);

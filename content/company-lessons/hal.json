@@ -1,13 +1,13 @@
 {
   "summary": "Hindustan Aeronautics (HAL) is a government company that designs, builds, repairs and upgrades military aircraft, helicopters and aircraft engines, mainly for the Indian armed forces.",
-  "description": "Air forces and armies need aircraft that fly, helicopters that carry troops and weapons, and engines to power them. HAL makes these in 20 factory divisions and 10 research centres in seven states. Its work is of three kinds: designing new aircraft, building them, and repairing, overhauling and upgrading aircraft already in service. To overhaul an aircraft is to strip it down, replace worn parts and test it again. Examples are the Tejas light fighter jet, the Dhruv and Prachand helicopters, trainer aircraft in which new pilots learn to fly, and aircraft engines.",
+  "description": "Air forces and armies need aircraft that fly, helicopters that carry troops and weapons, and engines to power them. HAL makes these in 20 factory divisions and 10 research centres in seven states. Its work is of three kinds: designing new aircraft, building them, and repairing, overhauling and upgrading aircraft already in service. To overhaul an aircraft is to strip it down, replace worn parts and test it again. Examples are the Tejas light fighter jet (Mk1A is its latest version), the Dhruv and Prachand helicopters, trainer aircraft in which new pilots learn to fly, and aircraft engines.",
   "money": "Customers pay HAL for each aircraft or helicopter delivered, for repair and overhaul jobs, for spares and for design work paid in stages. The report says it records income for a delivered aircraft when the buyer's inspector or pilot accepts it, for development work as agreed milestones are reached, and for support contracts as aircraft stay available. As general explanation, the main costs are parts and materials, staff and factories. A customer's payment is not profit.",
   "customers": "The main customer is the Indian armed forces, through the Ministry of Defence (MoD). The report says HAL is a government entity under the control of the MoD, and that almost all of its sales, and almost all of the advances customers pay before delivery, come from government and government-related bodies. It also sells helicopters and aircraft to civil buyers and abroad.",
   "drivers": "Mostly the size of orders from the Ministry of Defence and how fast HAL turns them into delivered aircraft, supplies of engines and parts from foreign makers, the price agreed in each contract, and how smoothly new aircraft programmes are completed.",
   "groups": [
     {
       "title": "Fighter and trainer aircraft",
-      "examples": "The Tejas light combat aircraft, the HTT-40 trainer, and repair and upgrade of Su-30MKI fighters.",
+      "examples": "The Tejas light combat aircraft, the HTT-40 trainer, and repair and upgrade of Su-30MKI fighter jets.",
       "explanation": "These are fixed-wing aircraft, the kind with wings and a runway take-off. The air force pays HAL to build new ones, to keep older ones flying, and to fit newer radar and electronics."
     },
     {
@@ -56,7 +56,7 @@
     },
     {
       "title": "The aircraft is built and tested",
-      "text": "Aircraft and helicopters are assembled on production lines and flown in test sorties, which are test flights."
+      "text": "Aircraft and helicopters are assembled on production lines and flown in test flights."
     },
     {
       "title": "The buyer accepts it",
@@ -105,13 +105,13 @@
     [
       "Do new programmes reach production?",
       "Helicopters and aircraft still being designed spend money for years before they bring in any.",
-      "Track the report's progress notes on the Indian Multi-Role Helicopter, the Tejas Mk2 and the unmanned combat air teaming programmes over several years."
+      "Track the report's progress notes on the Indian Multi-Role Helicopter (a new troop-carrying helicopter), the Tejas Mk2 (a bigger Tejas) and its plans for pilotless aircraft flying with piloted fighters, over several years."
     ]
   ],
   "risks": [
     [
       "Dependence on foreign suppliers for critical parts",
-      "The report lists dependence on foreign original equipment makers for critical components and spares. If they deliver late, aircraft deliveries can be delayed."
+      "The report lists dependence on foreign companies that designed the original engines and parts for critical components and spares. If they deliver late, aircraft deliveries can be delayed."
     ],
     [
       "Dependence on a limited number of customers",
@@ -122,8 +122,8 @@
       "The report lists competition from domestic and foreign players, including Indian private companies working with global makers."
     ],
     [
-      "Tight timelines and certification",
-      "The report lists challenges in meeting aggressive timelines for complex indigenous platforms, integration issues and certification requirements. A late programme delays income."
+      "Tight timelines and approvals",
+      "The report lists challenges in meeting aggressive timelines for complex Indian-designed aircraft, problems fitting parts together and official approval requirements. A late programme delays income."
     ]
   ],
   "context": [
@@ -172,7 +172,7 @@
     },
     {
       "title": "Policy support for Indian-made equipment",
-      "text": "The report names the Atmanirbhar Bharat campaign for self-reliance and the Positive Indigenisation List, as government policies promoting self-reliance and Indian-made products."
+      "text": "The report names the Atmanirbhar Bharat campaign for self-reliance and the Positive Indigenisation List (items the armed forces are told to buy only from Indian makers) as government policies promoting Indian-made products."
     },
     {
       "title": "Design, build and repair under one roof",
@@ -190,7 +190,7 @@
     },
     {
       "title": "Move from nomination to competition",
-      "text": "The report says regular customers may move from nominating HAL to competitive buying, which would make orders harder to win."
+      "text": "The report says regular customers may move from handing HAL orders directly (nomination) to inviting bids from several makers, which would make orders harder to win."
     }
   ],
   "checked": "14 November 2026"
