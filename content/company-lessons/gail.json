@@ -202,5 +202,39 @@
       "text": "The report says GAIL largely imports LNG, capital goods and spares, and has a policy to manage the exposure. General explanation: a weaker rupee makes these dearer."
     }
   ],
-  "checked": "14 November 2026"
+  "checked": "14 November 2026",
+  "products": [
+    [
+      "Gas pipelines",
+      "Pipes that carry natural gas across India"
+    ],
+    [
+      "City gas",
+      "Gas for vehicles and kitchens through city networks"
+    ],
+    [
+      "Gas for industry",
+      "Natural gas sold to fertiliser and power plants and factories"
+    ],
+    [
+      "Gas processing",
+      "Separating cooking gas and other fuels out of natural gas"
+    ],
+    [
+      "LNG ships",
+      "Liquefied natural gas brought in by sea"
+    ],
+    [
+      "LPG",
+      "Cooking gas sold in bulk"
+    ],
+    [
+      "LPG pipelines",
+      "Pipes that carry cooking gas to bottling plants"
+    ],
+    [
+      "Polymers",
+      "Plastic made from gas"
+    ]
+  ]
 }

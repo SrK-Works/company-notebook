@@ -202,5 +202,43 @@
       "text": "The report lists rising use of electric vehicles, hydrogen and biofuels and changing fuel demand as a risk to fuel sales over time."
     }
   ],
-  "checked": "14 November 2026"
+  "checked": "14 November 2026",
+  "products": [
+    [
+      "Petrol and diesel pumps",
+      "Fuel sold to drivers at filling stations"
+    ],
+    [
+      "Cooking gas cylinders",
+      "LPG cylinders delivered to homes"
+    ],
+    [
+      "Aviation fuel",
+      "Fuel filled into aircraft at airports"
+    ],
+    [
+      "CNG stations",
+      "Compressed natural gas for vehicles"
+    ],
+    [
+      "Electric charging",
+      "Charging points for electric vehicles"
+    ],
+    [
+      "Lubricants",
+      "Engine and machine oils"
+    ],
+    [
+      "Petrochemicals",
+      "Plastics and chemical raw materials"
+    ],
+    [
+      "Pipelines",
+      "Underground pipes that carry crude oil and fuel"
+    ],
+    [
+      "Refineries",
+      "Plants that turn crude oil into fuels"
+    ]
+  ]
 }

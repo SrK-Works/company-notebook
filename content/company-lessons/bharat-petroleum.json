@@ -206,5 +206,43 @@
       "text": "The report lists evolving climate regulations among the pressures on energy companies, which must balance investment in conventional fuels with newer energy."
     }
   ],
-  "checked": "14 November 2026"
+  "checked": "14 November 2026",
+  "products": [
+    [
+      "Fuel stations",
+      "Petrol and diesel sold at retail outlets"
+    ],
+    [
+      "BharatGas cylinders",
+      "Cooking gas cylinders for homes"
+    ],
+    [
+      "Aviation fuel",
+      "Fuel filled into aircraft at airports"
+    ],
+    [
+      "CNG and piped gas",
+      "Natural gas for vehicles and homes"
+    ],
+    [
+      "Electric charging",
+      "Fast charging points for electric vehicles"
+    ],
+    [
+      "Industrial fuels",
+      "Fuels sold directly to factories, power plants and railways"
+    ],
+    [
+      "MAK lubricants",
+      "Engine and machine oils"
+    ],
+    [
+      "Refineries",
+      "Plants that turn crude oil into fuels"
+    ],
+    [
+      "BeCafe and In & Out stores",
+      "Cafes and shops at fuel stations"
+    ]
+  ]
 }
