@@ -1,0 +1,33 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited consolidated financial statements in the annual report",
+  "checked": "14 November 2026",
+  "coverage": "Reported business segments · income after inter-segment sales are removed",
+  "revenueLabel": "Segment income",
+  "incomeDefinition": "Sales to outside customers plus other income, after sales between the two segments are removed. The rows add up to the group’s total income.",
+  "profitMetric": "Profit for the period",
+  "definition": "Each segment’s profit after its own interest and tax, including the share of an associate’s result for automotive. It is not operating profit or cash flow.",
+  "rows": [
+    {
+      "name": "Automotive vehicles and parts",
+      "revenue": 48904.68,
+      "profit": 2270.06
+    },
+    {
+      "name": "Financial services",
+      "revenue": 7186.85,
+      "profit": 916.36
+    }
+  ],
+  "source": "https://tvsmotor.com/-/media/Feature/Investors/Financial-Reports/28-07-26/34th-Annual-Report-2025-26.pdf",
+  "location": "TVS Motor Company 34th annual report 2025–26: consolidated statement of profit and loss, PDF page 165 (printed pages 326–327); note 47 segment information, PDF page 199 (printed pages 394–395); note 50 Labour Codes, PDF page 201",
+  "notes": "Consolidated means TVS Motor and its subsidiaries together. Segment income of ₹56,091.53 crore is the group’s total income: revenue from operations of ₹56,069.52 crore plus other income of ₹22.01 crore, after removing ₹17.26 crore of sales between segments. Segment profits add up to the group profit for the year of ₹3,186.43 crore (the automotive figure is after a ₹41.06 crore share of loss from associates). Of that, ₹3,018.33 crore belongs to the owners of TVS Motor and ₹168.10 crore to other shareholders of its subsidiaries. Profit is after exceptional items of ₹50.08 crore, which the company says is the extra liability for employees’ past service under the new Labour Codes (four labour laws the government notified on 21 November 2025), shown separately because it is a regulator-driven, non-recurring charge. Segment results before interest and tax are ₹3,916.55 crore for automotive and ₹1,241.78 crore for financial services, but the profit shown above is after interest and tax.",
+  "insight": "Automotive vehicles and parts brings in most of the income and most of the profit, but financial services earns a large share of the profit from a much smaller income. A one-off Labour Codes charge reduced the year’s profit.",
+  "status": "segments",
+  "revenueTotal": 56091.53,
+  "revenueTotalLabel": "Group total income (revenue from operations plus other income)",
+  "profitTotal": 3186.43,
+  "profitTotalLabel": "Group profit for the year"
+}
