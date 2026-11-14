@@ -6351,6 +6351,86 @@
       "kind": "illustration",
       "alt": "Hydrogen and electric vehicle systems — conceptual illustration; not a photograph or product image",
       "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "cummins-india",
+      "name": "Diesel generator sets",
+      "category": "Engine-driven generators that supply electricity",
+      "image": "assets/products/cummins-india-diesel-generator-sets.svg",
+      "url": "https://cummins.com/sites/default/files/india/Legal/cummins-india_annual-report_2025_26.pdf",
+      "kind": "illustration",
+      "alt": "Diesel generator sets — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "cummins-india",
+      "name": "Backup power for data centres",
+      "category": "Generator sets built for data-centre power cuts",
+      "image": "assets/products/cummins-india-data-centre-backup-power.svg",
+      "url": "https://cummins.com/sites/default/files/india/Legal/cummins-india_annual-report_2025_26.pdf",
+      "kind": "illustration",
+      "alt": "Backup power for data centres — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "cummins-india",
+      "name": "Engines for machinery",
+      "category": "Engines for excavators, pumps, compressors and gas compression",
+      "image": "assets/products/cummins-india-engines-for-machinery.svg",
+      "url": "https://cummins.com/sites/default/files/india/Legal/cummins-india_annual-report_2025_26.pdf",
+      "kind": "illustration",
+      "alt": "Engines for machinery — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "cummins-india",
+      "name": "Rail engines and power cars",
+      "category": "Engines and generators for railway tower cars and coaches",
+      "image": "assets/products/cummins-india-rail-engines.svg",
+      "url": "https://cummins.com/sites/default/files/india/Legal/cummins-india_annual-report_2025_26.pdf",
+      "kind": "illustration",
+      "alt": "Rail engines and power cars — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "cummins-india",
+      "name": "Marine engines",
+      "category": "Engines and generators for ships and boats",
+      "image": "assets/products/cummins-india-marine-engines.svg",
+      "url": "https://cummins.com/sites/default/files/india/Legal/cummins-india_annual-report_2025_26.pdf",
+      "kind": "illustration",
+      "alt": "Marine engines — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "cummins-india",
+      "name": "Mining trucks",
+      "category": "Engines for mine dump trucks and underground mining trucks",
+      "image": "assets/products/cummins-india-mining-trucks.svg",
+      "url": "https://cummins.com/sites/default/files/india/Legal/cummins-india_annual-report_2025_26.pdf",
+      "kind": "illustration",
+      "alt": "Mining trucks — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "cummins-india",
+      "name": "Spare parts and service",
+      "category": "Spare parts, repairs and rebuilt engines",
+      "image": "assets/products/cummins-india-spares-and-service.svg",
+      "url": "https://cummins.com/sites/default/files/india/Legal/cummins-india_annual-report_2025_26.pdf",
+      "kind": "illustration",
+      "alt": "Spare parts and service — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "cummins-india",
+      "name": "Generator sets for export",
+      "category": "Generator sets sold to customers outside India",
+      "image": "assets/products/cummins-india-export-sales.svg",
+      "url": "https://cummins.com/sites/default/files/india/Legal/cummins-india_annual-report_2025_26.pdf",
+      "kind": "illustration",
+      "alt": "Generator sets for export — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
     }
   ]
 }

@@ -1,0 +1,235 @@
+{
+  "summary": "Cummins India builds engines and generator sets, which make electricity, for machines, ships, trains and buildings, and sells the spare parts, repairs and rebuilt engines that keep them running.",
+  "description": "Cummins India Limited makes diesel and gas engines in India for excavators, mining trucks, railway vehicles, ships and defence vehicles. It also makes generator sets, which are engines that drive a machine producing electricity for places such as data centres and factories when the grid fails or is absent. It sells engines to the companies that build machines, sells generator sets to businesses, and then keeps earning from parts, repairs and rebuilt engines as the machines age. The report says its Cummins Inc. parent in the USA supplies technology, engineering and research.",
+  "money": "Cummins India earns money by selling engines and generator sets in India and abroad, and by selling spare parts, service and rebuilt engines for machines already in use. The report mentions rate contracts with mining, infrastructure and railway customers; typically, a rate contract fixes the price of parts in advance. Its costs include materials and components, staff pay and running its factories. A customer's payment is not profit, and money for a large order may arrive months after work starts.",
+  "customers": "Machine makers buy engines to fit into excavators, pumps, compressors, mining trucks and defence vehicles. Indian Railways and shipyards buy engines and generator sets for trains and ships. Businesses such as data centres, property developers and factories buy generator sets for backup power. Foreign buyers in the Americas, Europe, Africa and the Middle East also buy. Owners of machines pay for parts and repairs.",
+  "drivers": "How many machines and buildings need engines or backup power, how often large orders arrive, the price of materials, and how many machines in use need parts and repairs.",
+  "groups": [
+    {
+      "title": "Generator sets for backup and main power",
+      "examples": "A generator set housed in a weatherproof box that supplies a data centre, a shopping complex or a factory.",
+      "explanation": "The report lists data centres, commercial property, manufacturing, infrastructure and quick-delivery commerce as the main customers. It sizes sets in kVA, a unit of electrical power, and launched a compact 82.5 kVA set during the year."
+    },
+    {
+      "title": "Engines for machines",
+      "examples": "Engines for excavators, pumps, compressors and the compressors that push gas through city pipelines.",
+      "explanation": "Machine makers, which the report calls OEMs (original equipment manufacturers), buy these engines and build them into their own machines. The report says the engines must meet exhaust rules, and that wheeled construction machines moved to a new, stricter stage of those rules."
+    },
+    {
+      "title": "Engines for railways, ships and mines",
+      "examples": "Engines for track-maintenance machines, diesel alternator sets for train coaches, ship engines and engines for mine dump trucks.",
+      "explanation": "Indian Railways, shipyards, the navy and mine operators buy these as large projects. The report describes complete propulsion packages for rail tower cars, which carry crews to maintain overhead power lines, and engines and generator sets for tugs and patrol ships."
+    },
+    {
+      "title": "Spare parts, repairs and rebuilt engines",
+      "examples": "A replacement part, a repair visit, or a rebuilt engine put back in an old machine.",
+      "explanation": "The report calls this the Distribution Business. It earns from the engines and generator sets already in use, including re-powering, which means replacing an old engine in a machine with a new one."
+    },
+    {
+      "title": "Exports",
+      "examples": "Generator sets sold to buyers outside India.",
+      "explanation": "The report says it exports to countries including the Americas, Europe, Mexico, Africa, the Middle East and China, and that export growth came from smaller generator sets in Africa, the Middle East and Europe."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is a generator set, and what does kVA mean?",
+      "text": "Typically, a generator set joins an engine to an alternator, which turns the engine's spinning into electricity. The report sizes sets in kVA (kilovolt-ampere), a unit of electrical power: a bigger number can supply more equipment at once."
+    },
+    {
+      "title": "What is the aftermarket, and why does it matter?",
+      "text": "The aftermarket is the parts, repairs and service bought after a machine has been sold. The report says the distribution business benefits from a growing base of generator sets in use, so each sale can lead to years of parts and service work."
+    },
+    {
+      "title": "Which companies does Cummins India own only in part?",
+      "text": "It owns 50% of Valvoline Cummins Private Limited, a joint venture with Valvoline International Inc., USA, a lubricants and engine-oil company. It also owns 48.74% of Cummins Generator Technologies India Private Limited, which makes alternators and spare parts. These are not subsidiaries, so their sales are theirs and not Cummins India's own sales. The report says it sold its subsidiary Cummins Sales & Service Private Limited, which ceased to be a subsidiary on 1 April 2025."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Match the engine to the rules",
+      "text": "Cummins India designs engines to meet the exhaust rules for each type of machine, drawing on technology from its parent, Cummins Inc."
+    },
+    {
+      "title": "Build and test",
+      "text": "Engines and generator sets are made in its factories and tested before delivery."
+    },
+    {
+      "title": "Sell to machine makers and businesses",
+      "text": "Machine makers fit the engines into their machines. Businesses, railways and shipyards buy generator sets or complete packages, often through dealers and as large projects."
+    },
+    {
+      "title": "Keep serving what was sold",
+      "text": "Customers return for parts, repairs and rebuilt engines. The report says rate contracts with mining, infrastructure and railway customers make parts sales more predictable."
+    },
+    {
+      "title": "Invoice and collect",
+      "text": "Typically, a customer is invoiced when goods are delivered and pays later. Revenue, profit and cash received are three separate things, and the report says data-centre sales vary with the timing of large projects."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Parts and service follow machines in use",
+      "text": "The report says a growing base of generator sets helps the distribution business. It also says many sets are on standby and run rarely, which limits how many parts each set needs."
+    },
+    {
+      "title": "Large, uneven orders",
+      "text": "Railway, marine, mining and data-centre work comes as large projects. The report says data-centre sales vary with the timing of large projects and customer commitments, so results can move from quarter to quarter."
+    },
+    {
+      "title": "A parent that supplies technology and trades with it",
+      "text": "The report says Cummins Inc., USA is the holding company and that the promoters hold 51.00% of shares. Cummins India draws on its technology and sells and buys engines, generator sets and parts with group companies."
+    },
+    {
+      "title": "Not everything it is linked to is in its own sales",
+      "text": "The report states revenue for the two part-owned companies separately. Their results affect Cummins India only through its share, not as its own sales."
+    }
+  ],
+  "watch": [
+    [
+      "How much work comes from large one-off projects compared with steady parts and service?",
+      "Projects such as data centres, ships and railway vehicles arrive unevenly, while parts and service follow the machines already in use.",
+      "Read the product-wise performance section each year and compare what it says about generator sets and engines with what it says about the distribution business."
+    ],
+    [
+      "Which customer industries are growing for engines?",
+      "The report lists mining, railways, marine, defence, oil and gas, and construction, and each depends on different government and private spending.",
+      "Compare the opportunities and threats listed for each industry in successive annual reports."
+    ],
+    [
+      "How much does it sell abroad, and where?",
+      "The report says export growth is linked to demand in key partner countries and that trade tensions made things more complex.",
+      "Compare export sales and the countries named in each year's management discussion, and note what is said about trade tensions."
+    ],
+    [
+      "How big are its dealings with the parent company group?",
+      "The report says it sells and buys engines, generator sets and parts with group companies, so some business depends on decisions made inside the group.",
+      "Read the related-party transactions section and compare sales to, and purchases from, group companies year by year."
+    ],
+    [
+      "Are the part-owned companies growing?",
+      "The lubricant joint venture and the alternator company reported revenue growth, and Cummins India shares in their profit.",
+      "Compare the two companies' revenue and profit in the subsidiaries, joint ventures and associates statement over several years."
+    ]
+  ],
+  "risks": [
+    [
+      "Export demand and trade tensions",
+      "The report says export growth is linked to demand in key partner countries, and that rising trade tensions made things more complex for export-oriented businesses."
+    ],
+    [
+      "Uneven private spending on equipment",
+      "The report says private companies' spending on equipment recovered unevenly, and that a slowdown in the global industrial cycle could reduce domestic demand for machines and engines."
+    ],
+    [
+      "Pressure on generator set prices",
+      "The report says domestic and international rivals are widening their ranges, which is intensifying competition and pricing pressure in power generation."
+    ],
+    [
+      "Input costs and tariffs",
+      "The report says global supply chain changes, raw material availability and new tariffs may cause variation in the cost of inputs, which it says it monitors."
+    ]
+  ],
+  "context": [
+    "Sold its sales and service subsidiary in 2025",
+    "Cummins India sold all of its shares in Cummins Sales & Service Private Limited, which ceased to be a subsidiary on 1 April 2025. Its own report treats that business as no longer part of the company."
+  ],
+  "sources": [
+    [
+      "Cummins India Limited Annual Report 2025-26 (company website)",
+      "https://cummins.com/sites/default/files/india/Legal/cummins-india_annual-report_2025_26.pdf"
+    ],
+    [
+      "Cummins India Limited annual reports page",
+      "https://www.cummins.com/en-na/en/in/investors/india-annual-reports"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "Cummins India's revenue, profit and segment figures are pending verification against the filed results, so none are shown here. The part-owned companies' results are reported separately from Cummins India's own."
+    }
+  ],
+  "stepsTitle": "From an engine order to parts and repair work.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "It builds engines and generator sets, and sells the parts, repairs and rebuilt engines that keep them running."
+    },
+    {
+      "title": "Who pays",
+      "text": "Machine makers, railways, shipyards, mine operators and businesses that need backup power, plus owners of machines that need parts and repair."
+    },
+    {
+      "title": "How it earns",
+      "text": "It sells engines and generator sets at a price above their cost, and earns again from parts and service as machines age."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Materials and components, staff, running factories, and technology and parts bought from group companies."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Demand from data centres and property",
+      "text": "The report says data centres, commercial property, manufacturing, infrastructure and quick commerce are driving growth in power generation, and its range is tailored to data-centre reliability needs."
+    },
+    {
+      "title": "A growing base of machines to service",
+      "text": "The report says the distribution business benefits from a growing base of generator sets in use. It also signed and renewed rate contracts with mining, infrastructure and railway customers, which make parts sales more predictable."
+    },
+    {
+      "title": "Push for homemade defence equipment",
+      "text": "The report says the government's push for Make in India in defence, along with stockpiling of critical components, is creating significant opportunities for indigenous engine makers like Cummins India."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Railway electrification",
+      "text": "The report says Indian Railways has almost finished electrifying its main network, which limits diesel engine use to niche vehicles. It also says railway products are price sensitive and slower to pay back."
+    },
+    {
+      "title": "Cheaper parts from rivals",
+      "text": "The report says lower-cost 'will-fit' parts and second-line brands from engine makers are pressuring prices of genuine parts. Typically, a will-fit part is made to suit an engine but is not sold by the engine's maker."
+    },
+    {
+      "title": "Gas compressors moving to electric motors",
+      "text": "The report says compressors in city gas networks are moving from engine-driven to motor-driven, which may keep demand for its gas compression engines low."
+    }
+  ],
+  "checked": "14 November 2026",
+  "products": [
+    [
+      "Diesel generator sets",
+      "Engine-driven generators that supply electricity"
+    ],
+    [
+      "Backup power for data centres",
+      "Generator sets built for data-centre power cuts"
+    ],
+    [
+      "Engines for machinery",
+      "Engines for excavators, pumps, compressors and gas compression"
+    ],
+    [
+      "Rail engines and power cars",
+      "Engines and generators for railway tower cars and coaches"
+    ],
+    [
+      "Marine engines",
+      "Engines and generators for ships and boats"
+    ],
+    [
+      "Mining trucks",
+      "Engines for mine dump trucks and underground mining trucks"
+    ],
+    [
+      "Spare parts and service",
+      "Spare parts, repairs and rebuilt engines"
+    ],
+    [
+      "Generator sets for export",
+      "Generator sets sold to customers outside India"
+    ]
+  ]
+}
