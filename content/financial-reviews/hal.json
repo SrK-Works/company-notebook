@@ -1,0 +1,24 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited results filed with BSE and NSE, 14 May 2026",
+  "checked": "14 November 2026",
+  "coverage": "Whole-group totals · no business segments reported",
+  "profitMetric": "Profit after tax",
+  "definition": "Profit for the year after all expenses and tax, including HAL’s share of its joint ventures’ profit of ₹43.62 crore. It is not operating profit or cash flow.",
+  "rows": [
+    {
+      "name": "Hindustan Aeronautics · whole group",
+      "revenue": 33088.82,
+      "profit": 9115.52
+    }
+  ],
+  "source": "https://bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=aff3e355-7676-4a95-831b-bf8e308c1b46.pdf",
+  "location": "Filing PDF page 7 (consolidated results, year ended 31-Mar-26 column; scanned copy, no printed page numbers), checked against the BSE consolidated Ind AS filing of 14 May 2026; notes on PDF pages 11–12",
+  "notes": "Source figures are in ₹ lakh and were divided by 100. Revenue is revenue from operations and excludes other income of ₹3,699.13 crore, which includes interest on deposits (the cash-flow statement shows interest income of ₹3,087.87 crore). Profit is after tax of ₹3,036.41 crore. Two notes in the results change this year’s profit: ₹163.90 crore of salary credited in earlier years was reversed, which lowered profit, and ₹44.99 crore of an earlier provision for flood-damaged customer-owned parts was reversed because the loss turned out smaller, which raised it; together they lowered profit before tax by ₹118.91 crore. HAL also began paying a higher pension contribution for workmen, adding ₹41.45 crore of cost this year. HAL does not report segments, because a government notification exempts defence-production companies from that accounting rule, so it does not disclose profit for aircraft, helicopters, engines or avionics and none is inferred.",
+  "insight": "HAL reports one combined business, so these totals cannot show which aircraft, helicopter or engine work earns the profit. Interest on its large deposits is outside revenue but inside profit.",
+  "status": "totals",
+  "revenueTotal": 33088.82,
+  "profitTotal": 9115.52
+}
