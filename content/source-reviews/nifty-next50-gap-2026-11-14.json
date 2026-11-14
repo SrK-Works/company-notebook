@@ -1,0 +1,471 @@
+{
+  "checked": "14 November 2026",
+  "source": "https://www.niftyindices.com/IndexConstituent/ind_niftynext50list.csv",
+  "sourceLabel": "NSE Indices Limited, NIFTY Next 50 constituent list (CSV)",
+  "sourcePage": "https://www.niftyindices.com/indices/equity/broad-based-indices/nifty-next-50",
+  "method": "Downloaded the official constituent CSV on 14 November 2026 and matched each NSE symbol with content/companies/. Batches of five are ordered so that businesses a beginner is likely to recognise come first.",
+  "counts": {
+    "constituents": 50,
+    "alreadyCovered": 2,
+    "missing": 48,
+    "addedSoFar": 0
+  },
+  "specialCases": [
+    "Tata Motors Ltd. (TMCV) in this list is the separately listed trucks and buses company that split from the passenger-vehicle company (see the NIFTY 50 gap file, TMPV).",
+    "Vedanta Aluminium Metal Ltd. (VAML) and Vedanta Ltd. (VEDL) are separate listed companies after the Vedanta demerger; check scope in each filing.",
+    "Siemens Energy India Ltd. (ENRIN) and Siemens Ltd. (SIEMENS) are separate companies; Hitachi Energy India (POWERINDIA) was formerly ABB Power Products.",
+    "LTM Ltd. (LTM) is the symbol and name in the current list; confirm any former name (for example LTIMindtree) from the filing."
+  ],
+  "constituents": [
+    {
+      "name": "ABB India Ltd.",
+      "ticker": "ABB",
+      "industry": "Capital Goods",
+      "isin": "INE117A01022",
+      "id": null,
+      "status": "missing",
+      "batch": 3
+    },
+    {
+      "name": "Adani Energy Solutions Ltd.",
+      "ticker": "ADANIENSOL",
+      "industry": "Power",
+      "isin": "INE931S01010",
+      "id": null,
+      "status": "missing",
+      "batch": 7
+    },
+    {
+      "name": "Adani Green Energy Ltd.",
+      "ticker": "ADANIGREEN",
+      "industry": "Power",
+      "isin": "INE364U01010",
+      "id": null,
+      "status": "missing",
+      "batch": 7
+    },
+    {
+      "name": "Adani Power Ltd.",
+      "ticker": "ADANIPOWER",
+      "industry": "Power",
+      "isin": "INE814H01029",
+      "id": null,
+      "status": "missing",
+      "batch": 7
+    },
+    {
+      "name": "Ambuja Cements Ltd.",
+      "ticker": "AMBUJACEM",
+      "industry": "Construction Materials",
+      "isin": "INE079A01024",
+      "id": null,
+      "status": "missing",
+      "batch": 7
+    },
+    {
+      "name": "Avenue Supermarts Ltd.",
+      "ticker": "DMART",
+      "industry": "Consumer Services",
+      "isin": "INE192R01011",
+      "id": "avenue-supermarts",
+      "status": "already covered",
+      "batch": null
+    },
+    {
+      "name": "Bajaj Holdings & Investment Ltd.",
+      "ticker": "BAJAJHLDNG",
+      "industry": "Financial Services",
+      "isin": "INE118A01012",
+      "id": null,
+      "status": "missing",
+      "batch": 9
+    },
+    {
+      "name": "Bank of Baroda",
+      "ticker": "BANKBARODA",
+      "industry": "Financial Services",
+      "isin": "INE028A01039",
+      "id": null,
+      "status": "missing",
+      "batch": 1
+    },
+    {
+      "name": "Bharat Petroleum Corporation Ltd.",
+      "ticker": "BPCL",
+      "industry": "Oil Gas & Consumable Fuels",
+      "isin": "INE029A01011",
+      "id": null,
+      "status": "missing",
+      "batch": 2
+    },
+    {
+      "name": "Bosch Ltd.",
+      "ticker": "BOSCHLTD",
+      "industry": "Automobile and Auto Components",
+      "isin": "INE323A01026",
+      "id": null,
+      "status": "missing",
+      "batch": 4
+    },
+    {
+      "name": "Britannia Industries Ltd.",
+      "ticker": "BRITANNIA",
+      "industry": "Fast Moving Consumer Goods",
+      "isin": "INE216A01030",
+      "id": "britannia",
+      "status": "already covered",
+      "batch": null
+    },
+    {
+      "name": "CG Power and Industrial Solutions Ltd.",
+      "ticker": "CGPOWER",
+      "industry": "Capital Goods",
+      "isin": "INE067A01029",
+      "id": null,
+      "status": "missing",
+      "batch": 9
+    },
+    {
+      "name": "Canara Bank",
+      "ticker": "CANBK",
+      "industry": "Financial Services",
+      "isin": "INE476A01022",
+      "id": null,
+      "status": "missing",
+      "batch": 6
+    },
+    {
+      "name": "Cholamandalam Investment and Finance Company Ltd.",
+      "ticker": "CHOLAFIN",
+      "industry": "Financial Services",
+      "isin": "INE121A01024",
+      "id": null,
+      "status": "missing",
+      "batch": 5
+    },
+    {
+      "name": "Cummins India Ltd.",
+      "ticker": "CUMMINSIND",
+      "industry": "Capital Goods",
+      "isin": "INE298A01020",
+      "id": null,
+      "status": "missing",
+      "batch": 4
+    },
+    {
+      "name": "DLF Ltd.",
+      "ticker": "DLF",
+      "industry": "Realty",
+      "isin": "INE271C01023",
+      "id": null,
+      "status": "missing",
+      "batch": 2
+    },
+    {
+      "name": "Divi's Laboratories Ltd.",
+      "ticker": "DIVISLAB",
+      "industry": "Healthcare",
+      "isin": "INE361B01024",
+      "id": null,
+      "status": "missing",
+      "batch": 4
+    },
+    {
+      "name": "GAIL (India) Ltd.",
+      "ticker": "GAIL",
+      "industry": "Oil Gas & Consumable Fuels",
+      "isin": "INE129A01019",
+      "id": null,
+      "status": "missing",
+      "batch": 2
+    },
+    {
+      "name": "Godrej Consumer Products Ltd.",
+      "ticker": "GODREJCP",
+      "industry": "Fast Moving Consumer Goods",
+      "isin": "INE102D01028",
+      "id": null,
+      "status": "missing",
+      "batch": 3
+    },
+    {
+      "name": "HDFC Asset Management Company Ltd.",
+      "ticker": "HDFCAMC",
+      "industry": "Financial Services",
+      "isin": "INE127D01025",
+      "id": null,
+      "status": "missing",
+      "batch": 5
+    },
+    {
+      "name": "Hindustan Aeronautics Ltd.",
+      "ticker": "HAL",
+      "industry": "Capital Goods",
+      "isin": "INE066F01020",
+      "id": null,
+      "status": "missing",
+      "batch": 1
+    },
+    {
+      "name": "Hindustan Zinc Ltd.",
+      "ticker": "HINDZINC",
+      "industry": "Metals & Mining",
+      "isin": "INE267A01025",
+      "id": null,
+      "status": "missing",
+      "batch": 7
+    },
+    {
+      "name": "Hitachi Energy India Ltd.",
+      "ticker": "POWERINDIA",
+      "industry": "Capital Goods",
+      "isin": "INE07Y701011",
+      "id": null,
+      "status": "missing",
+      "batch": 10
+    },
+    {
+      "name": "Hyundai Motor India Ltd.",
+      "ticker": "HYUNDAI",
+      "industry": "Automobile and Auto Components",
+      "isin": "INE0V6F01027",
+      "id": null,
+      "status": "missing",
+      "batch": 1
+    },
+    {
+      "name": "Indian Oil Corporation Ltd.",
+      "ticker": "IOC",
+      "industry": "Oil Gas & Consumable Fuels",
+      "isin": "INE242A01010",
+      "id": null,
+      "status": "missing",
+      "batch": 2
+    },
+    {
+      "name": "Indian Railway Finance Corporation Ltd.",
+      "ticker": "IRFC",
+      "industry": "Financial Services",
+      "isin": "INE053F01010",
+      "id": null,
+      "status": "missing",
+      "batch": 6
+    },
+    {
+      "name": "Jindal Steel Ltd.",
+      "ticker": "JINDALSTEL",
+      "industry": "Metals & Mining",
+      "isin": "INE749A01030",
+      "id": null,
+      "status": "missing",
+      "batch": 8
+    },
+    {
+      "name": "LTM Ltd.",
+      "ticker": "LTM",
+      "industry": "Information Technology",
+      "isin": "INE214T01019",
+      "id": null,
+      "status": "missing",
+      "batch": 9
+    },
+    {
+      "name": "Mazagoan Dock Shipbuilders Ltd.",
+      "ticker": "MAZDOCK",
+      "industry": "Capital Goods",
+      "isin": "INE249Z01020",
+      "id": null,
+      "status": "missing",
+      "batch": 9
+    },
+    {
+      "name": "Muthoot Finance Ltd.",
+      "ticker": "MUTHOOTFIN",
+      "industry": "Financial Services",
+      "isin": "INE414G01012",
+      "id": null,
+      "status": "missing",
+      "batch": 5
+    },
+    {
+      "name": "Pidilite Industries Ltd.",
+      "ticker": "PIDILITIND",
+      "industry": "Chemicals",
+      "isin": "INE318A01026",
+      "id": null,
+      "status": "missing",
+      "batch": 3
+    },
+    {
+      "name": "Polycab India Ltd.",
+      "ticker": "POLYCAB",
+      "industry": "Capital Goods",
+      "isin": "INE455K01017",
+      "id": null,
+      "status": "missing",
+      "batch": 3
+    },
+    {
+      "name": "Power Finance Corporation Ltd.",
+      "ticker": "PFC",
+      "industry": "Financial Services",
+      "isin": "INE134E01011",
+      "id": null,
+      "status": "missing",
+      "batch": 6
+    },
+    {
+      "name": "Punjab National Bank",
+      "ticker": "PNB",
+      "industry": "Financial Services",
+      "isin": "INE160A01022",
+      "id": null,
+      "status": "missing",
+      "batch": 6
+    },
+    {
+      "name": "Samvardhana Motherson International Ltd.",
+      "ticker": "MOTHERSON",
+      "industry": "Automobile and Auto Components",
+      "isin": "INE775A01035",
+      "id": null,
+      "status": "missing",
+      "batch": 8
+    },
+    {
+      "name": "Siemens Energy India Ltd.",
+      "ticker": "ENRIN",
+      "industry": "Capital Goods",
+      "isin": "INE1NPP01017",
+      "id": null,
+      "status": "missing",
+      "batch": 10
+    },
+    {
+      "name": "Siemens Ltd.",
+      "ticker": "SIEMENS",
+      "industry": "Capital Goods",
+      "isin": "INE003A01024",
+      "id": null,
+      "status": "missing",
+      "batch": 4
+    },
+    {
+      "name": "Solar Industries India Ltd.",
+      "ticker": "SOLARINDS",
+      "industry": "Chemicals",
+      "isin": "INE343H01029",
+      "id": null,
+      "status": "missing",
+      "batch": 10
+    },
+    {
+      "name": "TVS Motor Company Ltd.",
+      "ticker": "TVSMOTOR",
+      "industry": "Automobile and Auto Components",
+      "isin": "INE494B01023",
+      "id": null,
+      "status": "missing",
+      "batch": 2
+    },
+    {
+      "name": "Tata Capital Ltd.",
+      "ticker": "TATACAP",
+      "industry": "Financial Services",
+      "isin": "INE976I01016",
+      "id": null,
+      "status": "missing",
+      "batch": 5
+    },
+    {
+      "name": "Tata Motors Ltd.",
+      "ticker": "TMCV",
+      "industry": "Capital Goods",
+      "isin": "INE1TAE01010",
+      "id": null,
+      "status": "missing",
+      "batch": 8
+    },
+    {
+      "name": "Tata Power Co. Ltd.",
+      "ticker": "TATAPOWER",
+      "industry": "Power",
+      "isin": "INE245A01021",
+      "id": null,
+      "status": "missing",
+      "batch": 1
+    },
+    {
+      "name": "Torrent Pharmaceuticals Ltd.",
+      "ticker": "TORNTPHARM",
+      "industry": "Healthcare",
+      "isin": "INE685A01028",
+      "id": null,
+      "status": "missing",
+      "batch": 4
+    },
+    {
+      "name": "Union Bank of India",
+      "ticker": "UNIONBANK",
+      "industry": "Financial Services",
+      "isin": "INE692A01016",
+      "id": null,
+      "status": "missing",
+      "batch": 6
+    },
+    {
+      "name": "Varun Beverages Ltd.",
+      "ticker": "VBL",
+      "industry": "Fast Moving Consumer Goods",
+      "isin": "INE200M01039",
+      "id": null,
+      "status": "missing",
+      "batch": 3
+    },
+    {
+      "name": "Vedanta Aluminium Metal Ltd.",
+      "ticker": "VAML",
+      "industry": "Metals & Mining",
+      "isin": "INE1CDF01017",
+      "id": null,
+      "status": "missing",
+      "batch": 8
+    },
+    {
+      "name": "Vedanta Ltd.",
+      "ticker": "VEDL",
+      "industry": "Metals & Mining",
+      "isin": "INE205A01025",
+      "id": null,
+      "status": "missing",
+      "batch": 8
+    },
+    {
+      "name": "Vodafone Idea Ltd.",
+      "ticker": "IDEA",
+      "industry": "Telecommunication",
+      "isin": "INE669E01016",
+      "id": null,
+      "status": "missing",
+      "batch": 9
+    },
+    {
+      "name": "Wipro Ltd.",
+      "ticker": "WIPRO",
+      "industry": "Information Technology",
+      "isin": "INE075A01022",
+      "id": null,
+      "status": "missing",
+      "batch": 1
+    },
+    {
+      "name": "Zydus Lifesciences Ltd.",
+      "ticker": "ZYDUSLIFE",
+      "industry": "Healthcare",
+      "isin": "INE010B01027",
+      "id": null,
+      "status": "missing",
+      "batch": 5
+    }
+  ]
+}
