@@ -1,0 +1,31 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated · IFRS",
+  "coverage": "Reported business segments · IT Services and IT Products",
+  "unit": "₹ crore",
+  "profitMetric": "Segment result",
+  "definition": "Each segment’s operating profit: its revenue less its own costs, before finance costs, finance and other income, and tax. The rows add up to ₹15,920.5 crore; after a ‘reconciling items’ deduction of ₹795.4 crore the total is Wipro’s ₹15,125.1 crore result from operating activities. It is not profit after tax.",
+  "rows": [
+    {
+      "name": "IT Services",
+      "revenue": 92115.3,
+      "profit": 15864.6
+    },
+    {
+      "name": "IT Products",
+      "revenue": 694.0,
+      "profit": 55.9
+    }
+  ],
+  "source": "https://wipro.com/content/dam/nexus/en/investor/corporate-governance/stock-exchange-filing/wipro-announces-results-for-the-quarter-and-year-ended-march-31-2026-16-apr-2026.pdf",
+  "sourceLabel": "Results filed with NSE and BSE (IFRS), 16 April 2026",
+  "location": "PDF page 11 (printed page 10), information on reportable segments, year ended March 31, 2026 column; PDF page 10 (printed page 9), consolidated statements of income; PDF pages 4 and 19, Labour Code reconciliation",
+  "checked": "14 November 2026",
+  "notes": "Source figures are in ₹ million and were divided by 10. IT Services is split internally into four regional units; its result of ₹15,864.6 crore is after ₹342.6 crore of costs not assigned to a region. IT Products is Wipro’s resale of other companies’ security and packaged software. The ‘reconciling items’ of −₹795.4 crore are not itemised in the filing. From the result of ₹15,125.1 crore: finance expenses ₹1,457.7 crore, finance and other income ₹3,649.1 crore and the share of an associate and joint venture ₹25.7 crore give profit before tax of ₹17,342.2 crore; tax of ₹4,076.7 crore leaves profit for the year of ₹13,265.5 crore, of which ₹13,197.4 crore belongs to Wipro’s shareholders and ₹68.1 crore to minority holders. Segment revenue of ₹92,809.3 crore is ₹185.3 crore above the ₹92,624.0 crore revenue in the income statement; the filing does not itemise that difference. One-off: new Labour Codes (wage and labour rules) added a charge of ₹275.6 crore before tax for past gratuity and leave-encashment costs, or ₹228.1 crore after ₹47.5 crore of tax. Wipro’s own ‘adjusted’ net income without it is ₹13,425.5 crore. Wipro does not report profit by service line such as consulting or cybersecurity, and customer-concentration figures are not used here.",
+  "insight": "Almost all of Wipro’s revenue and segment result comes from IT Services; IT Products, mostly resold third-party software, is small. A one-off Labour Codes charge reduced this year’s profit.",
+  "status": "segments",
+  "revenueTotal": 92809.3,
+  "revenueTotalLabel": "Total segment revenue",
+  "profitTotal": 15920.5,
+  "profitTotalLabel": "Segment results before reconciling items"
+}

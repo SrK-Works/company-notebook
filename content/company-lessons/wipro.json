@@ -151,8 +151,8 @@
   ],
   "financialNotes": [
     {
-      "title": "Figures awaiting verification",
-      "text": "Revenue, profit, margin and large-deal figures are pending verification. The verified table will say whether each is consolidated, in which currency, and how operating profit is defined."
+      "title": "What the figures cover",
+      "text": "These figures are consolidated, meaning Wipro and its subsidiaries together, and follow IFRS (International Financial Reporting Standards), the accounting rules Wipro reports under. Wipro reports two segments, or business lines: IT Services, where it builds and runs software and systems for clients, and IT Products, where it resells other companies’ software. Segment result is each line’s operating profit before finance costs and tax; it is not profit after tax. This year’s profit includes a one-off charge of about ₹276 crore before tax for the new Labour Codes (government wage and labour rules), which raised what Wipro owes staff for past service, such as gratuity and unused leave."
     }
   ],
   "stepsTitle": "From a client contract to payment",
