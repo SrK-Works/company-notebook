@@ -1,0 +1,41 @@
+{
+  "period": "18 months · 1 October 2024 to 31 March 2026 (not a 12-month year)",
+  "basis": "Consolidated · continuing operations",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited annual financial statements",
+  "checked": "14 November 2026",
+  "coverage": "Reported business segments · segment revenue before inter-segment revenue · 18-month period",
+  "profitMetric": "Segment result",
+  "definition": "Each segment's profit from operations before finance costs, interest and other income, demerger-related expenses, the exceptional item and tax, with shared costs allocated by revenue. The rows add up to ₹2,518.3 crore, which becomes profit before tax from continuing operations of ₹3,054.0 crore after those items. It is not profit after tax.",
+  "rows": [
+    {
+      "name": "Smart Infrastructure",
+      "revenue": 14039.7,
+      "profit": 1848.0
+    },
+    {
+      "name": "Mobility",
+      "revenue": 4977.8,
+      "profit": 344.1
+    },
+    {
+      "name": "Digital Industries",
+      "revenue": 5872.2,
+      "profit": 304.2
+    },
+    {
+      "name": "Others (services to related parties and lease rentals)",
+      "revenue": 278.4,
+      "profit": 22.0
+    }
+  ],
+  "source": "https://assets.new.siemens.com/siemens/assets/api/uuid:6d32b927-bec4-43f3-bbee-d617b2888331/Annual-Report-Siemens-Limited-2024-26.pdf",
+  "location": "Annual report 2024–26, PDF pages 242–243 (printed pages 240–241), consolidated statement of profit and loss; PDF page 291 (printed page 289), note 47 segments; PDF page 285, note 40.1; PDF pages 328–329, note 58 (discontinued operations)",
+  "notes": "Source figures are in ₹ million and were divided by 10. Siemens changed its year-end, so this one-time financial year covers 18 months, from 1 October 2024 to 31 March 2026; the company says it is not strictly comparable with the previous 12-month year, and no comparison is made here. Segment revenue of ₹25,168.1 crore is before ₹322.5 crore of inter-segment revenue; after it, revenue from continuing operations is ₹24,845.6 crore. Continuing operations exclude the Energy business, demerged into Siemens Energy India Limited from 1 March 2025, and the Low Voltage Motors business, agreed for sale to Innomotics India Private Limited and not yet completed at the report date. Group profit after tax for the 18 months is ₹2,754.1 crore: ₹2,283.4 crore from continuing operations plus ₹470.7 crore from those two discontinued businesses (Energy only up to the demerger date). Of the total, ₹2,751.6 crore belongs to owners of the company and ₹2.5 crore to minority owners. Continuing profit is after an exceptional item of ₹74.3 crore: extra gratuity (retirement pay) and paid-leave provisions caused by the government's new Labour Codes, which the company calls regulator-driven and non-recurring. Segment results do not include ₹109.2 crore of demerger-related expenses, which are not allocated to segments. The company says no single customer is more than 10% of revenue. Siemens does not disclose profit for any single product.",
+  "insight": "Smart Infrastructure brings in more than half of the segment revenue and most of the segment result. Digital Industries earns a much smaller result on more revenue than Mobility does, so segment revenue alone does not show where profit comes from.",
+  "status": "segments",
+  "revenueTotal": 25168.1,
+  "revenueTotalLabel": "Segment revenue before inter-segment revenue",
+  "profitTotal": 2518.3,
+  "profitTotalLabel": "Total segment result"
+}
