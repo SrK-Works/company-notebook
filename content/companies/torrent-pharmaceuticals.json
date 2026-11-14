@@ -1,0 +1,94 @@
+{
+  "order": 85,
+  "company": {
+    "id": "torrent-pharmaceuticals",
+    "name": "Torrent Pharma",
+    "ticker": "TORNTPHARM",
+    "sector": "Healthcare",
+    "initial": "T",
+    "color": "#1d4ed8",
+    "bg": "#e8effd",
+    "tag": "Makes and sells branded and generic medicines, mainly for long-term conditions",
+    "sources": [
+      [
+        "Torrent Pharmaceuticals investor overview page",
+        "https://www.torrentpharma.com/investors/overview/"
+      ]
+    ],
+    "productSource": "https://torrentpharma.com/pdf/investors/AR-2025-26.pdf",
+    "checked": "14 November 2026",
+    "reviewed": "14 November 2026",
+    "aliases": [
+      "Torrent Pharmaceuticals Limited",
+      "Torrent Pharmaceuticals Ltd",
+      "Torrent Pharmaceuticals",
+      "Torrent Pharma"
+    ]
+  },
+  "offerings": [
+    {
+      "name": "Heart medicines",
+      "category": "Branded medicines for blood pressure, cholesterol and heart failure",
+      "image": "assets/products/torrent-pharmaceuticals-heart-medicines.svg",
+      "url": "https://torrentpharma.com/pdf/investors/AR-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a strip of tablets with heart marks — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Brain and nerve medicines",
+      "category": "Medicines for conditions such as depression and epilepsy",
+      "image": "assets/products/torrent-pharmaceuticals-brain-and-nerve-medicines.svg",
+      "url": "https://torrentpharma.com/pdf/investors/AR-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a tablet bottle — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Stomach and digestion medicines",
+      "category": "Medicines for stomach and gut conditions",
+      "image": "assets/products/torrent-pharmaceuticals-stomach-and-digestion-medicines.svg",
+      "url": "https://torrentpharma.com/pdf/investors/AR-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a medicine bottle and a measuring cup — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Skin medicines",
+      "category": "Creams and other medicines for skin conditions",
+      "image": "assets/products/torrent-pharmaceuticals-skin-medicines.svg",
+      "url": "https://torrentpharma.com/pdf/investors/AR-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a cream tube — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Pain relief",
+      "category": "Medicines for pain management",
+      "image": "assets/products/torrent-pharmaceuticals-pain-relief.svg",
+      "url": "https://torrentpharma.com/pdf/investors/AR-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a pain-relief patch — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Diabetes medicines",
+      "category": "Tablets that help control blood sugar",
+      "image": "assets/products/torrent-pharmaceuticals-diabetes-medicines.svg",
+      "url": "https://torrentpharma.com/pdf/investors/AR-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a glucose meter and a blood drop — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Generics for the US and Germany",
+      "category": "Lower-priced copies of medicines whose patents have ended",
+      "image": "assets/products/torrent-pharmaceuticals-generics-for-the-us-and-germany.svg",
+      "url": "https://torrentpharma.com/pdf/investors/AR-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a shipping carton with a medical cross — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Medicated lozenges",
+      "category": "Lozenges made for other companies’ brands",
+      "image": "assets/products/torrent-pharmaceuticals-medicated-lozenges.svg",
+      "url": "https://torrentpharma.com/pdf/investors/AR-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of round lozenges — conceptual picture; not a photograph or the company’s own image"
+    }
+  ]
+}
