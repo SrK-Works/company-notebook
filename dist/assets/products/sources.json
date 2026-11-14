@@ -7011,6 +7011,86 @@
       "kind": "illustration",
       "alt": "Power and network projects — conceptual illustration; not a photograph or product image",
       "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "varun-beverages",
+      "name": "Cola drinks",
+      "category": "Pepsi and Pepsi Zero, made under licence",
+      "image": "assets/products/varun-cola.svg",
+      "url": "https://varunbeverages.com/Annual-Report-FY-2025.pdf",
+      "kind": "illustration",
+      "alt": "Cola drinks — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "varun-beverages",
+      "name": "Other fizzy drinks",
+      "category": "Mountain Dew, Sting, Seven-Up, Mirinda and Evervess",
+      "image": "assets/products/varun-fizzy-can.svg",
+      "url": "https://varunbeverages.com/Annual-Report-FY-2025.pdf",
+      "kind": "illustration",
+      "alt": "Other fizzy drinks — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "varun-beverages",
+      "name": "Energy drinks",
+      "category": "Energy drinks, one of the licensed categories",
+      "image": "assets/products/varun-energy.svg",
+      "url": "https://varunbeverages.com/Annual-Report-FY-2025.pdf",
+      "kind": "illustration",
+      "alt": "Energy drinks — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "varun-beverages",
+      "name": "Juice-based drinks",
+      "category": "Slice and Tropicana juices",
+      "image": "assets/products/varun-juice.svg",
+      "url": "https://varunbeverages.com/Annual-Report-FY-2025.pdf",
+      "kind": "illustration",
+      "alt": "Juice-based drinks — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "varun-beverages",
+      "name": "Sports drink",
+      "category": "Gatorade",
+      "image": "assets/products/varun-sports.svg",
+      "url": "https://varunbeverages.com/Annual-Report-FY-2025.pdf",
+      "kind": "illustration",
+      "alt": "Sports drink — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "varun-beverages",
+      "name": "Packaged drinking water",
+      "category": "Aquafina bottled water",
+      "image": "assets/products/varun-water.svg",
+      "url": "https://varunbeverages.com/Annual-Report-FY-2025.pdf",
+      "kind": "illustration",
+      "alt": "Packaged drinking water — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "varun-beverages",
+      "name": "Snacks",
+      "category": "Cheetos and other PepsiCo snacks in parts of Africa",
+      "image": "assets/products/varun-snack-bag.svg",
+      "url": "https://varunbeverages.com/Annual-Report-FY-2025.pdf",
+      "kind": "illustration",
+      "alt": "Snacks — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "varun-beverages",
+      "name": "Beer test in Africa",
+      "category": "Carlsberg beer on trial in select territories",
+      "image": "assets/products/varun-beer.svg",
+      "url": "https://varunbeverages.com/Annual-Report-FY-2025.pdf",
+      "kind": "illustration",
+      "alt": "Beer test in Africa — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
     }
   ]
 }
