@@ -7,8 +7,8 @@
   "counts": {
     "constituents": 50,
     "alreadyCovered": 2,
-    "missing": 48,
-    "addedSoFar": 5
+    "missing": 33,
+    "addedSoFar": 15
   },
   "specialCases": [
     "Tata Motors Ltd. (TMCV) in this list is the separately listed trucks and buses company that split from the passenger-vehicle company (see the NIFTY 50 gap file, TMPV).",
@@ -22,8 +22,8 @@
       "ticker": "ABB",
       "industry": "Capital Goods",
       "isin": "INE117A01022",
-      "id": null,
-      "status": "missing",
+      "id": "abb-india",
+      "status": "added in batch 3",
       "batch": 3
     },
     {
@@ -94,8 +94,8 @@
       "ticker": "BPCL",
       "industry": "Oil Gas & Consumable Fuels",
       "isin": "INE029A01011",
-      "id": null,
-      "status": "missing",
+      "id": "bharat-petroleum",
+      "status": "added in batch 2",
       "batch": 2
     },
     {
@@ -157,8 +157,8 @@
       "ticker": "DLF",
       "industry": "Realty",
       "isin": "INE271C01023",
-      "id": null,
-      "status": "missing",
+      "id": "dlf",
+      "status": "added in batch 2",
       "batch": 2
     },
     {
@@ -175,8 +175,8 @@
       "ticker": "GAIL",
       "industry": "Oil Gas & Consumable Fuels",
       "isin": "INE129A01019",
-      "id": null,
-      "status": "missing",
+      "id": "gail",
+      "status": "added in batch 2",
       "batch": 2
     },
     {
@@ -184,8 +184,8 @@
       "ticker": "GODREJCP",
       "industry": "Fast Moving Consumer Goods",
       "isin": "INE102D01028",
-      "id": null,
-      "status": "missing",
+      "id": "godrej-consumer-products",
+      "status": "added in batch 3",
       "batch": 3
     },
     {
@@ -238,8 +238,8 @@
       "ticker": "IOC",
       "industry": "Oil Gas & Consumable Fuels",
       "isin": "INE242A01010",
-      "id": null,
-      "status": "missing",
+      "id": "indian-oil",
+      "status": "added in batch 2",
       "batch": 2
     },
     {
@@ -292,8 +292,8 @@
       "ticker": "PIDILITIND",
       "industry": "Chemicals",
       "isin": "INE318A01026",
-      "id": null,
-      "status": "missing",
+      "id": "pidilite-industries",
+      "status": "added in batch 3",
       "batch": 3
     },
     {
@@ -301,8 +301,8 @@
       "ticker": "POLYCAB",
       "industry": "Capital Goods",
       "isin": "INE455K01017",
-      "id": null,
-      "status": "missing",
+      "id": "polycab-india",
+      "status": "added in batch 3",
       "batch": 3
     },
     {
@@ -364,8 +364,8 @@
       "ticker": "TVSMOTOR",
       "industry": "Automobile and Auto Components",
       "isin": "INE494B01023",
-      "id": null,
-      "status": "missing",
+      "id": "tvs-motor",
+      "status": "added in batch 2",
       "batch": 2
     },
     {
@@ -418,8 +418,8 @@
       "ticker": "VBL",
       "industry": "Fast Moving Consumer Goods",
       "isin": "INE200M01039",
-      "id": null,
-      "status": "missing",
+      "id": "varun-beverages",
+      "status": "added in batch 3",
       "batch": 3
     },
     {
