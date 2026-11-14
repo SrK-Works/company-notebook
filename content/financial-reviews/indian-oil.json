@@ -1,0 +1,43 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited consolidated financial statements in the integrated annual report",
+  "checked": "14 November 2026",
+  "coverage": "Reported business segments · gross segment revenue before sales between segments are removed",
+  "revenueLabel": "Segment revenue",
+  "incomeDefinition": "Sales to outside customers plus sales to Indian Oil’s other segments, before adjustments. It includes excise duty collected on fuel. Rows add up to more than group revenue.",
+  "profitMetric": "Segment result",
+  "definition": "Each segment’s profit before finance cost, tax and items not allocated to a segment, after the segment’s own currency exchange gains or losses. It is not profit after tax.",
+  "rows": [
+    {
+      "name": "Sale of petroleum products",
+      "revenue": 842195.3,
+      "profit": 61227.03
+    },
+    {
+      "name": "Sale of petrochemicals",
+      "revenue": 28102.02,
+      "profit": 1015.02
+    },
+    {
+      "name": "Sale of gas",
+      "revenue": 44512.15,
+      "profit": -254.91
+    },
+    {
+      "name": "Other operating segment (oil and gas exploration, explosives and cryogenic, wind and solar power)",
+      "revenue": 5287.8,
+      "profit": 455.74
+    }
+  ],
+  "source": "https://iocl.com/admin/img/UploadedFiles/IntimationStockExchanges/Images/064587e5e07944f9b99b9353ae60bc48.pdf",
+  "location": "Indian Oil integrated annual report 2025–26: consolidated statement of profit and loss, PDF page 321 (printed page 318); consolidated note 39 segment information, PDF pages 399–400 (printed pages 396–397); note 23 revenue, PDF page 371; note 27 Labour Codes, PDF page 372; note 46 contribution of group companies, PDF page 420",
+  "notes": "Consolidated means Indian Oil and its subsidiaries together, including Chennai Petroleum Corporation (CPCL), which is a subsidiary. Joint ventures and associates are not added line by line; only the group’s share of their profit, ₹2,975.56 crore, is included in profit. Segment revenue rows total ₹920,097.27 crore; removing ₹18,644.57 crore of sales between segments gives group revenue from operations of ₹901,452.70 crore. That revenue includes excise duty, which the profit and loss statement also shows as a cost of ₹117,037.27 crore. Segment results total ₹62,442.88 crore, after a net exchange loss of ₹4,576.39 crore inside the segments. Deducting finance cost ₹8,307.88 crore, a further exchange loss of ₹3,136.48 crore, a derivatives loss of ₹650.92 crore and other unallocated items, and adding interest and dividend income of ₹3,512.51 crore, fair-value and other income and the ₹2,975.56 crore share of joint ventures and associates gives profit before tax of ₹57,472.08 crore. Tax of ₹13,794.76 crore leaves profit for the year of ₹43,677.32 crore, of which ₹42,096.26 crore belongs to Indian Oil’s owners and ₹1,581.06 crore to other shareholders of its subsidiaries. Revenue includes a ₹6,035.85 crore government grant (note 23): the Ministry of Petroleum and Natural Gas approved ₹14,486 crore to compensate Indian Oil for under-recoveries (selling domestic LPG below its effective cost) up to 31 March 2025 and expected up to 31 March 2026, paid in 12 monthly instalments, and the five instalments from November 2025 to March 2026 were counted. A further ₹23,101.56 crore of such shortfall was not counted as revenue. There were no exceptional items this year. The filing says no material liability arises from the new Labour Codes. Indian Oil’s own profit was ₹36,802.42 crore and CPCL’s was ₹3,102.70 crore (note 46).",
+  "insight": "Selling petroleum products (petrol, diesel, LPG and aviation fuel) brings in nearly all of the revenue and nearly all of the segment result. Gas made a small loss.",
+  "status": "segments",
+  "revenueTotal": 920097.27,
+  "revenueTotalLabel": "Gross segment revenue before sales between segments are removed",
+  "profitTotal": 62442.88,
+  "profitTotalLabel": "Segment results before unallocated items, finance cost and tax"
+}
