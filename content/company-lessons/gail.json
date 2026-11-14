@@ -2,7 +2,7 @@
   "summary": "GAIL buys natural gas at home and abroad, carries it through a nationwide network of pipes, and sells it to fertiliser plants, power stations, factories and city gas companies. It also makes cooking gas and plastics.",
   "description": "Natural gas is a fuel that comes out of the ground or arrives by ship cooled into a liquid (LNG, liquefied natural gas). GAIL buys it, turns imported LNG back into gas at coastal terminals, and sends it through about 18,700 km of steel pipes. It sells gas to fertiliser makers, power plants, factories and city gas networks. From some gas it separates cooking gas (LPG, liquefied petroleum gas), and it makes polyethylene and polypropylene, two common plastics.",
   "money": "GAIL earns money in four ways. It sells gas for more than it paid. It charges a fee per unit of gas carried through its pipes, and a fee for carrying LPG through its LPG pipes. It sells LPG and plastic it makes itself. The biggest cost is the gas it buys, including imported LNG paid for in foreign currency. A customer’s payment is revenue, not profit, and money billed is not always collected on time.",
-  "customers": "Fertiliser makers, gas-fired power plants, factories and city gas companies pay GAIL for gas delivered. Other companies that move gas through GAIL’s pipes pay a fee (general explanation). The oil marketing companies that sell cooking gas in cylinders buy the LPG GAIL separates from gas. Plastic goods makers buy polymers. The report says it supplied gas to 31 of India’s 36 urea (fertiliser) factories.",
+  "customers": "Fertiliser makers, gas-fired power plants, factories and city gas companies pay GAIL for gas delivered. Other companies that move gas through GAIL’s pipes pay a fee set under rules from the gas regulator. The oil marketing companies that sell cooking gas in cylinders buy the LPG GAIL separates from gas. Plastic goods makers buy polymers. The report says it supplied gas to 31 of India’s 36 urea (fertiliser) factories.",
   "drivers": "The price GAIL pays for gas compared with what it sells it for, how much gas flows through its pipes, and the fee rules set by the regulator.",
   "groups": [
     {
@@ -79,7 +79,7 @@
     },
     {
       "title": "Its LNG ships are chartered",
-      "text": "The report says GAIL has seven LNG carriers, and describes chartering one long-term to 2038. A charter is a long hire. General explanation: the hire is usually owed whether or not the ship has cargo."
+      "text": "The report says GAIL has seven LNG carriers, and describes chartering one long-term to 2038. A charter is a long hire of a ship. Typically, the hire is owed whether or not the ship carries cargo."
     },
     {
       "title": "Cooking gas sales are agreed with the big fuel sellers",
@@ -199,7 +199,7 @@
     },
     {
       "title": "Weak rupee raises import bills",
-      "text": "The report says GAIL largely imports LNG, capital goods and spares, and has a policy to manage the exposure. General explanation: a weaker rupee makes these dearer."
+      "text": "The report says GAIL largely imports LNG, capital goods and spares, and has a policy to manage the exposure. For example, a weaker rupee makes these dearer."
     }
   ],
   "checked": "14 November 2026",
