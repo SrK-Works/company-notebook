@@ -1,0 +1,24 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited annual financial statements",
+  "checked": "14 November 2026",
+  "coverage": "Whole-group totals · one reported business segment",
+  "profitMetric": "Profit after tax",
+  "definition": "Profit for the year after all expenses, the exceptional item and tax. It is not operating profit or cash flow.",
+  "rows": [
+    {
+      "name": "Divi's Laboratories · whole group",
+      "revenue": 10560,
+      "profit": 2568
+    }
+  ],
+  "source": "https://divislabs.com/wp-content/uploads/2026/07/Annual-Report2025-26.pdf",
+  "location": "Annual report 2025–26, PDF page 109 (printed page 215), consolidated statement of profit and loss; PDF page 129, note 30 (segments); PDF page 133, note 39 (Labour Codes)",
+  "notes": "Figures are reported in ₹ crore and are not converted. Revenue is revenue from operations and excludes other income of ₹507 crore. Profit is after an exceptional item of ₹74 crore: extra staff-cost provision caused by the government's new Labour Codes (note 39), which the company calls non-recurring. All profit belongs to the owners of the holding company. The group reports one operating segment, making active pharmaceutical ingredients, intermediates and nutraceutical ingredients, so it does not disclose profit by product or customer. The previous year's revenue was ₹9,360 crore and profit after tax ₹2,191 crore.",
+  "insight": "Divi's kept a large share of each rupee of sales as profit after tax. The accounts show one business, so they cannot show which products or customers earned it.",
+  "status": "single",
+  "revenueTotal": 10560,
+  "profitTotal": 2568
+}
