@@ -1,0 +1,206 @@
+{
+  "summary": "GAIL buys natural gas at home and abroad, carries it through a nationwide network of pipes, and sells it to fertiliser plants, power stations, factories and city gas companies. It also makes cooking gas and plastics.",
+  "description": "Natural gas is a fuel that comes out of the ground or arrives by ship cooled into a liquid (LNG, liquefied natural gas). GAIL buys it, turns imported LNG back into gas at coastal terminals, and sends it through about 18,700 km of steel pipes. It sells gas to fertiliser makers, power plants, factories and city gas networks. From some gas it separates cooking gas (LPG, liquefied petroleum gas), and it makes polyethylene and polypropylene, two common plastics.",
+  "money": "GAIL earns money in four ways. It sells gas for more than it paid. It charges a fee per unit of gas carried through its pipes, and a fee for carrying LPG through its LPG pipes. It sells LPG and plastic it makes itself. The biggest cost is the gas it buys, including imported LNG paid for in foreign currency. A customer’s payment is revenue, not profit, and money billed is not always collected on time.",
+  "customers": "Fertiliser makers, gas-fired power plants, factories and city gas companies pay GAIL for gas delivered. Other companies that move gas through GAIL’s pipes pay a fee (general explanation). The oil marketing companies that sell cooking gas in cylinders buy the LPG GAIL separates from gas. Plastic goods makers buy polymers. The report says it supplied gas to 31 of India’s 36 urea (fertiliser) factories.",
+  "drivers": "The price GAIL pays for gas compared with what it sells it for, how much gas flows through its pipes, and the fee rules set by the regulator.",
+  "groups": [
+    {
+      "title": "Gas pipelines",
+      "examples": "A steel pipe that carries gas hundreds of kilometres to a fertiliser plant.",
+      "explanation": "GAIL owns pipes of about 18,700 km that carry natural gas across India. Others who want to move gas pay GAIL a fee per unit of gas moved, at a rate set by the gas regulator."
+    },
+    {
+      "title": "Gas for factories, power and fertiliser",
+      "examples": "Gas to make urea, run a power plant or heat a factory furnace.",
+      "explanation": "GAIL buys gas from Indian gas fields and from abroad as LNG, and sells it to large customers. The report says it supplied about two-thirds of the gas used in India’s fertiliser sector."
+    },
+    {
+      "title": "City gas",
+      "examples": "Gas piped to a kitchen, or CNG (compressed natural gas) at a petrol pump.",
+      "explanation": "GAIL and companies it owns or part-owns are authorised to build city gas networks in 72 areas. These networks supply piped gas to homes and CNG to vehicles."
+    },
+    {
+      "title": "LPG and gas processing",
+      "examples": "Cooking gas filled into cylinders by oil marketing companies.",
+      "explanation": "GAIL has four gas processing plants that separate heavier fuels such as LPG out of natural gas. It also owns two LPG pipelines that carry cooking gas to bottling plants."
+    },
+    {
+      "title": "LNG ships",
+      "examples": "A tanker carrying gas cooled to a liquid from the USA or Qatar.",
+      "explanation": "LNG is natural gas cooled into a liquid so that ships can carry it. The report says GAIL has seven LNG ships and has long-term deals to buy LNG from several countries."
+    },
+    {
+      "title": "Polymers (plastics)",
+      "examples": "Plastic granules used for pipes, bags and packaging.",
+      "explanation": "At Pata in Uttar Pradesh, GAIL turns gas into polyethylene and, from February 2026, polypropylene. It sells polypropylene under the brand name G Pro."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is LNG?",
+      "text": "LNG is natural gas cooled until it becomes a liquid, which takes much less space on a ship. At a coastal terminal it is warmed back into gas and put into pipes. GAIL uses terminals at ports such as Dahej, Kochi and Dabhol."
+    },
+    {
+      "title": "Who sets GAIL’s pipeline fee?",
+      "text": "The Petroleum and Natural Gas Regulatory Board (PNGRB) is the government regulator for gas pipes and city gas networks. It sets the tariff, the fee for each unit of gas moved through a pipeline. Its decisions can be appealed in a tribunal and courts."
+    },
+    {
+      "title": "What is a gas processing plant?",
+      "text": "Some natural gas contains heavier fuels such as LPG mixed in. A gas processing plant separates them out so they can be sold separately. GAIL has four such plants and sells what they produce."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Buy gas",
+      "text": "GAIL buys gas from Indian gas fields, some of it at government-fixed prices and some through tenders, and imports LNG under long-term and one-off deals."
+    },
+    {
+      "title": "Turn LNG back into gas",
+      "text": "Imported LNG is warmed back into gas at coastal terminals, such as the one at Dahej, mostly owned by other companies, and put into the pipeline network."
+    },
+    {
+      "title": "Move gas through pipes",
+      "text": "Gas flows through about 18,700 km of GAIL pipes to customers. GAIL also earns a regulated fee on gas carried for other companies."
+    },
+    {
+      "title": "Sell to large customers and city gas companies",
+      "text": "Fertiliser plants, power plants, factories and city gas companies buy under contracts. Some of the gas is processed to take out LPG, and some is turned into plastics."
+    },
+    {
+      "title": "Bill, collect and cope with late payers",
+      "text": "Revenue (what GAIL bills), profit (what is left after costs) and cash received are different things. The report mentions a provision made against dues that a customer had not paid."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Two ways to earn on gas",
+      "text": "GAIL both trades gas (buys and sells it, so price swings matter) and rents out space in its pipes (a fee for every unit moved, whoever owns the gas). Trading carries most of the sales, while pipe fees follow volume and the regulator’s rate."
+    },
+    {
+      "title": "Its LNG ships are chartered",
+      "text": "The report says GAIL has seven LNG carriers, and describes chartering one long-term to 2038. A charter is a long hire. General explanation: the hire is usually owed whether or not the ship has cargo."
+    },
+    {
+      "title": "Cooking gas sales are agreed with the big fuel sellers",
+      "text": "The report says LPG marketing is decided in close coordination with the state-owned oil marketing companies, so GAIL has less freedom over LPG than over gas trading."
+    },
+    {
+      "title": "Several businesses sit outside GAIL itself",
+      "text": "GAIL’s subsidiaries include GAIL Gas, GAIL Mangalore Petrochemicals and Brahmaputra Cracker and Polymer (BCPL, 70% owned). City gas companies such as Indraprastha Gas and Mahanagar Gas are joint ventures or associates. Their sales are not simply GAIL’s own."
+    }
+  ],
+  "watch": [
+    [
+      "How fast is GAIL’s pipeline fee reviewed, and where does it land?",
+      "The regulator’s interim tariff order says the final adjustment will come at the next review, which could change what GAIL earns from its pipes.",
+      "Read the regulation section of the latest annual report and note the date of the next tariff review and the factors still to be adjusted."
+    ],
+    [
+      "How do gas buying prices compare with selling prices?",
+      "Domestic gas prices are partly fixed by government and LNG prices follow international markets, so the gap GAIL earns can move.",
+      "Compare the average prices GAIL discusses for domestic gas, LNG and its sales in each results release, and read the hedging notes."
+    ],
+    [
+      "Are plastics earning their cost of gas?",
+      "The report says petrochemical margins were squeezed by a low global price cycle and by higher gas input cost.",
+      "Compare polymer sales volumes and the reported results of the petrochemical segment over the last few years."
+    ],
+    [
+      "Which customers owe money, and how long do they take to pay?",
+      "Fertiliser and power buyers are large, and the report mentions a provision against unpaid dues of one customer.",
+      "Read the notes on trade receivables and provisions in the annual report and compare how long customers take to pay."
+    ],
+    [
+      "What did the 2026 gas supply disruption change for volumes and allocation?",
+      "The report describes government priority rules for gas use and a shutdown of the polymer plant in March 2026.",
+      "Read the management discussion on the Middle East disruption and compare gas volumes sold and carried with the previous year."
+    ]
+  ],
+  "risks": [
+    [
+      "Regulator decisions on pipeline fees",
+      "The report says the timing and content of PNGRB’s final regulation changes are not in GAIL’s control. A lower fee or a different rule changes what the pipes earn."
+    ],
+    [
+      "Pipeline accidents or disasters",
+      "The report names blowouts of gas pipelines, earthquakes and terrorist activity as risks that cannot be fully removed and could create large liabilities."
+    ],
+    [
+      "LNG suppliers fail or cargoes run short",
+      "The report lists shortage of LNG cargoes and default by an LNG supplier as market risks. GAIL then has to find gas elsewhere, perhaps at higher prices."
+    ],
+    [
+      "Customers delay payment or do not pay",
+      "The report mentions a provision made against dues owed by a customer. Money billed but not collected is not cash in the bank."
+    ]
+  ],
+  "context": [
+    "Polymer plant shut in March 2026",
+    "The report says Pata Petrochemicals ran at its rated capacity until February 2026, then was shut down in March 2026 under government directions, after a gas crisis triggered by the situation in the Middle East. Polymer sales for the whole year were lower than the year before."
+  ],
+  "sources": [
+    [
+      "GAIL (India) Limited Annual Report 2025-26",
+      "https://gailebank.gail.co.in/InvestorsZone/AnnualReports/Gail-Annual-Report%202025-26.pdf"
+    ],
+    [
+      "GAIL (India) Limited Investors’ and Analysts’ Presentation, 22 May 2026",
+      "https://gailebank.gail.co.in/InvestorsZone/Investors_Presentation_FY_26_new.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "GAIL’s revenue, profit and segment figures are pending verification against the filed results, so none are shown here."
+    }
+  ],
+  "stepsTitle": "From gas well or ship to factory and kitchen.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "GAIL buys natural gas, carries it through its nationwide pipeline network and sells it to fertiliser plants, power plants, factories and city gas companies. It also makes LPG and plastics."
+    },
+    {
+      "title": "Who pays",
+      "text": "Fertiliser makers, power plants, factories and city gas companies pay for gas. Gas traders pay a fee to use the pipes. Plastic makers and cooking gas sellers buy GAIL’s own products."
+    },
+    {
+      "title": "How it earns",
+      "text": "It sells gas for more than it paid, charges a regulated fee per unit of gas piped, and sells LPG and plastics it makes."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Buying gas and LNG is the biggest cost. It also pays to run pipelines and plants, to charter LNG ships and to pay interest on loans."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Pipes that many gas buyers rely on",
+      "text": "The report says GAIL carries about 65% of the gas moved through India’s transmission pipes. A network that is hard to copy gives it steady fee income whoever sells the gas."
+    },
+    {
+      "title": "Several ways to get gas",
+      "text": "The report says GAIL bought domestic gas from tenders, an online gas exchange and direct agreements, and holds LNG supply deals with sellers in several countries, which gives it choices when one source fails."
+    },
+    {
+      "title": "Adding plastics to the business",
+      "text": "The report says GAIL added a polypropylene plant in February 2026 and plans more, so it earns from turning gas into plastics as well as from selling it."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Plastics prices can fall while gas costs rise",
+      "text": "The report says petrochemicals were under stress because of a global low-price cycle and higher cost of the gas used as input."
+    },
+    {
+      "title": "Government gas allocation can shift",
+      "text": "The report says domestic gas given to GAIL was cut to meet city gas demand, and LPG output from its processing plants fell as a result."
+    },
+    {
+      "title": "Weak rupee raises import bills",
+      "text": "The report says GAIL largely imports LNG, capital goods and spares, and has a policy to manage the exposure. General explanation: a weaker rupee makes these dearer."
+    }
+  ],
+  "checked": "14 November 2026"
+}

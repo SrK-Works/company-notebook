@@ -1,0 +1,94 @@
+{
+  "order": 78,
+  "company": {
+    "id": "gail",
+    "name": "GAIL (India)",
+    "ticker": "GAIL",
+    "sector": "Energy & utilities",
+    "initial": "G",
+    "color": "#0b7285",
+    "bg": "#e6f6f8",
+    "tag": "Moves natural gas through pipelines across India and sells it to industry and cities",
+    "sources": [
+      [
+        "GAIL (India) Limited website, annual report link",
+        "https://gailonline.com/General_Information.html"
+      ]
+    ],
+    "productSource": "https://gailebank.gail.co.in/InvestorsZone/AnnualReports/Gail-Annual-Report%202025-26.pdf",
+    "checked": "14 November 2026",
+    "reviewed": "14 November 2026",
+    "aliases": [
+      "GAIL (India) Limited",
+      "GAIL (India) Ltd",
+      "GAIL India",
+      "GAIL"
+    ]
+  },
+  "offerings": [
+    {
+      "name": "Gas pipelines",
+      "category": "Pipes that carry natural gas across India",
+      "image": "assets/products/gail-gas-pipelines.svg",
+      "url": "https://gailebank.gail.co.in/InvestorsZone/AnnualReports/Gail-Annual-Report%202025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a gas pipeline — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "City gas",
+      "category": "Gas for vehicles and kitchens through city networks",
+      "image": "assets/products/gail-city-gas.svg",
+      "url": "https://gailebank.gail.co.in/InvestorsZone/AnnualReports/Gail-Annual-Report%202025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a city gas network — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Gas for industry",
+      "category": "Natural gas sold to fertiliser and power plants and factories",
+      "image": "assets/products/gail-gas-for-industry.svg",
+      "url": "https://gailebank.gail.co.in/InvestorsZone/AnnualReports/Gail-Annual-Report%202025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a factory — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Gas processing",
+      "category": "Separating cooking gas and other fuels out of natural gas",
+      "image": "assets/products/gail-gas-processing.svg",
+      "url": "https://gailebank.gail.co.in/InvestorsZone/AnnualReports/Gail-Annual-Report%202025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a processing plant — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "LNG ships",
+      "category": "Liquefied natural gas brought in by sea",
+      "image": "assets/products/gail-lng-ships.svg",
+      "url": "https://gailebank.gail.co.in/InvestorsZone/AnnualReports/Gail-Annual-Report%202025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a gas tanker ship — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "LPG",
+      "category": "Cooking gas sold in bulk",
+      "image": "assets/products/gail-lpg.svg",
+      "url": "https://gailebank.gail.co.in/InvestorsZone/AnnualReports/Gail-Annual-Report%202025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a gas cylinder — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "LPG pipelines",
+      "category": "Pipes that carry cooking gas to bottling plants",
+      "image": "assets/products/gail-lpg-pipelines.svg",
+      "url": "https://gailebank.gail.co.in/InvestorsZone/AnnualReports/Gail-Annual-Report%202025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a pipeline — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Polymers",
+      "category": "Plastic made from gas",
+      "image": "assets/products/gail-polymers.svg",
+      "url": "https://gailebank.gail.co.in/InvestorsZone/AnnualReports/Gail-Annual-Report%202025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of plastic pellets — conceptual picture; not a photograph or the company’s own image"
+    }
+  ]
+}

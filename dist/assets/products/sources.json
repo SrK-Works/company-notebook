@@ -6021,6 +6021,86 @@
       "kind": "illustration",
       "alt": "BeCafe and In & Out stores — conceptual illustration; not a photograph or product image",
       "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "gail",
+      "name": "Gas pipelines",
+      "category": "Pipes that carry natural gas across India",
+      "image": "assets/products/gail-gas-pipelines.svg",
+      "url": "https://gailebank.gail.co.in/InvestorsZone/AnnualReports/Gail-Annual-Report%202025-26.pdf",
+      "kind": "illustration",
+      "alt": "Gas pipelines — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "gail",
+      "name": "City gas",
+      "category": "Gas for vehicles and kitchens through city networks",
+      "image": "assets/products/gail-city-gas.svg",
+      "url": "https://gailebank.gail.co.in/InvestorsZone/AnnualReports/Gail-Annual-Report%202025-26.pdf",
+      "kind": "illustration",
+      "alt": "City gas — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "gail",
+      "name": "Gas for industry",
+      "category": "Natural gas sold to fertiliser and power plants and factories",
+      "image": "assets/products/gail-gas-for-industry.svg",
+      "url": "https://gailebank.gail.co.in/InvestorsZone/AnnualReports/Gail-Annual-Report%202025-26.pdf",
+      "kind": "illustration",
+      "alt": "Gas for industry — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "gail",
+      "name": "Gas processing",
+      "category": "Separating cooking gas and other fuels out of natural gas",
+      "image": "assets/products/gail-gas-processing.svg",
+      "url": "https://gailebank.gail.co.in/InvestorsZone/AnnualReports/Gail-Annual-Report%202025-26.pdf",
+      "kind": "illustration",
+      "alt": "Gas processing — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "gail",
+      "name": "LNG ships",
+      "category": "Liquefied natural gas brought in by sea",
+      "image": "assets/products/gail-lng-ships.svg",
+      "url": "https://gailebank.gail.co.in/InvestorsZone/AnnualReports/Gail-Annual-Report%202025-26.pdf",
+      "kind": "illustration",
+      "alt": "LNG ships — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "gail",
+      "name": "LPG",
+      "category": "Cooking gas sold in bulk",
+      "image": "assets/products/gail-lpg.svg",
+      "url": "https://gailebank.gail.co.in/InvestorsZone/AnnualReports/Gail-Annual-Report%202025-26.pdf",
+      "kind": "illustration",
+      "alt": "LPG — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "gail",
+      "name": "LPG pipelines",
+      "category": "Pipes that carry cooking gas to bottling plants",
+      "image": "assets/products/gail-lpg-pipelines.svg",
+      "url": "https://gailebank.gail.co.in/InvestorsZone/AnnualReports/Gail-Annual-Report%202025-26.pdf",
+      "kind": "illustration",
+      "alt": "LPG pipelines — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "gail",
+      "name": "Polymers",
+      "category": "Plastic made from gas",
+      "image": "assets/products/gail-polymers.svg",
+      "url": "https://gailebank.gail.co.in/InvestorsZone/AnnualReports/Gail-Annual-Report%202025-26.pdf",
+      "kind": "illustration",
+      "alt": "Polymers — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
     }
   ]
 }
