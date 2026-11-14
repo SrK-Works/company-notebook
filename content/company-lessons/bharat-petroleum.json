@@ -1,0 +1,210 @@
+{
+  "summary": "Bharat Petroleum refines crude oil at three refineries and sells petrol, diesel, cooking gas, engine oil, aircraft fuel and gas through its own fuel stations, gas agencies and business customers.",
+  "description": "Crude oil is the thick raw liquid pumped from underground. A refinery is a plant that heats it and separates it into fuels. Bharat Petroleum (BPCL) runs three refineries, at Mumbai, Kochi and Bina. It sells the fuel to drivers at its fuel stations, to homes as cooking gas (LPG, liquefied petroleum gas) in BharatGas cylinders, to airlines as aircraft fuel, and to factories, power plants and railways. It also sells MAK engine oil and runs cafes and shops at fuel stations.",
+  "money": "BPCL earns money by selling fuels, gas and engine oil for more than the cost of buying crude oil, refining, moving and selling it. The gap between crude oil cost and product prices changes from year to year. Fuel station dealers and gas distributors also keep a share of sales. A customer’s payment is revenue, not profit, and cash received can come later than the sale.",
+  "customers": "Drivers pay at fuel stations. Households pay for cooking gas cylinders, delivered by gas distributors. Airlines pay for aircraft fuel. Industrial customers such as the army, power plants, cement makers and railways buy fuel in bulk, and the report calls this its business-to-business arm. Garages and vehicle owners buy MAK engine oil. In each case the buyer pays for fuel, gas or oil delivered to them.",
+  "drivers": "The gap between crude oil cost and fuel prices, how fully the refineries run, and how much fuel and gas BPCL sells through its stations and agencies.",
+  "groups": [
+    {
+      "title": "Fuel stations",
+      "examples": "A car filling up with petrol, a lorry buying diesel, or an electric car charging.",
+      "explanation": "BPCL sells petrol, diesel, CNG (compressed natural gas) and electric charging through 25,323 retail outlets, plus premium fuels such as Speed. Dealers run the outlets, and some also have cafes, shops and highway rest stops."
+    },
+    {
+      "title": "BharatGas cylinders",
+      "examples": "A cooking gas cylinder delivered to a kitchen.",
+      "explanation": "BPCL sells LPG cylinders to homes and businesses under the BharatGas brand through 6,278 distributors, who take orders and deliver the cylinders."
+    },
+    {
+      "title": "Aviation fuel and business fuels",
+      "examples": "Fuel for an aeroplane, diesel for an army convoy, fuel for a power plant or a ship.",
+      "explanation": "BPCL fills aircraft at airports across the country. A separate business team sells fuel in bulk to customers in the defence, power, cement and railway sectors, and to ships."
+    },
+    {
+      "title": "MAK lubricants",
+      "examples": "Engine oil for a motorcycle or a car, and oils for machines.",
+      "explanation": "Lubricants are oils that keep engines and machines moving smoothly and last longer. BPCL sells them under the MAK brand and runs a network of MAK garages."
+    },
+    {
+      "title": "Natural gas and electric charging",
+      "examples": "CNG at a station, gas piped to a kitchen, a fast charging point.",
+      "explanation": "BPCL supplies gas to city gas networks and industry. It runs its own city gas areas and shares others with partners. It also runs fast charging stations for electric vehicles."
+    },
+    {
+      "title": "Refineries, pipelines, cafes and shops",
+      "examples": "A refinery, a pipe carrying fuel, a BeCafe coffee shop, an In & Out store.",
+      "explanation": "Refineries make the fuel and pipelines carry crude oil and finished fuel in bulk. BeCafe cafes and In & Out stores at fuel stations and gas agencies bring in extra sales for BPCL and its dealers."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is an oil marketing company?",
+      "text": "An oil marketing company (OMC) buys fuel from refineries and sells it to the public. BPCL both refines crude oil and sells the fuel, so it is both a refiner and an OMC."
+    },
+    {
+      "title": "What is a refining margin?",
+      "text": "A refining margin is the gap between what refined products sell for and what the crude oil cost. BPCL’s report measures it in dollars for each barrel of crude oil, and says its refineries have earned more than a common benchmark margin."
+    },
+    {
+      "title": "What are joint ventures and associates?",
+      "text": "A joint venture is a business owned together with partners. An associate is a business in which BPCL holds a share without full control. BPCL’s report lists several city gas companies this way, so their sales are not simply BPCL’s own sales."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Buy crude oil",
+      "text": "BPCL buys crude oil from several parts of the world and brings it to its refineries. The report says it added crude types from four more regions during the year to keep supplies steady."
+    },
+    {
+      "title": "Refine it into products",
+      "text": "The refineries turn crude oil into petrol, diesel, LPG, aircraft fuel and other products. Running them close to full capacity spreads fixed costs over more product."
+    },
+    {
+      "title": "Move it in bulk",
+      "text": "Pipelines carry crude oil and finished fuel between refineries, depots and cities. Trucks, rail and ships carry the rest to fuel stations, gas plants and airports."
+    },
+    {
+      "title": "Sell through stations, agencies and big customers",
+      "text": "Fuel reaches drivers through fuel stations run by dealers, and homes through gas distributors. Airlines, factories and railways buy directly. General explanation: dealers and distributors pay BPCL for the fuel and keep a commission on resale."
+    },
+    {
+      "title": "Bill and collect",
+      "text": "Revenue (what BPCL bills), profit (what is left after costs) and cash received are three different things, and cash can arrive after the fuel has gone."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Three refineries make most of the fuel",
+      "text": "BPCL’s refineries at Mumbai, Kochi and Bina hold about 14% of India’s refining capacity. How fully each one runs, and what it makes, decides how much the company earns from every barrel."
+    },
+    {
+      "title": "Several gas companies are partly owned",
+      "text": "The report lists BPCL’s subsidiaries as Bharat PetroResources, a Singapore services company and a 74%-owned company called BPCL-KIAL Fuel Farm Facility, which stores aircraft fuel (general explanation). City gas businesses such as Indraprastha Gas, Sabarmati Gas and Maharashtra Natural Gas are listed as joint ventures and associates, where BPCL holds a share."
+    },
+    {
+      "title": "Cafes and shops add a side income",
+      "text": "The report says its stores create extra ways to earn for both BPCL and its channel partners, including rural In & Out stores supported by village-level helpers called UrjaDevis."
+    },
+    {
+      "title": "Engine oil comes with a garage network",
+      "text": "BPCL’s report counts 2,100 MAK Serve garages, workshops that use and promote MAK oils, after adding 1,509 of them during the year."
+    }
+  ],
+  "watch": [
+    [
+      "How fully are the refineries running, and what do they earn on each barrel?",
+      "The report links its refining results to how much crude oil it processes and to the gap between crude cost and product prices.",
+      "In each annual report and results release, compare crude oil processed and the refining margin per barrel with the same period a year earlier."
+    ],
+    [
+      "Which parts of the gas business are inside BPCL’s own numbers?",
+      "City gas companies are listed as partly owned businesses, so their sales and profits may enter BPCL’s results differently.",
+      "Read the notes on subsidiaries, joint ventures and associates in the annual report and compare standalone and consolidated results."
+    ],
+    [
+      "Will the petrochemical projects finish on time?",
+      "The report gives target dates for the Kochi polypropylene plant and the Bina petrochemical project. Delays would tie up money for longer.",
+      "Compare the target dates in each annual report with the progress the company reports every quarter."
+    ],
+    [
+      "How fast are electric vehicles changing fuel demand?",
+      "The report says electric vehicle adoption is gradually reshaping fuel demand and that BPCL is expanding charging points.",
+      "Compare petrol and diesel volumes with the number of charging stations and what the report says about charging use."
+    ],
+    [
+      "How well does BPCL cope when sea routes are disrupted?",
+      "The report says a few sea routes carry much of the world’s oil and gas, and that it kept supplies running during the 2026 tensions.",
+      "Read the refineries and risk sections and compare the list of crude sources and routes across years."
+    ]
+  ],
+  "risks": [
+    [
+      "Oil and gas pass through a few sea routes",
+      "The report says much of the world’s crude oil and gas travels through a limited number of sea routes, so a disruption, such as in the Strait of Hormuz, can cut supply and raise freight and insurance costs."
+    ],
+    [
+      "Big projects take years and money",
+      "The report describes the Kochi polypropylene plant and the Bina petrochemical project, with completion targeted for 2027 and 2028. Until they are finished the money is tied up and earns nothing."
+    ],
+    [
+      "Sellers of plastic raw material compete hard",
+      "The report calls the polymer market increasingly competitive, and BPCL is only starting to sell under its new polymer brand."
+    ],
+    [
+      "Freight and transport costs rise with energy prices",
+      "The report says supply shocks raised energy prices, freight rates and insurance costs. These add to the cost of getting crude oil in and fuel out."
+    ]
+  ],
+  "context": [
+    "New polymer brand and plastics projects",
+    "The report says BPCL launched its polymer brand, called Bepoly, on 10 July 2026. It targets completion of the Kochi polypropylene project by October 2027 and the Bina petrochemical and refinery expansion by May 2028. These are plans, not completed projects."
+  ],
+  "sources": [
+    [
+      "BPCL Annual Report 2025-26, business verticals",
+      "https://www.bharatpetroleum.in/bharat-petroleum-ar-25-26/pdf/BPCL_AR%202025-26%20Business%20Verticals.pdf"
+    ],
+    [
+      "BPCL Annual Report 2025-26, management discussion and analysis",
+      "https://www.bharatpetroleum.in/bharat-petroleum-ar-25-26/pdf/21%20Management%20Discussion%20and%20Analysis.pdf"
+    ],
+    [
+      "BPCL Annual Report 2025-26, subsidiaries and joint ventures",
+      "https://www.bharatpetroleum.in/bharat-petroleum-ar-25-26/pdf/12%20Our%20Subsidiaries%20and%20Joint%20Ventures.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "BPCL’s revenue, profit and segment figures are pending verification against the filed results, so none are shown here."
+    }
+  ],
+  "stepsTitle": "From crude oil to a full tank.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "BPCL refines crude oil at three refineries and sells petrol, diesel, cooking gas, engine oil, aircraft fuel and gas through its own fuel stations and gas agencies."
+    },
+    {
+      "title": "Who pays",
+      "text": "Drivers, households, airlines and industrial customers pay for the fuel, gas or oil they buy. Dealers and distributors run the stations and agencies."
+    },
+    {
+      "title": "How it earns",
+      "text": "It sells its products for more than the cost of buying crude oil, refining, moving and selling. Cafes and shops at stations add a little more."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Crude oil is the largest cost, then running refineries, moving fuel by pipeline and truck, and building new plants."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Refining, selling and gas under one company",
+      "text": "The report expects integrated business models, which take part in several steps from crude oil to customer, to become increasingly important sources of competitive advantage."
+    },
+    {
+      "title": "Choice of crude oils",
+      "text": "The report says its refineries keep widening the crude oil they can process, which gives more choice in what to buy and helps margins in changing markets."
+    },
+    {
+      "title": "Plastics from refinery output",
+      "text": "The report says refining and petrochemical complexes can make higher-value products and improve margin resilience across commodity cycles."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Volatility is expected to last",
+      "text": "The report says geopolitical shocks and price swings are likely to make volatility a lasting feature of energy markets, not a temporary one."
+    },
+    {
+      "title": "Electric vehicles reshape fuel demand",
+      "text": "The report says energy efficiency, electrification and accelerating electric vehicle adoption are gradually reshaping traditional fuel demand."
+    },
+    {
+      "title": "Climate rules are evolving",
+      "text": "The report lists evolving climate regulations among the pressures on energy companies, which must balance investment in conventional fuels with newer energy."
+    }
+  ],
+  "checked": "14 November 2026"
+}

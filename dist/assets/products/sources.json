@@ -5931,6 +5931,96 @@
       "kind": "illustration",
       "alt": "Refineries — conceptual illustration; not a photograph or product image",
       "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "bharat-petroleum",
+      "name": "Fuel stations",
+      "category": "Petrol and diesel sold at retail outlets",
+      "image": "assets/products/bharat-petroleum-fuel-stations.svg",
+      "url": "https://www.bharatpetroleum.in/bharat-petroleum-ar-25-26/pdf/BPCL_AR%202025-26%20Business%20Verticals.pdf",
+      "kind": "illustration",
+      "alt": "Fuel stations — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "bharat-petroleum",
+      "name": "BharatGas cylinders",
+      "category": "Cooking gas cylinders for homes",
+      "image": "assets/products/bharat-petroleum-bharatgas-cylinders.svg",
+      "url": "https://www.bharatpetroleum.in/bharat-petroleum-ar-25-26/pdf/BPCL_AR%202025-26%20Business%20Verticals.pdf",
+      "kind": "illustration",
+      "alt": "BharatGas cylinders — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "bharat-petroleum",
+      "name": "Aviation fuel",
+      "category": "Fuel filled into aircraft at airports",
+      "image": "assets/products/bharat-petroleum-aviation-fuel.svg",
+      "url": "https://www.bharatpetroleum.in/bharat-petroleum-ar-25-26/pdf/BPCL_AR%202025-26%20Business%20Verticals.pdf",
+      "kind": "illustration",
+      "alt": "Aviation fuel — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "bharat-petroleum",
+      "name": "CNG and piped gas",
+      "category": "Natural gas for vehicles and homes",
+      "image": "assets/products/bharat-petroleum-cng-and-piped-gas.svg",
+      "url": "https://www.bharatpetroleum.in/bharat-petroleum-ar-25-26/pdf/BPCL_AR%202025-26%20Business%20Verticals.pdf",
+      "kind": "illustration",
+      "alt": "CNG and piped gas — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "bharat-petroleum",
+      "name": "Electric charging",
+      "category": "Fast charging points for electric vehicles",
+      "image": "assets/products/bharat-petroleum-electric-charging.svg",
+      "url": "https://www.bharatpetroleum.in/bharat-petroleum-ar-25-26/pdf/BPCL_AR%202025-26%20Business%20Verticals.pdf",
+      "kind": "illustration",
+      "alt": "Electric charging — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "bharat-petroleum",
+      "name": "Industrial fuels",
+      "category": "Fuels sold directly to factories, power plants and railways",
+      "image": "assets/products/bharat-petroleum-industrial-fuels.svg",
+      "url": "https://www.bharatpetroleum.in/bharat-petroleum-ar-25-26/pdf/BPCL_AR%202025-26%20Business%20Verticals.pdf",
+      "kind": "illustration",
+      "alt": "Industrial fuels — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "bharat-petroleum",
+      "name": "MAK lubricants",
+      "category": "Engine and machine oils",
+      "image": "assets/products/bharat-petroleum-mak-lubricants.svg",
+      "url": "https://www.bharatpetroleum.in/bharat-petroleum-ar-25-26/pdf/BPCL_AR%202025-26%20Business%20Verticals.pdf",
+      "kind": "illustration",
+      "alt": "MAK lubricants — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "bharat-petroleum",
+      "name": "Refineries",
+      "category": "Plants that turn crude oil into fuels",
+      "image": "assets/products/bharat-petroleum-refineries.svg",
+      "url": "https://www.bharatpetroleum.in/bharat-petroleum-ar-25-26/pdf/BPCL_AR%202025-26%20Business%20Verticals.pdf",
+      "kind": "illustration",
+      "alt": "Refineries — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "bharat-petroleum",
+      "name": "BeCafe and In & Out stores",
+      "category": "Cafes and shops at fuel stations",
+      "image": "assets/products/bharat-petroleum-becafe-and-in-and-out.svg",
+      "url": "https://www.bharatpetroleum.in/bharat-petroleum-ar-25-26/pdf/BPCL_AR%202025-26%20Business%20Verticals.pdf",
+      "kind": "illustration",
+      "alt": "BeCafe and In & Out stores — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
     }
   ]
 }

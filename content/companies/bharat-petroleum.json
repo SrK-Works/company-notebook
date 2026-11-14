@@ -1,0 +1,102 @@
+{
+  "order": 77,
+  "company": {
+    "id": "bharat-petroleum",
+    "name": "Bharat Petroleum Corporation",
+    "ticker": "BPCL",
+    "sector": "Energy & utilities",
+    "initial": "B",
+    "color": "#1c7ed6",
+    "bg": "#e7f1fc",
+    "tag": "Refines crude oil and sells petrol, diesel and cooking gas under the Bharat brand",
+    "sources": [
+      [
+        "Bharat Petroleum Annual Report 2025-26 home page",
+        "https://www.bharatpetroleum.in/bharat-petroleum-ar-25-26/index.html"
+      ]
+    ],
+    "productSource": "https://www.bharatpetroleum.in/bharat-petroleum-ar-25-26/pdf/BPCL_AR%202025-26%20Business%20Verticals.pdf",
+    "checked": "14 November 2026",
+    "reviewed": "14 November 2026",
+    "aliases": [
+      "Bharat Petroleum Corporation Limited",
+      "Bharat Petroleum Corporation Ltd",
+      "Bharat Petroleum",
+      "BPCL"
+    ]
+  },
+  "offerings": [
+    {
+      "name": "Fuel stations",
+      "category": "Petrol and diesel sold at retail outlets",
+      "image": "assets/products/bharat-petroleum-fuel-stations.svg",
+      "url": "https://www.bharatpetroleum.in/bharat-petroleum-ar-25-26/pdf/BPCL_AR%202025-26%20Business%20Verticals.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a fuel pump — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "BharatGas cylinders",
+      "category": "Cooking gas cylinders for homes",
+      "image": "assets/products/bharat-petroleum-bharatgas-cylinders.svg",
+      "url": "https://www.bharatpetroleum.in/bharat-petroleum-ar-25-26/pdf/BPCL_AR%202025-26%20Business%20Verticals.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a gas cylinder — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Aviation fuel",
+      "category": "Fuel filled into aircraft at airports",
+      "image": "assets/products/bharat-petroleum-aviation-fuel.svg",
+      "url": "https://www.bharatpetroleum.in/bharat-petroleum-ar-25-26/pdf/BPCL_AR%202025-26%20Business%20Verticals.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of an aeroplane — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "CNG and piped gas",
+      "category": "Natural gas for vehicles and homes",
+      "image": "assets/products/bharat-petroleum-cng-and-piped-gas.svg",
+      "url": "https://www.bharatpetroleum.in/bharat-petroleum-ar-25-26/pdf/BPCL_AR%202025-26%20Business%20Verticals.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a CNG cylinder — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Electric charging",
+      "category": "Fast charging points for electric vehicles",
+      "image": "assets/products/bharat-petroleum-electric-charging.svg",
+      "url": "https://www.bharatpetroleum.in/bharat-petroleum-ar-25-26/pdf/BPCL_AR%202025-26%20Business%20Verticals.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of an electric vehicle charger — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Industrial fuels",
+      "category": "Fuels sold directly to factories, power plants and railways",
+      "image": "assets/products/bharat-petroleum-industrial-fuels.svg",
+      "url": "https://www.bharatpetroleum.in/bharat-petroleum-ar-25-26/pdf/BPCL_AR%202025-26%20Business%20Verticals.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a fuel tanker — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "MAK lubricants",
+      "category": "Engine and machine oils",
+      "image": "assets/products/bharat-petroleum-mak-lubricants.svg",
+      "url": "https://www.bharatpetroleum.in/bharat-petroleum-ar-25-26/pdf/BPCL_AR%202025-26%20Business%20Verticals.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of an oil can — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Refineries",
+      "category": "Plants that turn crude oil into fuels",
+      "image": "assets/products/bharat-petroleum-refineries.svg",
+      "url": "https://www.bharatpetroleum.in/bharat-petroleum-ar-25-26/pdf/BPCL_AR%202025-26%20Business%20Verticals.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a refinery — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "BeCafe and In & Out stores",
+      "category": "Cafes and shops at fuel stations",
+      "image": "assets/products/bharat-petroleum-becafe-and-in-and-out.svg",
+      "url": "https://www.bharatpetroleum.in/bharat-petroleum-ar-25-26/pdf/BPCL_AR%202025-26%20Business%20Verticals.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a coffee cup and shop — conceptual picture; not a photograph or the company’s own image"
+    }
+  ]
+}
