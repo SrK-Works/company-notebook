@@ -1,0 +1,26 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Standalone · SBI Life alone",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited standalone financial statements (integrated annual report)",
+  "checked": "14 November 2026",
+  "coverage": "Whole-company totals · no profit is given for any single insurance product",
+  "revenueLabel": "Total income",
+  "incomeDefinition": "Premiums customers paid for policies, after the part passed to reinsurers (other insurers that share the risk), plus income from investing customers’ money (which can be negative when market values fall), plus small other income. A premium is a customer’s payment for cover; it is not profit.",
+  "profitMetric": "Profit after tax",
+  "definition": "Profit in the shareholders’ account (the ‘Profit and Loss Account’ in the insurer’s format) after expenses and tax. It is not the premiums collected or cash flow.",
+  "rows": [
+    {
+      "name": "SBI Life · standalone",
+      "revenue": 111100.83,
+      "profit": 2470.3
+    }
+  ],
+  "source": "https://www.sbilife.co.in/documents/d/annual-reports-fy-2025-26/microsites_annualreports26_pdf_sbi-life-integrated-annual-report-fy2026",
+  "location": "Integrated Annual Report 2025-26: standalone revenue account (PDF page 138, printed pages 272–273), standalone profit and loss account (PDF page 139, printed pages 274–275), Management Discussion income table (PDF page 51, printed pages 98–99) and Schedule 16(C) note 47 on the new Labour Codes (PDF page 188, printed pages 372–373). The PDF prints two numbered pages on each sheet.",
+  "notes": "Total income is total (A) of the revenue account, ₹111,100.83 crore: net premium ₹99,955.92 crore (premium ₹101,286.10 crore less ₹1,330.18 crore passed to reinsurers) plus investment income ₹11,062.12 crore plus other income ₹73.92 crore plus ₹8.87 crore contributed by shareholders towards senior management pay above a set limit. The Management Discussion table shows total income of ₹111,093 crore (₹1,110.93 billion) because it nets some provisions against investment income; this table uses the audited statement. In that table investment income fell from ₹31,726 crore to ₹11,054 crore; the filing says this was mainly because of a fall in the fair value of equity holdings in unit-linked funds (policies where the customer carries the investment risk). Profit before tax of ₹2,537.40 crore less tax of ₹67.10 crore gives profit after tax of ₹2,470.30 crore. The shareholders’ account transferred ₹1,865.06 crore to the policyholders’ account to cover a shortfall in some policy groups (non-par individual life, annuity and unit-linked group life). The revenue account includes a one-time ₹135.49 crore charge for the new Labour Codes (extra retirement-pay and leave liability for past service). Goods and services tax on charges was ₹525.30 crore against ₹1,105.83 crore a year earlier; the filing says this was due to an increase in linked income charges and gives no further amount. The filing says the company has no subsidiary, joint venture or associate, so there is no consolidated version. The filing gives results by policy type (par, non-par, linked) but not by product, and those are not shown here.",
+  "insight": "Most of what an insurer takes in goes out again to policyholders or into reserves for future claims, so profit is small next to total income. Total income fell this year even though premiums rose, because the investment part was far lower.",
+  "status": "totals",
+  "revenueTotal": 111100.83,
+  "profitTotal": 2470.3
+}

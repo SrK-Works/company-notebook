@@ -1,0 +1,22 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated · Shriram Finance and its subsidiaries",
+  "coverage": "Whole group totals · the group reports a single segment, financing",
+  "unit": "₹ crore",
+  "revenueLabel": "Total income",
+  "incomeDefinition": "Interest on loans, dividend, fees and commission, fair-value gains, other operating income and other income. It is gross income before interest paid on borrowings, loan-loss provisions and other costs; it is not sales.",
+  "profitMetric": "Profit for the year (after tax)",
+  "definition": "Net profit after tax from total operations, after finance costs, loan-loss provisions (impairment) and tax. It is not operating profit or cash flow.",
+  "rows": [
+    { "name": "Shriram Finance group", "revenue": 48192.65, "profit": 10024.15 }
+  ],
+  "source": "https://cdn.shriramfinance.in/sfl-kalam/files/2026-06/Annual-Report-2025-26.pdf",
+  "sourceLabel": "Audited consolidated financial statements (annual report)",
+  "location": "Annual Report 2025-26, consolidated statement of profit and loss (PDF page 201, printed page 399; continued on PDF page 202, printed page 400), note 47 on the new Labour Codes (PDF page 243, printed page 483) and note 59 on segment reporting (PDF page 269)",
+  "notes": "Interest income is ₹46,657.82 crore of the ₹48,192.65 crore total income (revenue from operations ₹48,132.95 crore plus other income ₹59.70 crore). Finance costs (interest paid on borrowed money) were ₹21,521.02 crore and loan-loss provisions (impairment on financial instruments) ₹5,338.95 crore. Profit before tax from continuing operations was ₹13,300.19 crore and tax ₹3,295.99 crore (current ₹4,160.81 crore less a deferred tax credit of ₹864.82 crore), giving ₹10,004.20 crore; adding ₹20.50 crore share of profit of an associate and deducting ₹0.55 crore from discontinued operations gives ₹10,024.15 crore, of which ₹10,024.16 crore belongs to owners and −₹0.01 crore to minority holders. There were no exceptional items this year (₹1,553.66 crore gain in the previous year). Employee benefit expense includes a one-time ₹196.99 crore for the new Labour Codes (₹131.73 crore extra gratuity plus ₹65.26 crore extra long-term leave pay, from the change in the definition of wages). The filing states that the group operates in a single reporting segment, financing, so profit is not disclosed for any loan type. Standalone figures (Shriram Finance alone) were total income ₹48,177.98 crore and profit ₹9,998.15 crore (PDF page 114, printed page 225); they are not used in this table.",
+  "insight": "Most of the group’s income is interest charged on loans, and nearly half goes to pay for borrowed money. These totals cannot show which loan type earns the most.",
+  "status": "totals",
+  "checked": "14 November 2026",
+  "revenueTotal": 48192.65,
+  "profitTotal": 10024.15
+}

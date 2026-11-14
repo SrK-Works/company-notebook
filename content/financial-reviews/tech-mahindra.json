@@ -1,0 +1,23 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated · Tech Mahindra and its subsidiaries",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited consolidated financial statements (integrated annual report)",
+  "checked": "14 November 2026",
+  "coverage": "Reported business segments · revenue from operations by segment",
+  "profitMetric": "Segmental results",
+  "definition": "Each segment’s revenue less its direct expenses, as the filing’s segment note shows. It is before finance costs, depreciation and amortisation, other unallocable costs, the exceptional item and tax, so it is far larger than profit after tax.",
+  "rows": [
+    { "name": "IT (information technology services)", "revenue": 47767.0, "profit": 9516.8 },
+    { "name": "BPS (business process services)", "revenue": 9048.4, "profit": 1499.0 }
+  ],
+  "source": "https://insights.techmahindra.com/investors/tml-integrated-annual-report-fy-2025-2026.pdf",
+  "location": "Integrated Annual Report 2025-26, consolidated financial statements: note 58 segment reporting (PDF pages 655–656, printed pages 653–654), consolidated statement of profit and loss (PDF page 555, printed page 553) and note 48(c) on the new Labour Codes (PDF page 623, printed page 621)",
+  "notes": "The filing prints ₹ million; each figure is divided by 10. Segment revenue adds to ₹56,815.4 crore, equal to revenue from operations. Segmental results add to ₹11,015.8 crore. Deducting finance costs ₹337.4 crore, depreciation and amortisation ₹1,881.6 crore, a line the filing calls unallocable cost of ₹1,981.7 crore (it does not itemise it) and an exceptional item of ₹272.4 crore gives operating income of ₹6,542.7 crore. Adding other income of ₹31.9 crore and a share of loss of associates and joint ventures of ₹1.5 crore gives profit before tax of ₹6,573.1 crore. Tax of ₹1,767.6 crore leaves profit after tax of ₹4,805.5 crore, of which ₹4,810.9 crore belongs to owners and −₹5.4 crore to minority holders. The exceptional item of ₹272.4 crore is the one-time extra employee-benefit liability for past service from the new Labour Codes, which the company shows separately because it calls the impact regulation-driven and non-recurring. The filing’s segment note does not give profit after tax by segment. Other income was ₹855.4 crore in the previous year and ₹31.9 crore this year; the filing’s statement gives no reason. No customer-concentration figure for revenue was found in the consolidated notes.",
+  "insight": "IT services bring in about five-sixths of revenue and most of the segment result, while business process services (running customers’ back-office work such as customer support) is a smaller part with a lower margin.",
+  "status": "segments",
+  "revenueTotal": 56815.4,
+  "revenueTotalLabel": "Total segment revenue (equals revenue from operations)",
+  "profitTotal": 11015.8,
+  "profitTotalLabel": "Total segmental results"
+}
