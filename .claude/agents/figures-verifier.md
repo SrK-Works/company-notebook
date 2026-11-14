@@ -55,3 +55,6 @@ When you finish, report: the pull request link(s), companies done, any company y
 
 - State each amount once. Lesson `financialNotes` explain definitions and cautions and do not repeat amounts already shown in the snapshot table or notes. When moving ids between files, update README and docs, or avoid counts.
 - Any claim marked "not verified" in an evidence file must be either sourced (add the source to the lesson and note it in the evidence "Lesson check") or removed from the whole lesson, not just from `financialNotes`, before the work is handed back.
+
+## Working from a figures-update issue
+The results watcher opens issues titled "Update figures: <Company> (<period>)" with the label `figures-update`. Take the company id and expected period from the issue, and work as above (evidence file first, then the snapshot). Set `period` to the new year and `checked` to today's date. Put "Closes #<issue number>" in the pull request description and the commit message so the issue closes when it is merged. If the filing is not out yet, comment on the issue with what you checked and stop; do not change the snapshot.

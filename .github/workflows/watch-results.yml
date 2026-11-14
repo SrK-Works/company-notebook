@@ -1,0 +1,36 @@
+name: Watch results
+
+# Weekly check: which company snapshots should now have a newer annual period?
+# Opens one "Update figures" issue per company. It never edits files and never merges anything.
+on:
+  schedule:
+    - cron: '0 4 * * 1'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: Print what would happen and open no issues
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Check results and open issues
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          if [ "$DRY_RUN" = "true" ]; then
+            node scripts/watch-results.cjs --dry-run
+          else
+            node scripts/watch-results.cjs
+          fi

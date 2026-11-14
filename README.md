@@ -59,6 +59,19 @@ Without an API key, a Claude Code session can write the draft: `--dump-sources w
 
 Most companies have a verified FY 2025–26 snapshot; IREDA, HCG, Fredun Pharmaceuticals, Milky Mist, HFCL and Genus Power show the pending state. Each snapshot records its reporting scope (standalone or consolidated), source, table and page, profit definition, review date and reconciliation notes. ₹ million is divided by 10 and ₹ lakh by 100 to show ₹ crore. Losses keep a minus sign and a label. Company totals never imply a brand or product profit, and a sales split never becomes a profit split. These are historical annual disclosures, not live figures.
 
+## Keeping figures current
+
+A weekly GitHub Action (`.github/workflows/watch-results.yml`) runs `scripts/watch-results.cjs`. It does two things and never changes any file or merges anything.
+
+1. **Date rules, no network.** For each snapshot in `content/financial-reviews/` it reads the period, works out the next annual period, and applies the Indian rule: audited full-year results are due within 60 days of year end, and the annual report usually follows by the AGM, so a company is called overdue after about 150 days. States are `current`, `results due` and `overdue`. The rules live in `scripts/lib/results-calendar.cjs` (today's date is passed in, so they are unit tested). A period the script cannot read is reported as a warning.
+2. **Exchange check, best effort.** Once a company's year has ended, `scripts/lib/exchange-check.cjs` asks NSE for a results announcement using a plain `company-notebook-results-watcher` User-Agent. The exchanges often refuse automated requests, so any failure is reported as `unknown` and never fails the run. Treat this as a bonus, not a guarantee; the date rules are what the watcher relies on.
+
+For each company that is due, overdue or found filed, it opens one issue titled `Update figures: <Company> (<next period>)` with the label `figures-update`. It searches open and closed issues by exact title first, so a period is never raised twice, and it opens at most 10 new issues per run. A summary table of every company goes to the Actions job summary.
+
+Try it locally (no GitHub calls, opens nothing): `node scripts/watch-results.cjs --dry-run`, optionally with `--today=2027-06-15` to see what a later date would raise. The workflow can also be started by hand from the Actions tab; leave `dry_run` ticked to print only.
+
+To process the issues, ask the figures-verifier agent to handle the open `figures-update` issues. It updates the snapshot, evidence file and the lesson's `financialNotes`, and its pull request closes the issue.
+
 ## Checks
 
 - `npm test`: data, lessons, the company page, figure walkthroughs, financial records, the drafting step, source checking and design tokens.
