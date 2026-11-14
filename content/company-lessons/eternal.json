@@ -142,14 +142,18 @@
   "financialNotes": [
     {
       "title": "Segment result and revenue",
-      "text": "Eternal’s figures are consolidated (Eternal and its subsidiaries together), year to 31 March 2026. Segment result is each business’s profit before other income, share-based pay, finance costs, depreciation and tax. Revenue is from outside customers; sales between its own businesses are left out. Quick commerce revenue now includes full goods sales after its move to holding stock itself, so it is not comparable with commission revenue."
+      "text": "Eternal’s figures are consolidated (Eternal and its subsidiaries together), year to 31 March 2026. Segment result is each business’s profit before other income, share-based pay (shares given to staff as pay), finance costs (interest on borrowings), depreciation (the yearly cost of using up equipment) and tax. Revenue is from outside customers; sales between its own businesses are left out. Exceptional items (one-off items shown separately) were nil."
+    },
+    {
+      "title": "Quick commerce is not comparable",
+      "text": "Quick commerce revenue now includes full goods sales after its move to holding stock itself, so it is not comparable with commission revenue."
     },
     {
       "title": "Group profit is a different measure",
-      "text": "The segment results total ₹2,027 crore. Group profit before tax was ₹615 crore and profit for the year ₹366 crore."
+      "text": "The segment total is not group profit. Profit before tax was ₹615 crore and profit for the year ₹366 crore."
     }
   ],
-  "checked": "12 November 2026",
+  "checked": "14 November 2026",
   "stepsTitle": "From an order in the app to the doorstep.",
   "quick": [
     {

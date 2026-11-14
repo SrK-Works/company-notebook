@@ -25,7 +25,7 @@ Hand-written site files in `dist/`:
 - `short-profile.js`: the company page.
 - `company-lessons.js`: copies each lesson's summary, products and sources onto its company, for cards and search.
 - `gallery.js`: the scrolling product picture shelf.
-- `financial-data.js` (the original 17 verified snapshots) and `financials.js` (draws every financial table).
+- `financial-data.js` (original verified snapshots not yet moved into `content/financial-reviews/`) and `financials.js` (draws every financial table).
 - `figure-walkthroughs.js`: plain-language walkthroughs of the figures for HUL, ITC, Nestlé India, Britannia, Marico and DMart.
 - `style.css`: all styling. Every colour is a token at the end of the file, and dark mode only redefines those tokens.
 
@@ -57,7 +57,7 @@ Without an API key, a Claude Code session can write the draft: `--dump-sources w
 
 ## Financial figures
 
-36 companies have a verified FY 2025–26 snapshot; IREDA, HCG, Fredun Pharmaceuticals, Milky Mist, HFCL and Genus Power show the pending state. Each snapshot records its reporting scope (standalone or consolidated), source, table and page, profit definition, review date and reconciliation notes. ₹ million is divided by 10 and ₹ lakh by 100 to show ₹ crore. Losses keep a minus sign and a label. Company totals never imply a brand or product profit, and a sales split never becomes a profit split. These are historical annual disclosures, not live figures. The original 17 snapshots are protected by a test.
+Most companies have a verified FY 2025–26 snapshot; IREDA, HCG, Fredun Pharmaceuticals, Milky Mist, HFCL and Genus Power show the pending state. Each snapshot records its reporting scope (standalone or consolidated), source, table and page, profit definition, review date and reconciliation notes. ₹ million is divided by 10 and ₹ lakh by 100 to show ₹ crore. Losses keep a minus sign and a label. Company totals never imply a brand or product profit, and a sales split never becomes a profit split. These are historical annual disclosures, not live figures. Original snapshots still in `financial-data.js` are protected by a test.
 
 ## Checks
 

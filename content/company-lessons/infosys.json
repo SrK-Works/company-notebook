@@ -150,15 +150,15 @@
   "financialNotes": [
     {
       "title": "Customers, not products",
-      "text": "Infosys reports by customer industry, not by products such as Topaz or Cobalt. Names are shortened: Financial Services includes insurance, Retail includes consumer goods and delivery businesses, Communication includes telecom equipment makers and media. Figures are consolidated (Infosys and subsidiaries together), year to 31 March 2026."
+      "text": "Infosys reports by customer industry, not by products such as Topaz or Cobalt. Names are shortened: Financial Services includes insurance, Retail includes consumer packaged goods (everyday branded products) and logistics (moving and delivering goods for customers), and Communication includes telecom equipment makers and media. Figures are consolidated (Infosys and subsidiaries together), year to 31 March 2026."
     },
     {
       "title": "Costs kept apart",
       "text": "Segment operating income is profit after costs tied to each industry. Costs not tied to one industry are listed as unallocated expenses. This year they included the cost of new wage and labour rules (Labour Codes)."
     },
     {
-      "title": "Figures",
-      "text": "Segment operating income totals ₹42,445 crore. Unallocated expenses of ₹6,191 crore include ₹1,289 crore for the Labour Codes. Net profit was ₹29,474 crore."
+      "title": "Segment income is not company profit",
+      "text": "Segment operating income is before unallocated expenses, other income, finance costs and tax, so net profit is lower than the segment total."
     }
   ],
   "checked": "12 November 2026",

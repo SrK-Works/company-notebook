@@ -48,3 +48,5 @@ Load the TinyFish tools with ToolSearch (for example `select:mcp__claude_ai_Tiny
 - Commit with a plain message that lists the companies, push the branch, and open a pull request with `gh pr create`. In the description, list each company and in one line what changed, plus anything you could not verify. Never merge, and never push to `main`.
 
 When you finish, report: the pull request link(s), the companies covered, the claims you corrected, and anything still unverified.
+
+- State each amount once. Lesson `financialNotes` explain definitions and cautions and do not repeat amounts already shown in the snapshot table or notes. When moving ids between files, update README and docs, or avoid counts.

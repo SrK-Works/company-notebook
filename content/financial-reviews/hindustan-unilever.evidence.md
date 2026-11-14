@@ -1,8 +1,7 @@
 # Hindustan Unilever — re-verification of the existing snapshot (dist/financial-data.js)
 
-Checked 14 November 2026. Re-check only: the snapshot, lesson and build files were not changed.
-Corrected 14 November 2026: Snapshot moved unchanged from dist/financial-data.js to this folder on 14 Nov 2026 (no snapshot field changed). Lesson financialNotes rewritten: the 1,476 gap is explained (Others 2,181 less other operating revenue 705), demerger defined, the unverified 'Foods & Refreshment' label and Kwality Wall's pro forma statement removed.
-
+Re-check of 14 Nov 2026; corrections listed below.
+Corrected 14 November 2026: Snapshot moved unchanged from dist/financial-data.js to this folder on 14 Nov 2026 (no snapshot field changed). Lesson financialNotes rewritten: the 1,476 gap is explained (Others 2,181 less other operating revenue 705), demerger defined (later pointed to the lesson's own definition), the unverified 'Foods & Refreshment' label and Kwality Wall's pro forma statement removed; the out-of-period quarterly note (quarter to 30 Sep 2026) was removed from the lesson.
 
 ## Discrepancies and unsupported items
 No amount, label, period or scope in the snapshot disagrees with the filing: five revenue rows, five segment results and both totals match. Points to note:

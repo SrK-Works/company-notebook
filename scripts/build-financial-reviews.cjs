@@ -1,4 +1,4 @@
-// Independently maintained financial snapshots. Originals not yet migrated still live in dist/financial-data.js; an id may appear in only one place.
+// Builds dist/financial-expansion.js from content/financial-reviews/*.json. An id may exist here or in dist/financial-data.js, never both.
 const fs=require('node:fs'),path=require('node:path'),vm=require('node:vm');
 const root=path.resolve(__dirname,'..'),directory=path.join(root,'content/financial-reviews');
 const baseline={window:{}};vm.createContext(baseline);
