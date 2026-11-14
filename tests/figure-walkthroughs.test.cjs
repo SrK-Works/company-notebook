@@ -2,7 +2,7 @@ const {test}=require('node:test');
 const assert=require('node:assert/strict');
 const fs=require('node:fs'),vm=require('node:vm');
 const c={Intl};c.window=c;vm.createContext(c);
-for(const f of ['company-data','financial-data','financial-expansion','figure-walkthroughs'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
+for(const f of ['company-data','financial-expansion','figure-walkthroughs'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
 const walk=id=>c.FIGURE_WALKTHROUGHS[id]();
 const has=(id,texts)=>{const html=walk(id);for(const t of texts)assert.ok(html.includes(t),`${id}: ${t}`)};
 

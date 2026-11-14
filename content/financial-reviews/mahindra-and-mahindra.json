@@ -1,0 +1,39 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "coverage": "Reported business segments",
+  "unit": "₹ crore",
+  "profitMetric": "Segment result",
+  "definition": "Results after exceptional items and share of profit or loss of associates and joint ventures, before the remaining group-level reconciliation to profit before tax.",
+  "rows": [
+    {
+      "name": "Automotive",
+      "revenue": 117834.13,
+      "profit": 10383.47
+    },
+    {
+      "name": "Farm Equipment",
+      "revenue": 42568.39,
+      "profit": 5516.9
+    },
+    {
+      "name": "Financial Services",
+      "revenue": 20949.32,
+      "profit": 3778.53
+    },
+    {
+      "name": "Industrial Businesses & Consumer Services",
+      "revenue": 22748.93,
+      "profit": 3704.64
+    }
+  ],
+  "source": "https://www.mahindra.com/sites/default/files/2026-05/Quarterly%20Result%20for%20Q4F26.pdf",
+  "sourceLabel": "Official financial disclosure",
+  "location": "PDF page 2 · consolidated segment information, section C",
+  "checked": "14 November 2026",
+  "notes": "₹5,462.22 crore of inter-segment revenue is deducted from ₹2,04,100.77 crore to reach ₹1,98,638.55 crore income from operations. Finance costs outside Financial Services and unallocated income further change group profit. The group profit also includes an exceptional charge of ₹292.94 crore for the Labour Codes (new wage and labour rules in force from 21 November 2025), which raised retirement-benefit obligations for service already worked. Exceptional items are unusual one-time gains or costs shown on their own line. The filing does not say whether this charge sits inside a segment result or in the unallocated line. An associate is a company Mahindra part-owns without controlling it; a joint venture is a business run together with a partner. Mahindra adds its share of their profit to its own (the equity method). For Industrial Businesses and Consumer Services the result before this share was ₹1,725.61 crore, against ₹3,704.64 crore after it, so most of that segment’s result is share of associates and joint ventures.",
+  "insight": "Automotive is the largest revenue and segment-result contributor. Farm Equipment is smaller by sales but remains a substantial earnings contributor.",
+  "revenueTotal": 204100.77,
+  "profitTotal": 23383.54,
+  "status": "segments"
+}

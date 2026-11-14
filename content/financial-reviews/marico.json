@@ -1,0 +1,63 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "coverage": "Reported business segments",
+  "unit": "₹ crore",
+  "profitMetric": "Segment result (PBIT)",
+  "definition": "Profit before tax and interest as reported for India and International; unallocated costs still reduce company profit.",
+  "rows": [
+    {
+      "name": "India",
+      "revenue": 10348,
+      "profit": 1661
+    },
+    {
+      "name": "International",
+      "revenue": 3263,
+      "profit": 813
+    }
+  ],
+  "source": "https://bseindia.com/xml-data/corpfiling/AttachHis/4d48a9a7-e7ee-4677-a18b-78ae7b5b01c7.pdf",
+  "sourceLabel": "Official Integrated Annual Report 2025-26 (filed with BSE)",
+  "location": "Consolidated Note 30 · Segment Information · PDF page 235 of the copy filed with BSE (printed pages 434–435)",
+  "checked": "14 November 2026",
+  "notes": "₹2,474 crore segment result is reduced by ₹53 crore finance costs and ₹144 crore net unallocated expenditure to ₹2,277 crore profit before tax. The split is geographical, not individual brands. The filing says the results include recent acquisitions (further stakes in Satiya (Plix), True Elements, Zea Maize (4700BC) and Cosmix) and are not comparable with other periods.",
+  "insight": "India produces most sales and segment earnings. International has less revenue but a higher result relative to its sales.",
+  "revenueTotal": 13611,
+  "profitTotal": 2474,
+  "status": "segments",
+  "productRevenue": {
+    "basis": "Consolidated · revenue by major product category",
+    "unit": "₹ crore",
+    "period": "FY 2025–26 · year ended 31 March 2026",
+    "rows": [
+      {
+        "name": "Edible Oils",
+        "revenue": 7049
+      },
+      {
+        "name": "Hair oils",
+        "revenue": 2624
+      },
+      {
+        "name": "Personal care",
+        "revenue": 2020
+      },
+      {
+        "name": "Others",
+        "revenue": 1918
+      }
+    ],
+    "total": 13611,
+    "source": "https://bseindia.com/xml-data/corpfiling/AttachHis/4d48a9a7-e7ee-4677-a18b-78ae7b5b01c7.pdf",
+    "location": "Consolidated Note 30 · printed pages 434–435 (PDF page 235 in the copy filed with BSE)",
+    "checked": "14 November 2026",
+    "financeCosts": 53,
+    "unallocatedNetExpense": 144,
+    "pbt": 2277,
+    "tax": 464,
+    "groupPat": 1813,
+    "nonControlling": 51,
+    "ownersPat": 1762
+  }
+}

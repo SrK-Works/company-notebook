@@ -1,6 +1,7 @@
-# Glass Wall Systems — re-verification of the existing snapshot (dist/financial-data.js)
+# Glass Wall Systems — re-verification of the existing snapshot (migrated to content/financial-reviews)
 
-Checked 14 November 2026. Re-check only: the snapshot, lesson and build files were not changed.
+Checked 14 November 2026. Snapshot moved from dist/financial-data.js to this folder.
+Corrected 14 November 2026: Moved from dist/financial-data.js to this folder. Amounts and text unchanged; checked date set to 14 November 2026.
 
 ## Discrepancies and unsupported items
 No amount, label, period or scope in the snapshot disagrees with the filing: revenue from operations ₹4,300.19 million (snapshot 430.019 crore) and profit for the year ₹758.95 million (snapshot 75.895 crore) match exactly after dividing by 10. Points to note:

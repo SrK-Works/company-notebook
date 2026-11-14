@@ -1,0 +1,46 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Standalone · parent company",
+  "coverage": "Reported business segments",
+  "unit": "₹ crore",
+  "profitMetric": "Segment result (PBIT)",
+  "definition": "Reported segment profit before interest and tax; finance costs, unallocated items and exceptional items reconcile this to company profit before tax.",
+  "rows": [
+    {
+      "name": "FMCG – Cigarettes",
+      "revenue": 37100,
+      "profit": 21051
+    },
+    {
+      "name": "FMCG – Other products",
+      "revenue": 24210,
+      "profit": 1803
+    },
+    {
+      "name": "Agri Business",
+      "revenue": 20296,
+      "profit": 1496
+    },
+    {
+      "name": "Paperboards, Paper & Packaging",
+      "revenue": 8766,
+      "profit": 797
+    },
+    {
+      "name": "Other businesses",
+      "revenue": 342,
+      "profit": -8
+    }
+  ],
+  "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/590b42ae-15c9-44cf-be69-e58053128a6b.pdf",
+  "sourceLabel": "Official audited annual report (ITC Report and Accounts 2026, filed with BSE)",
+  "location": "Audited standalone financial statements · Note 30 Segment Reporting · PDF page 219 (printed page 191) of the report filed with BSE",
+  "checked": "14 November 2026",
+  "notes": "Parent company only, not all group subsidiaries. Segment revenue includes internal sales: ₹9,846 crore is deducted from ₹90,713 crore to reach ₹80,867 crore gross revenue. Cigarette tax changes affect comparability. Individually rounded revenue rows differ from the reported total by ₹1 crore. Segment result is each business’s profit before interest and tax, after the costs that can be tied to it; for FMCG – Other products it is after brand-building and start-up costs of the packaged foods and personal care businesses. Unallocated corporate costs, interest and an exceptional item then lead to company profit before tax. The exceptional item is a net charge of ₹183.87 crore: ₹271.95 crore for the Labour Codes (new wage and labour rules in force from 21 November 2025), which raised gratuity and leave-pay liabilities for service already worked, less an ₹88.08 crore insurance receipt for leaf tobacco stocks destroyed by fire at a third-party warehouse in an earlier year. Exceptional items are unusual one-time gains or costs shown on their own line.",
+  "insight": "Cigarettes account for much more of segment earnings than their share of segment sales. Familiar food brands sit within FMCG – Other products, whose profit is much smaller.",
+  "roundingTolerance": 1.01,
+  "revenueTotal": 90713,
+  "profitTotal": 25139,
+  "revenueTotalLabel": "Segment revenue before internal-sales deduction",
+  "status": "segments"
+}

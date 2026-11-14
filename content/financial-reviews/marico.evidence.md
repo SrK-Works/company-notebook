@@ -1,6 +1,7 @@
-# Marico — re-verification of the existing snapshot (dist/financial-data.js)
+# Marico — re-verification of the existing snapshot (migrated to content/financial-reviews)
 
-Checked 14 November 2026. Re-check only: the snapshot, lesson and build files were not changed.
+Checked 14 November 2026. Snapshot moved from dist/financial-data.js to this folder.
+Corrected 14 November 2026: Source changed to the BSE-filed annual report that was read (the marico.com PDFs could not be opened); location now note 30, PDF page 235 (printed 434-435), instead of the unconfirmed PDF page 13. Snapshot notes add the filing's statement that results include acquisitions and are not comparable with other periods; location no longer claims PDF page 13 (unconfirmed) and points to note 30; product table location gives PDF page 235 of the BSE copy. Amounts unchanged. Lesson financialNotes now say the filing calls the results not comparable.
 
 ## Discrepancies and unsupported items
 No amount, label, period or scope in the snapshot disagrees with the filing: India and International revenue and segment result, the totals 13,611 and 2,474, finance costs 53, unallocated 144, PBT 2,277, tax 464, group PAT 1,813, non-controlling 51, owners 1,762, and the four product-category revenues all match. Points to note:

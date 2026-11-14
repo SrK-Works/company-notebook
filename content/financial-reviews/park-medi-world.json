@@ -1,0 +1,24 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "coverage": "Single reported segment · company totals",
+  "unit": "₹ crore",
+  "profitMetric": "Profit after tax",
+  "definition": "Whole-group net profit after tax, including the part attributable to non-controlling interests.",
+  "rows": [
+    {
+      "name": "Healthcare business · whole group",
+      "revenue": 1679.356,
+      "profit": 273.557
+    }
+  ],
+  "source": "https://www.parkhospital.in/public/uploads/financial-annual-report/Annual%20Report%202025-2026.pdf",
+  "sourceLabel": "Official financial disclosure",
+  "location": "PDF pages 180 and 196 · printed page 201 and segment policy",
+  "checked": "14 November 2026",
+  "notes": "The group reports one healthcare segment. No specialty-by-specialty profit allocation is provided here. Source amounts are ₹ million and are divided by 10 to display ₹ crore.",
+  "insight": "Hospital services are reported as one segment. These totals cannot establish whether heart care, cancer care or a particular hospital makes the most profit.",
+  "status": "single",
+  "revenueTotal": 1679.356,
+  "profitTotal": 273.557
+}

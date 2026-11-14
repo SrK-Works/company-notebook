@@ -1,0 +1,54 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "coverage": "Reported business segments",
+  "unit": "₹ crore",
+  "profitMetric": "Segment result",
+  "definition": "Reported segment results before inter-segment margin adjustments, remaining finance costs, unallocated income, exceptional items and tax.",
+  "rows": [
+    {
+      "name": "Infrastructure Projects",
+      "revenue": 135344.58,
+      "profit": 7759.98
+    },
+    {
+      "name": "Energy Projects",
+      "revenue": 54888.59,
+      "profit": 3374.38
+    },
+    {
+      "name": "Hi-Tech Manufacturing",
+      "revenue": 14488.79,
+      "profit": 2105.13
+    },
+    {
+      "name": "IT & Technology Services",
+      "revenue": 53946.53,
+      "profit": 8633.94
+    },
+    {
+      "name": "Financial Services",
+      "revenue": 17283.43,
+      "profit": 4032.05
+    },
+    {
+      "name": "Development Projects",
+      "revenue": 5118.51,
+      "profit": 538.95
+    },
+    {
+      "name": "Others",
+      "revenue": 7978.01,
+      "profit": 2085.7
+    }
+  ],
+  "source": "https://investors.larsentoubro.com/upload/Quarterly/FY2026QuarterlyLTResultMarch2026.pdf",
+  "sourceLabel": "Official financial disclosure",
+  "location": "PDF page 5 · audited consolidated segment-wise revenue and results",
+  "checked": "14 November 2026",
+  "notes": "Segment revenue of ₹2,89,048.44 crore includes ₹3,174.08 crore internal sales, leaving ₹2,85,874.36 crore net revenue. Financial Services has its own funding costs within its reported economics. Below the segment total, profit before tax includes an exceptional loss of ₹1,722.44 crore. Exceptional items are unusual one-time gains or costs shown on their own line. This one is the extra cost of the Labour Codes (new wage and labour rules in force from 21 November 2025), which raised the provision for employee benefits by recognising past service. The Others row includes profits on selling business undertakings or stakes in subsidiaries or joint ventures in Development Projects and realty.",
+  "insight": "Infrastructure is the largest business by revenue. IT & Technology Services contributes the largest segment result in this table, despite lower revenue.",
+  "revenueTotal": 289048.44,
+  "profitTotal": 28530.13,
+  "status": "segments"
+}

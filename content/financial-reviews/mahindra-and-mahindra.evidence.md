@@ -1,6 +1,7 @@
-# Mahindra & Mahindra — re-verification of the existing snapshot (dist/financial-data.js)
+# Mahindra & Mahindra — re-verification of the existing snapshot (migrated to content/financial-reviews)
 
-Checked 14 November 2026. Re-check only: the snapshot, lesson and build files were not changed.
+Checked 14 November 2026. Snapshot moved from dist/financial-data.js to this folder.
+Corrected 14 November 2026: Snapshot notes add the Labour Codes exceptional charge of 292.94 crore and say the filing does not show whether it sits in a segment result; exceptional items, associate and joint venture are defined; Industrial Businesses and Consumer Services result before and after share of associates is shown (1,725.61 and 3,704.64). Amounts unchanged. Lesson financialNotes define the terms.
 
 ## Discrepancies and unsupported items
 No amount, label, period or scope in the snapshot disagrees with the filing: four segment revenues, four segment results (section C), both totals, the inter-segment deduction and income from operations all match. Points to note:

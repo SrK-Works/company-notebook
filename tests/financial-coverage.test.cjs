@@ -2,14 +2,9 @@ const {test}=require('node:test');
 const assert=require('node:assert/strict');
 const fs=require('node:fs'),vm=require('node:vm');
 const c={Intl};c.window=c;vm.createContext(c);
-for(const f of ['company-data','financial-data'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
-const original=JSON.stringify(c.COMPANY_FINANCIALS);
-const originalIds=Object.keys(c.COMPANY_FINANCIALS);
-for(const f of ['financial-expansion','financials'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
+for(const f of ['company-data','financial-expansion','financials'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
 // No company counts or name lists here: adding a company, or verifying one that was pending, must not need a test edit.
-test('every company has either a verified snapshot or an explicit pending state, and the earliest snapshots are unchanged',()=>{
- const preserved=Object.fromEntries(originalIds.map(id=>[id,c.COMPANY_FINANCIALS[id]]));
- assert.equal(JSON.stringify(preserved),original);
+test('every company has either a verified snapshot or an explicit pending state',()=>{
  const ids=c.COMPANIES.map(x=>x.id);
  assert.equal(new Set(ids).size,ids.length,'company ids are unique');
  for(const company of c.COMPANIES){
@@ -17,7 +12,7 @@ test('every company has either a verified snapshot or an explicit pending state,
   if(record){
    assert.ok(html.includes('<table'),company.id+': verified table');
    assert.ok(!html.includes('awaiting verification'),company.id);
-   if(!originalIds.includes(company.id)){
+   {
     const evidence=fs.readFileSync(`content/financial-reviews/${company.id}.evidence.md`,'utf8');
     assert.ok(evidence.includes(new URL(record.source).hostname),company.id+': source evidence');
     assert.ok(record.location&&record.rows.length,company.id+': identifiable source table');

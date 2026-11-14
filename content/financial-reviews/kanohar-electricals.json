@@ -1,0 +1,24 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Company financial statements",
+  "coverage": "Company totals only · no verified business split",
+  "unit": "₹ crore",
+  "profitMetric": "Profit after tax",
+  "definition": "Net profit after finance costs, depreciation and tax for the company financial statements shown.",
+  "rows": [
+    {
+      "name": "Whole company",
+      "revenue": 653.8384,
+      "profit": 129.6368
+    }
+  ],
+  "source": "https://www.kanohar.com/Asset/newkanweb/Audited_Fiancial_Statements_25-26.pdf",
+  "sourceLabel": "Official financial disclosure",
+  "location": "PDF page 16 · statement of profit and loss",
+  "checked": "14 November 2026",
+  "notes": "Source amounts are ₹ lakh, converted to ₹ crore by dividing by 100. Product-level or EPC-versus-equipment profit allocations have not been verified. Figures include the joint operation on the basis described by the report. Tax expense includes a credit of ₹3.2372 crore for income tax relating to earlier years, a one-off item inside the profit figure.",
+  "insight": "These totals show overall revenue and net profit. They cannot establish whether transformers, switchgear or construction contracts are the most profitable activity.",
+  "status": "totals",
+  "revenueTotal": 653.8384,
+  "profitTotal": 129.6368
+}

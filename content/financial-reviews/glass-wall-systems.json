@@ -1,0 +1,24 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Standalone · parent company",
+  "coverage": "Company totals only · no verified product split",
+  "unit": "₹ crore",
+  "profitMetric": "Profit after tax",
+  "definition": "Net profit of the parent company after finance costs, depreciation and tax.",
+  "rows": [
+    {
+      "name": "Whole parent company",
+      "revenue": 430.019,
+      "profit": 75.895
+    }
+  ],
+  "source": "https://www.glasswallsystems.in/ipo-docs/70768f2eb63447c19e077624facbc935.pdf",
+  "sourceLabel": "Official financial disclosure",
+  "location": "PDF page 14 · standalone statement of profit and loss",
+  "checked": "14 November 2026",
+  "notes": "Source amounts are ₹ million, converted to ₹ crore by dividing by 10. A product- or service-level profit split has not been verified; the single row is a company total.",
+  "insight": "The verified total shows the parent company is profitable for this year. It does not tell us the separate earnings from curtain walls, louvers, engineering or installation.",
+  "status": "totals",
+  "revenueTotal": 430.019,
+  "profitTotal": 75.895
+}

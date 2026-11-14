@@ -17,7 +17,7 @@ For each company you are given, create or update `content/financial-reviews/<id>
 
 ## Rules you must follow
 
-- Read `content/financial-reviews/AGENTS.md` first and follow it exactly. Original snapshots still in `dist/financial-data.js` must not change unless they are being migrated into `content/financial-reviews/`.
+- Read `content/financial-reviews/AGENTS.md` first and follow it exactly. Every snapshot lives in `content/financial-reviews/` and is maintained the same way.
 - Never estimate, average, or split company profit by brand or product. If a number is not disclosed, leave it out and say so in the notes.
 - Plain-language notes: one or two short sentences a beginner can follow. Explain any measure (segment result, PAT) where it is used.
 - In lesson `financialNotes`, round amounts: whole crore for ₹100 crore or more, one decimal below that. Full precision belongs only in the snapshot JSON and the evidence file.

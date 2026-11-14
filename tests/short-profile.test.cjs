@@ -4,7 +4,7 @@ const fs=require('node:fs');
 const vm=require('node:vm');
 const {validateLesson,ownNames}=require('../scripts/check-lessons.cjs');
 const c={Intl};c.window=c;vm.createContext(c);
-for(const f of ['company-data','financial-data','financial-expansion','financials','figure-walkthroughs','gallery','profile-lessons','company-lessons','short-profile'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
+for(const f of ['company-data','financial-expansion','financials','figure-walkthroughs','gallery','profile-lessons','company-lessons','short-profile'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
 const safe=v=>String(v).replace(/[&<>"']/g,x=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[x]));
 const helpers={safe,mono:()=>'<span class="monogram"></span>',saveButton:()=>'<button class="save"></button>',profileSources:co=>co.sources};
 const company=c.COMPANIES.find(x=>x.id==='delhivery');

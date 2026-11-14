@@ -2,17 +2,16 @@ const {test}=require('node:test');
 const assert=require('node:assert/strict');
 const fs=require('node:fs'),vm=require('node:vm');
 const c={Intl};c.window=c;vm.createContext(c);
-for(const f of ['company-data','financial-data','profile-lessons','company-lessons'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
+for(const f of ['company-data','profile-lessons','company-lessons'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
 const added=['ireda','hcg','fredun-pharmaceuticals','milky-mist','hfcl','genus-power'];
 
-test('each added company has a complete profile, local original illustrations and no unverified financial figures',()=>{
+test('each added company has a complete profile, local original illustrations',()=>{
  for(const id of added){
   const company=c.COMPANIES.find(x=>x.id===id);assert.ok(company,id);
   for(const k of ['name','ticker','sector','summary','productSource','productNote'])assert.ok(String(company[k]||'').length>=3,`${id}: ${k}`);
   for(const k of ['description','money'])assert.ok(String(c.COMPANY_LESSONS[id][k]||'').length>=3,`${id}: lesson ${k}`);
   assert.ok(company.products.length>=7,id+': offerings');
   assert.ok(company.sources.length>=3,id+': sources');
-  assert.equal(c.COMPANY_FINANCIALS[id],undefined,id+': figures await a separate verified review');
   const visuals=c.PRODUCT_VISUALS[id];assert.ok(visuals&&visuals.length>=7,id+': visual shelf');
   for(const v of visuals){
    assert.ok(['illustration','pack','photo','generic'].includes(v.kind),`${id}: ${v.name}`);

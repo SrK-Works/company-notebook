@@ -1,6 +1,7 @@
-# ITC — re-verification of the existing snapshot (dist/financial-data.js)
+# ITC — re-verification of the existing snapshot (migrated to content/financial-reviews)
 
-Checked 14 November 2026. Re-check only: the snapshot, lesson and build files were not changed.
+Checked 14 November 2026. Snapshot moved from dist/financial-data.js to this folder.
+Corrected 14 November 2026: Source and location changed from the unread results presentation ('Presentation page 34') to the audited standalone note 30, PDF page 219 (printed page 191) of the ITC Report and Accounts 2026 filed with BSE. Notes add the net exceptional charge 183.87 (Labour Codes 271.95 less insurance receipt 88.08) and define segment result and exceptional items. Amounts unchanged. Lesson financialNotes define the terms.
 
 ## Discrepancies and unsupported items
 No amount, label, period or scope in the snapshot disagrees with the filing: five segment revenue rows, five segment results, the segment totals, the internal-sales deduction and the gross revenue all match once the filing's two-decimal figures are rounded to whole crore. Points to note:

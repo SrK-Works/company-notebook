@@ -1,6 +1,7 @@
-# Larsen & Toubro — re-verification of the existing snapshot (dist/financial-data.js)
+# Larsen & Toubro — re-verification of the existing snapshot (migrated to content/financial-reviews)
 
-Checked 14 November 2026. Re-check only: the snapshot, lesson and build files were not changed.
+Checked 14 November 2026. Snapshot moved from dist/financial-data.js to this folder.
+Corrected 14 November 2026: Snapshot notes add the Labour Codes exceptional loss of 1,722.44 crore, define exceptional items and mention the sale profits grouped under Others; location now says PDF page 5. Amounts unchanged. Lesson financialNotes define exceptional items.
 
 ## Discrepancies and unsupported items
 No amount, label, period or scope in the snapshot disagrees with the filing: seven segment revenues, seven segment results, both totals, internal sales and net revenue all match. Points to note:

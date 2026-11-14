@@ -1,6 +1,7 @@
-# Avenue Supermarts (DMart) — re-verification of the existing snapshot (dist/financial-data.js)
+# Avenue Supermarts (DMart) — re-verification of the existing snapshot (migrated to content/financial-reviews)
 
-Checked 14 November 2026. Re-check only: the snapshot, lesson and build files were not changed.
+Checked 14 November 2026. Snapshot moved from dist/financial-data.js to this folder.
+Corrected 14 November 2026: Store-growth figure labelled as a quarterly management figure from the press release, not audited. Lesson financialNotes no longer link DMart Ready to a group company (not verified in the pages read); subsidiary Avenue E-commerce Limited named as listed in the accounts. Amounts unchanged. (Other lesson sections still name Avenue E-Commerce Limited as running DMart Ready; unverified outside financialNotes.)
 
 ## Discrepancies and unsupported items
 No amount, label, period or scope in the snapshot disagrees with the filing: consolidated revenue from operations 68,820.74, group profit after tax 2,969.86, equity holders 2,970.49, non-controlling interests (0.63), parent revenue 66,968.03 and parent PAT 3,223.93 all match. Points to note:

@@ -1,6 +1,7 @@
-# Nestlé India — re-verification of the existing snapshot (dist/financial-data.js)
+# Nestlé India — re-verification of the existing snapshot (migrated to content/financial-reviews)
 
-Checked 14 November 2026. Re-check only: the snapshot, lesson and build files were not changed.
+Checked 14 November 2026. Snapshot moved from dist/financial-data.js to this folder.
+Corrected 14 November 2026: Source changed to the BSE-filed annual report that was actually read (the nestle.in PDFs could not be opened). Snapshot notes add the one-off tax write-back (312.04 crore: 202.32 in exceptional items, 109.72 in tax), restructuring 40.10, Labour Codes 41.44 and net exceptional credit 120.78; location now cites the BSE-filed annual report pages (PDF 61/printed 85, note 4 PDF 67, note 24 PDF 83, note 42 PDF 105); the unread 'Key Financial Figures' cross-check wording was removed. Amounts unchanged. Lesson financialNotes explain the one-offs without amounts.
 
 ## Discrepancies and unsupported items
 No amount, label, period or scope in the snapshot disagrees with the filing: revenue from operations ₹231,546.0 million (snapshot 23,154.6 crore), profit for the year ₹35,446.0 million (snapshot 3,544.6 crore), the four product-group sales (7,716.77; 7,274.01; 3,638.12; 4,442.56), their total 23,071.46 and other operating revenue 83.14 all match after dividing by 10. Points to note:

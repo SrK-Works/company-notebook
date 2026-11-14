@@ -5,7 +5,7 @@ const helpers={safe,mono:()=>'',saveButton:()=>'',profileSources:co=>co.sources}
 // Render one company page with the given lessons in place of the built ones.
 function page(lessons,id){
  const c={Intl};c.window=c;vm.createContext(c);
- for(const f of ['company-data','financial-data','financial-expansion','financials','figure-walkthroughs'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
+ for(const f of ['company-data','financial-expansion','financials','figure-walkthroughs'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
  c.COMPANY_LESSONS=lessons;
  for(const f of ['company-lessons','short-profile'])vm.runInContext(fs.readFileSync(`dist/${f}.js`,'utf8'),c);
  return c.shortProfile.render(c.COMPANIES.find(x=>x.id===id),helpers);

@@ -1,6 +1,7 @@
-# Kanohar Electricals — re-verification of the existing snapshot (dist/financial-data.js)
+# Kanohar Electricals — re-verification of the existing snapshot (migrated to content/financial-reviews)
 
-Checked 14 November 2026. Re-check only: the snapshot, lesson and build files were not changed.
+Checked 14 November 2026. Snapshot moved from dist/financial-data.js to this folder.
+Corrected 14 November 2026: Snapshot notes add the earlier-year tax credit of 3.2372 crore inside profit. Amounts unchanged. Lesson financialNotes mention the one-off tax credit without an amount.
 
 ## Discrepancies and unsupported items
 No amount, label, period or scope in the snapshot disagrees with the filing: revenue from operations ₹65,383.84 lakh (snapshot 653.8384 crore) and profit for the year ₹12,963.68 lakh (snapshot 129.6368 crore) match exactly after dividing by 100. Points to note:

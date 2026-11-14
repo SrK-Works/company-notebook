@@ -41,7 +41,7 @@
     },
     {
       "title": "Standalone and consolidated",
-      "text": "Standalone accounts cover the parent company, which runs the stores. Consolidated accounts cover the whole group, including DMart Ready’s company. They overlap, so they should not be added together."
+      "text": "Standalone accounts cover the parent company, which runs the stores. Consolidated accounts cover the whole group, including its subsidiary companies. They overlap, so they should not be added together."
     }
   ],
   "stepsTitle": "From the supplier to the checkout.",
@@ -167,7 +167,7 @@
     },
     {
       "title": "Parent and group are overlapping views",
-      "text": "Standalone figures cover the parent company and its stores. Consolidated figures cover the group, including DMart Ready’s company. Do not add them together, and do not treat the difference as DMart Ready’s profit."
+      "text": "Standalone figures cover the parent company and its stores. Consolidated figures cover the group, including its subsidiary companies (the accounts list Avenue E-commerce Limited among them). Do not add them together, and do not treat the difference as the profit of any one channel."
     },
     {
       "title": "What to read next",

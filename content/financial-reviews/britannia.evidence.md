@@ -1,6 +1,7 @@
-# Britannia Industries — re-verification of the existing snapshot (dist/financial-data.js)
+# Britannia Industries — re-verification of the existing snapshot (migrated to content/financial-reviews)
 
-Checked 14 November 2026. Re-check only: the snapshot, lesson and build files were not changed.
+Checked 14 November 2026. Snapshot moved from dist/financial-data.js to this folder.
+Corrected 14 November 2026: Snapshot notes add the Labour Codes past-service cost of 48.56 crore; BRSR locator corrected to item 13 printed pages 106-107 and item 17 printed pages 108-109. Lesson financialNotes: the unverified 'cheese joint venture' sentence removed. Amounts unchanged. (Lesson sections outside financialNotes still call Britannia Bel Foods a cheese business; not verified in the filing text read.)
 
 ## Discrepancies and unsupported items
 No amount, label, period or scope in the snapshot disagrees with the filing: revenue from operations 19,151.59, profit attributable to owners 2,533.49, group profit 2,537.01, non-controlling interest 3.52, sale of goods 18,858.21, other operating revenues 293.38, geography split (India 18,043.67; outside India 1,107.92) and the joint venture figures (loss 59.93, 51%, share 30.57) all match. Points to note:

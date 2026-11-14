@@ -1,0 +1,44 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "coverage": "Reported business segments",
+  "unit": "₹ crore",
+  "profitMetric": "Segment result",
+  "definition": "The financial statement’s segment result, before other income, share-based payments, finance costs, depreciation, exceptional items, associate losses and tax. It differs from adjusted EBITDA.",
+  "rows": [
+    {
+      "name": "Food Delivery",
+      "revenue": 7832,
+      "profit": 1041
+    },
+    {
+      "name": "Out-of-Home Consumption",
+      "revenue": 375,
+      "profit": 29
+    },
+    {
+      "name": "Quick Commerce",
+      "revenue": 3859,
+      "profit": -3063
+    },
+    {
+      "name": "Supply Chain & Distribution",
+      "revenue": 10935,
+      "profit": -77
+    },
+    {
+      "name": "Platform Innovations",
+      "revenue": 52,
+      "profit": -195
+    }
+  ],
+  "source": "https://www.swiggy.com/corporate/wp-content/uploads/2026/05/Q4-FY2026-Shareholder-letter.pdf",
+  "sourceLabel": "Official financial disclosure",
+  "location": "PDF page 33 · consolidated segment information",
+  "checked": "14 November 2026",
+  "notes": "Uses revenue after inter-segment adjustments from the financial statements, not adjusted revenue or gross order value. Source rows sum to ₹23,053 crore; rounded shareholder-letter highlights may differ by ₹1 crore. Exceptional items are one-time costs shown on their own line below the segment results; this year included ₹10 crore of extra gratuity liability from the Labour Codes (new wage and labour rules in force from 21 November 2025). Separately, Swiggy sold its entire stake in Rapido (Roppen Transportation Services) for ₹2,399 crore and recorded a ₹1,350 crore gain in other comprehensive income, the part of the accounts for certain gains that do not pass through profit or loss, so it is not in the loss.",
+  "insight": "Supply Chain & Distribution has the most reported revenue, but Food Delivery has the largest positive segment result. Quick Commerce losses outweigh the positive results of Food Delivery and dining-out.",
+  "revenueTotal": 23053,
+  "profitTotal": -2265,
+  "status": "segments"
+}

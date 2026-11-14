@@ -1,0 +1,49 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Standalone · Nestlé India Limited",
+  "coverage": "One operating segment: Food · company profit only",
+  "unit": "₹ crore",
+  "profitMetric": "Profit after tax",
+  "definition": "Company profit for the period after expenses, exceptional items and tax. This is not a separate profit for each product group or brand.",
+  "rows": [
+    {
+      "name": "Nestlé India · whole company",
+      "revenue": 23154.6,
+      "profit": 3544.6
+    }
+  ],
+  "source": "https://bseindia.com/xml-data/corpfiling/AttachHis/65cd4ca1-41a5-4526-b920-66b4133a4e5a.pdf",
+  "sourceLabel": "Official Annual Report 2025-26 (filed with BSE)",
+  "location": "Standalone statement of profit and loss · PDF page 61 (printed page 85) and Note 4 exceptional items · PDF page 67 of the annual report copy filed with BSE",
+  "checked": "14 November 2026",
+  "notes": "Amounts converted from ₹ million by dividing by 10. Revenue from operations includes sale of products and other operating revenue. Annual report Note 42 reports one Food operating segment; the cited disclosure does not give separate profits for the four product groups. Figures are historical annual results, not the latest quarter. One-off items sit inside this profit. Old income tax cases were closed, so provisions made in earlier years were written back, worth ₹312.04 crore in total: ₹202.32 crore is shown as an exceptional item and ₹109.72 crore as lower tax. Two one-off costs are also exceptional items: ₹40.10 crore of severance pay for a restructuring and ₹41.44 crore for the Labour Codes (new wage and labour rules in force from 21 November 2025), which raised what the company owes employees in retirement benefits for service already worked. Together these give a net exceptional credit of ₹120.78 crore. Exceptional items are unusual one-time gains or costs that a company shows on a separate line.",
+  "insight": "Use the product-sales table below to see where sales come from. The profit figure above belongs to Nestlé India as a whole; it is not a separate result for each product group or brand.",
+  "status": "single",
+  "productSales": {
+    "basis": "Standalone · sale of products",
+    "unit": "₹ crore",
+    "rows": [
+      {
+        "name": "Milk Products and Nutrition",
+        "revenue": 7716.77
+      },
+      {
+        "name": "Prepared Dishes and Cooking Aids",
+        "revenue": 7274.01
+      },
+      {
+        "name": "Powdered and Liquid Beverages",
+        "revenue": 3638.12
+      },
+      {
+        "name": "Confectionery",
+        "revenue": 4442.56
+      }
+    ],
+    "total": 23071.46,
+    "otherOperatingRevenue": 83.14,
+    "source": "https://bseindia.com/xml-data/corpfiling/AttachHis/65cd4ca1-41a5-4526-b920-66b4133a4e5a.pdf",
+    "location": "Note 24 · Class-Wise Details of Sales of Products · PDF page 83 (printed page 107); Note 42 · Segment Reporting · PDF page 105 (printed page 129) · annual report copy filed with BSE",
+    "checked": "14 November 2026"
+  }
+}

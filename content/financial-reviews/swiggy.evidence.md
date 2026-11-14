@@ -1,6 +1,7 @@
-# Swiggy — re-verification of the existing snapshot (dist/financial-data.js)
+# Swiggy — re-verification of the existing snapshot (migrated to content/financial-reviews)
 
-Checked 14 November 2026. Re-check only: the snapshot, lesson and build files were not changed.
+Checked 14 November 2026. Snapshot moved from dist/financial-data.js to this folder.
+Corrected 14 November 2026: Snapshot notes add the Labour Codes exceptional item of 10 crore and the Rapido stake sale (2,399 crore) with its 1,350 crore gain recorded in other comprehensive income, not in the loss. Amounts unchanged. Lesson financialNotes mention exceptional items and Labour Codes without amounts.
 
 ## Discrepancies and unsupported items
 No amount, label, period or scope in the snapshot disagrees with the filing: five revenue rows (after inter-segment adjustment), five segment results, revenueTotal 23,053 and profitTotal -2,265 all match. Points to note:
