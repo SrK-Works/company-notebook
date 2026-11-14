@@ -1,0 +1,129 @@
+{
+  "order": 72,
+  "company": {
+    "id": "hal",
+    "name": "Hindustan Aeronautics",
+    "ticker": "HAL",
+    "sector": "Industrials & infrastructure",
+    "initial": "H",
+    "color": "#2f4a6d",
+    "bg": "#eaf0f7",
+    "tag": "Builds, repairs and upgrades aircraft, helicopters and aircraft engines, mostly for India’s armed forces",
+    "products": [
+      [
+        "Tejas fighter (LCA Mk1A)",
+        "Aircraft"
+      ],
+      [
+        "Su-30MKI overhaul and upgrade",
+        "Aircraft"
+      ],
+      [
+        "HTT-40 trainer aircraft",
+        "Aircraft"
+      ],
+      [
+        "Dornier 228 transport aircraft",
+        "Aircraft"
+      ],
+      [
+        "ALH Dhruv helicopter",
+        "Helicopters"
+      ],
+      [
+        "Prachand combat helicopter",
+        "Helicopters"
+      ],
+      [
+        "Aircraft engines",
+        "Engines"
+      ],
+      [
+        "Repair and overhaul",
+        "Services"
+      ]
+    ],
+    "sources": [
+      [
+        "Hindustan Aeronautics investor page",
+        "https://hal-india.co.in/"
+      ]
+    ],
+    "productSource": "https://nsearchives.nseindia.com/annual_reports/AR_30166_HAL_2025_2026_U_12603450_04082026103759.pdf",
+    "aliases": [
+      "Hindustan Aeronautics Limited",
+      "Hindustan Aeronautics Ltd",
+      "Hindustan Aeronautics Ltd.",
+      "HAL"
+    ],
+    "productNote": "Aircraft, helicopters and engines named in Hindustan Aeronautics’ 2025–26 annual report. The report’s photographs were not used; every picture is an original, labelled illustration of the kind of aircraft, not a photograph of the company’s own item.",
+    "checked": "14 November 2026",
+    "reviewed": "14 November 2026"
+  },
+  "offerings": [
+    {
+      "name": "Tejas fighter (LCA Mk1A)",
+      "category": "A single-engine light combat aircraft built for the Indian Air Force",
+      "image": "assets/products/hal-lca-tejas.svg",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_30166_HAL_2025_2026_U_12603450_04082026103759.pdf",
+      "kind": "illustration",
+      "alt": "A fighter jet seen from above with swept-back triangular wings — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Su-30MKI overhaul and upgrade",
+      "category": "Repair, overhaul and upgrade of a Russian-origin twin-engine fighter",
+      "image": "assets/products/hal-su-30-mki.svg",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_30166_HAL_2025_2026_U_12603450_04082026103759.pdf",
+      "kind": "illustration",
+      "alt": "A twin-engine fighter jet seen from above with small front wings — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "HTT-40 trainer aircraft",
+      "category": "A propeller-driven aircraft in which new pilots learn to fly",
+      "image": "assets/products/hal-htt-40-trainer.svg",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_30166_HAL_2025_2026_U_12603450_04082026103759.pdf",
+      "kind": "illustration",
+      "alt": "A small propeller aircraft seen from above with straight wings — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Dornier 228 transport aircraft",
+      "category": "A small twin-propeller aircraft for carrying people and cargo",
+      "image": "assets/products/hal-dornier-228.svg",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_30166_HAL_2025_2026_U_12603450_04082026103759.pdf",
+      "kind": "illustration",
+      "alt": "A twin-propeller aircraft seen from above with long straight wings — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "ALH Dhruv helicopter",
+      "category": "The Advanced Light Helicopter, a utility helicopter",
+      "image": "assets/products/hal-alh-dhruv.svg",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_30166_HAL_2025_2026_U_12603450_04082026103759.pdf",
+      "kind": "illustration",
+      "alt": "A helicopter seen from the side with a rotor above and skids below — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Prachand combat helicopter",
+      "category": "The Light Combat Helicopter, an armed helicopter",
+      "image": "assets/products/hal-lch-prachand.svg",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_30166_HAL_2025_2026_U_12603450_04082026103759.pdf",
+      "kind": "illustration",
+      "alt": "A slim armed helicopter seen from the side with short wings and a rotor above — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Aircraft engines",
+      "category": "Engines for aircraft and helicopters, and their repair",
+      "image": "assets/products/hal-aero-engines.svg",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_30166_HAL_2025_2026_U_12603450_04082026103759.pdf",
+      "kind": "illustration",
+      "alt": "A jet engine seen from the side — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Repair and overhaul",
+      "category": "Taking aircraft and engines apart, fixing and testing them for customers",
+      "image": "assets/products/hal-repair-and-overhaul.svg",
+      "url": "https://nsearchives.nseindia.com/annual_reports/AR_30166_HAL_2025_2026_U_12603450_04082026103759.pdf",
+      "kind": "illustration",
+      "alt": "A spanner — conceptual illustration; not a photograph"
+    }
+  ]
+}

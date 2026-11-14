@@ -1,0 +1,135 @@
+{
+  "order": 73,
+  "company": {
+    "id": "bank-of-baroda",
+    "name": "Bank of Baroda",
+    "ticker": "BANKBARODA",
+    "sector": "Banking",
+    "initial": "B",
+    "color": "#c2410c",
+    "bg": "#fff1e8",
+    "tag": "Takes deposits and lends to households, farmers, small businesses and large companies, in India and abroad",
+    "products": [
+      [
+        "Savings and current accounts",
+        "Deposits"
+      ],
+      [
+        "Term deposits",
+        "Deposits"
+      ],
+      [
+        "Home loans",
+        "Loans"
+      ],
+      [
+        "Car and two-wheeler loans",
+        "Loans"
+      ],
+      [
+        "Farm loans",
+        "Loans"
+      ],
+      [
+        "Loans to small businesses",
+        "Loans"
+      ],
+      [
+        "Loans to large companies",
+        "Loans"
+      ],
+      [
+        "Credit cards",
+        "Cards"
+      ]
+    ],
+    "sources": [
+      [
+        "Bank of Baroda annual reports page",
+        "https://bankofbaroda.bank.in/shareholders-corner/annual-reports"
+      ]
+    ],
+    "productSource": "https://bankofbaroda.bank.in/-/media/project/bob/countrywebsites/india/shareholders-corner2/2026/26-06/annualreport-03-26.pdf",
+    "aliases": [
+      "Bank of Baroda",
+      "BoB"
+    ],
+    "productNote": "Bank products and lending segments named in Bank of Baroda’s 2025–26 annual report. The report has no usable photographs of individual products, so every picture is an original, labelled illustration. Credit cards are issued by its subsidiary BOBCARD, which is part of its consolidated results.",
+    "checked": "14 November 2026",
+    "reviewed": "14 November 2026"
+  },
+  "offerings": [
+    {
+      "name": "Savings and current accounts",
+      "category": "Everyday accounts for individuals and businesses",
+      "image": "assets/products/bank-of-baroda-accounts.svg",
+      "url": "https://bankofbaroda.bank.in/-/media/project/bob/countrywebsites/india/shareholders-corner2/2026/26-06/annualreport-03-26.pdf",
+      "kind": "illustration",
+      "alt": "A passbook — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Term deposits",
+      "category": "Money kept with the bank for a fixed period",
+      "image": "assets/products/bank-of-baroda-deposits.svg",
+      "url": "https://bankofbaroda.bank.in/-/media/project/bob/countrywebsites/india/shareholders-corner2/2026/26-06/annualreport-03-26.pdf",
+      "kind": "illustration",
+      "alt": "A stack of coins — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Home loans",
+      "category": "Loans to buy, build or improve a home",
+      "image": "assets/products/bank-of-baroda-home-loans.svg",
+      "url": "https://bankofbaroda.bank.in/-/media/project/bob/countrywebsites/india/shareholders-corner2/2026/26-06/annualreport-03-26.pdf",
+      "kind": "illustration",
+      "alt": "A house — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Car and two-wheeler loans",
+      "category": "Loans to buy a vehicle",
+      "image": "assets/products/bank-of-baroda-vehicle-loans.svg",
+      "url": "https://bankofbaroda.bank.in/-/media/project/bob/countrywebsites/india/shareholders-corner2/2026/26-06/annualreport-03-26.pdf",
+      "kind": "illustration",
+      "alt": "A car seen from the side — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Farm loans",
+      "category": "Loans to farmers, including for tractors",
+      "image": "assets/products/bank-of-baroda-farm-loans.svg",
+      "url": "https://bankofbaroda.bank.in/-/media/project/bob/countrywebsites/india/shareholders-corner2/2026/26-06/annualreport-03-26.pdf",
+      "kind": "illustration",
+      "alt": "A tractor — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Loans to small businesses",
+      "category": "Micro, small and medium business (MSME) loans",
+      "image": "assets/products/bank-of-baroda-business-loans.svg",
+      "url": "https://bankofbaroda.bank.in/-/media/project/bob/countrywebsites/india/shareholders-corner2/2026/26-06/annualreport-03-26.pdf",
+      "kind": "illustration",
+      "alt": "A small shop with an awning — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Loans to large companies",
+      "category": "Corporate lending through its corporate branches",
+      "image": "assets/products/bank-of-baroda-corporate-loans.svg",
+      "url": "https://bankofbaroda.bank.in/-/media/project/bob/countrywebsites/india/shareholders-corner2/2026/26-06/annualreport-03-26.pdf",
+      "kind": "illustration",
+      "alt": "A factory with a chimney — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Credit cards",
+      "category": "Cards issued through its BOBCARD subsidiary",
+      "image": "assets/products/bank-of-baroda-credit-cards.svg",
+      "url": "https://bankofbaroda.bank.in/-/media/project/bob/countrywebsites/india/shareholders-corner2/2026/26-06/annualreport-03-26.pdf",
+      "kind": "illustration",
+      "alt": "A payment card — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Banking abroad",
+      "category": "Branches and subsidiaries in other countries",
+      "image": "assets/products/bank-of-baroda-international-banking.svg",
+      "url": "https://bankofbaroda.bank.in/-/media/project/bob/countrywebsites/india/shareholders-corner2/2026/26-06/annualreport-03-26.pdf",
+      "kind": "illustration",
+      "alt": "A globe — conceptual illustration; not a photograph"
+    }
+  ]
+}

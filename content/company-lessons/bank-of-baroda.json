@@ -1,0 +1,206 @@
+{
+  "summary": "Bank of Baroda is a bank. It takes deposits from households and businesses and lends the money to individuals, farmers, small businesses and large companies, in India and abroad, earning the gap between what it charges and what it pays.",
+  "description": "A bank is a safe place to keep money and a source of loans. People and companies put money into savings, current and fixed-term accounts. Bank of Baroda lends that money out as home, car, farm, small-business and corporate loans, and keeps the difference between the interest it charges and the interest it pays. It also earns fees for services such as cards and payments, and invests part of its deposits in government bonds. The report says it has overseas branches and offices in 15 countries, and subsidiaries such as BOBCARD, a credit card company.",
+  "money": "The main income is interest: borrowers pay the bank interest on loans, and the bank pays depositors a lower rate. The difference is called net interest income. It also earns fees, trading gains on its investments and foreign-exchange income. Its main costs are interest paid to depositors, staff, branches and technology, and provisions, which is money set aside for loans that may not be repaid. A borrower's payment is not profit, and a loan that is not repaid is a loss.",
+  "customers": "There are two kinds of customer. Depositors lend their money to the bank and are paid interest. Borrowers pay the bank interest for loans. The report groups loans into retail (individuals), agriculture, MSME (micro, small and medium businesses) and corporate (large companies). Central and State Governments are also customers: the bank handles pension payments and tax collections for them.",
+  "drivers": "Mostly the gap between the interest it charges and pays, how many borrowers repay on time, how fast deposits and loans grow, and running costs such as staff and technology.",
+  "groups": [
+    {
+      "title": "Accounts and deposits",
+      "examples": "Savings accounts, current accounts and term deposits.",
+      "explanation": "Savings and current accounts hold everyday money, which the report calls CASA (current account and savings account) deposits. A term deposit locks money away for a fixed time at a set interest rate. All of it is money the bank can lend."
+    },
+    {
+      "title": "Loans to individuals",
+      "examples": "Home loans, auto loans, education loans, gold loans and personal loans.",
+      "explanation": "Individuals borrow to buy a home or vehicle, pay for study or meet other needs, and repay in monthly instalments with interest. The report calls these retail loans. A gold loan is a loan against jewellery."
+    },
+    {
+      "title": "Loans to farmers and small businesses",
+      "examples": "Kisan Credit Cards, tractor loans and loans to small shops and workshops.",
+      "explanation": "Farmers borrow to buy seed, equipment and tractors, and small businesses borrow to run and grow. The report names these together with retail loans as the segments it is focusing on."
+    },
+    {
+      "title": "Loans to large companies",
+      "examples": "Corporate loans and loans to supply chains of large firms.",
+      "explanation": "Large companies borrow for factories, equipment and daily running costs. The report says most corporate loans are handled by specialised corporate branches."
+    },
+    {
+      "title": "Cards, payments and government work",
+      "examples": "Credit cards, UPI (the instant phone payment system run in India), bill payments, pensions and tax collection.",
+      "explanation": "These bring fee income and everyday customers. The report lists pension payments for Central and State Governments, direct and indirect tax collections, and savings schemes the bank manages for the government."
+    },
+    {
+      "title": "Banking abroad and group companies",
+      "examples": "Overseas branches and subsidiaries, a mutual fund company, a life insurer and the Nainital Bank.",
+      "explanation": "Overseas branches serve Indian companies and Indians abroad. Group companies sell other financial products. These are separate companies that the bank owns wholly or partly."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is a deposit, and why does a bank want more of them?",
+      "text": "A deposit is money a customer leaves with the bank, which the bank owes back on demand or at a set date. Deposits are the raw material for loans. Current and savings account money costs the bank less in interest than fixed deposits, which is general explanation."
+    },
+    {
+      "title": "What is an NPA (non-performing asset)?",
+      "text": "NPA stands for non-performing asset: a loan where the borrower has stopped paying interest or repayment on time for a long period. The bank must set money aside, called a provision, which reduces its profit."
+    },
+    {
+      "title": "What is net interest margin?",
+      "text": "It is the gap between what the bank earns on loans and investments and what it pays on deposits, shown as a percentage of the money it has working. A wider gap means more income from each unit lent."
+    },
+    {
+      "title": "Which companies are inside the bank's results?",
+      "text": "The report separates the bank's own business from subsidiaries and joint ventures such as BOBCARD, a mutual fund company, a life insurer and the Nainital Bank. The verified figures will say whether each number is for the bank alone or for the group."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Customers deposit money",
+      "text": "Households, businesses and governments place money in accounts, and the bank agrees to pay interest on some of it."
+    },
+    {
+      "title": "The bank lends it out",
+      "text": "After keeping the share that regulators require in cash and government bonds, the bank lends the rest as loans after checking each borrower."
+    },
+    {
+      "title": "Borrowers pay interest and repay",
+      "text": "Borrowers pay interest, usually monthly, and return the loan over time. Not all of them repay in full."
+    },
+    {
+      "title": "The bank pays its own costs",
+      "text": "It pays depositors, staff, branches and technology costs, and sets aside provisions for loans that may go bad."
+    },
+    {
+      "title": "Profit is what is left",
+      "text": "Interest and fee income less these costs. Profit is not the same as the cash coming in, because loans are paid back over years."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "A large overseas network",
+      "text": "The report counts 80 overseas branches and offices in 15 countries, plus branches of seven overseas subsidiaries. One branch is in GIFT City, a special economic zone in Gujarat that the report says is treated as an offshore banking unit."
+    },
+    {
+      "title": "Government work as a business line",
+      "text": "The bank handles pension payments, tax collections and government savings schemes, which brings regular customers and fees."
+    },
+    {
+      "title": "Subsidiaries and joint ventures",
+      "text": "BOBCARD issues credit cards, Baroda BNP Paribas is a mutual fund company run as a joint venture with BNP Paribas (the name of its overseas partner), and IndiaFirst Life sells life insurance. They add fee income but are separate companies."
+    }
+  ],
+  "watch": [
+    [
+      "Is the net interest margin recovering?",
+      "The margin is the bank's main earning engine, so small changes affect profit a great deal.",
+      "Compare the margin and the cost of deposits across several years in the management discussion."
+    ],
+    [
+      "How many loans are not being repaid?",
+      "Bad loans reduce profit directly and tie up the bank's capital.",
+      "Compare gross and net NPA ratios and the provisions made for bad loans in the report over several years, and see whether they are falling."
+    ],
+    [
+      "What share of deposits are in low-cost current and savings accounts?",
+      "A higher share lowers the bank's cost of funds.",
+      "Compare the CASA share of total deposits each year in the report's table of deposits, and see whether it is rising or falling."
+    ],
+    [
+      "How fast is overseas lending growing, and how risky is it?",
+      "Lending abroad can grow quickly, but exposes the bank to other countries' economies and currencies.",
+      "Compare international advances with domestic advances and read what the report says about country risk."
+    ],
+    [
+      "Do the group companies add much?",
+      "Fee income from cards, funds and insurance can reduce reliance on interest.",
+      "Check the notes and any separate subsidiary results for how much each contributes, and whether a figure is for the bank alone or the group."
+    ]
+  ],
+  "risks": [
+    [
+      "Too much lending to a few sectors or borrowers",
+      "The report says the bank sets limits across industries, sectors and borrowers to avoid concentration, which shows that a handful of bad loans in one area could hurt it badly."
+    ],
+    [
+      "Moves in interest rates, currencies and bond prices",
+      "The report defines market risk as loss of earnings or value from adverse changes in market rates or prices of its trading holdings."
+    ],
+    [
+      "War and a weaker world economy",
+      "The report says conflict in the Middle East is expected to derail the global recovery by raising commodity prices and inflation expectations, with emerging markets more vulnerable."
+    ],
+    [
+      "Cyber attacks as banking goes digital",
+      "The report calls cyber security a Board-level priority and a critical enterprise risk area as digital services expand."
+    ]
+  ],
+  "context": [
+    "March 2026: rupee trade accounts for overseas banks",
+    "The report says that by 31 March 2026 the bank had set up 17 Special Rupee Vostro Accounts for banks worldwide, to support the Government of India's push for trade settled in rupees. A vostro account is an account an overseas bank holds with the bank (general explanation)."
+  ],
+  "sources": [
+    [
+      "Bank of Baroda annual report 2025-26",
+      "https://bankofbaroda.bank.in/-/media/project/bob/countrywebsites/india/shareholders-corner2/2026/26-06/annualreport-03-26.pdf"
+    ],
+    [
+      "NSE Indices Limited, NIFTY Next 50 constituent list (Bank of Baroda, symbol BANKBARODA)",
+      "https://www.niftyindices.com/IndexConstituent/ind_niftynext50list.csv"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "Interest income, profit, deposits, loans and bad-loan figures are pending verification. The verified table will say whether each is for the bank alone or for the group, and how profit is defined."
+    }
+  ],
+  "stepsTitle": "From a deposit to a profit",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "It takes deposits and lends the money to individuals, farmers, small businesses and large companies, in India and abroad."
+    },
+    {
+      "title": "Who pays",
+      "text": "Borrowers pay interest on loans, and customers pay fees for cards and payments. Governments are customers too: the bank handles their pensions and tax collections."
+    },
+    {
+      "title": "How it earns",
+      "text": "Mainly from the gap between the interest it charges on loans and the interest it pays on deposits, plus fees and investment gains."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Interest paid to depositors, staff, branches and technology, and provisions for loans that may not be repaid."
+    }
+  ],
+  "helps": [
+    {
+      "title": "A focus on retail, farm and small-business lending",
+      "text": "The report says the bank is strengthening its retail, agriculture and MSME lending, and that these made up about three fifths of its domestic loans at March 2026."
+    },
+    {
+      "title": "A base of current and savings deposits",
+      "text": "The report shows that current and savings account deposits grew in 2025-26 and made up over a third of deposits. As general explanation, such deposits usually cost the bank less than fixed deposits."
+    },
+    {
+      "title": "An online lending system",
+      "text": "The report says the bank strengthened its online lending system so customers can borrow online from start to finish, including personal, two-wheeler, gold and tractor loans."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "A thin margin on lending",
+      "text": "The report shows its net interest margin was lower in 2025-26 than the year before, so each unit lent earned less."
+    },
+    {
+      "title": "A heavy running cost",
+      "text": "Staff, branches and technology take a large share of income. The report's cost-to-income ratio was about half in 2025-26."
+    },
+    {
+      "title": "Money set aside for bad loans",
+      "text": "The report shows provisions for bad loans were higher in 2025-26 than the year before, which reduced profit."
+    }
+  ],
+  "checked": "14 November 2026"
+}

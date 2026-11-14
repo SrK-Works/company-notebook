@@ -1,0 +1,205 @@
+{
+  "summary": "Tata Power makes electricity from coal, water, sun and wind, carries it on its own power lines, and sells it to homes and businesses. It also makes solar panels and installs rooftop solar and electric-vehicle chargers.",
+  "description": "Electricity goes through three steps. It is generated in a power plant, carried over long distances on high-voltage lines (called transmission), and delivered to homes and shops on local lines through meters (called distribution). Tata Power works in all three. It runs coal, hydro (water), solar and wind plants, builds and runs transmission lines, and supplies customers in Mumbai, Delhi, Odisha and Ajmer. It also makes solar cells and panels, and installs solar panels on customers' roofs and charging points for electric vehicles.",
+  "money": "Tata Power earns by selling electricity and related services. Plants sell under long-term power purchase agreements (PPAs), contracts in which a buyer agrees to take power at agreed prices. Its distribution companies collect bills from customers at tariffs, which means prices, that regulators approve. It also earns from building solar projects, selling panels and installing rooftop solar. Main costs are fuel, wages, maintenance and interest on money borrowed to build plants. Customers' payments are not profit.",
+  "customers": "The payers differ by business. Households, shops and factories pay electricity bills to its distribution companies. Power buyers, such as state electricity companies, pay for electricity from its plants. Companies and government bodies pay for solar projects the company builds for them, and homeowners pay for rooftop solar and chargers. The report says its distribution businesses serve more than 13 million customers.",
+  "drivers": "Mostly the prices and volumes in its power contracts, the cost of coal and other fuel, what regulators allow it to charge and recover, how reliably its plants and lines run, and how well it completes new projects on time.",
+  "groups": [
+    {
+      "title": "Thermal and hydro power",
+      "examples": "Coal-fired power stations, hydropower plants and plants that use waste heat.",
+      "explanation": "These plants make power day and night. A thermal plant burns coal to boil water and drive a turbine. A hydro plant uses falling water. The report says their long-term contracts give steady income."
+    },
+    {
+      "title": "Renewable power",
+      "examples": "Solar farms, wind farms and plants that combine solar and wind.",
+      "explanation": "These plants make power from sun and wind, which need no fuel but depend on the weather. The report says its renewable capacity includes projects still being built."
+    },
+    {
+      "title": "Power lines and supply to customers",
+      "examples": "Transmission lines and the distribution companies in Mumbai, Delhi, Odisha and Ajmer.",
+      "explanation": "Lines carry power from plants to towns. Distribution companies, called DISCOMs (short for distribution companies), take it to meters in homes and shops and collect the bills."
+    },
+    {
+      "title": "Solar equipment",
+      "examples": "A factory making solar cells and panels, and a business that builds solar projects for others.",
+      "explanation": "Tata Power makes the panels it uses and also builds solar projects for others, such as government power companies, which pay for the finished plant."
+    },
+    {
+      "title": "Rooftop solar and electric-vehicle charging",
+      "examples": "Solar panels on roofs, smart meters, and charging points for cars and buses.",
+      "explanation": "Homeowners and businesses pay to put panels on their roofs or to charge a vehicle. The report says it is expanding charging points across urban and rural India."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is a power purchase agreement (PPA)?",
+      "text": "It is a contract in which a buyer promises to buy a plant's electricity at agreed prices for many years. It gives the plant steady income but can also be a trap if costs rise and the price cannot."
+    },
+    {
+      "title": "What are power distribution companies, and what are electricity losses?",
+      "text": "A DISCOM (distribution company) delivers electricity to customers. AT&C (aggregate technical and commercial) losses are the share of electricity put into the network that is lost on the wires or never paid for. Lower losses mean more of the power sold turns into cash."
+    },
+    {
+      "title": "What do MW (megawatt) and GW (gigawatt) mean?",
+      "text": "A megawatt (MW) measures how much power a plant can make at one moment. A gigawatt (GW) is a thousand megawatts. They measure size, not how much electricity was made over a year."
+    },
+    {
+      "title": "What is a pumped storage project?",
+      "text": "As general explanation, it uses cheap power to pump water uphill, then lets the water run down through a turbine to make power when it is needed. It stores electricity like a big battery. The report calls these PSP (pumped storage project) projects."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Power is generated",
+      "text": "Plants burn coal, use falling water, or capture sun and wind, and feed electricity into the grid."
+    },
+    {
+      "title": "It is carried",
+      "text": "High-voltage transmission lines carry the power to substations near towns."
+    },
+    {
+      "title": "It is delivered",
+      "text": "Local lines carry it to homes and shops, where meters record how much each customer uses."
+    },
+    {
+      "title": "The bill is sent",
+      "text": "Distribution companies bill customers, and plants bill the power buyers named in their contracts."
+    },
+    {
+      "title": "Payment arrives and profit is what remains",
+      "text": "As general explanation, customers pay after the bill is sent. Profit is what is left after fuel, wages, maintenance and interest. Billed income, profit and cash received are different things."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "It makes the solar panels it uses",
+      "text": "The report says it makes solar cells and panels and plans to add ingot and wafer making, the raw material for cells. It calls this backward integration. As general explanation, some government tenders require panels built with Indian-made cells, which the report calls DCR (domestic content requirement) compliant."
+    },
+    {
+      "title": "Distribution in several regions",
+      "text": "Its distribution businesses cover Mumbai, Delhi, Ajmer and several areas of Odisha. Each has different customers, losses and regulators, so results vary from place to place."
+    },
+    {
+      "title": "New hydro and pumped storage projects",
+      "text": "The report says it is building pumped storage projects such as Bhivpuri and starting work on others. These cost money for years before they earn."
+    }
+  ],
+  "watch": [
+    [
+      "How is the Mundra plant doing under its new agreement?",
+      "A fixed-price contract and imported coal can leave a plant earning less than it costs to run, which the report calls under-recovery.",
+      "Read what the report says about Mundra's contract changes and compare the plant's results across years."
+    ],
+    [
+      "Are electricity losses falling in Odisha?",
+      "Lower losses mean more of the electricity supplied is paid for.",
+      "Compare the electricity loss figures for each Odisha distribution company over several years, and see whether they are falling."
+    ],
+    [
+      "Are new renewable projects finished on time?",
+      "Late projects delay income and can bring penalties.",
+      "Compare capacity under construction with capacity switched on from year to year, and read the reasons the report gives for any delays."
+    ],
+    [
+      "How fast are rooftop solar and EV charging growing?",
+      "These are newer businesses that depend on consumer demand and government schemes.",
+      "Compare installations and charging points in each annual report and read how the company describes their income."
+    ],
+    [
+      "Can it borrow cheaply to build plants?",
+      "Power plants cost a lot to build, so the cost of loans affects profit.",
+      "Look at interest costs and total borrowing in the annual report's financial notes and compare them with the year before."
+    ]
+  ],
+  "risks": [
+    [
+      "Coal cost at Mundra can exceed what the contract pays",
+      "The report names coal under-recovery at Mundra, which it says is influenced by rigid contract tariffs, imported coal, currency swings and limits on passing costs on."
+    ],
+    [
+      "Cyber attacks on grids and customer systems",
+      "The report names cybersecurity risk with the potential to disrupt operations, and attacks on grid and customer data."
+    ],
+    [
+      "Reliance on China for solar parts",
+      "The report says its solar equipment business depends heavily on China for supplies because prices are very competitive, so import limits would raise costs."
+    ],
+    [
+      "Late projects and penalties",
+      "The report says delays in finishing a project can bring a levy for the delay, and lists land delays, labour shortages and late supplies as causes."
+    ]
+  ],
+  "context": [
+    "2025-26: Mundra plant paused, then a supplementary agreement signed",
+    "The report says the Mundra plant's operations were temporarily suspended from July 2025 until March 2026. It also says a supplementary power purchase agreement (SPPA) was signed with GUVNL (Gujarat Urja Vikas Nigam, a Gujarat state electricity buyer, as general explanation), and that talks with other buyers are continuing."
+  ],
+  "sources": [
+    [
+      "Tata Power integrated annual report 2025-26: business cluster review",
+      "https://www.tatapower.com/html/integrated-annual-report-2026/business-cluster-review.html"
+    ],
+    [
+      "Tata Power integrated annual report 2025-26: risk management",
+      "https://www.tatapower.com/html/integrated-annual-report-2026/risk-management.html"
+    ],
+    [
+      "NSE Indices Limited, NIFTY Next 50 constituent list (Tata Power, symbol TATAPOWER)",
+      "https://www.niftyindices.com/IndexConstituent/ind_niftynext50list.csv"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "Revenue, profit, capacity and debt figures are pending verification. The verified table will say whether each is consolidated or standalone, and how profit is defined."
+    }
+  ],
+  "stepsTitle": "From a power plant to a bill",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "It makes electricity, carries it on power lines and sells it to homes and businesses, and also makes solar panels and installs rooftop solar and chargers."
+    },
+    {
+      "title": "Who pays",
+      "text": "Households, shops and factories pay bills. State power buyers, companies and government bodies pay for power and for solar projects."
+    },
+    {
+      "title": "How it earns",
+      "text": "From electricity sold under long-term contracts and regulated tariffs, plus solar projects, panels, rooftop solar and EV charging."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Mostly fuel, wages, maintenance, interest on loans for new plants, and the cost of building projects."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Long-term contracts",
+      "text": "The report says strong long-term power purchase agreements stabilise revenue and support predictable cash flows."
+    },
+    {
+      "title": "Growing renewable capacity",
+      "text": "The report shows renewable projects being built alongside those operating, and describes a plan to add much more clean capacity by 2030."
+    },
+    {
+      "title": "A government rooftop solar scheme",
+      "text": "The report says the government's Surya Ghar Muft Bijli Yojana scheme, which promotes rooftop solar for homes, has given residential rooftop solar momentum, targeting ten million homes by 2027."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Fuel cost swings",
+      "text": "The report says the cost of coal at the right price is affected by coal price and quality swings, transport limits, regulation and how much plants are run."
+    },
+    {
+      "title": "Costs regulators may not allow",
+      "text": "The report names the risk that a regulator will not approve some operating and maintenance costs of its Odisha distribution companies, so it could not recover them in tariffs."
+    },
+    {
+      "title": "Cyclones",
+      "text": "The report says its Odisha distribution companies are exposed to cyclones because of their east coast location, with long overhead lines and dense vegetation adding to the damage risk."
+    }
+  ],
+  "checked": "14 November 2026"
+}

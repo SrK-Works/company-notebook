@@ -1,0 +1,128 @@
+{
+  "order": 71,
+  "company": {
+    "id": "wipro",
+    "name": "Wipro",
+    "ticker": "WIPRO",
+    "sector": "Technology & services",
+    "initial": "W",
+    "color": "#5b3a8c",
+    "bg": "#f1ecf8",
+    "tag": "Builds, runs and protects software and computer systems for large companies, and advises them on using AI",
+    "products": [
+      [
+        "Consulting and AI advice",
+        "Services"
+      ],
+      [
+        "Technology services",
+        "Services"
+      ],
+      [
+        "Engineering services",
+        "Services"
+      ],
+      [
+        "Business process services",
+        "Services"
+      ],
+      [
+        "Cybersecurity",
+        "Services"
+      ],
+      [
+        "AI platforms and tools",
+        "Services"
+      ],
+      [
+        "Capco",
+        "Business units"
+      ],
+      [
+        "IT products resold",
+        "Products"
+      ]
+    ],
+    "sources": [
+      [
+        "Wipro annual reports page",
+        "https://www.wipro.com/investors/annual-reports/"
+      ]
+    ],
+    "productSource": "https://www.wipro.com/content/dam/nexus/staticsites/annual-report-2025/pdf/Integrated-annual-report-2025-26.pdf",
+    "aliases": [
+      "Wipro Limited",
+      "Wipro Ltd",
+      "Wipro Ltd."
+    ],
+    "productNote": "Service lines named in Wipro’s 2025–26 integrated annual report, which covers its IT business. The report’s photographs are staff and event scenes, so every picture is an original, labelled illustration.",
+    "checked": "14 November 2026",
+    "reviewed": "14 November 2026"
+  },
+  "offerings": [
+    {
+      "name": "Consulting and AI advice",
+      "category": "Advice on how a business can use technology and AI",
+      "image": "assets/products/wipro-consulting.svg",
+      "url": "https://www.wipro.com/content/dam/nexus/staticsites/annual-report-2025/pdf/Integrated-annual-report-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "A light bulb — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Technology services",
+      "category": "Building, moving and running business software and cloud systems",
+      "image": "assets/products/wipro-technology-services.svg",
+      "url": "https://www.wipro.com/content/dam/nexus/staticsites/annual-report-2025/pdf/Integrated-annual-report-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "A computer screen with code brackets — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Engineering services",
+      "category": "Design and testing of devices, software inside devices and hardware",
+      "image": "assets/products/wipro-engineering-services.svg",
+      "url": "https://www.wipro.com/content/dam/nexus/staticsites/annual-report-2025/pdf/Integrated-annual-report-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "A cog wheel — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Business process services",
+      "category": "Running a client’s routine back-office and customer work",
+      "image": "assets/products/wipro-business-process-services.svg",
+      "url": "https://www.wipro.com/content/dam/nexus/staticsites/annual-report-2025/pdf/Integrated-annual-report-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "A document with lines of text — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Cybersecurity",
+      "category": "Protecting client systems and data from attack",
+      "image": "assets/products/wipro-cybersecurity.svg",
+      "url": "https://www.wipro.com/content/dam/nexus/staticsites/annual-report-2025/pdf/Integrated-annual-report-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "A shield with a tick — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "AI platforms and tools",
+      "category": "Wipro’s own software platforms that clients use to build and run systems",
+      "image": "assets/products/wipro-ai-platforms.svg",
+      "url": "https://www.wipro.com/content/dam/nexus/staticsites/annual-report-2025/pdf/Integrated-annual-report-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "A computer chip — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Capco",
+      "category": "Consulting and technology work for banks and financial firms",
+      "image": "assets/products/wipro-capco.svg",
+      "url": "https://www.wipro.com/content/dam/nexus/staticsites/annual-report-2025/pdf/Integrated-annual-report-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "A bank building with columns — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "IT products resold",
+      "category": "Computers, storage, networking and software from other makers",
+      "image": "assets/products/wipro-it-products.svg",
+      "url": "https://www.wipro.com/content/dam/nexus/staticsites/annual-report-2025/pdf/Integrated-annual-report-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "A stack of three server units — conceptual illustration; not a photograph"
+    }
+  ]
+}

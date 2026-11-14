@@ -1,0 +1,197 @@
+{
+  "summary": "Hindustan Aeronautics (HAL) is a government company that designs, builds, repairs and upgrades military aircraft, helicopters and aircraft engines, mainly for the Indian armed forces.",
+  "description": "Air forces and armies need aircraft that fly, helicopters that carry troops and weapons, and engines to power them. HAL makes these in 20 factory divisions and 10 research centres in seven states. Its work is of three kinds: designing new aircraft, building them, and repairing, overhauling and upgrading aircraft already in service. To overhaul an aircraft is to strip it down, replace worn parts and test it again. Examples are the Tejas light fighter jet, the Dhruv and Prachand helicopters, trainer aircraft in which new pilots learn to fly, and aircraft engines.",
+  "money": "Customers pay HAL for each aircraft or helicopter delivered, for repair and overhaul jobs, for spares and for design work paid in stages. The report says it records income for a delivered aircraft when the buyer's inspector or pilot accepts it, for development work as agreed milestones are reached, and for support contracts as aircraft stay available. As general explanation, the main costs are parts and materials, staff and factories. A customer's payment is not profit.",
+  "customers": "The main customer is the Indian armed forces, through the Ministry of Defence (MoD). The report says HAL is a government entity under the control of the MoD, and that almost all of its sales, and almost all of the advances customers pay before delivery, come from government and government-related bodies. It also sells helicopters and aircraft to civil buyers and abroad.",
+  "drivers": "Mostly the size of orders from the Ministry of Defence and how fast HAL turns them into delivered aircraft, supplies of engines and parts from foreign makers, the price agreed in each contract, and how smoothly new aircraft programmes are completed.",
+  "groups": [
+    {
+      "title": "Fighter and trainer aircraft",
+      "examples": "The Tejas light combat aircraft, the HTT-40 trainer, and repair and upgrade of Su-30MKI fighters.",
+      "explanation": "These are fixed-wing aircraft, the kind with wings and a runway take-off. The air force pays HAL to build new ones, to keep older ones flying, and to fit newer radar and electronics."
+    },
+    {
+      "title": "Transport aircraft",
+      "examples": "The Dornier 228, a small twin-propeller aircraft.",
+      "explanation": "A small plane that carries people and cargo. The report lists it among aircraft HAL produced during the year, and names an order from Guyana for two Hindustan-228 aircraft."
+    },
+    {
+      "title": "Helicopters",
+      "examples": "The Advanced Light Helicopter (ALH) Dhruv, the Light Combat Helicopter (LCH) Prachand and the Light Utility Helicopter (LUH).",
+      "explanation": "Helicopters can land where there is no runway. The armed forces use them to move troops and supplies and, in the combat version, to fire weapons. The Prachand is described in the report as built for high-altitude work."
+    },
+    {
+      "title": "Engines and aircraft electronics",
+      "examples": "New engines and accessories, and repair of engines used in Su-30MKI fighters.",
+      "explanation": "An aircraft is only as good as its engine and instruments. HAL builds some and repairs others, along with avionics (aircraft electronics) and accessories."
+    },
+    {
+      "title": "Repair, overhaul and upgrade",
+      "examples": "Repair and overhaul of aircraft, helicopters and engines, plus spares.",
+      "explanation": "Defence fleets are used for decades. Customers pay HAL to inspect, repair and refit them. The report calls itself a trusted partner for ageing fleets, some more than 60 years old."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What does repair and overhaul mean?",
+      "text": "A repair fixes a fault. An overhaul takes the whole aircraft or engine apart on a schedule, replaces worn parts and tests it before it returns to service. Both are paid jobs separate from building a new aircraft."
+    },
+    {
+      "title": "What is an order book?",
+      "text": "It is the list of signed orders not yet delivered. A long order book means work is already booked for several years. It does not mean cash has been received, because payment depends on delivery and acceptance."
+    },
+    {
+      "title": "What does indigenous or indigenisation mean?",
+      "text": "Made in India, to an Indian design or with Indian-made parts. The report talks of raising the share of Indian-made content in its products so it depends less on imports."
+    }
+  ],
+  "steps": [
+    {
+      "title": "A contract is signed",
+      "text": "The Ministry of Defence or another buyer places an order. The report says customers also pay advances, and that some contracts pay at agreed milestones."
+    },
+    {
+      "title": "Parts and engines are sourced",
+      "text": "HAL buys materials, engines and electronics, some from foreign makers, and builds other parts in its own divisions."
+    },
+    {
+      "title": "The aircraft is built and tested",
+      "text": "Aircraft and helicopters are assembled on production lines and flown in test sorties, which are test flights."
+    },
+    {
+      "title": "The buyer accepts it",
+      "text": "The buyer's inspector or pilot signs a certificate accepting the aircraft. The report says income is recorded at that point."
+    },
+    {
+      "title": "Payment arrives",
+      "text": "The customer pays the bill, part of which may already have been paid as an advance. Profit is what remains after parts, staff and factory costs."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Work continues long after the sale",
+      "text": "Repair, overhaul and upgrade of fleets already in service is a core part of HAL's business, because armed forces keep aircraft for decades and need them kept ready."
+    },
+    {
+      "title": "Income is recorded when the buyer accepts the product",
+      "text": "Income for aircraft is recorded when the buyer accepts the aircraft, not when it is built. A finished aircraft waiting for acceptance is not yet income."
+    },
+    {
+      "title": "HAL designs some aircraft itself",
+      "text": "The report says HAL pursues design and development programmes, such as combat helicopters and a larger multi-role helicopter, with initial funding from the company for the armed forces. That spending comes before any payment."
+    }
+  ],
+  "watch": [
+    [
+      "How fast is HAL delivering the aircraft it has been ordered to build?",
+      "Income arrives mostly at delivery and acceptance, so a slow production line delays income even when the order book is large.",
+      "Compare the deliveries of key aircraft such as the Tejas Mk1A with the rates the report says it is targeting."
+    ],
+    [
+      "Are engines and parts from foreign makers arriving on time?",
+      "The report names supply of critical parts from foreign makers as a risk and says engine supply issues were seen in earlier periods.",
+      "Read the report's supply chain discussion and look for changes in delivery rates after supply improved."
+    ],
+    [
+      "How much work comes from outside the Indian government?",
+      "Almost all income comes from government buyers, so a change in their buying plans matters a great deal.",
+      "Look for export and civil orders named in the report and whether they grow compared with the year before."
+    ],
+    [
+      "Is the company being paid on time?",
+      "A delivered aircraft is income, but cash only arrives when the customer pays.",
+      "Compare trade receivables and customer advances in the notes to the financial statements with income, over several years."
+    ],
+    [
+      "Do new programmes reach production?",
+      "Helicopters and aircraft still being designed spend money for years before they bring in any.",
+      "Track the report's progress notes on the Indian Multi-Role Helicopter, the Tejas Mk2 and the unmanned combat air teaming programmes over several years."
+    ]
+  ],
+  "risks": [
+    [
+      "Dependence on foreign suppliers for critical parts",
+      "The report lists dependence on foreign original equipment makers for critical components and spares. If they deliver late, aircraft deliveries can be delayed."
+    ],
+    [
+      "Dependence on a limited number of customers",
+      "The report says HAL is mainly dependent on the Ministry of Defence for contracts, and that a change in procurement policy or preference can hurt its sales, earnings and cash flow."
+    ],
+    [
+      "Competition from domestic and foreign players",
+      "The report lists competition from domestic and foreign players, including Indian private companies working with global makers."
+    ],
+    [
+      "Tight timelines and certification",
+      "The report lists challenges in meeting aggressive timelines for complex indigenous platforms, integration issues and certification requirements. A late programme delays income."
+    ]
+  ],
+  "context": [
+    "2025-26: new production lines and first flights",
+    "The report says a third production line for the Tejas Mk1A was set up at Nasik. The first series-production HTT-40 trainer completed its first test flight on 24 October 2025. A next-generation version of the Dhruv helicopter made its first flight on 30 December 2025."
+  ],
+  "sources": [
+    [
+      "Hindustan Aeronautics annual report 2025-26 (as filed with NSE)",
+      "https://nsearchives.nseindia.com/annual_reports/AR_30166_HAL_2025_2026_U_12603450_04082026103759.pdf"
+    ],
+    [
+      "NSE Indices Limited, NIFTY Next 50 constituent list (Hindustan Aeronautics, symbol HAL)",
+      "https://www.niftyindices.com/IndexConstituent/ind_niftynext50list.csv"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "Revenue, profit, order book and customer-advance figures are pending verification. The verified table will say the period, the units and whether the numbers are for HAL alone or with its subsidiaries."
+    }
+  ],
+  "stepsTitle": "From an order to delivery and payment",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "It designs, builds, repairs and upgrades aircraft, helicopters and aircraft engines, mostly for the Indian armed forces."
+    },
+    {
+      "title": "Who pays",
+      "text": "Mainly the Ministry of Defence for the armed forces, with some civil and overseas buyers."
+    },
+    {
+      "title": "How it earns",
+      "text": "From aircraft and helicopters delivered, repair and overhaul jobs, spares and design work, often with advances paid before delivery."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Parts, materials and engines, many from foreign suppliers, plus staff, factories and design work."
+    }
+  ],
+  "helps": [
+    {
+      "title": "A large order book",
+      "text": "The report says a strong order book gives long-term visibility of work, which it describes as years of future revenue."
+    },
+    {
+      "title": "Policy support for Indian-made equipment",
+      "text": "The report names the Atmanirbhar Bharat campaign for self-reliance and the Positive Indigenisation List, as government policies promoting self-reliance and Indian-made products."
+    },
+    {
+      "title": "Design, build and repair under one roof",
+      "text": "The report describes an integrated business covering research, production and repair of aircraft, helicopters, engines and electronics."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Little presence in export markets",
+      "text": "The report lists limited presence in high-value global export markets as a weakness."
+    },
+    {
+      "title": "Fast technology change",
+      "text": "The report says rapid advances can make existing systems obsolete and force continuous upgrades."
+    },
+    {
+      "title": "Move from nomination to competition",
+      "text": "The report says regular customers may move from nominating HAL to competitive buying, which would make orders harder to win."
+    }
+  ],
+  "checked": "14 November 2026"
+}

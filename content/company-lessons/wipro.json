@@ -1,0 +1,206 @@
+{
+  "summary": "Wipro is an IT services company. Large businesses pay it to advise on technology and AI, and to build, run, protect and fix their software, computer systems and back-office work, using staff in India and other countries.",
+  "description": "Every large company runs on software and networks: customer accounts, payments, websites, factory machines, even cars. Most do not want to build and look after all of it themselves. Wipro's staff do that work for them. Examples are advising where AI (artificial intelligence, software that learns from data) can save effort, building new applications, moving a client's systems to the cloud (computers rented from other companies and reached over the internet), running routine customer-support tasks and defending systems from hackers. The report says Wipro has over 240,000 people in 65 countries. It also resells some computers and software made by other firms.",
+  "money": "Clients pay Wipro for its people's time and for finished projects. The report describes time-and-materials contracts, where income is recorded as the work is done, and fixed-price contracts, where income is recorded as the project progresses. The biggest cost is people: salaries, hiring and training, plus selling and office costs and the cost of the products it resells. A client's payment is not profit; profit is what remains after these costs. As general explanation, cash usually arrives some weeks after the bill is sent.",
+  "customers": "The payers are large companies and organisations around the world. The report groups its IT services clients into banking and insurance, consumer, health, energy and manufacturing, and technology and communications firms. They pay for specific projects or for the ongoing running of a system. The report says no single customer was more than a tenth of revenue, and the five largest IT services clients together were a small share of IT services revenue.",
+  "drivers": "Mostly how much clients choose to spend on technology and AI projects, the prices Wipro can charge for its people's time, how busy it keeps its staff, and exchange rates, because much revenue is in foreign money while many costs are in rupees.",
+  "groups": [
+    {
+      "title": "Advice on technology and AI",
+      "examples": "AI advisory and consulting on a client's industry or functions such as finance and supply chains.",
+      "explanation": "Consultants help a client decide what to build or change. A bank, for example, may ask where AI could speed up loan checks. The client pays for the advice and usually for the follow-on work."
+    },
+    {
+      "title": "Building and running technology",
+      "examples": "Custom application development, modernising old systems, cloud and infrastructure services, and data and analytics.",
+      "explanation": "Wipro's engineers write new software, upgrade ageing systems, run a client's servers or cloud, and organise its data so it can be used. The client pays for staff time or a fixed price per project."
+    },
+    {
+      "title": "Engineering and research",
+      "examples": "Research and development (R&D), hardware and software design, and device engineering.",
+      "explanation": "Makers of cars, phones and machines pay Wipro's engineers to design and test products and the software inside them. The client owns what is built."
+    },
+    {
+      "title": "Back-office work and security",
+      "examples": "Business process services and cybersecurity.",
+      "explanation": "Wipro staff take over routine client tasks such as customer support or billing, and watch a client's systems for attacks. The client pays for the service, not for a product."
+    },
+    {
+      "title": "Capco and AI platforms",
+      "examples": "Capco, a Wipro company serving financial firms, and the AI-Native Business and Platforms unit.",
+      "explanation": "The report names Capco and the AI-Native Business and Platforms unit as Wipro's two business units. Capco works with banks and similar firms. The platforms unit builds Wipro's own AI software tools, which are described below."
+    },
+    {
+      "title": "Resold IT products",
+      "examples": "Computers and storage, networking equipment, security products, and software such as databases.",
+      "explanation": "Wipro buys these from other makers and sells them to clients, often alongside its services. It is a smaller, separate business, and the report says Wipro is being more selective about bidding for it."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What does IT services mean?",
+      "text": "Companies pay another firm's engineers to build, run and fix their computer systems. The firm is paid for people's time or for finished projects. It does not sell one product off a shelf."
+    },
+    {
+      "title": "What is the difference between time-and-materials and fixed-price work?",
+      "text": "In time-and-materials work the client pays for the hours and resources used. In fixed-price work the client agrees one price up front, so if the project takes longer than planned the extra cost falls on Wipro."
+    },
+    {
+      "title": "Why do many staff work in India?",
+      "text": "As general explanation, not from the report: engineers in India are paid less than engineers in the United States or Europe, so clients pay less for the same work. The report says Wipro also hires local people in key countries."
+    },
+    {
+      "title": "What are WINGS (Wipro's AI delivery tool) and WEGA (its AI building tool)?",
+      "text": "They are software tools, called platforms in the report, that Wipro's own staff and clients use. The report describes WINGS as an AI-powered delivery tool for running IT and business operations, and WEGA as an AI tool for building and changing systems."
+    }
+  ],
+  "steps": [
+    {
+      "title": "A client signs a contract",
+      "text": "After a sales effort, a client agrees to a project or to ongoing running of a system. The report says Wipro is focused on winning large deals."
+    },
+    {
+      "title": "Staff are assigned",
+      "text": "Engineers, consultants and support staff in India and other countries are matched to the work."
+    },
+    {
+      "title": "The work is delivered",
+      "text": "Software is built, systems are moved or run, or a service is operated day to day."
+    },
+    {
+      "title": "The client is billed",
+      "text": "Income is recorded as the hours are worked or as a fixed-price project progresses. As general explanation, bills go out monthly or at project stages and the client pays later."
+    },
+    {
+      "title": "Profit is what is left",
+      "text": "Payments received less salaries, selling and office costs and other costs. Revenue, profit and cash received are three different things."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Only the IT business is in this report",
+      "text": "The report says it covers the performance of Wipro's IT business. The report lists IT Services and IT Products as its two segments, so reading it does not tell you about any other business the Wipro name may be linked to."
+    },
+    {
+      "title": "A planned move from people to AI products",
+      "text": "The report says the new AI-Native Business and Platforms unit is meant to help Wipro pivot from people-centric to AI-centric monetisation. In plain words, it hopes to sell reusable software as well as staff time."
+    },
+    {
+      "title": "Focus on large accounts",
+      "text": "The report says Wipro is building large accounts in prioritised sectors and markets, and winning large deals through consulting-led work. Fewer, bigger clients can bring steadier work."
+    }
+  ],
+  "watch": [
+    [
+      "How much do clients spend with Wipro?",
+      "Revenue depends on clients' technology budgets, which can be cut when economies weaken or when clients feel uncertain.",
+      "Compare IT services revenue growth and large-deal wins in the annual report with the year before, and read what managers say about client spending."
+    ],
+    [
+      "Is the operating profit margin holding up?",
+      "Salaries are the main cost, so pay rises or idle staff can shrink the gap between what clients pay and what it costs to serve them.",
+      "Compare the IT services operating margin over several years and read the report's explanation of what changed."
+    ],
+    [
+      "Does AI replace work or bring new work?",
+      "AI tools may let clients do some tasks with fewer people, which changes what they will pay for.",
+      "Read how the report describes AI-based pricing and platforms and compare the types of projects Wipro wins over time."
+    ],
+    [
+      "How well does the engineering business bought from HARMAN, a Samsung company, fit?",
+      "Buying a company adds skills and clients, but joining two sets of staff and clients can be hard.",
+      "Look in later reports for how the acquired business is reported and what management says about its contribution."
+    ],
+    [
+      "Which sectors and countries is revenue coming from?",
+      "A business spread across sectors and countries is less exposed to one downturn.",
+      "Compare the sector and market split of revenue in the report's management discussion across several years, and note which areas are growing or shrinking."
+    ]
+  ],
+  "risks": [
+    [
+      "Cyber attacks on Wipro or its clients",
+      "The report names information and cybersecurity risk: attacks, phishing and deepfakes could disrupt work, harm reputation, expose sensitive information and cause financial losses."
+    ],
+    [
+      "Data privacy rules",
+      "The report says breaking data privacy rules could bring substantial financial penalties, legal action and loss of customer trust."
+    ],
+    [
+      "A stronger rupee",
+      "The report says a large part of revenue is in dollars, pounds, euros and similar money while much of the cost is in rupees, so a stronger rupee can hurt results."
+    ],
+    [
+      "Pressure to pay staff more",
+      "The report lists wage pressure among its finance and market risks. Higher pay is a direct cost when salaries are the largest expense."
+    ]
+  ],
+  "context": [
+    "December 2025: HARMAN's engineering business joined Wipro",
+    "The report says Wipro's acquisition of the Digital Transformation Solutions business of HARMAN was completed with effect from 1 December 2025. It says this adds device engineering, AI and software-defined technology work to Wipro's engineering services."
+  ],
+  "sources": [
+    [
+      "Wipro integrated annual report 2025-26",
+      "https://www.wipro.com/content/dam/nexus/staticsites/annual-report-2025/pdf/Integrated-annual-report-2025-26.pdf"
+    ],
+    [
+      "NSE Indices Limited, NIFTY Next 50 constituent list (Wipro, symbol WIPRO)",
+      "https://www.niftyindices.com/IndexConstituent/ind_niftynext50list.csv"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "Revenue, profit, margin and large-deal figures are pending verification. The verified table will say whether each is consolidated, in which currency, and how operating profit is defined."
+    }
+  ],
+  "stepsTitle": "From a client contract to payment",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "It advises on technology and AI, and builds, runs, protects and fixes software and computer systems for large companies."
+    },
+    {
+      "title": "Who pays",
+      "text": "Large companies around the world, including banks, consumer brands, healthcare firms, manufacturers and technology firms."
+    },
+    {
+      "title": "How it earns",
+      "text": "From projects and ongoing services, paid for staff time or a fixed price, plus a smaller income from resold products."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Mostly salaries for its people, plus selling and office costs and the products it resells."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Many sectors and no single big client",
+      "text": "The report shows work across banking, consumer, health, energy and manufacturing, and technology clients, and says no single customer was more than a tenth of revenue."
+    },
+    {
+      "title": "A plan to win large deals",
+      "text": "The report says Wipro focuses on winning large deals through a consulting-led, AI-powered approach and by working with technology partners."
+    },
+    {
+      "title": "AI tools for its own staff",
+      "text": "The report says more than 60,000 delivery staff use AI tools for developers, which it says boosts productivity."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Client caution",
+      "text": "The report says near-term caution may persist because an uncertain geopolitical environment affects what clients spend on discretionary projects."
+    },
+    {
+      "title": "Price pressure",
+      "text": "The report says pricing pressure may come from competition and from clients expecting AI to make work cheaper."
+    },
+    {
+      "title": "A shortage of skilled AI staff",
+      "text": "The report names capability bottlenecks in skilled AI talent as a challenge for the industry."
+    }
+  ],
+  "checked": "14 November 2026"
+}

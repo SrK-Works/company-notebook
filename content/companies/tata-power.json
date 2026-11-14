@@ -1,0 +1,137 @@
+{
+  "order": 75,
+  "company": {
+    "id": "tata-power",
+    "name": "Tata Power",
+    "ticker": "TATAPOWER",
+    "sector": "Energy & utilities",
+    "initial": "T",
+    "color": "#0b5394",
+    "bg": "#e8f1fa",
+    "tag": "Generates electricity from coal, water, sun and wind, carries it on power lines and sells it to homes and businesses",
+    "products": [
+      [
+        "Thermal power plants",
+        "Generation"
+      ],
+      [
+        "Hydropower",
+        "Generation"
+      ],
+      [
+        "Solar power plants",
+        "Renewables"
+      ],
+      [
+        "Wind power",
+        "Renewables"
+      ],
+      [
+        "Solar cell and panel making",
+        "Manufacturing"
+      ],
+      [
+        "Power lines",
+        "Networks"
+      ],
+      [
+        "Supplying homes and shops",
+        "Networks"
+      ],
+      [
+        "Rooftop solar and EV charging",
+        "Energy solutions"
+      ]
+    ],
+    "sources": [
+      [
+        "Tata Power investor resource centre",
+        "https://www.tatapower.com/investor-resource-center"
+      ]
+    ],
+    "productSource": "https://www.tatapower.com/html/integrated-annual-report-2026/business-cluster-review.html",
+    "aliases": [
+      "The Tata Power Company Limited",
+      "The Tata Power Company Ltd",
+      "Tata Power Company Limited",
+      "Tata Power Company Ltd"
+    ],
+    "productNote": "Business lines named in Tata Power’s 2025–26 integrated annual report. The report’s photographs are scenes and portraits without product captions, so every picture is an original, labelled illustration.",
+    "checked": "14 November 2026",
+    "reviewed": "14 November 2026"
+  },
+  "offerings": [
+    {
+      "name": "Thermal power plants",
+      "category": "Plants that burn coal to make electricity",
+      "image": "assets/products/tata-power-thermal-power.svg",
+      "url": "https://www.tatapower.com/html/integrated-annual-report-2026/business-cluster-review.html",
+      "kind": "illustration",
+      "alt": "A power station with chimneys and smoke — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Hydropower",
+      "category": "Electricity from falling water behind a dam",
+      "image": "assets/products/tata-power-hydropower.svg",
+      "url": "https://www.tatapower.com/html/integrated-annual-report-2026/business-cluster-review.html",
+      "kind": "illustration",
+      "alt": "A dam wall above waves — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Solar power plants",
+      "category": "Large fields of solar panels",
+      "image": "assets/products/tata-power-solar-power.svg",
+      "url": "https://www.tatapower.com/html/integrated-annual-report-2026/business-cluster-review.html",
+      "kind": "illustration",
+      "alt": "Rows of solar panels with a sun — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Wind power",
+      "category": "Turbines that turn wind into electricity",
+      "image": "assets/products/tata-power-wind-power.svg",
+      "url": "https://www.tatapower.com/html/integrated-annual-report-2026/business-cluster-review.html",
+      "kind": "illustration",
+      "alt": "A wind turbine with three blades — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Solar cell and panel making",
+      "category": "A factory that makes solar cells and panels",
+      "image": "assets/products/tata-power-solar-cell-and-module-making.svg",
+      "url": "https://www.tatapower.com/html/integrated-annual-report-2026/business-cluster-review.html",
+      "kind": "illustration",
+      "alt": "A factory with a new solar panel beside it — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Power lines",
+      "category": "Towers and wires that carry electricity over long distances",
+      "image": "assets/products/tata-power-transmission.svg",
+      "url": "https://www.tatapower.com/html/integrated-annual-report-2026/business-cluster-review.html",
+      "kind": "illustration",
+      "alt": "A pylon with wires — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Supplying homes and shops",
+      "category": "Delivering electricity to customers, with smart meters",
+      "image": "assets/products/tata-power-distribution.svg",
+      "url": "https://www.tatapower.com/html/integrated-annual-report-2026/business-cluster-review.html",
+      "kind": "illustration",
+      "alt": "An electricity meter with a display — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Rooftop solar",
+      "category": "Solar panels installed on customers’ roofs",
+      "image": "assets/products/tata-power-rooftop-solar.svg",
+      "url": "https://www.tatapower.com/html/integrated-annual-report-2026/business-cluster-review.html",
+      "kind": "illustration",
+      "alt": "A house with solar panels on its roof — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Electric vehicle charging",
+      "category": "Charging points for electric cars and buses",
+      "image": "assets/products/tata-power-ev-charging.svg",
+      "url": "https://www.tatapower.com/html/integrated-annual-report-2026/business-cluster-review.html",
+      "kind": "illustration",
+      "alt": "An electric vehicle charger with a cable — conceptual illustration; not a photograph"
+    }
+  ]
+}

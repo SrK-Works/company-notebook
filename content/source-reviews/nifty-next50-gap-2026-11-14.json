@@ -8,7 +8,7 @@
     "constituents": 50,
     "alreadyCovered": 2,
     "missing": 48,
-    "addedSoFar": 0
+    "addedSoFar": 5
   },
   "specialCases": [
     "Tata Motors Ltd. (TMCV) in this list is the separately listed trucks and buses company that split from the passenger-vehicle company (see the NIFTY 50 gap file, TMPV).",
@@ -85,8 +85,8 @@
       "ticker": "BANKBARODA",
       "industry": "Financial Services",
       "isin": "INE028A01039",
-      "id": null,
-      "status": "missing",
+      "id": "bank-of-baroda",
+      "status": "added in batch 1",
       "batch": 1
     },
     {
@@ -202,8 +202,8 @@
       "ticker": "HAL",
       "industry": "Capital Goods",
       "isin": "INE066F01020",
-      "id": null,
-      "status": "missing",
+      "id": "hal",
+      "status": "added in batch 1",
       "batch": 1
     },
     {
@@ -229,8 +229,8 @@
       "ticker": "HYUNDAI",
       "industry": "Automobile and Auto Components",
       "isin": "INE0V6F01027",
-      "id": null,
-      "status": "missing",
+      "id": "hyundai-motor-india",
+      "status": "added in batch 1",
       "batch": 1
     },
     {
@@ -391,8 +391,8 @@
       "ticker": "TATAPOWER",
       "industry": "Power",
       "isin": "INE245A01021",
-      "id": null,
-      "status": "missing",
+      "id": "tata-power",
+      "status": "added in batch 1",
       "batch": 1
     },
     {
@@ -454,8 +454,8 @@
       "ticker": "WIPRO",
       "industry": "Information Technology",
       "isin": "INE075A01022",
-      "id": null,
-      "status": "missing",
+      "id": "wipro",
+      "status": "added in batch 1",
       "batch": 1
     },
     {

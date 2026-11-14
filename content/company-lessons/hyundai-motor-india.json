@@ -1,0 +1,205 @@
+{
+  "summary": "Hyundai Motor India builds passenger cars at two plants, near Chennai and at Pune, and sells them through dealers in India and to buyers in other countries. Most of its Indian sales are SUVs.",
+  "description": "Hyundai Motor India buys parts from suppliers and assembles cars in its own factories. Its range covers hatchbacks (small cars with a sloping rear), sedans (cars with a separate boot) and SUVs (sport utility vehicles, taller cars with more room), plus electric cars and a taxi range that runs on CNG (compressed natural gas). The report says the Creta SUV crossed 2,00,000 sales in one calendar year, and that it sells cars to more than 150 countries over the years. It also earns from servicing and extended warranties.",
+  "money": "Hyundai Motor India earns mainly by selling cars, plus smaller income from services such as maintenance and extended warranties. Its biggest cost by far is the parts and materials it buys. Other costs are staff, freight, advertising, royalty (a fee for using technology, as general explanation), warranty repairs and running the factories. A buyer's payment is not profit: the company's profit is what is left after these costs.",
+  "customers": "The buyers are people and businesses who buy cars, mostly through the company's dealers, plus taxi and fleet operators for the Prime range, and buyers in other countries for exports. As general explanation, dealers pay Hyundai for the cars and then sell them on to the public. The report says domestic sales fell and exports rose in 2025-26.",
+  "drivers": "Mostly how many cars it sells in India and abroad, how its models compare with rivals on price and features, the cost of steel, parts and imported components (and the rupee), and how fully its factories are used.",
+  "groups": [
+    {
+      "title": "SUVs",
+      "examples": "Creta, Venue, Exter and Alcazar.",
+      "explanation": "SUVs are taller cars with more space. The report says they made up most of domestic sales. The models differ by size and price, from the small Exter to the larger Alcazar, which the report calls a premium 7-seater."
+    },
+    {
+      "title": "Sedans and hatchbacks",
+      "examples": "Verna (sedan) and i20 (hatchback).",
+      "explanation": "These are lower, lighter cars. A hatchback is shorter and has a sloping rear. A sedan has a separate boot, and the report says it was a growing share of domestic sales."
+    },
+    {
+      "title": "Electric cars",
+      "examples": "Creta Electric and Ioniq 5.",
+      "explanation": "An electric car runs on a battery, not petrol or diesel. The report calls Creta Electric its first deeply localised electric car, meaning more of its parts are made in India."
+    },
+    {
+      "title": "Taxi range",
+      "examples": "Prime HB (hatchback) and Prime SD (sedan).",
+      "explanation": "These are built for taxi and fleet owners, with factory-fitted CNG (compressed natural gas) fuel to cut running cost. The report says it entered the commercial mobility space with them."
+    },
+    {
+      "title": "Exports",
+      "examples": "Cars shipped from Chennai and Pune to other countries.",
+      "explanation": "The same factories also build cars for other countries. The report says its export volume grew in 2025-26 and that the first export car left the Pune plant in February 2026."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What are an SUV, a hatchback and a sedan?",
+      "text": "They are car body shapes. A hatchback is a small car whose rear door lifts up. A sedan has a separate boot. An SUV is taller and roomier. Buyers pay different prices for each, so the mix of cars sold changes the company's income."
+    },
+    {
+      "title": "What does installed capacity mean?",
+      "text": "It is the number of cars a factory can build in a year if it runs at full pace. A factory that is far below capacity still carries its fixed costs, such as buildings and machines."
+    },
+    {
+      "title": "What does localisation mean?",
+      "text": "It means buying parts made in India instead of importing them. The report says this lowers dependence on imports and on exchange rates."
+    },
+    {
+      "title": "What are CNG and an electric car?",
+      "text": "CNG is natural gas compressed to fuel a car engine, usually cheaper to run than petrol. An electric car runs on a battery charged from the mains, with no petrol engine."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Parts are bought",
+      "text": "Hyundai buys parts and materials from suppliers, some imported. This is the company's largest cost."
+    },
+    {
+      "title": "Cars are built",
+      "text": "Cars are assembled and tested at the Chennai and Pune plants."
+    },
+    {
+      "title": "Cars are moved",
+      "text": "The report says cars go by road and rail to stockyards and dealers, and by ship to other countries."
+    },
+    {
+      "title": "Income is recorded",
+      "text": "The report says income from Indian sales is recorded when the cars leave the factory or stockyard and are handed to a transport company. Export income is recorded when goods are shipped on board or delivered at the destination port."
+    },
+    {
+      "title": "Cash arrives and profit is what remains",
+      "text": "As general explanation, buyers pay after delivery. Profit is what is left after parts, staff, freight and other costs."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "A royalty is paid on sales",
+      "text": "The report lists royalty among its costs and says it rose because sales rose. Royalty is a fee for using technology, as general explanation, so part of each sale goes out again."
+    },
+    {
+      "title": "Income is recorded when the car leaves the factory",
+      "text": "In India, income is recorded when the cars are handed to a transport company, before they reach a buyer. As general explanation, cars still unsold at dealers can therefore already be counted as income."
+    },
+    {
+      "title": "Most domestic sales are SUVs",
+      "text": "The report says SUVs were over two thirds of domestic sales. A change in buyers' taste for SUVs therefore matters a great deal."
+    },
+    {
+      "title": "Part of the Hyundai Group",
+      "text": "The report calls the company a key pillar of the Hyundai Group's global growth strategy, and says its Chennai plant was the group's first fully integrated plant outside South Korea."
+    }
+  ],
+  "watch": [
+    [
+      "Are Indian sales growing again?",
+      "The report says domestic sales fell in 2025-26 while exports grew, so the balance between the two markets is shifting.",
+      "Compare domestic and export unit sales in the report with the year before, and read what managers say about new launches."
+    ],
+    [
+      "How full are the factories?",
+      "The new Pune plant adds fixed costs, which weigh more heavily on profit if it is not used fully.",
+      "Compare production with installed capacity in later reports and read the plan to raise capacity."
+    ],
+    [
+      "How is the shift to electric cars going?",
+      "Electric cars need new investment and different parts, and customers may buy fewer if charging is hard to find.",
+      "Look at the report's description of its electric models and the share of electric cars in sales over several years."
+    ],
+    [
+      "What happens to profit margins when parts cost more?",
+      "Parts and materials are the largest cost, and price rises may not be passed on to buyers straight away.",
+      "Compare the cost of materials as a share of income in the report's profit and loss discussion over several years, and read the stated reasons for any change."
+    ],
+    [
+      "How is the new managing director and chief executive changing strategy?",
+      "The report says it appointed its first Indian managing director and chief executive, and a leadership change can change launch plans and priorities.",
+      "Read the management statements and compare the plans with launches and results in later reports."
+    ]
+  ],
+  "risks": [
+    [
+      "More competition from new launches",
+      "The report says competition is rising as rivals launch feature-rich, competitively priced vehicles, including new entrants gaining market share, and a lag in meeting customer needs could cost it market share."
+    ],
+    [
+      "Higher costs of commodities, parts and imports",
+      "The report says commodity prices form a significant part of its costs, and that a weaker rupee against the US dollar can raise the cost of imported components, royalty and battery materials."
+    ],
+    [
+      "Shortages of key parts",
+      "The report says disruptions in the supply of key parts or materials from suppliers may delay production."
+    ],
+    [
+      "The move to electric cars",
+      "The report says gaps in scaling up, or in how ready the wider supporting industry is (such as charging points and parts makers), could make it harder to stay competitive as the industry shifts to electric vehicles."
+    ]
+  ],
+  "context": [
+    "October 2025 to February 2026: the Pune plant starts",
+    "The report says the Talegaon plant at Pune began operations in October 2025 and rolled out its first export vehicle on 26 February 2026. The first model built there was the new Venue."
+  ],
+  "sources": [
+    [
+      "Hyundai Motor India annual report 2025-26",
+      "https://hyundai.com/content/dam/hyundai/in/en/data/investor-relations/annual-report-fy-25-26.pdf"
+    ],
+    [
+      "NSE Indices Limited, NIFTY Next 50 constituent list (Hyundai Motor India, symbol HYUNDAI)",
+      "https://www.niftyindices.com/IndexConstituent/ind_niftynext50list.csv"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "Revenue, profit, sales volume and margin figures are pending verification. The verified table will say whether each is consolidated or standalone, and how operating profit is defined."
+    }
+  ],
+  "stepsTitle": "From a factory to a buyer",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "It builds passenger cars at plants near Chennai and Pune, from small hatchbacks to SUVs and electric cars."
+    },
+    {
+      "title": "Who pays",
+      "text": "Car buyers in India, mainly through dealers, taxi and fleet owners, and buyers in other countries."
+    },
+    {
+      "title": "How it earns",
+      "text": "Mainly from selling cars, plus smaller income from servicing and extended warranties."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Mostly parts and materials, then staff, freight, royalty, advertising, warranty and running its factories."
+    }
+  ],
+  "helps": [
+    {
+      "title": "A mix of models and exports",
+      "text": "The report says a range of vehicles across price points and a strong export base reduce dependence on any single market segment."
+    },
+    {
+      "title": "Demand for SUVs",
+      "text": "The report names rising premiumisation, buyers choosing more expensive cars, and the popularity of SUVs as opportunities."
+    },
+    {
+      "title": "A nationwide sales and service network",
+      "text": "The report counts 1,508 sales points and 1,671 service points across India, which gives buyers places to buy and repair cars."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Demand follows the economy",
+      "text": "The report says inflation, changes in jobs and growth, and buyers' mood can all affect how many cars are bought in India."
+    },
+    {
+      "title": "Fixed costs of new plants",
+      "text": "The report says costs rose partly because of the fixed cost of the newly started plant, which weighs on profit until output rises."
+    },
+    {
+      "title": "Strict rules on safety and emissions",
+      "text": "The report says breaking regulations can lead to recalls, penalties or sanctions, and that rules keep changing."
+    }
+  ],
+  "checked": "14 November 2026"
+}
