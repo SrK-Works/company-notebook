@@ -35,7 +35,7 @@
     },
     {
       "name": "Industrial software",
-      "category": "Software to design and run factories, including digital twins",
+      "category": "Software to design and run factories, including computer models used to test a factory before changing it",
       "image": "assets/products/siemens-industrial-software.svg",
       "url": "https://assets.new.siemens.com/siemens/assets/api/uuid:6d32b927-bec4-43f3-bbee-d617b2888331/Annual-Report-Siemens-Limited-2024-26.pdf",
       "kind": "illustration",

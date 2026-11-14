@@ -13,7 +13,7 @@
     {
       "title": "Custom synthesis",
       "examples": "An ingredient or intermediate chemical made for a drug company's new or late-stage medicine.",
-      "explanation": "Here Divi's works as a contract manufacturer for innovator drug companies. The report calls it a contract development and manufacturing organisation (CDMO) and says the work involves difficult chemistry, high-potency handling and scaling up safely."
+      "explanation": "Here Divi's works as a contract manufacturer for innovator drug companies. The report calls it a contract development and manufacturing organisation (CDMO) and says the work involves difficult chemistry, high-potency handling (handling very strong chemicals safely) and scaling up safely."
     },
     {
       "title": "Peptides",
@@ -47,7 +47,7 @@
     },
     {
       "title": "Which other companies are in the group?",
-      "text": "The report names two wholly-owned subsidiaries (Divis Laboratories (USA) Inc., in New Jersey, and Divi's Laboratories Europe AG (typically, AG marks a joint-stock company in German-speaking countries), in Basel, Switzerland) that support the marketing of its nutraceutical products. Nutraceutical means a nutrition or wellness ingredient."
+      "text": "The report names two wholly-owned subsidiaries (Divis Laboratories (USA) Inc., in New Jersey, and Divi's Laboratories Europe AG (AG is how German-speaking countries mark a joint-stock company), in Basel, Switzerland) that support the marketing of its nutraceutical products. Nutraceutical means a nutrition or wellness ingredient."
     }
   ],
   "steps": [
@@ -57,7 +57,7 @@
     },
     {
       "title": "Make starting materials and ingredients",
-      "text": "Factories make intermediates and then the final ingredient. For large-volume products, the report says plants run in campaigns, building stock so the multi-purpose plants can switch to other products."
+      "text": "Factories make intermediates and then the final ingredient. For large-volume products, the report says plants run in campaigns: a plant makes one product in long runs for a period, building stock, so the multi-purpose plants can switch to other products."
     },
     {
       "title": "Test, qualify and ship",

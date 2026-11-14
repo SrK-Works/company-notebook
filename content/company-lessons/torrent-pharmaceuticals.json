@@ -1,8 +1,8 @@
 {
   "summary": "Torrent Pharma makes and sells medicines, mostly branded tablets for long-term conditions in India and Brazil, and lower-priced generic copies in the US and Germany. In 2026 it took control of J.B. Chemicals & Pharmaceuticals.",
-  "description": "Torrent Pharmaceuticals Limited makes finished medicines, called formulations, such as tablets, and sells them in two ways. In its branded business, which is about three-quarters of revenue, it sells medicines under its own brand names, mainly for heart, brain and nerve, stomach, skin, pain and diabetes conditions, and doctors choose them for patients. In its generics business it sells lower-priced copies of medicines whose patents have ended, mainly in the United States and Germany. In January 2026 it took control of another Indian drug company, J.B. Chemicals & Pharmaceuticals Limited.",
+  "description": "Torrent Pharmaceuticals Limited makes finished medicines, called formulations, such as tablets, and sells them in two ways. Its branded business is about three-quarters of revenue. It sells branded generics, which are copies of medicines whose patents have ended, sold under its own brand names, mainly for heart, brain and nerve, stomach, skin, pain and diabetes conditions, and doctors choose them for patients. In its generics business it sells lower-priced copies of medicines whose patents have ended, mainly in the United States and Germany. In January 2026 it took control of another Indian drug company, J.B. Chemicals & Pharmaceuticals Limited.",
   "money": "Torrent earns money by selling medicines. Branded medicines are sold through a sales team of medical representatives who visit doctors, and through distributors and chemists. Generic medicines are sold in the US and Germany, and the report says the German market runs on tenders. Typically, a tender is a bidding round in which a buyer picks among offers, often on price. It also earns fees from making lozenges for other companies. Its costs include making medicines, research and regulatory filings, and its large sales team. A customer's payment is not profit.",
-  "customers": "Doctors choose which branded medicine to prescribe, but patients pay for it at a chemist, which distributors supply. In generics the buyers are, typically, wholesalers and pharmacy chains, and in Germany those who run tenders. Other companies pay it to make lozenges. The report says the largest markets are India, Brazil, Germany and the United States.",
+  "customers": "Doctors choose which branded medicine to prescribe, but patients pay for it at a chemist, which distributors supply. In generics the buyers are wholesalers and pharmacy chains, and in Germany those who run tenders. Other companies pay it to make lozenges. The report says the largest markets are India, Brazil, Germany and the United States.",
   "drivers": "How many prescriptions its brands win and how much its sales team and new launches add, the prices it gets on generics, the cost of ingredients and running factories, and how approvals for new medicines arrive.",
   "groups": [
     {
@@ -74,7 +74,7 @@
     },
     {
       "title": "Licensing medicines from others",
-      "text": "The report says it also adds to its range by in-licensing, which typically means buying the right to sell a medicine another company developed. Examples it names are two stomach and gut medicines launched in India."
+      "text": "The report says it also adds to its range by in-licensing. In general, in-licensing means buying the right to sell a medicine another company developed; this is general knowledge, not a statement from the report. Examples it names are two stomach and gut medicines launched in India."
     },
     {
       "title": "Group structure",
@@ -132,7 +132,11 @@
   ],
   "sources": [
     [
-      "Torrent Pharmaceuticals Integrated Annual Report 2025-26 (copy filed with the exchanges)",
+      "Torrent Pharmaceuticals Integrated Annual Report 2025-26 (company site)",
+      "https://www.torrentpharma.com/pdf/investors/AR-2025-26.pdf"
+    ],
+    [
+      "Torrent Pharmaceuticals Integrated Annual Report 2025-26 (same report, copy filed with the exchange)",
       "https://nsearchives.nseindia.com/annual_reports/AR_29317_TORNTPHARM_2025_2026_A_9846495_01062026144519.pdf"
     ],
     [

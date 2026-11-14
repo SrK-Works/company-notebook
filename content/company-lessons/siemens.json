@@ -1,14 +1,14 @@
 {
   "summary": "Siemens Limited sells factory automation and software, electric locomotives and railway signalling, and electrical equipment and controls for buildings, data centres and power networks in India.",
-  "description": "Siemens Limited is the listed Indian company of the German Siemens group, whose parent is Siemens AG (typically, AG marks a joint-stock company in German-speaking countries). It has three businesses: Digital Industries, which sells the controllers, drives and software that run factories; Mobility, which builds electric locomotives and railway signalling and electrification systems; and Smart Infrastructure, which sells electrical equipment and controls for buildings, data centres and power networks. Its former Energy business was split off in 2025 into a separate listed company, so this lesson covers Siemens Limited only.",
+  "description": "Siemens Limited is the listed Indian company of the German Siemens group, whose parent is Siemens AG (AG marks a joint-stock company in German-speaking countries). It has three businesses. Digital Industries sells controllers (devices that command a machine), drives (devices that set a motor's speed) and software for factories. Mobility builds electric locomotives and railway signalling, and electrification systems (overhead wires and power equipment for trains). Smart Infrastructure sells electrical equipment and controls for buildings, data centres and power networks. The former Energy business was split off in 2025 into a separate listed company, so this lesson covers Siemens Limited only.",
   "money": "Siemens Limited earns money by selling products such as controllers and switchboards, by selling software and services, and by winning large projects. In a project such as railway signalling or locomotives it designs, builds, installs and then often maintains the system for years. Costs include materials and components, factory and engineering staff, and licence fees paid to its parent, Siemens AG. A customer's payment is not profit, and money for a long project is usually collected in stages.",
   "customers": "Factories and machine builders buy automation and software. Indian Railways and metro rail bodies buy locomotives and signalling. Data-centre operators, ports, power utilities, metals and oil-and-gas companies and building owners buy electrical equipment and controls. A Siemens group company also gave it an internal order to make train parts called bogies (the wheeled frames under a rail vehicle), traction motors and gearboxes.",
   "drivers": "How many large rail and infrastructure projects are tendered and won, how much factories and data centres spend on automation and electrical equipment, and the cost of materials and imported components.",
   "groups": [
     {
       "title": "Factory automation and software",
-      "examples": "Controllers that run machines, electric drives, industrial software and digital twins.",
-      "explanation": "This is the Digital Industries business. The report says it supplies industrial software, automation and drive technologies for manufacturers. Typically, a digital twin is a computer model of a real machine or factory used to test changes before making them."
+      "examples": "Controllers that command machines, drives that set motor speed, industrial software and computer models of factories (digital twins).",
+      "explanation": "This is the Digital Industries business. The report says it supplies industrial software, automation and drive technologies for manufacturers. A digital twin is a computer model used to test a factory before changing it."
     },
     {
       "title": "Electric locomotives",
@@ -17,7 +17,7 @@
     },
     {
       "title": "Railway signalling and electrification",
-      "examples": "Systems that tell trains when to go and stop, and equipment that powers electric rail lines.",
+      "examples": "Systems that tell trains when to go and stop, and the overhead wires and power equipment that supply electricity to trains.",
       "explanation": "The report names a Siemens-led group that will supply signalling and telecommunication technology for India's first high-speed rail line between Mumbai and Ahmedabad, and signalling for Nagpur Metro, plus electrification of a rail line in Sikkim."
     },
     {
@@ -74,7 +74,7 @@
     },
     {
       "title": "Two subsidiaries with their own businesses",
-      "text": "The report names Siemens Rail Automation Private Limited, a wholly owned company making railway signalling equipment, and C&S Electric Limited, which makes low-voltage products. It says they account for 1.32% and 9.95% of consolidated turnover, meaning the group's combined sales."
+      "text": "The report names Siemens Rail Automation Private Limited, a wholly owned company making railway signalling equipment, and C&S Electric Limited, which makes low-voltage products. It says they account for 1.32% and 9.95% of consolidated turnover, meaning the group's combined sales. The board approved a scheme on 26 May 2026 to merge Siemens Rail Automation into Siemens Limited. This is only proposed: it needs approval from shareholders, creditors and regulators, including the National Company Law Tribunal."
     },
     {
       "title": "Public bodies are major buyers",
@@ -205,7 +205,7 @@
     ],
     [
       "Industrial software",
-      "Software to design and run factories, including digital twins"
+      "Software to design and run factories, including computer models used to test a factory before changing it"
     ],
     [
       "Electric locomotives",
