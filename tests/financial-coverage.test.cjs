@@ -12,11 +12,9 @@ test('every company has either a verified snapshot or an explicit pending state'
   if(record){
    assert.ok(html.includes('<table'),company.id+': verified table');
    assert.ok(!html.includes('awaiting verification'),company.id);
-   {
-    const evidence=fs.readFileSync(`content/financial-reviews/${company.id}.evidence.md`,'utf8');
-    assert.ok(evidence.includes(new URL(record.source).hostname),company.id+': source evidence');
-    assert.ok(record.location&&record.rows.length,company.id+': identifiable source table');
-   }
+   const evidence=fs.readFileSync(`content/financial-reviews/${company.id}.evidence.md`,'utf8');
+   assert.ok(evidence.includes(new URL(record.source).hostname),company.id+': source evidence');
+   assert.ok(record.location&&record.rows.length,company.id+': identifiable source table');
   }else{
    assert.ok(html.includes('awaiting verification'),company.id+': pending state');
    assert.ok(!html.includes('<table'),company.id+': no invented table');

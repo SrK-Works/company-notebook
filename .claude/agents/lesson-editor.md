@@ -50,3 +50,4 @@ Load the TinyFish tools with ToolSearch (for example `select:mcp__claude_ai_Tiny
 When you finish, report: the pull request link(s), the companies covered, the claims you corrected, and anything still unverified.
 
 - State each amount once. Lesson `financialNotes` explain definitions and cautions and do not repeat amounts already shown in the snapshot table or notes. When moving ids between files, update README and docs, or avoid counts.
+- Any claim marked "not verified" in an evidence file must be either sourced (add the source to the lesson and note it in the evidence "Lesson check") or removed from the whole lesson, not just from `financialNotes`, before the work is handed back.

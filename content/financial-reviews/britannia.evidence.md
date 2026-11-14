@@ -1,7 +1,7 @@
 # Britannia Industries — re-verification of the existing snapshot (migrated to content/financial-reviews)
 
 Checked 14 November 2026. Snapshot moved from dist/financial-data.js to this folder.
-Corrected 14 November 2026: Snapshot notes add the Labour Codes past-service cost of 48.56 crore; BRSR locator corrected to item 13 printed pages 106-107 and item 17 printed pages 108-109. Lesson financialNotes: the unverified 'cheese joint venture' sentence removed. Amounts unchanged. (Lesson sections outside financialNotes still call Britannia Bel Foods a cheese business; not verified in the filing text read.)
+Corrected 14 November 2026: Snapshot notes add the Labour Codes past-service cost of 48.56 crore; BRSR locator corrected to item 13 printed pages 106-107 and item 17 printed pages 108-109. Lesson financialNotes: the unverified 'cheese joint venture' sentence removed. Amounts unchanged. Sourced 14 Nov 2026: Britannia Bel Foods is the cheese business (see Lesson check).
 
 ## Discrepancies and unsupported items
 No amount, label, period or scope in the snapshot disagrees with the filing: revenue from operations 19,151.59, profit attributable to owners 2,533.49, group profit 2,537.01, non-controlling interest 3.52, sale of goods 18,858.21, other operating revenues 293.38, geography split (India 18,043.67; outside India 1,107.92) and the joint venture figures (loss 59.93, 51%, share 30.57) all match. Points to note:
@@ -33,8 +33,9 @@ The snapshot's turnover mix comes from the BRSR, a non-financial section, and is
 ## Lesson financialNotes check (content/company-lessons/britannia.json)
 - "approximate turnover mix from Britannia's FY 2025–26 business responsibility report. It groups bakery and salted snacks together" ✔ (~97% and ~3%).
 - "Consolidated accounts include subsidiaries, and part of their results can belong to other owners. Group profit after tax can therefore differ from the profit that belongs to Britannia's own shareholders" ✔ (2,537.01 vs 2,533.49).
-- "The cheese joint venture is counted as a share of its result, not as sales" — the joint venture's share of loss (30.57) is in the statement of profit and loss as a share of result ✔; that the joint venture makes cheese was not confirmed in the filing text read (the dairy product description lists cheese among Britannia's own dairy products). Unverified.
+- "The cheese joint venture is counted as a share of its result, not as sales" — the joint venture's share of loss (30.57) is in the statement of profit and loss as a share of result ✔; that the joint venture makes cheese was not confirmed in the filing text read (the dairy product description lists cheese among Britannia's own dairy products). 
+- Britannia Bel Foods is a cheese business (lesson claims in 'examples', the joint-venture explanation and sources) ✔ sourced: Britannia press release of 9 October 2024, PDF page 1, https://media.britannia.co.in/Press_Release_09_10_2024_747d4ea5a0.pdf: "Britannia Bel Foods, a leading Cheese player in India", "joint venture between Britannia and Bel Group", factory for "Britannia The Laughing Cow" cheese at Ranjangaon; annual report 2025-26 (PDF page 57 of the copy read) lists Britannia Bel Foods Private Limited as a joint venture, 51%. The press release is in the lesson sources.
 - No amounts in the notes. Gap: the lesson does not mention the ₹48.56 crore Labour Codes past-service cost.
 
 ## Not verified
-That Britannia Bel Foods is a cheese business (not stated in the text read). The BRSR page numbers precisely (spread-level only).
+The BRSR page numbers precisely (spread-level only).

@@ -1,7 +1,7 @@
 # Avenue Supermarts (DMart) — re-verification of the existing snapshot (migrated to content/financial-reviews)
 
 Checked 14 November 2026. Snapshot moved from dist/financial-data.js to this folder.
-Corrected 14 November 2026: Store-growth figure labelled as a quarterly management figure from the press release, not audited. Lesson financialNotes no longer link DMart Ready to a group company (not verified in the pages read); subsidiary Avenue E-commerce Limited named as listed in the accounts. Amounts unchanged. (Other lesson sections still name Avenue E-Commerce Limited as running DMart Ready; unverified outside financialNotes.)
+Corrected 14 November 2026: Store-growth figure labelled as a quarterly management figure from the press release, not audited. Lesson financialNotes no longer link DMart Ready to a group company (not verified in the pages read); subsidiary Avenue E-commerce Limited named as listed in the accounts. Amounts unchanged. Sourced 14 Nov 2026: Avenue E-Commerce Limited runs DMart Ready (see Lesson check).
 
 ## Discrepancies and unsupported items
 No amount, label, period or scope in the snapshot disagrees with the filing: consolidated revenue from operations 68,820.74, group profit after tax 2,969.86, equity holders 2,970.49, non-controlling interests (0.63), parent revenue 66,968.03 and parent PAT 3,223.93 all match. Points to note:
@@ -34,8 +34,9 @@ Used and flagged: the 10.8% same-store growth, 500 store count and 58 new stores
 
 ## Lesson financialNotes check (content/company-lessons/avenue-supermarts.json)
 - "how much of each ₹100 of group revenue from operations remained as profit after tax" — the figure itself is not in the notes; 2,969.86 ÷ 68,820.74 = ₹4.32 per ₹100 (group PAT incl. non-controlling interest) for comparison; the notes say the slice is "small" ✔.
-- "Standalone figures cover the parent company … Consolidated figures cover the group, including DMart Ready's company. Do not add them together" ✔ (DMart Ready is run by the subsidiary Avenue E-commerce Limited, listed in note 6; the filing text does not itself use the name "DMart Ready" in the pages read, so that link is an outside fact, not verified here).
+- "Standalone figures cover the parent company … Consolidated figures cover the group, including DMart Ready's company. Do not add them together" ✔ (financialNotes now name the subsidiary Avenue E-commerce Limited listed in the accounts; the DMart Ready link is sourced in the next bullet).
+- DMart Ready is run by Avenue E-Commerce Limited (lesson 'examples', risk text and the May 2026 release source) ✔ sourced: press release of 2 May 2026, PDF page 4: "Mr. Vikram Dasu, Whole Time Director & CEO, Avenue E-Commerce Limited commented on the performance of the E-Commerce (DMart Ready) business"; the results filing lists Avenue E-commerce Limited among the subsidiaries. The release is in the lesson sources.
 - No amounts to mismatch.
 
 ## Not verified
-The "DMart Ready" name for Avenue E-commerce Limited (not in the pages read). Exchange-hosted copies of the results (not located). Printed page numbers (none on the scanned pages).
+Exchange-hosted copies of the results (not located). Printed page numbers (none on the scanned pages).

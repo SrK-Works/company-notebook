@@ -1,4 +1,4 @@
-# Infosys — re-verification of the existing snapshot (dist/financial-data.js)
+# Infosys — re-verification of the existing snapshot (migrated to content/financial-reviews)
 
 Re-check of 14 Nov 2026; corrections listed below.
 Corrected 14 November 2026: Snapshot corrected 14 Nov 2026 and moved from dist/financial-data.js to this folder: notes now explain the shortened segment names and the 1,289 Labour Codes charge inside unallocated expenses of 6,191. Amounts unchanged. Lesson financialNotes rewritten.

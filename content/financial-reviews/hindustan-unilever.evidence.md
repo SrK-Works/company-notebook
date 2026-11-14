@@ -1,4 +1,4 @@
-# Hindustan Unilever — re-verification of the existing snapshot (dist/financial-data.js)
+# Hindustan Unilever — re-verification of the existing snapshot (migrated to content/financial-reviews)
 
 Re-check of 14 Nov 2026; corrections listed below.
 Corrected 14 November 2026: Snapshot moved unchanged from dist/financial-data.js to this folder on 14 Nov 2026 (no snapshot field changed). Lesson financialNotes rewritten: the 1,476 gap is explained (Others 2,181 less other operating revenue 705), demerger defined (later pointed to the lesson's own definition), the unverified 'Foods & Refreshment' label and Kwality Wall's pro forma statement removed; the out-of-period quarterly note (quarter to 30 Sep 2026) was removed from the lesson.

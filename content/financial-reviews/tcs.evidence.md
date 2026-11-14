@@ -1,4 +1,4 @@
-# TCS — re-verification of the existing snapshot (dist/financial-data.js)
+# TCS — re-verification of the existing snapshot (migrated to content/financial-reviews)
 
 Re-check of 14 Nov 2026; corrections listed below.
 Corrected 14 November 2026: Snapshot corrected 14 Nov 2026 and moved from dist/financial-data.js to this folder: profit column is now Segment result in rupees crore from the audited note (27,011; 12,090; 11,473; 7,504; 8,051; 6,269; total 72,398) instead of 'not disclosed' margins; the unreproducible 25.0% total margin and the margin column were dropped; notes add unallocated expenses 11,313 including Labour Codes 2,128, legal claim 1,010 and restructuring 1,388; source changed to the report read here (ar.tcs.com). Revenue unchanged. Lesson financialNotes rewritten.

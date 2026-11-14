@@ -1,4 +1,4 @@
-# Reliance Industries — re-verification of the existing snapshot (dist/financial-data.js)
+# Reliance Industries — re-verification of the existing snapshot (migrated to content/financial-reviews)
 
 Checked 14 November 2026. This file records a re-check of the original snapshot only. The snapshot, the lesson and the build files were not changed.
 Corrected 14 November 2026: Snapshot corrected 14 Nov 2026 and moved from dist/financial-data.js to this folder: source changed to the annual report PDF with the business overview, note 37 and audited results page as location; revenue column labelled Value of Sales and Services (includes GST and inter-segment transfers); Media & Entertainment stated as part of Others in the audited segments; definition says EBITDA includes interest income; notes add the 1,274,193 vs 1,175,919 reconciliation. Lesson financialNotes rewritten (the unexplained 'ownership interests and investment needs' sentence removed). Amounts unchanged.

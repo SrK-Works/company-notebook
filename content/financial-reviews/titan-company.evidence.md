@@ -1,4 +1,4 @@
-# Titan Company — re-verification of the existing snapshot (dist/financial-data.js)
+# Titan Company — re-verification of the existing snapshot (migrated to content/financial-reviews)
 
 Re-check of 14 Nov 2026; corrections listed below.
 Corrected 14 November 2026: Snapshot corrected 14 Nov 2026 and moved from dist/financial-data.js to this folder: the unsupported claim that digi-gold is in the statutory table was removed (the filed note names gold-ingot sales of 10,568 as other operating revenue; the release excludes bullion and digi-gold from its headline); the 101 Labour Codes exceptional item added to notes. Amounts unchanged. Lesson financialNotes rewritten.

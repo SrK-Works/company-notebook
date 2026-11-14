@@ -1,4 +1,4 @@
-# Eternal — re-verification of the existing snapshot (dist/financial-data.js)
+# Eternal — re-verification of the existing snapshot (migrated to content/financial-reviews)
 
 Re-check of 14 Nov 2026; corrections listed below.
 Corrected 14 November 2026: Snapshot moved unchanged from dist/financial-data.js to this folder on 14 Nov 2026 (no snapshot field changed). Lesson financialNotes rewritten to state group profit (profit before tax 615; profit for the year 366) and that the segment total 2,027 is a different measure.
