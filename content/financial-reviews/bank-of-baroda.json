@@ -1,0 +1,43 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated · bank group",
+  "coverage": "Reported business segments · no inter-segment eliminations shown",
+  "unit": "₹ crore",
+  "revenueLabel": "Total income",
+  "incomeDefinition": "Each segment’s income: interest earned on loans and investments plus fees and other income, before interest paid to depositors, operating costs and provisions. It is not sales. The filing shows no charges between segments, so the rows add up exactly to the group’s total income.",
+  "profitMetric": "Segment result",
+  "definition": "Each segment’s result as reported in the filing’s segment format (profit before tax), before ₹6,696.40 crore of unallocated expenditure net of unallocable income. The rows add up to ₹32,010.35 crore; after the unallocated amount, profit before tax in the segment note is ₹25,313.95 crore. It is not profit after tax.",
+  "rows": [
+    {
+      "name": "Treasury Operations",
+      "revenue": 34884.86,
+      "profit": 7802.52
+    },
+    {
+      "name": "Wholesale Banking",
+      "revenue": 50701.61,
+      "profit": 10929.62
+    },
+    {
+      "name": "Retail Banking",
+      "revenue": 62448.51,
+      "profit": 12545.45
+    },
+    {
+      "name": "Other Banking Operations",
+      "revenue": 8790.46,
+      "profit": 732.76
+    }
+  ],
+  "source": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d1879c38-5ae7-4aa3-b1fc-25dac07e439d.pdf",
+  "sourceLabel": "Audited results filed with BSE and NSE, 8 May 2026",
+  "location": "Consolidated segment reporting (Part A, business segments, year ended 31.03.2026 column) and audited consolidated financial results in the filing; scanned copy without usable PDF page numbers, checked against the BSE consolidated banking filing of 8 May 2026",
+  "checked": "14 November 2026",
+  "notes": "Source figures are in ₹ lakh and were divided by 100. Segment income of ₹156,825.44 crore equals the group’s total income. Group profit after tax: profit before tax ₹24,944.69 crore, less tax ₹5,467.53 crore, gives ₹19,477.16 crore; less minority shareholders’ share ₹223.84 crore, plus the share of associates ₹593.10 crore, gives ₹19,846.42 crore for the group. (The segment note’s ₹25,313.95 crore profit before tax already includes the associates and minority adjustments.) Retail Banking includes Digital Banking: income ₹1.73 crore and a result of −₹16.31 crore (a loss). One-off: for its staff-benefit calculation (actuarial), the bank moved to a newer mortality table (a table of expected lifespans) as a matter of prudence and provided ₹520.37 crore in the final quarter. In the bank’s own (standalone) results, a ₹1,293.83 crore tax provision was also reversed after favourable tax-authority orders on earlier years; the matching group-level amount could not be read cleanly in the scanned filing, so it is not stated. The bank says the new Labour Codes’ impact is not material. This does not show profit for any single loan or deposit product.",
+  "insight": "Retail Banking is the largest segment by both income and result. Corporate lending (Wholesale Banking) and Treasury Operations also add a lot, while costs not assigned to any segment are large enough to matter.",
+  "status": "segments",
+  "revenueTotal": 156825.44,
+  "revenueTotalLabel": "Total income (no inter-segment eliminations)",
+  "profitTotal": 32010.35,
+  "profitTotalLabel": "Total segment results before unallocated expenditure"
+}
