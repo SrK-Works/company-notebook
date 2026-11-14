@@ -1,0 +1,109 @@
+{
+  "order": 84,
+  "company": {
+    "id": "polycab-india",
+    "name": "Polycab India",
+    "ticker": "POLYCAB",
+    "sector": "Industrials & infrastructure",
+    "initial": "P",
+    "color": "#1971c2",
+    "bg": "#e7f1fb",
+    "tag": "Makes electrical wires and cables, fans, lights and switches, and builds power and fibre network projects",
+    "sources": [
+      [
+        "Polycab India Limited Integrated Annual Report 2025-26 website",
+        "https://polycab.com/ar2026"
+      ]
+    ],
+    "checked": "14 November 2026",
+    "reviewed": "14 November 2026",
+    "aliases": [
+      "Polycab India Limited",
+      "Polycab India Ltd",
+      "Polycab"
+    ],
+    "productSource": "https://nsearchives.nseindia.com/annual_reports/AR_29368_POLYCAB_2025_2026_A_20879015_09062026002210.pdf"
+  },
+  "offerings": [
+    {
+      "name": "Building wires",
+      "category": "Wire that runs inside walls to lights and sockets",
+      "image": "assets/products/polycab-building-wires.svg",
+      "url": "https://polycab.com/ar2026/cables-and-wires",
+      "kind": "illustration",
+      "alt": "Illustration of a coil of electrical wire — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Power cables",
+      "category": "Thick cables for factories, substations and grids",
+      "image": "assets/products/polycab-power-cables.svg",
+      "url": "https://polycab.com/ar2026/cables-and-wires",
+      "kind": "illustration",
+      "alt": "Illustration of the cross-section of a power cable — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Special-purpose cables",
+      "category": "Cables for railways, defence and electric vehicles",
+      "image": "assets/products/polycab-special-cables.svg",
+      "url": "https://polycab.com/ar2026/cables-and-wires",
+      "kind": "illustration",
+      "alt": "Illustration of a charging connector with its cable — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Optical-fibre cables",
+      "category": "Cables that carry data as light",
+      "image": "assets/products/polycab-optical-fibre.svg",
+      "url": "https://polycab.com/ar2026/cables-and-wires",
+      "kind": "illustration",
+      "alt": "Illustration of the cross-section of an optical-fibre cable — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Ceiling fans",
+      "category": "Energy-saving ceiling fans",
+      "image": "assets/products/polycab-fans.svg",
+      "url": "https://polycab.com/ar2026/fast-moving-electrical-goods",
+      "kind": "illustration",
+      "alt": "Illustration of a three-bladed ceiling fan seen from above — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Lights",
+      "category": "LED bulbs and luminaires",
+      "image": "assets/products/polycab-lights.svg",
+      "url": "https://polycab.com/ar2026/fast-moving-electrical-goods",
+      "kind": "illustration",
+      "alt": "Illustration of a light bulb — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Switches and sockets",
+      "category": "Wall switches and sockets for homes",
+      "image": "assets/products/polycab-switches.svg",
+      "url": "https://polycab.com/ar2026/fast-moving-electrical-goods",
+      "kind": "illustration",
+      "alt": "Illustration of a wall plate with four switches and a socket — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Conduits and pipes",
+      "category": "Plastic tubes that protect wiring",
+      "image": "assets/products/polycab-conduits.svg",
+      "url": "https://polycab.com/ar2026/fast-moving-electrical-goods",
+      "kind": "illustration",
+      "alt": "Illustration of a bent plastic conduit pipe — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Solar inverters",
+      "category": "Inverters for solar power plants",
+      "image": "assets/products/polycab-solar-inverter.svg",
+      "url": "https://polycab.com/ar2026/fast-moving-electrical-goods",
+      "kind": "illustration",
+      "alt": "Illustration of an inverter box with a sun — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Power and network projects",
+      "category": "Contract work to design and build power and fibre networks",
+      "image": "assets/products/polycab-epc-towers.svg",
+      "url": "https://polycab.com/ar2026/engineering-procurement-and-construction",
+      "kind": "illustration",
+      "alt": "Illustration of a transmission tower with power lines — conceptual picture; not a photograph or the company’s own image"
+    }
+  ]
+}

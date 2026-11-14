@@ -1,0 +1,252 @@
+{
+  "summary": "Polycab makes electrical wires and cables for homes, factories, solar plants and railways, plus fans, lights, switches and conduits. It also builds some power and fibre-optic network projects for customers.",
+  "description": "Electricity travels from power stations to sockets through cable. Polycab makes the wires that run inside walls, thicker power cables for factories and grids, special cables for railways, defence and electric vehicles, solar cables, and optical-fibre cables that carry data. It also makes products that connect to that wiring: ceiling fans, lights, switches and conduits (plastic tubes that protect wires). Separately, it works as a contractor, called EPC (engineering, procurement and construction), designing and building projects such as power lines and fibre networks. It makes at 26 plants in India.",
+  "money": "Polycab earns money by selling wires and cables to dealers and distributors, who sell on to electricians and builders, and directly to large buyers such as power utilities and developers (the report calls this institutional business). It sells fans, lights and switches the same way, and it is paid for contract projects it builds. Its biggest cost is metal, mainly copper and aluminium. Other costs are factories, advertising and delivery. A customer's payment is revenue, not profit.",
+  "customers": "Electricians, builders and households buy wires through dealers and distributors. Power companies, railways, solar developers and construction firms place large cable orders directly. For contract projects the customers named in the report are government-linked, such as the BharatNet programme that links village councils with optical-fibre cable. The report also says exports reach more than 90 countries.",
+  "drivers": "The price of copper and aluminium compared with the prices Polycab has agreed, how much cable and wire its dealer network sells, and how smoothly large contract projects are delivered.",
+  "groups": [
+    {
+      "title": "Building and flexible wires",
+      "examples": "The wire that runs inside a wall to a light or socket.",
+      "explanation": "Wires are thinner and sold in large numbers through dealers. The report lists flexible wires and building wires among its products, and says its dealer network has a 24-hour delivery system."
+    },
+    {
+      "title": "Power cables",
+      "examples": "Thick cables that carry power to a factory, a substation or a solar plant.",
+      "explanation": "The report lists low-voltage, medium-voltage and EHV (extra high voltage) power cables. Large orders come from utilities, developers and industry, and the report says cables grew faster than wires."
+    },
+    {
+      "title": "Special, solar and fibre cables",
+      "examples": "Cable for a railway coach, a solar farm or an electric vehicle, and optical-fibre cable for data.",
+      "explanation": "The report says special-purpose cables serve railways, defence and automotive customers, including electric vehicle makers. Solar cables, communication and data cables and optical-fibre cables are listed separately."
+    },
+    {
+      "title": "Fans, lights, switches and conduits",
+      "examples": "A ceiling fan, a home LED light, a wall switch and a protective plastic tube for wires.",
+      "explanation": "The report calls these FMEG (fast-moving electrical goods): products bought often and sold through dealers, online and stores. It also lists switchgear and solar products in this group."
+    },
+    {
+      "title": "Solar inverters",
+      "examples": "A large inverter at a solar farm.",
+      "explanation": "The report says Polycab added a large utility solar inverter for big solar projects, within its FMEG business. Typically, a solar inverter turns the direct current from solar panels into the alternating current used in buildings and the grid."
+    },
+    {
+      "title": "Contract projects (EPC)",
+      "examples": "A power distribution line or a rural fibre network built for a government customer.",
+      "explanation": "In EPC the customer pays Polycab to design, buy materials for and build a project, often using Polycab cable. The report says it bids selectively and does not expect this to become a large share of its work."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What do W&C, FMEG and EPC mean?",
+      "text": "W&C is wires and cables, the main business. FMEG is fast-moving electrical goods such as fans, lights and switches. EPC is engineering, procurement and construction, meaning contract project work."
+    },
+    {
+      "title": "What is Project Spring?",
+      "text": "It is the company's five-year plan to the financial year 2029-30. The report says it is built on six pillars and aims to use India's infrastructure upswing and rising global cable demand."
+    },
+    {
+      "title": "What are channel sales and institutional sales?",
+      "text": "Channel sales go through dealers and distributors to many small buyers. Institutional sales go directly to large accounts such as utilities, railways and developers."
+    },
+    {
+      "title": "What is hedging?",
+      "text": "The report says Polycab uses forward contracts. Typically, a forward contract fixes a price for metal or a currency in advance, so a later price swing does not change the cost already agreed."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Buy copper and aluminium",
+      "text": "Polycab buys metal, its main input, and uses forward contracts to fix part of the price in advance."
+    },
+    {
+      "title": "Make wires and cables",
+      "text": "At its plants the metal is drawn into wire, insulated and wound on drums. The report says it makes much of what it needs itself, which it calls backward integration."
+    },
+    {
+      "title": "Sell through dealers or directly",
+      "text": "Dealers and distributors sell to electricians and builders, with delivery in 24 hours. Large buyers such as utilities and developers order directly."
+    },
+    {
+      "title": "Build contract projects",
+      "text": "For EPC work, Polycab designs and builds the project over a period that can run for years, and timing can move revenue from one period to another."
+    },
+    {
+      "title": "Bill and collect",
+      "text": "Revenue (what Polycab bills), profit (what is left after costs) and cash received are different things. The notes list trade receivables, which are bills not yet paid."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "One business is most of the company",
+      "text": "The report says wires and cables were 87 percent of revenue, fans, lights and similar goods 7 percent and EPC 6 percent. Results depend mostly on the cable business."
+    },
+    {
+      "title": "Contract work helps sell cable",
+      "text": "The report describes EPC as a way of building demand for its wires and cables, because projects use its own cable. It says EPC is not expected to grow into a large share of the business."
+    },
+    {
+      "title": "Selling by industry instead of by product",
+      "text": "Under Project Spring the company moved to an industry-focused model, selling to infrastructure, industry, real estate and utilities with solutions suited to each, rather than just offering products."
+    },
+    {
+      "title": "Metal prices pass through to results",
+      "text": "Copper and aluminium prices move often. The report says it hedges with forward contracts and takes timely pricing actions, so profit depends on how well these two match."
+    }
+  ],
+  "watch": [
+    [
+      "How much of revenue growth is volume rather than higher metal prices?",
+      "When copper becomes dearer, cable prices usually rise and revenue grows even if the same length is sold.",
+      "Compare reported revenue growth with commentary on volume growth and copper prices in each results release."
+    ],
+    [
+      "Are fans, lights and switches becoming reliably profitable?",
+      "The report says the business turned profitable and sets a target range for its profit margin by FY 2029-30.",
+      "Compare the FMEG segment's profit as a share of its revenue each year with the target the company gives."
+    ],
+    [
+      "What happens to contract revenue once the BharatNet projects start?",
+      "The report says work has started and revenue is expected to scale up, but project timing has already moved revenue between years.",
+      "Check EPC revenue and profit margin in each results release and read the notes on contract assets."
+    ],
+    [
+      "Are customers paying on time?",
+      "The notes show trade receivables, including some marked as credit impaired, meaning payment is doubtful.",
+      "Read the trade receivables note in the financial statements and compare it across several years against revenue."
+    ],
+    [
+      "Will US tariffs keep holding back cable exports?",
+      "The report says tariffs in the United States hurt pricing competitiveness and made some demand cautious.",
+      "Read the cable export commentary each year and note the export share of revenue and the US distribution changes."
+    ]
+  ],
+  "risks": [
+    [
+      "Swings in metal prices and currency",
+      "The report names currency and the price of metals such as copper and aluminium as a risk. If prices jump before a sale is agreed, the profit on that order can shrink."
+    ],
+    [
+      "Strong competition",
+      "The report cites established players and new entrants using aggressive growth strategies, which can force price cuts or higher spending on advertising and dealers."
+    ],
+    [
+      "War and trade disputes",
+      "The report lists geopolitical uncertainty and war as a risk to sourcing, raw material prices and export markets."
+    ],
+    [
+      "Falling short on the five-year plan",
+      "The report lists inadequate monitoring of the goals of Project Spring as a risk. A plan that is missed can leave capacity and spending ahead of sales."
+    ]
+  ],
+  "context": [
+    "BharatNet contracts won in 2025-26",
+    "The report says Polycab won significant contracts under BharatNet Phase-III to build optical-fibre networks across states including Karnataka, Goa, Bihar and Tamil Nadu. Work is to run over three years, followed by ten years of operation and maintenance, and revenue is expected to scale up from the next financial year. The May 2026 press release says consolidated revenue for January to March 2026 was 27 percent higher than in the same quarter a year earlier."
+  ],
+  "sources": [
+    [
+      "Polycab India Limited Integrated Annual Report 2025-26 (NSE-filed copy)",
+      "https://nsearchives.nseindia.com/annual_reports/AR_29368_POLYCAB_2025_2026_A_20879015_09062026002210.pdf"
+    ],
+    [
+      "Polycab India Limited press release, 6 May 2026, results for the quarter and year ended 31 March 2026",
+      "https://cms.polycab.com/media/b3ol53lo/press-release-q4fy26.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "Polycab's revenue, profit and segment figures are pending verification against the filed results, so none are shown here. The report's figures are consolidated, meaning Polycab with its subsidiaries and its share of one joint venture, so scope must be stated with every number."
+    }
+  ],
+  "stepsTitle": "From metal on a coil to a switched-on building.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "It makes wires, cables, fans, lights, switches and conduits, and builds power and fibre-optic network projects as a contractor."
+    },
+    {
+      "title": "Who pays",
+      "text": "Dealers and distributors buy most products for electricians and builders. Utilities, railways and developers buy big cable orders directly."
+    },
+    {
+      "title": "How it earns",
+      "text": "It sells cables and wires by volume, sells fans, lights and switches under its brand, and is paid for contract projects."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Copper and aluminium are the main cost, followed by factories, advertising to build its brand, and storing and delivering goods."
+    }
+  ],
+  "helps": [
+    {
+      "title": "A large share of the organised cable market",
+      "text": "Based on industry estimates, the report says Polycab's share of the organised wires and cables market improved to about 30 to 31 percent. A larger share can help it buy and sell on better terms."
+    },
+    {
+      "title": "Making much of its own inputs",
+      "text": "The report says its deep backward integration lets it control inputs, processes and outputs, which supports quality and cost."
+    },
+    {
+      "title": "Demand from power, solar and building work",
+      "text": "The report expects investment in the power sector, renewable energy and real estate to keep driving demand for cables and wires. This is the company's view, not a forecast we can verify."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "US tariffs on exports",
+      "text": "The report says evolving tariff measures in the United States hurt pricing competitiveness for its cable exports, and it revamped its US distribution."
+    },
+    {
+      "title": "Contract work can slip",
+      "text": "The report says EPC revenue fell because of the timing of project work, so a project that starts later or finishes later moves its revenue into another year."
+    },
+    {
+      "title": "Margins can narrow when orders change mix",
+      "text": "The press release says the cables business's margin fell year on year because of a shift towards higher institutional sales, which are large direct orders, and operating deleverage, meaning costs that do not fall when sales slow."
+    }
+  ],
+  "checked": "14 November 2026",
+  "products": [
+    [
+      "Building wires",
+      "Wire that runs inside walls to lights and sockets"
+    ],
+    [
+      "Power cables",
+      "Thick cables for factories, substations and grids"
+    ],
+    [
+      "Special-purpose cables",
+      "Cables for railways, defence and electric vehicles"
+    ],
+    [
+      "Optical-fibre cables",
+      "Cables that carry data as light"
+    ],
+    [
+      "Ceiling fans",
+      "Energy-saving ceiling fans"
+    ],
+    [
+      "Lights",
+      "LED bulbs and luminaires"
+    ],
+    [
+      "Switches and sockets",
+      "Wall switches and sockets for homes"
+    ],
+    [
+      "Conduits and pipes",
+      "Plastic tubes that protect wiring"
+    ],
+    [
+      "Solar inverters",
+      "Inverters for solar power plants"
+    ],
+    [
+      "Power and network projects",
+      "Contract work to design and build power and fibre networks"
+    ]
+  ]
+}
