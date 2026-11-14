@@ -1,0 +1,24 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited consolidated financial statements in the annual report",
+  "checked": "14 November 2026",
+  "coverage": "Whole-group totals · one reported business segment",
+  "profitMetric": "Net profit for the year",
+  "definition": "Profit for the year after all expenses, exceptional items and tax, and including DLF’s share of the profit of its joint ventures and associates. It is not operating profit or cash flow.",
+  "rows": [
+    {
+      "name": "DLF · whole group",
+      "revenue": 8194.02,
+      "profit": 4414.68
+    }
+  ],
+  "source": "https://dlf.in/pdf-copporate/July_11_Annual_Report.pdf",
+  "location": "DLF Limited annual report 2025–26 (copy filed with the exchanges): consolidated statement of profit and loss, PDF page 180 (printed page 357); note 28 revenue from operations, PDF page 208; note 55 exceptional items, PDF page 236; note 49 segment information, PDF page 235 (one reportable segment)",
+  "notes": "Source figures are in ₹ lakh and were divided by 100; the net profit of ₹441,467.50 lakh is exactly ₹4,414.675 crore, shown rounded as ₹4,414.68 crore. Revenue is revenue from operations and excludes other income of ₹1,622.02 crore. Consolidated means DLF and its subsidiaries; its joint ventures and associates (including DLF Cyber City Developers Limited, which holds many offices and malls) are not added line by line, so their sales and costs are not in the revenue above. DLF’s share of their profit, ₹1,792.83 crore, is included in net profit. Profit is after exceptional items of net +₹202.92 crore: a ₹235.19 crore reversal of a loss written down in earlier years on a loan and investment in a joint venture, after the venture agreed in a consent award to repay ₹801.00 crore (₹251.10 crore received so far), less ₹32.27 crore of extra staff-benefit cost for past service after the new Labour Codes. Other income also includes ₹411.72 crore of interest from the same settlement, mostly earned and written off in earlier years. Tax includes a ₹38.33 crore credit for earlier years. Revenue includes ₹352.56 crore from selling an investment property. DLF reports one business segment, colonisation and real estate, so it does not disclose profit for homes, offices, malls or hotels. The results presentation uses a management format with different headline numbers; the audited statements are used here.",
+  "insight": "DLF reports one business segment, so these totals cannot show profit from homes against rent. About ₹1,793 crore of the profit is DLF’s share of its joint ventures, which are not added line by line.",
+  "status": "totals",
+  "revenueTotal": 8194.02,
+  "profitTotal": 4414.68
+}
