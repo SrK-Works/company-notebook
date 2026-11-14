@@ -1,0 +1,43 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "coverage": "Reported business segments · gross segment revenue before inter-segment sales",
+  "unit": "₹ crore",
+  "revenueLabel": "Segment revenue",
+  "incomeDefinition": "Each segment’s revenue, including power and services sold to Tata Power’s other segments, plus the net movement in regulatory deferral balances (amounts a regulator allows Tata Power to recover from customers later through tariffs, booked now). It is before inter-segment amounts are removed.",
+  "profitMetric": "Segment result",
+  "definition": "Each segment’s profit before finance costs, exceptional items, unallocated items and tax, including the net movement in regulatory deferral balances. The rows add up to ₹10,599.41 crore. It is not profit after tax.",
+  "rows": [
+    {
+      "name": "Thermal & Hydro",
+      "revenue": 11635.93,
+      "profit": 1964.61
+    },
+    {
+      "name": "Renewables",
+      "revenue": 15027.82,
+      "profit": 4340.93
+    },
+    {
+      "name": "Transmission and Distribution",
+      "revenue": 41338.59,
+      "profit": 4398.59
+    },
+    {
+      "name": "Others",
+      "revenue": 431.79,
+      "profit": -104.72
+    }
+  ],
+  "source": "https://tatapower.com/company-financials/quarterly-reports/fy-2025---2026/Consolidated%20and%20Standalone%20Financial%20Results%20for%20the%20Year%20ended%2031st%20March%202026.pdf",
+  "sourceLabel": "Audited results filed with BSE and NSE, 12 May 2026",
+  "location": "PDF page 14 (consolidated segment information, year ended 31-Mar-26 column), PDF page 10 (consolidated results) and PDF page 16 (notes); no printed page numbers. Checked against the BSE consolidated Ind AS filing of 12 May 2026",
+  "checked": "14 November 2026",
+  "notes": "Segment revenue of ₹68,434.13 crore less inter-segment sales of ₹4,818.52 crore gives ₹63,615.61 crore, which is revenue from operations of ₹62,428.59 crore plus ₹1,252.04 crore of net regulatory deferral movement, less ₹65.02 crore of unallocable revenue. Segment results of ₹10,599.41 crore, less finance costs of ₹5,256.79 crore and an exceptional item of ₹94.17 crore, plus unallocated income (net) of ₹1,387.54 crore, give profit before tax of ₹6,635.99 crore. Group profit after tax, including associates and joint ventures (₹707.87 crore), is ₹5,117.56 crore, of which ₹3,747.19 crore belongs to Tata Power’s shareholders and ₹1,370.37 crore to minority holders. Items that moved profit: an exceptional ₹94.17 crore write-down of an investment in a joint venture held for sale; a ₹250 crore tax asset recognised on earlier business losses; regulatory assets of ₹751 crore, less tax expense of ₹189 crore, recognised in Delhi after tariff true-up orders; and ₹74 crore of Labour Codes expense, ₹62 crore of which the company treats as recoverable through tariffs. The company has not provided for an arbitration award of USD 490,320,000 plus interest (it has appealed). Thermal & Hydro, Renewables and Transmission and Distribution are the filing’s own segment names; Renewables includes rooftop solar, EV charging and solar cell and module manufacturing. Tata Power does not report profit by individual plant or product.",
+  "insight": "Transmission and Distribution brings in most of the segment revenue, while Renewables earns almost as much segment result on far less revenue. These are segment results, not group profit after tax, and regulatory items and tax credits also shaped this year’s profit.",
+  "status": "segments",
+  "revenueTotal": 68434.13,
+  "revenueTotalLabel": "Gross segment revenue before inter-segment sales",
+  "profitTotal": 10599.41,
+  "profitTotalLabel": "Total segment results before finance costs and unallocated items"
+}
