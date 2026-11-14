@@ -1,0 +1,85 @@
+{
+  "order": 84,
+  "company": {
+    "id": "siemens",
+    "name": "Siemens",
+    "ticker": "SIEMENS",
+    "sector": "Industrials & infrastructure",
+    "initial": "S",
+    "color": "#00798c",
+    "bg": "#e5f6f9",
+    "tag": "Sells factory automation, railway equipment and electrical products for buildings and grids",
+    "sources": [
+      [
+        "Siemens Limited investor relations page",
+        "https://www.siemens.com/en-gb/company/investor-relations-india/"
+      ]
+    ],
+    "productSource": "https://assets.new.siemens.com/siemens/assets/api/uuid:6d32b927-bec4-43f3-bbee-d617b2888331/Annual-Report-Siemens-Limited-2024-26.pdf",
+    "checked": "14 November 2026",
+    "reviewed": "14 November 2026",
+    "aliases": [
+      "Siemens Limited",
+      "Siemens Ltd",
+      "Siemens India"
+    ]
+  },
+  "offerings": [
+    {
+      "name": "Factory automation",
+      "category": "Controllers and drives that run factory machines",
+      "image": "assets/products/siemens-factory-automation.svg",
+      "url": "https://assets.new.siemens.com/siemens/assets/api/uuid:6d32b927-bec4-43f3-bbee-d617b2888331/Annual-Report-Siemens-Limited-2024-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a controller with several modules — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Industrial software",
+      "category": "Software to design and run factories, including digital twins",
+      "image": "assets/products/siemens-industrial-software.svg",
+      "url": "https://assets.new.siemens.com/siemens/assets/api/uuid:6d32b927-bec4-43f3-bbee-d617b2888331/Annual-Report-Siemens-Limited-2024-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a computer screen showing a 3D box — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Electric locomotives",
+      "category": "Electric locomotives for Indian Railways",
+      "image": "assets/products/siemens-electric-locomotives.svg",
+      "url": "https://assets.new.siemens.com/siemens/assets/api/uuid:6d32b927-bec4-43f3-bbee-d617b2888331/Annual-Report-Siemens-Limited-2024-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of an electric locomotive with a roof pantograph — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Railway signalling",
+      "category": "Systems that control train movements safely",
+      "image": "assets/products/siemens-railway-signalling.svg",
+      "url": "https://assets.new.siemens.com/siemens/assets/api/uuid:6d32b927-bec4-43f3-bbee-d617b2888331/Annual-Report-Siemens-Limited-2024-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a railway signal beside the track — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Low-voltage switchboards",
+      "category": "Panels that distribute and protect electricity in buildings and factories",
+      "image": "assets/products/siemens-low-voltage-switchboards.svg",
+      "url": "https://assets.new.siemens.com/siemens/assets/api/uuid:6d32b927-bec4-43f3-bbee-d617b2888331/Annual-Report-Siemens-Limited-2024-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of an electrical switchboard cabinet — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Busducts and measuring devices",
+      "category": "Enclosed metal bars that carry electricity inside buildings, and meters",
+      "image": "assets/products/siemens-busducts-and-measuring-devices.svg",
+      "url": "https://assets.new.siemens.com/siemens/assets/api/uuid:6d32b927-bec4-43f3-bbee-d617b2888331/Annual-Report-Siemens-Limited-2024-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a busduct with tap-off boxes — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Building controls",
+      "category": "Software and controls to help buildings use less energy",
+      "image": "assets/products/siemens-smart-building-controls.svg",
+      "url": "https://assets.new.siemens.com/siemens/assets/api/uuid:6d32b927-bec4-43f3-bbee-d617b2888331/Annual-Report-Siemens-Limited-2024-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a building and a dial — conceptual picture; not a photograph or the company’s own image"
+    }
+  ]
+}

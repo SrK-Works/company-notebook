@@ -1,0 +1,231 @@
+{
+  "summary": "Siemens Limited sells factory automation and software, electric locomotives and railway signalling, and electrical equipment and controls for buildings, data centres and power networks in India.",
+  "description": "Siemens Limited is the listed Indian company of the German Siemens group, whose parent is Siemens AG (typically, AG marks a joint-stock company in German-speaking countries). It has three businesses: Digital Industries, which sells the controllers, drives and software that run factories; Mobility, which builds electric locomotives and railway signalling and electrification systems; and Smart Infrastructure, which sells electrical equipment and controls for buildings, data centres and power networks. Its former Energy business was split off in 2025 into a separate listed company, so this lesson covers Siemens Limited only.",
+  "money": "Siemens Limited earns money by selling products such as controllers and switchboards, by selling software and services, and by winning large projects. In a project such as railway signalling or locomotives it designs, builds, installs and then often maintains the system for years. Costs include materials and components, factory and engineering staff, and licence fees paid to its parent, Siemens AG. A customer's payment is not profit, and money for a long project is usually collected in stages.",
+  "customers": "Factories and machine builders buy automation and software. Indian Railways and metro rail bodies buy locomotives and signalling. Data-centre operators, ports, power utilities, metals and oil-and-gas companies and building owners buy electrical equipment and controls. A Siemens group company also gave it an internal order to make train parts called bogies (the wheeled frames under a rail vehicle), traction motors and gearboxes.",
+  "drivers": "How many large rail and infrastructure projects are tendered and won, how much factories and data centres spend on automation and electrical equipment, and the cost of materials and imported components.",
+  "groups": [
+    {
+      "title": "Factory automation and software",
+      "examples": "Controllers that run machines, electric drives, industrial software and digital twins.",
+      "explanation": "This is the Digital Industries business. The report says it supplies industrial software, automation and drive technologies for manufacturers. Typically, a digital twin is a computer model of a real machine or factory used to test changes before making them."
+    },
+    {
+      "title": "Electric locomotives",
+      "examples": "A 9,000 horsepower electric locomotive for Indian Railways.",
+      "explanation": "The report says it won a January 2023 award to design, build and maintain 1,200 electric locomotives of this type, and that the first was flagged off from its Dahod factory in Gujarat."
+    },
+    {
+      "title": "Railway signalling and electrification",
+      "examples": "Systems that tell trains when to go and stop, and equipment that powers electric rail lines.",
+      "explanation": "The report names a Siemens-led group that will supply signalling and telecommunication technology for India's first high-speed rail line between Mumbai and Ahmedabad, and signalling for Nagpur Metro, plus electrification of a rail line in Sikkim."
+    },
+    {
+      "title": "Low-voltage electrical products",
+      "examples": "Switchboards, power distribution products, control products, protection relays, busducts and busbar trunking, and measuring devices.",
+      "explanation": "These are made by a 99.22% owned subsidiary, C&S Electric Limited. Typically, low-voltage means the ordinary electricity used inside buildings and factories, and a busduct is an enclosed metal bar that carries it. Typically, a protection relay is a device that switches power off when a fault occurs."
+    },
+    {
+      "title": "Building and grid technology",
+      "examples": "Software and controls for buildings, grids and ports, called Building X, Electrification X and Gridscale X.",
+      "explanation": "This is the Smart Infrastructure business. The report says demand came from power utilities and renewable energy, data centres and ports, and from metals and oil-and-gas firms. It also says it helps buildings use less energy."
+    }
+  ],
+  "basics": [
+    {
+      "title": "Which Siemens is this?",
+      "text": "This is Siemens Limited (NSE symbol SIEMENS). Siemens AG and its subsidiaries hold 74.07% of it. Siemens Energy India Limited is a different, separately listed company (see the context below), and it is not part of Siemens Limited's continuing business."
+    },
+    {
+      "title": "Why does the latest report cover 18 months?",
+      "text": "The Board changed the financial year from October to September into April to March. The latest report therefore covers 1 October 2024 to 31 March 2026, which is 18 months. The report warns it cannot strictly be compared with the earlier 12-month year."
+    },
+    {
+      "title": "What are orders and the order backlog?",
+      "text": "The report tracks new orders, which are contracts won, and the order backlog, which are contracts won but not yet delivered. Typically, orders become sales only as the work is done, so a large order mainly helps later years."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Win the order",
+      "text": "Big rail projects are won by tender, a formal bidding process run by the customer. Smaller products such as switchboards are sold to factories, builders and dealers."
+    },
+    {
+      "title": "Design and build",
+      "text": "Engineers design the locomotive, signalling system or equipment, and factories in India build it."
+    },
+    {
+      "title": "Install and test",
+      "text": "For signalling and rail projects the work includes installation, testing and commissioning on the customer's site."
+    },
+    {
+      "title": "Maintain for years",
+      "text": "The report says some contracts include long-term maintenance, so work continues after delivery and brings repeat income."
+    },
+    {
+      "title": "Invoice and collect",
+      "text": "Typically, large projects are billed in stages as work is done. Revenue, profit and cash received are three separate things and arrive at different times."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "A member of a global group",
+      "text": "Siemens AG and its subsidiaries hold 74.07% of shares. The report says the company pays licence fees to Siemens AG and received an internal work allocation from a group company, so some business depends on decisions made inside the group."
+    },
+    {
+      "title": "Two subsidiaries with their own businesses",
+      "text": "The report names Siemens Rail Automation Private Limited, a wholly owned company making railway signalling equipment, and C&S Electric Limited, which makes low-voltage products. It says they account for 1.32% and 9.95% of consolidated turnover, meaning the group's combined sales."
+    },
+    {
+      "title": "Public bodies are major buyers",
+      "text": "Large orders in the report come from rail and metro bodies, such as Indian Railways and metro rail companies. They decide when to tender and how much to buy, which makes orders arrive unevenly."
+    },
+    {
+      "title": "Large projects are often shared",
+      "text": "The report says the high-speed rail signalling contract went to a consortium, a group of companies bidding together, that includes Dineshchandra R. Agrawal Infracon Private Limited, Siemens Limited and Siemens Mobility GmbH. Siemens Limited's own share is only part of the contract."
+    }
+  ],
+  "watch": [
+    [
+      "How much of the business is large, tendered rail projects?",
+      "The report says Mobility's order position depends largely on when opportunities are tendered, so results can move with the public tender calendar.",
+      "Read the Mobility section each year and compare orders won with sales delivered, noting what is said about tenders."
+    ],
+    [
+      "What is left after the energy split and the motors sale?",
+      "Energy has already left and the Low Voltage Motors business is to be sold, so past numbers include businesses that will not remain.",
+      "Compare only continuing businesses between years, using the discontinued-operations notes in the financial statements."
+    ],
+    [
+      "How are dealings with the parent group changing?",
+      "The report says expected dealings with Siemens AG may exceed the thresholds that require shareholder approval.",
+      "Read the related-party transaction notes and the notice of the annual general meeting each year."
+    ],
+    [
+      "Is factory spending on automation recovering?",
+      "The report says ordering of industrial automation products slowed as demand normalised after shorter delivery times.",
+      "Compare Digital Industries orders and the management comments each year, and note what is said about customers' spending plans."
+    ],
+    [
+      "How quickly does the order backlog turn into sales?",
+      "A large backlog is only useful if work is delivered on schedule, and rail projects run over many years.",
+      "Compare the backlog with sales in each report, and read what is said about delivery of the locomotive and signalling projects."
+    ]
+  ],
+  "risks": [
+    [
+      "Timing of public tenders",
+      "The report says the Mobility business's order position is largely dependent on when opportunities are tendered, so a delay by a customer can delay orders."
+    ],
+    [
+      "Rising costs and exchange rates",
+      "The report says tariffs, commodity price increases and exchange-rate swings have pushed up inflation, which raises the cost of materials and imported parts."
+    ],
+    [
+      "Disrupted supplies",
+      "The report says geopolitical disruptions, particularly in West Asia, have affected input supplies and supply chains."
+    ],
+    [
+      "Softer factory activity",
+      "The report says manufacturing activity showed signs of softening towards March 2026, weighed down by cost pressures and global uncertainty, which can reduce spending on automation."
+    ]
+  ],
+  "context": [
+    "Energy business split off and listed in June 2025",
+    "Siemens Energy India Limited, the former Energy business, was listed in June 2025 and shareholders of Siemens Limited received one share of it for each Siemens Limited share. The Energy business ran as a segment of Siemens Limited until 28 February 2025."
+  ],
+  "sources": [
+    [
+      "Siemens Limited Annual Report 2024-26 (18 months to 31 March 2026)",
+      "https://assets.new.siemens.com/siemens/assets/api/uuid:6d32b927-bec4-43f3-bbee-d617b2888331/Annual-Report-Siemens-Limited-2024-26.pdf"
+    ],
+    [
+      "Siemens Limited annual reports page",
+      "https://www.siemens.com/en-gb/company/investor-relations-india/annual-reports/"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "Siemens Limited's revenue, profit and segment figures are pending verification against the filed results, so none are shown here. The latest report covers 18 months, from 1 October 2024 to 31 March 2026, so it cannot be compared directly with a 12-month year."
+    }
+  ],
+  "stepsTitle": "From winning an order to years of maintenance.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "It sells factory automation and software, electric locomotives and railway signalling, and electrical equipment and controls for buildings and power networks."
+    },
+    {
+      "title": "Who pays",
+      "text": "Factories, Indian Railways and metro bodies, data-centre operators, power utilities and building owners."
+    },
+    {
+      "title": "How it earns",
+      "text": "It sells equipment and software above their cost, wins large projects, and earns from services and maintenance after installation."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Materials and components, engineers and factory staff, and licence fees paid to its parent."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Rail modernisation",
+      "text": "The report says the Union Budget 2026-27 reinforces rail as a backbone of national infrastructure, from high-speed lines to urban transport, and that its signalling, electrification and rolling stock are made in India."
+    },
+    {
+      "title": "Data centres and power networks",
+      "text": "The report says India's data-centre capacity is expected to more than double by 2030, and that investment in power distribution, renewables and charging stations supports demand for its electrical products."
+    },
+    {
+      "title": "Local manufacturing",
+      "text": "The report says about 90% of the technology in its new locomotives is made in India. Local making fits the focus on products made in India for India and the world."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Cooler demand for factory automation",
+      "text": "The report says ordering of industrial automation products slowed as demand normalised after shorter delivery times, so growth in that business can be uneven."
+    },
+    {
+      "title": "A smaller business after the split and sale",
+      "text": "Energy has left, and the report says its Board approved selling the Low Voltage Motors business to Innomotics India Private Limited. At report date the sale had not yet been completed."
+    },
+    {
+      "title": "Long project cycles",
+      "text": "Typically, locomotive and signalling projects run over many years, so money is spent on design and building well before it is fully collected."
+    }
+  ],
+  "checked": "14 November 2026",
+  "products": [
+    [
+      "Factory automation",
+      "Controllers and drives that run factory machines"
+    ],
+    [
+      "Industrial software",
+      "Software to design and run factories, including digital twins"
+    ],
+    [
+      "Electric locomotives",
+      "Electric locomotives for Indian Railways"
+    ],
+    [
+      "Railway signalling",
+      "Systems that control train movements safely"
+    ],
+    [
+      "Low-voltage switchboards",
+      "Panels that distribute and protect electricity in buildings and factories"
+    ],
+    [
+      "Busducts and measuring devices",
+      "Enclosed metal bars that carry electricity inside buildings, and meters"
+    ],
+    [
+      "Building controls",
+      "Software and controls to help buildings use less energy"
+    ]
+  ]
+}

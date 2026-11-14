@@ -6501,6 +6501,76 @@
       "kind": "illustration",
       "alt": "Process development — conceptual illustration; not a photograph or product image",
       "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "siemens",
+      "name": "Factory automation",
+      "category": "Controllers and drives that run factory machines",
+      "image": "assets/products/siemens-factory-automation.svg",
+      "url": "https://assets.new.siemens.com/siemens/assets/api/uuid:6d32b927-bec4-43f3-bbee-d617b2888331/Annual-Report-Siemens-Limited-2024-26.pdf",
+      "kind": "illustration",
+      "alt": "Factory automation — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "siemens",
+      "name": "Industrial software",
+      "category": "Software to design and run factories, including digital twins",
+      "image": "assets/products/siemens-industrial-software.svg",
+      "url": "https://assets.new.siemens.com/siemens/assets/api/uuid:6d32b927-bec4-43f3-bbee-d617b2888331/Annual-Report-Siemens-Limited-2024-26.pdf",
+      "kind": "illustration",
+      "alt": "Industrial software — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "siemens",
+      "name": "Electric locomotives",
+      "category": "Electric locomotives for Indian Railways",
+      "image": "assets/products/siemens-electric-locomotives.svg",
+      "url": "https://assets.new.siemens.com/siemens/assets/api/uuid:6d32b927-bec4-43f3-bbee-d617b2888331/Annual-Report-Siemens-Limited-2024-26.pdf",
+      "kind": "illustration",
+      "alt": "Electric locomotives — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "siemens",
+      "name": "Railway signalling",
+      "category": "Systems that control train movements safely",
+      "image": "assets/products/siemens-railway-signalling.svg",
+      "url": "https://assets.new.siemens.com/siemens/assets/api/uuid:6d32b927-bec4-43f3-bbee-d617b2888331/Annual-Report-Siemens-Limited-2024-26.pdf",
+      "kind": "illustration",
+      "alt": "Railway signalling — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "siemens",
+      "name": "Low-voltage switchboards",
+      "category": "Panels that distribute and protect electricity in buildings and factories",
+      "image": "assets/products/siemens-low-voltage-switchboards.svg",
+      "url": "https://assets.new.siemens.com/siemens/assets/api/uuid:6d32b927-bec4-43f3-bbee-d617b2888331/Annual-Report-Siemens-Limited-2024-26.pdf",
+      "kind": "illustration",
+      "alt": "Low-voltage switchboards — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "siemens",
+      "name": "Busducts and measuring devices",
+      "category": "Enclosed metal bars that carry electricity inside buildings, and meters",
+      "image": "assets/products/siemens-busducts-and-measuring-devices.svg",
+      "url": "https://assets.new.siemens.com/siemens/assets/api/uuid:6d32b927-bec4-43f3-bbee-d617b2888331/Annual-Report-Siemens-Limited-2024-26.pdf",
+      "kind": "illustration",
+      "alt": "Busducts and measuring devices — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "siemens",
+      "name": "Building controls",
+      "category": "Software and controls to help buildings use less energy",
+      "image": "assets/products/siemens-smart-building-controls.svg",
+      "url": "https://assets.new.siemens.com/siemens/assets/api/uuid:6d32b927-bec4-43f3-bbee-d617b2888331/Annual-Report-Siemens-Limited-2024-26.pdf",
+      "kind": "illustration",
+      "alt": "Building controls — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
     }
   ]
 }
