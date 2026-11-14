@@ -6651,6 +6651,96 @@
       "kind": "illustration",
       "alt": "Medicated lozenges — conceptual illustration; not a photograph or product image",
       "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "abb-india",
+      "name": "Electric motors",
+      "category": "Motors and generators for factories, water and rail",
+      "image": "assets/products/abb-motors.svg",
+      "url": "https://library.e.abb.com/public/93c9bda6800643c789fc96fbb964ae1b/ABB%20India%20Limited%20Integrated%20Annual%20Report%202025.pdf",
+      "kind": "illustration",
+      "alt": "Electric motors — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "abb-india",
+      "name": "Drives",
+      "category": "Control boxes that set how fast a motor turns",
+      "image": "assets/products/abb-drives.svg",
+      "url": "https://library.e.abb.com/public/93c9bda6800643c789fc96fbb964ae1b/ABB%20India%20Limited%20Integrated%20Annual%20Report%202025.pdf",
+      "kind": "illustration",
+      "alt": "Drives — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "abb-india",
+      "name": "Switchgear",
+      "category": "Cabinets that connect, cut off and protect power",
+      "image": "assets/products/abb-switchgear.svg",
+      "url": "https://library.e.abb.com/public/93c9bda6800643c789fc96fbb964ae1b/ABB%20India%20Limited%20Integrated%20Annual%20Report%202025.pdf",
+      "kind": "illustration",
+      "alt": "Switchgear — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "abb-india",
+      "name": "Modular substations",
+      "category": "Prebuilt power distribution buildings",
+      "image": "assets/products/abb-substations.svg",
+      "url": "https://library.e.abb.com/public/93c9bda6800643c789fc96fbb964ae1b/ABB%20India%20Limited%20Integrated%20Annual%20Report%202025.pdf",
+      "kind": "illustration",
+      "alt": "Modular substations — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "abb-india",
+      "name": "Wall switches",
+      "category": "Modular switches for homes and offices",
+      "image": "assets/products/abb-wall-switches.svg",
+      "url": "https://library.e.abb.com/public/93c9bda6800643c789fc96fbb964ae1b/ABB%20India%20Limited%20Integrated%20Annual%20Report%202025.pdf",
+      "kind": "illustration",
+      "alt": "Wall switches — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "abb-india",
+      "name": "Robots",
+      "category": "Robot arms and machine automation for factories",
+      "image": "assets/products/abb-robot-arm.svg",
+      "url": "https://library.e.abb.com/public/93c9bda6800643c789fc96fbb964ae1b/ABB%20India%20Limited%20Integrated%20Annual%20Report%202025.pdf",
+      "kind": "illustration",
+      "alt": "Robots — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "abb-india",
+      "name": "Train propulsion",
+      "category": "Propulsion systems for railways and metros",
+      "image": "assets/products/abb-train-propulsion.svg",
+      "url": "https://library.e.abb.com/public/93c9bda6800643c789fc96fbb964ae1b/ABB%20India%20Limited%20Integrated%20Annual%20Report%202025.pdf",
+      "kind": "illustration",
+      "alt": "Train propulsion — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "abb-india",
+      "name": "Plant automation",
+      "category": "Control and monitoring systems for plants and pipelines",
+      "image": "assets/products/abb-plant-automation.svg",
+      "url": "https://library.e.abb.com/public/93c9bda6800643c789fc96fbb964ae1b/ABB%20India%20Limited%20Integrated%20Annual%20Report%202025.pdf",
+      "kind": "illustration",
+      "alt": "Plant automation — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "abb-india",
+      "name": "Flow meters",
+      "category": "Instruments that measure flow in pipes",
+      "image": "assets/products/abb-flow-meters.svg",
+      "url": "https://library.e.abb.com/public/93c9bda6800643c789fc96fbb964ae1b/ABB%20India%20Limited%20Integrated%20Annual%20Report%202025.pdf",
+      "kind": "illustration",
+      "alt": "Flow meters — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
     }
   ]
 }

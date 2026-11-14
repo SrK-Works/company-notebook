@@ -1,0 +1,101 @@
+{
+  "order": 81,
+  "company": {
+    "id": "abb-india",
+    "name": "ABB India",
+    "ticker": "ABB",
+    "sector": "Industrials & infrastructure",
+    "initial": "A",
+    "color": "#d6001c",
+    "bg": "#fdecee",
+    "tag": "Makes motors, drives, switchgear and plant control systems that carry and control electricity",
+    "sources": [
+      [
+        "ABB India Limited investor relations, annual report 2025 page",
+        "https://new.abb.com/indian-subcontinent/investors/abb-india-limited-integrated-annual-report-2025"
+      ]
+    ],
+    "checked": "14 November 2026",
+    "reviewed": "14 November 2026",
+    "aliases": [
+      "ABB India Limited",
+      "ABB India Ltd",
+      "ABB India"
+    ],
+    "productSource": "https://library.e.abb.com/public/93c9bda6800643c789fc96fbb964ae1b/ABB%20India%20Limited%20Integrated%20Annual%20Report%202025.pdf"
+  },
+  "offerings": [
+    {
+      "name": "Electric motors",
+      "category": "Motors and generators for factories, water and rail",
+      "image": "assets/products/abb-motors.svg",
+      "url": "https://library.e.abb.com/public/93c9bda6800643c789fc96fbb964ae1b/ABB%20India%20Limited%20Integrated%20Annual%20Report%202025.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of an electric motor — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Drives",
+      "category": "Control boxes that set how fast a motor turns",
+      "image": "assets/products/abb-drives.svg",
+      "url": "https://library.e.abb.com/public/93c9bda6800643c789fc96fbb964ae1b/ABB%20India%20Limited%20Integrated%20Annual%20Report%202025.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a motor speed drive — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Switchgear",
+      "category": "Cabinets that connect, cut off and protect power",
+      "image": "assets/products/abb-switchgear.svg",
+      "url": "https://library.e.abb.com/public/93c9bda6800643c789fc96fbb964ae1b/ABB%20India%20Limited%20Integrated%20Annual%20Report%202025.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a switchgear cabinet — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Modular substations",
+      "category": "Prebuilt power distribution buildings",
+      "image": "assets/products/abb-substations.svg",
+      "url": "https://library.e.abb.com/public/93c9bda6800643c789fc96fbb964ae1b/ABB%20India%20Limited%20Integrated%20Annual%20Report%202025.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a modular substation — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Wall switches",
+      "category": "Modular switches for homes and offices",
+      "image": "assets/products/abb-wall-switches.svg",
+      "url": "https://library.e.abb.com/public/93c9bda6800643c789fc96fbb964ae1b/ABB%20India%20Limited%20Integrated%20Annual%20Report%202025.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a wall switch plate — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Robots",
+      "category": "Robot arms and machine automation for factories",
+      "image": "assets/products/abb-robot-arm.svg",
+      "url": "https://library.e.abb.com/public/93c9bda6800643c789fc96fbb964ae1b/ABB%20India%20Limited%20Integrated%20Annual%20Report%202025.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a robot arm — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Train propulsion",
+      "category": "Propulsion systems for railways and metros",
+      "image": "assets/products/abb-train-propulsion.svg",
+      "url": "https://library.e.abb.com/public/93c9bda6800643c789fc96fbb964ae1b/ABB%20India%20Limited%20Integrated%20Annual%20Report%202025.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of an electric train — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Plant automation",
+      "category": "Control and monitoring systems for plants and pipelines",
+      "image": "assets/products/abb-plant-automation.svg",
+      "url": "https://library.e.abb.com/public/93c9bda6800643c789fc96fbb964ae1b/ABB%20India%20Limited%20Integrated%20Annual%20Report%202025.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a plant control screen — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Flow meters",
+      "category": "Instruments that measure flow in pipes",
+      "image": "assets/products/abb-flow-meters.svg",
+      "url": "https://library.e.abb.com/public/93c9bda6800643c789fc96fbb964ae1b/ABB%20India%20Limited%20Integrated%20Annual%20Report%202025.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a flow meter on a pipe — conceptual picture; not a photograph or the company’s own image"
+    }
+  ]
+}

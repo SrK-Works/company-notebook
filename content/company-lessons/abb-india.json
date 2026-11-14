@@ -1,0 +1,248 @@
+{
+  "summary": "ABB India designs, makes and sells equipment that carries and controls electricity: motors, drives that set a motor's speed, switchgear for power distribution, and the automation systems that run plants and pipelines.",
+  "description": "Factories, trains, data centres and water plants all need electric power delivered safely and used efficiently. ABB India builds that equipment at plants in four states. Its products include electric motors and generators, drives (electronic units that control how fast a motor turns), switchgear (cabinets of switches and protective devices that connect or cut off power), wall switches for homes, and control systems for plants and pipelines. It also installs and services what it sells. The report groups the work into four business areas: Electrification, Motion, Automation, and Robotics and Discrete Automation (robots for factories that make separate items such as cars).",
+  "money": "ABB India earns money mainly by selling equipment, which it counts as revenue when the goods reach the customer. For larger fixed-price projects it counts revenue as the work progresses. It also earns from services such as repairs, spare parts and upgrades of equipment installed earlier. Its main costs are metals and electrical components, factory and engineering staff, and warranty repairs. A customer's whole payment is revenue, not profit.",
+  "customers": "Customers include data centre operators, railway and metro projects, power distribution utilities, steel, cement and chemical plants, and property developers. Some are OEMs (original equipment manufacturers), companies that build ABB parts into their own machines. Some buy through channel partners, meaning sales partners. The report also lists export destinations in more than 30 countries.",
+  "drivers": "How many orders customers place and how quickly they turn into deliveries; the cost of metals and parts compared with the prices already agreed in contracts; and whether fixed-price projects finish on time.",
+  "groups": [
+    {
+      "title": "Electric motors and generators",
+      "examples": "A large motor that turns a cement mill, or the propulsion unit of a metro train.",
+      "explanation": "The Motion business area makes motors, generators and the power units for trains. In 2025 it introduced motors in the IE5 efficiency class, which the report calls ultra-premium, built without rare-earth metals."
+    },
+    {
+      "title": "Drives",
+      "examples": "A control box that lets a pump or conveyor motor run slower when less is needed.",
+      "explanation": "A drive changes how fast a motor turns, so it uses less power. A new production line for variable-speed drives at the Peenya campus in Bengaluru raised local capacity by about a quarter."
+    },
+    {
+      "title": "Switchgear and power distribution",
+      "examples": "Panels that feed power to a data centre, or a ready-built substation.",
+      "explanation": "The Electrification business area makes switchgear, power protection, modular substations (small prebuilt buildings that step down and route power) and distribution automation. Typically, low voltage is used inside buildings and factories and medium voltage to feed them."
+    },
+    {
+      "title": "Wall switches and wiring accessories",
+      "examples": "A modular switch plate in a home or hotel room.",
+      "explanation": "ABB India launched a Made-in-India range of modular switches (named LIORA) for homes, offices and hotels in 2025."
+    },
+    {
+      "title": "Plant automation and measuring instruments",
+      "examples": "Software that monitors a gas pipeline, or a meter that measures flow in a pipe.",
+      "explanation": "The Automation business area supplies control and monitoring systems. Examples in the report include digitalising 300 CNG (compressed natural gas) stations and a monitoring system for a 20,000 km oil pipeline network."
+    },
+    {
+      "title": "Robots",
+      "examples": "A robot arm that paints car bodies.",
+      "explanation": "The Robotics and Discrete Automation business area sells robots and machine automation to car, electronics and food makers. In January 2026 the Board approved moving this business to a related ABB company, so check the latest report for what is included."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is an order backlog?",
+      "text": "It is the value of orders that customers have placed but ABB India has not yet delivered and billed. A larger backlog means more work is already booked. It is not cash received."
+    },
+    {
+      "title": "Why does the report cover January to December?",
+      "text": "ABB India's accounting year is the calendar year, not April to March like most Indian companies. The report covers 1 January to 31 December 2025."
+    },
+    {
+      "title": "What does 'local for local' mean?",
+      "text": "It is the company's phrase for designing and making products in India for customers in India, so it relies less on shipping parts and finished goods across borders."
+    },
+    {
+      "title": "What is a fixed-price contract?",
+      "text": "The price is agreed before the work starts. If the cost of metals, parts or labour rises afterwards, the company, not the customer, absorbs the extra cost."
+    }
+  ],
+  "steps": [
+    {
+      "title": "A customer places an order",
+      "text": "For example, a data centre operator orders low-voltage panels, or a railway project orders train propulsion systems. The company counts these as orders received."
+    },
+    {
+      "title": "ABB India builds the equipment",
+      "text": "Plants in Bengaluru, Faridabad, Nashik and Vadodara turn metals and bought-in components into motors, drives and switchgear."
+    },
+    {
+      "title": "Deliver, install and test",
+      "text": "For some orders the report lists unloading, installation, testing and commissioning (checking that it works on site) as part of the job."
+    },
+    {
+      "title": "Count the revenue and send the bill",
+      "text": "Goods are counted as revenue on delivery. Fixed-price projects are counted as work progresses, in proportion to the cost spent so far. Services are counted under their contract terms."
+    },
+    {
+      "title": "Collect the money and honour the warranty",
+      "text": "Revenue is not cash received, and cash received is not profit. ABB India sets money aside for warranty repairs when it sells, and provides for penalties if it delivers late for reasons it is responsible for."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Part of a global group",
+      "text": "ABB Asea Brown Boveri Ltd., Zurich, part of the ABB Group, holds 75 percent of ABB India. The report says being in this network gives alternative supplier routes, but the Indian company is separately listed and reports separately."
+    },
+    {
+      "title": "Money keeps coming after the sale",
+      "text": "The report says services attached to equipment already installed help smooth the ups and downs of new orders. Motion Services orders grew in 2025. Typically, a motor or substation stays in use for many years and needs spares and repairs."
+    },
+    {
+      "title": "Divisions run their own business",
+      "text": "The report says its 18 operating divisions are closest to customers and have full ownership of their strategies, performance and resources, so results can differ widely between, for example, motors and robots."
+    },
+    {
+      "title": "Exports add a second market",
+      "text": "The report lists export destinations in more than 30 countries and says export revenue remained a growth driver across all major business divisions."
+    }
+  ],
+  "watch": [
+    [
+      "Is the order backlog turning into deliveries and revenue?",
+      "Backlog is booked work, not billed work. If delivery slips, revenue moves into a later year.",
+      "Compare orders received, order backlog and revenue in each results release over several years."
+    ],
+    [
+      "Are profit margins recovering as metal prices and exchange rates settle?",
+      "The report says metal prices, currency moves and new labour rules held back profit in 2025 even though revenue grew.",
+      "Compare profit before tax as a share of revenue each year, and read the notes on metal hedging and labour costs."
+    ],
+    [
+      "What exactly is inside the reported numbers after the Robotics move?",
+      "The five-year summary notes that it includes discontinued operations, so older and newer years may not be like for like.",
+      "Read the notes on discontinued operations and the business-area results, and check which years include robots."
+    ],
+    [
+      "How much revenue comes from fixed-price projects rather than products on a shelf?",
+      "Projects carry delay penalties and estimation risk that product sales do not.",
+      "Read the revenue note that splits revenue recognised over time from revenue at a point in time, and the notes on penalties and warranties."
+    ],
+    [
+      "Which customer sectors are driving new orders?",
+      "Data centres, rail and metals buy on different cycles, so the mix affects how steady orders are.",
+      "Compare the major orders the report lists by sector, and the business-area order figures, across years."
+    ]
+  ],
+  "risks": [
+    [
+      "Supply of critical materials and components",
+      "The report ranks supply chain disruption among its top five risks, citing supplier concentration and single-source items. A missing part can hold up a whole delivery."
+    ],
+    [
+      "Heavier competition",
+      "The report cites new entrants, substitute products and aggressive pricing by existing players. Cutting prices to win orders leaves less after costs."
+    ],
+    [
+      "Product rules and certification",
+      "The report describes evolving rules on product design and the Quality Control Orders, which require certification from the Bureau of Indian Standards. A product that is not certified in time cannot be sold."
+    ],
+    [
+      "Trade restrictions and tariffs",
+      "The report names sanctions, tariffs and import or export restrictions as risks for exports and for imported parts."
+    ]
+  ],
+  "context": [
+    "January 2026: Robotics business to move to a related company",
+    "The report says that, subject to shareholder approval, the Board decided on 26 January 2026 to transfer the Robotics business, with its assets, contracts and employees, to ABB Robotics India Private Limited, a related party. It also says the Board decided that the company's shares in that business would be sold to another ABB group company that the report names. This was decided after the report year and is described as planned."
+  ],
+  "sources": [
+    [
+      "ABB India Limited Integrated Annual Report 2025 (calendar year to 31 December 2025)",
+      "https://library.e.abb.com/public/93c9bda6800643c789fc96fbb964ae1b/ABB%20India%20Limited%20Integrated%20Annual%20Report%202025.pdf"
+    ],
+    [
+      "ABB India Limited press release, 19 February 2026, Q4 and full-year CY2025 results",
+      "https://new.abb.com/docs/librariesprovider19/default-document-library/press-releaseq42025.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "ABB India's revenue, profit and business-area figures are pending verification against the filed results, so none are shown here. The report notes that some summary figures include discontinued operations, so scope must be checked."
+    }
+  ],
+  "stepsTitle": "From an order to a working installation.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "It makes and installs motors, drives, switchgear, wall switches, robots and plant control systems, and services them after the sale."
+    },
+    {
+      "title": "Who pays",
+      "text": "Industrial companies, utilities, data centre operators, railways and property developers pay, either directly or through sales partners."
+    },
+    {
+      "title": "How it earns",
+      "text": "It sells equipment on delivery, counts fixed-price projects as the work progresses, and charges for services such as repairs, spares and upgrades."
+    },
+    {
+      "title": "What it spends on",
+      "text": "It buys metals and electrical components, pays factory and engineering staff, and sets money aside for warranty repairs."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Work already booked",
+      "text": "The Managing Director's answers in the report point to a record order backlog that is better priced. Booked orders give some visibility of future revenue, though they are not guaranteed payments."
+    },
+    {
+      "title": "Making in India for India",
+      "text": "The report says 25 facilities in four states and a local-for-local approach reduce cross-border dependency and shorten lead times, the time from order to delivery."
+    },
+    {
+      "title": "Demand from power, rail and data centres",
+      "text": "The outlook says investment in infrastructure, rail, grid modernisation, renewables and data centres supports demand for electrification and automation equipment. This is the company's view, not a forecast we can verify."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Fixed-price projects can run over",
+      "text": "Revenue on these contracts depends on estimating total cost correctly. The auditors flagged this as a key area, and the report provides for penalties if delivery is late through the company's own fault."
+    },
+    {
+      "title": "Costs can rise faster than prices",
+      "text": "In 2025 the report lists commodity inflation, currency movements involving the Swiss franc and the euro, and new labour rules as pressures on profit."
+    },
+    {
+      "title": "Customer sectors move in cycles",
+      "text": "The report says metals demand returned to normal after two strong years and the sugar sector stayed subdued, while rubber and tyres grew strongly. Orders can fall in a sector when its customers delay spending."
+    }
+  ],
+  "checked": "14 November 2026",
+  "products": [
+    [
+      "Electric motors",
+      "Motors and generators for factories, water and rail"
+    ],
+    [
+      "Drives",
+      "Control boxes that set how fast a motor turns"
+    ],
+    [
+      "Switchgear",
+      "Cabinets that connect, cut off and protect power"
+    ],
+    [
+      "Modular substations",
+      "Prebuilt power distribution buildings"
+    ],
+    [
+      "Wall switches",
+      "Modular switches for homes and offices"
+    ],
+    [
+      "Robots",
+      "Robot arms and machine automation for factories"
+    ],
+    [
+      "Train propulsion",
+      "Propulsion systems for railways and metros"
+    ],
+    [
+      "Plant automation",
+      "Control and monitoring systems for plants and pipelines"
+    ],
+    [
+      "Flow meters",
+      "Instruments that measure flow in pipes"
+    ]
+  ]
+}
