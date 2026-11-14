@@ -1,0 +1,33 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited consolidated financial statements in the annual report",
+  "checked": "14 November 2026",
+  "coverage": "Reported business segments · sales to outside customers (no sales between segments)",
+  "revenueLabel": "Segment revenue",
+  "incomeDefinition": "Sales to outside customers, including excise duty collected on fuel. BPCL reports no sales between its two segments, so the rows add up to group revenue from operations.",
+  "profitMetric": "Segment result",
+  "definition": "Each segment’s operating profit before finance cost, impairment of assets, interest and other income, share of profit of joint ventures and associates, and tax. It is not profit after tax.",
+  "rows": [
+    {
+      "name": "Downstream petroleum (refining and marketing of petroleum products)",
+      "revenue": 522668.25,
+      "profit": 33813.44
+    },
+    {
+      "name": "Exploration and production of hydrocarbons",
+      "revenue": 152.16,
+      "profit": -426.65
+    }
+  ],
+  "source": "https://www.bharatpetroleum.in/bharat-petroleum-ar-25-26/pdf/24%20Consolidated%20Financial%20Statements.pdf",
+  "location": "BPCL annual report 2025–26, consolidated financial statements: statement of profit and loss, PDF page 6 (printed page 413); note 59 segment reporting, PDF pages 46–47 (printed pages 493–494); note 62 exceptional items, PDF page 48; ownership table in the basis of preparation, PDF page 9; Labour Codes, employee benefits note, PDF page 34",
+  "notes": "Consolidated means BPCL and its subsidiaries together. BPCL’s city gas companies are not subsidiaries: Maharashtra Natural Gas, Sabarmati Gas and Central UP Gas are joint ventures and Indraprastha Gas is an associate, as is Petronet LNG, so only the group’s share of their profit, ₹1,510.87 crore, is included in profit and their sales are not in revenue. Revenue includes excise duty collected on fuel, which the profit and loss statement also shows as a cost of ₹67,592.38 crore. Segment results total ₹33,386.79 crore. Adding interest income of ₹1,861.65 crore, other income of ₹1,426.97 crore and a fair-value gain of ₹10.14 crore, and the ₹1,510.87 crore share of joint ventures and associates, then deducting finance cost of ₹2,953.49 crore and impairment of assets of ₹451.69 crore gives profit before tax of ₹34,791.24 crore. Tax of ₹8,947.79 crore leaves profit for the year of ₹25,843.45 crore, all attributable to BPCL’s owners. The segment results are after the exceptional item of ₹410.70 crore (the figures only reconcile that way): costs of the Mozambique gas project that were not capitalised, because force majeure (an event outside the operator’s control) was declared in April 2021 and later resolved in 2025–26, so the extra costs of the suspension were charged as an expense; the filing does not split it by segment. The filing says no material liability arises from the new Labour Codes.",
+  "insight": "Refining and selling fuel makes up almost all revenue and all of the segment profit. Exploration and production is tiny by revenue and made a segment loss.",
+  "status": "segments",
+  "revenueTotal": 522820.41,
+  "revenueTotalLabel": "Group revenue from operations",
+  "profitTotal": 33386.79,
+  "profitTotalLabel": "Total segment results (operating profit)"
+}
