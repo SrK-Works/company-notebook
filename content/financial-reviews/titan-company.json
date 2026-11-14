@@ -1,0 +1,44 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "coverage": "Reported business segments",
+  "unit": "₹ crore",
+  "profitMetric": "Segment profit / loss",
+  "definition": "Profit or loss before finance costs, exceptional items and tax, including the source’s corporate unallocated line.",
+  "rows": [
+    {
+      "name": "Watches",
+      "revenue": 5267,
+      "profit": 824
+    },
+    {
+      "name": "Jewellery",
+      "revenue": 79660,
+      "profit": 7209
+    },
+    {
+      "name": "Eyecare",
+      "revenue": 916,
+      "profit": 77
+    },
+    {
+      "name": "Others",
+      "revenue": 2006,
+      "profit": 173
+    },
+    {
+      "name": "Corporate, unallocated",
+      "revenue": 287,
+      "profit": -201
+    }
+  ],
+  "source": "https://www.titancompany.in/sites/default/files/2026-05/Q4FY26%20-%20Financial%20results%20Uploaded_0.pdf",
+  "sourceLabel": "Official financial disclosure",
+  "location": "Consolidated segment information · year ended 31 March 2026",
+  "checked": "14 November 2026",
+  "notes": "Revenue includes other income and other operating revenue, which includes sales of gold ingots (10,568 in the year, per the filed notes). Titan’s earnings release leaves out bullion and digi-gold sales from its headline total income, so that headline differs from this table. Segment profit is before a 101 exceptional item, a one-off cost of the new Labour Codes (new wage and labour rules).",
+  "insight": "Jewellery dominates both revenue and segment profit. Watches contribute a smaller sales base but meaningful profit; corporate costs reduce the combined result.",
+  "revenueTotal": 88136,
+  "profitTotal": 8082,
+  "status": "segments"
+}

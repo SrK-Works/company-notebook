@@ -181,16 +181,12 @@
   ],
   "financialNotes": [
     {
-      "title": "How to read HUL’s own figures",
-      "text": "HUL reports turnover of ₹63,763 crore for FY 2025–26. Its category reviews report revenue of ₹23,672 crore for Home Care, ₹14,990 crore for Beauty & Wellbeing, ₹9,564 crore for Personal Care and ₹14,061 crore for Foods. These come from HUL’s own web pages. The verified table on this page states its own scope and profit definition, and it remains the reference, so do not compare these figures with that table without checking the scope. The four business figures add up to about ₹62,287 crore, which is ₹1,476 crore less than the ₹63,763 crore turnover. The pages read for this lesson do not explain the gap, so do not treat the four as the whole company. Segment margin is HUL’s own measure. None of these figures is the profit of a brand or a pack."
+      "title": "Turnover and segment revenue",
+      "text": "HUL’s turnover is ₹63,763 crore, sales of products and services. Segment revenue is ₹64,468 crore: the four named businesses (₹62,287 crore) plus Others, which includes exports (₹2,181 crore). It is ₹705 crore above turnover because it also counts other operating revenue, such as services to group companies and government grants. Segment results are profit before other income, finance costs, exceptional items and tax."
     },
     {
-      "title": "Ice cream and the scope of older figures",
-      "text": "Until 1 December 2025, ice cream sat inside HUL’s Foods & Refreshment segment. KWIL reported results for the quarter ended 31 December 2025 on its own, and said its figures for the same quarter a year earlier were prepared on a pro forma basis, as if the business had operated independently. A figure that includes ice cream and one that leaves it out are not directly comparable. For each figure, check whether it includes or excludes ice cream, and whether it is for HUL as a whole or for one segment."
-    },
-    {
-      "title": "One quarter is not a full year",
-      "text": "For the quarter ended 30 September 2026, HUL reported turnover of ₹18,071 crore. EBITDA (profit before interest, tax, depreciation and amortisation) grew 8% to ₹4,089 crore, a margin of 22.6%. Reported profit after tax was ₹2,796 crore, flat because the earlier quarter included one-off tax gains of ₹273 crore. A quarter and a year cover different periods and should not be compared directly."
+      "title": "Ice cream demerger",
+      "text": "A demerger splits one company so a business moves into a separate company. Ice cream moved to Kwality Wall’s (India) Limited on 1 December 2025, so HUL’s continuing figures leave it out. HUL’s ₹4,611 crore gain on the demerger is an accounting gain, not cash received."
     }
   ],
   "illustration": [

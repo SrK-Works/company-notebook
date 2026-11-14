@@ -1,0 +1,59 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "coverage": "Reported business segments",
+  "unit": "₹ crore",
+  "profitMetric": "Segment operating income",
+  "definition": "Operating income allocated to the reported customer-industry segments, before the reconciliation to overall company profit. It is not net profit.",
+  "rows": [
+    {
+      "name": "Financial Services",
+      "revenue": 49908,
+      "profit": 12678
+    },
+    {
+      "name": "Manufacturing",
+      "revenue": 29078,
+      "profit": 6444
+    },
+    {
+      "name": "Energy, Utilities, Resources & Services",
+      "revenue": 23818,
+      "profit": 5984
+    },
+    {
+      "name": "Retail",
+      "revenue": 23077,
+      "profit": 7089
+    },
+    {
+      "name": "Communication",
+      "revenue": 21765,
+      "profit": 3861
+    },
+    {
+      "name": "Hi-Tech",
+      "revenue": 13928,
+      "profit": 3228
+    },
+    {
+      "name": "Life Sciences",
+      "revenue": 12267,
+      "profit": 2444
+    },
+    {
+      "name": "All other segments",
+      "revenue": 4809,
+      "profit": 717
+    }
+  ],
+  "source": "https://www.infosys.com/investors/reports-filings/annual-report/annual/documents/2025-26/managements-discussion-and-analysis.pdf",
+  "sourceLabel": "Official financial disclosure",
+  "location": "PDF page 6 · printed page 111",
+  "checked": "14 November 2026",
+  "notes": "Segments group customer industries, not individual Infosys products such as Topaz or Cobalt. Segment names are shortened: Financial Services includes insurance; Retail includes consumer packaged goods and logistics; Communication includes telecom equipment makers and media; Life Sciences includes health care. Segment operating income is not profit after tax. Unallocated expenses of 6,191 sit outside the segments and include 1,289 for the Labour Codes (new wage and labour rules).",
+  "insight": "Financial Services is the largest contributor to both revenue and segment operating income. Retail earns more segment operating income than Manufacturing despite lower sales.",
+  "revenueTotal": 178650,
+  "profitTotal": 42445,
+  "status": "segments"
+}

@@ -1,0 +1,44 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "coverage": "Selected business highlights",
+  "unit": "₹ crore",
+  "profitMetric": "EBITDA",
+  "definition": "Earnings before interest, tax, depreciation and amortisation. Each business’s EBITDA includes interest income that belongs to it. It excludes several costs that reduce net profit and is not cash flow.",
+  "rows": [
+    {
+      "name": "Retail",
+      "revenue": 371085,
+      "profit": 27034
+    },
+    {
+      "name": "Digital Services",
+      "revenue": 176164,
+      "profit": 76560
+    },
+    {
+      "name": "Media & Entertainment",
+      "revenue": 40682,
+      "profit": 5842
+    },
+    {
+      "name": "Oil to Chemicals",
+      "revenue": 662401,
+      "profit": 60546
+    },
+    {
+      "name": "Oil & Gas",
+      "revenue": 23861,
+      "profit": 19050
+    }
+  ],
+  "source": "https://ril.com/reports/RIL-Integrated-Annual-Report-2025-26.pdf",
+  "sourceLabel": "Official financial disclosure",
+  "location": "Integrated Annual Report 2025-26: business overview (printed pages 4–5, 12–13, 16–17, 20–21, 24–27) and note 37, segment information (printed pages 256–257); audited consolidated results of 24 April 2026, segment table (page 8 of 20)",
+  "checked": "14 November 2026",
+  "notes": "Every row is value of sales and services, which includes GST and transfers between Reliance’s own businesses, so the rows are not shares of group revenue. The audited note names four reporting segments: Oil to Chemicals, Oil and Gas, Retail and Digital Services. Media & Entertainment is not one of them; it sits inside Others (80,522 sales and services, 10,857 EBITDA). Its 40,682 and 5,842 come from the report’s business overview, not the audited note. The five rows add to 1,274,193, against group value of sales and services of 1,175,919 after transfers between businesses are removed.",
+  "insight": "Oil to Chemicals has the largest reported revenue here, while Digital Services has the largest EBITDA. Sales leadership and earnings leadership are different.",
+  "status": "segments",
+  "revenueLabel": "Value of sales and services",
+  "incomeDefinition": "Value of sales and services is the amount billed for goods and services. It includes GST (a sales tax collected for the government) and transfers between Reliance’s own businesses."
+}

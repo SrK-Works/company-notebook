@@ -1,11 +1,11 @@
-// Independently maintained financial snapshots supplement the original verified records.
+// Independently maintained financial snapshots. Originals not yet migrated still live in dist/financial-data.js; an id may appear in only one place.
 const fs=require('node:fs'),path=require('node:path'),vm=require('node:vm');
 const root=path.resolve(__dirname,'..'),directory=path.join(root,'content/financial-reviews');
 const baseline={window:{}};vm.createContext(baseline);
 vm.runInContext(fs.readFileSync(path.join(root,'dist/financial-data.js'),'utf8'),baseline);
 const entries=fs.readdirSync(directory).filter(f=>f.endsWith('.json')).sort().map(file=>{
  const id=file.slice(0,-5),record=JSON.parse(fs.readFileSync(path.join(directory,file),'utf8'));
- if(baseline.window.COMPANY_FINANCIALS[id])throw new Error(id+': must not overwrite an existing verified snapshot');
+ if(baseline.window.COMPANY_FINANCIALS[id])throw new Error(id+': also exists in dist/financial-data.js; each company must live in exactly one place (migrated originals are removed from that file)');
  if(!fs.existsSync(path.join(directory,id+'.evidence.md')))throw new Error(id+': missing source evidence');
  return [id,record];
 });

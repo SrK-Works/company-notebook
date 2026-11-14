@@ -1,6 +1,8 @@
 # Eternal — re-verification of the existing snapshot (dist/financial-data.js)
 
 Checked 14 November 2026. Re-check only: the snapshot, lesson and build files were not changed.
+Corrected 14 November 2026: Snapshot moved unchanged from dist/financial-data.js to this folder on 14 Nov 2026 (no snapshot field changed). Lesson financialNotes rewritten to state group profit (profit before tax 615; profit for the year 366) and that the segment total 2,027 is a different measure.
+
 
 ## Discrepancies and unsupported items
 No amount in the snapshot disagrees with the filing: all five revenue rows, all five segment results and both totals match the second, clean copy of the same results (NSE integrated filing). Points to note:

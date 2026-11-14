@@ -1,0 +1,49 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "coverage": "Reported business segments",
+  "unit": "₹ crore",
+  "profitMetric": "Segment result",
+  "definition": "Revenue less the costs that can be tied to each customer industry, taken from the audited note. Costs not tied to one industry are kept apart as unallocated expenses. This is not profit after tax.",
+  "rows": [
+    {
+      "name": "Banking, Financial Services & Insurance",
+      "revenue": 103363,
+      "profit": 27011
+    },
+    {
+      "name": "Consumer Business",
+      "revenue": 42432,
+      "profit": 12090
+    },
+    {
+      "name": "Communication, Media & Technology",
+      "revenue": 39474,
+      "profit": 11473
+    },
+    {
+      "name": "Life Sciences & Healthcare",
+      "revenue": 27745,
+      "profit": 7504
+    },
+    {
+      "name": "Manufacturing",
+      "revenue": 26614,
+      "profit": 8051
+    },
+    {
+      "name": "Others",
+      "revenue": 27393,
+      "profit": 6269
+    }
+  ],
+  "source": "https://www.ar.tcs.com/files/TCS_Annual_Report_2025-26.pdf",
+  "sourceLabel": "Official financial disclosure",
+  "location": "Integrated Annual Report 2025-26: management discussion, industry-vertical table (printed page 89 or 90) and audited consolidated note on segment information (printed page 255 or 256)",
+  "checked": "14 November 2026",
+  "notes": "Revenue is revenue from operations, grouped by customer industry. Segment results total 72,398. Unallocated expenses of 11,313 are kept out of the segments and include one-offs: 2,128 for the new Labour Codes (new wage and labour rules), 1,010 for a provision against a legal claim and 1,388 for restructuring. After them, operating income is 61,085. “Others” covers energy, resources and utilities, e-governance and products.",
+  "insight": "Banking, Financial Services & Insurance is the largest source of revenue and of segment result. Manufacturing has the highest segment result relative to its revenue, but BFSI earns far more in amount.",
+  "revenueTotal": 267021,
+  "status": "segments",
+  "profitTotal": 72398
+}

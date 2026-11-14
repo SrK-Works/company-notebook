@@ -1,6 +1,8 @@
 # TCS — re-verification of the existing snapshot (dist/financial-data.js)
 
 Checked 14 November 2026. Re-check only: the snapshot, lesson and build files were not changed.
+Corrected 14 November 2026: Snapshot corrected 14 Nov 2026 and moved from dist/financial-data.js to this folder: profit column is now Segment result in rupees crore from the audited note (27,011; 12,090; 11,473; 7,504; 8,051; 6,269; total 72,398) instead of 'not disclosed' margins; the unreproducible 25.0% total margin and the margin column were dropped; notes add unallocated expenses 11,313 including Labour Codes 2,128, legal claim 1,010 and restructuring 1,388; source changed to the report read here (ar.tcs.com). Revenue unchanged. Lesson financialNotes rewritten.
+
 
 ## Discrepancies and unsupported items (snapshot value vs filing)
 1. Segment profit amounts ARE disclosed, contrary to the snapshot. Snapshot rows have `profit: null` and the note says "Only reported margin percentages are shown; profit amounts are not reverse-calculated"; the lesson note says the same. The audited consolidated note (segment information) gives "Segment result" in ₹ crore: BFSI 27,011; Manufacturing 8,051; Consumer Business 12,090; Communication, Media and Technology 11,473; Life Sciences and Healthcare 7,504; Others 6,269; total 72,398. Each reported margin equals segment result ÷ segment revenue (27,011 ÷ 103,363 = 26.1%). Nothing is wrong in the numbers shown; the claim that amounts are not available is unsupported.

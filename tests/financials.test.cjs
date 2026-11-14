@@ -29,10 +29,10 @@ test('losses and a negative combined result remain visibly signed',()=>{
  assert.equal((html.match(/>Loss<\/span>/g)||[]).length,3);
  assert.ok(html.includes('same ₹ crore scale'));
 });
-test('rounded margins are not converted into invented earnings amounts',()=>{
+test('TCS shows disclosed segment results, not margins turned into amounts',()=>{
  const html=render({id:'tcs',name:'TCS'});
- assert.ok(html.includes('26.1%'));
- assert.ok(html.includes('Not aggregated'));
+ assert.ok(html.includes('27,011')&&html.includes('72,398'));
+ assert.ok(!html.includes('26.1%')&&!html.includes('25.0'));
  assert.ok(!html.includes('undefined')&&!html.includes('NaN'));
 });
 test('company totals never advertise a ranking between businesses',()=>{

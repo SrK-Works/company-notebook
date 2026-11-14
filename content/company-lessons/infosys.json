@@ -149,12 +149,16 @@
   ],
   "financialNotes": [
     {
-      "title": "The table groups customers, not platforms",
-      "text": "The verified segment rows cover industries such as Financial Services and Retail. Their segment operating income must be reconciled to company profit; it is not a disclosed profit for Cobalt, Topaz or Finacle."
+      "title": "Customers, not products",
+      "text": "Infosys reports by customer industry, not by products such as Topaz or Cobalt. Names are shortened: Financial Services includes insurance, Retail includes consumer goods and delivery businesses, Communication includes telecom equipment makers and media. Figures are consolidated (Infosys and subsidiaries together), year to 31 March 2026."
     },
     {
-      "title": "Read cash separately",
-      "text": "An industry with high segment operating income can still have billing or collection timing differences. Continue with the consolidated cash-flow statement and customer balances before concluding how much cash was generated."
+      "title": "Costs kept apart",
+      "text": "Segment operating income is profit after costs tied to each industry. Costs not tied to one industry are listed as unallocated expenses. This year they included the cost of new wage and labour rules (Labour Codes)."
+    },
+    {
+      "title": "Figures",
+      "text": "Segment operating income totals ₹42,445 crore. Unallocated expenses of ₹6,191 crore include ₹1,289 crore for the Labour Codes. Net profit was ₹29,474 crore."
     }
   ],
   "checked": "12 November 2026",

@@ -167,12 +167,16 @@
   ],
   "financialNotes": [
     {
-      "title": "These are selected business highlights",
-      "text": "The verified table is a set of report business highlights, not a full consolidated revenue or profit reconciliation. Retail uses the report’s value-of-sales presentation. The rows must not be treated as exact shares of group revenue."
+      "title": "What the table shows",
+      "text": "Five businesses from Reliance’s annual report, for the group and its subsidiaries together, year to 31 March 2026. Every revenue row is value of sales and services. It includes GST (a sales tax collected for the government) and transfers between Reliance’s own businesses, so rows are not shares of group revenue."
     },
     {
-      "title": "Operating earnings (EBITDA) are not net profit",
-      "text": "The earnings column is EBITDA: what each business earns from its operations before the cost of wear on equipment (depreciation), interest and tax. Ownership interests and investment needs matter afterward too. Oil to Chemicals leads the displayed revenue, while Digital Services leads the displayed EBITDA; those answer different questions."
+      "title": "Segments and earnings",
+      "text": "In the audited accounts, Media & Entertainment is not a separate segment; it sits inside Others. The earnings column is EBITDA (earnings before interest, tax, depreciation and amortisation): profit before interest, tax and the wear on equipment. It includes interest income and is not net profit or cash."
+    },
+    {
+      "title": "Figures",
+      "text": "Oil to Chemicals has the most value of sales and services, ₹662,401 crore. Digital Services has the highest EBITDA, ₹76,560 crore."
     }
   ],
   "checked": "12 November 2026",

@@ -1,0 +1,45 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "coverage": "Reported business segments",
+  "unit": "₹ crore",
+  "profitMetric": "Segment result",
+  "definition": "Reported segment result before other income, share-based payments, finance costs, depreciation, exceptional items and tax. This differs from adjusted EBITDA.",
+  "rows": [
+    {
+      "name": "India food ordering & delivery",
+      "revenue": 10159,
+      "profit": 2079
+    },
+    {
+      "name": "Hyperpure supplies",
+      "revenue": 5366,
+      "profit": 16
+    },
+    {
+      "name": "Quick Commerce",
+      "revenue": 37779,
+      "profit": 430
+    },
+    {
+      "name": "Going Out",
+      "revenue": 973,
+      "profit": -292
+    },
+    {
+      "name": "Other segments",
+      "revenue": 87,
+      "profit": -206
+    }
+  ],
+  "source": "https://drive.google.com/file/d/1mz_hG7RPsvni3KAPKubphgQmuq0WiTS-/view",
+  "sourceLabel": "Official financial disclosure",
+  "location": "PDF page 34 · consolidated segment information; linked from Eternal’s Q4FY26 results announcement",
+  "checked": "29 October 2026",
+  "notes": "Revenue is from external customers, excluding internal transactions. Quick Commerce revenue includes full goods sales after its inventory-model change; it is not directly comparable with marketplace commission revenue. Segment results are not group net profit.",
+  "insight": "Quick Commerce has the largest revenue, but India food delivery contributes the largest segment result. Going Out and Other segments report losses.",
+  "revenueTotal": 54364,
+  "profitTotal": 2027,
+  "announcement": "https://www.eternal.com/blog/q4fy26/",
+  "status": "segments"
+}

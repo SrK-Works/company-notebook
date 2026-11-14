@@ -1,0 +1,44 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "coverage": "Reported business segments",
+  "unit": "₹ crore",
+  "profitMetric": "Segment result",
+  "definition": "Profit before other income, finance costs, exceptional items and tax. This is not profit after tax.",
+  "rows": [
+    {
+      "name": "Home Care",
+      "revenue": 23672,
+      "profit": 4521
+    },
+    {
+      "name": "Beauty & Wellbeing",
+      "revenue": 14990,
+      "profit": 4161
+    },
+    {
+      "name": "Personal Care",
+      "revenue": 9564,
+      "profit": 1805
+    },
+    {
+      "name": "Foods",
+      "revenue": 14061,
+      "profit": 2824
+    },
+    {
+      "name": "Others, including exports",
+      "revenue": 2181,
+      "profit": 410
+    }
+  ],
+  "source": "https://www.hul.co.in/files/annual-report-2025-26-single-page.pdf",
+  "sourceLabel": "Official financial disclosure",
+  "location": "PDF page 453 · printed page 451",
+  "checked": "29 October 2026",
+  "notes": "Continuing operations only. Discontinued ice-cream operations are excluded. The source states there are no inter-segment transactions.",
+  "insight": "Home Care has the most revenue and the largest segment result. Beauty & Wellbeing earns almost as much segment profit on substantially lower revenue.",
+  "revenueTotal": 64468,
+  "profitTotal": 13721,
+  "status": "segments"
+}

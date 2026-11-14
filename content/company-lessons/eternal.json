@@ -141,12 +141,12 @@
   ],
   "financialNotes": [
     {
-      "title": "Keep the segment-result and inventory bases attached",
-      "text": "The existing verified table uses external-customer revenue and the financial statement’s segment result. Blinkit revenue after the inventory-model change cannot be compared directly with a marketplace commission total as if the two measured the same activity."
+      "title": "Segment result and revenue",
+      "text": "Eternal’s figures are consolidated (Eternal and its subsidiaries together), year to 31 March 2026. Segment result is each business’s profit before other income, share-based pay, finance costs, depreciation and tax. Revenue is from outside customers; sales between its own businesses are left out. Quick commerce revenue now includes full goods sales after its move to holding stock itself, so it is not comparable with commission revenue."
     },
     {
-      "title": "Largest revenue is not largest earnings",
-      "text": "The disclosed food-delivery result and the quick-commerce revenue answer different questions. Preserve losses in the other rows, exclude internal transactions as the source does, and reconcile segment results to company profit rather than calling them net earnings."
+      "title": "Group profit is a different measure",
+      "text": "The segment results total ₹2,027 crore. Group profit before tax was ₹615 crore and profit for the year ₹366 crore."
     }
   ],
   "checked": "12 November 2026",
