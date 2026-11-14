@@ -1,0 +1,236 @@
+{
+  "summary": "Bosch Limited makes parts that control fuel and exhaust in vehicles, sells spare parts to repair workshops, and also sells power tools and fire alarms for buildings in India.",
+  "description": "Bosch Limited is the listed Indian company of the German Bosch group. Most of what it sells goes into vehicles: parts that feed fuel into engines and sensors that check exhaust gas, supplied to vehicle makers (called original equipment manufacturers, or OEMs). It also sells replacement parts and engine oil to repair workshops, grinders and other power tools to tradespeople, and fire detectors and alarm panels for buildings. The report calls this a manufacturing and trading business, and it also does engineering projects, mainly for Indian vehicle makers.",
+  "money": "Bosch Limited mostly earns money by selling products: parts to vehicle makers, spare parts to workshops through distributors, and tools and fire systems through dealers and system integrators (firms that fit and connect fire systems in buildings). A smaller part is fees for engineering projects, plus government grants and interest on its savings. The report lists raw materials and components, staff, factory machinery, selling and office costs and royalty payments as main costs. A customer's payment is not profit.",
+  "customers": "Vehicle makers pay for parts built into new vehicles. Workshops and vehicle owners pay for replacement parts and oil. Tradespeople, contractors and other institutional buyers pay for power tools, which is the client list the report gives for that division. Building owners pay for fire systems, usually through system integrators and distributors. Other Bosch group companies, mainly Robert Bosch GmbH in Germany, buy goods that Bosch Limited exports.",
+  "drivers": "How many vehicles are made in India and how much Bosch supplies for each one, the cost of raw materials and electronic parts, how many tools and fire systems are sold, and how much work Bosch does for vehicle makers.",
+  "groups": [
+    {
+      "title": "Parts for vehicle engines and exhaust",
+      "examples": "Systems that feed diesel, petrol, natural gas or ethanol blends into an engine, and parts for hydrogen engines.",
+      "explanation": "The report calls this the Mobility business, and its Power Solutions division makes parts and systems for internal combustion engines running on several fuels. One example in the report is a flex-fuel injection system that can run on petrol, any petrol-ethanol mix or pure ethanol. Vehicle makers buy these parts to build into new vehicles."
+    },
+    {
+      "title": "Two-wheeler sensors",
+      "examples": "Exhaust gas sensors fitted to motorcycles and scooters.",
+      "explanation": "The report says two-wheeler sales grew mainly because of higher sales of exhaust gas sensors as new on-board diagnostics norms (OBD-II) started on 1 April 2025. Typically, such rules require a vehicle to keep checking its own exhaust, which is why each vehicle needs the sensor."
+    },
+    {
+      "title": "Spare parts for repair workshops",
+      "examples": "Replacement parts, engine oil, brake liners and tyre-pressure monitoring systems.",
+      "explanation": "The report calls this the Mobility Aftermarket, meaning parts and services bought after a vehicle is sold. It serves commercial vehicles, passenger cars and two-wheelers, and lists synthetic engine oils, tyre-pressure monitoring systems and brake liners for commercial vehicles among its products."
+    },
+    {
+      "title": "Power tools",
+      "examples": "Grinders and cutters, plus accessories, garden tools, measuring tools and hand tools.",
+      "explanation": "The Consumer Goods division sells power tools to tradespeople, contractors and other institutional buyers. The report says grinders and cutters make up over half of the power tools business, and accessories sold alongside tools make up the next largest part."
+    },
+    {
+      "title": "Fire safety systems",
+      "examples": "Smoke and fire detectors, alarm panels and a software tool for planning where to place them.",
+      "explanation": "The Building Technologies division sells fire safety systems for metro and railway stations, airports, hospitals, schools and offices. After a May 2025 sale of other building businesses, fire safety is the only business left in this division."
+    },
+    {
+      "title": "Engineering projects",
+      "examples": "Engineering and testing work done for a vehicle maker before parts go into production.",
+      "explanation": "The report says income from services comes from engineering and application projects done mainly for Indian vehicle makers. Bosch is paid a fee for this work, which is separate from selling parts."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is an original equipment manufacturer (OEM), and what is the aftermarket?",
+      "text": "OEM stands for original equipment manufacturer, here a company that makes vehicles. Bosch sells parts to OEMs to be built into new vehicles. The aftermarket is parts and services bought later, after the vehicle has been sold, mainly by workshops for repairs."
+    },
+    {
+      "title": "Is Bosch Limited the same as Bosch India or the Bosch group?",
+      "text": "No. The report describes a network of 19 companies in India. Bosch Limited is only one of them, and its own report lists just two subsidiaries (MICO Trading Private Limited, whose business the report does not describe, and Robert Bosch India Manufacturing and Technology Private Limited, which the report says is yet to start commercial activities). Robert Bosch GmbH, Germany, holds 70.54% of Bosch Limited."
+    },
+    {
+      "title": "Which companies does Bosch Limited own only a part of?",
+      "text": "The report lists Newtech Filter India Private Limited, in which Bosch Limited holds 25% and which makes automotive filters that it sells to Bosch Limited, and Autozilla Solutions Private Limited, in which it holds 26% and which offers an online marketplace for spare parts. It also holds 40% of Prebo Automotive India Private Limited, a component maker. Their sales are not simply added to Bosch Limited's own."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Develop with the customer",
+      "text": "Bosch does engineering and application projects, mainly for Indian vehicle makers, so that its parts suit their engines and the rules they must meet. This earns a service fee."
+    },
+    {
+      "title": "Make and supply",
+      "text": "Bosch makes parts and trades in goods, then delivers them to vehicle makers for new vehicles and to distributors for workshops. Tools and fire systems go through dealers and system integrators."
+    },
+    {
+      "title": "Pay the costs of making",
+      "text": "The report names material and components, staff, machinery wear (depreciation), selling and office costs and royalty payments as main costs. These are paid whether or not customers pay on time."
+    },
+    {
+      "title": "Invoice and collect",
+      "text": "Typically, a customer is invoiced when goods are delivered and pays later. Revenue, profit and cash received are three different things and arrive at different times."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Mostly about vehicles",
+      "text": "The report says the Mobility business, meaning vehicle products, made up around 89.4% of total sales in 2025-26. The rest, called Businesses Beyond Mobility, covers power tools, fire safety and industrial technology. Bosch's results therefore follow vehicle production in India more than anything else."
+    },
+    {
+      "title": "Exports go mainly to the group",
+      "text": "Exports are a small part of sales, and the report says most are manufactured goods sold to other Bosch group companies. Close to 75% of exported products go to Robert Bosch, Germany, so export sales depend mainly on the parent group's orders."
+    },
+    {
+      "title": "Income beyond selling products",
+      "text": "Besides product sales, the report shows income from services, from government grants and from interest on fixed deposits and loans. Other operating revenue rose mainly because of higher government grants."
+    },
+    {
+      "title": "New joint ventures for electric and truck parts",
+      "text": "The report describes a planned joint venture with Tata AutoComp Systems Limited to make electric drive parts (eAxle systems and electric motors) in India. A second, shared with Wheels India Limited and Brakes India Private Limited, is to develop air-system parts for commercial vehicles. Each is subject to approvals."
+    }
+  ],
+  "watch": [
+    [
+      "How much of sales still depends on engines that burn fuel?",
+      "If more vehicles move to electric drive, parts for fuel engines may be needed less. The report says conventional fuels remain relevant while charging and gas networks are built.",
+      "Read the Mobility business section each year and compare what is said about electric, hydrogen and ethanol products with the engine-parts business."
+    ],
+    [
+      "How much does Bosch Limited trade with other Bosch group companies?",
+      "The report says it buys and sells goods, raw materials and services with Robert Bosch GmbH and other group companies, so part of its business depends on decisions made inside the group.",
+      "Read the related-party disclosures in the annual report and compare sales to, and purchases from, group companies year by year."
+    ],
+    [
+      "How is the power tools business doing against low-priced rivals?",
+      "The report says new entrants are gaining ground in the lower and middle price range, while import checks are tightening.",
+      "Compare the power tools division's growth with the report's estimate of market growth, and read what is said each year about competition and quality rules."
+    ],
+    [
+      "What did the May 2025 sale change?",
+      "The report says sales beyond mobility fell mainly because three building-technology businesses were sold, so recent years are not like for like.",
+      "Read the note on the sale and the segment discussion, and compare only the businesses that existed in both years."
+    ],
+    [
+      "Are the new joint ventures starting on time?",
+      "The report says the electric drive venture aims to start in mid-2026, subject to approvals, so delays would show in later reports.",
+      "Look for updates on the joint ventures in the next annual report and in company announcements to the exchanges."
+    ]
+  ],
+  "risks": [
+    [
+      "Cyber attacks",
+      "The report lists cyber threats first among its top risks, saying they could disrupt business operations and leak sensitive information, causing financial losses or reputational damage."
+    ],
+    [
+      "Competition and dependence on customers",
+      "The report says market share depends on changing consumer behaviour, high dependence on some customers and competition, and that new entrants are offering low-cost products outside vehicles."
+    ],
+    [
+      "Supply problems",
+      "The report says efficiency depends on raw materials arriving on time. It names tariffs, shipment limits on rare earth materials and shortages of electronic components as causes of delay."
+    ],
+    [
+      "Currency swings and a global slowdown",
+      "The report says tariff threats, geopolitical tensions and currency falls could lead to a global slowdown. It says it hedges its currency exposure; typically, hedging means fixing a future exchange rate in advance so that swings matter less."
+    ]
+  ],
+  "context": [
+    "Sold three building businesses in May 2025",
+    "As part of a global restructuring, Bosch Limited sold its video, access and intrusion, and communication systems businesses in May 2025. The report says the Building Technologies division now operates only in fire safety systems."
+  ],
+  "sources": [
+    [
+      "Bosch Limited Annual Report 2025-26 (company website)",
+      "https://bosch.in/media/our_company/shareholder_information/2026/bosch_annual_report_2025-26.pdf"
+    ],
+    [
+      "Bosch Limited annual report page",
+      "https://www.bosch.in/our-company/annual-report/"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "Bosch Limited's revenue, profit and segment figures are pending verification against the filed results, so none are shown here. The report's headline revenue for Bosch India covers a wider group of companies than Bosch Limited itself."
+    }
+  ],
+  "stepsTitle": "From a vehicle maker's order to the payment.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "It makes fuel-system parts and sensors for vehicles, sells spare parts to workshops, and sells power tools and fire safety systems."
+    },
+    {
+      "title": "Who pays",
+      "text": "Vehicle makers, repair workshops, tradespeople and contractors, building owners and other Bosch group companies."
+    },
+    {
+      "title": "How it earns",
+      "text": "It sells products at a price above what they cost to make, and earns fees for engineering projects. Grants and interest on savings add smaller amounts."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Raw materials and components, staff, factory machinery, selling and office costs and royalty payments."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Parts for several fuels",
+      "text": "The report says Bosch offers parts for diesel, petrol, natural gas, hydrogen and ethanol blends. If vehicle makers move between fuels, it has products for several of them rather than one."
+    },
+    {
+      "title": "A large engineering centre in India",
+      "text": "The report says India is home to the Bosch group's largest development centre outside Germany, with software, electronics and mechanical engineering skills. This helps it adapt global products to Indian vehicles."
+    },
+    {
+      "title": "Tighter quality and import rules on tools",
+      "text": "The report says India is tightening checks on imported power tools and quality certification, which it calls structurally favourable for organised players like Bosch Limited, as poor-quality imports are curbed."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Vehicle demand swings",
+      "text": "The report says vehicle sales were muted for the first part of 2025-26 and picked up after GST rate cuts improved affordability. Demand that depends on prices and taxes can change quickly."
+    },
+    {
+      "title": "Price-sensitive fire safety market",
+      "text": "The report says the fire safety market is highly competitive and price sensitive, with a fragmented field of international and Indian players, which limits how much Bosch can charge."
+    },
+    {
+      "title": "Costs of new capacity",
+      "text": "The report says depreciation, the yearly write-off of machinery cost, rose because of investment in plant and machinery for new products and more capacity. These costs continue even if sales slow."
+    }
+  ],
+  "checked": "14 November 2026",
+  "products": [
+    [
+      "Engine fuel systems",
+      "Parts that control how fuel enters a vehicle engine"
+    ],
+    [
+      "Two-wheeler exhaust sensors",
+      "Sensors that check the exhaust gas of motorcycles and scooters"
+    ],
+    [
+      "Spare parts for repair shops",
+      "Replacement parts, engine oil and tools for vehicle workshops"
+    ],
+    [
+      "Power tools",
+      "Grinders, cutters and other tools for tradespeople and industry"
+    ],
+    [
+      "Power tool accessories",
+      "Add-ons sold for use with power tools"
+    ],
+    [
+      "Fire safety systems",
+      "Detectors, alarm panels and design tools for buildings"
+    ],
+    [
+      "Engineering projects for vehicle makers",
+      "Engineering and testing work done for Indian vehicle makers"
+    ],
+    [
+      "Hydrogen and electric vehicle systems",
+      "Battery packs, battery software and hydrogen-engine development"
+    ]
+  ]
+}

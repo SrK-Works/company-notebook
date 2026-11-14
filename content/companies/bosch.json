@@ -1,0 +1,93 @@
+{
+  "order": 81,
+  "company": {
+    "id": "bosch",
+    "name": "Bosch Limited",
+    "ticker": "BOSCHLTD",
+    "sector": "Homes & mobility",
+    "initial": "B",
+    "color": "#c62828",
+    "bg": "#fdecea",
+    "tag": "Makes fuel-system parts and sensors for vehicles, plus power tools and fire alarms",
+    "sources": [
+      [
+        "Bosch Limited shareholder information page",
+        "https://bosch.in/our-company/shareholder-information"
+      ]
+    ],
+    "productSource": "https://bosch.in/media/our_company/shareholder_information/2026/bosch_annual_report_2025-26.pdf",
+    "checked": "14 November 2026",
+    "reviewed": "14 November 2026",
+    "aliases": [
+      "Bosch Limited",
+      "Bosch Ltd",
+      "Bosch India"
+    ]
+  },
+  "offerings": [
+    {
+      "name": "Engine fuel systems",
+      "category": "Parts that control how fuel enters a vehicle engine",
+      "image": "assets/products/bosch-engine-fuel-systems.svg",
+      "url": "https://bosch.in/media/our_company/shareholder_information/2026/bosch_annual_report_2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a fuel injector spraying fuel — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Two-wheeler exhaust sensors",
+      "category": "Sensors that check the exhaust gas of motorcycles and scooters",
+      "image": "assets/products/bosch-two-wheeler-sensors.svg",
+      "url": "https://bosch.in/media/our_company/shareholder_information/2026/bosch_annual_report_2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of an exhaust gas sensor with its cable — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Spare parts for repair shops",
+      "category": "Replacement parts, engine oil and tools for vehicle workshops",
+      "image": "assets/products/bosch-spare-parts.svg",
+      "url": "https://bosch.in/media/our_company/shareholder_information/2026/bosch_annual_report_2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a brake disc and an oil container — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Power tools",
+      "category": "Grinders, cutters and other tools for tradespeople and industry",
+      "image": "assets/products/bosch-power-tools.svg",
+      "url": "https://bosch.in/media/our_company/shareholder_information/2026/bosch_annual_report_2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of an angle grinder — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Power tool accessories",
+      "category": "Add-ons sold for use with power tools",
+      "image": "assets/products/bosch-tool-accessories.svg",
+      "url": "https://bosch.in/media/our_company/shareholder_information/2026/bosch_annual_report_2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a cutting disc and a drill bit — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Fire safety systems",
+      "category": "Detectors, alarm panels and design tools for buildings",
+      "image": "assets/products/bosch-fire-safety.svg",
+      "url": "https://bosch.in/media/our_company/shareholder_information/2026/bosch_annual_report_2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a ceiling smoke detector — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Engineering projects for vehicle makers",
+      "category": "Engineering and testing work done for Indian vehicle makers",
+      "image": "assets/products/bosch-engineering-services.svg",
+      "url": "https://bosch.in/media/our_company/shareholder_information/2026/bosch_annual_report_2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a laptop showing a graph — conceptual picture; not a photograph or the company’s own image"
+    },
+    {
+      "name": "Hydrogen and electric vehicle systems",
+      "category": "Battery packs, battery software and hydrogen-engine development",
+      "image": "assets/products/bosch-hydrogen-electric-systems.svg",
+      "url": "https://bosch.in/media/our_company/shareholder_information/2026/bosch_annual_report_2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a battery and a hydrogen gas cylinder — conceptual picture; not a photograph or the company’s own image"
+    }
+  ]
+}

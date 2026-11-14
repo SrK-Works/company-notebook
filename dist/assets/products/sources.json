@@ -6271,6 +6271,86 @@
       "kind": "illustration",
       "alt": "Clubs — conceptual illustration; not a photograph or product image",
       "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "bosch",
+      "name": "Engine fuel systems",
+      "category": "Parts that control how fuel enters a vehicle engine",
+      "image": "assets/products/bosch-engine-fuel-systems.svg",
+      "url": "https://bosch.in/media/our_company/shareholder_information/2026/bosch_annual_report_2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Engine fuel systems — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "bosch",
+      "name": "Two-wheeler exhaust sensors",
+      "category": "Sensors that check the exhaust gas of motorcycles and scooters",
+      "image": "assets/products/bosch-two-wheeler-sensors.svg",
+      "url": "https://bosch.in/media/our_company/shareholder_information/2026/bosch_annual_report_2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Two-wheeler exhaust sensors — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "bosch",
+      "name": "Spare parts for repair shops",
+      "category": "Replacement parts, engine oil and tools for vehicle workshops",
+      "image": "assets/products/bosch-spare-parts.svg",
+      "url": "https://bosch.in/media/our_company/shareholder_information/2026/bosch_annual_report_2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Spare parts for repair shops — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "bosch",
+      "name": "Power tools",
+      "category": "Grinders, cutters and other tools for tradespeople and industry",
+      "image": "assets/products/bosch-power-tools.svg",
+      "url": "https://bosch.in/media/our_company/shareholder_information/2026/bosch_annual_report_2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Power tools — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "bosch",
+      "name": "Power tool accessories",
+      "category": "Add-ons sold for use with power tools",
+      "image": "assets/products/bosch-tool-accessories.svg",
+      "url": "https://bosch.in/media/our_company/shareholder_information/2026/bosch_annual_report_2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Power tool accessories — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "bosch",
+      "name": "Fire safety systems",
+      "category": "Detectors, alarm panels and design tools for buildings",
+      "image": "assets/products/bosch-fire-safety.svg",
+      "url": "https://bosch.in/media/our_company/shareholder_information/2026/bosch_annual_report_2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Fire safety systems — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "bosch",
+      "name": "Engineering projects for vehicle makers",
+      "category": "Engineering and testing work done for Indian vehicle makers",
+      "image": "assets/products/bosch-engineering-services.svg",
+      "url": "https://bosch.in/media/our_company/shareholder_information/2026/bosch_annual_report_2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Engineering projects for vehicle makers — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "bosch",
+      "name": "Hydrogen and electric vehicle systems",
+      "category": "Battery packs, battery software and hydrogen-engine development",
+      "image": "assets/products/bosch-hydrogen-electric-systems.svg",
+      "url": "https://bosch.in/media/our_company/shareholder_information/2026/bosch_annual_report_2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Hydrogen and electric vehicle systems — conceptual illustration; not a photograph or product image",
+      "src": "Original SVG illustration by Company Notebook"
     }
   ]
 }
