@@ -1,0 +1,24 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited annual financial statements",
+  "checked": "14 November 2026",
+  "coverage": "Whole-group totals · joint venture and associate included by share of profit only",
+  "profitMetric": "Profit after tax",
+  "definition": "Profit for the year after all expenses, exceptional items and tax, including Cummins India's share of the after-tax profit of its joint venture and associate. It is not operating profit or cash flow.",
+  "rows": [
+    {
+      "name": "Cummins India · whole group",
+      "revenue": 12143.19,
+      "profit": 2361.75
+    }
+  ],
+  "source": "https://cummins.com/sites/default/files/india/Legal/cummins-india_annual-report_2025_26.pdf",
+  "location": "Annual report 2025–26, PDF page 274 (printed pages 272–273), consolidated statement of profit and loss; PDF page 282, list of entities consolidated; PDF page 342, note 44 (segments); PDF page 348, note 50 (exceptional items)",
+  "notes": "Figures are reported in ₹ crore and are not converted. Revenue is revenue from operations and excludes other income of ₹517.34 crore. The joint venture (Valvoline Cummins, 50% owned) and the associate (Cummins Generator Technologies India, 48.74% owned) are not subsidiaries: only Cummins India's share of their after-tax profit, ₹266.28 crore, is added to profit, and their sales are not in revenue. Profit is after net exceptional items of ₹81.61 crore: a ₹94.20 crore cost from the government's new Labour Codes (higher staff-benefit provisions, which the company calls regulator-driven and non-recurring), less a ₹12.59 crore gain on selling a subsidiary, Cummins Sales & Service Private Limited. A further net ₹8.36 crore Labour Codes cost of the joint venture and associate sits inside the ₹266.28 crore. The filing names two segments, Engines and Lubes, but Lubes is the joint venture, so it does not give separate profit for the engine, power-generation or distribution businesses. The previous year's revenue was ₹10,390.69 crore and profit after tax ₹1,999.94 crore. Three customers account for about ₹3,734.71 crore of sales (previous year two customers, ₹2,226.78 crore), all in the Engines segment.",
+  "insight": "Part of the group profit is Cummins India's share of its part-owned companies, which are not subsidiaries and do not add to revenue. The totals cannot show profit for any one product line.",
+  "status": "totals",
+  "revenueTotal": 12143.19,
+  "profitTotal": 2361.75
+}
