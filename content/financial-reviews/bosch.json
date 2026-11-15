@@ -1,0 +1,36 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated · Bosch Limited and its subsidiaries",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited annual financial statements",
+  "checked": "14 November 2026",
+  "coverage": "Reported business segments · segment revenue before inter-segment revenue",
+  "profitMetric": "Segment result",
+  "definition": "Each segment's revenue less its own costs, before unallocated depreciation, corporate costs, other income, finance costs, exceptional items and tax. The rows add up to ₹2,792.5 crore, which becomes group profit before tax of ₹3,641.7 crore after those items. It is not profit after tax.",
+  "rows": [
+    {
+      "name": "Automotive Products",
+      "revenue": 17807.4,
+      "profit": 2557.0
+    },
+    {
+      "name": "Consumer Goods",
+      "revenue": 1836.0,
+      "profit": 121.6
+    },
+    {
+      "name": "Others (industrial technology, building technology)",
+      "revenue": 428.5,
+      "profit": 113.9
+    }
+  ],
+  "source": "https://bosch.in/media/our_company/shareholder_information/2026/bosch_annual_report_2025-26.pdf",
+  "location": "Annual report 2025–26, PDF page 353 (printed page 351), consolidated statement of profit and loss; PDF pages 403–404 (printed pages 401–402), note 33 segments; PDF page 416 (printed page 414), note 40 exceptional items",
+  "notes": "Source figures are in ₹ million and were divided by 10. These are the figures of Bosch Limited and its two subsidiaries, not of the wider Bosch India group of 19 companies: the report's headline Bosch India net revenue of ₹40,253.0 crore covers that wider group, whereas Bosch Limited's own revenue from contracts with customers is ₹20,034.7 crore. Segment revenue of ₹20,071.9 crore is before ₹37.2 crore of inter-segment revenue in Others; after it, revenue is ₹20,034.7 crore. Automotive Products covers diesel systems, gasoline systems and automotive aftermarket products and services; Consumer Goods is mainly trading in power tools and consumables. Group profit after tax is ₹2,773.2 crore, which includes a one-off ₹556.0 crore gain from selling the video solutions, access and intrusion and communication systems business to Keenfinity India Private Limited on 1 May 2025 (shown as an exceptional item). Total income including other income of ₹854.0 crore is ₹20,888.7 crore. Bosch does not disclose profit for any single product line inside a segment.",
+  "insight": "Automotive Products brings in most of the segment revenue and most of the segment result. Group profit also includes other income that belongs to no segment and a one-off gain from selling a business.",
+  "status": "segments",
+  "revenueTotal": 20071.9,
+  "revenueTotalLabel": "Segment revenue before inter-segment revenue",
+  "profitTotal": 2792.5,
+  "profitTotalLabel": "Total segment result"
+}
