@@ -1,0 +1,41 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited annual financial statements",
+  "checked": "15 November 2026",
+  "coverage": "Reported geographical segments · segment revenue before inter-segment revenue",
+  "profitMetric": "Segment result",
+  "definition": "Each region's profit from its operations before depreciation, other income, interest, exceptional items and tax, as the segment note presents it. The rows add up to ₹3,156.23 crore, which becomes profit after tax of ₹1,861.47 crore once those items and tax are taken off. It is not profit after tax.",
+  "rows": [
+    {
+      "name": "India",
+      "revenue": 9474.11,
+      "profit": 2208.12
+    },
+    {
+      "name": "Indonesia",
+      "revenue": 1822.59,
+      "profit": 427.02
+    },
+    {
+      "name": "Africa (including Strength of Nature)",
+      "revenue": 3154.46,
+      "profit": 402.15
+    },
+    {
+      "name": "Others",
+      "revenue": 976.68,
+      "profit": 118.94
+    }
+  ],
+  "source": "https://godrejcp.com/uploads/336612_Godrej_Consumer_AR_2025_26_Full_File_High2_1_67ee1af55b_bc5e619767.pdf",
+  "location": "Annual and integrated report 2025–26, PDF page 471 (printed page 471), consolidated statement of profit and loss; PDF pages 547–549 (printed pages 547–549), note 51 segment reporting; PDF page 521, note 36 exceptional items; PDF pages 552–553, note 56 prior period adjustment",
+  "notes": "Figures are reported in ₹ crore and are not converted. The segments are regions, not products: India, Indonesia, Africa (which the filing says includes Strength of Nature, a subsidiary in the USA) and Others. Segment revenue of ₹15,427.84 crore is before ₹249.94 crore of inter-segment revenue; revenue from operations after removing it is ₹15,177.90 crore. From segment result of ₹3,156.23 crore the filing adds other income ₹82.03 crore and interest income ₹184.14 crore, and takes off depreciation and amortisation ₹267.52 crore, finance costs ₹331.57 crore and exceptional items ₹233.15 crore, to reach profit before tax of ₹2,590.16 crore; tax of ₹728.69 crore leaves profit after tax of ₹1,861.47 crore, all belonging to the company's owners. Tax includes a ₹36.91 crore prior-period adjustment. Exceptional items (net cost of ₹233.15 crore) are: restructuring costs ₹80.70 crore (severance pay in Latin America, Africa and India); Labour Codes ₹44.82 crore (extra retirement-pay and leave provisions under India's new labour laws); litigation costs ₹44.11 crore at Strength of Nature in the USA, including a class action over its hair relaxer products; litigation settlement ₹29.47 crore in Indonesia and Ghana; loss on sale of a subsidiary ₹28.26 crore; acquisition costs for the Muuchstac brand ₹15.59 crore; less a reversal of an investment write-down ₹8.82 crore and a ₹0.98 crore fall in contingent consideration payable. The company restated last year's revenue: it now deducts amounts payable to customers from revenue instead of showing them as expenses, with no effect on profit (note 56). No single customer brought in 10% or more of revenue. The company does not disclose profit for any single brand or product.",
+  "insight": "India earns most of the segment result, and Indonesia earns a higher result on each rupee of revenue than Africa does. Because the rows are regions, these figures cannot show which products make the most profit.",
+  "status": "segments",
+  "revenueTotal": 15427.84,
+  "revenueTotalLabel": "Segment revenue before inter-segment revenue",
+  "profitTotal": 3156.23,
+  "profitTotalLabel": "Total segment result"
+}
