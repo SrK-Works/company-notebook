@@ -14,4 +14,6 @@ The intended reader is beginning an investing journey and may never have encount
 
 Before publishing, read the opening as someone unfamiliar with the industry. They should be able to answer: What does the company actually do? Who pays it and for what? What costs money? What could make the business harder? Explain any word required to answer those questions.
 
+For the rollout plan, batch status, pipeline and push rules, read `docs/rollout.md`.
+
 Company lesson authoring and financial verification have additional scoped instructions in `content/company-lessons/AGENTS.md` and `content/financial-reviews/AGENTS.md`. Keep each company independently maintainable, regenerate the relevant bundles, and run the existing checks when changing the corresponding content.
