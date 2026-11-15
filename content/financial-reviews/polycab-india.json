@@ -1,0 +1,36 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited annual financial statements",
+  "checked": "15 November 2026",
+  "coverage": "Reported business segments · income from external customers only, inter-segment sales removed",
+  "profitMetric": "Segment result",
+  "definition": "Each segment's operating profit from outside customers, after depreciation but before finance income, finance costs and tax. The rows add up to ₹3,650.77 crore, which becomes profit before tax of ₹3,613.08 crore after finance income and finance costs. It is not profit after tax.",
+  "rows": [
+    {
+      "name": "Wires and Cables (manufacture and sale of wires and cables)",
+      "revenue": 25178.88,
+      "profit": 3430.38
+    },
+    {
+      "name": "Fast moving electrical goods, FMEG (fans, LED lighting, switches, solar products, pumps and domestic appliances)",
+      "revenue": 2069.33,
+      "profit": 54.84
+    },
+    {
+      "name": "EPC (design, engineering, supply of materials and execution of projects on a turnkey basis)",
+      "revenue": 1666.50,
+      "profit": 165.55
+    }
+  ],
+  "source": "https://nsearchives.nseindia.com/annual_reports/AR_29368_POLYCAB_2025_2026_A_20879015_09062026002210.pdf",
+  "location": "Integrated annual report 2025–26 (NSE-filed copy), PDF page 318 (printed page 315), consolidated statement of profit and loss; PDF pages 388–389 (printed pages 385–386), note 40 segment reporting; PDF page 377 (printed page 374), note 32 employee benefits expense; PDF page 348 (printed page 345), note 13 tax",
+  "notes": "Source figures are in ₹ million and were divided by 10; the rows are rounded to two decimals and add to the reported totals with a gap of ₹0.01 crore or less. The rows use the segment table's external columns, so inter-segment sales (₹355.54 crore, all by Wires and Cables) are not counted twice. Segment income of ₹28,914.71 crore is slightly higher than revenue from operations of ₹28,883.79 crore because it includes ₹30.91 crore of other income. Segment results are after depreciation but before finance income of ₹205.34 crore and finance costs of ₹243.04 crore, which the filing does not allocate to segments; they lead to profit before tax of ₹3,613.08 crore. Tax of ₹904.65 crore leaves profit for the year of ₹2,708.43 crore, of which ₹2,672.03 crore belongs to the company's owners and ₹36.39 crore to minority owners of subsidiaries. The share of profit from its joint venture is nil. Profit is after a one-off cost of ₹20.06 crore: the new Labour Codes (the government's revised labour laws, notified 21 November 2025) raised the provision for retirement pay (gratuity) and paid leave, and the company booked it in employee benefits expense, not as an exceptional item. Polycab does not disclose profit for any single product.",
+  "insight": "Wires and Cables brings in most of the segment income and nearly all of the segment result. FMEG, which covers fans, lights and switches among other products, earns a very small result on its income, so a small share of profit is not the same as a small share of sales.",
+  "status": "segments",
+  "revenueTotal": 28914.71,
+  "revenueTotalLabel": "Segment income from external customers (includes other income of ₹30.91 crore)",
+  "profitTotal": 3650.77,
+  "profitTotalLabel": "Total segment result"
+}
