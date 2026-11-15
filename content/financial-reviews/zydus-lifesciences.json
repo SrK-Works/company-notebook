@@ -1,0 +1,36 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated · company and subsidiaries together",
+  "coverage": "Reported business segments",
+  "unit": "₹ crore",
+  "profitMetric": "Segment result",
+  "definition": "The result for each business on the company’s reported basis. Added together, the results give profit before separately listed unusual costs, income tax and the share of profit from jointly owned ventures. They are not net profit.",
+  "rows": [
+    {
+      "name": "Pharmaceuticals",
+      "revenue": 22412.1,
+      "profit": 7048.8
+    },
+    {
+      "name": "Consumer Products",
+      "revenue": 3954,
+      "profit": 267.1
+    },
+    {
+      "name": "Medical technologies",
+      "revenue": 782.3,
+      "profit": -178.2
+    }
+  ],
+  "source": "https://www.zyduslife.com/investor/admin/uploads/14/2/2025-2026.pdf",
+  "sourceLabel": "Audited integrated annual report",
+  "location": "PDF pages 307, 362–364 and 377 · printed pages 399, 454–456 and 469 · consolidated profit and loss and Notes 42, 44 and 48",
+  "checked": "15 November 2026",
+  "notes": "The amounts are converted from rupees in millions. After ₹516.6 crore of separately listed costs, the combined result becomes ₹6,621.1 crore before tax and joint-venture profit. The costs were ₹397.5 crore for a medicine patent settlement, ₹84.9 crore for higher employee benefits owed under new wage rules, ₹24.5 crore for buying Comfort Click and ₹9.7 crore for winding up the Naturell company while transferring its running business. After tax and Zydus’s share of profit from jointly owned ventures, group profit was ₹5,123.5 crore, of which ₹5,040 crore belonged to owners of the parent. The accounts also record a ₹1,280.5 crore net foreign-currency gain within expenses and a ₹134.1 crore reduction in tax expense from recalculating future tax balances at changed rates. One outside customer accounted for more than a tenth of group revenue.",
+  "insight": "Medicines and their ingredients brought in most revenue and the largest reported result. Consumer Products made a positive contribution; Medical technologies showed a loss on this measure. The table does not tell us what any individual medicine, device or wellness brand earned.",
+  "revenueTotal": 27148.4,
+  "profitTotal": 7137.7,
+  "revenueTotalLabel": "Group revenue from operations",
+  "profitTotalLabel": "Profit before unusual costs, tax and joint-venture contribution",
+  "status": "segments"
+}

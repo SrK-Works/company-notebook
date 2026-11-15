@@ -197,8 +197,12 @@
   ],
   "financialNotes": [
     {
-      "title": "Annual figures are awaiting verification",
-      "text": "The figures will be added after checking the group’s audited statements. The product examples above do not tell us what profit each medicine, brand or device earns."
+      "title": "Comparing the three businesses",
+      "text": "These annual figures cover Zydus Lifesciences and the companies it controls. The result shown for each business is before the unusual costs listed separately in the accounts and before tax. It cannot tell you how much a particular medicine or brand earns."
+    },
+    {
+      "title": "Why final profit differs from the table",
+      "text": "Zydus paid to settle a medicine patent dispute and recorded higher employee benefits owed under new wage rules. Buying and winding up businesses also added costs. The group separately recalculated future tax amounts at changed rates; this affected reported profit but was not a cash receipt. Read the split between total group profit and the part belonging to Zydus Lifesciences shareholders."
     }
   ],
   "checked": "15 November 2026"
