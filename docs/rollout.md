@@ -9,9 +9,9 @@ Cover every NIFTY 50 company (done) and then the NIFTY Next 50 with a plain-lang
 ## Status (as of 15 November 2026)
 
 - NIFTY 50: complete, lessons and verified figures.
-- NIFTY Next 50: 15 of 48 missing companies added (batches 1 to 4 on main, batch 3 figures merged 15 Nov 2026).
+- NIFTY Next 50: 20 of 48 originally missing companies added (batches 1 to 4, with lessons and verified figures). 28 remain.
 - The batch list and order are in `content/source-reviews/nifty-next50-gap-2026-11-14.json` (`constituents[].batch`, `status`). Next up is batch 5: Cholamandalam Investment and Finance, HDFC Asset Management, Muthoot Finance, Tata Capital, Zydus Lifesciences. Batches 6 to 10 follow.
-- When a batch lands, update `counts.addedSoFar`, each constituent's `status` and `id` in that file.
+- When a batch lands, update `counts.addedSoFar`, `counts.missing`, each constituent's `status` and `id` in that file.
 
 ## Playbooks
 

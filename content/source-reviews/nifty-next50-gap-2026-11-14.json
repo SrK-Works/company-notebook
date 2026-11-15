@@ -7,8 +7,8 @@
   "counts": {
     "constituents": 50,
     "alreadyCovered": 2,
-    "missing": 33,
-    "addedSoFar": 15
+    "missing": 28,
+    "addedSoFar": 20
   },
   "specialCases": [
     "Tata Motors Ltd. (TMCV) in this list is the separately listed trucks and buses company that split from the passenger-vehicle company (see the NIFTY 50 gap file, TMPV).",
@@ -103,8 +103,8 @@
       "ticker": "BOSCHLTD",
       "industry": "Automobile and Auto Components",
       "isin": "INE323A01026",
-      "id": null,
-      "status": "missing",
+      "id": "bosch",
+      "status": "added in batch 4",
       "batch": 4
     },
     {
@@ -148,8 +148,8 @@
       "ticker": "CUMMINSIND",
       "industry": "Capital Goods",
       "isin": "INE298A01020",
-      "id": null,
-      "status": "missing",
+      "id": "cummins-india",
+      "status": "added in batch 4",
       "batch": 4
     },
     {
@@ -166,8 +166,8 @@
       "ticker": "DIVISLAB",
       "industry": "Healthcare",
       "isin": "INE361B01024",
-      "id": null,
-      "status": "missing",
+      "id": "divis-laboratories",
+      "status": "added in batch 4",
       "batch": 4
     },
     {
@@ -346,8 +346,8 @@
       "ticker": "SIEMENS",
       "industry": "Capital Goods",
       "isin": "INE003A01024",
-      "id": null,
-      "status": "missing",
+      "id": "siemens",
+      "status": "added in batch 4",
       "batch": 4
     },
     {
@@ -400,8 +400,8 @@
       "ticker": "TORNTPHARM",
       "industry": "Healthcare",
       "isin": "INE685A01028",
-      "id": null,
-      "status": "missing",
+      "id": "torrent-pharmaceuticals",
+      "status": "added in batch 4",
       "batch": 4
     },
     {
