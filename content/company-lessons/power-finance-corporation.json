@@ -1,0 +1,191 @@
+{
+  "summary": "Power Finance Corporation lends money to companies that produce and deliver electricity. It also funds selected infrastructure and transport projects.",
+  "description": "A company building a solar farm must pay for panels and construction before it can sell electricity. An electricity distributor may need new cables or equipment before users can benefit. Power Finance Corporation lends to such borrowers and collects interest and repayments under the loan agreement. It is a lender rather than the company that produces or delivers power.",
+  "money": "Borrowers pay interest for using the money and applicable charges. Power Finance Corporation pays interest on funds raised through bonds and other borrowings, spends on running the business and records amounts for loans it may not recover. Borrowers also return the original loan, which is not itself income.",
+  "customers": "State-owned utilities, private power companies and other eligible borrowers pay the lender. A household pays its local supplier for electricity; that household bill is different from the loan payment the utility or project company makes to Power Finance Corporation.",
+  "drivers": "How much it lends and at what terms, how much it pays to borrow, whether project and utility customers repay, and how much it may have to allow for losses.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "It lends to build power plants and improve the lines and equipment that carry electricity. It also lends for selected non-power infrastructure."
+    },
+    {
+      "title": "Who pays",
+      "text": "Power companies, utilities and other borrowers pay interest and repay the amount borrowed. Households do not pay this lender for their electricity."
+    },
+    {
+      "title": "How it earns",
+      "text": "It earns interest and other reported income. It must cover interest paid on the money it raises and losses on loans."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Borrowing costs, staff and other operating costs, and charges for loans that may not be recovered."
+    }
+  ],
+  "groups": [
+    {
+      "title": "Power-generation loans",
+      "examples": "Conventional power stations and renewable projects such as solar and wind.",
+      "explanation": "Generation means making electricity. A borrower needs money to buy equipment and build the site. Payment back to the lender depends on the loan terms and who is obliged to repay."
+    },
+    {
+      "title": "Loans for long-distance power lines",
+      "examples": "Transmission lines and the stations that connect them.",
+      "explanation": "Transmission carries electricity in bulk from where it is made to where it is needed. Financing those lines is different from lending to the company making the electricity."
+    },
+    {
+      "title": "Loans to distribution companies",
+      "examples": "Funding for the local networks that take electricity to customers.",
+      "explanation": "A distributor brings power to homes or businesses and collects bills. Its ability to recover the cost of buying and delivering electricity can affect its ability to repay."
+    },
+    {
+      "title": "Loans outside the power network",
+      "examples": "Selected infrastructure and projects that move or store goods.",
+      "explanation": "Read what the loan finances and who has to repay it. A project outside electricity can have different customers, costs and sources of repayment."
+    }
+  ],
+  "basics": [
+    {
+      "title": "How can a lender charge interest without selling electricity?",
+      "text": "It gives borrowers money now and is paid for the use of that money. Returning the original amount, called principal, gives the lender its money back. The interest it keeps after paying funding costs still has to cover staff, losses and other expenses."
+    },
+    {
+      "title": "What if a large borrower falls behind?",
+      "text": "The lender may record a provision, an accounting charge for amounts it may not recover. It can then pursue repayment under the agreement. Restructuring means changing loan terms; it does not mean the money has been collected."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Raise money for lending",
+      "text": "Sell bonds, which are promises to repay investors with interest, and borrow through other permitted routes."
+    },
+    {
+      "title": "Check what will repay the loan",
+      "text": "Examine the borrower, project costs, expected payments and any assets pledged as backup. Set loan terms under the agreed arrangement."
+    },
+    {
+      "title": "Release funding as agreed",
+      "text": "Pay out funds under the loan terms, which may tie payment to stages of the work. The borrower builds or upgrades the facilities."
+    },
+    {
+      "title": "Collect money and meet funding bills",
+      "text": "Collect interest and repayments, follow up delays and pay the company’s own funding costs. Principal returned and profit are different measures."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "A generator and a distribution company earn differently",
+      "text": "A station sells electricity it makes. A local distributor buys power and collects bills from users. Borrowing by each can depend on different payment arrangements and risks even though both are in electricity."
+    },
+    {
+      "title": "A project delay can matter years after the loan was approved",
+      "text": "Building a station or line takes time. If work slips, the borrower may not start earning from it when expected. Read the completion date, expected payments and backup arrangements."
+    },
+    {
+      "title": "The controlled lender already affects the group numbers",
+      "text": "Rural Electrification Corporation (REC), now named REC Limited, is a controlled lender. The combined accounts already include its results, while PFC’s own accounts leave them out. The proposed legal merger would not be what brings the controlled lender into the group accounts."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Electricity projects need money before billing begins",
+      "text": "New power stations, long-distance lines and local networks need equipment and construction funding ahead of service."
+    },
+    {
+      "title": "Several kinds of electricity customers need loans",
+      "text": "Generation and delivery require different projects, giving the lender more than one kind of borrower and funding need."
+    },
+    {
+      "title": "Different routes to raise funds",
+      "text": "The company issues bonds and can borrow from lenders at home and overseas. It can compare funding sources and repayment dates before committing to a loan."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Large borrowers can make the lender dependent on their repayments",
+      "text": "Check what share of loans goes to particular state utilities or projects. Even with many borrowers, a few large exposures may matter."
+    },
+    {
+      "title": "Long loans can outlast the money raised to fund them",
+      "text": "The lender must plan for payment dates and may need to renew some funding before loans are fully collected."
+    },
+    {
+      "title": "Electricity bill collections can affect the borrower’s finances",
+      "text": "A distributor may face a gap between buying electricity and collecting enough from customers. The loan is only as strong as its actual repayment arrangements."
+    }
+  ],
+  "watch": [
+    [
+      "Who is borrowing, and what will pay the loan back?",
+      "Project companies, state utilities and other borrowers have different sources of repayment.",
+      "Find the large borrower categories and check what the company discloses about payments, guarantees and overdue loans."
+    ],
+    [
+      "Are projects becoming usable on schedule?",
+      "A finished station or line can begin delivering the service it was built for.",
+      "Read construction and start-of-operation updates. Compare amounts approved with amounts actually paid out."
+    ],
+    [
+      "Do more loans leave enough after borrowing costs?",
+      "The lender pays interest on its own debt.",
+      "Read interest earned and funding costs together. Examine when funding must be renewed and whether incoming payments cover the required dates."
+    ],
+    [
+      "What explains any change in loans with repayment trouble?",
+      "Collecting a loan is different from recognising an accounting recovery.",
+      "Compare new troubled loans, cash recovered, loans removed from the accounts and changes in loss allowances."
+    ],
+    [
+      "Does the report describe the company or the whole group?",
+      "REC’s scale can change what revenues and costs the totals include.",
+      "Compare the parent-only and combined statements consistently. Look for later notices on the proposed merger and its effective date."
+    ]
+  ],
+  "risks": [
+    [
+      "Costs rise before borrowers can pay them",
+      "Changes in equipment, fuel or construction costs can strain a borrower’s ability to fulfil the loan terms."
+    ],
+    [
+      "Foreign borrowing changes in rupee value",
+      "Exchange rates can change how much a foreign loan costs in rupees. Agreements to reduce that exposure may not cover all of it."
+    ],
+    [
+      "Loan security recovers less than hoped",
+      "Borrower guarantees or pledged assets may take time to enforce and may not recover everything owed."
+    ],
+    [
+      "Rules and electricity pricing change",
+      "Changes to rates or utility support can affect borrower cash and lending requirements."
+    ]
+  ],
+  "context": [
+    "November 2026: the proposed REC merger was still subject to approvals",
+    "Power Finance Corporation’s November exchange filing says the Reserve Bank of India and the stock exchanges had provided no-objection letters, but other requirements remained. REC was already a controlled company; a legal merger would combine the entities and should not be treated as completed on the basis of those letters."
+  ],
+  "sources": [
+    [
+      "Official annual report, lending activities and risks",
+      "https://pfcindia.co.in/ensite/DocumentRepository/ckfinder/files/Investors/Annual_Reports/PFC_AR%202025_C2C%20design_v14_06082025.PDF"
+    ],
+    [
+      "Company issue prospectus, lending mix and infrastructure activities",
+      "https://www.pfcindia.co.in/ensite/DocumentRepository/ckfinder/files/Investors/Tranche_Prospectus2025-2026.pdf"
+    ],
+    [
+      "Audited annual company and group results filed in May 2026",
+      "https://nsearchives.nseindia.com/corporate/PFC2023_13052026134556_OUTCOME13052026SIGNED.pdf"
+    ],
+    [
+      "November 2026 exchange filing, status of the proposed REC merger",
+      "https://nsearchives.nseindia.com/corporate/PFC2023_04112026165511_Intimation04112026signedoutcome.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "The annual income and profit table will appear after the published financial statement is checked."
+    }
+  ],
+  "checked": "15 November 2026"
+}

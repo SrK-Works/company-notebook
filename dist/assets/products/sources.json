@@ -7461,6 +7461,366 @@
       "kind": "illustration",
       "alt": "Illustration of artificial knee joint components; not an image of a specific Amplitude Surgical model",
       "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "canara-bank",
+      "src": "Original Company Notebook illustration",
+      "name": "Savings accounts",
+      "category": "Store personal money and pay from it",
+      "image": "assets/products/canara-bank-savings.svg",
+      "url": "https://www.canarabank.bank.in/savings-bank-account",
+      "kind": "illustration",
+      "alt": "A bank card — original illustration, not a photograph"
+    },
+    {
+      "company": "canara-bank",
+      "src": "Original Company Notebook illustration",
+      "name": "Fixed deposits",
+      "category": "Keep money with the bank for a chosen term",
+      "image": "assets/products/canara-bank-deposits.svg",
+      "url": "https://www.canarabank.bank.in/fixed-deposit",
+      "kind": "illustration",
+      "alt": "A deposit certificate — original illustration, not a photograph"
+    },
+    {
+      "company": "canara-bank",
+      "src": "Original Company Notebook illustration",
+      "name": "Housing loans",
+      "category": "Borrow for a home and repay in instalments",
+      "image": "assets/products/canara-bank-home.svg",
+      "url": "https://www.canarabank.bank.in/pages/housing-loan",
+      "kind": "illustration",
+      "alt": "A house — original illustration, not a photograph"
+    },
+    {
+      "company": "canara-bank",
+      "src": "Original Company Notebook illustration",
+      "name": "Small business loans",
+      "category": "Borrow for equipment or everyday bills",
+      "image": "assets/products/canara-bank-business.svg",
+      "url": "https://www.canarabank.bank.in/pages/msme-products-and-schemes",
+      "kind": "illustration",
+      "alt": "A shop with a striped awning — original illustration, not a photograph"
+    },
+    {
+      "company": "canara-bank",
+      "src": "Original Company Notebook illustration",
+      "name": "Kisan Credit Card",
+      "category": "Borrow for crop and other eligible farming costs",
+      "image": "assets/products/canara-bank-farm.svg",
+      "url": "https://www.canarabank.bank.in/pages/kisan-credit-card-scheme",
+      "kind": "illustration",
+      "alt": "A crop sprouting from fields — original illustration, not a photograph"
+    },
+    {
+      "company": "canara-bank",
+      "src": "Original Company Notebook illustration",
+      "name": "Canara ai1",
+      "category": "Check balances, transfer money or manage cards from a phone",
+      "image": "assets/products/canara-bank-mobile.svg",
+      "url": "https://canarites.canarabank.bank.in/QR_CANARA/Home/CanaraAi1",
+      "kind": "illustration",
+      "alt": "A smartphone with transfer arrows — original illustration, not a photograph"
+    },
+    {
+      "company": "canara-bank",
+      "src": "Original Company Notebook illustration",
+      "name": "Current accounts",
+      "category": "Receive and make business payments",
+      "image": "assets/products/canara-bank-current.svg",
+      "url": "https://www.canarabank.bank.in/canara-current-account",
+      "kind": "illustration",
+      "alt": "A briefcase — original illustration, not a photograph"
+    },
+    {
+      "company": "canara-bank",
+      "src": "Original Company Notebook illustration",
+      "name": "Canara ai1 Merchant",
+      "category": "Help shops manage customer payments",
+      "image": "assets/products/canara-bank-merchant.svg",
+      "url": "https://www.canarabank.bank.in/ai1-merchant-application",
+      "kind": "illustration",
+      "alt": "A square payment code — original illustration, not a photograph"
+    },
+    {
+      "company": "indian-railway-finance-corporation",
+      "src": "Original conceptual illustration for Company Notebook",
+      "name": "Locomotive finance",
+      "category": "Helps pay for engines that pull trains",
+      "image": "assets/products/indian-railway-finance-corporation-locomotives.svg",
+      "kind": "illustration",
+      "url": "https://irfc.co.in/sites/default/files/inline-files/Final_Investor_Presentation_FY_2025-26_0.pdf",
+      "alt": "A locomotive — conceptual illustration; not a photograph"
+    },
+    {
+      "company": "indian-railway-finance-corporation",
+      "src": "Original conceptual illustration for Company Notebook",
+      "name": "Passenger coach finance",
+      "category": "Helps pay for train carriages that carry passengers",
+      "image": "assets/products/indian-railway-finance-corporation-passenger-coaches.svg",
+      "kind": "illustration",
+      "url": "https://irfc.co.in/sites/default/files/inline-files/Annual%20Report%202024-25_0.pdf",
+      "alt": "A passenger train carriage — conceptual illustration; not a photograph"
+    },
+    {
+      "company": "indian-railway-finance-corporation",
+      "src": "Original conceptual illustration for Company Notebook",
+      "name": "Freight wagon finance",
+      "category": "Helps pay for wagons that carry goods",
+      "image": "assets/products/indian-railway-finance-corporation-freight-wagons.svg",
+      "kind": "illustration",
+      "url": "https://irfc.co.in/sites/default/files/inline-files/Annual%20Report%202024-25_0.pdf",
+      "alt": "A freight wagon — conceptual illustration; not a photograph"
+    },
+    {
+      "company": "indian-railway-finance-corporation",
+      "src": "Original conceptual illustration for Company Notebook",
+      "name": "Railway project finance",
+      "category": "Funds long-lived infrastructure for the railway network",
+      "image": "assets/products/indian-railway-finance-corporation-railway-projects.svg",
+      "kind": "illustration",
+      "url": "https://irfc.co.in/sites/default/files/inline-files/Final_Investor_Presentation_FY_2025-26_0.pdf",
+      "alt": "Railway tracks and supports — conceptual illustration; not a photograph"
+    },
+    {
+      "company": "indian-railway-finance-corporation",
+      "src": "Original conceptual illustration for Company Notebook",
+      "name": "Freight train leasing for NTPC",
+      "category": "Finances sets of wagons used by a power producer",
+      "image": "assets/products/indian-railway-finance-corporation-coal-wagons.svg",
+      "kind": "illustration",
+      "url": "https://irfc.co.in/sites/default/files/inline-files/Annual%20Report%202024-25_0.pdf",
+      "alt": "A freight wagon beside a power station — conceptual illustration; not a photograph"
+    },
+    {
+      "company": "indian-railway-finance-corporation",
+      "src": "Original conceptual illustration for Company Notebook",
+      "name": "Freight corridor refinancing",
+      "category": "Replaces an existing loan for a railway route built to carry goods",
+      "image": "assets/products/indian-railway-finance-corporation-freight-corridor.svg",
+      "kind": "illustration",
+      "url": "https://irfc.co.in/sites/default/files/inline-files/Disclosure%20under%20SEBI%20LODR%20Regulations_24.12.2025.pdf",
+      "alt": "Freight containers and a transport vehicle — conceptual illustration; not a photograph"
+    },
+    {
+      "company": "indian-railway-finance-corporation",
+      "src": "Original conceptual illustration for Company Notebook",
+      "name": "Loans to rail-linked companies",
+      "category": "Provides loans to businesses linked to railway and transport infrastructure",
+      "image": "assets/products/indian-railway-finance-corporation-rail-company-loans.svg",
+      "kind": "illustration",
+      "url": "https://irfc.co.in/sites/default/files/inline-files/Final_Investor_Presentation_FY_2025-26_0.pdf",
+      "alt": "A loan document and payment symbol — conceptual illustration; not a photograph"
+    },
+    {
+      "company": "power-finance-corporation",
+      "src": "Original conceptual illustration for Company Notebook",
+      "name": "Conventional power plant loans",
+      "category": "Finance stations that produce electricity from sources such as coal or gas",
+      "image": "assets/products/power-finance-corporation-thermal-power.svg",
+      "kind": "illustration",
+      "url": "https://pfcindia.co.in/ensite/DocumentRepository/ckfinder/files/Investors/Annual_Reports/PFC_AR%202025_C2C%20design_v14_06082025.PDF",
+      "alt": "A conventional power station — conceptual illustration; not a photograph"
+    },
+    {
+      "company": "power-finance-corporation",
+      "src": "Original conceptual illustration for Company Notebook",
+      "name": "Solar project loans",
+      "category": "Finance equipment that turns sunlight into electricity",
+      "image": "assets/products/power-finance-corporation-solar.svg",
+      "kind": "illustration",
+      "url": "https://pfcindia.co.in/ensite/DocumentRepository/ckfinder/files/Investors/Annual_Reports/PFC_AR%202025_C2C%20design_v14_06082025.PDF",
+      "alt": "A solar panel — conceptual illustration; not a photograph"
+    },
+    {
+      "company": "power-finance-corporation",
+      "src": "Original conceptual illustration for Company Notebook",
+      "name": "Wind project loans",
+      "category": "Finance equipment that uses wind to generate electricity",
+      "image": "assets/products/power-finance-corporation-wind.svg",
+      "kind": "illustration",
+      "url": "https://pfcindia.co.in/ensite/DocumentRepository/ckfinder/files/Investors/Annual_Reports/PFC_AR%202025_C2C%20design_v14_06082025.PDF",
+      "alt": "A wind turbine — conceptual illustration; not a photograph"
+    },
+    {
+      "company": "power-finance-corporation",
+      "src": "Original conceptual illustration for Company Notebook",
+      "name": "Hydropower loans",
+      "category": "Finance projects that use moving water to generate electricity",
+      "image": "assets/products/power-finance-corporation-hydro.svg",
+      "kind": "illustration",
+      "url": "https://pfcindia.co.in/ensite/DocumentRepository/ckfinder/files/Investors/Annual_Reports/PFC_AR%202025_C2C%20design_v14_06082025.PDF",
+      "alt": "Water beside a dam — conceptual illustration; not a photograph"
+    },
+    {
+      "company": "power-finance-corporation",
+      "src": "Original conceptual illustration for Company Notebook",
+      "name": "Transmission project loans",
+      "category": "Finance high-voltage lines that move power over long distances",
+      "image": "assets/products/power-finance-corporation-transmission.svg",
+      "kind": "illustration",
+      "url": "https://pfcindia.co.in/ensite/DocumentRepository/ckfinder/files/Investors/Annual_Reports/PFC_AR%202025_C2C%20design_v14_06082025.PDF",
+      "alt": "High-voltage electricity pylons — conceptual illustration; not a photograph"
+    },
+    {
+      "company": "power-finance-corporation",
+      "src": "Original conceptual illustration for Company Notebook",
+      "name": "Distribution loans",
+      "category": "Finance local electricity companies and network work",
+      "image": "assets/products/power-finance-corporation-distribution.svg",
+      "kind": "illustration",
+      "url": "https://pfcindia.co.in/ensite/DocumentRepository/ckfinder/files/Investors/Annual_Reports/PFC_AR%202025_C2C%20design_v14_06082025.PDF",
+      "alt": "Power lines supplying a home — conceptual illustration; not a photograph"
+    },
+    {
+      "company": "power-finance-corporation",
+      "src": "Original conceptual illustration for Company Notebook",
+      "name": "Infrastructure and logistics loans",
+      "category": "Fund eligible infrastructure and goods-movement projects beyond the power sector",
+      "image": "assets/products/power-finance-corporation-infrastructure.svg",
+      "kind": "illustration",
+      "url": "https://www.pfcindia.co.in/ensite/DocumentRepository/ckfinder/files/Investors/Tranche_Prospectus2025-2026.pdf",
+      "alt": "Freight containers and a truck — conceptual illustration; not a photograph"
+    },
+    {
+      "company": "punjab-national-bank",
+      "src": "Original Company Notebook illustration",
+      "name": "Savings accounts",
+      "category": "Keep personal money and make payments",
+      "image": "assets/products/punjab-national-bank-accounts.svg",
+      "url": "https://www.pnb.bank.in/deposit.aspx",
+      "kind": "illustration",
+      "alt": "A bank card — original illustration, not a photograph"
+    },
+    {
+      "company": "punjab-national-bank",
+      "src": "Original Company Notebook illustration",
+      "name": "Fixed deposits",
+      "category": "Save for a chosen term in return for interest",
+      "image": "assets/products/punjab-national-bank-deposits.svg",
+      "url": "https://www.pnb.bank.in/deposit.aspx",
+      "kind": "illustration",
+      "alt": "A savings certificate — original illustration, not a photograph"
+    },
+    {
+      "company": "punjab-national-bank",
+      "src": "Original Company Notebook illustration",
+      "name": "Home loans",
+      "category": "Borrow for a home and repay in instalments",
+      "image": "assets/products/punjab-national-bank-housing.svg",
+      "url": "https://www.pnb.bank.in/housingloanforpublic.html",
+      "kind": "illustration",
+      "alt": "A house — original illustration, not a photograph"
+    },
+    {
+      "company": "punjab-national-bank",
+      "src": "Original Company Notebook illustration",
+      "name": "PNB Pratibha",
+      "category": "Borrow for an eligible higher education course",
+      "image": "assets/products/punjab-national-bank-education.svg",
+      "url": "https://www.pnb.bank.in/pnb-pratibha-new-education-loan-scheme.html",
+      "kind": "illustration",
+      "alt": "A graduation cap — original illustration, not a photograph"
+    },
+    {
+      "company": "punjab-national-bank",
+      "src": "Original Company Notebook illustration",
+      "name": "Agriculture credit",
+      "category": "Borrow for inputs and other eligible farm costs",
+      "image": "assets/products/punjab-national-bank-farming.svg",
+      "url": "https://www.pnb.bank.in/agriculture-credit-schemes.html",
+      "kind": "illustration",
+      "alt": "A plant growing in a field — original illustration, not a photograph"
+    },
+    {
+      "company": "punjab-national-bank",
+      "src": "Original Company Notebook illustration",
+      "name": "PNB ONE",
+      "category": "Use personal accounts and make transfers on a phone",
+      "image": "assets/products/punjab-national-bank-one.svg",
+      "url": "https://www.pnb.bank.in/retail-internet-banking.html",
+      "kind": "illustration",
+      "alt": "A smartphone with payment arrows — original illustration, not a photograph"
+    },
+    {
+      "company": "punjab-national-bank",
+      "src": "Original Company Notebook illustration",
+      "name": "PNB ONE BIZ",
+      "category": "Use business accounts and pay suppliers or employees",
+      "image": "assets/products/punjab-national-bank-biz.svg",
+      "url": "https://www.pnb.bank.in/PNB-One-Biz.html",
+      "kind": "illustration",
+      "alt": "A briefcase for a business account — original illustration, not a photograph"
+    },
+    {
+      "company": "union-bank-of-india",
+      "name": "Savings accounts",
+      "category": "An everyday place to keep money and make payments",
+      "image": "assets/products/union-bank-of-india-savings.svg",
+      "url": "https://www.unionbankofindia.bank.in/en/listing/saving-bank-deposit-products",
+      "kind": "illustration",
+      "alt": "Illustration of a savings passbook with a line for an account balance",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "union-bank-of-india",
+      "name": "Fixed deposits",
+      "category": "Money kept with the bank for an agreed term",
+      "image": "assets/products/union-bank-of-india-fixed.svg",
+      "url": "https://casa.unionbankofindia.bank.in/fixed-deposit/",
+      "kind": "illustration",
+      "alt": "Illustration of a calendar beside coins, representing a deposit for a fixed period",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "union-bank-of-india",
+      "name": "Union Home",
+      "category": "A loan people can use to buy, build or improve a home",
+      "image": "assets/products/union-bank-of-india-home.svg",
+      "url": "https://www.unionbankofindia.bank.in/en/details/home-loan",
+      "kind": "illustration",
+      "alt": "Illustration of a house and a key, representing home borrowing",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "union-bank-of-india",
+      "name": "Kisan Credit Card (Union Green Card)",
+      "category": "Borrowing for eligible farming expenses",
+      "image": "assets/products/union-bank-of-india-farm.svg",
+      "url": "https://www.unionbankofindia.bank.in/en/details/kisan-credit-card-union-green-card",
+      "kind": "illustration",
+      "alt": "Illustration of a crop growing beside a seed bag, representing farm borrowing",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "union-bank-of-india",
+      "name": "Union MSME Suvidha",
+      "category": "Money for small firms to buy stock or invest in equipment",
+      "image": "assets/products/union-bank-of-india-small.svg",
+      "url": "https://www.unionbankofindia.bank.in/en/details/union-msme-suvidha",
+      "kind": "illustration",
+      "alt": "Illustration of a small shop with stocked shelves, representing borrowing for business",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "union-bank-of-india",
+      "name": "Union ease",
+      "category": "Personal mobile banking for accounts and payments",
+      "image": "assets/products/union-bank-of-india-mobile.svg",
+      "url": "https://www.unionbankofindia.bank.in/en/details/union-ease",
+      "kind": "illustration",
+      "alt": "Illustration of a phone sending a payment; no real app screen is shown",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "union-bank-of-india",
+      "name": "Union e-biz",
+      "category": "An app to manage payments and collections for eligible businesses",
+      "image": "assets/products/union-bank-of-india-business.svg",
+      "url": "https://www.unionbankofindia.bank.in/en/details/union-e-biz",
+      "kind": "illustration",
+      "alt": "Illustration of a phone and a shop receipt; no real app screen is shown",
+      "src": "Original SVG illustration by Company Notebook"
     }
   ]
 }

@@ -1,0 +1,121 @@
+{
+  "order": 100,
+  "company": {
+    "id": "union-bank-of-india",
+    "name": "Union Bank of India",
+    "ticker": "UNIONBANK",
+    "sector": "Banking",
+    "initial": "U",
+    "logo": "assets/logos/union-bank-of-india-official.png",
+    "color": "#16548b",
+    "bg": "#e8f3fc",
+    "tag": "Keeps deposits, makes payments and lends to households, farms and businesses",
+    "products": [
+      [
+        "Savings accounts",
+        "An everyday place to keep money and make payments"
+      ],
+      [
+        "Fixed deposits",
+        "Money kept with the bank for an agreed term"
+      ],
+      [
+        "Union Home",
+        "A loan people can use to buy, build or improve a home"
+      ],
+      [
+        "Kisan Credit Card (Union Green Card)",
+        "Borrowing for eligible farming expenses"
+      ],
+      [
+        "Union MSME Suvidha",
+        "Money for small firms to buy stock or invest in equipment"
+      ],
+      [
+        "Union ease",
+        "Personal mobile banking for accounts and payments"
+      ],
+      [
+        "Union e-biz",
+        "An app to manage payments and collections for eligible businesses"
+      ]
+    ],
+    "sources": [
+      [
+        "Union Bank of India company profile",
+        "https://www.unionbankofindia.bank.in/en/common/profile"
+      ],
+      [
+        "National Stock Exchange stock page",
+        "https://www.nseindia.com/get-quote/slb/UNIONBANK/Union-Bank-of-India"
+      ]
+    ],
+    "productSource": "https://www.unionbankofindia.bank.in/en/home",
+    "productNote": "Selected services named by the bank. The illustrations explain how the services are used and do not show real cards, forms or app screens.",
+    "aliases": [
+      "Union Bank",
+      "UBI",
+      "Union Bank of India"
+    ],
+    "checked": "15 November 2026",
+    "reviewed": "15 November 2026"
+  },
+  "offerings": [
+    {
+      "name": "Savings accounts",
+      "category": "An everyday place to keep money and make payments",
+      "image": "assets/products/union-bank-of-india-savings.svg",
+      "url": "https://www.unionbankofindia.bank.in/en/listing/saving-bank-deposit-products",
+      "kind": "illustration",
+      "alt": "Illustration of a savings passbook with a line for an account balance"
+    },
+    {
+      "name": "Fixed deposits",
+      "category": "Money kept with the bank for an agreed term",
+      "image": "assets/products/union-bank-of-india-fixed.svg",
+      "url": "https://casa.unionbankofindia.bank.in/fixed-deposit/",
+      "kind": "illustration",
+      "alt": "Illustration of a calendar beside coins, representing a deposit for a fixed period"
+    },
+    {
+      "name": "Union Home",
+      "category": "A loan people can use to buy, build or improve a home",
+      "image": "assets/products/union-bank-of-india-home.svg",
+      "url": "https://www.unionbankofindia.bank.in/en/details/home-loan",
+      "kind": "illustration",
+      "alt": "Illustration of a house and a key, representing home borrowing"
+    },
+    {
+      "name": "Kisan Credit Card (Union Green Card)",
+      "category": "Borrowing for eligible farming expenses",
+      "image": "assets/products/union-bank-of-india-farm.svg",
+      "url": "https://www.unionbankofindia.bank.in/en/details/kisan-credit-card-union-green-card",
+      "kind": "illustration",
+      "alt": "Illustration of a crop growing beside a seed bag, representing farm borrowing"
+    },
+    {
+      "name": "Union MSME Suvidha",
+      "category": "Money for small firms to buy stock or invest in equipment",
+      "image": "assets/products/union-bank-of-india-small.svg",
+      "url": "https://www.unionbankofindia.bank.in/en/details/union-msme-suvidha",
+      "kind": "illustration",
+      "alt": "Illustration of a small shop with stocked shelves, representing borrowing for business"
+    },
+    {
+      "name": "Union ease",
+      "category": "Personal mobile banking for accounts and payments",
+      "image": "assets/products/union-bank-of-india-mobile.svg",
+      "url": "https://www.unionbankofindia.bank.in/en/details/union-ease",
+      "kind": "illustration",
+      "alt": "Illustration of a phone sending a payment; no real app screen is shown"
+    },
+    {
+      "name": "Union e-biz",
+      "category": "An app to manage payments and collections for eligible businesses",
+      "image": "assets/products/union-bank-of-india-business.svg",
+      "url": "https://www.unionbankofindia.bank.in/en/details/union-e-biz",
+      "kind": "illustration",
+      "alt": "Illustration of a phone and a shop receipt; no real app screen is shown"
+    }
+  ]
+}

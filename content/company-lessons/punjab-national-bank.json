@@ -1,0 +1,201 @@
+{
+  "summary": "Punjab National Bank holds deposits and lends for homes, studies, farming and business. It also moves money for account holders and helps companies handle payments for trade.",
+  "description": "A household can save with PNB, borrow to pay for a home or college and send payments from its account. A wholesaler can use a business account to collect from shops and pay suppliers. The bank accepts deposits it owes back, checks who can borrow, monitors repayments and runs the account systems people use to move money.",
+  "money": "Borrowers pay interest for using the bank’s money, and the bank earns interest on investments such as bonds. Some payment and trade services carry fees. It pays deposit and borrowing interest, pays for people and branches, and sets aside money in its accounts when loans may not be repaid. A loan repayment includes the borrowed sum coming back, so it is not all income.",
+  "customers": "A household pays loan interest for access to money now, such as for buying a home or studying. Farmers and firms pay interest on credit. A trading company may pay fees for the bank to handle documents or move money across borders. Savers can receive interest on eligible deposits.",
+  "drivers": "Look at what PNB pays savers, how much its loans and investments earn, and how defaults, recoveries and operating costs affect what is left.",
+  "quick": [
+    {
+      "title": "What does it do?",
+      "text": "It keeps deposits, lends to customers and runs payments at branches and online."
+    },
+    {
+      "title": "Who pays?",
+      "text": "Households, farmers and firms pay loan interest. Companies and other customers may pay fees for particular services."
+    },
+    {
+      "title": "How does it earn?",
+      "text": "It earns interest on lending and investments and charges for some services."
+    },
+    {
+      "title": "What costs money?",
+      "text": "Funding, people, branches, secure systems and losses on loans that are not fully repaid."
+    }
+  ],
+  "groups": [
+    {
+      "title": "Accounts and fixed deposits",
+      "examples": "Savings and fixed deposits.",
+      "explanation": "A savings account allows withdrawals and transfers. A fixed deposit keeps money at the bank for an agreed term, usually with a stated rate of interest."
+    },
+    {
+      "title": "Longer personal borrowing",
+      "examples": "Housing loans and PNB Pratibha education loans.",
+      "explanation": "Customers borrow to buy a home or fund eligible study. Compare how and when repayment starts: education and home loans serve different needs."
+    },
+    {
+      "title": "Farm credit",
+      "examples": "PNB agriculture credit schemes.",
+      "explanation": "A farmer can use eligible credit to buy inputs or improve a farm. A loan advertised for agriculture need not use the same repayment schedule as a home loan."
+    },
+    {
+      "title": "Business banking and trade",
+      "examples": "Business accounts, PNB ONE BIZ and trade services.",
+      "explanation": "A merchant can pay suppliers or workers, collect money and check accounts. A company buying from overseas can use the bank to handle payment and trade documents."
+    },
+    {
+      "title": "Personal banking by phone",
+      "examples": "PNB ONE.",
+      "explanation": "A customer can use their mobile phone for account services and transfers. The money moved is generally the customer’s; a fee only arises where the service charges one."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is the interest gap?",
+      "text": "The bank earns interest on loans and investments and pays interest to fund them. The rupees left after subtracting that expense are net interest income."
+    },
+    {
+      "title": "How do bad loans affect profit?",
+      "text": "When PNB expects a loan loss, it records a provision: a cost allowed for in its accounts. Collecting some overdue money later can improve cash, while a provision can change profit before cash comes in."
+    }
+  ],
+  "stepsTitle": "From a farm loan to a payment",
+  "steps": [
+    {
+      "title": "Fund the loan",
+      "text": "The bank pools money from deposits and other sources. Deposits are money it must repay, not sales."
+    },
+    {
+      "title": "Check the crop plan and borrower",
+      "text": "In this example, a farmer needs money for inputs before selling a crop. The bank assesses the loan and sets conditions for paying it back."
+    },
+    {
+      "title": "Advance the money",
+      "text": "The loan balance is what the borrower owes. The advance is a flow of cash to the farmer, not an expense equal to the loan amount."
+    },
+    {
+      "title": "Collect after the sale",
+      "text": "When the borrower pays, returning the borrowed amount reduces the loan balance; the interest portion pays the bank for making the loan."
+    },
+    {
+      "title": "Deal with a missed payment",
+      "text": "If the crop sale brings in too little, the bank follows up on unpaid amounts and may record more expected losses. Profit and cash can move at different times."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Business payment tools have two possible benefits",
+      "text": "A firm might use PNB ONE BIZ to pay wages and leave cash in an account until payday. That can build an account relationship even if the transfer itself brings in little or no fee."
+    },
+    {
+      "title": "A loan to a student can wait for a different income source",
+      "text": "Education lending can depend on future earnings. Compare repayment timing and borrower support with collateral-backed home loans, where the bank may use the home as security."
+    },
+    {
+      "title": "Cash from old troubled loans can matter in a good year",
+      "text": "When PNB recovers money on an overdue loan, it may improve cash and affect recorded profit. Separate the contribution of old-loan recoveries and provision changes from what current borrowers are paying."
+    }
+  ],
+  "watch": [
+    [
+      "Are ordinary loans earning more after funding costs?",
+      "Total interest earned can rise even if deposit interest absorbs much of the increase.",
+      "In the bank-only accounts compare net interest income, average deposit costs and the rate of interest received on loans."
+    ],
+    [
+      "Are troubled loans lower due to healthier borrowers or collections?",
+      "A fall in past-due loans can reflect collections, removal from the books or fewer new defaults.",
+      "Find newly troubled loans, recoveries and write-offs (amounts removed from the loan books) in the same period."
+    ],
+    [
+      "What kinds of loans are growing?",
+      "Homes, farms and big firms repay from different sources and face different problems.",
+      "Compare PNB’s portfolio breakdown with arrears by class where available; a faster-growing line does not on its own show better lending."
+    ],
+    [
+      "Are business users keeping money in their accounts?",
+      "More app transfers may save time or deepen a relationship without increasing fees.",
+      "Compare current account balances, users signing up and payment activity; avoid treating payment volume as PNB income."
+    ],
+    [
+      "Did one-off items lift annual profit?",
+      "A bond sale, recovery or change in expected losses can affect a year without repeating.",
+      "Compare annual accounts’ other income and provision notes alongside interest earned and operating expenses."
+    ]
+  ],
+  "risks": [
+    [
+      "Weak repayment",
+      "Poor crop proceeds, job loss or business trouble can lead borrowers to fall behind."
+    ],
+    [
+      "Costlier funding",
+      "Savers seeking better rates can shift into more expensive deposits or to a competitor."
+    ],
+    [
+      "Interest-rate changes",
+      "Bond prices can fall as market interest rates rise, changing investment gains or losses."
+    ],
+    [
+      "Fraud or interruptions",
+      "A payment failure or data problem can affect customers and take time and money to fix."
+    ]
+  ],
+  "helps": [
+    {
+      "title": "Many types of everyday banking",
+      "text": "Accounts, payments and borrowing for different needs give customers several reasons to keep a relationship with the bank."
+    },
+    {
+      "title": "A way to serve businesses between loans",
+      "text": "Firms that use PNB to collect receipts or send payments can rely on it even when they do not need another loan."
+    },
+    {
+      "title": "Branches and online services serve different tasks",
+      "text": "A reader can imagine opening or discussing a complex loan in person and making routine transfers later by phone."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Credit can strain in more than one area",
+      "text": "A farm, household or business can struggle for different reasons, so the bank needs to monitor various warning signs."
+    },
+    {
+      "title": "Rising costs can offset rising interest income",
+      "text": "Deposit interest, staff and technology expenses can narrow what remains from loan and investment earnings."
+    },
+    {
+      "title": "Old recoveries do not renew automatically",
+      "text": "A recovery can help this year, but the next year depends on the remaining old loans and how the current ones perform."
+    }
+  ],
+  "context": [
+    "September 2026 · PNB tracks businesses using its app",
+    "PNB reported more PNB ONE BIZ users than a year earlier in its results release. More registrations show how many users signed up. They do not show how often people used it or how much the bank earned from it."
+  ],
+  "sources": [
+    [
+      "Punjab National Bank annual reports",
+      "https://www.pnb.bank.in/annual-reports.html"
+    ],
+    [
+      "PNB ONE BIZ service",
+      "https://www.pnb.bank.in/PNB-One-Biz.html"
+    ],
+    [
+      "Agriculture credit schemes",
+      "https://www.pnb.bank.in/agriculture-credit-schemes.html"
+    ],
+    [
+      "September 2026 official results release",
+      "https://www.pnb.bank.in/downloadprocess.aspx?fid=gcZyXAsrW66BtMVRdm31tA%3D%3D"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Start with the bank’s annual results",
+      "text": "Use the audited full-year filing to separate interest earned, interest paid, other income and loan-loss costs. Keep PNB alone separate from the group, which can include other businesses. The figures here are pending verification."
+    }
+  ],
+  "checked": "15 November 2026"
+}

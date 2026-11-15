@@ -1,0 +1,196 @@
+{
+  "summary": "Canara Bank holds money for savers and businesses, lends for homes, farms and shops, and helps people and merchants send and receive payments.",
+  "description": "Imagine a shopkeeper who deposits sales receipts, sends money to a supplier and borrows to buy another fridge. These are three different jobs for Canara Bank. The account stores and moves money; the loan advances money that the shop repays over time; the payment service moves money between accounts. The bank checks borrowers, collects payments and follows up when borrowers miss them.",
+  "money": "Borrowers pay interest for using the bank’s money. Canara also earns interest on investments and fees for some services. It pays interest on many deposits and other borrowings, pays for people and systems, and counts expected loan losses as a cost. A loan instalment includes repayment of the amount borrowed, so the whole instalment is neither income nor profit.",
+  "customers": "Households pay interest to borrow for homes and other needs. Shops pay interest to fund stock or equipment. Farmers borrow for eligible farm costs; companies borrow and use payment services. Savers generally receive interest rather than paying the bank for funding it.",
+  "drivers": "Watch what the bank pays to keep deposits, how much it earns from loans and investments, and how much it must set aside when borrowers may not repay.",
+  "quick": [
+    {
+      "title": "What does it do?",
+      "text": "It takes deposits, lends money and handles payments for people and businesses."
+    },
+    {
+      "title": "Who pays?",
+      "text": "Home buyers, farmers and businesses pay interest when they borrow; account users may pay for some services."
+    },
+    {
+      "title": "How does it earn?",
+      "text": "The bank collects interest from borrowers and investments, plus some fees."
+    },
+    {
+      "title": "What costs money?",
+      "text": "Deposit interest, loan losses, employees, branches and the systems that protect and process transactions."
+    }
+  ],
+  "groups": [
+    {
+      "title": "Accounts and deposits",
+      "examples": "Savings accounts, current accounts and fixed deposits.",
+      "explanation": "A savings account gives people access to money. A current account helps firms make frequent payments. A fixed deposit keeps money with the bank for a chosen period, usually for interest."
+    },
+    {
+      "title": "Borrowing for homes",
+      "examples": "Canara housing loans.",
+      "explanation": "A buyer borrows a large sum for a home and repays it in instalments. The home can act as security if repayment stops."
+    },
+    {
+      "title": "Borrowing for shops and farms",
+      "examples": "Small business loans and Kisan Credit Card.",
+      "explanation": "A firm may need money to buy equipment or pay suppliers before its own customers pay. A farmer can borrow for inputs ahead of a harvest."
+    },
+    {
+      "title": "Paying by phone or at the shop",
+      "examples": "Canara ai1 and Canara ai1 Merchant.",
+      "explanation": "Individuals can handle accounts and transfers on their phones; merchants can manage money received from customers. A payment passing through the bank does not make the full payment its sales."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is net interest income?",
+      "text": "Interest the bank earns on loans and investments minus interest it pays on deposits and other funding. It is measured before staff expenses and loan-loss costs."
+    },
+    {
+      "title": "What is a loan-loss provision?",
+      "text": "An expense the bank records when it estimates it may not get all its loan money back. It reduces reported profit even if the bank has not paid cash out that day."
+    }
+  ],
+  "stepsTitle": "From a shop loan to repayment",
+  "steps": [
+    {
+      "title": "Accept deposits",
+      "text": "People and businesses put money in accounts. The bank owes it back under the account terms; a deposit is not sales income."
+    },
+    {
+      "title": "Decide whether to lend",
+      "text": "In this example, a shop applies for money for a fridge. The bank checks the business’s ability to repay before advancing the loan."
+    },
+    {
+      "title": "Record interest as it is earned",
+      "text": "The loan agreement sets when the shop pays. Bank interest can be recorded before the next cash payment, subject to rules for troubled loans."
+    },
+    {
+      "title": "Collect an instalment",
+      "text": "Part of the payment returns the amount borrowed. The interest portion pays the bank for lending."
+    },
+    {
+      "title": "Track late payments",
+      "text": "If the shop falls behind, the bank follows up and estimates what it might lose. The cost of that estimate can cut profit before the final collection is known."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Business payments can support deposits",
+      "text": "A shop may keep cash in its current account to pay suppliers soon. Compare the money customers leave in those accounts with deposits for a fixed term, on which the bank pays interest."
+    },
+    {
+      "title": "Farm borrowing follows a different timetable",
+      "text": "Farm costs come before the crop sale. Crop loans and long home loans have different repayment patterns, so how quickly trouble shows up can vary."
+    },
+    {
+      "title": "Other businesses changed how they enter the group accounts",
+      "text": "Canara’s asset manager and life insurer became associates after share sales in October 2025. Canara then recorded its share of their profit instead of adding their income and costs in full."
+    }
+  ],
+  "watch": [
+    [
+      "Is Canara paying more to keep deposits?",
+      "Funding can grow more expensive even while the loan book grows.",
+      "Compare current and savings deposits with fixed deposits, then check the bank’s average cost of deposits over the same periods."
+    ],
+    [
+      "Are new loans falling behind?",
+      "Recoveries can improve reported trouble even when fresh trouble is building.",
+      "Look for newly troubled loans, called fresh slippages, and compare with repayments and amounts removed from the books."
+    ],
+    [
+      "What is driving business and farm lending?",
+      "Loan categories have different customers, loan lengths and repayment risks.",
+      "Read the loan breakdown and compare small firm and farm growth with their overdue balances when disclosed."
+    ],
+    [
+      "Is income growing after interest costs?",
+      "More loan interest may come with noticeably higher deposit interest.",
+      "Compare net interest income, interest earned and interest paid in the bank-only accounts, using the same year lengths."
+    ],
+    [
+      "How much of the result reflects changes in ownership?",
+      "A sale or change in what the bank includes in its accounts can distort a year-to-year comparison.",
+      "Read the group results notes on the two former subsidiaries and compare the bank-only figures separately."
+    ]
+  ],
+  "risks": [
+    [
+      "Higher interest on deposits",
+      "More expensive funding narrows the gap the bank earns on lending."
+    ],
+    [
+      "Borrowers miss repayments",
+      "Weak business takings or a poor harvest can make loan payments harder and lift expected losses."
+    ],
+    [
+      "Investment values move",
+      "A rise in interest rates can lower the market value of older bonds that pay a fixed amount."
+    ],
+    [
+      "Payment or data systems fail",
+      "Fraud, an outage or a breach can interrupt service and cost money to resolve."
+    ]
+  ],
+  "helps": [
+    {
+      "title": "A choice of ways to reach customers",
+      "text": "Branches, mobile accounts and merchant payments give households and firms reasons to keep using the bank."
+    },
+    {
+      "title": "Borrowers have different needs",
+      "text": "Home loans, small business credit and crop loans tie the bank to different payment schedules and sources of customer income."
+    },
+    {
+      "title": "Accounts connected to everyday payments",
+      "text": "A shop that uses Canara to receive money and pay bills may keep operating cash there between payments."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Deposits have competitors",
+      "text": "Customers can move money to another bank or choose a higher-paying fixed deposit, pushing funding costs up."
+    },
+    {
+      "title": "Missed loan payments come at a cost",
+      "text": "The bank must track collections and set aside money in its accounts when it expects losses."
+    },
+    {
+      "title": "Branches and systems need upkeep",
+      "text": "Staff, branch space and secure payment systems cost money even if growth slows."
+    }
+  ],
+  "context": [
+    "October 2025 · two businesses changed status",
+    "Canara sold part of its stakes in its asset manager and life insurer. The bank’s FY26 investor presentation identifies both as associates after the sales, so group income before and after the changes does not contain the same businesses for a full year."
+  ],
+  "sources": [
+    [
+      "Canara Bank FY26 annual report",
+      "https://www.canarabank.bank.in/documents/d/guest/annual-20report-202025-26"
+    ],
+    [
+      "March 2026 investor presentation",
+      "https://www.canarabank.bank.in/documents/d/guest/investors-presentation-mar-26"
+    ],
+    [
+      "Canara’s small business loan catalogue",
+      "https://www.canarabank.bank.in/pages/msme-products-and-schemes"
+    ],
+    [
+      "Canara ai1 Merchant",
+      "https://www.canarabank.bank.in/ai1-merchant-application"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Start with the bank’s annual results",
+      "text": "Use the audited full-year filing to separate interest earned, interest paid, other income and loan-loss costs. Keep Canara Bank alone separate from the group, which can include other businesses. The figures here are pending verification."
+    }
+  ],
+  "checked": "15 November 2026"
+}

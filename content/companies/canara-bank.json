@@ -1,0 +1,132 @@
+{
+  "order": 96,
+  "company": {
+    "id": "canara-bank",
+    "name": "Canara Bank",
+    "ticker": "CANBK",
+    "sector": "Banking",
+    "initial": "C",
+    "color": "#0f5476",
+    "bg": "#eaf6fa",
+    "tag": "Savings accounts, home loans and credit for shops and farms. Canara Bank earns interest on lending and fees for some services.",
+    "products": [
+      [
+        "Savings accounts",
+        "Store personal money and pay from it"
+      ],
+      [
+        "Fixed deposits",
+        "Keep money with the bank for a chosen term"
+      ],
+      [
+        "Housing loans",
+        "Borrow for a home and repay in instalments"
+      ],
+      [
+        "Small business loans",
+        "Borrow for equipment or everyday bills"
+      ],
+      [
+        "Kisan Credit Card",
+        "Borrow for crop and other eligible farming costs"
+      ],
+      [
+        "Canara ai1",
+        "Check balances, transfer money or manage cards from a phone"
+      ],
+      [
+        "Current accounts",
+        "Receive and make business payments"
+      ],
+      [
+        "Canara ai1 Merchant",
+        "Help shops manage customer payments"
+      ]
+    ],
+    "sources": [
+      [
+        "NSE filing identifying CANBK",
+        "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_BANKING_178528_27072026154249_iXBRL_WEB.html"
+      ],
+      [
+        "Official Canara Bank masthead",
+        "https://www.canarabank.bank.in/documents/20126/0/logo-white.png"
+      ]
+    ],
+    "productSource": "https://www.canarabank.bank.in/",
+    "productNote": "Selected examples from the bank’s official offerings. Images are original illustrations of the services.",
+    "checked": "15 November 2026",
+    "reviewed": "15 November 2026",
+    "aliases": [
+      "Canara",
+      "CANBK"
+    ],
+    "logo": "assets/logos/canara-bank-official.png"
+  },
+  "offerings": [
+    {
+      "name": "Savings accounts",
+      "category": "Store personal money and pay from it",
+      "image": "assets/products/canara-bank-savings.svg",
+      "url": "https://www.canarabank.bank.in/savings-bank-account",
+      "kind": "illustration",
+      "alt": "A bank card — original illustration, not a photograph"
+    },
+    {
+      "name": "Fixed deposits",
+      "category": "Keep money with the bank for a chosen term",
+      "image": "assets/products/canara-bank-deposits.svg",
+      "url": "https://www.canarabank.bank.in/fixed-deposit",
+      "kind": "illustration",
+      "alt": "A deposit certificate — original illustration, not a photograph"
+    },
+    {
+      "name": "Housing loans",
+      "category": "Borrow for a home and repay in instalments",
+      "image": "assets/products/canara-bank-home.svg",
+      "url": "https://www.canarabank.bank.in/pages/housing-loan",
+      "kind": "illustration",
+      "alt": "A house — original illustration, not a photograph"
+    },
+    {
+      "name": "Small business loans",
+      "category": "Borrow for equipment or everyday bills",
+      "image": "assets/products/canara-bank-business.svg",
+      "url": "https://www.canarabank.bank.in/pages/msme-products-and-schemes",
+      "kind": "illustration",
+      "alt": "A shop with a striped awning — original illustration, not a photograph"
+    },
+    {
+      "name": "Kisan Credit Card",
+      "category": "Borrow for crop and other eligible farming costs",
+      "image": "assets/products/canara-bank-farm.svg",
+      "url": "https://www.canarabank.bank.in/pages/kisan-credit-card-scheme",
+      "kind": "illustration",
+      "alt": "A crop sprouting from fields — original illustration, not a photograph"
+    },
+    {
+      "name": "Canara ai1",
+      "category": "Check balances, transfer money or manage cards from a phone",
+      "image": "assets/products/canara-bank-mobile.svg",
+      "url": "https://canarites.canarabank.bank.in/QR_CANARA/Home/CanaraAi1",
+      "kind": "illustration",
+      "alt": "A smartphone with transfer arrows — original illustration, not a photograph"
+    },
+    {
+      "name": "Current accounts",
+      "category": "Receive and make business payments",
+      "image": "assets/products/canara-bank-current.svg",
+      "url": "https://www.canarabank.bank.in/canara-current-account",
+      "kind": "illustration",
+      "alt": "A briefcase — original illustration, not a photograph"
+    },
+    {
+      "name": "Canara ai1 Merchant",
+      "category": "Help shops manage customer payments",
+      "image": "assets/products/canara-bank-merchant.svg",
+      "url": "https://www.canarabank.bank.in/ai1-merchant-application",
+      "kind": "illustration",
+      "alt": "A square payment code — original illustration, not a photograph"
+    }
+  ]
+}

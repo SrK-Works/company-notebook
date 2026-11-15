@@ -1,0 +1,195 @@
+{
+  "summary": "Indian Railway Finance Corporation raises money to pay for trains and rail projects. It earns lease income and interest rather than selling train tickets.",
+  "description": "A locomotive pulls a train, a coach carries passengers and a wagon carries goods. Indian Railway Finance Corporation helps pay for such equipment and for railway infrastructure. Indian Railways uses certain financed assets and pays under a long-term agreement, called a lease. The company also lends to businesses, including rail-related borrowers.",
+  "money": "Lease payments can return part of the original funding and pay for its use. Other borrowers pay interest on loans. The company pays interest and other costs on the money it raises, plus running costs and any recognised losses. The full payment received is not profit because part can repay the original funding.",
+  "customers": "The Ministry of Railways pays under its lease agreements. Other borrowers, such as a company responsible for a freight railway route, pay under their own loans. Train passengers are not the customers who pay this lender for its financing.",
+  "drivers": "How much new funding the rail ministry wants, the terms and timing of its lease payments, what the company pays for borrowing, and whether other borrowers pay what they owe.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "It raises money to finance engines, passenger carriages, goods wagons and railway projects. It also makes loans to companies."
+    },
+    {
+      "title": "Who pays",
+      "text": "The Ministry of Railways pays under lease agreements. Other companies repay their loans and pay interest under their own terms."
+    },
+    {
+      "title": "How it earns",
+      "text": "It earns lease income and interest. Receiving back the original funding is different from earning income."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Interest and other funding costs, staff and running the business, and losses if borrowers cannot pay."
+    }
+  ],
+  "groups": [
+    {
+      "title": "Train equipment",
+      "examples": "Locomotives, passenger coaches and freight wagons.",
+      "explanation": "All the vehicles that move on rails are often called rolling stock. The company funds equipment that the railway can use under an agreement. It is not the train manufacturer."
+    },
+    {
+      "title": "Railway infrastructure",
+      "examples": "Long-term funding for railway projects.",
+      "explanation": "Projects can require cash well before rails, facilities or other infrastructure enter use. Making an advance means paying out some funding before it is converted into a lease asset under the terms."
+    },
+    {
+      "title": "Financing for other rail-linked organisations",
+      "examples": "Freight corridor refinancing and leasing wagons to power producer NTPC Limited.",
+      "explanation": "Refinancing means replacing an existing debt with a new one. A freight corridor is a railway route mainly built to carry goods. Each borrower or customer has its own payment agreement."
+    },
+    {
+      "title": "Loans outside the core railway lease",
+      "examples": "Loans to other companies, including in transport and infrastructure.",
+      "explanation": "These borrowers agree when and how they will repay. Check the named borrower and the agreement rather than assuming it has the same backing or pricing as a Ministry of Railways lease."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What does the railway get from a finance lease?",
+      "text": "The railway gets to use the funded equipment or project asset. The payments under a finance lease are designed to repay the financing over time. They can include return of the original money, called principal, and a charge for its use."
+    },
+    {
+      "title": "How does the company raise money first?",
+      "text": "It can sell bonds, which are promises to repay investors with interest, and borrow through other routes. It still owes those investors and lenders according to its schedule, even if the use or repayment of an asset follows a different schedule."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Identify the equipment or project",
+      "text": "The rail ministry specifies a funding need. For other loans, the company examines the borrower and what the money will pay for."
+    },
+    {
+      "title": "Raise and pay out the money",
+      "text": "Arrange funding and provide it for the agreed assets, project or loan. The asset or construction work is not sold directly to train passengers."
+    },
+    {
+      "title": "Let the customer use the assets or financing",
+      "text": "The train equipment can go into railway service. A project may have a waiting period before lease payments start. Other loans have their own schedule."
+    },
+    {
+      "title": "Collect payments and pay its own lenders",
+      "text": "Collect lease payments or loan interest and repayments as due. Cover borrowing and running costs. Income recorded in the accounts and money received need not arrive on the same day."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "The railway agreements can price funding differently from a plain loan",
+      "text": "The company describes its railway leases as cost-plus: the charge is based on funding costs with an agreed amount added. Open the relevant agreement or company explanation before assuming that the same terms apply to a new borrower."
+    },
+    {
+      "title": "A completed route can still need finance",
+      "text": "Refinancing replaces debt. In the Eastern Dedicated Freight Corridor deal, the new borrowing replaced existing foreign-currency loans; the project did not need to build a second railway to receive that financing."
+    },
+    {
+      "title": "The rail ministry’s budget can change how much the company lends",
+      "text": "The Ministry of Railways says direct budget support reduces reliance on funds raised outside the budget. Demand for rail infrastructure and demand for new financing from this company can move differently."
+    }
+  ],
+  "helps": [
+    {
+      "title": "A clear recurring need for equipment and infrastructure",
+      "text": "The railway needs usable engines, coaches, goods wagons and routes. Long-lived assets have a practical reason to use financing over several years."
+    },
+    {
+      "title": "Established arrangements for raising money and receiving lease payments",
+      "text": "Lenders can examine the funding and lease agreements. A stated payment schedule makes it possible to compare when funds come in and go out."
+    },
+    {
+      "title": "Other borrowers can create room to lend",
+      "text": "Financing a goods route or a rail-linked company gives the lender business beyond standard Ministry of Railways equipment leases."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "The core book depends on one ministry",
+      "text": "The bulk of the financing exposure reported in the company’s investor presentation is to the Ministry of Railways. Its choices have an outsized effect on new business."
+    },
+    {
+      "title": "Some projects take time before regular payments start",
+      "text": "Funding can go out before a project reaches its normal payment schedule. Check how the contract handles the waiting period."
+    },
+    {
+      "title": "Different borrowers bring different checks",
+      "text": "A company borrowing under its own loan can have different risks from a ministry paying under a lease. More types of loans mean more work assessing repayment."
+    }
+  ],
+  "watch": [
+    [
+      "How much railway funding is done through this company?",
+      "Government budget spending can fund rail work without the same amount of new borrowing from the company.",
+      "Read Ministry of Railways funding decisions and the split of new amounts approved and actually paid out."
+    ],
+    [
+      "Are funds paid in advance turning into leases and collections?",
+      "A project funded today can begin paying later.",
+      "Check the company’s lease and advance balances, dates when payments start, and what cash came in."
+    ],
+    [
+      "Does the company earn enough over its funding cost?",
+      "Borrowing interest is a major expense.",
+      "Compare funding costs, lease terms and interest charged on other loans. See when the company must renew its borrowing."
+    ],
+    [
+      "Who pays on financing outside core railway leases?",
+      "Different customers can have different repayment quality.",
+      "Identify the borrower and security promised in disclosed transactions. Check overdue amounts and any allowances for losses."
+    ],
+    [
+      "How does the company protect itself against exchange rate changes?",
+      "Money borrowed in a foreign currency can become more expensive to repay in rupees.",
+      "Check what foreign debt is covered by agreements to reduce currency exposure, and what remains uncovered."
+    ]
+  ],
+  "risks": [
+    [
+      "A borrower does not pay",
+      "Outside the core railway leases, repayment can depend on the business and project being funded."
+    ],
+    [
+      "Funding is harder to renew",
+      "The company may need to repay or replace bonds and other borrowings before long-term customer payments have all arrived."
+    ],
+    [
+      "Exchange rates or interest rates move",
+      "Funding from overseas and borrowing with rates that change need to be managed under the applicable agreements."
+    ],
+    [
+      "Work or payments are delayed",
+      "Project delays or disputes about when an asset is ready can change the timing of lease payments."
+    ]
+  ],
+  "context": [
+    "December 2025: refinancing a freight railway route",
+    "The company announced that it executed the replacement of existing World Bank loans for the Eastern Dedicated Freight Corridor with rupee financing. The announcement illustrates what refinancing does for the borrower: the debt is replaced rather than the route being built again."
+  ],
+  "sources": [
+    [
+      "Company investor presentation, year ended March 2026",
+      "https://irfc.co.in/sites/default/files/inline-files/Final_Investor_Presentation_FY_2025-26_0.pdf"
+    ],
+    [
+      "Official annual report, leasing mechanics and examples",
+      "https://irfc.co.in/sites/default/files/inline-files/Annual%20Report%202024-25_0.pdf"
+    ],
+    [
+      "Ministry of Railways explanation of debt payments and direct budget funding",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2296057&lang=2&reg=48"
+    ],
+    [
+      "Exchange disclosure: Eastern Dedicated Freight Corridor refinancing",
+      "https://irfc.co.in/sites/default/files/inline-files/Disclosure%20under%20SEBI%20LODR%20Regulations_24.12.2025.pdf"
+    ],
+    [
+      "Audited annual company results filed in May 2026",
+      "https://nsearchives.nseindia.com/corporate/IRFC_14052026141427_OUTCOMEOFBM.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "The annual income and profit table will appear after the published financial statement is checked."
+    }
+  ],
+  "checked": "15 November 2026"
+}

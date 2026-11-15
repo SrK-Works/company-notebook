@@ -1,0 +1,209 @@
+{
+  "summary": "Union Bank holds savings, moves payments and lends money to households, farmers and businesses. It earns interest on loans and investments, and pays interest on many deposits.",
+  "description": "Think of a household receiving its salary, a farmer buying seed before harvest, and a shop paying a supplier. Union Bank offers accounts to hold and move money and loans to pay for things before customers have all the money they need. A branch or a phone app gives access to these services; it is the accounts, borrowing and payments behind them that explain the business.",
+  "money": "Borrowers pay for the use of money through interest and may pay fees for services such as processing a loan. The bank also earns interest on investments. It pays interest on many deposits and spends on staff, branches and payment systems. It also records an expense for estimated loan losses when some borrowers may not repay.",
+  "customers": "Individuals and businesses put money in accounts and use them to send or receive payments. Home buyers, farmers, shop owners and larger companies borrow and are responsible for paying the bank under their loan terms.",
+  "drivers": "The interest it earns on loans and investments, the rate it pays to attract deposits, how much customers use its services, and how often borrowers fall behind.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Provides accounts, transfers and loans. It also invests money it does not immediately need for lending or payments."
+    },
+    {
+      "title": "Who pays",
+      "text": "Borrowers pay interest for using the bank’s money. Customers may pay for certain services, and investments can pay income to the bank."
+    },
+    {
+      "title": "How it earns",
+      "text": "Loan and investment interest and some service fees bring in income. A deposit is money the bank owes back to the depositor."
+    },
+    {
+      "title": "What costs money",
+      "text": "Interest on deposits and other funding, workers, branches, secure technology and the cost of loans that may not be repaid."
+    }
+  ],
+  "groups": [
+    {
+      "title": "Accounts and deposits",
+      "examples": "Savings accounts, current accounts for day-to-day business payments, and fixed deposits.",
+      "explanation": "People can use a savings account to hold money they may need soon. A fixed deposit holds money for an agreed period and typically pays interest. Businesses use current accounts for frequent payments and collections."
+    },
+    {
+      "title": "Loans to households and farms",
+      "examples": "Union Home and the Kisan Credit Card (Union Green Card).",
+      "explanation": "Home loans help customers pay for a home over time. The farm credit product can help an eligible farmer meet crop expenses before money comes in for the harvest. The bank lends in exchange for interest under the loan terms."
+    },
+    {
+      "title": "Business borrowing",
+      "examples": "Union MSME Suvidha and loans to larger companies.",
+      "explanation": "MSME means micro, small and medium enterprise. A shop may borrow to pay for stock until it sells. A larger company may borrow for a factory or to bridge a gap between paying its suppliers and collecting from customers."
+    },
+    {
+      "title": "Phone payments and collections",
+      "examples": "Union ease and Union e-biz.",
+      "explanation": "A person can check an account or move money in Union ease. Union e-biz helps eligible individual and sole proprietor customers, meaning businesses owned by one person, track incoming money and manage payments. An app transfer does not necessarily earn a fee."
+    },
+    {
+      "title": "Investing and managing cash",
+      "examples": "The bank’s Treasury Operations reporting line.",
+      "explanation": "Treasury is the team that manages the bank’s stocks of cash and investments. For example, it can hold government bonds, which are loans to the government that generally pay interest. It also plans for how much money the bank needs ready for customer withdrawals and payments."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is net interest income?",
+      "text": "Take the interest earned on loans and investments and subtract the interest the bank pays for deposits and other funding. What remains is net interest income. The bank must still cover operating expenses, possible loan losses and tax."
+    },
+    {
+      "title": "What is a loan loss provision?",
+      "text": "It is an expense booked for losses the bank may take when borrowers do not pay as expected. A provision can reduce reported profit before the final loss is known. It is separate from the cash a customer has actually paid."
+    }
+  ],
+  "stepsTitle": "From deposits to a borrower’s repayment",
+  "steps": [
+    {
+      "title": "Accept deposits",
+      "text": "A worker deposits a salary or a business keeps its sale proceeds in the bank. The balance is still owed to that customer."
+    },
+    {
+      "title": "Check and release a loan",
+      "text": "A home buyer applies. The bank reviews the borrower’s ability to repay and the property offered as security, an asset the bank can claim under agreed rules if the loan is not paid."
+    },
+    {
+      "title": "Set repayment dates",
+      "text": "The bank releases the loan under the agreement. The customer then owes installments on stated dates. Each payment usually includes part of the amount lent and interest."
+    },
+    {
+      "title": "Collect and cover costs",
+      "text": "The original money returned reduces the loan balance. The interest contributes to income. If payments are repeatedly late, the bank may have to book an expense or stop counting unpaid interest as income."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Separate pay-in accounts from accounts that cost more to attract",
+      "text": "Current and savings accounts often cost less in interest than fixed deposits. A customer may choose a fixed deposit when the bank offers a better rate. Follow changes in both the total deposits and the mix of their types."
+    },
+    {
+      "title": "Different borrowers can struggle for different reasons",
+      "text": "A farmer waits for a crop to sell; a shop may depend on its busiest season; a large manufacturer may need a factory to start producing. It helps to see growth and overdue loans by borrower group, where the bank publishes them."
+    },
+    {
+      "title": "Treasury can move profit independently of lending",
+      "text": "Government bond prices often fall when market interest rates rise. Treasury results can change even if borrowers keep paying. Check how much of a change comes from interest received on bonds and how much from selling or revaluing investments."
+    }
+  ],
+  "watch": [
+    [
+      "Is loan interest keeping ahead of deposit interest costs?",
+      "A bank can lend more yet earn less per rupee of funding.",
+      "Check the change in the average rate earned on loans against the rate paid on deposits. Look for customers moving from current and savings accounts into fixed deposits."
+    ],
+    [
+      "Where are loans starting to go overdue?",
+      "New payment trouble can increase future expenses.",
+      "Look for new loans marked as non-performing, meaning the bank has classified them as seriously overdue under its rules. Compare those additions and losses allowed for, as well as the percentage of loans already in trouble."
+    ],
+    [
+      "Are farms, small firms or larger borrowers driving growth?",
+      "More lending changes which customers the bank depends on.",
+      "Use the bank’s published loan mix to see which groups are growing. Compare overdue loans for those groups where disclosed and read management’s comments for dependence on a particular industry."
+    ],
+    [
+      "Is the loan book growing faster than the funding behind it?",
+      "The bank must keep enough money ready for payments and withdrawals.",
+      "Compare loans with deposits over comparable dates. Read whether the bank has turned to costlier funding or is holding less liquid assets, assets that can quickly be turned into money."
+    ],
+    [
+      "How much of the profit improvement comes from routine banking?",
+      "Big investment gains or recoveries on old loans may not recur.",
+      "Read the bank’s net interest income and loan-loss expenses, then compare Treasury Operations and the notes on recoveries and exceptional items before deciding what drove the change."
+    ]
+  ],
+  "risks": [
+    [
+      "Borrowers fail to repay",
+      "Missed installments can lower income and require the bank to record larger loan-loss expenses."
+    ],
+    [
+      "Funding becomes more expensive",
+      "If customers move to higher-rate deposits before rates on existing loans catch up, the bank retains less interest after funding costs."
+    ],
+    [
+      "Bond prices fall",
+      "A shift in market interest rates can reduce the value of some investments or change what the bank receives when it sells them."
+    ],
+    [
+      "Payments or account access are disrupted",
+      "A technology failure or fraud can interfere with transactions, impose costs and weaken customer trust."
+    ]
+  ],
+  "helps": [
+    {
+      "title": "Customers use the same account for repeated needs",
+      "text": "A salary or business receipts can keep coming into an account, while the owner also uses it for bills and transfers."
+    },
+    {
+      "title": "Lending spans different types of income",
+      "text": "Households, farms and companies can all borrow. The bank is able to write loans for more than one sort of customer or purchase."
+    },
+    {
+      "title": "A business account can help with the next payment",
+      "text": "A shop owner can receive payments into an account and use it to pay suppliers. Those uses can make the relationship useful beyond the first loan."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Competition can raise the rate the bank must pay",
+      "text": "When other banks offer higher fixed deposit rates, Union Bank may pay more to retain or attract the same deposit funding."
+    },
+    {
+      "title": "Recovering a bad loan is not instant",
+      "text": "Selling an asset pledged against a loan or collecting overdue installments can take time. What the bank eventually receives may be lower than what was owed."
+    },
+    {
+      "title": "Growing loans requires a buffer as well as deposits",
+      "text": "The bank needs capital, which includes money put in by its owners and profits kept in the business, to absorb losses. It can have deposits to lend and still need more capital to safely grow."
+    }
+  ],
+  "context": [
+    "Union e-biz launched for individual and sole proprietor business customers",
+    "Union Bank launched Union e-biz on 11 November 2025. The app puts collections and payments together so, for example, a shop owner can see what has arrived and then pay a supplier. Track whether new banking tools help customers do regular business with the bank; app features by themselves do not show profit."
+  ],
+  "sources": [
+    [
+      "Savings account products",
+      "https://www.unionbankofindia.bank.in/en/listing/saving-bank-deposit-products"
+    ],
+    [
+      "Union Home housing loan",
+      "https://www.unionbankofindia.bank.in/en/details/home-loan"
+    ],
+    [
+      "Kisan Credit Card (Union Green Card)",
+      "https://www.unionbankofindia.bank.in/en/details/kisan-credit-card-union-green-card"
+    ],
+    [
+      "Union MSME Suvidha business loan",
+      "https://www.unionbankofindia.bank.in/en/details/union-msme-suvidha"
+    ],
+    [
+      "Union ease personal banking",
+      "https://www.unionbankofindia.bank.in/en/details/union-ease"
+    ],
+    [
+      "Union e-biz launch and features",
+      "https://www.unionbankofindia.bank.in/en/details/union-e-biz"
+    ],
+    [
+      "Bank’s FY 2025–26 investor presentation",
+      "https://www.unionbankofindia.bank.in/pdf/final-investor-presentation-q4fy26.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Annual amounts are awaiting verification",
+      "text": "The audited results will show operating group totals. They do not tell us the profit the bank makes on one home loan, deposit or mobile app."
+    }
+  ],
+  "checked": "15 November 2026"
+}

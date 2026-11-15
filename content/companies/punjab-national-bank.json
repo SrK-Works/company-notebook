@@ -1,0 +1,115 @@
+{
+  "order": 99,
+  "company": {
+    "id": "punjab-national-bank",
+    "name": "Punjab National Bank",
+    "ticker": "PNB",
+    "sector": "Banking",
+    "initial": "P",
+    "color": "#8d2341",
+    "bg": "#fff0e8",
+    "tag": "Bank accounts, home and education loans, farm credit and payments for businesses that sell in India or abroad.",
+    "products": [
+      [
+        "Savings accounts",
+        "Keep personal money and make payments"
+      ],
+      [
+        "Fixed deposits",
+        "Save for a chosen term in return for interest"
+      ],
+      [
+        "Home loans",
+        "Borrow for a home and repay in instalments"
+      ],
+      [
+        "PNB Pratibha",
+        "Borrow for an eligible higher education course"
+      ],
+      [
+        "Agriculture credit",
+        "Borrow for inputs and other eligible farm costs"
+      ],
+      [
+        "PNB ONE",
+        "Use personal accounts and make transfers on a phone"
+      ],
+      [
+        "PNB ONE BIZ",
+        "Use business accounts and pay suppliers or employees"
+      ]
+    ],
+    "sources": [
+      [
+        "NSE listing for Punjab National Bank",
+        "https://www.nseindia.com/get-quote/equity/PNB/Punjab-National-Bank?series=T0"
+      ]
+    ],
+    "productSource": "https://www.pnb.bank.in/",
+    "productNote": "Selected examples from the bank’s official offerings. Images are original illustrations of the services.",
+    "checked": "15 November 2026",
+    "reviewed": "15 November 2026",
+    "aliases": [
+      "PNB",
+      "Punjab National"
+    ]
+  },
+  "offerings": [
+    {
+      "name": "Savings accounts",
+      "category": "Keep personal money and make payments",
+      "image": "assets/products/punjab-national-bank-accounts.svg",
+      "url": "https://www.pnb.bank.in/deposit.aspx",
+      "kind": "illustration",
+      "alt": "A bank card — original illustration, not a photograph"
+    },
+    {
+      "name": "Fixed deposits",
+      "category": "Save for a chosen term in return for interest",
+      "image": "assets/products/punjab-national-bank-deposits.svg",
+      "url": "https://www.pnb.bank.in/deposit.aspx",
+      "kind": "illustration",
+      "alt": "A savings certificate — original illustration, not a photograph"
+    },
+    {
+      "name": "Home loans",
+      "category": "Borrow for a home and repay in instalments",
+      "image": "assets/products/punjab-national-bank-housing.svg",
+      "url": "https://www.pnb.bank.in/housingloanforpublic.html",
+      "kind": "illustration",
+      "alt": "A house — original illustration, not a photograph"
+    },
+    {
+      "name": "PNB Pratibha",
+      "category": "Borrow for an eligible higher education course",
+      "image": "assets/products/punjab-national-bank-education.svg",
+      "url": "https://www.pnb.bank.in/pnb-pratibha-new-education-loan-scheme.html",
+      "kind": "illustration",
+      "alt": "A graduation cap — original illustration, not a photograph"
+    },
+    {
+      "name": "Agriculture credit",
+      "category": "Borrow for inputs and other eligible farm costs",
+      "image": "assets/products/punjab-national-bank-farming.svg",
+      "url": "https://www.pnb.bank.in/agriculture-credit-schemes.html",
+      "kind": "illustration",
+      "alt": "A plant growing in a field — original illustration, not a photograph"
+    },
+    {
+      "name": "PNB ONE",
+      "category": "Use personal accounts and make transfers on a phone",
+      "image": "assets/products/punjab-national-bank-one.svg",
+      "url": "https://www.pnb.bank.in/retail-internet-banking.html",
+      "kind": "illustration",
+      "alt": "A smartphone with payment arrows — original illustration, not a photograph"
+    },
+    {
+      "name": "PNB ONE BIZ",
+      "category": "Use business accounts and pay suppliers or employees",
+      "image": "assets/products/punjab-national-bank-biz.svg",
+      "url": "https://www.pnb.bank.in/PNB-One-Biz.html",
+      "kind": "illustration",
+      "alt": "A briefcase for a business account — original illustration, not a photograph"
+    }
+  ]
+}

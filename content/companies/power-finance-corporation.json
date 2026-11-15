@@ -1,0 +1,119 @@
+{
+  "order": 98,
+  "company": {
+    "id": "power-finance-corporation",
+    "name": "Power Finance Corporation Limited",
+    "ticker": "PFC",
+    "sector": "Banking",
+    "initial": "P",
+    "logo": "assets/logos/power-finance-corporation-official.png",
+    "color": "#196178",
+    "bg": "#ebf6fc",
+    "tag": "Lends money to companies that build power plants, run electricity networks and develop other infrastructure.",
+    "products": [
+      [
+        "Conventional power plant loans",
+        "Electricity generation"
+      ],
+      [
+        "Solar project loans",
+        "Renewable power"
+      ],
+      [
+        "Wind project loans",
+        "Renewable power"
+      ],
+      [
+        "Hydropower loans",
+        "Electricity generation"
+      ],
+      [
+        "Transmission project loans",
+        "Electricity networks"
+      ],
+      [
+        "Distribution loans",
+        "Electricity networks"
+      ],
+      [
+        "Infrastructure and logistics loans",
+        "Infrastructure"
+      ]
+    ],
+    "sources": [
+      [
+        "National Stock Exchange equity listing",
+        "https://www.nseindia.com/get-quote/equity/PFC/Power-Finance-Corporation-Limited"
+      ],
+      [
+        "Official PFC masthead emblem",
+        "https://www.pfcindia.co.in/static/media/logo-en.8af15ec0244b76ef0fa30fc44222c61c.svg"
+      ]
+    ],
+    "productSource": "https://pfcindia.co.in/ensite/DocumentRepository/ckfinder/files/Investors/Annual_Reports/PFC_AR%202025_C2C%20design_v14_06082025.PDF",
+    "aliases": [
+      "Power Finance Corporation"
+    ],
+    "productNote": "Selected examples of work the company finances. The pictures illustrate what funding helps pay for; they do not show equipment manufactured or operated by this lender.",
+    "checked": "15 November 2026",
+    "reviewed": "15 November 2026"
+  },
+  "offerings": [
+    {
+      "name": "Conventional power plant loans",
+      "category": "Finance stations that produce electricity from sources such as coal or gas",
+      "image": "assets/products/power-finance-corporation-thermal-power.svg",
+      "kind": "illustration",
+      "url": "https://pfcindia.co.in/ensite/DocumentRepository/ckfinder/files/Investors/Annual_Reports/PFC_AR%202025_C2C%20design_v14_06082025.PDF",
+      "alt": "A conventional power station — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Solar project loans",
+      "category": "Finance equipment that turns sunlight into electricity",
+      "image": "assets/products/power-finance-corporation-solar.svg",
+      "kind": "illustration",
+      "url": "https://pfcindia.co.in/ensite/DocumentRepository/ckfinder/files/Investors/Annual_Reports/PFC_AR%202025_C2C%20design_v14_06082025.PDF",
+      "alt": "A solar panel — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Wind project loans",
+      "category": "Finance equipment that uses wind to generate electricity",
+      "image": "assets/products/power-finance-corporation-wind.svg",
+      "kind": "illustration",
+      "url": "https://pfcindia.co.in/ensite/DocumentRepository/ckfinder/files/Investors/Annual_Reports/PFC_AR%202025_C2C%20design_v14_06082025.PDF",
+      "alt": "A wind turbine — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Hydropower loans",
+      "category": "Finance projects that use moving water to generate electricity",
+      "image": "assets/products/power-finance-corporation-hydro.svg",
+      "kind": "illustration",
+      "url": "https://pfcindia.co.in/ensite/DocumentRepository/ckfinder/files/Investors/Annual_Reports/PFC_AR%202025_C2C%20design_v14_06082025.PDF",
+      "alt": "Water beside a dam — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Transmission project loans",
+      "category": "Finance high-voltage lines that move power over long distances",
+      "image": "assets/products/power-finance-corporation-transmission.svg",
+      "kind": "illustration",
+      "url": "https://pfcindia.co.in/ensite/DocumentRepository/ckfinder/files/Investors/Annual_Reports/PFC_AR%202025_C2C%20design_v14_06082025.PDF",
+      "alt": "High-voltage electricity pylons — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Distribution loans",
+      "category": "Finance local electricity companies and network work",
+      "image": "assets/products/power-finance-corporation-distribution.svg",
+      "kind": "illustration",
+      "url": "https://pfcindia.co.in/ensite/DocumentRepository/ckfinder/files/Investors/Annual_Reports/PFC_AR%202025_C2C%20design_v14_06082025.PDF",
+      "alt": "Power lines supplying a home — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Infrastructure and logistics loans",
+      "category": "Fund eligible infrastructure and goods-movement projects beyond the power sector",
+      "image": "assets/products/power-finance-corporation-infrastructure.svg",
+      "kind": "illustration",
+      "url": "https://www.pfcindia.co.in/ensite/DocumentRepository/ckfinder/files/Investors/Tranche_Prospectus2025-2026.pdf",
+      "alt": "Freight containers and a truck — conceptual illustration; not a photograph"
+    }
+  ]
+}

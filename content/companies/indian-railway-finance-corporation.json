@@ -1,0 +1,119 @@
+{
+  "order": 97,
+  "company": {
+    "id": "indian-railway-finance-corporation",
+    "name": "Indian Railway Finance Corporation Limited",
+    "ticker": "IRFC",
+    "sector": "Banking",
+    "initial": "I",
+    "logo": "assets/logos/indian-railway-finance-corporation-official.png",
+    "color": "#9d2331",
+    "bg": "#fff0e8",
+    "tag": "Raises money to finance trains and rail infrastructure and collects lease payments and loan interest.",
+    "products": [
+      [
+        "Locomotive finance",
+        "Train equipment"
+      ],
+      [
+        "Passenger coach finance",
+        "Train equipment"
+      ],
+      [
+        "Freight wagon finance",
+        "Train equipment"
+      ],
+      [
+        "Railway project finance",
+        "Rail infrastructure"
+      ],
+      [
+        "Freight train leasing for NTPC",
+        "Freight train leasing"
+      ],
+      [
+        "Freight corridor refinancing",
+        "Rail infrastructure loans"
+      ],
+      [
+        "Loans to rail-linked companies",
+        "Business loans"
+      ]
+    ],
+    "sources": [
+      [
+        "National Stock Exchange equity listing",
+        "https://www.nseindia.com/get-quote/equity/IRFC/Indian-Railway-Finance-Corporation-Limited"
+      ],
+      [
+        "Official IRFC masthead",
+        "https://irfc.co.in/themes/custom/silver/images/logonew1.png"
+      ]
+    ],
+    "productSource": "https://irfc.co.in/sites/default/files/inline-files/Final_Investor_Presentation_FY_2025-26_0.pdf",
+    "aliases": [
+      "Indian Railway Finance Corporation"
+    ],
+    "productNote": "Selected examples of work the company finances. The pictures illustrate what funding helps pay for; they do not show equipment manufactured or operated by this lender.",
+    "checked": "15 November 2026",
+    "reviewed": "15 November 2026"
+  },
+  "offerings": [
+    {
+      "name": "Locomotive finance",
+      "category": "Helps pay for engines that pull trains",
+      "image": "assets/products/indian-railway-finance-corporation-locomotives.svg",
+      "kind": "illustration",
+      "url": "https://irfc.co.in/sites/default/files/inline-files/Final_Investor_Presentation_FY_2025-26_0.pdf",
+      "alt": "A locomotive — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Passenger coach finance",
+      "category": "Helps pay for train carriages that carry passengers",
+      "image": "assets/products/indian-railway-finance-corporation-passenger-coaches.svg",
+      "kind": "illustration",
+      "url": "https://irfc.co.in/sites/default/files/inline-files/Annual%20Report%202024-25_0.pdf",
+      "alt": "A passenger train carriage — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Freight wagon finance",
+      "category": "Helps pay for wagons that carry goods",
+      "image": "assets/products/indian-railway-finance-corporation-freight-wagons.svg",
+      "kind": "illustration",
+      "url": "https://irfc.co.in/sites/default/files/inline-files/Annual%20Report%202024-25_0.pdf",
+      "alt": "A freight wagon — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Railway project finance",
+      "category": "Funds long-lived infrastructure for the railway network",
+      "image": "assets/products/indian-railway-finance-corporation-railway-projects.svg",
+      "kind": "illustration",
+      "url": "https://irfc.co.in/sites/default/files/inline-files/Final_Investor_Presentation_FY_2025-26_0.pdf",
+      "alt": "Railway tracks and supports — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Freight train leasing for NTPC",
+      "category": "Finances sets of wagons used by a power producer",
+      "image": "assets/products/indian-railway-finance-corporation-coal-wagons.svg",
+      "kind": "illustration",
+      "url": "https://irfc.co.in/sites/default/files/inline-files/Annual%20Report%202024-25_0.pdf",
+      "alt": "A freight wagon beside a power station — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Freight corridor refinancing",
+      "category": "Replaces an existing loan for a railway route built to carry goods",
+      "image": "assets/products/indian-railway-finance-corporation-freight-corridor.svg",
+      "kind": "illustration",
+      "url": "https://irfc.co.in/sites/default/files/inline-files/Disclosure%20under%20SEBI%20LODR%20Regulations_24.12.2025.pdf",
+      "alt": "Freight containers and a transport vehicle — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Loans to rail-linked companies",
+      "category": "Provides loans to businesses linked to railway and transport infrastructure",
+      "image": "assets/products/indian-railway-finance-corporation-rail-company-loans.svg",
+      "kind": "illustration",
+      "url": "https://irfc.co.in/sites/default/files/inline-files/Final_Investor_Presentation_FY_2025-26_0.pdf",
+      "alt": "A loan document and payment symbol — conceptual illustration; not a photograph"
+    }
+  ]
+}
