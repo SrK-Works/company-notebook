@@ -9,8 +9,8 @@ Cover every NIFTY 50 company (done) and then the NIFTY Next 50 with a plain-lang
 ## Status (as of 15 November 2026)
 
 - NIFTY 50: complete, lessons and verified figures.
-- NIFTY Next 50: 25 of 48 originally missing companies added (batches 1 to 5, with lessons and verified figures). Including two companies already covered, that is 27 of 50 constituents. 23 remain.
-- The batch list and order are in `content/source-reviews/nifty-next50-gap-2026-11-14.json` (`constituents[].batch`, `status`). Next up is batch 6: Canara Bank, Indian Railway Finance Corporation, Power Finance Corporation, Punjab National Bank and Union Bank of India. Batches 7 to 10 follow.
+- NIFTY Next 50: 30 of 48 originally missing companies added (batches 1 to 6, with lessons and verified figures). Including two companies already covered, that is 32 of 50 constituents. 18 remain.
+- The batch list and order are in `content/source-reviews/nifty-next50-gap-2026-11-14.json` (`constituents[].batch`, `status`). Next up is batch 7: Adani Energy Solutions, Adani Green Energy, Adani Power, Ambuja Cements and Hindustan Zinc. Batches 8 to 10 follow.
 - When a batch lands, update `counts.addedSoFar`, `counts.missing`, each constituent's `status` and `id` in that file.
 
 ## Playbooks

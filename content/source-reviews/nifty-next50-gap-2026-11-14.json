@@ -7,8 +7,8 @@
   "counts": {
     "constituents": 50,
     "alreadyCovered": 2,
-    "missing": 23,
-    "addedSoFar": 25
+    "missing": 18,
+    "addedSoFar": 30
   },
   "specialCases": [
     "Tata Motors Ltd. (TMCV) in this list is the separately listed trucks and buses company that split from the passenger-vehicle company (see the NIFTY 50 gap file, TMPV).",
@@ -130,8 +130,8 @@
       "ticker": "CANBK",
       "industry": "Financial Services",
       "isin": "INE476A01022",
-      "id": null,
-      "status": "missing",
+      "id": "canara-bank",
+      "status": "added in batch 6",
       "batch": 6
     },
     {
@@ -247,8 +247,8 @@
       "ticker": "IRFC",
       "industry": "Financial Services",
       "isin": "INE053F01010",
-      "id": null,
-      "status": "missing",
+      "id": "indian-railway-finance-corporation",
+      "status": "added in batch 6",
       "batch": 6
     },
     {
@@ -310,8 +310,8 @@
       "ticker": "PFC",
       "industry": "Financial Services",
       "isin": "INE134E01011",
-      "id": null,
-      "status": "missing",
+      "id": "power-finance-corporation",
+      "status": "added in batch 6",
       "batch": 6
     },
     {
@@ -319,8 +319,8 @@
       "ticker": "PNB",
       "industry": "Financial Services",
       "isin": "INE160A01022",
-      "id": null,
-      "status": "missing",
+      "id": "punjab-national-bank",
+      "status": "added in batch 6",
       "batch": 6
     },
     {
@@ -409,8 +409,8 @@
       "ticker": "UNIONBANK",
       "industry": "Financial Services",
       "isin": "INE692A01016",
-      "id": null,
-      "status": "missing",
+      "id": "union-bank-of-india",
+      "status": "added in batch 6",
       "batch": 6
     },
     {
