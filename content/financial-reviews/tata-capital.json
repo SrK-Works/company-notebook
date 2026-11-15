@@ -1,0 +1,37 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "unit": "₹ crore",
+  "checked": "15 November 2026",
+  "basis": "Consolidated · Tata Capital and its controlled companies",
+  "coverage": "Reported business segments · income before removing transactions between them",
+  "revenueLabel": "Reported segment income",
+  "incomeDefinition": "The filing calls this segment revenue. It includes lending and other reported income; the table includes transactions between the group’s own business lines before they are removed.",
+  "profitMetric": "Segment result",
+  "definition": "Earnings for each reporting business before group tax, the one-time labour charge and the group’s share of profit from associates, which are companies it significantly influences.",
+  "rows": [
+    {
+      "name": "Financing Activity",
+      "revenue": 30784.66,
+      "profit": 6402.09
+    },
+    {
+      "name": "Investment Activity",
+      "revenue": 438.65,
+      "profit": 87.82
+    },
+    {
+      "name": "Others",
+      "revenue": 633.85,
+      "profit": 111.65
+    }
+  ],
+  "revenueTotal": 31857.16,
+  "profitTotal": 6601.56,
+  "revenueTotalLabel": "Sum of reported segments",
+  "status": "segments",
+  "source": "https://www.tatacapital.com/tamil/content/dam/tata-capital/pdf/investors-and-financial-reports/annual-reports/25-26/tata-capital-limited-annual-report-fy-2025-26.pdf",
+  "sourceLabel": "Audited FY2026 annual report · consolidated accounts",
+  "location": "PDF p. 467 / printed p. 461, Note 39; PDF p. 365 / printed p. 359, income statement; PDF p. 552 / printed p. 546, Note 53",
+  "notes": "The group removes ₹300.76 crore of income between its business lines and adds ₹26.22 crore of interest on a tax refund to arrive at total group income of ₹31,582.62 crore. It deducts a one-time ₹44.04 crore charge for the impact of new labour rules (₹32.96 crore after tax), adds ₹4.86 crore of profit from associates and deducts ₹1,671.47 crore of tax to reach ₹4,890.91 crore of group profit after tax. Of that, ₹4,846.10 crore belongs to owners of Tata Capital and ₹44.81 crore to outside shareholders of controlled companies.",
+  "insight": "Financing Activity includes loans to people and businesses and some investments. It produces most of the income and the largest result. The financing row does not separate the profit made on home, car or personal loans."
+}
