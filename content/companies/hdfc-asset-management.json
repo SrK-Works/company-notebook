@@ -1,0 +1,132 @@
+{
+  "order": 92,
+  "company": {
+    "id": "hdfc-asset-management",
+    "name": "HDFC Asset Management Company Limited",
+    "ticker": "HDFCAMC",
+    "sector": "Banking",
+    "initial": "H",
+    "color": "#135382",
+    "bg": "#eaf3fa",
+    "tag": "HDFC Asset Management runs HDFC Mutual Fund schemes and manages some investments for other clients. It earns fees for doing this work.",
+    "products": [
+      [
+        "Equity funds",
+        "Pools that mainly buy shares in companies"
+      ],
+      [
+        "Debt funds",
+        "Pools that mainly buy bonds and other debt"
+      ],
+      [
+        "Hybrid funds",
+        "Funds that combine different kinds of investments"
+      ],
+      [
+        "Index funds",
+        "Funds that follow a rule-based list of investments"
+      ],
+      [
+        "Exchange-traded funds",
+        "Fund units that can trade on an exchange"
+      ],
+      [
+        "Portfolio management",
+        "Managing a client’s collection of investments"
+      ],
+      [
+        "Funds of funds",
+        "A fund that buys units of other funds"
+      ],
+      [
+        "Alternative investment funds",
+        "Pooled investments for eligible clients under separate rules"
+      ]
+    ],
+    "sources": [
+      [
+        "Issuer press release logo, PDF page 2",
+        "https://archives.nseindia.com/corporate/HDFCAMC_24012023152236_NSEBSE_72.pdf"
+      ],
+      [
+        "Current company branding reference",
+        "https://files.hdfcfund.com/s3fs-public/media-center/2026-07/Press%20Release%20-%20Q1%20FY27.pdf"
+      ]
+    ],
+    "productSource": "https://www.hdfcfund.com/explore",
+    "aliases": [
+      "HDFC AMC",
+      "HDFC Asset Management"
+    ],
+    "productNote": "Selected examples from official offerings. The pictures are original illustrations of the work or product category.",
+    "checked": "15 November 2026",
+    "reviewed": "15 November 2026",
+    "logo": "assets/logos/hdfc-asset-management-official.png"
+  },
+  "offerings": [
+    {
+      "name": "Equity funds",
+      "category": "Pools that mainly buy shares in companies",
+      "image": "assets/products/hdfc-asset-management-equity.svg",
+      "url": "https://www.hdfcfund.com/explore",
+      "kind": "illustration",
+      "alt": "A chart with a moving line — original illustration, not a photograph"
+    },
+    {
+      "name": "Debt funds",
+      "category": "Pools that mainly buy bonds and other debt",
+      "image": "assets/products/hdfc-asset-management-debt.svg",
+      "url": "https://www.hdfcfund.com/explore",
+      "kind": "illustration",
+      "alt": "A bond document with a seal — original illustration, not a photograph"
+    },
+    {
+      "name": "Hybrid funds",
+      "category": "Funds that combine different kinds of investments",
+      "image": "assets/products/hdfc-asset-management-hybrid.svg",
+      "url": "https://www.hdfcfund.com/explore",
+      "kind": "illustration",
+      "alt": "A circle split into three slices — original illustration, not a photograph"
+    },
+    {
+      "name": "Index funds",
+      "category": "Funds that follow a rule-based list of investments",
+      "image": "assets/products/hdfc-asset-management-index.svg",
+      "url": "https://www.hdfcfund.com/explore",
+      "kind": "illustration",
+      "alt": "Bars and a line representing an index — original illustration, not a photograph"
+    },
+    {
+      "name": "Exchange-traded funds",
+      "category": "Fund units that can trade on an exchange",
+      "image": "assets/products/hdfc-asset-management-exchange.svg",
+      "url": "https://www.hdfcfund.com/explore",
+      "kind": "illustration",
+      "alt": "Two arrows showing an exchange — original illustration, not a photograph"
+    },
+    {
+      "name": "Portfolio management",
+      "category": "Managing a client’s collection of investments",
+      "image": "assets/products/hdfc-asset-management-portfolio.svg",
+      "url": "https://www.hdfcfund.com/about-us",
+      "kind": "illustration",
+      "alt": "A briefcase — original illustration, not a photograph"
+    },
+    {
+      "name": "Funds of funds",
+      "category": "A fund that buys units of other funds",
+      "image": "assets/products/hdfc-asset-management-fundof.svg",
+      "url": "https://www.hdfcfund.com/explore",
+      "kind": "illustration",
+      "alt": "A tile linked to three other tiles — original illustration, not a photograph"
+    },
+    {
+      "name": "Alternative investment funds",
+      "category": "Pooled investments for eligible clients under separate rules",
+      "image": "assets/products/hdfc-asset-management-alternatives.svg",
+      "url": "https://www.hdfcfund.com/about-us",
+      "kind": "illustration",
+      "alt": "Three buildings of different heights — original illustration, not a photograph"
+    }
+  ]
+}

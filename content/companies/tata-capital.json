@@ -1,0 +1,116 @@
+{
+  "order": 94,
+  "company": {
+    "id": "tata-capital",
+    "name": "Tata Capital Limited",
+    "ticker": "TATACAP",
+    "sector": "Banking",
+    "initial": "T",
+    "logo": "assets/logos/tata-capital-official.svg",
+    "color": "#155573",
+    "bg": "#eaf5fa",
+    "tag": "Lends for homes, cars and personal needs, and funds stock, equipment and projects for businesses.",
+    "products": [
+      [
+        "Home loans",
+        "Housing"
+      ],
+      [
+        "Personal loans",
+        "Personal lending"
+      ],
+      [
+        "Business loans",
+        "Business lending"
+      ],
+      [
+        "Car loans",
+        "Vehicle finance"
+      ],
+      [
+        "Commercial vehicle finance",
+        "Vehicle finance"
+      ],
+      [
+        "Loans against property",
+        "Property-backed lending"
+      ],
+      [
+        "Equipment finance",
+        "Business lending"
+      ]
+    ],
+    "sources": [
+      [
+        "Official website logo",
+        "https://www.tatacapital.com/content/dam/tata-capital-web/Tc-footer-images/tcl-logo-2.svg"
+      ]
+    ],
+    "productSource": "https://www.tatacapital.com/loans.html",
+    "aliases": [
+      "Tata Capital",
+      "Tata Capital Ltd"
+    ],
+    "productNote": "Selected services from the company and the controlled businesses identified on the cards. Pictures are conceptual illustrations; service terms and availability can vary.",
+    "checked": "15 November 2026",
+    "reviewed": "15 November 2026"
+  },
+  "offerings": [
+    {
+      "name": "Home loans",
+      "category": "Borrow to buy, build or improve a home through the group’s housing lender",
+      "image": "assets/products/tata-capital-home-loan.svg",
+      "url": "https://www.tatacapital.com/loans.html",
+      "kind": "illustration",
+      "alt": "A house — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Personal loans",
+      "category": "Borrow for personal needs without pledging a specific item",
+      "image": "assets/products/tata-capital-personal-loan.svg",
+      "url": "https://www.tatacapital.com/loans.html",
+      "kind": "illustration",
+      "alt": "A wallet holding a receipt — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Business loans",
+      "category": "Borrow for stock, bills and other business needs",
+      "image": "assets/products/tata-capital-business-loan.svg",
+      "url": "https://www.tatacapital.com/loans.html",
+      "kind": "illustration",
+      "alt": "A small shop front — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Car loans",
+      "category": "Borrow to buy a new or used car",
+      "image": "assets/products/tata-capital-car-loan.svg",
+      "url": "https://www.tatacapital.com/vehicle-loan.html",
+      "kind": "illustration",
+      "alt": "A car — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Commercial vehicle finance",
+      "category": "Borrow for trucks and other vehicles used for work",
+      "image": "assets/products/tata-capital-commercial-vehicle.svg",
+      "url": "https://www.tatacapital.com/vehicle-loan.html",
+      "kind": "illustration",
+      "alt": "A delivery truck — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Loans against property",
+      "category": "Borrow using a property as backup for repayment",
+      "image": "assets/products/tata-capital-property-loan.svg",
+      "url": "https://www.tatacapital.com/loans.html",
+      "kind": "illustration",
+      "alt": "A building beside a property document — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Equipment finance",
+      "category": "Borrow to buy machines and other business equipment",
+      "image": "assets/products/tata-capital-equipment-loan.svg",
+      "url": "https://www.tatacapital.com/tamil/content/dam/tata-capital/pdf/investors-and-financial-reports/annual-reports/25-26/tata-capital-limited-annual-report-fy-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "A factory machine — conceptual illustration; not a photograph"
+    }
+  ]
+}

@@ -7091,6 +7091,376 @@
       "kind": "illustration",
       "alt": "Beer test in Africa — conceptual illustration; not a photograph or product image",
       "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "cholamandalam-investment-and-finance",
+      "src": "Original Company Notebook illustration",
+      "name": "Commercial vehicle loans",
+      "category": "Money to buy a truck or another work vehicle",
+      "image": "assets/products/cholamandalam-investment-and-finance-truck.svg",
+      "url": "https://www.cholamandalam.com/products",
+      "kind": "illustration",
+      "alt": "A truck — original illustration, not a photograph"
+    },
+    {
+      "company": "cholamandalam-investment-and-finance",
+      "src": "Original Company Notebook illustration",
+      "name": "Car loans",
+      "category": "Money to buy a new or used car",
+      "image": "assets/products/cholamandalam-investment-and-finance-car.svg",
+      "url": "https://www.cholamandalam.com/products",
+      "kind": "illustration",
+      "alt": "A passenger car — original illustration, not a photograph"
+    },
+    {
+      "company": "cholamandalam-investment-and-finance",
+      "src": "Original Company Notebook illustration",
+      "name": "Tractor loans",
+      "category": "Money to buy a tractor for farm work",
+      "image": "assets/products/cholamandalam-investment-and-finance-tractor.svg",
+      "url": "https://www.cholamandalam.com/products",
+      "kind": "illustration",
+      "alt": "A tractor — original illustration, not a photograph"
+    },
+    {
+      "company": "cholamandalam-investment-and-finance",
+      "src": "Original Company Notebook illustration",
+      "name": "Home loans",
+      "category": "Money to buy or build a home",
+      "image": "assets/products/cholamandalam-investment-and-finance-house.svg",
+      "url": "https://www.cholamandalam.com/products",
+      "kind": "illustration",
+      "alt": "A house — original illustration, not a photograph"
+    },
+    {
+      "company": "cholamandalam-investment-and-finance",
+      "src": "Original Company Notebook illustration",
+      "name": "Loans against property",
+      "category": "Borrowing backed by a property already owned",
+      "image": "assets/products/cholamandalam-investment-and-finance-property.svg",
+      "url": "https://www.cholamandalam.com/products",
+      "kind": "illustration",
+      "alt": "A house and a loan document — original illustration, not a photograph"
+    },
+    {
+      "company": "cholamandalam-investment-and-finance",
+      "src": "Original Company Notebook illustration",
+      "name": "Business loans",
+      "category": "Borrowing for smaller firms and their operations",
+      "image": "assets/products/cholamandalam-investment-and-finance-business.svg",
+      "url": "https://www.cholamandalam.com/products",
+      "kind": "illustration",
+      "alt": "A shopfront — original illustration, not a photograph"
+    },
+    {
+      "company": "cholamandalam-investment-and-finance",
+      "src": "Original Company Notebook illustration",
+      "name": "Gold loans",
+      "category": "Borrowing backed by jewellery held as security",
+      "image": "assets/products/cholamandalam-investment-and-finance-gold.svg",
+      "url": "https://www.cholamandalam.com/products",
+      "kind": "illustration",
+      "alt": "A necklace — original illustration, not a photograph"
+    },
+    {
+      "company": "cholamandalam-investment-and-finance",
+      "src": "Original Company Notebook illustration",
+      "name": "Personal loans",
+      "category": "Borrowing for eligible personal needs",
+      "image": "assets/products/cholamandalam-investment-and-finance-personalloan.svg",
+      "url": "https://www.cholamandalam.com/products",
+      "kind": "illustration",
+      "alt": "An agreement with a tick — original illustration, not a photograph"
+    },
+    {
+      "company": "hdfc-asset-management",
+      "src": "Original Company Notebook illustration",
+      "name": "Equity funds",
+      "category": "Pools that mainly buy shares in companies",
+      "image": "assets/products/hdfc-asset-management-equity.svg",
+      "url": "https://www.hdfcfund.com/explore",
+      "kind": "illustration",
+      "alt": "A chart with a moving line — original illustration, not a photograph"
+    },
+    {
+      "company": "hdfc-asset-management",
+      "src": "Original Company Notebook illustration",
+      "name": "Debt funds",
+      "category": "Pools that mainly buy bonds and other debt",
+      "image": "assets/products/hdfc-asset-management-debt.svg",
+      "url": "https://www.hdfcfund.com/explore",
+      "kind": "illustration",
+      "alt": "A bond document with a seal — original illustration, not a photograph"
+    },
+    {
+      "company": "hdfc-asset-management",
+      "src": "Original Company Notebook illustration",
+      "name": "Hybrid funds",
+      "category": "Funds that combine different kinds of investments",
+      "image": "assets/products/hdfc-asset-management-hybrid.svg",
+      "url": "https://www.hdfcfund.com/explore",
+      "kind": "illustration",
+      "alt": "A circle split into three slices — original illustration, not a photograph"
+    },
+    {
+      "company": "hdfc-asset-management",
+      "src": "Original Company Notebook illustration",
+      "name": "Index funds",
+      "category": "Funds that follow a rule-based list of investments",
+      "image": "assets/products/hdfc-asset-management-index.svg",
+      "url": "https://www.hdfcfund.com/explore",
+      "kind": "illustration",
+      "alt": "Bars and a line representing an index — original illustration, not a photograph"
+    },
+    {
+      "company": "hdfc-asset-management",
+      "src": "Original Company Notebook illustration",
+      "name": "Exchange-traded funds",
+      "category": "Fund units that can trade on an exchange",
+      "image": "assets/products/hdfc-asset-management-exchange.svg",
+      "url": "https://www.hdfcfund.com/explore",
+      "kind": "illustration",
+      "alt": "Two arrows showing an exchange — original illustration, not a photograph"
+    },
+    {
+      "company": "hdfc-asset-management",
+      "src": "Original Company Notebook illustration",
+      "name": "Portfolio management",
+      "category": "Managing a client’s collection of investments",
+      "image": "assets/products/hdfc-asset-management-portfolio.svg",
+      "url": "https://www.hdfcfund.com/about-us",
+      "kind": "illustration",
+      "alt": "A briefcase — original illustration, not a photograph"
+    },
+    {
+      "company": "hdfc-asset-management",
+      "src": "Original Company Notebook illustration",
+      "name": "Funds of funds",
+      "category": "A fund that buys units of other funds",
+      "image": "assets/products/hdfc-asset-management-fundof.svg",
+      "url": "https://www.hdfcfund.com/explore",
+      "kind": "illustration",
+      "alt": "A tile linked to three other tiles — original illustration, not a photograph"
+    },
+    {
+      "company": "hdfc-asset-management",
+      "src": "Original Company Notebook illustration",
+      "name": "Alternative investment funds",
+      "category": "Pooled investments for eligible clients under separate rules",
+      "image": "assets/products/hdfc-asset-management-alternatives.svg",
+      "url": "https://www.hdfcfund.com/about-us",
+      "kind": "illustration",
+      "alt": "Three buildings of different heights — original illustration, not a photograph"
+    },
+    {
+      "company": "muthoot-finance",
+      "src": "Original conceptual illustration for Company Notebook",
+      "name": "Gold loans",
+      "category": "Borrow against gold jewellery held as security",
+      "image": "assets/products/muthoot-finance-gold-loan.svg",
+      "url": "https://www.muthootfinance.com/gold-loan/process",
+      "kind": "illustration",
+      "alt": "A gold necklace — conceptual illustration; not a photograph"
+    },
+    {
+      "company": "muthoot-finance",
+      "src": "Original conceptual illustration for Company Notebook",
+      "name": "Gold Loan at Home",
+      "category": "Request a home visit to have jewellery valued for a gold loan",
+      "image": "assets/products/muthoot-finance-gold-at-home.svg",
+      "url": "https://www.muthootfinance.com/services/Gold-Loan-Is-Good",
+      "kind": "illustration",
+      "alt": "A home beside a ring — conceptual illustration; not a photograph"
+    },
+    {
+      "company": "muthoot-finance",
+      "src": "Original conceptual illustration for Company Notebook",
+      "name": "Online Gold Loan",
+      "category": "Manage eligible gold borrowing online after pledging jewellery",
+      "image": "assets/products/muthoot-finance-online-gold.svg",
+      "url": "https://www.muthootfinance.com/gold-loan/process",
+      "kind": "illustration",
+      "alt": "A phone displaying a jewellery symbol — conceptual illustration; not a photograph"
+    },
+    {
+      "company": "muthoot-finance",
+      "src": "Original conceptual illustration for Company Notebook",
+      "name": "Affordable home loans",
+      "category": "Borrow for a home through Muthoot Homefin",
+      "image": "assets/products/muthoot-finance-home-loan.svg",
+      "url": "https://cdn.muthootfinance.com/sites/default/files/files/2026-05/MFIN-BM-OUTCOME-14-05-2026.pdf",
+      "kind": "illustration",
+      "alt": "A house — conceptual illustration; not a photograph"
+    },
+    {
+      "company": "muthoot-finance",
+      "src": "Original conceptual illustration for Company Notebook",
+      "name": "Small loans through Belstar",
+      "category": "Small loans to customers served through local savings and borrowing groups",
+      "image": "assets/products/muthoot-finance-microfinance.svg",
+      "url": "https://cdn.muthootfinance.com/sites/default/files/files/2026-05/MFIN-BM-OUTCOME-14-05-2026.pdf",
+      "kind": "illustration",
+      "alt": "A small shop front — conceptual illustration; not a photograph"
+    },
+    {
+      "company": "muthoot-finance",
+      "src": "Original conceptual illustration for Company Notebook",
+      "name": "Insurance broking",
+      "category": "Arrange insurance through Muthoot Insurance Brokers",
+      "image": "assets/products/muthoot-finance-insurance.svg",
+      "url": "https://cdn.muthootfinance.com/sites/default/files/files/2026-05/MFIN-BM-OUTCOME-14-05-2026.pdf",
+      "kind": "illustration",
+      "alt": "A shield on a policy document — conceptual illustration; not a photograph"
+    },
+    {
+      "company": "muthoot-finance",
+      "src": "Original conceptual illustration for Company Notebook",
+      "name": "Money transfer services",
+      "category": "Send or receive money through applicable transfer arrangements",
+      "image": "assets/products/muthoot-finance-money-transfer.svg",
+      "url": "https://cdn.muthootfinance.com/sites/default/files/files/2025-07/ANNUALREPORTFORFY2024-25.pdf",
+      "kind": "illustration",
+      "alt": "Two phones with arrows between them — conceptual illustration; not a photograph"
+    },
+    {
+      "company": "tata-capital",
+      "src": "Original conceptual illustration for Company Notebook",
+      "name": "Home loans",
+      "category": "Borrow to buy, build or improve a home through the group’s housing lender",
+      "image": "assets/products/tata-capital-home-loan.svg",
+      "url": "https://www.tatacapital.com/loans.html",
+      "kind": "illustration",
+      "alt": "A house — conceptual illustration; not a photograph"
+    },
+    {
+      "company": "tata-capital",
+      "src": "Original conceptual illustration for Company Notebook",
+      "name": "Personal loans",
+      "category": "Borrow for personal needs without pledging a specific item",
+      "image": "assets/products/tata-capital-personal-loan.svg",
+      "url": "https://www.tatacapital.com/loans.html",
+      "kind": "illustration",
+      "alt": "A wallet holding a receipt — conceptual illustration; not a photograph"
+    },
+    {
+      "company": "tata-capital",
+      "src": "Original conceptual illustration for Company Notebook",
+      "name": "Business loans",
+      "category": "Borrow for stock, bills and other business needs",
+      "image": "assets/products/tata-capital-business-loan.svg",
+      "url": "https://www.tatacapital.com/loans.html",
+      "kind": "illustration",
+      "alt": "A small shop front — conceptual illustration; not a photograph"
+    },
+    {
+      "company": "tata-capital",
+      "src": "Original conceptual illustration for Company Notebook",
+      "name": "Car loans",
+      "category": "Borrow to buy a new or used car",
+      "image": "assets/products/tata-capital-car-loan.svg",
+      "url": "https://www.tatacapital.com/vehicle-loan.html",
+      "kind": "illustration",
+      "alt": "A car — conceptual illustration; not a photograph"
+    },
+    {
+      "company": "tata-capital",
+      "src": "Original conceptual illustration for Company Notebook",
+      "name": "Commercial vehicle finance",
+      "category": "Borrow for trucks and other vehicles used for work",
+      "image": "assets/products/tata-capital-commercial-vehicle.svg",
+      "url": "https://www.tatacapital.com/vehicle-loan.html",
+      "kind": "illustration",
+      "alt": "A delivery truck — conceptual illustration; not a photograph"
+    },
+    {
+      "company": "tata-capital",
+      "src": "Original conceptual illustration for Company Notebook",
+      "name": "Loans against property",
+      "category": "Borrow using a property as backup for repayment",
+      "image": "assets/products/tata-capital-property-loan.svg",
+      "url": "https://www.tatacapital.com/loans.html",
+      "kind": "illustration",
+      "alt": "A building beside a property document — conceptual illustration; not a photograph"
+    },
+    {
+      "company": "tata-capital",
+      "src": "Original conceptual illustration for Company Notebook",
+      "name": "Equipment finance",
+      "category": "Borrow to buy machines and other business equipment",
+      "image": "assets/products/tata-capital-equipment-loan.svg",
+      "url": "https://www.tatacapital.com/tamil/content/dam/tata-capital/pdf/investors-and-financial-reports/annual-reports/25-26/tata-capital-limited-annual-report-fy-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "A factory machine — conceptual illustration; not a photograph"
+    },
+    {
+      "company": "zydus-lifesciences",
+      "name": "Finished medicines",
+      "category": "Tablets, capsules and other medicines supplied in ready-to-use forms",
+      "image": "assets/products/zydus-lifesciences-medicines.svg",
+      "url": "https://zyduslife.com/products.html",
+      "kind": "illustration",
+      "alt": "Illustration of a medicine blister strip and bottle; not an actual Zydus pack",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "zydus-lifesciences",
+      "name": "Glucon-D",
+      "category": "Glucose powder drink mix sold by Zydus Wellness",
+      "image": "assets/products/zydus-lifesciences-glucon-d.webp",
+      "url": "https://zyduswellness.com/brands/india/glucon-d/",
+      "kind": "pack",
+      "alt": "Green Glucon-D Regular glucose powder carton",
+      "src": "https://zyduswellness.com/wp-content/uploads/2026/02/pbm-1-1.png"
+    },
+    {
+      "company": "zydus-lifesciences",
+      "name": "Complan",
+      "category": "Powder sold by Zydus Wellness for making a milk-based drink",
+      "image": "assets/products/zydus-lifesciences-complan.webp",
+      "url": "https://zyduswellness.com/brands/india/complan/",
+      "kind": "pack",
+      "alt": "Yellow and red Complan chocolate powder jar",
+      "src": "https://zyduswellness.com/wp-content/uploads/2026/02/com-11.png"
+    },
+    {
+      "company": "zydus-lifesciences",
+      "name": "Sugar Free",
+      "category": "Tabletop sweetener from Zydus Wellness",
+      "image": "assets/products/zydus-lifesciences-sugar-free.webp",
+      "url": "https://zyduswellness.com/brands/india/sugarfree/",
+      "kind": "pack",
+      "alt": "Sugar Free Natura sweetener packages against a blue background",
+      "src": "https://zyduswellness.com/wp-content/uploads/2026/02/sfn.png"
+    },
+    {
+      "company": "zydus-lifesciences",
+      "name": "Everyuth",
+      "category": "Face masks and other personal-care products from Zydus Wellness",
+      "image": "assets/products/zydus-lifesciences-everyuth.webp",
+      "url": "https://zyduswellness.com/brands/india/everyuth/",
+      "kind": "pack",
+      "alt": "Two Everyuth peel-off face mask tubes",
+      "src": "https://zyduswellness.com/wp-content/uploads/2026/02/pom-1.png"
+    },
+    {
+      "company": "zydus-lifesciences",
+      "name": "Medicine ingredients",
+      "category": "Ingredients sold to other manufacturers for making finished medicines",
+      "image": "assets/products/zydus-lifesciences-ingredients.svg",
+      "url": "https://zyduslife.com/operations.html",
+      "kind": "illustration",
+      "alt": "Illustration of a labelled sample jar with powder; not a photograph of a Zydus ingredient",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "zydus-lifesciences",
+      "name": "Joint replacement implants",
+      "category": "Artificial joint components supplied through Amplitude Surgical",
+      "image": "assets/products/zydus-lifesciences-joint-implants.svg",
+      "url": "https://zyduslife.com/investor/admin/uploads/15/0/May-2026.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of artificial knee joint components; not an image of a specific Amplitude Surgical model",
+      "src": "Original SVG illustration by Company Notebook"
     }
   ]
 }

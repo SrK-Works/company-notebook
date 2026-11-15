@@ -1,0 +1,121 @@
+{
+  "order": 95,
+  "company": {
+    "id": "zydus-lifesciences",
+    "name": "Zydus Lifesciences Limited",
+    "ticker": "ZYDUSLIFE",
+    "sector": "Healthcare",
+    "initial": "Z",
+    "logo": "assets/logos/zydus-lifesciences-official.jpg",
+    "color": "#00878d",
+    "bg": "#e7f5f4",
+    "tag": "From medicines to products on the shop shelf",
+    "sources": [
+      [
+        "National Stock Exchange listing",
+        "https://www.nseindia.com/get-quote/slb/ZYDUSLIFE/Zydus-Lifesciences-Limited"
+      ],
+      [
+        "Official corporate logo from Zydus media kit",
+        "https://zyduslife.com/mediakit.html"
+      ]
+    ],
+    "productSource": "https://zyduslife.com/products.html",
+    "productNote": "Selected products and business lines. The consumer brands shown belong to Zydus Wellness, a company controlled by Zydus Lifesciences that also has its own listing.",
+    "aliases": [
+      "Zydus Lifesciences",
+      "Cadila Healthcare Limited",
+      "Cadila Healthcare"
+    ],
+    "checked": "15 November 2026",
+    "reviewed": "15 November 2026",
+    "products": [
+      [
+        "Finished medicines",
+        "Tablets, capsules and other medicines supplied in ready-to-use forms"
+      ],
+      [
+        "Glucon-D",
+        "Glucose powder drink mix sold by Zydus Wellness"
+      ],
+      [
+        "Complan",
+        "Powder sold by Zydus Wellness for making a milk-based drink"
+      ],
+      [
+        "Sugar Free",
+        "Tabletop sweetener from Zydus Wellness"
+      ],
+      [
+        "Everyuth",
+        "Face masks and other personal-care products from Zydus Wellness"
+      ],
+      [
+        "Medicine ingredients",
+        "Ingredients sold to other manufacturers for making finished medicines"
+      ],
+      [
+        "Joint replacement implants",
+        "Artificial joint components supplied through Amplitude Surgical"
+      ]
+    ]
+  },
+  "offerings": [
+    {
+      "name": "Finished medicines",
+      "category": "Tablets, capsules and other medicines supplied in ready-to-use forms",
+      "image": "assets/products/zydus-lifesciences-medicines.svg",
+      "url": "https://zyduslife.com/products.html",
+      "kind": "illustration",
+      "alt": "Illustration of a medicine blister strip and bottle; not an actual Zydus pack"
+    },
+    {
+      "name": "Glucon-D",
+      "category": "Glucose powder drink mix sold by Zydus Wellness",
+      "image": "assets/products/zydus-lifesciences-glucon-d.webp",
+      "url": "https://zyduswellness.com/brands/india/glucon-d/",
+      "kind": "pack",
+      "alt": "Green Glucon-D Regular glucose powder carton"
+    },
+    {
+      "name": "Complan",
+      "category": "Powder sold by Zydus Wellness for making a milk-based drink",
+      "image": "assets/products/zydus-lifesciences-complan.webp",
+      "url": "https://zyduswellness.com/brands/india/complan/",
+      "kind": "pack",
+      "alt": "Yellow and red Complan chocolate powder jar"
+    },
+    {
+      "name": "Sugar Free",
+      "category": "Tabletop sweetener from Zydus Wellness",
+      "image": "assets/products/zydus-lifesciences-sugar-free.webp",
+      "url": "https://zyduswellness.com/brands/india/sugarfree/",
+      "kind": "pack",
+      "alt": "Sugar Free Natura sweetener packages against a blue background"
+    },
+    {
+      "name": "Everyuth",
+      "category": "Face masks and other personal-care products from Zydus Wellness",
+      "image": "assets/products/zydus-lifesciences-everyuth.webp",
+      "url": "https://zyduswellness.com/brands/india/everyuth/",
+      "kind": "pack",
+      "alt": "Two Everyuth peel-off face mask tubes"
+    },
+    {
+      "name": "Medicine ingredients",
+      "category": "Ingredients sold to other manufacturers for making finished medicines",
+      "image": "assets/products/zydus-lifesciences-ingredients.svg",
+      "url": "https://zyduslife.com/operations.html",
+      "kind": "illustration",
+      "alt": "Illustration of a labelled sample jar with powder; not a photograph of a Zydus ingredient"
+    },
+    {
+      "name": "Joint replacement implants",
+      "category": "Artificial joint components supplied through Amplitude Surgical",
+      "image": "assets/products/zydus-lifesciences-joint-implants.svg",
+      "url": "https://zyduslife.com/investor/admin/uploads/15/0/May-2026.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of artificial knee joint components; not an image of a specific Amplitude Surgical model"
+    }
+  ]
+}

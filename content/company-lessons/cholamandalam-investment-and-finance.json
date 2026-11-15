@@ -1,0 +1,202 @@
+{
+  "summary": "Chola lends money for trucks, cars, homes and business needs. It also lends against property or gold jewellery and offers some personal loans.",
+  "description": "Imagine an owner-driver who needs a truck to earn from carrying goods but cannot pay the full price today. Chola checks the borrower and vehicle, makes the loan if approved, then collects repayments under the agreement. It does similar work for other kinds of vehicles, homes and businesses, with different checks for each.",
+  "money": "Chola mainly earns interest on loans and also reports fee and commission income. The original sum recovered from a borrower is money lent out coming back, not interest income. Chola has to pay for its own funding, employees, branches, collections and losses when borrowers do not pay. The full instalment is not profit.",
+  "customers": "Drivers and fleet owners, households, property owners, gold borrowers and small businesses pay under their loan agreements. A vehicle dealer may introduce a borrower, but the borrower owes the instalments.",
+  "drivers": "How much interest it earns compared with the interest it pays, whether borrowers repay, and how much it costs to check, serve and collect each type of loan.",
+  "quick": [
+    {
+      "title": "What does it do?",
+      "text": "It lends money for vehicles, homes and business needs, and makes some loans against property or gold."
+    },
+    {
+      "title": "Who pays it?",
+      "text": "Borrowers repay Chola for the money made available to them. The vehicle dealer or property seller is usually a different party."
+    },
+    {
+      "title": "What does it earn?",
+      "text": "Mainly interest and some fees. The original loan amount is also repaid, but that part is money coming back."
+    },
+    {
+      "title": "What costs it money?",
+      "text": "It pays interest to borrow its own funds and pays for staff, branches and collections. Missed repayments can result in losses."
+    }
+  ],
+  "groups": [
+    {
+      "title": "Vehicle and equipment loans",
+      "examples": "Truck, car, two-wheeler, tractor and construction equipment loans.",
+      "explanation": "Chola provides money to help a buyer pay for the vehicle or machine. A working truck or tractor may help the borrower earn the money needed to repay it."
+    },
+    {
+      "title": "Home loans",
+      "examples": "Loans to buy or build a home.",
+      "explanation": "This helps a household pay for the home over time. Chola checks the applicant’s ability to repay as well as the property documents."
+    },
+    {
+      "title": "Borrowing against property",
+      "examples": "Loans backed by a property the customer already owns.",
+      "explanation": "The property supports a loan that can serve other permitted needs. Unlike a loan to buy a new home, this often uses a property the borrower already has."
+    },
+    {
+      "title": "Loans for firms and personal needs",
+      "examples": "Business loans, personal loans and loans for consumer goods.",
+      "explanation": "A business may need money to buy equipment or keep its work going. A person may borrow for a purchase. Some loans are backed by assets; others rely mainly on repayment ability."
+    },
+    {
+      "title": "Gold loans",
+      "examples": "Shorter borrowing secured by pledged gold jewellery.",
+      "explanation": "Chola checks the gold and holds it as security until repayment under the agreement. Security is an asset that can help the lender recover money if the borrower fails to repay."
+    },
+    {
+      "title": "Share trading through a subsidiary",
+      "examples": "Cholamandalam Securities, a company controlled by the lender.",
+      "explanation": "A broker helps a customer place trades and can earn transaction or service fees. This is a different service from lending to a truck buyer."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is a secured loan?",
+      "text": "It is a loan backed by an asset, such as a vehicle, property or gold. The asset does not make payment certain: recovery can take time and the asset may sell for less than the debt."
+    },
+    {
+      "title": "What is the difference between repayment and profit?",
+      "text": "Part of an instalment can return the original loan amount, called principal. Interest is the price of borrowing. The lender still has expenses and possible loan losses to subtract."
+    }
+  ],
+  "stepsTitle": "From a loan application to repayment.",
+  "steps": [
+    {
+      "title": "Check the borrower and the purchase",
+      "text": "For a vehicle loan, review income, past borrowing and the vehicle. The work can also include checking property papers or testing gold."
+    },
+    {
+      "title": "Agree the terms and release the money",
+      "text": "Set the amount, interest and repayment dates. Chola draws on funds it has raised so it can pay out the approved loan."
+    },
+    {
+      "title": "Collect repayments and watch for missed payments",
+      "text": "The borrower pays over the agreed schedule. If payments fall behind, the lender follows up and may try to recover money from any asset backing the loan."
+    },
+    {
+      "title": "Pay the cost of making and funding the loan",
+      "text": "Compare earned interest and fees with funding costs, staff costs and expected loan losses. The amount recorded as earned and the cash received can differ."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "A loan for a work vehicle depends on work",
+      "text": "A truck owner may need regular loads to cover fuel, repairs and instalments. A car bought mainly for family travel has a different repayment story. Look at which loans are growing."
+    },
+    {
+      "title": "Gold loans need safe handling as well as credit checks",
+      "text": "The branch must test and value jewellery, store it securely and return it after repayment under the agreement. A fall in gold prices can reduce how much an unpaid lender could recover."
+    },
+    {
+      "title": "More money lent today is not more profit today",
+      "text": "The company pays out the loan first and earns interest over time. A recently issued loan may look fine before it has faced months of payments or a fall in the borrower’s income."
+    }
+  ],
+  "watch": [
+    [
+      "Are vehicle borrowers earning enough to keep paying?",
+      "Drivers’ income can change even if the payment due stays the same.",
+      "Read the company’s commentary on demand for trucks and used vehicles. Compare it with late repayments and cash collections for vehicle loans."
+    ],
+    [
+      "What does Chola pay to raise the money it lends?",
+      "Borrowing costs can rise at a different speed from loan interest.",
+      "Compare interest paid, interest earned and upcoming funding repayments on the same reporting basis. Ask which loans can change their rates and when."
+    ],
+    [
+      "Are newly issued loans still paying on time after a year?",
+      "The newest loans have had less time to miss payments.",
+      "Compare loans granted in different periods where disclosed. Review late instalments, actual recoveries and charges for expected losses."
+    ],
+    [
+      "Does a property-backed loan remain within a sensible part of the property’s value?",
+      "Selling security can take time and may recover less than expected.",
+      "Read how Chola values property and checks repayment ability. Compare the amount lent with the value used and check late payments for this loan type."
+    ],
+    [
+      "What is grouped together in the financial table?",
+      "A new lending product may appear inside a broader reported category.",
+      "Read the segment note before assigning results to gold, personal or business loans. Look for the company’s own definitions and any costs it cannot assign to one activity."
+    ]
+  ],
+  "risks": [
+    [
+      "Funding renewals can become difficult",
+      "If money Chola borrowed comes due before customers repay their loans, it needs cash or replacement funding."
+    ],
+    [
+      "Borrower or asset documents may be wrong",
+      "Incorrect documents or overstated asset values can lead to loans being approved on faulty information."
+    ],
+    [
+      "Work is spread across many branches and partners",
+      "Serving borrowers across branches and partners requires consistent checks, records and customer protection."
+    ],
+    [
+      "Rules can change the work required",
+      "Changing rules about lending or collection can require changes to processes, contracts or the way customers are served."
+    ]
+  ],
+  "helps": [
+    {
+      "title": "Vehicle sellers can introduce borrowers",
+      "text": "Dealer relationships can help Chola meet buyers while they are deciding how to pay for a vehicle."
+    },
+    {
+      "title": "Several loan types serve different needs",
+      "text": "A truck, a home and a business purchase happen for different reasons, so demand need not move the same way across all products."
+    },
+    {
+      "title": "Branches can help with checks that need a visit",
+      "text": "Staff can inspect documents and pledged items locally and follow up with borrowers who need help."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "A borrower’s income can fall",
+      "text": "A slower business or a household setback can make the next payment harder."
+    },
+    {
+      "title": "Interest paid can rise faster than interest earned",
+      "text": "If new funding becomes more expensive before existing loan rates change, less remains after interest costs."
+    },
+    {
+      "title": "An asset can bring in less than expected",
+      "text": "A used truck or property may take time to sell and may fetch less than the outstanding loan."
+    }
+  ],
+  "context": [
+    "Gold loans were a newer activity in the annual report",
+    "The annual report for the year ended March 2026 describes that year as the first year of the gold-loan business. It plans further branches. Follow how the business handles storage, repayments and costs as it grows."
+  ],
+  "sources": [
+    [
+      "Official loan catalogue",
+      "https://www.cholamandalam.com/products"
+    ],
+    [
+      "Annual report for the year ended March 2026",
+      "https://files.cholamandalam.com/Despatch_of_Annual_Report_FY_2026_0a06eb6c37.pdf"
+    ],
+    [
+      "Controlled companies",
+      "https://www.cholamandalam.com/about-us/our-subsidiaries"
+    ],
+    [
+      "National Stock Exchange listing",
+      "https://www.nseindia.com/get-quote/equity/CHOLAFIN/Cholamandalam-Investment-and-Finance-Company-Limited"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "Use the signed annual accounts to distinguish interest income, funding costs and loan losses from the original loan amounts being paid back."
+    }
+  ],
+  "checked": "15 November 2026"
+}

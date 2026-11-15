@@ -1,0 +1,205 @@
+{
+  "summary": "HDFC Asset Management runs HDFC Mutual Fund schemes and manages some investments for other clients. It earns fees for doing this work.",
+  "description": "A mutual fund pools money from many investors and uses it to buy investments such as shares or bonds. An investor receives units, which are pieces of the fund. HDFC Asset Management runs the investments under each scheme’s rules, keeps records and reports what those units are worth. The money in the fund belongs to the fund’s investors.",
+  "money": "The manager mainly earns investment management fees. Mutual fund expenses, including the management fee, are paid from the scheme within the applicable rules and reduce what unit holders receive. HDFC Asset Management pays for investment teams, staff, systems, offices and other operating costs. The value of investors’ funds is neither its sales nor its profit.",
+  "customers": "Individuals and organisations invest in funds; clients may also arrange separate investment management. Fund investors bear the scheme expenses, and the manager earns its share for the work of running the investments.",
+  "drivers": "The average value of investments it manages, how much clients add or withdraw, the mix of fund types and fee rates, and the cost of running the business.",
+  "quick": [
+    {
+      "title": "What does it do?",
+      "text": "It runs pools of investments for mutual fund investors and also manages investments for some other clients."
+    },
+    {
+      "title": "Who pays it?",
+      "text": "Investors bear charges paid out of the fund. Separate investment clients pay under the terms of their own service."
+    },
+    {
+      "title": "What does it earn?",
+      "text": "Management fees are linked to the value of investments it manages and to the applicable fee rates. The investments themselves belong to clients or funds."
+    },
+    {
+      "title": "What costs it money?",
+      "text": "Research, staff, computer systems and running the business cost money. Falling markets or withdrawals can reduce the amount on which fees are earned."
+    }
+  ],
+  "groups": [
+    {
+      "title": "Funds that mainly buy shares",
+      "examples": "Equity funds, including schemes whose managers choose the shares.",
+      "explanation": "Equity means ownership in businesses. A fund holds shares in multiple companies; the investor holds units of that fund. Its value can rise or fall."
+    },
+    {
+      "title": "Funds that mainly buy debt",
+      "examples": "Debt funds and liquid funds for shorter-term holdings.",
+      "explanation": "A bond is money lent to a government or company under agreed terms. A debt fund holds such investments. A liquid fund generally holds short-term debt; it is not a bank deposit."
+    },
+    {
+      "title": "Funds that combine investments",
+      "examples": "Hybrid funds and funds that buy units of other funds.",
+      "explanation": "A hybrid fund can hold shares and bonds together. A fund of funds buys units in other funds rather than picking every share or bond itself."
+    },
+    {
+      "title": "Funds that follow a list of investments",
+      "examples": "Index funds and exchange-traded funds.",
+      "explanation": "An index is a rule-based list or measure, such as a basket of shares. An index fund aims to follow it. An exchange-traded fund has units investors can buy and sell on an exchange."
+    },
+    {
+      "title": "Other investment-management services",
+      "examples": "Separate portfolio management and alternative investment funds.",
+      "explanation": "A portfolio is a collection of investments. The manager can run a client’s collection under an agreement or manage a pooled fund designed for eligible investors under different rules from ordinary mutual funds."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is the value of money managed?",
+      "text": "Assets under management means the current value of investments the company manages for funds and clients. The value may rise when markets rise even if no new money is added."
+    },
+    {
+      "title": "What does a fund unit represent?",
+      "text": "A unit represents a share of a fund’s investments. Its value reflects what the fund owns, less what it owes and its expenses. Buying a unit is different from buying a share in the management company."
+    }
+  ],
+  "stepsTitle": "From an investor’s money to a manager’s fee.",
+  "steps": [
+    {
+      "title": "Set the investment rules",
+      "text": "Each scheme explains what it may buy, the risks and what expenses are charged. A shareholder in the manager does not own those investments."
+    },
+    {
+      "title": "Accept money and issue units",
+      "text": "The investor puts money into the scheme and receives units at the applicable value. The fund uses that money to buy investments under its rules."
+    },
+    {
+      "title": "Run the investments and calculate fees",
+      "text": "Teams buy, sell and monitor investments, keep records and report unit values. The scheme provides for expenses under its rules, and the manager records its earned fee."
+    },
+    {
+      "title": "Pay the costs of running the manager",
+      "text": "HDFC Asset Management must pay staff and other operating costs. Market gains for unit holders are different from the manager’s own profit and cash collections."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Separate market movement from client decisions",
+      "text": "The amount managed can increase because share prices rose, because people added money, or both. Net flows mean additions minus withdrawals. Read them separately from market gains."
+    },
+    {
+      "title": "Two funds of the same size can pay different fees",
+      "text": "A fund that follows an index and one that pays for research to select holdings can have different charges. Check the fee received by the manager rather than assuming it keeps all charges shown to investors."
+    },
+    {
+      "title": "End-of-period balances are a snapshot",
+      "text": "A fund can end the period bigger or smaller than it was through most of that period. Compare average values with fees earned over the same period, using matching definitions."
+    }
+  ],
+  "watch": [
+    [
+      "Are investors adding money after withdrawals?",
+      "A rising market can make a fund look bigger without fresh demand.",
+      "Compare net flows, average amounts managed and closing balances. Check whether trends differ among share, debt and index funds."
+    ],
+    [
+      "How much fee comes from each kind of fund?",
+      "The same amount managed may earn a different fee.",
+      "Read the fee and fund-category disclosures and compare fees with average managed amounts on a consistent basis. Do not treat the full expense ratio, meaning annual charges as a share of fund assets, as the manager’s revenue."
+    ],
+    [
+      "Do people continue contributing when markets weaken?",
+      "Stopping or withdrawing can reduce future fees.",
+      "Read regular-investing and redemption trends across more than one period. A redemption is an investor cashing in units. Separate extra accounts from cash actually added."
+    ],
+    [
+      "Do new schemes bring in money that stays?",
+      "A launch is earlier than a stable base of investors.",
+      "Check whether assets remain after launch, and how much came from investors switching out of existing schemes. Read staff, systems and other costs alongside fee growth."
+    ],
+    [
+      "What is income from running funds versus the manager’s own investments?",
+      "A change in the value of company-owned investments can move reported profit.",
+      "Compare operating revenue, other income and the notes to the signed accounts. Keep the company’s own investments separate from money it manages for clients."
+    ]
+  ],
+  "risks": [
+    [
+      "A scheme may fall short of its goal",
+      "Investors can switch if results disappoint over time. Compare holdings and performance with the measure each fund aims to follow or beat."
+    ],
+    [
+      "Errors can affect many accounts at once",
+      "A pricing, record or computer problem can affect unit values, statements or customer access and require correction."
+    ],
+    [
+      "Funds may need to sell to pay withdrawals",
+      "For schemes with assets that are harder to sell quickly, heavy withdrawals can make it more difficult to manage the fund within its rules."
+    ],
+    [
+      "Partnerships need oversight",
+      "Distributors and service partners help reach investors and carry out work; poor servicing or misleading sales can damage trust."
+    ]
+  ],
+  "helps": [
+    {
+      "title": "One management team can serve many fund holders",
+      "text": "A pooled fund can share research, systems and reporting across many investors."
+    },
+    {
+      "title": "Customers can choose among several kinds of funds",
+      "text": "Share, debt and combined funds can serve different investment needs, so demand is not confined to one category."
+    },
+    {
+      "title": "Direct access and distribution partners widen reach",
+      "text": "Investors can reach schemes through permitted direct channels and partners such as banks and distributors."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Market falls can shrink the fee base",
+      "text": "Even if investors stay, falling prices can reduce the value on which the company earns fees."
+    },
+    {
+      "title": "A shift to lower-fee funds can slow fee growth",
+      "text": "Managed money can rise faster than fees when a greater share goes to funds that pay lower fee rates."
+    },
+    {
+      "title": "Fee rules and competition can limit what the manager earns",
+      "text": "A lower permitted charge or price pressure can reduce fees without a matching fall in staff or system costs."
+    }
+  ],
+  "context": [
+    "A new index-following fund began trading",
+    "On 16 October 2026, the company marked the listing of an exchange-traded fund that tracks a broad Indian share index. Its units trade separately from the management company’s own shares."
+  ],
+  "sources": [
+    [
+      "Fund categories",
+      "https://www.hdfcfund.com/explore"
+    ],
+    [
+      "About the asset manager",
+      "https://www.hdfcfund.com/about-us"
+    ],
+    [
+      "Statement about the fund, manager and trustee",
+      "https://files.hdfcfund.com/s3fs-public/2026-10/SAI%20with%20updated%20Addendum%20dated%20September%2030%2C%202026_0.pdf?VersionId=lfGf17WvPBngQbX0cgJI7tzWW_z3AcG0"
+    ],
+    [
+      "Annual report for the year ended March 2026",
+      "https://files.hdfcfund.com/s3fs-public/2026-06/Annual%20Report%20for%20the%20Financial%20Year%202025-26_0.pdf"
+    ],
+    [
+      "October 2026 announcement about the index-following fund",
+      "https://files.hdfcfund.com/s3fs-public/media-center/2026-10/Press%20Release%20-%20HDFC%20Mutual%20Fund%20Marks%20Listing%20of%20HDFC%20FTSE%20India%20Equity%20ETF%20on%20NSE.pdf?VersionId=ZX1MDjfCbjSFgQ3j4Tz9zzhi22FH5lm8"
+    ],
+    [
+      "National Stock Exchange listing",
+      "https://www.nseindia.com/get-quote/equity/HDFCAMC/HDFC-Asset-Management-Company-Limited"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "The manager’s annual accounts report its own fees and earnings. The value of money it manages for clients is a separate measure."
+    }
+  ],
+  "checked": "15 November 2026"
+}

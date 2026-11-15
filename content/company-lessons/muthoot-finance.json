@@ -1,0 +1,199 @@
+{
+  "summary": "Muthoot Finance mainly lends money against gold jewellery. The customer leaves jewellery with it as backup, pays interest and gets the jewellery back when the loan is repaid.",
+  "description": "A shopkeeper who needs money before customers pay could bring a gold necklace to Muthoot Finance. Staff check the jewellery’s weight and purity, work out how much it can support and keep it in secure storage as backup for the loan. This is an illustrative situation; loan terms vary. The listed business also has controlled companies in housing loans, small loans and insurance broking.",
+  "money": "Borrowers pay interest and applicable charges. The company raises money to make loans and pays interest on that funding. It also pays employees and branch costs, including checking and storing jewellery, and records likely loan losses. Repaying the original loan returns money previously lent; the whole payment is not profit.",
+  "customers": "People and business owners needing cash can pledge eligible jewellery and pay for the use of borrowed money. Through controlled companies, households borrow for homes, customers borrow small amounts and people can arrange cover from insurers.",
+  "drivers": "How much borrowers take and repay, how much interest Muthoot earns versus what it pays to raise money, and how well branches value and protect jewellery and handle overdue loans.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "It lends cash against gold jewellery that it checks and holds safely while the loan is outstanding."
+    },
+    {
+      "title": "Who pays",
+      "text": "People and business owners pay interest to borrow. They get their jewellery back after paying what is due."
+    },
+    {
+      "title": "How it earns",
+      "text": "Mainly from interest on loans, plus applicable charges. Repayment of the original loan returns money it lent."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Interest on borrowed funds, staff, branches and jewellery handling. Losses can arise if repayments or recovery fall short."
+    }
+  ],
+  "groups": [
+    {
+      "title": "Gold loans",
+      "examples": "Branch gold loans and eligible home-visit gold loans.",
+      "explanation": "The customer pledges jewellery, meaning the lender holds it as backup. Staff value eligible gold and lend only part of that value. The jewellery is not bought from the customer."
+    },
+    {
+      "title": "Online servicing",
+      "examples": "Online facilities connected with gold loans.",
+      "explanation": "Eligible customers can use an online route for certain loan transactions. It changes how the customer accesses the service; the gold still backs the loan."
+    },
+    {
+      "title": "Home loans and smaller loans",
+      "examples": "Muthoot Homefin and Belstar Microfinance.",
+      "explanation": "Muthoot Homefin lends for housing. Belstar serves borrowers through small loans, including through local groups whose members save and borrow. These loans have different repayment patterns from gold loans."
+    },
+    {
+      "title": "Services that do not require a gold loan",
+      "examples": "Insurance broking and money transfer.",
+      "explanation": "An insurance broker helps customers arrange cover from an insurer; the insurer provides the cover. Money transfer is a service for moving someone’s money to a recipient. The money being moved is not itself a fee earned."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What does pledging jewellery mean?",
+      "text": "The customer offers it as backup for repayment. The company keeps it while the loan remains due. Auction means a sale to bidders; it can happen under the agreed rules if the customer fails to settle after the required notice."
+    },
+    {
+      "title": "Why lend less than the jewellery is worth?",
+      "text": "That difference provides room if the gold price falls or the jewellery sells for less than expected. The share lent against the assessed value is called the loan-to-value ratio. Check the rules and terms for the particular loan."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Check the jewellery",
+      "text": "Confirm the borrower’s identity and assess the eligible gold by weight and purity."
+    },
+    {
+      "title": "Agree the loan and store the pledge",
+      "text": "Offer a loan against part of the valuation, explain the terms, pay out the loan and store the jewellery."
+    },
+    {
+      "title": "Collect payment under the agreed terms",
+      "text": "Interest is the charge for borrowing. The original amount, called principal, must also be repaid. A charge recorded in the accounts need not have been collected yet."
+    },
+    {
+      "title": "Return the gold or follow the overdue process",
+      "text": "Release the jewellery after settlement. If a loan stays unpaid, follow the required notices and recovery procedure before any auction."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Gold backing changes how a missed payment is handled",
+      "text": "The lender can seek recovery through the jewellery after following the required process. Recovery still depends on the sale proceeds and what is owed; a pledged item does not make the loan risk-free."
+    },
+    {
+      "title": "Branch work matters even with online access",
+      "text": "Someone must assess physical jewellery and keep an accurate custody record. A faster app can help with account access, but cannot replace the controls that protect the customer’s pledged item."
+    },
+    {
+      "title": "Group businesses have different ways of recovering money",
+      "text": "A home loan is repaid over a different timetable, and group-based small loans have a different way of checking and collecting repayments. Read each business separately where the company discloses it."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Existing gold can support access to a loan",
+      "text": "Customers can pledge jewellery they already own when they need funds for household or business expenses."
+    },
+    {
+      "title": "Customers can visit a branch or use eligible remote services",
+      "text": "A physical network gives people somewhere to take jewellery; home visits and online servicing can reduce trips for tasks they cover."
+    },
+    {
+      "title": "Controlled businesses serve other needs",
+      "text": "Housing loans, small loans and arranging insurance let the group serve customers beyond the main gold-loan transaction."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Most of the business still depends on gold borrowing",
+      "text": "Other group services do not remove the importance of demand for loans against jewellery."
+    },
+    {
+      "title": "Gold values can change while a loan is outstanding",
+      "text": "A fall in the value of pledged jewellery reduces the amount available to recover if a borrower cannot pay."
+    },
+    {
+      "title": "Little loans still need careful branch work",
+      "text": "Assessing, storing, checking records and returning individual items requires staff and safeguards even for small amounts."
+    }
+  ],
+  "watch": [
+    [
+      "Are customers repaying without an auction?",
+      "Borrower payments and sales of pledged jewellery are different routes to recovery.",
+      "Read collection and auction disclosures together with overdue loans. Check how long loans remain overdue and how much was actually recovered."
+    ],
+    [
+      "How much room is left below the assessed gold value?",
+      "A smaller gap leaves less protection if prices fall.",
+      "Read the loan-to-value measures and the company’s policy when pledged gold loses value. Compare like dates and the same groups of loans."
+    ],
+    [
+      "What is changing the cost of raising money?",
+      "Higher funding interest can leave less after lending costs.",
+      "Compare loan interest earned with interest paid to raise money. Read when borrowing falls due and what needs to be renewed."
+    ],
+    [
+      "Can more branches maintain the same safeguards?",
+      "More jewellery means more work checking and keeping track of it.",
+      "Check branch growth and descriptions of jewellery valuation, custody, inspections and insurance. Do not infer strong controls from a higher loan balance alone."
+    ],
+    [
+      "Are other group loans behaving differently?",
+      "Home and small-loan customers can face different repayment pressures.",
+      "Read Muthoot Homefin and Belstar performance separately where available. Compare payments and loan losses rather than assuming they behave like jewellery-backed loans."
+    ]
+  ],
+  "risks": [
+    [
+      "Funding becomes more expensive",
+      "The company may pay more to renew borrowing before the interest it earns on loans catches up."
+    ],
+    [
+      "Repayment and auction proceeds fall short",
+      "An overdue loan remains a risk even when gold was pledged; the sale may not cover what is owed."
+    ],
+    [
+      "Customer property is misvalued or mishandled",
+      "An incorrect appraisal, loss or weak record can lead to claims and operating disruption."
+    ],
+    [
+      "Lending and recovery requirements change",
+      "Rules governing valuation, the amount lent and recovery can affect processes and costs."
+    ]
+  ],
+  "context": [
+    "May 2026: the group explains its businesses beyond the parent",
+    "The company’s May 2026 results presentation identifies Muthoot Homefin with housing loans, Belstar with small loans and a gold-loan expansion, Muthoot Money with gold loans, and Muthoot Insurance Brokers with arranging insurance. The parent remains focused on lending against gold."
+  ],
+  "sources": [
+    [
+      "Official gold-loan process and online facilities",
+      "https://www.muthootfinance.com/gold-loan/process"
+    ],
+    [
+      "Company gold-loan home service",
+      "https://www.muthootfinance.com/services/Gold-Loan-Is-Good"
+    ],
+    [
+      "Company auction policy",
+      "https://www.muthootfinance.com/auction-policy"
+    ],
+    [
+      "May 2026 audited results and group business presentation",
+      "https://cdn.muthootfinance.com/sites/default/files/files/2026-05/MFIN-BM-OUTCOME-14-05-2026.pdf"
+    ],
+    [
+      "Annual report and company services directory",
+      "https://cdn.muthootfinance.com/sites/default/files/files/2025-07/ANNUALREPORTFORFY2024-25.pdf"
+    ],
+    [
+      "National Stock Exchange listing",
+      "https://www.nseindia.com/get-quotes/equity?symbol=MUTHOOTFIN"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "The annual income and profit table will appear after the published financial statement is checked."
+    }
+  ],
+  "checked": "15 November 2026"
+}

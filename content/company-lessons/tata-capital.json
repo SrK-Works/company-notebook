@@ -1,0 +1,195 @@
+{
+  "summary": "Tata Capital lends for homes, vehicles and personal needs, and helps businesses pay for stock, machinery and projects. It earns interest and some fees.",
+  "description": "A family can borrow to buy a home, a driver to buy a vehicle, or a shop to buy stock before customers pay. Tata Capital and its lending companies check who is borrowing and how they expect to repay, then agree the loan and collect it over time. Its group runs housing loans through Tata Capital Housing Finance.",
+  "money": "Borrowers pay interest, the price for using borrowed money, and applicable fees. Tata Capital pays interest on much of the money it raises for lending. It also pays branch, staff and technology costs and records expenses for likely loan losses. Returning the original loan reduces what the borrower owes; that money is not income.",
+  "customers": "Households, self-employed people and businesses borrow for different needs. A shop can repay from sales; a family may repay from wages. Customers pay Tata Capital or the lending company named on the loan agreement. The exact lender matters when reading group figures.",
+  "drivers": "How much the company can lend at workable rates, how much it pays to borrow, whether applicants repay as expected and how expensive it is to reach customers and collect loans.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "The group lends to households and businesses for homes, vehicles, personal expenses, stock and equipment."
+    },
+    {
+      "title": "Who pays",
+      "text": "Borrowers pay interest and applicable fees. They also pay back the original loan."
+    },
+    {
+      "title": "How it earns",
+      "text": "It earns interest on loans and fees for some services, then has to cover what it pays for funding and other costs."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Borrowing interest, staff, branches, systems and amounts set aside for possible loan losses."
+    }
+  ],
+  "groups": [
+    {
+      "title": "Housing loans",
+      "examples": "Loans to buy, build or improve a home through Tata Capital Housing Finance.",
+      "explanation": "A housing loan is commonly repaid over a long period. The house can be pledged, meaning there is property the lender can pursue under the rules if repayment fails."
+    },
+    {
+      "title": "Personal loans and vehicle loans",
+      "examples": "Personal loans, new and used car loans and commercial vehicle finance.",
+      "explanation": "A personal loan can be made without a specific item pledged. Vehicle loans involve a vehicle bought for everyday use or work. A household car and a working truck can have different repayment sources."
+    },
+    {
+      "title": "Small-business loans and equipment",
+      "examples": "Business loans, finance for machinery and finance for short-term operating needs.",
+      "explanation": "A business may need to buy stock or pay suppliers before customers settle. It may need longer to repay a loan for a machine that will be used for years."
+    },
+    {
+      "title": "Property-backed and larger business lending",
+      "examples": "Loans against property and finance for eligible business projects.",
+      "explanation": "A pledged property provides backup, while financing a project can depend on future work and customer payments. Read repayment plans and what the lender can recover if that plan fails."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What does a lender do with money it raises?",
+      "text": "It can borrow from banks and sell bonds, which are promises to repay investors with interest. It uses money from those and other funding sources to make loans. It must pay its own lenders even if a customer pays late."
+    },
+    {
+      "title": "What does secured borrowing mean?",
+      "text": "A secured loan has an item pledged as backup, such as a vehicle or property. An unsecured loan has no specific item pledged. Either can create losses; property recovery can take time and may not cover what is owed."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Raise money to lend",
+      "text": "Borrow from funding providers and manage when interest and repayments will fall due."
+    },
+    {
+      "title": "Check the application",
+      "text": "Read income, business cash coming in, existing debts and any property offered as backup. Agree terms fitting the type of loan."
+    },
+    {
+      "title": "Pay out the loan",
+      "text": "Release funds as agreed. The customer may use them for a purchase, business bills or another allowed need."
+    },
+    {
+      "title": "Collect and follow up",
+      "text": "Collect interest, fees and repayment of the loan amounts due. Follow up missed payments and make an accounting allowance for losses that may occur."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "The mix of loans matters",
+      "text": "A house, a personal expense and a machine do not pay for themselves in the same way. The borrower’s income and any asset pledged affect pricing, loan length and what can be recovered."
+    },
+    {
+      "title": "Group results include the housing lender",
+      "text": "Tata Capital Housing Finance is part of the group. Use group accounts for its combined results; the listed company’s own accounts cover a different set of activities."
+    },
+    {
+      "title": "A loan can tie up money for years",
+      "text": "Some borrowers repay slowly over time. Tata Capital has to arrange money on terms it can afford and renew when needed while continuing to meet its own payments."
+    }
+  ],
+  "helps": [
+    {
+      "title": "Several reasons for borrowing",
+      "text": "A family buying a home and a business financing short-term bills can need credit at different times."
+    },
+    {
+      "title": "Ways to serve customers in person and online",
+      "text": "Branches, digital applications and business relationships give customers different ways to apply and manage loans."
+    },
+    {
+      "title": "Equipment finance follows a concrete business need",
+      "text": "A company can use financed machinery to do paid work. That provides a tangible reason to borrow and a basis for discussing how it can repay."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Paper profit and collections can move differently",
+      "text": "Interest may be recorded before payment. When collections slow, the company still has bills and borrowing to pay."
+    },
+    {
+      "title": "Different loans need different checks",
+      "text": "Reviewing a home purchase is different from checking whether a business can repay after a project. Growth brings more work assessing and monitoring both."
+    },
+    {
+      "title": "Changing rules can change the work and cost",
+      "text": "Requirements for lending, protecting customers and keeping a cushion against losses can change how the group runs and funds loans."
+    }
+  ],
+  "watch": [
+    [
+      "Which kinds of borrowing are growing?",
+      "A growing home-loan business behaves differently from growth in personal or equipment loans.",
+      "Read the loan balances by category. Compare repayment terms and how much is backed by property or other items, rather than using one headline growth number."
+    ],
+    [
+      "Are borrowers paying on time as the lender grows?",
+      "Problems with new loans can show up later.",
+      "Look at overdue loans and new problem loans as well as provisions, the accounting amounts allowed for possible losses. Compare the same lending groups when data allow."
+    ],
+    [
+      "What is the cost of the money it lends?",
+      "Rising funding costs can reduce what is left from interest.",
+      "Read interest earned and interest paid together. Check when borrowed money is due and whether higher rates affect funding before the group can reprice its loans."
+    ],
+    [
+      "Does more lending leave enough cash available?",
+      "A lender may need to repay its own lenders before customers settle longer loans.",
+      "Read the timing of repayments it owes and expects to collect. Compare cash and funding available rather than treating a profit number as money on hand."
+    ],
+    [
+      "Can the group separate results by business?",
+      "The parent and housing company serve different needs.",
+      "Use company-only accounts and combined group accounts consistently. Use published operating breakdowns where disclosed; do not invent profit for each product."
+    ]
+  ],
+  "risks": [
+    [
+      "Borrowers miss payments",
+      "Income loss or delayed project receipts can make it difficult to collect the scheduled amount."
+    ],
+    [
+      "Funding becomes harder to renew",
+      "Some borrowing comes due before customer loans are fully repaid, making the ability to renew funding important."
+    ],
+    [
+      "Asset prices or recovery proceeds fall",
+      "The lender may recover less than expected from a property or vehicle that was pledged."
+    ],
+    [
+      "Systems, fraud or errors disrupt lending",
+      "Control failures can affect customer data, loan checks or collection records and add costs."
+    ]
+  ],
+  "context": [
+    "July 2026: Tata Capital announced a move into gold loans",
+    "Its July 2026 release announced the Yogloans acquisition as an entry into lending against gold. This came after the March 2026 financial year shown in the annual report. Check the later closing announcements and reporting dates before linking the new business to historical results."
+  ],
+  "sources": [
+    [
+      "Tata Capital annual report for the financial year ended March 2026",
+      "https://www.tatacapital.com/tamil/content/dam/tata-capital/pdf/investors-and-financial-reports/annual-reports/25-26/tata-capital-limited-annual-report-fy-2025-26.pdf"
+    ],
+    [
+      "Official loan catalogue",
+      "https://www.tatacapital.com/loans.html"
+    ],
+    [
+      "Vehicle and commercial vehicle finance",
+      "https://www.tatacapital.com/vehicle-loan.html"
+    ],
+    [
+      "Company releases, including July 2026 Yogloans announcement",
+      "https://www.tatacapital.com/media-center/press-releases.html"
+    ],
+    [
+      "National Stock Exchange listing",
+      "https://www.nseindia.com/get-quotes/equity?symbol=TATACAP"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Figures awaiting verification",
+      "text": "The annual income and profit table will appear after the published financial statement is checked."
+    }
+  ],
+  "checked": "15 November 2026"
+}

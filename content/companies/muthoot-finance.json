@@ -1,0 +1,116 @@
+{
+  "order": 93,
+  "company": {
+    "id": "muthoot-finance",
+    "name": "Muthoot Finance Limited",
+    "ticker": "MUTHOOTFIN",
+    "sector": "Banking",
+    "initial": "M",
+    "logo": "assets/logos/muthoot-finance-official.webp",
+    "color": "#a31e28",
+    "bg": "#fff2e7",
+    "tag": "Lends cash against gold jewellery; its group also offers home loans, small loans and insurance broking.",
+    "products": [
+      [
+        "Gold loans",
+        "Gold lending"
+      ],
+      [
+        "Gold Loan at Home",
+        "Gold lending"
+      ],
+      [
+        "Online Gold Loan",
+        "Gold lending"
+      ],
+      [
+        "Affordable home loans",
+        "Housing"
+      ],
+      [
+        "Small loans through Belstar",
+        "Small loans"
+      ],
+      [
+        "Insurance broking",
+        "Insurance services"
+      ],
+      [
+        "Money transfer services",
+        "Money transfer"
+      ]
+    ],
+    "sources": [
+      [
+        "Official website logo",
+        "https://cdn.muthootfinance.com/sites/default/files/files/logo_0.webp"
+      ]
+    ],
+    "productSource": "https://cdn.muthootfinance.com/sites/default/files/files/2026-05/MFIN-BM-OUTCOME-14-05-2026.pdf",
+    "aliases": [
+      "Muthoot Finance",
+      "Muthoot Finance Ltd"
+    ],
+    "productNote": "Selected services from the company and the controlled businesses identified on the cards. Pictures are conceptual illustrations; service terms and availability can vary.",
+    "checked": "15 November 2026",
+    "reviewed": "15 November 2026"
+  },
+  "offerings": [
+    {
+      "name": "Gold loans",
+      "category": "Borrow against gold jewellery held as security",
+      "image": "assets/products/muthoot-finance-gold-loan.svg",
+      "url": "https://www.muthootfinance.com/gold-loan/process",
+      "kind": "illustration",
+      "alt": "A gold necklace — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Gold Loan at Home",
+      "category": "Request a home visit to have jewellery valued for a gold loan",
+      "image": "assets/products/muthoot-finance-gold-at-home.svg",
+      "url": "https://www.muthootfinance.com/services/Gold-Loan-Is-Good",
+      "kind": "illustration",
+      "alt": "A home beside a ring — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Online Gold Loan",
+      "category": "Manage eligible gold borrowing online after pledging jewellery",
+      "image": "assets/products/muthoot-finance-online-gold.svg",
+      "url": "https://www.muthootfinance.com/gold-loan/process",
+      "kind": "illustration",
+      "alt": "A phone displaying a jewellery symbol — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Affordable home loans",
+      "category": "Borrow for a home through Muthoot Homefin",
+      "image": "assets/products/muthoot-finance-home-loan.svg",
+      "url": "https://cdn.muthootfinance.com/sites/default/files/files/2026-05/MFIN-BM-OUTCOME-14-05-2026.pdf",
+      "kind": "illustration",
+      "alt": "A house — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Small loans through Belstar",
+      "category": "Small loans to customers served through local savings and borrowing groups",
+      "image": "assets/products/muthoot-finance-microfinance.svg",
+      "url": "https://cdn.muthootfinance.com/sites/default/files/files/2026-05/MFIN-BM-OUTCOME-14-05-2026.pdf",
+      "kind": "illustration",
+      "alt": "A small shop front — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Insurance broking",
+      "category": "Arrange insurance through Muthoot Insurance Brokers",
+      "image": "assets/products/muthoot-finance-insurance.svg",
+      "url": "https://cdn.muthootfinance.com/sites/default/files/files/2026-05/MFIN-BM-OUTCOME-14-05-2026.pdf",
+      "kind": "illustration",
+      "alt": "A shield on a policy document — conceptual illustration; not a photograph"
+    },
+    {
+      "name": "Money transfer services",
+      "category": "Send or receive money through applicable transfer arrangements",
+      "image": "assets/products/muthoot-finance-money-transfer.svg",
+      "url": "https://cdn.muthootfinance.com/sites/default/files/files/2025-07/ANNUALREPORTFORFY2024-25.pdf",
+      "kind": "illustration",
+      "alt": "Two phones with arrows between them — conceptual illustration; not a photograph"
+    }
+  ]
+}

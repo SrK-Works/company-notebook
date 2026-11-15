@@ -1,0 +1,205 @@
+{
+  "summary": "Zydus Lifesciences makes medicines and ingredients for other drugmakers. Its group also sells brands such as Glucon-D and Complan and supplies artificial joints used in surgery.",
+  "description": "Think of a box of medicine in a pharmacy, a pack of glucose powder in a grocery store, and an artificial joint ordered for a hospital. Each belongs to a different part of the Zydus group. A drug factory must make products to approved standards; a consumer brand needs stock in shops; a surgical-device supplier needs the right parts and instruments available when hospitals order them.",
+  "money": "Zydus earns by selling finished medicines, ingredients, consumer products and medical devices. It pays for materials, factories, quality checks, research, packaging and selling the products. A shipment can count as revenue before the buyer pays, and part of every sale goes towards covering costs.",
+  "customers": "Drug wholesalers, pharmacy suppliers and hospitals buy medicines; other drugmakers buy ingredients. Retailers and distributors buy wellness packs to resell to shoppers, and hospital buyers purchase surgical devices, sometimes through distributors.",
+  "drivers": "How many products reach buyers, what price Zydus receives as other suppliers compete, and how reliably its factories and distributors can fill orders under the rules of each market.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "It makes finished medicines and ingredients. Its group also sells packaged products like Glucon-D and supplies artificial joints."
+    },
+    {
+      "title": "Who pays",
+      "text": "Drug wholesalers and hospitals buy medicines or devices. Other manufacturers buy ingredients, and retailers buy wellness packs to sell to shoppers."
+    },
+    {
+      "title": "How it earns",
+      "text": "It charges buyers for packs, ingredients and devices supplied under their orders. A shopper’s price also covers the shop and other businesses in between."
+    },
+    {
+      "title": "What costs money",
+      "text": "Ingredients, factory workers and equipment, drug development, lab tests, packaging, transport and making products known to buyers."
+    }
+  ],
+  "groups": [
+    {
+      "title": "Medicines sold in India",
+      "examples": "Finished medicines sold in forms such as tablets, capsules and injections.",
+      "explanation": "A formulation is a medicine in the form supplied for use. In India Zydus sells medicines under brands. A pharmacy wholesaler can order packs and supply local shops, where a customer gets the medicine."
+    },
+    {
+      "title": "Medicines sold abroad",
+      "examples": "Generic medicines and other finished medicines sold in North America and other markets.",
+      "explanation": "A generic is a version of an established medicine made with the same active ingredient, subject to the local rules for approval. A wholesaler can buy it for resale. The price Zydus gets can change when several companies supply competing versions."
+    },
+    {
+      "title": "Ingredients for other drugmakers",
+      "examples": "Active ingredients sold to companies making finished medicines.",
+      "explanation": "An active ingredient is the part of a medicine responsible for its intended effect. A manufacturer may buy that ingredient from Zydus and make and package its own tablets. Zydus earns for the ingredient sale in that case."
+    },
+    {
+      "title": "Wellness products people see in shops",
+      "examples": "Glucon-D drink mix, Complan powder, Sugar Free sweetener and Everyuth personal care.",
+      "explanation": "These products are sold by Zydus Wellness, a separately listed company controlled by Zydus Lifesciences. Retail buyers choose and order packs based on how they expect them to sell. Display, distribution and packaging matter in a different way from a prescription medicine."
+    },
+    {
+      "title": "Equipment for joint replacement surgery",
+      "examples": "Artificial hip and knee joint components through Amplitude Surgical.",
+      "explanation": "An implant is an artificial part placed in the body. The buyer orders components and associated instruments for a procedure. Zydus added this business by buying Amplitude Surgical rather than expanding the output of a tablet factory."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is a batch?",
+      "text": "A batch is a quantity of product made together. The company checks samples and records before releasing a batch of medicine for sale. A failed check can delay the whole batch."
+    },
+    {
+      "title": "How is an approval different from a launch?",
+      "text": "A regulator’s approval allows a medicine to be sold on stated terms. A launch means the company actually starts selling it. It still needs available stock and buyers."
+    }
+  ],
+  "stepsTitle": "From a factory batch to customer payment",
+  "steps": [
+    {
+      "title": "Work out what to supply",
+      "text": "Choose a medicine, ingredient or retail product and the market for it. Meet the approval and labelling rules that apply."
+    },
+    {
+      "title": "Make, test and pack it",
+      "text": "Buy materials, run the factory and check the finished batches before shipping."
+    },
+    {
+      "title": "Fill a customer’s order",
+      "text": "Send the agreed packs or materials to a buyer and bill for the supply under the contract."
+    },
+    {
+      "title": "Collect payment and cover costs",
+      "text": "Collect what buyers owe while paying suppliers and staff. A larger amount billed can leave less profit if making or selling the product costs more."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Selling an ingredient is different from selling a medicine",
+      "text": "For an ingredient sale, the customer finishes and markets the medicine. When Zydus sells the finished pack, it takes responsibility for more of the work and bears more of the product and selling costs."
+    },
+    {
+      "title": "Look at repeat sales after the first shipment",
+      "text": "An initial shipment may fill a distributor’s shelves. Orders that come back after those packs sell show a different stage of demand. Compare launches and follow-up orders rather than treating every shipment to a distributor as a sale to a patient."
+    },
+    {
+      "title": "Buying a business changes the comparison",
+      "text": "Bringing Amplitude’s device business into group reports adds a line of work that earlier figures may not include. Compare the same set of businesses before deciding how much growth came from selling more of the old products."
+    }
+  ],
+  "watch": [
+    [
+      "Are overseas medicine sales growing through more packs or different prices?",
+      "Competitive prices can cut the amount earned per pack.",
+      "Read the company’s comments on price changes, new products and sales of medicines already on the market. Separate changes in quantities from changes in price or exchange rates."
+    ],
+    [
+      "Are approved medicines reaching paying buyers?",
+      "Approval gives permission; it does not generate a sale.",
+      "Check launch announcements against regulatory approvals and look for follow-up sales updates. Ask whether a launch is still filling distribution shelves or has continued to win orders."
+    ],
+    [
+      "Which factories can supply the products customers want?",
+      "Some products depend on a site that has passed the required checks.",
+      "Read official notices for the site, the affected products and what the regulator requires. Check whether the company describes an actual supply interruption or a problem it is still addressing."
+    ],
+    [
+      "Are wellness sales rising on a comparable basis?",
+      "Adding another company can raise sales without changing demand for existing brands.",
+      "Read what the group includes in each year and look at sales of existing brands separately where reported. Check whether price changes or buying a business explain part of the increase."
+    ],
+    [
+      "Do customer payments keep up with shipments and spending?",
+      "Products can leave the factory before cash arrives.",
+      "Compare cash from day-to-day operations with amounts customers still owe and stock waiting to be sold. Check whether more money is being tied up even while reported sales are rising."
+    ]
+  ],
+  "risks": [
+    [
+      "A factory cannot supply on time",
+      "A failed quality check, inspection issue or delayed batch can interrupt deliveries."
+    ],
+    [
+      "A new medicine does not reach the market",
+      "Research and approval work costs money even when a product does not launch."
+    ],
+    [
+      "Patent disputes delay or add costs to sales",
+      "A patent gives its owner legal rights over an invention for a period. A dispute can affect launch timing or require a payment to settle."
+    ],
+    [
+      "Amounts reported in India change with currencies",
+      "Overseas sales and expenses are earned or paid in other currencies. Converting them into rupees can change the reported results."
+    ]
+  ],
+  "helps": [
+    {
+      "title": "Existing customer routes can carry new products",
+      "text": "A drugmaker already supplying wholesalers has a route to place another approved product with buyers. It still needs stock, an agreed price and real orders."
+    },
+    {
+      "title": "Factories serve different kinds of orders",
+      "text": "Zydus can sell finished packs or ingredients to other manufacturers. It can earn from more than one step of producing a medicine."
+    },
+    {
+      "title": "Wellness reaches a different type of buyer",
+      "text": "Grocery and personal-care brands can reach people through shops as well as other sales channels. Demand for a retail pack need not move with demand for a prescribed medicine."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Competing generics can bring down prices",
+      "text": "When more suppliers can sell versions of the same established medicine, buyers have more choice and can seek lower prices."
+    },
+    {
+      "title": "Shops can give shelf space to another brand",
+      "text": "A wellness pack has to sell to shoppers to keep earning repeat orders from stores. The company spends on promotion and distribution to stay visible and available."
+    },
+    {
+      "title": "A device range needs the right stock at the right time",
+      "text": "Different operations need different implant components. A supplier has to carry and deliver a range of sizes and matching instruments, even before every item sells."
+    }
+  ],
+  "context": [
+    "Amplitude Surgical joined the group in stages",
+    "Zydus acquired control of Amplitude Surgical in July 2025 and said on 26 October 2025 that its French subsidiary had bought the remaining shares. The deal added a joint-replacement device business. It explains why an earlier period may cover a different set of activities."
+  ],
+  "sources": [
+    [
+      "Zydus product directory",
+      "https://zyduslife.com/products.html"
+    ],
+    [
+      "Zydus operating businesses",
+      "https://zyduslife.com/operations.html"
+    ],
+    [
+      "Zydus Wellness brands",
+      "https://zyduswellness.com/our-brands/"
+    ],
+    [
+      "Zydus annual report and business risks",
+      "https://zyduslife.com/investor/admin/uploads/14/2/2024-2025.pdf"
+    ],
+    [
+      "Full-year presentation and businesses",
+      "https://zyduslife.com/investor/admin/uploads/15/0/May-2026.pdf"
+    ],
+    [
+      "Notice confirming completion of Amplitude purchase",
+      "https://www.zyduslife.com/investor/admin/uploads/21/82/Update-on-Acquisition-of-Shares-of-Amplitude-26-Oct-2025.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Annual figures are awaiting verification",
+      "text": "The figures will be added after checking the group’s audited statements. The product examples above do not tell us what profit each medicine, brand or device earns."
+    }
+  ],
+  "checked": "15 November 2026"
+}

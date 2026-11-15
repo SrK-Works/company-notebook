@@ -1,0 +1,132 @@
+{
+  "order": 91,
+  "company": {
+    "id": "cholamandalam-investment-and-finance",
+    "name": "Cholamandalam Investment and Finance Company Limited",
+    "ticker": "CHOLAFIN",
+    "sector": "Banking",
+    "initial": "C",
+    "color": "#b32536",
+    "bg": "#faedf0",
+    "tag": "Chola lends money for trucks, cars, homes and business needs. It also lends against property or gold jewellery and offers some personal loans.",
+    "products": [
+      [
+        "Commercial vehicle loans",
+        "Money to buy a truck or another work vehicle"
+      ],
+      [
+        "Car loans",
+        "Money to buy a new or used car"
+      ],
+      [
+        "Tractor loans",
+        "Money to buy a tractor for farm work"
+      ],
+      [
+        "Home loans",
+        "Money to buy or build a home"
+      ],
+      [
+        "Loans against property",
+        "Borrowing backed by a property already owned"
+      ],
+      [
+        "Business loans",
+        "Borrowing for smaller firms and their operations"
+      ],
+      [
+        "Gold loans",
+        "Borrowing backed by jewellery held as security"
+      ],
+      [
+        "Personal loans",
+        "Borrowing for eligible personal needs"
+      ]
+    ],
+    "sources": [
+      [
+        "Official Chola media kit",
+        "https://www.cholamandalam.com/news/media-kit"
+      ],
+      [
+        "Current company branding reference",
+        "https://files.cholamandalam.com/assets/images/chola_logo.svg"
+      ]
+    ],
+    "productSource": "https://www.cholamandalam.com/products",
+    "aliases": [
+      "Chola Finance",
+      "Cholamandalam Finance"
+    ],
+    "productNote": "Selected examples from official offerings. The pictures are original illustrations of the work or product category.",
+    "checked": "15 November 2026",
+    "reviewed": "15 November 2026",
+    "logo": "assets/logos/cholamandalam-investment-and-finance-official.svg"
+  },
+  "offerings": [
+    {
+      "name": "Commercial vehicle loans",
+      "category": "Money to buy a truck or another work vehicle",
+      "image": "assets/products/cholamandalam-investment-and-finance-truck.svg",
+      "url": "https://www.cholamandalam.com/products",
+      "kind": "illustration",
+      "alt": "A truck — original illustration, not a photograph"
+    },
+    {
+      "name": "Car loans",
+      "category": "Money to buy a new or used car",
+      "image": "assets/products/cholamandalam-investment-and-finance-car.svg",
+      "url": "https://www.cholamandalam.com/products",
+      "kind": "illustration",
+      "alt": "A passenger car — original illustration, not a photograph"
+    },
+    {
+      "name": "Tractor loans",
+      "category": "Money to buy a tractor for farm work",
+      "image": "assets/products/cholamandalam-investment-and-finance-tractor.svg",
+      "url": "https://www.cholamandalam.com/products",
+      "kind": "illustration",
+      "alt": "A tractor — original illustration, not a photograph"
+    },
+    {
+      "name": "Home loans",
+      "category": "Money to buy or build a home",
+      "image": "assets/products/cholamandalam-investment-and-finance-house.svg",
+      "url": "https://www.cholamandalam.com/products",
+      "kind": "illustration",
+      "alt": "A house — original illustration, not a photograph"
+    },
+    {
+      "name": "Loans against property",
+      "category": "Borrowing backed by a property already owned",
+      "image": "assets/products/cholamandalam-investment-and-finance-property.svg",
+      "url": "https://www.cholamandalam.com/products",
+      "kind": "illustration",
+      "alt": "A house and a loan document — original illustration, not a photograph"
+    },
+    {
+      "name": "Business loans",
+      "category": "Borrowing for smaller firms and their operations",
+      "image": "assets/products/cholamandalam-investment-and-finance-business.svg",
+      "url": "https://www.cholamandalam.com/products",
+      "kind": "illustration",
+      "alt": "A shopfront — original illustration, not a photograph"
+    },
+    {
+      "name": "Gold loans",
+      "category": "Borrowing backed by jewellery held as security",
+      "image": "assets/products/cholamandalam-investment-and-finance-gold.svg",
+      "url": "https://www.cholamandalam.com/products",
+      "kind": "illustration",
+      "alt": "A necklace — original illustration, not a photograph"
+    },
+    {
+      "name": "Personal loans",
+      "category": "Borrowing for eligible personal needs",
+      "image": "assets/products/cholamandalam-investment-and-finance-personalloan.svg",
+      "url": "https://www.cholamandalam.com/products",
+      "kind": "illustration",
+      "alt": "An agreement with a tick — original illustration, not a photograph"
+    }
+  ]
+}
