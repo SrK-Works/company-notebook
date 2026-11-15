@@ -1,6 +1,6 @@
 {
   "summary": "Varun Beverages makes and sells PepsiCo drinks such as Pepsi, Mountain Dew, Sting, Tropicana and Aquafina water in India and several other countries, under licence from PepsiCo. It is also starting to sell snacks and beer in parts of Africa.",
-  "description": "PepsiCo owns the brands, and Varun Beverages (VBL) holds the right to make and sell them in set territories. VBL buys the flavour concentrate from PepsiCo and turns it into finished drinks in its own plants (typically by mixing it with water and sugar). It fills bottles, stores them in depots, and delivers them to distributors and shops, where it often places glass-fronted fridges to keep drinks cold. It covers 26 states and 6 union territories in India and nine other countries with franchise rights, and about two-thirds of its revenue comes from India. Its financial year is the calendar year, January to December.",
+  "description": "PepsiCo owns the brands, and Varun Beverages (VBL) holds the right to make and sell them in set territories. VBL buys the flavour concentrate from PepsiCo and turns it into finished drinks in its own plants. It fills bottles, stores them in depots, and delivers them to distributors and shops, where it often places glass-fronted fridges to keep drinks cold. It covers 26 states and 6 union territories in India and nine other countries with franchise rights, and about two-thirds of its revenue comes from India. Its financial year is the calendar year, January to December.",
   "money": "VBL earns money by selling cases of drinks to distributors and shops, which sell them to consumers. Its main costs are the sugar, PET (a common plastic) chips, which are granules moulded into bottles, and flavour concentrate it buys, plus staff, electricity, trucks and fridges placed in shops. Plants and fridges also cost money to buy and run over many years. Most sales fall in the hot months. A customer's payment is revenue, not profit.",
   "customers": "Consumers drink the products, but VBL's direct buyers are distributors and shops, reached through its own sales and distribution teams across urban, semi-urban and rural areas. PepsiCo is not a customer. It licenses the brands to VBL and supplies the concentrate.",
   "drivers": "How many cases it sells, especially in the hot months, the cost of sugar and PET chips, and how fully its plants, depots and fridges are used.",
@@ -46,7 +46,7 @@
     },
     {
       "title": "What is a visi-cooler?",
-      "text": "The report uses the word for the refrigerated display units VBL provides to shops. Typically it is a fridge with a glass front that keeps drinks cold where shoppers can see them."
+      "text": "The report uses the word for the refrigerated display units VBL provides to shops. In plain terms, it is a fridge with a glass front that keeps drinks cold where shoppers can see them."
     }
   ],
   "steps": [
@@ -86,7 +86,7 @@
     },
     {
       "title": "Moving beyond soft drinks",
-      "text": "In 2025 VBL began making and distributing snacks in parts of Africa, signed a beer distribution test, and agreed to buy a South African drinks company called Twizza, subject to approvals."
+      "text": "In 2025 VBL began making and distributing snacks in parts of Africa and signed a beer distribution test. On 21 December 2025 it agreed to buy Twizza, a South African soft-drink maker, and took control of it on 18 March 2026. Twizza was merged into VBL's South African subsidiary from 1 August 2026."
     }
   ],
   "watch": [
@@ -103,7 +103,7 @@
     [
       "How are the newer African territories doing?",
       "South Africa and the Democratic Republic of Congo were added recently, and the report lists integration of new territories as a risk.",
-      "Compare the international commentary and volume growth with the previous year, and watch for news on the Twizza purchase."
+      "Compare the international commentary and volume growth with the previous year, including the cases VBL reports from Twizza, and watch how South Africa is run after the Twizza merger."
     ],
     [
       "How do sugar and PET chip prices change the cost of each case?",
@@ -135,8 +135,8 @@
     ]
   ],
   "context": [
-    "December 2025: agreement to buy Twizza in South Africa",
-    "The press release says that on 21 December 2025 a South African subsidiary agreed to buy 100 percent of Twizza, a South African drinks company, subject to regulatory approvals, with completion expected on or before 30 June 2026. It also says consolidated sales volume for October to December 2025 grew 10.2 percent from the same quarter a year earlier. Check later filings to see whether the purchase has closed."
+    "December 2025 to August 2026: Twizza bought and merged in South Africa",
+    "On 21 December 2025 a South African subsidiary of VBL agreed to buy 100 percent of Twizza, a South African soft-drink maker, subject to regulatory approvals. VBL's results release of 27 April 2026 says it completed the purchase through that subsidiary and that Twizza became a subsidiary from 18 March 2026. The company's 30 October 2026 results release says Twizza was merged into that subsidiary from 1 August 2026 and that Twizza added 15.3 million cases in July to September 2026. Press reports of 31 March 2026 (Business Report, quoting Standard Bank, adviser to the seller) also describe the sale as complete after regulatory approvals."
   ],
   "sources": [
     [
@@ -146,6 +146,14 @@
     [
       "Varun Beverages Limited press release, 3 February 2026, Q4 and CY2025 results",
       "https://varunbeverages.com/wp-content/uploads/2026/02/4.-PressRelease.pdf"
+    ],
+    [
+      "Varun Beverages Limited press release, 27 April 2026, Q1 CY2026 results (Twizza purchase completed)",
+      "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c9220e8f-84e4-43b0-895b-7fbea35164bd.pdf"
+    ],
+    [
+      "Varun Beverages Limited press release, 30 October 2026, Q3 and nine-month CY2026 results (Twizza merged into its South African subsidiary)",
+      "https://www.varunbeverages.com/wp-content/uploads/2026/10/4.-PressRelease.pdf"
     ]
   ],
   "financialNotes": [
