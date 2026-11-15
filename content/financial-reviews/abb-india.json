@@ -1,0 +1,41 @@
+{
+  "period": "Calendar year 2025 · year ended 31 December 2025",
+  "basis": "Consolidated · continuing operations",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited annual financial statements",
+  "checked": "15 November 2026",
+  "coverage": "Reported business segments · segment revenue before inter-segment sales · continuing segments only",
+  "profitMetric": "Segment result",
+  "definition": "Each segment's profit as ABB India reports it, before costs and income that are not allocated to segments, interest and tax. The four rows add up to ₹2,418.35 crore, which becomes profit from continuing operations after tax of ₹1,669.40 crore once those items and tax are taken off. It is not profit after tax.",
+  "rows": [
+    {
+      "name": "Robotics and Discrete Automation (robots, machine and factory automation)",
+      "revenue": 701.42,
+      "profit": 68.45
+    },
+    {
+      "name": "Motion (motors, generators and drives)",
+      "revenue": 4560.62,
+      "profit": 798.53
+    },
+    {
+      "name": "Electrification (equipment from substation to the point of use)",
+      "revenue": 5712.65,
+      "profit": 1168.94
+    },
+    {
+      "name": "Process Automation (control systems, measurement products and services for industry)",
+      "revenue": 2332.05,
+      "profit": 382.43
+    }
+  ],
+  "source": "https://library.e.abb.com/public/93c9bda6800643c789fc96fbb964ae1b/ABB%20India%20Limited%20Integrated%20Annual%20Report%202025.pdf",
+  "location": "Integrated annual report 2025, PDF page 287 (printed page 285), consolidated statement of profit and loss; PDF pages 328–329 (printed pages 326–327), note 42 segment disclosures; PDF page 321 (printed page 319), note 35(ix); PDF page 340 (printed page 338), note 49",
+  "notes": "Figures are reported in ₹ crore and are not converted. The calendar year is the company's financial year. Segment revenue of ₹13,306.74 crore is before ₹115.75 crore of inter-segment sales; revenue from operations after removing them (and adding ₹11.74 crore of corporate revenue) is ₹13,202.73 crore. The company's consolidated figures equal its standalone figures: its only subsidiary, ABB Robotics India Private Limited, was set up on 22 September 2025. Segment results total ₹2,416.94 crore in the filing because that total also includes a ₹1.41 crore loss from the discontinued Power Grids segment, which is shown separately here. Corporate items not allocated to segments were a net cost of ₹168.52 crore, interest ₹19.89 crore and tax ₹560.54 crore; they take the segment total to profit from continuing operations after tax of ₹1,669.40 crore. After a ₹1.14 crore loss from the discontinued Power Grids business, profit for the year is ₹1,668.26 crore, all belonging to shareholders of the company. Profit is after a one-off cost of ₹65.94 crore: the new Labour Codes (the government's revised labour laws, notified 21 November 2025) raised the provision for retirement pay (gratuity) and paid-leave pay, and the company booked it inside employee benefit expense, not as an exceptional item. After the year-end, on 26 January 2026, the Board approved selling the Robotics business to ABB Robotics India Private Limited at a valuation of not less than ₹1,568.20 crore, subject to shareholder approval; the filing's Robotics and Discrete Automation segment shows how large that business was in 2025. No customer brought in more than 10% of revenue. ABB India does not disclose profit for any single product.",
+  "insight": "Electrification and Motion earn most of the segment result. Robotics and Discrete Automation is the smallest segment and earns a much smaller result on its revenue, and it is the business the company has agreed to sell.",
+  "status": "segments",
+  "revenueTotal": 13306.74,
+  "revenueTotalLabel": "Segment revenue before inter-segment sales",
+  "profitTotal": 2418.35,
+  "profitTotalLabel": "Total result of the four continuing segments"
+}
