@@ -7,8 +7,8 @@
   "counts": {
     "constituents": 50,
     "alreadyCovered": 2,
-    "missing": 28,
-    "addedSoFar": 20
+    "missing": 23,
+    "addedSoFar": 25
   },
   "specialCases": [
     "Tata Motors Ltd. (TMCV) in this list is the separately listed trucks and buses company that split from the passenger-vehicle company (see the NIFTY 50 gap file, TMPV).",
@@ -139,8 +139,8 @@
       "ticker": "CHOLAFIN",
       "industry": "Financial Services",
       "isin": "INE121A01024",
-      "id": null,
-      "status": "missing",
+      "id": "cholamandalam-investment-and-finance",
+      "status": "added in batch 5",
       "batch": 5
     },
     {
@@ -193,8 +193,8 @@
       "ticker": "HDFCAMC",
       "industry": "Financial Services",
       "isin": "INE127D01025",
-      "id": null,
-      "status": "missing",
+      "id": "hdfc-asset-management",
+      "status": "added in batch 5",
       "batch": 5
     },
     {
@@ -283,8 +283,8 @@
       "ticker": "MUTHOOTFIN",
       "industry": "Financial Services",
       "isin": "INE414G01012",
-      "id": null,
-      "status": "missing",
+      "id": "muthoot-finance",
+      "status": "added in batch 5",
       "batch": 5
     },
     {
@@ -373,8 +373,8 @@
       "ticker": "TATACAP",
       "industry": "Financial Services",
       "isin": "INE976I01016",
-      "id": null,
-      "status": "missing",
+      "id": "tata-capital",
+      "status": "added in batch 5",
       "batch": 5
     },
     {
@@ -463,8 +463,8 @@
       "ticker": "ZYDUSLIFE",
       "industry": "Healthcare",
       "isin": "INE010B01027",
-      "id": null,
-      "status": "missing",
+      "id": "zydus-lifesciences",
+      "status": "added in batch 5",
       "batch": 5
     }
   ]
