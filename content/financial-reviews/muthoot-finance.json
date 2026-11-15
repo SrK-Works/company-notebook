@@ -1,0 +1,26 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "unit": "₹ crore",
+  "checked": "15 November 2026",
+  "basis": "Consolidated · Muthoot Finance and its controlled companies",
+  "coverage": "Whole group · one reporting segment (financing)",
+  "revenueLabel": "Total income",
+  "incomeDefinition": "Interest earned plus fees, service income, investment gains and other reported income, before borrowing and running costs. It excludes the original loan amount paid back by a borrower.",
+  "profitMetric": "Group profit after tax",
+  "definition": "Earnings from the audited group statement after costs and tax. This includes profit belonging to outside shareholders in controlled companies.",
+  "rows": [
+    {
+      "name": "Muthoot Finance group",
+      "revenue": 31263.41,
+      "profit": 10606.867
+    }
+  ],
+  "revenueTotal": 31263.41,
+  "profitTotal": 10606.867,
+  "status": "totals",
+  "source": "https://cdn.muthootfinance.com/sites/default/files/files/2026-05/MFIN-BM-OUTCOME-14-05-2026.pdf",
+  "sourceLabel": "Audited year-end results filed on 14 May 2026",
+  "location": "PDF p. 16, consolidated income statement, FY2026 column; PDF p. 19, notes 4 and 5",
+  "notes": "Interest income was ₹30,370.917 crore. Interest and other funding costs were ₹10,999.636 crore, and the charge for likely losses on financial items was ₹1,026.143 crore. Staff costs include a one-time ₹41.191 crore charge after new labour rules changed which pay counts as wages. Group profit includes ₹16.53 crore belonging to outside shareholders of controlled companies; ₹10,590.337 crore belongs to the parent’s owners. The company reports one financing segment.",
+  "insight": "Borrower interest dominates group income. The gap between what customers pay for loans and what the company pays to raise money matters, as do loan losses and the cost of running branches. The audited table does not tell us how much profit each kind of loan earned."
+}
