@@ -188,8 +188,12 @@
   ],
   "financialNotes": [
     {
-      "title": "Start with the bank’s annual results",
-      "text": "Use the audited full-year filing to separate interest earned, interest paid, other income and loan-loss costs. Keep Canara Bank alone separate from the group, which can include other businesses. The figures here are pending verification."
+      "title": "Read both columns",
+      "text": "Treasury manages investments and funding, retail serves individuals and smaller customers, and wholesale handles larger borrowers. The result column shows what each reported group made or lost before tax. The filing does not assign after-tax profit to individual products."
+    },
+    {
+      "title": "Separate ongoing earnings from changes in ownership",
+      "text": "When the life insurer and asset manager became associates, Canara moved to reporting its share of their earnings rather than their full income and costs. The separate rural bank disposal loss also affected the final group result."
     }
   ],
   "checked": "15 November 2026"

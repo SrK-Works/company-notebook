@@ -1,0 +1,37 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated · bank group",
+  "coverage": "Reported banking business segments",
+  "unit": "₹ crore",
+  "revenueLabel": "Total income",
+  "incomeDefinition": "Gross interest earned and other income reported for each segment, before deducting interest paid and other costs. The segment total equals group gross income; the annual table reports no sales or income between segments.",
+  "profitMetric": "Segment result before tax",
+  "definition": "The bank’s reported profit or loss for each group of activities, before income tax and the items shown separately in the bridge to group profit. It is not profit after tax for an individual loan, account or app.",
+  "rows": [
+    {
+      "name": "Treasury Operations",
+      "revenue": 33700.31,
+      "profit": 12604.98
+    },
+    {
+      "name": "Retail Banking Operations",
+      "revenue": 68930.52,
+      "profit": 13814.48
+    },
+    {
+      "name": "Wholesale Banking Operations",
+      "revenue": 50452.39,
+      "profit": -1738
+    }
+  ],
+  "source": "https://www.canarabank.bank.in/documents/d/guest/annual-20report-202025-26",
+  "sourceLabel": "Canara Bank FY 2025–26 annual report",
+  "location": "Printed p. 591 (PDF p. 595) · Note 9, part A, audited 31 March 2026 column; printed p. 543 (PDF p. 547) for attributable profit",
+  "notes": "The three rows add to ₹24,681.46 crore before tax. The segment note then deducts ₹5,730.24 crore of tax and a ₹1,833.03 crore loss on disposal of the former Andhra Pragathi Grameena Bank investment. It adds ₹760.37 crore of associate profit and deducts ₹5.68 crore for outside owners of subsidiaries. The rounded segment note arrives at ₹17,872.88 crore; the group profit and loss account gives ₹17,872.87 crore at finer precision. The annual segment table gives no separate life insurance amount for FY26.",
+  "insight": "Retail banking reports the most income and the largest positive segment result. Wholesale banking, which mainly serves larger businesses, reported a loss despite substantial income. Compare how each area earns interest and bears costs before treating a larger income line as more profitable.",
+  "status": "segments",
+  "checked": "15 November 2026",
+  "revenueTotal": 153083.22,
+  "profitTotal": 24681.46,
+  "revenueTotalLabel": "Total income reported across segments"
+}
