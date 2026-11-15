@@ -197,12 +197,20 @@
     [
       "Bank’s FY 2025–26 investor presentation",
       "https://www.unionbankofindia.bank.in/pdf/final-investor-presentation-q4fy26.pdf"
+    ],
+    [
+      "Audited consolidated FY 2025–26 results · 23 April 2026",
+      "https://www.unionbankofindia.bank.in/pdf/financial-result-april-2026.pdf"
     ]
   ],
   "financialNotes": [
     {
-      "title": "Annual amounts are awaiting verification",
-      "text": "The audited results will show operating group totals. They do not tell us the profit the bank makes on one home loan, deposit or mobile app."
+      "title": "Compare earnings before and after the cost of problem loans",
+      "text": "The group reported lower profit before provisions and tax, but higher final net profit than the previous year. Look for the change in expense for problem loans and other risks, and at earnings included from companies in which Union Bank has a stake. Both help explain why final profit moved differently from operating profit."
+    },
+    {
+      "title": "Where the bank groups its services",
+      "text": "The published segments combine many products. Retail Banking also contains the reported Digital Banking subcategory. An increase in Retail Banking result does not reveal how much a particular home loan, savings account or app earned."
     }
   ],
   "checked": "15 November 2026"

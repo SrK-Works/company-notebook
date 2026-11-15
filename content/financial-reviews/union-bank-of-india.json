@@ -1,0 +1,48 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated · bank group",
+  "coverage": "Four reported business segments and the unallocated amounts that reconcile to the group",
+  "unit": "₹ crore",
+  "revenueLabel": "Total income",
+  "incomeDefinition": "Interest earned plus other income, including fees and investment-related income, before interest the bank pays, its other operating costs and provisions. The displayed rows show the bank’s reported split of total income. Customer deposits and repayments of the original amount lent do not count as income.",
+  "profitMetric": "Segment result",
+  "definition": "The bank’s reported profit before tax for each operation, after the costs and provisions assigned to that operation. Management uses assumptions to allocate some income and costs. The line labelled “Unallocated” makes the group totals add up; it is not another business.",
+  "rows": [
+    {
+      "name": "Treasury Operations",
+      "revenue": 30107.49,
+      "profit": 5682.63
+    },
+    {
+      "name": "Retail Banking Operations",
+      "revenue": 47573.99,
+      "profit": 9251.22
+    },
+    {
+      "name": "Corporate / Wholesale Banking Operations",
+      "revenue": 44378.58,
+      "profit": 6734.98
+    },
+    {
+      "name": "Other Banking Operations",
+      "revenue": 1745.07,
+      "profit": 890.33
+    },
+    {
+      "name": "Unallocated",
+      "revenue": 4594.38,
+      "profit": 1725.34
+    }
+  ],
+  "source": "https://www.unionbankofindia.bank.in/pdf/financial-result-april-2026.pdf",
+  "sourceLabel": "Audited consolidated FY 2025–26 results · 23 April 2026",
+  "location": "PDF page 6 · Consolidated Segment Report, sections (a)–(e); page 4 · Consolidated Audited Financial Results, rows A–L. Use the audited Year Ended 31.03.2026 column.",
+  "checked": "15 November 2026",
+  "notes": "No inter-segment income was deducted in the filing. Digital Banking is already part of Retail Banking. Profit before tax of ₹24,284.50 crore less ₹5,503.88 crore of tax gives ₹18,780.62 crore after tax before associates. Adding ₹649.58 crore from associates (companies in which the group has a significant stake) gives reported group net profit of ₹19,430.20 crore. The minority interest line is blank. The table does not tell us profit from a particular account, app or loan product. The group’s annual report also identifies ₹1,622 crore of income on income-tax refunds in Other Income (Schedule 18, printed page 336). That income does not come from lending to customers.",
+  "insight": "Retail Banking was the largest source of both income and segment result. Group net profit rose from the prior year even though profit before provisions and tax fell. The expense for provisions and contingencies fell, and the group’s share of profit from associates increased. Look at both before interpreting the higher final profit as improved lending earnings.",
+  "status": "segments",
+  "revenueTotal": 128399.51,
+  "revenueTotalLabel": "Group total income",
+  "profitTotal": 24284.5,
+  "profitTotalLabel": "Group profit before tax"
+}
