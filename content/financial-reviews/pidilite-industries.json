@@ -1,0 +1,36 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited annual financial statements",
+  "checked": "15 November 2026",
+  "coverage": "Reported business segments · segment revenue before inter-segment revenue",
+  "profitMetric": "Segment result",
+  "definition": "Each segment's profit as Pidilite reports it, before costs and income not allocated to segments, finance cost, exceptional items and tax. The rows add up to ₹4,066.33 crore, which becomes profit for the year of ₹2,470.72 crore once those items and tax are taken off. It is not profit after tax.",
+  "rows": [
+    {
+      "name": "Consumer & Bazaar (products sold mainly to everyday users such as carpenters, painters, plumbers and households)",
+      "revenue": 11573.75,
+      "profit": 3546.30
+    },
+    {
+      "name": "Business to Business (products sold mainly to large business users)",
+      "revenue": 3211.10,
+      "profit": 529.31
+    },
+    {
+      "name": "Others (mainly sale of raw materials and a non-banking finance company)",
+      "revenue": 60.55,
+      "profit": -9.28
+    }
+  ],
+  "source": "https://pidilite.com/content/dam/pidilitecorporatewebsite/financial/annual-reports/annual-report-2025-26.pdf",
+  "location": "Annual report 2025–26, PDF page 251 (printed page 251), consolidated statement of profit and loss; PDF page 298 (printed page 298), note 46 segment information; PDF page 291, note 39 exceptional items; PDF page 315, note 55(d) and (e)",
+  "notes": "Figures are reported in ₹ crore and are not converted. Segment revenue of ₹14,845.40 crore is before ₹244.57 crore of inter-segment revenue, sold at cost plus a fixed margin; revenue from operations after removing it is ₹14,600.83 crore. From segment result of ₹4,066.33 crore the filing takes off unallocable expenses of ₹1,006.10 crore and adds unallocable income of ₹294.07 crore (operating income ₹3,354.30 crore), then takes off finance cost ₹36.16 crore and its share of losses of associates and joint ventures ₹2.37 crore and adds interest and dividend income ₹18.11 crore, giving profit before exceptional items and tax of ₹3,333.88 crore. Exceptional items of ₹13.71 crore leave profit before tax of ₹3,320.17 crore; tax of ₹849.45 crore leaves profit for the year of ₹2,470.72 crore. Of this, ₹2,448.92 crore belongs to the company's owners and ₹21.80 crore to minority owners of subsidiaries. The exceptional items are write-downs: ₹5.73 crore on a loan to, and ₹7.98 crore on investments in, associate companies. Separately, the new Labour Codes (the government's revised labour laws, notified 21 November 2025) raised provisions for retirement pay and paid leave by ₹39.82 crore and ₹23.02 crore in employee benefits expense, plus ₹16.76 crore in other expenses for contract and outsourced workers, ₹79.60 crore in all; the company did not treat this as an exceptional item. There were no transactions with a single customer of 10% or more of revenue. Pidilite does not disclose profit for any single brand.",
+  "insight": "Consumer & Bazaar brings in most of the segment revenue and nearly all of the segment result. Business to Business earns a much smaller result on its revenue, and Others made a small loss, so revenue alone does not show where the profit comes from.",
+  "status": "segments",
+  "revenueTotal": 14845.40,
+  "revenueTotalLabel": "Segment revenue before inter-segment revenue",
+  "profitTotal": 4066.33,
+  "profitTotalLabel": "Total segment result"
+}
