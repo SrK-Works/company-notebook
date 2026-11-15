@@ -1,0 +1,24 @@
+{
+  "period": "Calendar year 2025 · year ended 31 December 2025",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited annual financial statements",
+  "checked": "15 November 2026",
+  "coverage": "Whole-group totals · one reported business segment",
+  "profitMetric": "Profit after tax",
+  "definition": "Profit for the year after all expenses and tax, including the share that belongs to minority owners of subsidiaries and the group's share of its associates' and joint ventures' losses. It is not operating profit or cash flow.",
+  "rows": [
+    {
+      "name": "Varun Beverages · whole group",
+      "revenue": 22225.58,
+      "profit": 3062.04
+    }
+  ],
+  "source": "https://varunbeverages.com/Annual-Report-FY-2025.pdf",
+  "location": "Annual report 2025, PDF page 249 (printed page 247), consolidated statement of profit and loss; PDF page 298 (printed page 296), notes 28 and 29; PDF page 306 (printed page 304), note 40; PDF page 312 (printed page 310), note 48 segment reporting",
+  "notes": "Source figures are in ₹ million and were divided by 10. Revenue is revenue from operations and excludes other income of ₹352.35 crore. Revenue includes ₹776.08 crore of government grants under state industrial promotion tax exemption schemes, which the company reports as other operating revenue. Revenue within India was ₹14,449.25 crore and outside India ₹7,776.34 crore. Profit for the year is after tax of ₹947.61 crore and a ₹6.03 crore share of losses of associates and joint ventures; ₹3,036.49 crore belongs to the company's owners and ₹25.55 crore to minority owners of subsidiaries. Other income includes a ₹227.83 crore net gain from foreign currency transactions and translations, an accounting gain from currency movements rather than a result of selling drinks. The cash flow statement takes out an unrealised foreign exchange gain of ₹328.28 crore as not received in cash. Profit is also after a one-off cost of ₹13.90 crore at the parent company: the new Labour Codes (the government's revised labour laws, notified 21 November 2025) raised its gratuity (retirement pay) liability; ₹11.84 crore of it is past service cost. The filing does not give a figure for the subsidiaries. The company reports one business segment, manufacturing and sale of beverages, and says its sales are seasonal, so it does not disclose profit by brand, product or country. On 21 December 2025 a South African subsidiary agreed to buy the Twizza business, subject to approvals, for ZAR 2,095.00 million; the purchase was not complete at the year-end, so it is not in these figures.",
+  "insight": "Varun Beverages earned a profit that is a modest share of its revenue, because most of each sale goes on raw materials, staff and running costs. A large part of its sales is outside India, but the totals cannot show how much profit comes from any one country or product.",
+  "status": "totals",
+  "revenueTotal": 22225.58,
+  "profitTotal": 3062.04
+}
