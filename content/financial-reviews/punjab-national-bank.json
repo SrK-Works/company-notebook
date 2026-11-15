@@ -1,0 +1,42 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated · bank group",
+  "coverage": "Four reported group business segments",
+  "unit": "₹ crore",
+  "revenueLabel": "Total income",
+  "incomeDefinition": "Interest earned plus other reported income, including fees and investment-related income, before interest and other costs. Customer deposits and repayments of the amount originally lent are not income.",
+  "profitMetric": "Segment result",
+  "definition": "Earnings for each line of business on the bank’s reporting basis, before costs that the bank does not assign to a segment, and before tax. Some shared costs are allocated by the bank; these are not profit figures for individual loan or account products.",
+  "rows": [
+    {
+      "name": "Treasury",
+      "revenue": 44781.17,
+      "profit": 11371.16
+    },
+    {
+      "name": "Corporate / Wholesale Banking",
+      "revenue": 56734.27,
+      "profit": 12386.64
+    },
+    {
+      "name": "Retail Banking",
+      "revenue": 44014.96,
+      "profit": 9487.84
+    },
+    {
+      "name": "Other Banking Operations",
+      "revenue": 3932.9,
+      "profit": 987.39
+    }
+  ],
+  "source": "https://www.pnb.bank.in/downloadprocess.aspx?fid=Tu2CTLp4Jkpden7I4IUmiQ%3D%3D",
+  "sourceLabel": "PNB audited FY 2025–26 annual report",
+  "location": "PDF page 229, printed page 455 · Part A, Business Segments (Consolidated), current FY (2025–26).",
+  "notes": "Reported segment results total ₹34,233.03 crore. Subtracting ₹7,151.37 crore in costs not assigned to a segment gives ₹27,081.66 crore after provisions for possible losses and before tax. After ₹9,985.89 crore of tax and adding ₹1,370.93 crore as the group’s share of profit from associates, group profit was ₹18,466.70 crore. Of this, ₹74.01 crore belongs to other shareholders in controlled companies, leaving ₹18,392.69 crore attributable to PNB shareholders.",
+  "insight": "Corporate and wholesale banking produced the most income and the largest reported result. Retail includes Digital Banking, so adding the digital figure again would count it twice. Compare segment results on the same basis before judging which activity contributes more.",
+  "status": "segments",
+  "checked": "15 November 2026",
+  "revenueTotal": 149463.3,
+  "revenueTotalLabel": "Reported segment total",
+  "profitTotal": 34233.03
+}

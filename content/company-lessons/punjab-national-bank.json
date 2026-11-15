@@ -189,12 +189,20 @@
     [
       "September 2026 official results release",
       "https://www.pnb.bank.in/downloadprocess.aspx?fid=gcZyXAsrW66BtMVRdm31tA%3D%3D"
+    ],
+    [
+      "PNB audited FY 2025–26 annual report",
+      "https://www.pnb.bank.in/downloadprocess.aspx?fid=Tu2CTLp4Jkpden7I4IUmiQ%3D%3D"
     ]
   ],
   "financialNotes": [
     {
-      "title": "Start with the bank’s annual results",
-      "text": "Use the audited full-year filing to separate interest earned, interest paid, other income and loan-loss costs. Keep PNB alone separate from the group, which can include other businesses. The figures here are pending verification."
+      "title": "How to read the segment table",
+      "text": "The combined figures cover the bank and companies it controls. The reported business results add up before shared expenses that the bank does not assign to a business, and before tax. Retail already includes Digital Banking. Do not compare a segment result with the group’s final profit."
+    },
+    {
+      "title": "From the businesses to the final profit",
+      "text": "The bank subtracts tax, adds its share of earnings from associates and removes the share belonging to outside owners of controlled companies to reach the profit attributable to PNB shareholders. The results do not show the profit from any single loan, account or app."
     }
   ],
   "checked": "15 November 2026"
