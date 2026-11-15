@@ -1,0 +1,26 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated · Power Finance Corporation and controlled companies, including REC",
+  "coverage": "Whole group · one reported lending segment",
+  "unit": "₹ crore",
+  "revenueLabel": "Total income",
+  "incomeDefinition": "Total income includes interest, dividends, fees and other reported income. The amount a borrower returns on the original loan is not income. This total comes before the group pays borrowing costs and other expenses.",
+  "profitMetric": "Profit after tax",
+  "definition": "Whole group earnings after expenses and tax, including the share belonging to outside shareholders in controlled companies.",
+  "rows": [
+    {
+      "name": "Power Finance Corporation group",
+      "revenue": 115526.92,
+      "profit": 33625.34
+    }
+  ],
+  "revenueTotal": 115526.92,
+  "profitTotal": 33625.34,
+  "status": "totals",
+  "source": "https://nsearchives.nseindia.com/corporate/PFC2023_13052026134556_OUTCOME13052026SIGNED.pdf",
+  "sourceLabel": "Audited consolidated annual results filed on 13 May 2026",
+  "location": "PDF pages 22–23 · consolidated results and owners’ shares; pages 27–28 · notes 5, 7, 8 and 11",
+  "notes": "Interest income was ₹112,961.44 crore and funding costs were ₹69,415.32 crore. Changes in expected losses on financial items produced a net credit of ₹1,584.93 crore, which reduced reported expenses; this is not a measure of cash collected. Profit includes a separate ₹18.28 crore charge for a claim tied to a historic project-company transfer handled by a company controlled by REC Limited. Group profit includes ₹7,724.39 crore for outside shareholders; ₹25,900.95 crore belongs to the parent’s owners.",
+  "insight": "Most group income is interest, and raising money to lend is its biggest expense. The year’s reduction in the expected-loss expense boosted reported profit. The totals do not identify the profit from lending to any particular project or technology.",
+  "checked": "15 November 2026"
+}
