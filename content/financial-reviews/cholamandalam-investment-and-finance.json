@@ -1,0 +1,47 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "checked": "15 November 2026",
+  "coverage": "Reported lending categories and unassigned income and costs",
+  "profitMetric": "Profit before tax",
+  "definition": "Income less borrowing costs, charges for expected loan losses, staff and other expenses. Tax and the group’s share of results from jointly controlled businesses come afterwards.",
+  "revenueLabel": "Total income",
+  "incomeDefinition": "Interest, fees and commissions, other operating gains and other income. Money lent out and repaid is not income.",
+  "rows": [
+    {
+      "name": "Vehicle Finance",
+      "revenue": 16511.03,
+      "profit": 3144.67
+    },
+    {
+      "name": "Loan against Property",
+      "revenue": 5988.88,
+      "profit": 2158.97
+    },
+    {
+      "name": "Home Loans",
+      "revenue": 3240.9,
+      "profit": 857.35
+    },
+    {
+      "name": "Others",
+      "revenue": 4828.37,
+      "profit": 530.95
+    },
+    {
+      "name": "Unallocable",
+      "revenue": 969.55,
+      "profit": 281.1
+    }
+  ],
+  "source": "https://files.cholamandalam.com/Despatch_of_Annual_Report_FY_2026_0a06eb6c37.pdf",
+  "sourceLabel": "Audited annual report · group segment note",
+  "location": "PDF pages 325–326 (printed 313–314), consolidated note 39; PDF page 277 (printed 265), consolidated profit and loss; 30 April results filing, note 5",
+  "notes": "Total income includes ₹465.63 crore of other income. Unallocable is income and costs not assigned to a lending category; there is no separate internal-income deduction in this table. Vehicle Finance is the largest reported contributor. The year includes ₹49.65 crore of added employee benefit expense under new labour laws and a separate ₹200 crore allowance chosen by management for possible loan losses linked to geopolitical risks. A ₹38.75 crore earlier-year tax adjustment reduced tax expense. The group’s profit after tax and its share of jointly controlled businesses was ₹5,232.61 crore.",
+  "insight": "Vehicle loans bring in the most income and profit before tax. Loans against property earn the next-largest result and include a gain recorded when loans were transferred. Others combines several loan types; the table does not tell us the separate profit on gold loans.",
+  "status": "segments",
+  "revenueTotal": 31538.73,
+  "profitTotal": 6973.04,
+  "profitTotalLabel": "Group profit before tax"
+}
