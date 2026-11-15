@@ -1,0 +1,26 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Standalone · Indian Railway Finance Corporation alone",
+  "coverage": "Whole company · railway leasing and financing",
+  "unit": "₹ crore",
+  "revenueLabel": "Total income",
+  "incomeDefinition": "Total income includes lease income, interest, dividends and other income. The amounts are income before funding and other costs; returning the original amount borrowed is not income.",
+  "profitMetric": "Profit after tax",
+  "definition": "The audited company’s earnings after all reported expenses and tax. The statement records no income-tax expense this year.",
+  "rows": [
+    {
+      "name": "Indian Railway Finance Corporation",
+      "revenue": 27338.06,
+      "profit": 7009.17
+    }
+  ],
+  "revenueTotal": 27338.06,
+  "profitTotal": 7009.17,
+  "status": "totals",
+  "source": "https://nsearchives.nseindia.com/corporate/IRFC_14052026141427_OUTCOMEOFBM.pdf",
+  "sourceLabel": "Audited annual results filed on 14 May 2026",
+  "location": "PDF page 3 · annual audited income statement; page 6 · notes 2–4 and 8–11",
+  "notes": "Lease income was ₹17,726.00 crore and interest income ₹9,539.83 crore. Finance costs were ₹20,005.26 crore and the amount charged for expected losses on financial items was ₹124.03 crore. Profit before and after tax is the same this year under the accounting and tax treatment described in notes 2 and 3. The company did not report separate operating segments or have any controlled companies, associates or joint ventures at this year-end.",
+  "insight": "Borrowing costs absorb a substantial part of lease and interest income. The disclosed income categories do not show separate profits for coaches, wagons or particular railway projects. Money still owed under a lease is not payment already collected.",
+  "checked": "15 November 2026"
+}
