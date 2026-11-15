@@ -1,0 +1,787 @@
+{
+  "reviewed": "2026-11-15",
+  "catalogueCount": 90,
+  "initialsFound": 56,
+  "existingAssetsReplaced": 3,
+  "marks": [
+    {
+      "id": "abb-india",
+      "name": "ABB India",
+      "status": "added to replace initial",
+      "file": "assets/logos/abb-india-official.png",
+      "sourcePage": "https://www.abb.com/global/en",
+      "sourceAsset": "https://new.abb.com/docs/librariesprovider19/default-document-library/press-releaseq42025.pdf",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "adani-enterprises",
+      "name": "Adani Enterprises",
+      "status": "added to replace initial",
+      "file": "assets/logos/adani-enterprises-official.png",
+      "sourcePage": "https://www.adanienterprises.com/",
+      "sourceAsset": "https://www.adanienterprises.com/-/media/project/enterprisesv1/logo/footer-logo.png",
+      "sourceKind": "official site or site asset",
+      "plate": "dark"
+    },
+    {
+      "id": "adani-ports",
+      "name": "Adani Ports and SEZ",
+      "status": "added to replace initial",
+      "file": "assets/logos/adani-ports-official.png",
+      "sourcePage": "https://www.adaniports.com/",
+      "sourceAsset": "https://www.adaniports.com/-/media/E22DAD7A3F5B4EF484A6D41626D9BEB4.ashx",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "apollo-hospitals",
+      "name": "Apollo Hospitals",
+      "status": "added to replace initial",
+      "file": "assets/logos/apollo-hospitals-official.svg",
+      "sourcePage": "https://www.apollohospitals.com/",
+      "sourceAsset": "https://www.apollohospitals.com/themes/custom/apollo/assets/svg/apollo-logo.svg",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "asian-paints",
+      "name": "Asian Paints",
+      "status": "existing local mark visually reviewed",
+      "file": "assets/logos/asian-paints.svg"
+    },
+    {
+      "id": "avenue-supermarts",
+      "name": "Avenue Supermarts (DMart)",
+      "status": "existing local mark visually reviewed",
+      "file": "assets/logos/avenue-supermarts.svg"
+    },
+    {
+      "id": "axis-bank",
+      "name": "Axis Bank",
+      "status": "added to replace initial",
+      "file": "assets/logos/axis-bank-official.svg",
+      "sourcePage": "https://www.axis.bank.in/",
+      "sourceAsset": "https://www.axis.bank.in/assets/images/logo.svg",
+      "sourceKind": "official site or site asset",
+      "plate": "dark"
+    },
+    {
+      "id": "bajaj-auto",
+      "name": "Bajaj Auto",
+      "status": "existing local mark visually reviewed",
+      "file": "assets/logos/bajaj-auto.png"
+    },
+    {
+      "id": "bajaj-finance",
+      "name": "Bajaj Finance",
+      "status": "added to replace initial",
+      "file": "assets/logos/bajaj-finance-official.svg",
+      "sourcePage": "https://www.bajajfinserv.in/finance-digital-annual-report-fy26/index.html",
+      "sourceAsset": "https://www.bajajfinserv.in/finance-digital-annual-report-fy26/bajaj-finance-ltd-ar-2025-26-assets/images/logo-bajaj-finance.svg",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "bajaj-finserv",
+      "name": "Bajaj Finserv",
+      "status": "added to replace initial",
+      "file": "assets/logos/bajaj-finserv-official.png",
+      "sourcePage": "https://www.bajajfinserv.in/finserv-digital-annual-report-fy26/our-refreshed-brand-identity.html",
+      "sourceAsset": "https://www.bajajfinserv.in/finserv-digital-annual-report-fy26/assets/images/bajaj-finserv.png",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "bank-of-baroda",
+      "name": "Bank of Baroda",
+      "status": "added to replace initial",
+      "file": "assets/logos/bank-of-baroda-official.png",
+      "sourcePage": "https://bankofbaroda.bank.in/about-us",
+      "sourceAsset": "https://bankofbaroda.bank.in/-/media/Project/BOB/CountryWebsites/India/about-us/overview/BOB-New-Logo-2026-Eng.png",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "bharat-coking-coal",
+      "name": "Bharat Coking Coal",
+      "status": "added to replace initial",
+      "file": "assets/logos/bharat-coking-coal-official.png",
+      "sourcePage": "https://bcclweb.in/",
+      "sourceAsset": "https://bcclweb.in/logo.png",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "bharat-electronics",
+      "name": "Bharat Electronics",
+      "status": "added to replace initial",
+      "file": "assets/logos/bharat-electronics-official.png",
+      "sourcePage": "https://bel-india.in/",
+      "sourceAsset": "https://bel-india.in/wp-content/uploads/2022/11/BEL-Logo-PNG.png",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "bharat-petroleum",
+      "name": "Bharat Petroleum Corporation",
+      "status": "added to replace initial",
+      "file": "assets/logos/bharat-petroleum-official.png",
+      "sourcePage": "https://www.bharatpetroleum.in/",
+      "sourceAsset": "https://www.bharatpetroleum.in/images/BPCL_transparent_logo_new.png",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "bharti-airtel",
+      "name": "Bharti Airtel",
+      "status": "existing local mark visually reviewed",
+      "file": "assets/logos/bharti-airtel.png"
+    },
+    {
+      "id": "bosch",
+      "name": "Bosch Limited",
+      "status": "added to replace initial",
+      "file": "assets/logos/bosch-official.png",
+      "sourcePage": "https://www.bosch.in/",
+      "sourceAsset": "https://assets.bosch.com/media/global/bosch_logo_res_260x85.webp",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "britannia",
+      "name": "Britannia Industries",
+      "status": "existing local mark visually reviewed",
+      "file": "assets/logos/britannia.png"
+    },
+    {
+      "id": "bse",
+      "name": "BSE Limited",
+      "status": "added to replace initial",
+      "file": "assets/logos/bse-official.png",
+      "sourcePage": "https://www.bseindia.com/",
+      "sourceAsset": "https://www.bseindia.com/assets/includenew/images/bselogo.png",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "cipla",
+      "name": "Cipla",
+      "status": "added to replace initial",
+      "file": "assets/logos/cipla-official.svg",
+      "sourcePage": "https://www.cipla.com/",
+      "sourceAsset": "https://www.cipla.com/themes/cipla_theme/logo.svg",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "coal-india",
+      "name": "Coal India",
+      "status": "added to replace initial",
+      "file": "assets/logos/coal-india-official.png",
+      "sourcePage": "https://www.coalindia.in/",
+      "sourceAsset": "https://d3u7ubx0okog7j.cloudfront.net/images/CIL_Logo__Final-01.original.png",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "cummins-india",
+      "name": "Cummins India",
+      "status": "added to replace initial",
+      "file": "assets/logos/cummins-india-official.png",
+      "sourcePage": "https://cummins.com/sites/default/files/india/Legal/cummins-india_annual-report_2025_26.pdf",
+      "sourceAsset": "https://cummins.com/sites/default/files/india/Legal/cummins-india_annual-report_2025_26.pdf",
+      "sourceKind": "official filing artwork",
+      "plate": "light"
+    },
+    {
+      "id": "delhivery",
+      "name": "Delhivery",
+      "status": "added to replace initial",
+      "file": "assets/logos/delhivery-official.png",
+      "sourcePage": "https://www.delhivery.com/uploads/2026/10/PressRelease_Q2FY27.pdf",
+      "sourceAsset": "https://www.delhivery.com/uploads/2026/10/PressRelease_Q2FY27.pdf",
+      "sourceKind": "official filing artwork",
+      "plate": "light"
+    },
+    {
+      "id": "divis-laboratories",
+      "name": "Divi's Laboratories",
+      "status": "added to replace initial",
+      "file": "assets/logos/divis-laboratories-official.png",
+      "sourcePage": "https://www.divislabs.com/",
+      "sourceAsset": "https://www.divislabs.com/wp-content/uploads/2025/08/Divis-Logo.png",
+      "sourceKind": "official site or site asset",
+      "plate": "dark"
+    },
+    {
+      "id": "dlf",
+      "name": "DLF",
+      "status": "added to replace initial",
+      "file": "assets/logos/dlf-official.png",
+      "sourcePage": "https://www.dlf.in/",
+      "sourceAsset": "https://www.dlf.in/images/DLF_Logo@300x-8.png",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "dr-reddys",
+      "name": "Dr. Reddy's Laboratories",
+      "status": "existing local mark visually reviewed",
+      "file": "assets/logos/dr-reddys.jpg"
+    },
+    {
+      "id": "eicher-motors",
+      "name": "Eicher Motors",
+      "status": "added to replace initial",
+      "file": "assets/logos/eicher-motors-official.png",
+      "sourcePage": "https://www.eicher.in/",
+      "sourceAsset": "https://www.eicher.in/content/dam/eicher-motors/eicher-logo.jpg",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "eternal",
+      "name": "Eternal",
+      "status": "existing local mark visually reviewed",
+      "file": "assets/logos/eternal.svg"
+    },
+    {
+      "id": "fredun-pharmaceuticals",
+      "name": "Fredun Pharmaceuticals",
+      "status": "added to replace initial",
+      "file": "assets/logos/fredun-pharmaceuticals-official.png",
+      "sourcePage": "http://www.fredungroup.com/",
+      "sourceAsset": "http://www.fredungroup.com/images/fredun-group-logos.png",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "gail",
+      "name": "GAIL (India)",
+      "status": "added to replace initial",
+      "file": "assets/logos/gail-official.png",
+      "sourcePage": "https://gailonline.com/",
+      "sourceAsset": "https://www.gailonline.com/img/logo.png",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "genus-power",
+      "name": "Genus Power Infrastructures",
+      "status": "added to replace initial",
+      "file": "assets/logos/genus-power-official.png",
+      "sourcePage": "https://genuspower.com/",
+      "sourceAsset": "https://genuspower.com/wp-content/uploads/2022/07/Genus-Power-Logo.png",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "glass-wall-systems",
+      "name": "Glass Wall Systems (India)",
+      "status": "replaced existing artwork",
+      "file": "assets/logos/glass-wall-systems-official.png",
+      "sourcePage": "https://www.glasswallsystems.in/",
+      "sourceAsset": "https://www.glasswallsystems.in/frontend/assets/images/logo.webp",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "godrej-consumer-products",
+      "name": "Godrej Consumer Products",
+      "status": "added to replace initial",
+      "file": "assets/logos/godrej-consumer-products-official.svg",
+      "sourcePage": "https://www.godrejcp.com/",
+      "sourceAsset": "https://www.godrejcp.com/img/footer-logo.svg",
+      "sourceKind": "official site or site asset",
+      "plate": "dark",
+      "note": "Godrej signature used on the company’s own website; excludes the Godrej Industries header lockup."
+    },
+    {
+      "id": "grasim",
+      "name": "Grasim Industries",
+      "status": "added to replace initial",
+      "file": "assets/logos/grasim-official.png",
+      "sourcePage": "https://www.grasim.com/",
+      "sourceAsset": "https://www.grasim.com/Upload/homepage/grasim-logo-v1.jpg",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "hal",
+      "name": "Hindustan Aeronautics",
+      "status": "added to replace initial",
+      "file": "assets/logos/hal-official.png",
+      "sourcePage": "https://service.hal-india.co.in/halsupport/index.aspx",
+      "sourceAsset": "https://nsearchives.nseindia.com/annual_reports/AR_30166_HAL_2025_2026_U_12603450_04082026103759.pdf",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "hcg",
+      "name": "HealthCare Global Enterprises (HCG)",
+      "status": "added to replace initial",
+      "file": "assets/logos/hcg-official.png",
+      "sourcePage": "https://www.hcgoncology.com/",
+      "sourceAsset": "https://www.hcgoncology.com/library/images/logo.png",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "hcltech",
+      "name": "HCLTech",
+      "status": "added to replace initial",
+      "file": "assets/logos/hcltech-official.svg",
+      "sourcePage": "https://www.hcltech.com/",
+      "sourceAsset": "https://www.hcltech.com/themes/custom/hcltech/images/hcltech-logo.svg",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "hdfc-bank",
+      "name": "HDFC Bank",
+      "status": "replaced existing artwork",
+      "file": "assets/logos/hdfc-bank-official.svg",
+      "sourcePage": "https://www.hdfc.bank.in/",
+      "sourceAsset": "https://www.hdfc.bank.in/content/dam/hdfcbankpws/home-page/hdfc-bank-logo.svg",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "hdfc-life",
+      "name": "HDFC Life Insurance",
+      "status": "added to replace initial",
+      "file": "assets/logos/hdfc-life-official.svg",
+      "sourcePage": "https://www.hdfclife.com/",
+      "sourceAsset": "https://www.hdfclife.com/hdfc-careers/img/logo.svg",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "hfcl",
+      "name": "HFCL",
+      "status": "added to replace initial",
+      "file": "assets/logos/hfcl-official.svg",
+      "sourcePage": "https://www.hfcl.com/",
+      "sourceAsset": "https://cdn.prod.website-files.com/69e0036b695965871f0524aa/69e0036b695965871f052772_hfcl-logo.svg",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "hindalco",
+      "name": "Hindalco",
+      "status": "added to replace initial",
+      "file": "assets/logos/hindalco-official.png",
+      "sourcePage": "https://www.hindalco.com/",
+      "sourceAsset": "https://www.hindalco.com/Upload/Images/thumbnail/logo.webp",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "hindustan-unilever",
+      "name": "Hindustan Unilever",
+      "status": "existing local mark visually reviewed",
+      "file": "assets/logos/hindustan-unilever.svg"
+    },
+    {
+      "id": "hyundai-motor-india",
+      "name": "Hyundai Motor India",
+      "status": "added to replace initial",
+      "file": "assets/logos/hyundai-motor-india-official.png",
+      "sourcePage": "https://www.hyundai.com/in/en",
+      "sourceAsset": "https://www.hyundai.com/etc/designs/hyundai/in/en/images/common/ico-logo.png",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "icici-bank",
+      "name": "ICICI Bank",
+      "status": "existing local mark visually reviewed",
+      "file": "assets/logos/icici-bank.svg"
+    },
+    {
+      "id": "indian-oil",
+      "name": "Indian Oil Corporation",
+      "status": "added to replace initial",
+      "file": "assets/logos/indian-oil-official.png",
+      "sourcePage": "https://iocl.com/uploads/IndianOil_BRSR-2025-26.pdf",
+      "sourceAsset": "https://iocl.com/uploads/IndianOil_BRSR-2025-26.pdf",
+      "sourceKind": "official filing artwork",
+      "plate": "light"
+    },
+    {
+      "id": "indigo",
+      "name": "InterGlobe Aviation (IndiGo)",
+      "status": "added to replace initial",
+      "file": "assets/logos/indigo-official.png",
+      "sourcePage": "https://www.goindigo.in/",
+      "sourceAsset": "https://www.goindigo.in/content/dam/s6web/in/en/assets/logo/IndiGo_logo_2x.png",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "infosys",
+      "name": "Infosys",
+      "status": "existing local mark visually reviewed",
+      "file": "assets/logos/infosys.svg"
+    },
+    {
+      "id": "ireda",
+      "name": "IREDA",
+      "status": "added to replace initial",
+      "file": "assets/logos/ireda-official.png",
+      "sourcePage": "https://www.ireda.in/",
+      "sourceAsset": "https://www.ireda.in/IredaWebPortal/images/iredaLogoNew.jpg",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "itc",
+      "name": "ITC",
+      "status": "existing local mark visually reviewed",
+      "file": "assets/logos/itc.png"
+    },
+    {
+      "id": "jio-financial-services",
+      "name": "Jio Financial Services",
+      "status": "added to replace initial",
+      "file": "assets/logos/jio-financial-services-official.svg",
+      "sourcePage": "https://www.jfs.in/",
+      "sourceAsset": "https://www.jfs.in/docs/cms/assets/jfs/svg-og/jfslogofinal.svg",
+      "sourceKind": "official site or site asset",
+      "plate": "light",
+      "note": "Gold Jio symbol taken from the Jio Financial Services corporate site."
+    },
+    {
+      "id": "jsw-steel",
+      "name": "JSW Steel",
+      "status": "added to replace initial",
+      "file": "assets/logos/jsw-steel-official.svg",
+      "sourcePage": "https://www.jsw.in/steel",
+      "sourceAsset": "https://www.jswsteel.in/wp-content/themes/JSWSteel/images/JSW_Steel_Logo.svg",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "kanohar-electricals",
+      "name": "Kanohar Electricals",
+      "status": "existing local mark visually reviewed",
+      "file": "assets/logos/kanohar-electricals.webp"
+    },
+    {
+      "id": "kotak-mahindra-bank",
+      "name": "Kotak Mahindra Bank",
+      "status": "added to replace initial",
+      "file": "assets/logos/kotak-mahindra-bank-official.svg",
+      "sourcePage": "https://www.kotak.com/en/home.html",
+      "sourceAsset": "https://www.kotak.bank.in/content/dam/Kotak/svg-icons/kotak-header-logo.svg",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "larsen-and-toubro",
+      "name": "Larsen & Toubro",
+      "status": "existing local mark visually reviewed",
+      "file": "assets/logos/larsen-and-toubro.svg"
+    },
+    {
+      "id": "mahindra-and-mahindra",
+      "name": "Mahindra & Mahindra",
+      "status": "existing local mark visually reviewed",
+      "file": "assets/logos/mahindra-and-mahindra.png"
+    },
+    {
+      "id": "marico",
+      "name": "Marico",
+      "status": "existing local mark visually reviewed",
+      "file": "assets/logos/marico.svg"
+    },
+    {
+      "id": "maruti-suzuki",
+      "name": "Maruti Suzuki India",
+      "status": "existing local mark visually reviewed",
+      "file": "assets/logos/maruti-suzuki.svg"
+    },
+    {
+      "id": "max-healthcare",
+      "name": "Max Healthcare Institute",
+      "status": "added to replace initial",
+      "file": "assets/logos/max-healthcare-official.png",
+      "sourcePage": "https://max-website20-images.s3.ap-south-1.amazonaws.com/FY_2025_26_Integrated_Annual_Report_ab5f34d431.pdf",
+      "sourceAsset": "https://max-website20-images.s3.ap-south-1.amazonaws.com/FY_2025_26_Integrated_Annual_Report_ab5f34d431.pdf",
+      "sourceKind": "official filing artwork",
+      "plate": "light"
+    },
+    {
+      "id": "milky-mist",
+      "name": "Milky Mist Dairy Food",
+      "status": "added to replace initial",
+      "file": "assets/logos/milky-mist-official.png",
+      "sourcePage": "https://www.milkymist.com/",
+      "sourceAsset": "https://static.wixstatic.com/media/972f01_eec37aaba55849debf25ce804b886daa~mv2.png",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "nestle-india",
+      "name": "Nestlé India",
+      "status": "existing local mark visually reviewed",
+      "file": "assets/logos/nestle-india.png"
+    },
+    {
+      "id": "ntpc",
+      "name": "NTPC",
+      "status": "existing local mark visually reviewed",
+      "file": "assets/logos/ntpc.svg"
+    },
+    {
+      "id": "ongc",
+      "name": "ONGC",
+      "status": "added to replace initial",
+      "file": "assets/logos/ongc-official.png",
+      "sourcePage": "https://ongcindia.com/",
+      "sourceAsset": "https://ongcindia.com/documents/77751/2132071/ongcLogo.jpg",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "parag-milk-foods",
+      "name": "Parag Milk Foods",
+      "status": "existing local mark visually reviewed",
+      "file": "assets/logos/parag-milk-foods.webp"
+    },
+    {
+      "id": "park-medi-world",
+      "name": "Park Medi World (Park Hospitals)",
+      "status": "existing local mark visually reviewed",
+      "file": "assets/logos/park-medi-world.webp"
+    },
+    {
+      "id": "pidilite-industries",
+      "name": "Pidilite Industries",
+      "status": "added to replace initial",
+      "file": "assets/logos/pidilite-industries-official.png",
+      "sourcePage": "https://www.pidilite.com/",
+      "sourceAsset": "https://www.pidilite.com/content/dam/pidilitecorporatewebsite/images/pidilite-logo.png",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "polycab-india",
+      "name": "Polycab India",
+      "status": "added to replace initial",
+      "file": "assets/logos/polycab-india-official.png",
+      "sourcePage": "https://polycab.com/",
+      "sourceAsset": "https://polycab.com/images/logo-gradient-trans.png",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "power-grid",
+      "name": "Power Grid Corporation of India",
+      "status": "existing local mark visually reviewed",
+      "file": "assets/logos/power-grid.svg"
+    },
+    {
+      "id": "rainbow-childrens-medicare",
+      "name": "Rainbow Children’s Medicare",
+      "status": "existing local mark visually reviewed",
+      "file": "assets/logos/rainbow-childrens-medicare.svg"
+    },
+    {
+      "id": "refex-industries",
+      "name": "Refex Industries",
+      "status": "existing local mark visually reviewed",
+      "file": "assets/logos/refex-industries.svg"
+    },
+    {
+      "id": "reliance-industries",
+      "name": "Reliance Industries",
+      "status": "existing local mark visually reviewed",
+      "file": "assets/logos/reliance-industries.png"
+    },
+    {
+      "id": "rentomojo",
+      "name": "Rentomojo",
+      "status": "existing local mark visually reviewed",
+      "file": "assets/logos/rentomojo.svg"
+    },
+    {
+      "id": "sbi-life",
+      "name": "SBI Life Insurance",
+      "status": "added to replace initial",
+      "file": "assets/logos/sbi-life-official.png",
+      "sourcePage": "https://www.sbilife.co.in/",
+      "sourceAsset": "https://www.sbilife.co.in/documents/d/sbil/sbi-life-25-years-logo",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "shriram-finance",
+      "name": "Shriram Finance",
+      "status": "added to replace initial",
+      "file": "assets/logos/shriram-finance-official.svg",
+      "sourcePage": "https://www.shriramfinance.in/nav.plain.html",
+      "sourceAsset": "https://www.shriramfinance.in/media_18bedffffc625bd2051af833b60a80578e0af5616.svg",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "siemens",
+      "name": "Siemens",
+      "status": "added to replace initial",
+      "file": "assets/logos/siemens-official.png",
+      "sourcePage": "https://press.siemens.com/global/en",
+      "sourceAsset": "https://press.siemens.com/profiles/c2_base/modules/c2cms_instance_logo/assets/sag-logo.png",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "state-bank-of-india",
+      "name": "State Bank of India",
+      "status": "existing local mark visually reviewed",
+      "file": "assets/logos/state-bank-of-india.svg"
+    },
+    {
+      "id": "sun-pharma",
+      "name": "Sun Pharmaceutical Industries",
+      "status": "existing local mark visually reviewed",
+      "file": "assets/logos/sun-pharma.png"
+    },
+    {
+      "id": "swiggy",
+      "name": "Swiggy",
+      "status": "replaced existing artwork",
+      "file": "assets/logos/swiggy-official.png",
+      "sourcePage": "https://www.swiggy.com/corporate/",
+      "sourceAsset": "https://www.swiggy.com/corporate/wp-content/uploads/unlimited_elements/Swiggy-newsroom-logo.png",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "tata-consumer-products",
+      "name": "Tata Consumer Products",
+      "status": "added to replace initial",
+      "file": "assets/logos/tata-consumer-products-official.png",
+      "sourcePage": "https://www.tataconsumer.com/",
+      "sourceAsset": "https://www.tataconsumer.com/themes/custom/tcpl/logo.png",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "tata-motors-passenger-vehicles",
+      "name": "Tata Motors Passenger Vehicles",
+      "status": "added to replace initial",
+      "file": "assets/logos/tata-motors-passenger-vehicles-official.svg",
+      "sourcePage": "https://www.tatamotors.com/",
+      "sourceAsset": "https://nsearchives.nseindia.com/annual_reports/AR_29395_TMPV_2025_2026_A_21445169_15062026215933.pdf",
+      "sourceKind": "official site or site asset",
+      "plate": "dark",
+      "note": "Shared Tata Motors brand seen on the official landing page that links to the separately identified Passenger Vehicles business."
+    },
+    {
+      "id": "tata-power",
+      "name": "Tata Power",
+      "status": "added to replace initial",
+      "file": "assets/logos/tata-power-official.svg",
+      "sourcePage": "https://www.tatapower.com/",
+      "sourceAsset": "https://www.tatapower.com/content/dam/tatapoweraemsitesprogram/tatapower/logos/TP%20Logo.svg",
+      "sourceKind": "official site or site asset",
+      "plate": "dark"
+    },
+    {
+      "id": "tata-steel",
+      "name": "Tata Steel",
+      "status": "added to replace initial",
+      "file": "assets/logos/tata-steel-official.png",
+      "sourcePage": "https://www.tatasteel.com/media/media-kit/logos-usage-guidelines/",
+      "sourceAsset": "https://www.tatasteel.com/media/21267/tata-steel-555x290.png",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "tcs",
+      "name": "Tata Consultancy Services",
+      "status": "existing local mark visually reviewed",
+      "file": "assets/logos/tcs.svg"
+    },
+    {
+      "id": "tech-mahindra",
+      "name": "Tech Mahindra",
+      "status": "added to replace initial",
+      "file": "assets/logos/tech-mahindra-official.svg",
+      "sourcePage": "https://www.techmahindra.com/",
+      "sourceAsset": "https://www.techmahindra.com/themes/custom/techm/techm_logo.svg",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "titan-company",
+      "name": "Titan Company",
+      "status": "existing local mark visually reviewed",
+      "file": "assets/logos/titan-company.png"
+    },
+    {
+      "id": "tonbo-imaging",
+      "name": "Tonbo Imaging",
+      "status": "existing local mark visually reviewed",
+      "file": "assets/logos/tonbo-imaging.webp"
+    },
+    {
+      "id": "torrent-pharmaceuticals",
+      "name": "Torrent Pharma",
+      "status": "added to replace initial",
+      "file": "assets/logos/torrent-pharmaceuticals-official.svg",
+      "sourcePage": "https://www.torrentpharma.com/",
+      "sourceAsset": "https://www.torrentpharma.com/_next/static/media/tp_main_logo_2.a9dcac1a.svg",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "trent",
+      "name": "Trent",
+      "status": "added to replace initial",
+      "file": "assets/logos/trent-official.png",
+      "sourcePage": "https://trentlimited.com/",
+      "sourceAsset": "https://trentlimited.com/cdn/shop/files/TRENT_LOGO_1_1090x_crop_top@2x.png?v=1723527862",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "tvs-motor",
+      "name": "TVS Motor Company",
+      "status": "added to replace initial",
+      "file": "assets/logos/tvs-motor-official.svg",
+      "sourcePage": "https://www.tvsmotor.com/",
+      "sourceAsset": "https://www.tvsmotor.com/-/media/Feature/Header/TVSLogo-hr.svg",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "ultratech-cement",
+      "name": "UltraTech Cement",
+      "status": "existing local mark visually reviewed",
+      "file": "assets/logos/ultratech-cement.png"
+    },
+    {
+      "id": "varun-beverages",
+      "name": "Varun Beverages",
+      "status": "added to replace initial",
+      "file": "assets/logos/varun-beverages-official.png",
+      "sourcePage": "https://www.varunbeverages.com/",
+      "sourceAsset": "https://www.varunbeverages.com/wp-content/uploads/2025/11/VBL-logo-updated-compressed.png",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    },
+    {
+      "id": "wipro",
+      "name": "Wipro",
+      "status": "added to replace initial",
+      "file": "assets/logos/wipro-official.png",
+      "sourcePage": "https://www.wipro.com/",
+      "sourceAsset": "https://www.wipro.com/content/dam/nexus/en/images/wipro_logo.png",
+      "sourceKind": "official site or site asset",
+      "plate": "light"
+    }
+  ]
+}

@@ -6,6 +6,7 @@
     "ticker": "TATAPOWER",
     "sector": "Energy & utilities",
     "initial": "T",
+    "logo": "assets/logos/tata-power-official.svg",
     "color": "#0b5394",
     "bg": "#e8f1fa",
     "tag": "Generates electricity from coal, water, sun and wind, carries it on power lines and sells it to homes and businesses",

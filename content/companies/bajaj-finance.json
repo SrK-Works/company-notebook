@@ -6,6 +6,7 @@
     "ticker": "BAJFINANCE",
     "sector": "Banking",
     "initial": "B",
+    "logo": "assets/logos/bajaj-finance-official.svg",
     "color": "#0b5aa8",
     "bg": "#e8f1fb",
     "tag": "A lender that is not a bank: instalment loans in shops, personal, gold and business loans",

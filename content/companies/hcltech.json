@@ -6,6 +6,7 @@
     "ticker": "HCLTECH",
     "sector": "Technology & services",
     "initial": "H",
+    "logo": "assets/logos/hcltech-official.svg",
     "color": "#4b2ba8",
     "bg": "#efebfa",
     "tag": "Builds, runs and repairs computer systems for big companies abroad, and sells its own software",

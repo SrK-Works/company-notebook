@@ -6,6 +6,7 @@
     "ticker": "AXISBANK",
     "sector": "Banking",
     "initial": "A",
+    "logo": "assets/logos/axis-bank-official.svg",
     "color": "#97144d",
     "bg": "#fbeaf1",
     "tag": "A private bank for savers, borrowers, card users and companies",

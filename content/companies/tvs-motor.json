@@ -6,6 +6,7 @@
     "ticker": "TVSMOTOR",
     "sector": "Homes & mobility",
     "initial": "T",
+    "logo": "assets/logos/tvs-motor-official.svg",
     "color": "#364fc7",
     "bg": "#edf0fc",
     "tag": "Builds motorcycles, scooters, mopeds, electric scooters and three-wheelers",

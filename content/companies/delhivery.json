@@ -6,6 +6,7 @@
     "ticker": "DELHIVERY",
     "sector": "Industrials & infrastructure",
     "initial": "D",
+    "logo": "assets/logos/delhivery-official.png",
     "color": "#c0263a",
     "bg": "#fdecee",
     "tag": "The business behind the parcel at your door",

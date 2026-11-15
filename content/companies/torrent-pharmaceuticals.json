@@ -6,6 +6,7 @@
     "ticker": "TORNTPHARM",
     "sector": "Healthcare",
     "initial": "T",
+    "logo": "assets/logos/torrent-pharmaceuticals-official.svg",
     "color": "#1d4ed8",
     "bg": "#e8effd",
     "tag": "Makes and sells branded and generic medicines, mainly for long-term conditions",

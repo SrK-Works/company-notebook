@@ -6,6 +6,7 @@
     "ticker": "TECHM",
     "sector": "Technology & services",
     "initial": "T",
+    "logo": "assets/logos/tech-mahindra-official.svg",
     "color": "#c8102e",
     "bg": "#fdeaed",
     "tag": "Builds, runs and fixes software and networks for large companies, especially phone and telecom firms",

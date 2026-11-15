@@ -6,6 +6,7 @@
     "ticker": "FREDUN",
     "sector": "Healthcare",
     "initial": "FP",
+    "logo": "assets/logos/fredun-pharmaceuticals-official.png",
     "color": "#b04a62",
     "bg": "#f9edf0",
     "tag": "The business behind the offering",

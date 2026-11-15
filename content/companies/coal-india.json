@@ -6,6 +6,7 @@
     "ticker": "COALINDIA",
     "sector": "Energy & utilities",
     "initial": "C",
+    "logo": "assets/logos/coal-india-official.png",
     "color": "#2f3a40",
     "bg": "#eceff1",
     "tag": "Digs coal from open-cast and underground mines and sells it to power plants and factories",

@@ -6,6 +6,7 @@
     "ticker": "BAJAJFINSV",
     "sector": "Banking",
     "initial": "B",
+    "logo": "assets/logos/bajaj-finserv-official.png",
     "color": "#0a50a1",
     "bg": "#e7eef8",
     "tag": "A holding company that owns Bajaj Finance, home loans, general and life insurance, and fund and broking businesses",

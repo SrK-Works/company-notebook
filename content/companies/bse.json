@@ -6,6 +6,7 @@
     "ticker": "BSE",
     "sector": "Banking",
     "initial": "B",
+    "logo": "assets/logos/bse-official.png",
     "color": "#1f3a6e",
     "bg": "#e9eef8",
     "tag": "Runs a stock exchange where shares are listed and traded, and sells data and a mutual fund ordering system",

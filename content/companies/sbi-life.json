@@ -6,6 +6,7 @@
     "ticker": "SBILIFE",
     "sector": "Banking",
     "initial": "S",
+    "logo": "assets/logos/sbi-life-official.png",
     "color": "#1c5aa6",
     "bg": "#e8f0fa",
     "tag": "Sells life insurance, savings and retirement plans, mostly through State Bank of India branches and agents",

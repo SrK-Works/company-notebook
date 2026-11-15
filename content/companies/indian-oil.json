@@ -6,6 +6,7 @@
     "ticker": "IOC",
     "sector": "Energy & utilities",
     "initial": "I",
+    "logo": "assets/logos/indian-oil-official.png",
     "color": "#e8590c",
     "bg": "#fff0e6",
     "tag": "Refines crude oil and sells the petrol, diesel and cooking gas you buy",

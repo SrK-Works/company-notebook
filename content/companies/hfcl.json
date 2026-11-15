@@ -6,6 +6,7 @@
     "ticker": "HFCL",
     "sector": "Technology & services",
     "initial": "HF",
+    "logo": "assets/logos/hfcl-official.svg",
     "color": "#c07a1f",
     "bg": "#fbf3e5",
     "tag": "The business behind the offering",

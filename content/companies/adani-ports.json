@@ -6,6 +6,7 @@
     "ticker": "ADANIPORTS",
     "sector": "Industrials & infrastructure",
     "initial": "A",
+    "logo": "assets/logos/adani-ports-official.png",
     "color": "#0a7f8f",
     "bg": "#e3f3f5",
     "tag": "Runs ports that load and unload ships, plus trains, trucks, warehouses and tugboats that move the cargo on",

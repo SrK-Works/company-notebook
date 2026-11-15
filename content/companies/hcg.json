@@ -6,6 +6,7 @@
     "ticker": "HCG",
     "sector": "Healthcare",
     "initial": "HC",
+    "logo": "assets/logos/hcg-official.png",
     "color": "#8a3f6e",
     "bg": "#f7edf4",
     "tag": "The business behind the offering",

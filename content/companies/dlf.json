@@ -6,6 +6,7 @@
     "ticker": "DLF",
     "sector": "Homes & mobility",
     "initial": "D",
+    "logo": "assets/logos/dlf-official.png",
     "color": "#a61e4d",
     "bg": "#fcebf1",
     "tag": "Builds and sells homes and rents out offices and shopping malls",

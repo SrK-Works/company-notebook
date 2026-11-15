@@ -6,6 +6,7 @@
     "ticker": "IREDA",
     "sector": "Banking",
     "initial": "IR",
+    "logo": "assets/logos/ireda-official.png",
     "color": "#4f7a2a",
     "bg": "#f0f6e8",
     "tag": "The business behind the offering",

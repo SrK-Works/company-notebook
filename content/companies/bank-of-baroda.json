@@ -6,6 +6,7 @@
     "ticker": "BANKBARODA",
     "sector": "Banking",
     "initial": "B",
+    "logo": "assets/logos/bank-of-baroda-official.png",
     "color": "#c2410c",
     "bg": "#fff1e8",
     "tag": "Takes deposits and lends to households, farmers, small businesses and large companies, in India and abroad",

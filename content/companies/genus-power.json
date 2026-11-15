@@ -6,6 +6,7 @@
     "ticker": "GENUSPOWER",
     "sector": "Energy & utilities",
     "initial": "GP",
+    "logo": "assets/logos/genus-power-official.png",
     "color": "#3d5a99",
     "bg": "#eceff9",
     "tag": "The business behind the offering",

@@ -6,6 +6,7 @@
     "ticker": "ABB",
     "sector": "Industrials & infrastructure",
     "initial": "A",
+    "logo": "assets/logos/abb-india-official.png",
     "color": "#d6001c",
     "bg": "#fdecee",
     "tag": "Makes motors, drives, switchgear and plant control systems that carry and control electricity",

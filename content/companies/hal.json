@@ -6,6 +6,7 @@
     "ticker": "HAL",
     "sector": "Industrials & infrastructure",
     "initial": "H",
+    "logo": "assets/logos/hal-official.png",
     "color": "#2f4a6d",
     "bg": "#eaf0f7",
     "tag": "Builds, repairs and upgrades aircraft, helicopters and aircraft engines, mostly for India’s armed forces",

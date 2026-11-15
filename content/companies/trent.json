@@ -6,6 +6,7 @@
     "ticker": "TRENT",
     "sector": "Consumer & retail",
     "initial": "T",
+    "logo": "assets/logos/trent-official.png",
     "color": "#1f3a5f",
     "bg": "#eaf0f7",
     "tag": "The Tata company behind Westside and Zudio stores",

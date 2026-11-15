@@ -6,6 +6,7 @@
     "ticker": "HDFCLIFE",
     "sector": "Banking",
     "initial": "H",
+    "logo": "assets/logos/hdfc-life-official.svg",
     "color": "#b3282d",
     "bg": "#fbeaeb",
     "tag": "Sells life insurance, savings and retirement plans, and invests the premiums it collects",

@@ -6,6 +6,7 @@
     "ticker": "APOLLOHOSP",
     "sector": "Healthcare",
     "initial": "A",
+    "logo": "assets/logos/apollo-hospitals-official.svg",
     "color": "#2a7de1",
     "bg": "#e8f1fd",
     "tag": "Runs hospitals, and also pharmacies, clinics, diagnostic labs and a health app",

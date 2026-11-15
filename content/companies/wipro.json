@@ -6,6 +6,7 @@
     "ticker": "WIPRO",
     "sector": "Technology & services",
     "initial": "W",
+    "logo": "assets/logos/wipro-official.png",
     "color": "#5b3a8c",
     "bg": "#f1ecf8",
     "tag": "Builds, runs and protects software and computer systems for large companies, and advises them on using AI",

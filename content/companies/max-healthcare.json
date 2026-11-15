@@ -6,6 +6,7 @@
     "ticker": "MAXHEALTH",
     "sector": "Healthcare",
     "initial": "M",
+    "logo": "assets/logos/max-healthcare-official.png",
     "color": "#0b5fa8",
     "bg": "#e6f0fa",
     "tag": "Runs hospitals mainly around Delhi, a home care service and diagnostic labs",

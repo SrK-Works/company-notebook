@@ -6,6 +6,7 @@
     "ticker": "MILKYMIST",
     "sector": "Everyday essentials",
     "initial": "MM",
+    "logo": "assets/logos/milky-mist-official.png",
     "color": "#3b6fa6",
     "bg": "#ecf2f9",
     "tag": "The business behind the offering",

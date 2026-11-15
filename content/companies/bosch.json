@@ -6,6 +6,7 @@
     "ticker": "BOSCHLTD",
     "sector": "Homes & mobility",
     "initial": "B",
+    "logo": "assets/logos/bosch-official.png",
     "color": "#c62828",
     "bg": "#fdecea",
     "tag": "Makes fuel-system parts and sensors for vehicles, plus power tools and fire alarms",

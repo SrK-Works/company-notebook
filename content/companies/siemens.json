@@ -6,6 +6,7 @@
     "ticker": "SIEMENS",
     "sector": "Industrials & infrastructure",
     "initial": "S",
+    "logo": "assets/logos/siemens-official.png",
     "color": "#00798c",
     "bg": "#e5f6f9",
     "tag": "Sells factory automation, railway equipment and electrical products for buildings and grids",

@@ -6,6 +6,7 @@
     "ticker": "JIOFIN",
     "sector": "Banking",
     "initial": "J",
+    "logo": "assets/logos/jio-financial-services-official.svg",
     "color": "#3b3fa8",
     "bg": "#ecedf9",
     "tag": "Holding company for new digital finance businesses: loans, a payments bank, insurance broking and mutual funds",

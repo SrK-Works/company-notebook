@@ -6,6 +6,7 @@
     "ticker": "SHRIRAMFIN",
     "sector": "Banking",
     "initial": "S",
+    "logo": "assets/logos/shriram-finance-official.svg",
     "color": "#c2410c",
     "bg": "#fdf0e8",
     "tag": "Lends to truck owners, small businesses and farmers, mostly against vehicles and equipment",

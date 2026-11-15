@@ -6,6 +6,7 @@
     "ticker": "CIPLA",
     "sector": "Healthcare",
     "initial": "C",
+    "logo": "assets/logos/cipla-official.svg",
     "color": "#00829b",
     "bg": "#e5f4f7",
     "tag": "Makes inhalers and medicines sold by prescription, and everyday health brands",

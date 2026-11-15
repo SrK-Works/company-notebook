@@ -6,6 +6,7 @@
     "ticker": "KOTAKBANK",
     "sector": "Banking",
     "initial": "K",
+    "logo": "assets/logos/kotak-mahindra-bank-official.svg",
     "color": "#c8102e",
     "bg": "#fdecef",
     "tag": "A bank that also runs a broker, a fund house and an insurer",

@@ -6,6 +6,7 @@
     "ticker": "CUMMINSIND",
     "sector": "Industrials & infrastructure",
     "initial": "C",
+    "logo": "assets/logos/cummins-india-official.png",
     "color": "#c2410c",
     "bg": "#fff1e6",
     "tag": "Builds engines and generator sets, and sells the parts and repairs that keep them running",

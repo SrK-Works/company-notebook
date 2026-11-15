@@ -6,6 +6,7 @@
     "ticker": "ONGC",
     "sector": "Energy & utilities",
     "initial": "O",
+    "logo": "assets/logos/ongc-official.png",
     "color": "#b3261e",
     "bg": "#fceceb",
     "tag": "Finds and pumps India's oil and gas, and owns fuel and plastics companies",

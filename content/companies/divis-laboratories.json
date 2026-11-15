@@ -6,6 +6,7 @@
     "ticker": "DIVISLAB",
     "sector": "Healthcare",
     "initial": "D",
+    "logo": "assets/logos/divis-laboratories-official.png",
     "color": "#0f766e",
     "bg": "#e6f6f4",
     "tag": "Makes the active chemicals inside medicines, for drug companies around the world",

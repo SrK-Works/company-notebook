@@ -6,6 +6,7 @@
     "ticker": "JSWSTEEL",
     "sector": "Industrials & infrastructure",
     "initial": "J",
+    "logo": "assets/logos/jsw-steel-official.svg",
     "color": "#6b3fa0",
     "bg": "#f1ebf8",
     "tag": "Digs iron ore, makes steel in giant plants, and rolls it into coils, bars and coated sheets",
