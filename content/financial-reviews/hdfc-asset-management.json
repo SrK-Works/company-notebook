@@ -1,0 +1,26 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "checked": "15 November 2026",
+  "coverage": "Whole group · one reported asset management business",
+  "profitMetric": "Profit after tax",
+  "definition": "The group’s profit after expenses and tax. It includes the effect of income from the company’s own investments and is not the return earned by mutual fund investors.",
+  "revenueLabel": "Revenue from operations",
+  "incomeDefinition": "Income from managing investments and related work. This is separate from other income in the company’s accounts and does not include the money invested by customers.",
+  "rows": [
+    {
+      "name": "HDFC Asset Management · whole group",
+      "revenue": 4122.16,
+      "profit": 2858.06
+    }
+  ],
+  "source": "https://files.hdfcfund.com/s3fs-public/2026-04/NSEBSE_05_0.pdf",
+  "sourceLabel": "Audited consolidated results filed with the exchanges",
+  "location": "PDF page 12, annual audited consolidated income statement; PDF page 15, notes 7–10",
+  "notes": "Revenue from operations excludes ₹500.04 crore of other income. The year’s profit includes a ₹46.81 crore reduction in tax expense after the company rechecked an amount it had previously set aside for earlier years’ income tax. This was not a fee from a customer. The accounts show all profit attributable to owners of the parent. No separate profit is reported for share funds, debt funds or individual schemes.",
+  "insight": "The fees the manager earns and the investments it manages are different measures. The total is for the business that manages money, not for the individual funds it runs.",
+  "status": "single",
+  "revenueTotal": 4122.16,
+  "profitTotal": 2858.06
+}

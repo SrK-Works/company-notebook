@@ -193,12 +193,20 @@
     [
       "National Stock Exchange listing",
       "https://www.nseindia.com/get-quote/equity/HDFCAMC/HDFC-Asset-Management-Company-Limited"
+    ],
+    [
+      "Audited annual results and accounting notes",
+      "https://files.hdfcfund.com/s3fs-public/2026-04/NSEBSE_05_0.pdf"
     ]
   ],
   "financialNotes": [
     {
-      "title": "Figures awaiting verification",
-      "text": "The manager’s annual accounts report its own fees and earnings. The value of money it manages for clients is a separate measure."
+      "title": "Read the manager’s accounts, not a fund’s return",
+      "text": "Consolidated means the manager and its controlled company together. Operating revenue comes mainly from fees. Profit after tax also reflects other income, costs and tax. The amount invested in the schemes is not company revenue."
+    },
+    {
+      "title": "Read the tax adjustment separately",
+      "text": "The tax bill in the accounts includes a reduction after the company rechecked what it had set aside for earlier years. This increased reported profit without adding any management fees. The group does not publish profit for individual funds."
     }
   ],
   "checked": "15 November 2026"
