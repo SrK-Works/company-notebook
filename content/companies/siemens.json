@@ -45,10 +45,10 @@
     {
       "name": "Electric locomotives",
       "category": "Electric locomotives for Indian Railways",
-      "image": "assets/products/siemens-electric-locomotives.svg",
-      "url": "https://assets.new.siemens.com/siemens/assets/api/uuid:6d32b927-bec4-43f3-bbee-d617b2888331/Annual-Report-Siemens-Limited-2024-26.pdf",
-      "kind": "illustration",
-      "alt": "Illustration of an electric locomotive with a roof pantograph — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/siemens-electric-locomotives-actual.webp",
+      "url": "https://press.siemens.com/global/en/pressrelease/indian-prime-minister-shri-narendra-modi-flags-first-new-d9-9000-hp-electric",
+      "kind": "photo",
+      "alt": "The D9 electric freight locomotive on tracks at its public unveiling."
     },
     {
       "name": "Railway signalling",

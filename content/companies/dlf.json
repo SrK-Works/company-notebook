@@ -28,10 +28,10 @@
     {
       "name": "High-rise apartments",
       "category": "Flats in tall residential towers",
-      "image": "assets/products/dlf-high-rise-apartments.svg",
-      "url": "https://dlf.in/pdf-copporate/July_11_Annual_Report.pdf",
-      "kind": "illustration",
-      "alt": "Illustration of apartment towers — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/dlf-photo-refresh-camellias-towers.webp",
+      "url": "https://thecamellias.dlf.in/",
+      "kind": "photo",
+      "alt": "High-rise apartments reflected in water in a photo published on the DLF Camellias project site"
     },
     {
       "name": "Independent floors",
@@ -52,18 +52,18 @@
     {
       "name": "Office buildings",
       "category": "Offices rented to companies",
-      "image": "assets/products/dlf-office-buildings.svg",
-      "url": "https://dlf.in/pdf-copporate/July_11_Annual_Report.pdf",
-      "kind": "illustration",
-      "alt": "Illustration of office buildings — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/dlf-photo-refresh-cyberpark.webp",
+      "url": "https://www.dlf.in/offices/gurugram/dlf-cyberpark",
+      "kind": "photo",
+      "alt": "DLF Cyberpark’s glazed office tower in Gurugram at dusk"
     },
     {
       "name": "Shopping malls",
       "category": "Malls rented to shops",
-      "image": "assets/products/dlf-shopping-malls.svg",
-      "url": "https://dlf.in/pdf-copporate/July_11_Annual_Report.pdf",
-      "kind": "illustration",
-      "alt": "Illustration of a mall — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/dlf-photo-refresh-mall-atrium.webp",
+      "url": "https://www.dlf.in/dlf-mall-of-india",
+      "kind": "photo",
+      "alt": "Shops and balcony levels around the atrium at DLF Mall of India"
     },
     {
       "name": "Shop-cum-offices",
@@ -76,18 +76,18 @@
     {
       "name": "Hotels",
       "category": "Hotels owned by DLF",
-      "image": "assets/products/dlf-hotels.svg",
-      "url": "https://dlf.in/pdf-copporate/July_11_Annual_Report.pdf",
-      "kind": "illustration",
-      "alt": "Illustration of a hotel — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/dlf-photo-refresh-lodhi.webp",
+      "url": "https://www.dlf.in/hospitality",
+      "kind": "photo",
+      "alt": "The Lodhi hotel at dusk, with its pool and courtyard surrounded by hotel buildings"
     },
     {
       "name": "Clubs",
       "category": "Clubs owned by DLF",
-      "image": "assets/products/dlf-clubs.svg",
-      "url": "https://dlf.in/pdf-copporate/July_11_Annual_Report.pdf",
-      "kind": "illustration",
-      "alt": "Illustration of a club — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/dlf-photo-refresh-country-club.webp",
+      "url": "https://www.dlf.in/hospitality",
+      "kind": "photo",
+      "alt": "Golf green at DLF Golf and Country Club, with taller buildings in the distance"
     }
   ]
 }

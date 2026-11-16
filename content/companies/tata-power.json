@@ -81,10 +81,10 @@
     {
       "name": "Solar power plants",
       "category": "Large fields of solar panels",
-      "image": "assets/products/tata-power-solar-power.svg",
-      "url": "https://www.tatapower.com/html/integrated-annual-report-2026/business-cluster-review.html",
-      "kind": "illustration",
-      "alt": "Rows of solar panels with a sun — conceptual illustration; not a photograph"
+      "image": "assets/products/tata-power-solar-power-photo.webp",
+      "url": "https://archives.nseindia.com/annual_reports/AR_29380_TATAPOWER_2025_2026_A_16197784_10062026203510.pdf#page=12",
+      "kind": "photo",
+      "alt": "Workers stand between long rows of solar power panels pictured in Tata Power’s annual report."
     },
     {
       "name": "Wind power",

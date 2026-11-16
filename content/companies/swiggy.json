@@ -72,10 +72,11 @@
     {
       "name": "Swiggy Food Delivery",
       "category": "Restaurant marketplace and delivery",
-      "image": "assets/products/swiggy-visual-32.webp",
-      "url": "https://www.swiggy.com/corporate/our-business/",
-      "kind": "brand",
-      "alt": "Swiggy Food Delivery — image from the official company website"
+      "image": "assets/products/swiggy-swiggy-cc0-catalogue.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:Swiggy_delivery_partner.jpg",
+      "kind": "generic",
+      "alt": "Independent photograph of a Swiggy delivery partner riding a motorcycle in Bengaluru",
+      "credit": "SerChevalerie / Wikimedia Commons / CC0 1.0"
     },
     {
       "name": "Instamart",
@@ -88,10 +89,10 @@
     {
       "name": "Dineout",
       "category": "Restaurant discovery, reservations and payments",
-      "image": "assets/products/swiggy-visual-34.webp",
+      "image": "assets/products/swiggy-swiggyar-p02i03-catalogue.webp",
       "url": "https://www.swiggy.com/corporate/our-business/",
-      "kind": "brand",
-      "alt": "Dineout — image from the official company website"
+      "kind": "photo",
+      "alt": "Restaurant tables set for dine-in guests; Swiggy uses this photo to illustrate Dineout"
     },
     {
       "name": "Scenes",
@@ -112,10 +113,10 @@
     {
       "name": "Bolt",
       "category": "Faster food-delivery format",
-      "image": "assets/products/swiggy-bolt.svg",
-      "url": "https://www.swiggy.com/corporate/our-business/",
-      "kind": "illustration",
-      "alt": "Bolt — conceptual illustration, not a product photograph"
+      "image": "assets/products/swiggy-swiggyar-p05i02-catalogue.webp",
+      "url": "https://www.swiggy.com/corporate/press-release/swiggy-launches-bolt-delivering-your-favorite-food-in-just-10-minutes/",
+      "kind": "pack",
+      "alt": "Official Swiggy Bolt artwork showing a bowl of prepared food"
     },
     {
       "name": "99 Store",

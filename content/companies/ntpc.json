@@ -84,18 +84,18 @@
     {
       "name": "Coal-based power",
       "category": "Electricity made using heat from burning coal",
-      "image": "assets/products/ntpc-coal-based-power.svg",
-      "url": "https://ntpc.co.in/ntpc-overview",
-      "kind": "illustration",
-      "alt": "Coal-based power — conceptual factory illustration; not a photograph or product screenshot"
+      "image": "assets/products/ntpc-coal-based-power-photo.webp",
+      "url": "https://ntpc.co.in/photo-gallery/business-units",
+      "kind": "photo",
+      "alt": "Cooling towers and buildings at NTPC’s Dadri coal-fired power station."
     },
     {
       "name": "Gas-based power",
       "category": "Electricity made using heat from burning gas",
-      "image": "assets/products/ntpc-gas-based-power.svg",
-      "url": "https://ntpc.co.in/ntpc-overview",
-      "kind": "illustration",
-      "alt": "Gas-based power — conceptual factory illustration; not a photograph or product screenshot"
+      "image": "assets/products/ntpc-gas-based-power-photo.webp",
+      "url": "https://ntpc.co.in/photo-gallery/business-units",
+      "kind": "photo",
+      "alt": "Stacks and equipment at NTPC’s Dadri gas power station."
     },
     {
       "name": "Hydropower",
@@ -108,18 +108,18 @@
     {
       "name": "Solar power",
       "category": "Electricity generated using sunlight",
-      "image": "assets/products/ntpc-solar-power.svg",
-      "url": "https://ntpc.co.in/ntpc-overview",
-      "kind": "illustration",
-      "alt": "Solar power — conceptual solar illustration; not a photograph or product screenshot"
+      "image": "assets/products/ntpc-solar-power-photo.webp",
+      "url": "https://ntpc.co.in/photo-gallery/business-units",
+      "kind": "photo",
+      "alt": "Rows of solar panels at NTPC’s Dadri solar project."
     },
     {
       "name": "Wind power",
       "category": "Electricity generated using wind",
-      "image": "assets/products/ntpc-wind-power.svg",
-      "url": "https://ntpc.co.in/ntpc-overview",
-      "kind": "illustration",
-      "alt": "Wind power — conceptual wind illustration; not a photograph or product screenshot"
+      "image": "assets/products/ntpc-wind-power-photo.webp",
+      "url": "https://ntpc.co.in/photo-gallery/business-units",
+      "kind": "photo",
+      "alt": "Wind turbines at NTPC’s Rojmal Wind Project."
     },
     {
       "name": "Nuclear power development",
@@ -132,10 +132,10 @@
     {
       "name": "Coal mining",
       "category": "Extracting coal used as fuel",
-      "image": "assets/products/ntpc-coal-mining.svg",
-      "url": "https://ntpc.co.in/ntpc-overview",
-      "kind": "illustration",
-      "alt": "Coal mining — conceptual factory illustration; not a photograph or product screenshot"
+      "image": "assets/products/ntpc-coal-mining-photo.webp",
+      "url": "https://ntpc.co.in/photo-gallery/business-units",
+      "kind": "photo",
+      "alt": "Heavy equipment moving material at NTPC’s Talaipalli coal mine."
     },
     {
       "name": "Power trading",

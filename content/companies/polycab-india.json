@@ -29,66 +29,66 @@
     {
       "name": "Building wires",
       "category": "Wire that runs inside walls to lights and sockets",
-      "image": "assets/products/polycab-building-wires.svg",
-      "url": "https://polycab.com/ar2026/cables-and-wires",
-      "kind": "illustration",
-      "alt": "Illustration of a coil of electrical wire — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/polycab-building-wires-catalogue.webp",
+      "url": "https://polycab.com/ar2025/product-portfolio",
+      "kind": "pack",
+      "alt": "Insulated building wires from Polycab’s product portfolio"
     },
     {
       "name": "Power cables",
       "category": "Thick cables for factories, substations and grids",
-      "image": "assets/products/polycab-power-cables.svg",
-      "url": "https://polycab.com/ar2026/cables-and-wires",
-      "kind": "illustration",
-      "alt": "Illustration of the cross-section of a power cable — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/polycab-power-cables-catalogue.webp",
+      "url": "https://polycab.com/ar2025/product-portfolio",
+      "kind": "pack",
+      "alt": "A cutaway of a power cable showing its conductors from Polycab’s product portfolio"
     },
     {
       "name": "Special-purpose cables",
       "category": "Cables for railways, defence and electric vehicles",
-      "image": "assets/products/polycab-special-cables.svg",
-      "url": "https://polycab.com/ar2026/cables-and-wires",
-      "kind": "illustration",
-      "alt": "Illustration of a charging connector with its cable — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/polycab-special-cables-catalogue.webp",
+      "url": "https://polycab.com/ar2025/product-portfolio",
+      "kind": "pack",
+      "alt": "A cutaway of a special-purpose cable from Polycab’s product portfolio"
     },
     {
       "name": "Optical-fibre cables",
       "category": "Cables that carry data as light",
-      "image": "assets/products/polycab-optical-fibre.svg",
-      "url": "https://polycab.com/ar2026/cables-and-wires",
-      "kind": "illustration",
-      "alt": "Illustration of the cross-section of an optical-fibre cable — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/polycab-optical-fibre-catalogue.webp",
+      "url": "https://polycab.com/ar2025/product-portfolio",
+      "kind": "pack",
+      "alt": "A cable with optical fibres exposed at one end from Polycab’s product portfolio"
     },
     {
       "name": "Ceiling fans",
       "category": "Energy-saving ceiling fans",
-      "image": "assets/products/polycab-fans.svg",
-      "url": "https://polycab.com/ar2026/fast-moving-electrical-goods",
-      "kind": "illustration",
-      "alt": "Illustration of a three-bladed ceiling fan seen from above — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/polycab-fans-catalogue.webp",
+      "url": "https://polycab.com/ar2025/product-portfolio",
+      "kind": "pack",
+      "alt": "A Polycab ceiling fan from Polycab’s product portfolio"
     },
     {
       "name": "Lights",
       "category": "LED bulbs and luminaires",
-      "image": "assets/products/polycab-lights.svg",
-      "url": "https://polycab.com/ar2026/fast-moving-electrical-goods",
-      "kind": "illustration",
-      "alt": "Illustration of a light bulb — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/polycab-lights-catalogue.webp",
+      "url": "https://polycab.com/ar2025/product-portfolio",
+      "kind": "pack",
+      "alt": "Polycab lighting products from Polycab’s product portfolio"
     },
     {
       "name": "Switches and sockets",
       "category": "Wall switches and sockets for homes",
-      "image": "assets/products/polycab-switches.svg",
-      "url": "https://polycab.com/ar2026/fast-moving-electrical-goods",
-      "kind": "illustration",
-      "alt": "Illustration of a wall plate with four switches and a socket — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/polycab-switches-catalogue.webp",
+      "url": "https://polycab.com/ar2025/product-portfolio",
+      "kind": "pack",
+      "alt": "A set of Polycab wall switches from Polycab’s product portfolio"
     },
     {
       "name": "Conduits and pipes",
       "category": "Plastic tubes that protect wiring",
-      "image": "assets/products/polycab-conduits.svg",
-      "url": "https://polycab.com/ar2026/fast-moving-electrical-goods",
-      "kind": "illustration",
-      "alt": "Illustration of a bent plastic conduit pipe — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/polycab-conduits-catalogue.webp",
+      "url": "https://polycab.com/ar2025/product-portfolio",
+      "kind": "pack",
+      "alt": "Polycab conduits and fittings that protect wires from Polycab’s product portfolio"
     },
     {
       "name": "Solar inverters",

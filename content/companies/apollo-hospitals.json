@@ -53,7 +53,7 @@
       "Apollo Hospitals Enterprise Ltd.",
       "Apollo Hospitals"
     ],
-    "productNote": "Services named in Apollo Hospitals Enterprise's 2025–26 annual report. Apollo HealthCo (pharmacies and the 24|7 app) and Apollo Health and Lifestyle (clinics and diagnostics) are subsidiaries whose results are included in the group totals. The annual report has no usable photographs of the hospitals' work, so every picture is a labelled illustration.",
+    "productNote": "Selected services named in Apollo Hospitals Enterprise’s 2025–26 annual report. Apollo HealthCo (pharmacies and the Apollo 24|7 app) and Apollo Health and Lifestyle (clinics and diagnostics) are subsidiaries. The hospital-room picture comes from the annual report; the remaining examples are labelled illustrations.",
     "checked": "12 November 2026",
     "reviewed": "12 November 2026"
   },
@@ -61,10 +61,10 @@
     {
       "name": "Hospitals",
       "category": "Multi-speciality hospitals where patients stay for surgery and treatment",
-      "image": "assets/products/apollo-hospitals-hospital.svg",
-      "url": "https://bseindia.com/xml-data/corpfiling/AttachLive/df740957-5277-4434-9808-189da93447aa.pdf",
-      "kind": "illustration",
-      "alt": "A hospital building with a cross on its front — conceptual illustration; not a photograph"
+      "image": "assets/products/apollo-hospitals-photo-refresh-hospital-room.webp",
+      "url": "https://www.apollohospitals.com/athenaa/infrastructure-facilities",
+      "kind": "photo",
+      "alt": "Patient room at Apollo Athenaa in Delhi showing the bed, dedicated equipment fittings and seating"
     },
     {
       "name": "Heart and cancer care",

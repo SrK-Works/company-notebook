@@ -67,10 +67,11 @@
     {
       "name": "Commercial vehicle loans",
       "category": "Money to buy a truck or another work vehicle",
-      "image": "assets/products/cholamandalam-investment-and-finance-truck.svg",
-      "url": "https://www.cholamandalam.com/products",
-      "kind": "illustration",
-      "alt": "A truck — original illustration, not a photograph"
+      "image": "assets/products/reference-truck-photo.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:Tata_Truck_India.jpg",
+      "kind": "generic",
+      "alt": "A Tata freight truck on an Indian road; representative object, not a documented loan from this lender.",
+      "credit": "Adrian Sulc · CC BY-SA 3.0 · resized"
     },
     {
       "name": "Car loans",

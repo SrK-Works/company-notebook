@@ -91,10 +91,11 @@
     {
       "name": "Commercial vehicle finance",
       "category": "Borrow for trucks and other vehicles used for work",
-      "image": "assets/products/tata-capital-commercial-vehicle.svg",
-      "url": "https://www.tatacapital.com/vehicle-loan.html",
-      "kind": "illustration",
-      "alt": "A delivery truck — conceptual illustration; not a photograph"
+      "image": "assets/products/reference-truck-photo.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:Tata_Truck_India.jpg",
+      "kind": "generic",
+      "alt": "A Tata freight truck on an Indian road; representative object, not a documented loan from this lender.",
+      "credit": "Adrian Sulc · CC BY-SA 3.0 · resized"
     },
     {
       "name": "Loans against property",

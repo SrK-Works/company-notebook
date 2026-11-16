@@ -137,26 +137,26 @@
     {
       "name": "Birla White Cement",
       "category": "White cement",
-      "image": "assets/products/ultratech-cement-birla-white-cement.svg",
-      "url": "https://www.ultratechcement.com/for-homebuilders/products/overview/cement-overview-page",
-      "kind": "illustration",
-      "alt": "Birla White Cement — official product image"
+      "image": "assets/products/ultratech-cement-photo-refresh-birla-white-cement.webp",
+      "url": "https://www.birlawhite.com/en/products/white-cement",
+      "kind": "pack",
+      "alt": "Birla White Cement bags shown by the brand in front of a home"
     },
     {
       "name": "Birla White WallCare Putty",
       "category": "Wall putty",
-      "image": "assets/products/ultratech-cement-birla-white-wallcare-putty.svg",
-      "url": "https://www.ultratechcement.com/for-homebuilders/products/overview/cement-overview-page",
-      "kind": "illustration",
-      "alt": "Birla White WallCare Putty — official product image"
+      "image": "assets/products/ultratech-cement-photo-refresh-wallcare-putty.webp",
+      "url": "https://www.birlawhite.com/en/products/wall-putty/wallcare-putty",
+      "kind": "pack",
+      "alt": "Official Birla White WallCare Putty bag beside a smooth interior wall"
     },
     {
       "name": "Ready Mixed Concrete",
       "category": "Prepared concrete",
-      "image": "assets/products/ultratech-cement-ready-mixed-concrete.svg",
-      "url": "https://www.ultratechcement.com/for-homebuilders/products/overview/cement-overview-page",
-      "kind": "illustration",
-      "alt": "Ready Mixed Concrete — official product image"
+      "image": "assets/products/ultratech-cement-photo-refresh-ready-mix.webp",
+      "url": "https://www.ultratechcement.com/gujarati/corporate/media/press-kit",
+      "kind": "photo",
+      "alt": "An UltraTech transit mixer truck with a rotating drum used to deliver ready-mixed concrete"
     },
     {
       "name": "UltraTech Building Solutions",

@@ -65,10 +65,11 @@
     {
       "name": "Commercial vehicle loans",
       "category": "Loans to buy trucks and buses, new or used",
-      "image": "assets/products/shriram-finance-commercial-vehicle-loans.svg",
-      "url": "https://cdn.shriramfinance.in/sfl-kalam/files/2026-06/Annual-Report-2025-26.pdf",
-      "kind": "illustration",
-      "alt": "A truck — conceptual illustration; not a photograph"
+      "image": "assets/products/reference-truck-photo.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:Tata_Truck_India.jpg",
+      "kind": "generic",
+      "alt": "A Tata freight truck on an Indian road; representative object, not a documented loan from this lender.",
+      "credit": "Adrian Sulc · CC BY-SA 3.0 · resized"
     },
     {
       "name": "Passenger vehicle loans",

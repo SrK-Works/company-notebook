@@ -29,42 +29,42 @@
     {
       "name": "Cola drinks",
       "category": "Pepsi and Pepsi Zero, made under licence",
-      "image": "assets/products/varun-cola.svg",
-      "url": "https://varunbeverages.com/Annual-Report-FY-2025.pdf",
-      "kind": "illustration",
-      "alt": "Illustration of a cola bottle with bubbles — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/varun-beverages-vblar-p22i00-catalogue.webp",
+      "url": "https://www.varunbeverages.com/Annual-Report-FY-2025.pdf#page=22",
+      "kind": "pack",
+      "alt": "Blue Pepsi cola can in Varun Beverages annual report artwork"
     },
     {
       "name": "Other fizzy drinks",
       "category": "Mountain Dew, Sting, Seven-Up, Mirinda and Evervess",
-      "image": "assets/products/varun-fizzy-can.svg",
-      "url": "https://varunbeverages.com/Annual-Report-FY-2025.pdf",
-      "kind": "illustration",
-      "alt": "Illustration of a fizzy drink can with bubbles — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/varun-beverages-vbl-dew-catalogue.webp",
+      "url": "https://www.varunbeverages.com/wp-content/vbl/growing-portfolio-sustaining-customer-delight.html",
+      "kind": "pack",
+      "alt": "Green Mountain Dew bottle, a PepsiCo brand sold by Varun Beverages under licence"
     },
     {
       "name": "Energy drinks",
       "category": "Energy drinks, one of the licensed categories",
-      "image": "assets/products/varun-energy.svg",
-      "url": "https://varunbeverages.com/Annual-Report-FY-2025.pdf",
-      "kind": "illustration",
-      "alt": "Illustration of a slim energy drink can with a lightning bolt — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/varun-beverages-vbl-sting-catalogue.webp",
+      "url": "https://www.varunbeverages.com/wp-content/vbl/growing-portfolio-sustaining-customer-delight.html",
+      "kind": "pack",
+      "alt": "Red Sting energy drink bottle from Varun Beverages’ licensed portfolio"
     },
     {
       "name": "Juice-based drinks",
       "category": "Slice and Tropicana juices",
-      "image": "assets/products/varun-juice.svg",
-      "url": "https://varunbeverages.com/Annual-Report-FY-2025.pdf",
-      "kind": "illustration",
-      "alt": "Illustration of a juice carton with a straw and a round fruit — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/varun-beverages-vbl-slice-catalogue.webp",
+      "url": "https://www.varunbeverages.com/wp-content/vbl/growing-portfolio-sustaining-customer-delight.html",
+      "kind": "pack",
+      "alt": "Orange Slice mango drink bottle from Varun Beverages’ licensed portfolio"
     },
     {
       "name": "Sports drink",
       "category": "Gatorade",
-      "image": "assets/products/varun-sports.svg",
-      "url": "https://varunbeverages.com/Annual-Report-FY-2025.pdf",
-      "kind": "illustration",
-      "alt": "Illustration of a sports drink bottle with a sport cap — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/varun-beverages-vbl-gatorade-catalogue.webp",
+      "url": "https://www.varunbeverages.com/wp-content/vbl/growing-portfolio-sustaining-customer-delight.html",
+      "kind": "pack",
+      "alt": "Blue Gatorade sports drink bottle from Varun Beverages’ licensed portfolio"
     },
     {
       "name": "Packaged drinking water",

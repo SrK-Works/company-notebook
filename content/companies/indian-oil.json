@@ -30,10 +30,10 @@
     {
       "name": "Petrol and diesel pumps",
       "category": "Fuel sold to drivers at filling stations",
-      "image": "assets/products/indian-oil-petrol-diesel-pumps.svg",
-      "url": "https://iocl.com/admin/img/UploadedFiles/IntimationStockExchanges/Images/064587e5e07944f9b99b9353ae60bc48.pdf",
-      "kind": "illustration",
-      "alt": "Illustration of a fuel pump — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/indian-oil-petrol-diesel-pumps-photo.webp",
+      "url": "https://iocl.com/admin/img/UploadedFiles/IntimationStockExchanges/Images/064587e5e07944f9b99b9353ae60bc48.pdf#page=36",
+      "kind": "photo",
+      "alt": "IndianOil fuel dispensers beneath a station canopy, viewed from above."
     },
     {
       "name": "Cooking gas cylinders",
@@ -46,10 +46,10 @@
     {
       "name": "Aviation fuel",
       "category": "Fuel filled into aircraft at airports",
-      "image": "assets/products/indian-oil-aviation-fuel.svg",
-      "url": "https://iocl.com/admin/img/UploadedFiles/IntimationStockExchanges/Images/064587e5e07944f9b99b9353ae60bc48.pdf",
-      "kind": "illustration",
-      "alt": "Illustration of an aeroplane — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/indian-oil-aviation-fuel-photo.webp",
+      "url": "https://iocl.com/admin/img/UploadedFiles/IntimationStockExchanges/Images/064587e5e07944f9b99b9353ae60bc48.pdf#page=33",
+      "kind": "photo",
+      "alt": "IndianOil aviation fuelling at Agatti Airport in Lakshadweep."
     },
     {
       "name": "CNG stations",
@@ -78,10 +78,10 @@
     {
       "name": "Petrochemicals",
       "category": "Plastics and chemical raw materials",
-      "image": "assets/products/indian-oil-petrochemicals.svg",
-      "url": "https://iocl.com/admin/img/UploadedFiles/IntimationStockExchanges/Images/064587e5e07944f9b99b9353ae60bc48.pdf",
-      "kind": "illustration",
-      "alt": "Illustration of plastic pellets — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/indian-oil-petrochemicals-photo.webp",
+      "url": "https://iocl.com/admin/img/UploadedFiles/IntimationStockExchanges/Images/064587e5e07944f9b99b9353ae60bc48.pdf#page=18",
+      "kind": "photo",
+      "alt": "IndianOil’s butyl acrylate plant at Dumad, part of its Gujarat Refinery complex."
     },
     {
       "name": "Pipelines",
@@ -94,10 +94,10 @@
     {
       "name": "Refineries",
       "category": "Plants that turn crude oil into fuels",
-      "image": "assets/products/indian-oil-refineries.svg",
-      "url": "https://iocl.com/admin/img/UploadedFiles/IntimationStockExchanges/Images/064587e5e07944f9b99b9353ae60bc48.pdf",
-      "kind": "illustration",
-      "alt": "Illustration of a refinery — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/indian-oil-refineries-photo.webp",
+      "url": "https://iocl.com/admin/img/UploadedFiles/IntimationStockExchanges/Images/064587e5e07944f9b99b9353ae60bc48.pdf#page=8",
+      "kind": "photo",
+      "alt": "Industrial towers and pipework at IndianOil’s Panipat Refinery and Petrochemicals Complex."
     }
   ]
 }

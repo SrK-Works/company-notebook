@@ -29,50 +29,50 @@
     {
       "name": "Wood and household glue",
       "category": "White glue for furniture and repairs (Fevicol)",
-      "image": "assets/products/pidilite-wood-glue.svg",
+      "image": "assets/products/pidilite-industries-fevicol-catalogue.webp",
       "url": "https://www.pidilite.com/consumer-brands/fevicol",
-      "kind": "illustration",
-      "alt": "Illustration of a squeeze bottle of glue — conceptual picture; not a photograph or the company’s own image"
+      "kind": "pack",
+      "alt": "White Fevicol SH wood glue tub with a blue handle"
     },
     {
       "name": "Instant glue",
       "category": "One-drop quick-setting adhesive (Fevikwik)",
-      "image": "assets/products/pidilite-instant-glue.svg",
+      "image": "assets/products/pidilite-industries-fevikwik-catalogue.webp",
       "url": "https://www.pidilite.com/consumer-brands/fevikwik",
-      "kind": "illustration",
-      "alt": "Illustration of a tube of instant glue with a drop — conceptual picture; not a photograph or the company’s own image"
+      "kind": "pack",
+      "alt": "Fevikwik precision instant glue in blue and yellow packaging"
     },
     {
       "name": "Sealants and repair putty",
       "category": "Fix leaks and fill gaps (M-Seal)",
-      "image": "assets/products/pidilite-sealant.svg",
+      "image": "assets/products/pidilite-industries-mseal-phat-catalogue.webp",
       "url": "https://www.pidilite.com/consumer-brands/mseal",
-      "kind": "illustration",
-      "alt": "Illustration of a sealant cartridge in a gun — conceptual picture; not a photograph or the company’s own image"
+      "kind": "pack",
+      "alt": "M-Seal Phataphat repair putty in a blue and black box"
     },
     {
       "name": "Waterproofing",
       "category": "Coatings that keep water out of roofs and walls (Dr. Fixit)",
-      "image": "assets/products/pidilite-waterproofing.svg",
+      "image": "assets/products/pidilite-industries-drfixit-catalogue.webp",
       "url": "https://www.pidilite.com/consumer-brands/dr-fixit",
-      "kind": "illustration",
-      "alt": "Illustration of a roller coating a roof slab under rain — conceptual picture; not a photograph or the company’s own image"
+      "kind": "pack",
+      "alt": "A lineup of Dr. Fixit waterproofing containers"
     },
     {
       "name": "Tile adhesive",
       "category": "Adhesive for fixing tiles and stone (Roff)",
-      "image": "assets/products/pidilite-tile-adhesive.svg",
+      "image": "assets/products/pidilite-industries-roff-catalogue.webp",
       "url": "https://www.pidilite.com/consumer-brands/roff",
-      "kind": "illustration",
-      "alt": "Illustration of a notched trowel above floor tiles — conceptual picture; not a photograph or the company’s own image"
+      "kind": "pack",
+      "alt": "Green and red Roff Non Skid tile adhesive bag"
     },
     {
       "name": "Art and craft colours",
       "category": "Paints and glues for hobbies (Fevicryl)",
-      "image": "assets/products/pidilite-art-craft.svg",
+      "image": "assets/products/pidilite-industries-fevicryl-catalogue.webp",
       "url": "https://www.pidilite.com/consumer-brands/fevicryl",
-      "kind": "illustration",
-      "alt": "Illustration of a paint palette and brush — conceptual picture; not a photograph or the company’s own image"
+      "kind": "pack",
+      "alt": "Fevicryl acrylic colour jars in a boxed set"
     },
     {
       "name": "Industrial adhesives",

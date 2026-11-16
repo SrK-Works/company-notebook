@@ -92,10 +92,11 @@
     {
       "name": "DMart stores",
       "category": "Physical retail",
-      "image": "assets/products/avenue-supermarts-dmart-stores.svg",
-      "url": "https://www.dmartindia.com/about-us",
-      "kind": "illustration",
-      "alt": "DMart stores — conceptual retail illustration; not a photograph or product screenshot"
+      "image": "assets/products/avenue-supermarts-madurai-upload-catalogue.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:%27D%27_Mart_Shopping_Mall,_Madurai,_Front_view.jpg",
+      "kind": "generic",
+      "alt": "Independent photograph of an actual DMart branch in Avaniapuram, Madurai",
+      "credit": "TNSE Mahalingam VNR / Wikimedia Commons / CC BY-SA 4.0"
     },
     {
       "name": "DMart Ready",

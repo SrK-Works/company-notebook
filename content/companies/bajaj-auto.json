@@ -128,18 +128,18 @@
     {
       "name": "Chetak",
       "category": "Electric scooters",
-      "image": "assets/products/bajaj-auto-chetak.svg",
-      "url": "https://www.bajajauto.com/bikes",
-      "kind": "illustration",
-      "alt": "Chetak — conceptual screen illustration; not a photograph or product screenshot"
+      "image": "assets/products/bajaj-auto-chetak-catalogue.webp",
+      "url": "https://www.chetak.com/",
+      "kind": "pack",
+      "alt": "White Chetak C3503 electric scooter in a three-quarter view"
     },
     {
       "name": "RE",
       "category": "Three-wheelers",
-      "image": "assets/products/bajaj-auto-re.svg",
-      "url": "https://www.bajajauto.com/bikes",
-      "kind": "illustration",
-      "alt": "RE — conceptual screen illustration; not a photograph or product screenshot"
+      "image": "assets/products/bajaj-auto-re-new3-catalogue.webp",
+      "url": "https://www.bajajauto.com/three-wheelers/re",
+      "kind": "pack",
+      "alt": "Black and yellow Bajaj RE passenger three-wheeler in a studio view"
     }
   ]
 }

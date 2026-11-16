@@ -30,18 +30,18 @@
     {
       "name": "Fuel stations",
       "category": "Petrol and diesel sold at retail outlets",
-      "image": "assets/products/bharat-petroleum-fuel-stations.svg",
-      "url": "https://www.bharatpetroleum.in/bharat-petroleum-ar-25-26/pdf/BPCL_AR%202025-26%20Business%20Verticals.pdf",
-      "kind": "illustration",
-      "alt": "Illustration of a fuel pump — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/bharat-petroleum-fuel-stations-photo.webp",
+      "url": "https://www.bharatpetroleum.in/bharat-petroleum/pdf/RETAIL.pdf#page=1",
+      "kind": "photo",
+      "alt": "A Bharat Petroleum fuel station attendant refuels a vehicle beside a fuel dispenser."
     },
     {
       "name": "BharatGas cylinders",
       "category": "Cooking gas cylinders for homes",
-      "image": "assets/products/bharat-petroleum-bharatgas-cylinders.svg",
-      "url": "https://www.bharatpetroleum.in/bharat-petroleum-ar-25-26/pdf/BPCL_AR%202025-26%20Business%20Verticals.pdf",
-      "kind": "illustration",
-      "alt": "Illustration of a gas cylinder — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/bharat-petroleum-bharatgas-cylinders-photo.webp",
+      "url": "https://www.bharatpetroleum.in/bharat-petroleum-ar-25-26/pdf/BPCL_AR%202025-26%20Business%20Verticals.pdf#page=3",
+      "kind": "photo",
+      "alt": "Red BharatGas cylinders lined up at a filling facility."
     },
     {
       "name": "Aviation fuel",
@@ -78,18 +78,18 @@
     {
       "name": "MAK lubricants",
       "category": "Engine and machine oils",
-      "image": "assets/products/bharat-petroleum-mak-lubricants.svg",
-      "url": "https://www.bharatpetroleum.in/bharat-petroleum-ar-25-26/pdf/BPCL_AR%202025-26%20Business%20Verticals.pdf",
-      "kind": "illustration",
-      "alt": "Illustration of an oil can — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/bharat-petroleum-mak-lubricants-photo.webp",
+      "url": "https://www.bharatpetroleum.in/bharat-petroleum-ar-25-26/pdf/BPCL_AR%202025-26%20Business%20Verticals.pdf#page=4",
+      "kind": "photo",
+      "alt": "Cartons stacked on racks in a lubricant warehouse pictured in Bharat Petroleum’s MAK business review."
     },
     {
       "name": "Refineries",
       "category": "Plants that turn crude oil into fuels",
-      "image": "assets/products/bharat-petroleum-refineries.svg",
-      "url": "https://www.bharatpetroleum.in/bharat-petroleum-ar-25-26/pdf/BPCL_AR%202025-26%20Business%20Verticals.pdf",
-      "kind": "illustration",
-      "alt": "Illustration of a refinery — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/bharat-petroleum-refineries-photo.webp",
+      "url": "https://www.bharatpetroleum.in/bharat-petroleum-ar-25-26/pdf/BPCL_AR%202025-26%20Business%20Verticals.pdf#page=1",
+      "kind": "photo",
+      "alt": "Pipes and processing equipment at a refinery pictured in Bharat Petroleum’s refining business review."
     },
     {
       "name": "BeCafe and In & Out stores",

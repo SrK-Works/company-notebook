@@ -201,25 +201,25 @@
       "name": "Milk & nutrition",
       "category": "Dairy and nutrition product group",
       "url": "https://www.nestle.in/brands/dairy",
-      "image": "assets/products/nestle-business-milk-nutrition.svg",
-      "kind": "illustration",
-      "alt": "Milk & nutrition — conceptual illustration, not a product photograph"
+      "image": "assets/products/nestle-india-nestlenr-p34i11-catalogue.webp",
+      "kind": "pack",
+      "alt": "Nestlé Milkmaid sweetened condensed milk tin"
     },
     {
       "name": "Confectionery",
       "category": "Chocolate, wafers and sugar confectionery",
-      "url": "https://www.nestle.in/info/sitemap",
-      "image": "assets/products/nestle-business-confectionery.svg",
-      "kind": "illustration",
-      "alt": "Confectionery — conceptual illustration, not a product photograph"
+      "url": "https://www.nestle.in/brands/chocolate-and-confectionery",
+      "image": "assets/products/nestle-india-nestlenr-p34i10-catalogue.webp",
+      "kind": "pack",
+      "alt": "Red KitKat chocolate-coated wafer wrapper"
     },
     {
       "name": "Purina PetCare",
       "category": "Pet food · included in Prepared Dishes and Cooking Aids",
-      "url": "https://www.nestle.in/sites/g/files/pydnoa451/files/2026-06/AnnualReport2025-26andAGMNotice.pdf",
-      "image": "assets/products/nestle-business-petcare.svg",
-      "kind": "illustration",
-      "alt": "Purina PetCare — conceptual illustration, not a product photograph"
+      "url": "https://www.purina.in/our-brands/supercoat",
+      "image": "assets/products/nestle-india-purina-catalogue.webp",
+      "kind": "pack",
+      "alt": "Purina Supercoat adult chicken dog food pack"
     },
     {
       "name": "Nestlé Professional",

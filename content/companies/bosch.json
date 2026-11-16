@@ -53,18 +53,18 @@
     {
       "name": "Power tools",
       "category": "Grinders, cutters and other tools for tradespeople and industry",
-      "image": "assets/products/bosch-power-tools.svg",
-      "url": "https://bosch.in/media/our_company/shareholder_information/2026/bosch_annual_report_2025-26.pdf",
-      "kind": "illustration",
-      "alt": "Illustration of an angle grinder — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/bosch-power-tools-catalogue.webp",
+      "url": "https://www.bosch-professional.com/in/en/",
+      "kind": "pack",
+      "alt": "A Bosch cordless drill with a handle, chuck and battery base"
     },
     {
       "name": "Power tool accessories",
       "category": "Add-ons sold for use with power tools",
-      "image": "assets/products/bosch-tool-accessories.svg",
-      "url": "https://bosch.in/media/our_company/shareholder_information/2026/bosch_annual_report_2025-26.pdf",
-      "kind": "illustration",
-      "alt": "Illustration of a cutting disc and a drill bit — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/bosch-tool-accessories-catalogue.webp",
+      "url": "https://www.bosch-professional.com/in/en/",
+      "kind": "pack",
+      "alt": "Bosch drill bits, accessories that fit into the drill"
     },
     {
       "name": "Fire safety systems",

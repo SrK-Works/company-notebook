@@ -61,10 +61,10 @@
     {
       "name": "Marine engines",
       "category": "Engines and generators for ships and boats",
-      "image": "assets/products/cummins-india-marine-engines.svg",
-      "url": "https://cummins.com/sites/default/files/india/Legal/cummins-india_annual-report_2025_26.pdf",
-      "kind": "illustration",
-      "alt": "Illustration of a ship on waves — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/cummins-india-marine-engines-actual.webp",
+      "url": "https://www.cummins.com/en-in/engines/marine",
+      "kind": "pack",
+      "alt": "A red Cummins QSK60 marine engine shown from the side in the product catalogue."
     },
     {
       "name": "Mining trucks",

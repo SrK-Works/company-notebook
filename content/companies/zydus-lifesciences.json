@@ -112,10 +112,10 @@
     {
       "name": "Joint replacement implants",
       "category": "Artificial joint components supplied through Amplitude Surgical",
-      "image": "assets/products/zydus-lifesciences-joint-implants.svg",
-      "url": "https://zyduslife.com/investor/admin/uploads/15/0/May-2026.pdf",
-      "kind": "illustration",
-      "alt": "Illustration of artificial knee joint components; not an image of a specific Amplitude Surgical model"
+      "image": "assets/products/zydus-lifesciences-photo-refresh-anatomic-knee.webp",
+      "url": "https://www.amplitude-ortho.com/en/products/28-anatomic",
+      "kind": "pack",
+      "alt": "Product image of Amplitude Surgical’s Anatomic knee implant, showing the curved upper piece and lower stem"
     }
   ]
 }

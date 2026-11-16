@@ -66,10 +66,11 @@
     {
       "name": "Tata SUVs",
       "category": "Nexon, Punch, Harrier, Safari, Sierra and Curvv",
-      "image": "assets/products/tata-motors-passenger-vehicles-tata-suvs.svg",
-      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b37e4ca4-826d-4b6c-b250-fcdf423e6bc4.pdf",
-      "kind": "illustration",
-      "alt": "A sport utility car — conceptual illustration; not a photograph"
+      "image": "assets/products/reference-suv-photo.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:2023_Tata_Nexon_XZA%2B_front_view.jpg",
+      "kind": "generic",
+      "alt": "Front view of a Tata Nexon SUV, a model in the Tata passenger car range",
+      "credit": "Dairokkan9 · CC BY-SA 4.0 · resized"
     },
     {
       "name": "Tata hatchbacks and sedans",
@@ -98,18 +99,20 @@
     {
       "name": "Range Rover",
       "category": "Luxury SUVs from the Jaguar Land Rover group",
-      "image": "assets/products/tata-motors-passenger-vehicles-range-rover.svg",
-      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b37e4ca4-826d-4b6c-b250-fcdf423e6bc4.pdf",
-      "kind": "illustration",
-      "alt": "A luxury sport utility car with roof rails — conceptual illustration; not a photograph"
+      "image": "assets/products/reference-range-photo.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:2023_Range_Rover.jpg",
+      "kind": "generic",
+      "alt": "A Range Rover parked outdoors, showing the tall, square body shape",
+      "credit": "Calreyn88 · CC BY-SA 4.0 · resized"
     },
     {
       "name": "Defender",
       "category": "Rugged off-road vehicles",
-      "image": "assets/products/tata-motors-passenger-vehicles-defender.svg",
-      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b37e4ca4-826d-4b6c-b250-fcdf423e6bc4.pdf",
-      "kind": "illustration",
-      "alt": "A boxy off-road vehicle with a spare wheel on the back — conceptual illustration; not a photograph"
+      "image": "assets/products/reference-defender-photo.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:Land_Rover_Defender_110_2023.jpg",
+      "kind": "generic",
+      "alt": "A Land Rover Defender 110, photographed from the front and side",
+      "credit": "Ethan Llamas · CC BY-SA 4.0 · resized"
     },
     {
       "name": "Discovery",
@@ -122,10 +125,11 @@
     {
       "name": "Jaguar",
       "category": "Luxury cars, with a new electric model planned",
-      "image": "assets/products/tata-motors-passenger-vehicles-jaguar.svg",
-      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b37e4ca4-826d-4b6c-b250-fcdf423e6bc4.pdf",
-      "kind": "illustration",
-      "alt": "A low sleek sports car — conceptual illustration; not a photograph"
+      "image": "assets/products/reference-jaguar-photo.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:2023_Jaguar_F-Pace_SVR_AWD_Auto.jpg",
+      "kind": "generic",
+      "alt": "A Jaguar F-Pace SUV, pictured in front three-quarter view",
+      "credit": "Calreyn88 · CC BY 4.0 · resized"
     }
   ]
 }

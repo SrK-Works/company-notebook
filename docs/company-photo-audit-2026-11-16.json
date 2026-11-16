@@ -1,0 +1,610 @@
+{
+  "reviewed": "2026-11-16",
+  "method": "Counted visuals in every company record and replaced illustrations where a useful, attributable product image or photograph could be verified. Remaining illustrations include abstract processes and offerings for which a sufficiently clear and accurate photo was not verified in this pass.",
+  "profiles": 100,
+  "profilesUpdated": 35,
+  "visualsReplaced": 97,
+  "illustrationsReplaced": 92,
+  "byCompany": [
+    {
+      "id": "abb-india",
+      "illustrationsBefore": 9,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 9
+    },
+    {
+      "id": "adani-enterprises",
+      "illustrationsBefore": 1,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 1
+    },
+    {
+      "id": "adani-ports",
+      "illustrationsBefore": 0,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 0
+    },
+    {
+      "id": "apollo-hospitals",
+      "illustrationsBefore": 7,
+      "visualsReplaced": 1,
+      "illustrationsRemaining": 6
+    },
+    {
+      "id": "asian-paints",
+      "illustrationsBefore": 0,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 0
+    },
+    {
+      "id": "avenue-supermarts",
+      "illustrationsBefore": 8,
+      "visualsReplaced": 1,
+      "illustrationsRemaining": 7
+    },
+    {
+      "id": "axis-bank",
+      "illustrationsBefore": 0,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 0
+    },
+    {
+      "id": "bajaj-auto",
+      "illustrationsBefore": 2,
+      "visualsReplaced": 2,
+      "illustrationsRemaining": 0
+    },
+    {
+      "id": "bajaj-finance",
+      "illustrationsBefore": 5,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 5
+    },
+    {
+      "id": "bajaj-finserv",
+      "illustrationsBefore": 8,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 8
+    },
+    {
+      "id": "bank-of-baroda",
+      "illustrationsBefore": 9,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 9
+    },
+    {
+      "id": "bharat-coking-coal",
+      "illustrationsBefore": 6,
+      "visualsReplaced": 1,
+      "illustrationsRemaining": 5
+    },
+    {
+      "id": "bharat-electronics",
+      "illustrationsBefore": 6,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 6
+    },
+    {
+      "id": "bharat-petroleum",
+      "illustrationsBefore": 9,
+      "visualsReplaced": 4,
+      "illustrationsRemaining": 5
+    },
+    {
+      "id": "bharti-airtel",
+      "illustrationsBefore": 4,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 4
+    },
+    {
+      "id": "bosch",
+      "illustrationsBefore": 8,
+      "visualsReplaced": 2,
+      "illustrationsRemaining": 6
+    },
+    {
+      "id": "britannia",
+      "illustrationsBefore": 3,
+      "visualsReplaced": 3,
+      "illustrationsRemaining": 0
+    },
+    {
+      "id": "bse",
+      "illustrationsBefore": 7,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 7
+    },
+    {
+      "id": "canara-bank",
+      "illustrationsBefore": 8,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 8
+    },
+    {
+      "id": "cholamandalam-investment-and-finance",
+      "illustrationsBefore": 8,
+      "visualsReplaced": 1,
+      "illustrationsRemaining": 7
+    },
+    {
+      "id": "cipla",
+      "illustrationsBefore": 5,
+      "visualsReplaced": 1,
+      "illustrationsRemaining": 4
+    },
+    {
+      "id": "coal-india",
+      "illustrationsBefore": 0,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 0
+    },
+    {
+      "id": "cummins-india",
+      "illustrationsBefore": 8,
+      "visualsReplaced": 1,
+      "illustrationsRemaining": 7
+    },
+    {
+      "id": "delhivery",
+      "illustrationsBefore": 0,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 0
+    },
+    {
+      "id": "divis-laboratories",
+      "illustrationsBefore": 7,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 7
+    },
+    {
+      "id": "dlf",
+      "illustrationsBefore": 8,
+      "visualsReplaced": 5,
+      "illustrationsRemaining": 3
+    },
+    {
+      "id": "dr-reddys",
+      "illustrationsBefore": 8,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 8
+    },
+    {
+      "id": "eicher-motors",
+      "illustrationsBefore": 0,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 0
+    },
+    {
+      "id": "eternal",
+      "illustrationsBefore": 0,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 0
+    },
+    {
+      "id": "fredun-pharmaceuticals",
+      "illustrationsBefore": 5,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 5
+    },
+    {
+      "id": "gail",
+      "illustrationsBefore": 8,
+      "visualsReplaced": 1,
+      "illustrationsRemaining": 7
+    },
+    {
+      "id": "genus-power",
+      "illustrationsBefore": 1,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 1
+    },
+    {
+      "id": "glass-wall-systems",
+      "illustrationsBefore": 3,
+      "visualsReplaced": 2,
+      "illustrationsRemaining": 2
+    },
+    {
+      "id": "godrej-consumer-products",
+      "illustrationsBefore": 9,
+      "visualsReplaced": 1,
+      "illustrationsRemaining": 8
+    },
+    {
+      "id": "grasim",
+      "illustrationsBefore": 8,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 8
+    },
+    {
+      "id": "hal",
+      "illustrationsBefore": 8,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 8
+    },
+    {
+      "id": "hcg",
+      "illustrationsBefore": 2,
+      "visualsReplaced": 2,
+      "illustrationsRemaining": 1
+    },
+    {
+      "id": "hcltech",
+      "illustrationsBefore": 4,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 4
+    },
+    {
+      "id": "hdfc-asset-management",
+      "illustrationsBefore": 8,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 8
+    },
+    {
+      "id": "hdfc-bank",
+      "illustrationsBefore": 0,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 0
+    },
+    {
+      "id": "hdfc-life",
+      "illustrationsBefore": 7,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 7
+    },
+    {
+      "id": "hfcl",
+      "illustrationsBefore": 0,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 0
+    },
+    {
+      "id": "hindalco",
+      "illustrationsBefore": 1,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 1
+    },
+    {
+      "id": "hindustan-unilever",
+      "illustrationsBefore": 0,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 0
+    },
+    {
+      "id": "hyundai-motor-india",
+      "illustrationsBefore": 9,
+      "visualsReplaced": 8,
+      "illustrationsRemaining": 1
+    },
+    {
+      "id": "icici-bank",
+      "illustrationsBefore": 0,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 0
+    },
+    {
+      "id": "indian-oil",
+      "illustrationsBefore": 9,
+      "visualsReplaced": 4,
+      "illustrationsRemaining": 5
+    },
+    {
+      "id": "indian-railway-finance-corporation",
+      "illustrationsBefore": 4,
+      "visualsReplaced": 2,
+      "illustrationsRemaining": 2
+    },
+    {
+      "id": "indigo",
+      "illustrationsBefore": 1,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 1
+    },
+    {
+      "id": "infosys",
+      "illustrationsBefore": 8,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 8
+    },
+    {
+      "id": "ireda",
+      "illustrationsBefore": 0,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 0
+    },
+    {
+      "id": "itc",
+      "illustrationsBefore": 4,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 4
+    },
+    {
+      "id": "jio-financial-services",
+      "illustrationsBefore": 8,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 8
+    },
+    {
+      "id": "jsw-steel",
+      "illustrationsBefore": 0,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 0
+    },
+    {
+      "id": "kanohar-electricals",
+      "illustrationsBefore": 0,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 0
+    },
+    {
+      "id": "kotak-mahindra-bank",
+      "illustrationsBefore": 1,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 1
+    },
+    {
+      "id": "larsen-and-toubro",
+      "illustrationsBefore": 0,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 0
+    },
+    {
+      "id": "mahindra-and-mahindra",
+      "illustrationsBefore": 0,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 0
+    },
+    {
+      "id": "marico",
+      "illustrationsBefore": 0,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 0
+    },
+    {
+      "id": "maruti-suzuki",
+      "illustrationsBefore": 0,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 0
+    },
+    {
+      "id": "max-healthcare",
+      "illustrationsBefore": 1,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 1
+    },
+    {
+      "id": "milky-mist",
+      "illustrationsBefore": 0,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 0
+    },
+    {
+      "id": "muthoot-finance",
+      "illustrationsBefore": 7,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 7
+    },
+    {
+      "id": "nestle-india",
+      "illustrationsBefore": 4,
+      "visualsReplaced": 3,
+      "illustrationsRemaining": 1
+    },
+    {
+      "id": "ntpc",
+      "illustrationsBefore": 8,
+      "visualsReplaced": 5,
+      "illustrationsRemaining": 3
+    },
+    {
+      "id": "ongc",
+      "illustrationsBefore": 0,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 0
+    },
+    {
+      "id": "parag-milk-foods",
+      "illustrationsBefore": 0,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 0
+    },
+    {
+      "id": "park-medi-world",
+      "illustrationsBefore": 0,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 0
+    },
+    {
+      "id": "pidilite-industries",
+      "illustrationsBefore": 8,
+      "visualsReplaced": 6,
+      "illustrationsRemaining": 2
+    },
+    {
+      "id": "polycab-india",
+      "illustrationsBefore": 10,
+      "visualsReplaced": 8,
+      "illustrationsRemaining": 2
+    },
+    {
+      "id": "power-finance-corporation",
+      "illustrationsBefore": 3,
+      "visualsReplaced": 3,
+      "illustrationsRemaining": 0
+    },
+    {
+      "id": "power-grid",
+      "illustrationsBefore": 8,
+      "visualsReplaced": 1,
+      "illustrationsRemaining": 7
+    },
+    {
+      "id": "punjab-national-bank",
+      "illustrationsBefore": 7,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 7
+    },
+    {
+      "id": "rainbow-childrens-medicare",
+      "illustrationsBefore": 3,
+      "visualsReplaced": 2,
+      "illustrationsRemaining": 2
+    },
+    {
+      "id": "refex-industries",
+      "illustrationsBefore": 3,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 3
+    },
+    {
+      "id": "reliance-industries",
+      "illustrationsBefore": 0,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 0
+    },
+    {
+      "id": "rentomojo",
+      "illustrationsBefore": 0,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 0
+    },
+    {
+      "id": "sbi-life",
+      "illustrationsBefore": 7,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 7
+    },
+    {
+      "id": "shriram-finance",
+      "illustrationsBefore": 8,
+      "visualsReplaced": 1,
+      "illustrationsRemaining": 7
+    },
+    {
+      "id": "siemens",
+      "illustrationsBefore": 7,
+      "visualsReplaced": 1,
+      "illustrationsRemaining": 6
+    },
+    {
+      "id": "state-bank-of-india",
+      "illustrationsBefore": 8,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 8
+    },
+    {
+      "id": "sun-pharma",
+      "illustrationsBefore": 4,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 4
+    },
+    {
+      "id": "swiggy",
+      "illustrationsBefore": 4,
+      "visualsReplaced": 3,
+      "illustrationsRemaining": 3
+    },
+    {
+      "id": "tata-capital",
+      "illustrationsBefore": 7,
+      "visualsReplaced": 1,
+      "illustrationsRemaining": 6
+    },
+    {
+      "id": "tata-consumer-products",
+      "illustrationsBefore": 0,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 0
+    },
+    {
+      "id": "tata-motors-passenger-vehicles",
+      "illustrationsBefore": 8,
+      "visualsReplaced": 4,
+      "illustrationsRemaining": 4
+    },
+    {
+      "id": "tata-power",
+      "illustrationsBefore": 9,
+      "visualsReplaced": 1,
+      "illustrationsRemaining": 8
+    },
+    {
+      "id": "tata-steel",
+      "illustrationsBefore": 0,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 0
+    },
+    {
+      "id": "tcs",
+      "illustrationsBefore": 8,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 8
+    },
+    {
+      "id": "tech-mahindra",
+      "illustrationsBefore": 8,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 8
+    },
+    {
+      "id": "titan-company",
+      "illustrationsBefore": 0,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 0
+    },
+    {
+      "id": "tonbo-imaging",
+      "illustrationsBefore": 8,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 8
+    },
+    {
+      "id": "torrent-pharmaceuticals",
+      "illustrationsBefore": 8,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 8
+    },
+    {
+      "id": "trent",
+      "illustrationsBefore": 0,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 0
+    },
+    {
+      "id": "tvs-motor",
+      "illustrationsBefore": 9,
+      "visualsReplaced": 7,
+      "illustrationsRemaining": 2
+    },
+    {
+      "id": "ultratech-cement",
+      "illustrationsBefore": 4,
+      "visualsReplaced": 3,
+      "illustrationsRemaining": 1
+    },
+    {
+      "id": "union-bank-of-india",
+      "illustrationsBefore": 7,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 7
+    },
+    {
+      "id": "varun-beverages",
+      "illustrationsBefore": 8,
+      "visualsReplaced": 5,
+      "illustrationsRemaining": 3
+    },
+    {
+      "id": "wipro",
+      "illustrationsBefore": 8,
+      "visualsReplaced": 0,
+      "illustrationsRemaining": 8
+    },
+    {
+      "id": "zydus-lifesciences",
+      "illustrationsBefore": 3,
+      "visualsReplaced": 1,
+      "illustrationsRemaining": 2
+    }
+  ]
+}

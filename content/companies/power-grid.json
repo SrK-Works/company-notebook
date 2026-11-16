@@ -64,10 +64,10 @@
     {
       "name": "Interstate transmission",
       "category": "Moving electricity between states",
-      "image": "assets/products/power-grid-interstate-transmission.svg",
-      "url": "https://www.powergrid.in/en/company-overview",
-      "kind": "illustration",
-      "alt": "Interstate transmission — conceptual grid illustration; not a photograph or product screenshot"
+      "image": "assets/products/power-grid-interstate-transmission-photo.webp",
+      "url": "https://powergrid.in/en/photo-gallery-list/377",
+      "kind": "photo",
+      "alt": "A row of POWERGRID’s high-voltage transmission towers carries electricity across open land."
     },
     {
       "name": "HVDC transmission",

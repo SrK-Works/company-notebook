@@ -30,58 +30,58 @@
     {
       "name": "Motorcycles",
       "category": "Commuter and sports motorcycles such as Apache and Raider",
-      "image": "assets/products/tvs-motor-motorcycles.svg",
-      "url": "https://www.tvsmotor.com/ar-25-26/pdf/2.%20Company%20Overview/02.%20Products%20and%20Services.pdf",
-      "kind": "illustration",
-      "alt": "Illustration of a motorcycle — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/tvs-motor-motorcycles-catalogue.webp",
+      "url": "https://www.tvsmotor.com",
+      "kind": "pack",
+      "alt": "TVS Apache RTR 180 motorcycle from the official model catalogue"
     },
     {
       "name": "Scooters",
       "category": "Scooters such as Jupiter and NTORQ",
-      "image": "assets/products/tvs-motor-scooters.svg",
-      "url": "https://www.tvsmotor.com/ar-25-26/pdf/2.%20Company%20Overview/02.%20Products%20and%20Services.pdf",
-      "kind": "illustration",
-      "alt": "Illustration of a scooter — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/tvs-motor-scooters-catalogue.webp",
+      "url": "https://www.tvsmotor.com",
+      "kind": "pack",
+      "alt": "TVS Jupiter scooter from the official model catalogue"
     },
     {
       "name": "Electric scooters",
       "category": "Battery scooters such as iQube and Orbiter",
-      "image": "assets/products/tvs-motor-electric-scooters.svg",
-      "url": "https://www.tvsmotor.com/ar-25-26/pdf/2.%20Company%20Overview/02.%20Products%20and%20Services.pdf",
-      "kind": "illustration",
-      "alt": "Illustration of an electric scooter — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/tvs-motor-electric-scooters-catalogue.webp",
+      "url": "https://www.tvsmotor.com",
+      "kind": "pack",
+      "alt": "TVS iQube electric scooter from the official model catalogue"
     },
     {
       "name": "Mopeds",
       "category": "Low-cost mopeds such as XL100",
-      "image": "assets/products/tvs-motor-mopeds.svg",
-      "url": "https://www.tvsmotor.com/ar-25-26/pdf/2.%20Company%20Overview/02.%20Products%20and%20Services.pdf",
-      "kind": "illustration",
-      "alt": "Illustration of a moped — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/tvs-motor-mopeds-catalogue.webp",
+      "url": "https://www.tvsmotor.com",
+      "kind": "pack",
+      "alt": "TVS XL100 moped from the official model catalogue"
     },
     {
       "name": "Three-wheelers",
       "category": "Three-wheeled vehicles for passengers and cargo",
-      "image": "assets/products/tvs-motor-three-wheelers.svg",
-      "url": "https://www.tvsmotor.com/ar-25-26/pdf/2.%20Company%20Overview/02.%20Products%20and%20Services.pdf",
-      "kind": "illustration",
-      "alt": "Illustration of a three-wheeler — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/tvs-motor-three-wheelers-catalogue.webp",
+      "url": "https://www.tvsmotor.com",
+      "kind": "pack",
+      "alt": "TVS King three-wheeler from the official model catalogue"
     },
     {
       "name": "Premium sport bikes",
       "category": "Higher-performance Apache motorcycles",
-      "image": "assets/products/tvs-motor-premium-sport-bikes.svg",
-      "url": "https://www.tvsmotor.com/ar-25-26/pdf/2.%20Company%20Overview/02.%20Products%20and%20Services.pdf",
-      "kind": "illustration",
-      "alt": "Illustration of a sport motorcycle — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/tvs-motor-premium-sport-bikes-catalogue.webp",
+      "url": "https://www.tvsmotor.com",
+      "kind": "pack",
+      "alt": "TVS Apache RR 310 sport motorcycle from the company’s official Apache model page"
     },
     {
       "name": "Norton",
       "category": "British premium motorcycles owned by TVS",
-      "image": "assets/products/tvs-motor-norton.svg",
-      "url": "https://www.tvsmotor.com/ar-25-26/pdf/2.%20Company%20Overview/02.%20Products%20and%20Services.pdf",
-      "kind": "illustration",
-      "alt": "Illustration of a classic motorcycle — conceptual picture; not a photograph or the company’s own image"
+      "image": "assets/products/tvs-motor-norton-catalogue.webp",
+      "url": "https://www.nortonmotorcycles.com/en-gb/model/manx",
+      "kind": "pack",
+      "alt": "Norton Manx motorcycle from Norton’s official model page"
     },
     {
       "name": "Exports",

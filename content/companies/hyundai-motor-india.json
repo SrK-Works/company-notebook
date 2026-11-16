@@ -65,66 +65,66 @@
     {
       "name": "Creta",
       "category": "A mid-size SUV (sport utility vehicle)",
-      "image": "assets/products/hyundai-motor-india-creta.svg",
-      "url": "https://hyundai.com/content/dam/hyundai/in/en/data/investor-relations/annual-report-fy-25-26.pdf",
-      "kind": "illustration",
-      "alt": "A sport utility vehicle with roof rails seen from the side — conceptual illustration; not a photograph"
+      "image": "assets/products/hyundai-motor-india-creta-catalogue.webp",
+      "url": "https://www.hyundai.com/in/en/find-a-car/creta/highlights",
+      "kind": "pack",
+      "alt": "Hyundai Creta from Hyundai India’s model catalogue"
     },
     {
       "name": "Venue",
       "category": "A compact SUV",
-      "image": "assets/products/hyundai-motor-india-venue.svg",
-      "url": "https://hyundai.com/content/dam/hyundai/in/en/data/investor-relations/annual-report-fy-25-26.pdf",
-      "kind": "illustration",
-      "alt": "A short, tall sport utility vehicle seen from the side — conceptual illustration; not a photograph"
+      "image": "assets/products/hyundai-motor-india-venue-catalogue.webp",
+      "url": "https://www.hyundai.com/in/en/find-a-car/venue/highlights",
+      "kind": "pack",
+      "alt": "Hyundai Venue from Hyundai India’s model catalogue"
     },
     {
       "name": "Exter",
       "category": "A small SUV",
-      "image": "assets/products/hyundai-motor-india-exter.svg",
-      "url": "https://hyundai.com/content/dam/hyundai/in/en/data/investor-relations/annual-report-fy-25-26.pdf",
-      "kind": "illustration",
-      "alt": "A small boxy sport utility vehicle seen from the side — conceptual illustration; not a photograph"
+      "image": "assets/products/hyundai-motor-india-exter-catalogue.webp",
+      "url": "https://www.hyundai.com/in/en/find-a-car/exter/highlights",
+      "kind": "pack",
+      "alt": "Hyundai Exter from Hyundai India’s model catalogue"
     },
     {
       "name": "Alcazar",
       "category": "A larger SUV, described in the report as a premium 7-seater",
-      "image": "assets/products/hyundai-motor-india-alcazar.svg",
-      "url": "https://hyundai.com/content/dam/hyundai/in/en/data/investor-relations/annual-report-fy-25-26.pdf",
-      "kind": "illustration",
-      "alt": "A long sport utility vehicle with three side windows seen from the side — conceptual illustration; not a photograph"
+      "image": "assets/products/hyundai-motor-india-alcazar-catalogue.webp",
+      "url": "https://www.hyundai.com/in/en/find-a-car/alcazar/highlights",
+      "kind": "pack",
+      "alt": "Hyundai Alcazar from Hyundai India’s model catalogue"
     },
     {
       "name": "Verna",
       "category": "A sedan, a car with a separate boot",
-      "image": "assets/products/hyundai-motor-india-verna.svg",
-      "url": "https://hyundai.com/content/dam/hyundai/in/en/data/investor-relations/annual-report-fy-25-26.pdf",
-      "kind": "illustration",
-      "alt": "A sedan seen from the side — conceptual illustration; not a photograph"
+      "image": "assets/products/hyundai-motor-india-verna-catalogue.webp",
+      "url": "https://www.hyundai.com/in/en/find-a-car/verna/highlights",
+      "kind": "pack",
+      "alt": "Hyundai Verna from Hyundai India’s model catalogue"
     },
     {
       "name": "i20",
       "category": "A hatchback, a small car with a sloping rear",
-      "image": "assets/products/hyundai-motor-india-i20.svg",
-      "url": "https://hyundai.com/content/dam/hyundai/in/en/data/investor-relations/annual-report-fy-25-26.pdf",
-      "kind": "illustration",
-      "alt": "A hatchback car seen from the side — conceptual illustration; not a photograph"
+      "image": "assets/products/hyundai-motor-india-i20-catalogue.webp",
+      "url": "https://www.hyundai.com/in/en/find-a-car/i20/highlights",
+      "kind": "pack",
+      "alt": "Hyundai i20 from Hyundai India’s model catalogue"
     },
     {
       "name": "Electric cars",
       "category": "Creta Electric and Ioniq 5",
-      "image": "assets/products/hyundai-motor-india-electric-cars.svg",
-      "url": "https://hyundai.com/content/dam/hyundai/in/en/data/investor-relations/annual-report-fy-25-26.pdf",
-      "kind": "illustration",
-      "alt": "A car connected to a charging cable — conceptual illustration; not a photograph"
+      "image": "assets/products/hyundai-motor-india-electric-cars-catalogue.webp",
+      "url": "https://www.hyundai.com/in/en/find-a-car/creta-electric/highlights",
+      "kind": "pack",
+      "alt": "Hyundai Creta Electric from Hyundai India’s model catalogue"
     },
     {
       "name": "Prime taxi range",
       "category": "Hatchback and sedan for taxi fleets, with factory-fitted CNG (compressed natural gas)",
-      "image": "assets/products/hyundai-motor-india-prime-taxis.svg",
-      "url": "https://hyundai.com/content/dam/hyundai/in/en/data/investor-relations/annual-report-fy-25-26.pdf",
-      "kind": "illustration",
-      "alt": "A sedan with a taxi sign on the roof — conceptual illustration; not a photograph"
+      "image": "assets/products/hyundai-motor-india-prime-taxis-catalogue.webp",
+      "url": "https://www.hyundai.com/in/en/find-a-car",
+      "kind": "pack",
+      "alt": "Hyundai Prime SD taxi from Hyundai India’s model catalogue"
     },
     {
       "name": "Exports",

@@ -56,7 +56,7 @@
       "Cipla Ltd",
       "Cipla Ltd."
     ],
-    "productNote": "Product families named in Cipla's 2025–26 integrated annual report. Consumer health brands are sold by Cipla Health Limited, a subsidiary. The annual report has no usable product or plant photographs, so two pictures are openly licensed Wikimedia Commons product photographs and the rest are labelled illustrations.",
+    "productNote": "Selected product families. Cipladine is sold by Cipla Health Limited, a subsidiary. Images include official product visuals, openly licensed Wikimedia Commons product photographs and labelled illustrations.",
     "checked": "12 November 2026",
     "reviewed": "12 November 2026"
   },
@@ -88,10 +88,10 @@
     {
       "name": "Consumer health brands",
       "category": "Pain gels, antiseptics and cough lozenges bought from a chemist",
-      "image": "assets/products/cipla-consumer-health.svg",
-      "url": "https://www.cipla.com/investors/annual-reports",
-      "kind": "illustration",
-      "alt": "A tube and a small bottle on a shelf — conceptual illustration; not a photograph"
+      "image": "assets/products/cipla-photo-refresh-cipladine.webp",
+      "url": "https://www.ciplahealth.in/brand/cipladine",
+      "kind": "pack",
+      "alt": "Official Cipladine product display showing antiseptic bottles and ointment packs"
     },
     {
       "name": "Medicines abroad",

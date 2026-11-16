@@ -124,3 +124,7 @@ footer{border-top:1px solid var(--line);margin-top:24px}
  .bar nav a{white-space:nowrap}
  main{padding:40px 16px 64px}
  .foot-inner{flex-direction:column;padding:32px 16px 40px}.foot-inner .foot-note{text-align:left}}@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.reveal{opacity:1;transform:none;transition:none}}
+
+/* Keep complete product images visible above mosaic captions. */
+.sp-tile.sp-tile-pack{background:#f5f3ef}
+.sp-tile-pack img{object-fit:contain;padding:10px 10px 42px}

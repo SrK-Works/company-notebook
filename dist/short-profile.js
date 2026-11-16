@@ -5,14 +5,16 @@ window.shortProfile=(()=>{
  const applies=c=>!!lesson(c);
  const render=(c,h)=>{
   const {safe,mono,saveButton,profileSources}=h,l=lesson(c);
-  const photos=(window.PRODUCT_VISUALS?.[c.id]||[]).filter(p=>p.kind==='photo');
+  const offerings=window.PRODUCT_VISUALS?.[c.id]||[];
+  const photos=offerings.filter(p=>p.kind==='photo');
+  const extraVisuals=offerings.filter(p=>p.kind==='generic'||p.kind==='pack');
   const block=({title,text})=>`<div><h4>${safe(title)}</h4><p>${safe(text)}</p></div>`;
   // A worked example with made-up numbers, always labelled so it cannot be mistaken for the company's figures.
   // When the text is several sentences (a set of numbers), the first sentence leads and the rest become short lines.
   const madeUp=({title,text})=>{const parts=String(text).split(/(?<=[.!?])\s+/).filter(Boolean);const body=parts.length>=4?`<p>${safe(parts[0])}</p><ul>${parts.slice(1).map(x=>`<li>${safe(x)}</li>`).join('')}</ul>`:`<p>${safe(text)}</p>`;return `<aside class="primer-illustration"><div class="primer-illustration-label">Illustration · made-up numbers, not the company’s figures</div><h4>${safe(title)}</h4>${body}</aside>`};
-  const tile=(p,i)=>`<a class="sp-tile${i===0?' sp-tile-lead':''}${i>=5?' sp-tile-wide':''}" href="${safe(p.url)}" target="_blank" rel="noopener"><img src="${safe(p.image)}" alt="${safe(p.alt)}" loading="${i<2?'eager':'lazy'}" decoding="async"><span class="sp-cap"><strong>${safe(p.name)}</strong><span>${safe(p.category)}</span></span></a>`;
+  const tile=(p,i)=>`<a class="sp-tile${i===0?' sp-tile-lead':''}${i>=5?' sp-tile-wide':''}${p.kind==='pack'?' sp-tile-pack':''}" href="${safe(p.url)}" target="_blank" rel="noopener"><img src="${safe(p.image)}" alt="${safe(p.alt)}" loading="${i<2?'eager':'lazy'}" decoding="async"><span class="sp-cap"><strong>${safe(p.name)}</strong><span>${safe(p.category)}</span>${p.kind==='pack'?'<span>Product image</span>':p.kind==='generic'?`<span>Representative photo${p.credit?` · ${safe(p.credit)}`: ''}</span>`:''}</span></a>`;
   const products=c.products||[];
-  const visuals=photos.length>=5?`<section class="sp-photos" aria-label="What ${safe(c.name)} does, in photos"><div class="sp-grid">${photos.map(tile).join('')}</div><p class="source-note">Photographs from the company’s own published material (select a photo to open its source), chosen to show the kind of work. They are not a complete list of services.</p></section>`:(window.productShelf?.render(c)||'');
+  const visuals=photos.length>=5?`<section class="sp-photos" aria-label="What ${safe(c.name)} offers, in pictures"><div class="sp-grid">${[...photos,...extraVisuals].map(tile).join('')}</div><p class="source-note">Selected company photos and product images, with independent examples labelled. Open an image to see its source.</p></section>`:(window.productShelf?.render(c)||'');
   const older=window.FIGURE_WALKTHROUGHS?.[c.id]?.()||'';
   const deeper=[
    ['The main products and services',`<div class="sp-blocks">${l.groups.map(g=>`<div><h4>${safe(g.title)}</h4><p><strong>What the customer gets:</strong> ${safe(g.examples)}</p><p>${safe(g.explanation)}</p></div>`).join('')}</div>`],

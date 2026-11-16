@@ -89,10 +89,11 @@
     {
       "name": "Hydropower loans",
       "category": "Finance projects that use moving water to generate electricity",
-      "image": "assets/products/power-finance-corporation-hydro.svg",
-      "kind": "illustration",
-      "url": "https://pfcindia.co.in/ensite/DocumentRepository/ckfinder/files/Investors/Annual_Reports/PFC_AR%202025_C2C%20design_v14_06082025.PDF",
-      "alt": "Water beside a dam — conceptual illustration; not a photograph"
+      "image": "assets/products/power-finance-corporation-hydro-photo.webp",
+      "kind": "generic",
+      "url": "https://commons.wikimedia.org/wiki/File:The_Tehri_Dam.jpg",
+      "alt": "The Tehri Dam and its reservoir; example photo, not a verified PFC-financed asset.",
+      "credit": "Yogendra singh negi · Wikimedia Commons · CC BY-SA 4.0 · resized"
     },
     {
       "name": "Transmission project loans",
@@ -106,18 +107,20 @@
     {
       "name": "Distribution loans",
       "category": "Finance local electricity companies and network work",
-      "image": "assets/products/power-finance-corporation-distribution.svg",
-      "kind": "illustration",
-      "url": "https://pfcindia.co.in/ensite/DocumentRepository/ckfinder/files/Investors/Annual_Reports/PFC_AR%202025_C2C%20design_v14_06082025.PDF",
-      "alt": "Power lines supplying a home — conceptual illustration; not a photograph"
+      "image": "assets/products/power-finance-corporation-distribution-photo.webp",
+      "kind": "generic",
+      "url": "https://commons.wikimedia.org/wiki/File:Three_phase_distribution_transformer_Bhoodha_Ka_Bas.JPG",
+      "alt": "A distribution transformer mounted between poles; example photo, not a verified PFC-financed asset.",
+      "credit": "Chu86happychu · Wikimedia Commons · CC BY-SA 4.0 · resized"
     },
     {
       "name": "Infrastructure and logistics loans",
       "category": "Fund eligible infrastructure and goods-movement projects beyond the power sector",
-      "image": "assets/products/power-finance-corporation-infrastructure.svg",
-      "kind": "illustration",
-      "url": "https://www.pfcindia.co.in/ensite/DocumentRepository/ckfinder/files/Investors/Tranche_Prospectus2025-2026.pdf",
-      "alt": "Freight containers and a truck — conceptual illustration; not a photograph"
+      "image": "assets/products/power-finance-corporation-infrastructure-photo.webp",
+      "kind": "generic",
+      "url": "https://commons.wikimedia.org/wiki/File:Chennai_Container_Terminal_-_panoramio_(3).jpg",
+      "alt": "Cranes move shipping containers at Chennai Container Terminal; example photo, not a verified PFC-financed asset.",
+      "credit": "raguleo · Wikimedia Commons · CC BY 3.0 · resized"
     }
   ]
 }

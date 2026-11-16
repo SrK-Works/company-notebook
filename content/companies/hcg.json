@@ -46,7 +46,7 @@
     ],
     "sources": [],
     "productSource": "https://www.hcgoncology.com/annual-reports/",
-    "productNote": "Services reviewed on HCG’s annual report and results release on 31 October 2026. Pictures of scans, radiation, surgery, chemotherapy, the hospital and follow-up care are from HCG’s own website. The overseas-patients and fertility cards remain labelled original illustrations. The fertility business was sold in June 2026.",
+    "productNote": "The images come from HCG’s site or its Nairobi centre page; the radiation machine is official product artwork. Milann fertility treatment is shown as an illustration and refers to a business sold in June 2026.",
     "checked": "31 Oct 2026",
     "reviewed": "31 October 2026",
     "aliases": [
@@ -69,10 +69,10 @@
     {
       "name": "Radiation treatment",
       "category": "Machine-guided radiation for cancer",
-      "image": "assets/products/hcg-radiation-treatment.webp",
-      "url": "https://www.hcgoncology.com/",
-      "kind": "photo",
-      "alt": "Radiation treatment — official company image"
+      "image": "assets/products/hcg-photo-refresh-cyberknife-s7.webp",
+      "url": "https://www.hcghospitals.com/bangalore/treatment-technology/cyberknife-s7-treatment",
+      "kind": "pack",
+      "alt": "Official product image of the CyberKnife S7, a robotic machine used to deliver radiation"
     },
     {
       "name": "Cancer surgery, including robotic surgery",
@@ -101,10 +101,10 @@
     {
       "name": "Overseas patients and the Nairobi centre",
       "category": "Care for patients from other countries",
-      "image": "assets/products/hcg-overseas-patients-and-the-nairobi-centre.svg",
-      "url": "https://www.hcgoncology.com/annual-reports/",
-      "kind": "illustration",
-      "alt": "Overseas patients and the Nairobi centre — conceptual illustration, not a product photograph"
+      "image": "assets/products/hcg-photo-refresh-nairobi-treatment-suite.webp",
+      "url": "https://www.hcghospitals.com/our-centres/hcg-cck-cancer-centre-parklands-nairobi",
+      "kind": "photo",
+      "alt": "HCG Nairobi centre page image of a brachytherapy suite with treatment table and equipment"
     },
     {
       "name": "Cancer follow-up and survivorship care",

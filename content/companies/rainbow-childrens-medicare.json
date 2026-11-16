@@ -77,7 +77,7 @@
     ],
     "sources": [],
     "productSource": "https://www.rainbowhospitals.in/",
-    "productNote": "Major offering families reviewed on 27 October 2026. Variants, locations and individual models are grouped; availability can vary.",
+    "productNote": "Selected services. The children’s hospital interior and neonatal unit are from Rainbow’s filings. Other photos on this shelf illustrate the kind of service and do not identify particular patients or facilities.",
     "checked": "27 Oct 2026",
     "reviewed": "27 October 2026",
     "aliases": [
@@ -91,10 +91,10 @@
     {
       "name": "Rainbow Children’s Hospital",
       "category": "Paediatric hospital services",
-      "image": "assets/products/rainbow-childrens-medicare-visual-18.webp",
-      "url": "https://www.rainbowhospitals.in/",
+      "image": "assets/products/rainbow-childrens-medicare-photo-refresh-pediatric-interior.webp",
+      "url": "https://www.rainbowhospitals.in/centre-of-excellence/children-care-hospital",
       "kind": "photo",
-      "alt": "Rainbow Children’s Hospital — image from the official company website"
+      "alt": "A child-friendly Rainbow Children’s Hospital interior with a brightly decorated ceiling and two reception desks"
     },
     {
       "name": "BirthRight by Rainbow",
@@ -123,10 +123,10 @@
     {
       "name": "Neonatal intensive care",
       "category": "Care for newborns",
-      "image": "assets/products/rainbow-childrens-medicare-neonatal-intensive-care.svg",
-      "url": "https://www.rainbowhospitals.in/",
-      "kind": "illustration",
-      "alt": "Neonatal intensive care — conceptual illustration, not a product photograph"
+      "image": "assets/products/rainbow-childrens-medicare-photo-refresh-infant-incubators.webp",
+      "url": "https://www.rainbowhospitals.in/children-care-hospital/speciality/neonatal-intensive-care-unit-hospital",
+      "kind": "photo",
+      "alt": "Newborn incubators and bedside equipment in a Rainbow neonatal care room shown in its investor presentation"
     },
     {
       "name": "Paediatric cardiology and cardiac surgery",
