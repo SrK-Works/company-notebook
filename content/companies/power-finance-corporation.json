@@ -61,27 +61,30 @@
   "offerings": [
     {
       "name": "Conventional power plant loans",
-      "category": "Finance stations that produce electricity from sources such as coal or gas",
-      "image": "assets/products/power-finance-corporation-thermal-power.svg",
-      "kind": "illustration",
-      "url": "https://pfcindia.co.in/ensite/DocumentRepository/ckfinder/files/Investors/Annual_Reports/PFC_AR%202025_C2C%20design_v14_06082025.PDF",
-      "alt": "A conventional power station — conceptual illustration; not a photograph"
+      "category": "Lends to power stations that generate electricity using fuels such as coal or gas.",
+      "image": "assets/products/power-finance-corporation-thermal-power-photo.webp",
+      "kind": "generic",
+      "url": "https://commons.wikimedia.org/wiki/File:NTPC_thermal_power_plant.jpg",
+      "alt": "An Indian thermal power station with two tall chimneys above the plant buildings; example photo, not a verified PFC-financed asset.",
+      "credit": "Skmishraindia · Public domain · resized"
     },
     {
       "name": "Solar project loans",
-      "category": "Finance equipment that turns sunlight into electricity",
-      "image": "assets/products/power-finance-corporation-solar.svg",
-      "kind": "illustration",
-      "url": "https://pfcindia.co.in/ensite/DocumentRepository/ckfinder/files/Investors/Annual_Reports/PFC_AR%202025_C2C%20design_v14_06082025.PDF",
-      "alt": "A solar panel — conceptual illustration; not a photograph"
+      "category": "Lends to build sites with rows of panels that turn sunlight into electricity.",
+      "image": "assets/products/power-finance-corporation-solar-photo.webp",
+      "kind": "generic",
+      "url": "https://commons.wikimedia.org/wiki/File:AMP_Energy_Bhadla_Solar_Power_Plant.jpg",
+      "alt": "Rows of solar panels across the Bhadla solar site in Rajasthan; example photo, not a verified PFC-financed asset.",
+      "credit": "Sarvajanik Puralekh · CC BY-SA 2.0 · resized"
     },
     {
       "name": "Wind project loans",
-      "category": "Finance equipment that uses wind to generate electricity",
-      "image": "assets/products/power-finance-corporation-wind.svg",
-      "kind": "illustration",
-      "url": "https://pfcindia.co.in/ensite/DocumentRepository/ckfinder/files/Investors/Annual_Reports/PFC_AR%202025_C2C%20design_v14_06082025.PDF",
-      "alt": "A wind turbine — conceptual illustration; not a photograph"
+      "category": "Lends to wind projects, where tall turbines use wind to generate electricity.",
+      "image": "assets/products/power-finance-corporation-wind-photo.webp",
+      "kind": "generic",
+      "url": "https://commons.wikimedia.org/wiki/File:A_windmill_farm_closeup_Tamil_Nadu_India.jpg",
+      "alt": "Tall wind turbines beside a field in Tamil Nadu; example photo, not a verified PFC-financed asset.",
+      "credit": "Thangaraj Kumaravel · CC BY 2.0 · resized"
     },
     {
       "name": "Hydropower loans",
@@ -93,11 +96,12 @@
     },
     {
       "name": "Transmission project loans",
-      "category": "Finance high-voltage lines that move power over long distances",
-      "image": "assets/products/power-finance-corporation-transmission.svg",
-      "kind": "illustration",
-      "url": "https://pfcindia.co.in/ensite/DocumentRepository/ckfinder/files/Investors/Annual_Reports/PFC_AR%202025_C2C%20design_v14_06082025.PDF",
-      "alt": "High-voltage electricity pylons — conceptual illustration; not a photograph"
+      "category": "Lends for towers and lines that move electricity over long distances.",
+      "image": "assets/products/power-finance-corporation-transmission-photo.webp",
+      "kind": "generic",
+      "url": "https://commons.wikimedia.org/wiki/File:Power_grid_line_in_Maharashtra_near_a_railway_line.jpg",
+      "alt": "A steel electricity tower in Maharashtra carrying high-voltage power lines; example photo, not a verified PFC-financed asset.",
+      "credit": "Sugansuganya · CC BY-SA 4.0 · resized"
     },
     {
       "name": "Distribution loans",

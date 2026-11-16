@@ -35,6 +35,7 @@ The step-by-step rules live in `.claude/agents/`. They are written for Claude Co
 
 - Financial amounts appear only in `content/financial-reviews/` and a lesson's `financialNotes`, never elsewhere in the lesson.
 - Every document a lesson quotes must be in its `sources` list.
+- For unfamiliar offerings, start with a clear photograph of the object or work when one is available from company material or an appropriate open licence. Credit the image and label representative photos so they do not imply ownership, financing or a customer relationship. Keep a drawing where a photo would hide the work or mislead.
 - Never invent product or brand profit. State the reporting scope (consolidated or standalone, period, date checked).
 - Keep each company independently maintainable; regenerate bundles with `npm run build` (`npm test` does this first).
 - A weekly GitHub Action (`scripts/watch-results.cjs`) opens `figures-update` issues when new results are due; see README.

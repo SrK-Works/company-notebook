@@ -61,27 +61,30 @@
   "offerings": [
     {
       "name": "Locomotive finance",
-      "category": "Helps pay for engines that pull trains",
-      "image": "assets/products/indian-railway-finance-corporation-locomotives.svg",
-      "kind": "illustration",
-      "url": "https://irfc.co.in/sites/default/files/inline-files/Final_Investor_Presentation_FY_2025-26_0.pdf",
-      "alt": "A locomotive — conceptual illustration; not a photograph"
+      "category": "Helps pay for engines that pull trains, like the locomotive shown here.",
+      "image": "assets/products/indian-railway-finance-corporation-locomotives-photo.webp",
+      "kind": "generic",
+      "url": "https://commons.wikimedia.org/wiki/File:WAP-7_Rail_Engine_curving_towards_Kolkata_Station.jpg",
+      "alt": "Indian Railways electric locomotive pulling passenger coaches around a bend; example photo, not a verified IRFC-financed asset.",
+      "credit": "চ্যাম্পিয়ন স্টার ১ · CC BY-SA 4.0 · cropped and resized"
     },
     {
       "name": "Passenger coach finance",
-      "category": "Helps pay for train carriages that carry passengers",
-      "image": "assets/products/indian-railway-finance-corporation-passenger-coaches.svg",
-      "kind": "illustration",
-      "url": "https://irfc.co.in/sites/default/files/inline-files/Annual%20Report%202024-25_0.pdf",
-      "alt": "A passenger train carriage — conceptual illustration; not a photograph"
+      "category": "Helps pay for the coaches that people sit in on a train.",
+      "image": "assets/products/indian-railway-finance-corporation-passenger-coaches-photo.webp",
+      "kind": "generic",
+      "url": "https://commons.wikimedia.org/wiki/File:Mysore_Shatabdi_LHB_coaches_at_Mysore_Station_(1).JPG",
+      "alt": "A row of passenger coaches beside the platform at Mysore railway station; example photo, not a verified IRFC-financed asset.",
+      "credit": "Prateek Karandikar · CC BY-SA 4.0 · resized"
     },
     {
       "name": "Freight wagon finance",
-      "category": "Helps pay for wagons that carry goods",
-      "image": "assets/products/indian-railway-finance-corporation-freight-wagons.svg",
-      "kind": "illustration",
-      "url": "https://irfc.co.in/sites/default/files/inline-files/Annual%20Report%202024-25_0.pdf",
-      "alt": "A freight wagon — conceptual illustration; not a photograph"
+      "category": "Helps pay for wagons that carry goods such as coal and ore.",
+      "image": "assets/products/indian-railway-finance-corporation-freight-wagons-photo.webp",
+      "kind": "generic",
+      "url": "https://commons.wikimedia.org/wiki/File:BOXN_freight_train_at_Rajahmundry_01.jpg",
+      "alt": "Blue open freight wagons lined up at Rajahmundry railway station; example photo, not a verified IRFC-financed asset.",
+      "credit": "Adityamadhav83 · CC BY-SA 3.0 · resized"
     },
     {
       "name": "Railway project finance",
