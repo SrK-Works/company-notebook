@@ -66,7 +66,7 @@ test('every company gets a complete page: pictures, answers, flow, balance, figu
   assert.ok(page.includes('class="sp-photos"')||page.includes('class="visual-shelf"'),id+': photos or product pictures');
   let last=-1;
   for(const s of ['quick','how','balance','deeper','money','sources']){const at=page.indexOf(`id="${s}"`);assert.ok(at>last,`${id}: ${s} in order`);last=at}
-  assert.equal((page.match(/class="(?:sp-card|offering-lead)"/g)||[]).length,4,id);
+  assert.equal((page.match(/class="sp-card"/g)||[]).length,4,id);
   assert.ok(!page.includes('undefined')&&!page.includes('NaN')&&!page.includes('[object'),id);
   assert.ok(!page.includes('From a seller’s shelf')||id==='delhivery',id+': no Delhivery wording on another company');
   if(co.products?.length)assert.ok(page.includes('id="products"'),id+': full product list for the shelf link');

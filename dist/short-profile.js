@@ -46,9 +46,9 @@ window.shortProfile=(()=>{
   const fullList=products.length?`<details class="sp-more portfolio-list" id="products"><summary>All ${products.length} listed products and services</summary><div class="product-grid">${products.map(p=>`<div class="product"><strong>${safe(p[0])}</strong><span>${safe(p[1])}</span></div>`).join('')}</div><p class="source-note">${safe(c.productNote||'Selected offerings, not a complete catalogue.')}</p></details>`:'';
   return `<a class="back" href="#/">← All companies</a>
 <div class="profile-head">${mono(c)}<div><div class="eyebrow">${safe(c.tag||c.sector)}</div><h1>${safe(c.name)}</h1><div class="profile-meta">${safe(c.listingLabel||'NSE: '+c.ticker)} &nbsp; / &nbsp; ${safe(c.sector)}</div></div>${saveButton(c)}</div>
-${trial?'':`<p class="profile-lede">${safe(l.summary)}</p>`}
+<p class="profile-lede">${safe(l.summary)}</p>
 ${visuals}
-<section class="sp-section" id="quick"><div class="number">In one minute</div><h2>${trial?'How does it earn money?':'What is this business?'}</h2><div class="sp-quick">${(trial?l.quick.slice(1):l.quick).map(q=>`<div class="sp-card"><h3>${safe(q.title)}</h3><p>${safe(q.text)}</p></div>`).join('')}</div></section>
+<section class="sp-section" id="quick"><div class="number">In one minute</div><h2>What is this business?</h2><div class="sp-quick">${l.quick.map(q=>`<div class="sp-card"><h3>${safe(q.title)}</h3><p>${safe(q.text)}</p></div>`).join('')}</div></section>
 <section class="sp-section" id="how"><div class="number">How the work moves</div><h2>${safe(l.stepsTitle||'From the work to the payment.')}</h2><ol class="sp-flow">${l.steps.map(s=>`<li><strong>${safe(s.title)}</strong><span>${safe(s.text)}</span></li>`).join('')}</ol></section>
 <section class="sp-section" id="balance"><div class="number">Weighing it up</div><h2>What helps, and what could hurt.</h2><div class="sp-balance"><div class="sp-helps"><h3>What helps</h3>${l.helps.map(block).join('')}</div><div class="sp-hurts"><h3>What could hurt</h3>${l.hurts.map(block).join('')}</div></div><p class="source-note">What the company’s own documents show, not a forecast or advice.</p></section>
 <section class="sp-section" id="deeper"><div class="number">If you want more</div><h2>Go deeper.</h2>${deeper.map(([t,body])=>`<details class="sp-more"><summary>${safe(t)}</summary>${body}</details>`).join('')}${fullList}</section>
