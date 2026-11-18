@@ -1,0 +1,28 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-29",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {"label": "Revenue from operations", "current": 3076.37, "previous": 1901.89},
+    {"label": "Profit after tax", "current": 397.68, "previous": 118.75}
+  ],
+  "change": "Phenolics led sales and profit growth. Deepak said disrupted imports helped its locally made chemicals compete. Reported revenue also included more government incentive income than a year earlier.",
+  "watch": "Check whether Phenolics keeps more from each sale after raw material costs as imports become easier to source. Read government incentive income separately from customer demand.",
+  "sources": [
+    {
+      "label": "Official signed September-quarter results",
+      "url": "https://deepak-website-prd.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/10/DNL-UFR-29-10-2026.pdf",
+      "location": "PDF page 2, September quarter columns, rows 1(a) and 7 for group profit before ownership allocation. PDF page 3, segment results, and page 6, note 3, government incentives."
+    },
+    {
+      "label": "October results presentation",
+      "url": "https://deepak-website-prd.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/10/DNL-Q2-FY27-Results-Presentation_V2.pdf",
+      "location": "PDF pages 7–8, group and segment commentary on imports, freight, prices and costs."
+    }
+  ]
+}

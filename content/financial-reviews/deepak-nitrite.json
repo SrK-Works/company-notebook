@@ -1,0 +1,24 @@
+{
+  "status": "segments",
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "coverage": "Two reported business groups · group totals",
+  "unit": "₹ crore",
+  "revenueLabel": "Segment revenue",
+  "incomeDefinition": "Each row includes sales to other parts of the group. The company removes those internal sales when it reports group revenue from operations. Reported revenue also includes government incentive income.",
+  "profitMetric": "Segment result",
+  "definition": "The reported profit for each business before group financing costs, income and expenses not assigned to a business, unusual items and tax.",
+  "rows": [
+    {"name": "Advanced Intermediates", "revenue": 2553.32, "profit": 106.95},
+    {"name": "Phenolics", "revenue": 5400.68, "profit": 694.58}
+  ],
+  "revenueTotal": 7954,
+  "revenueTotalLabel": "Gross segment revenue before removing internal sales",
+  "profitTotal": 801.53,
+  "source": "https://deepak-website-prd.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/05/DNL-AFR-31-03-2026.pdf",
+  "sourceLabel": "Audited full-year results filed by Deepak Nitrite",
+  "location": "PDF pages 2–3, audited consolidated year-ended column, and page 6, notes 3 and 4.",
+  "checked": "18 November 2026",
+  "notes": "After removing ₹66.93 crore of internal sales, group revenue from operations was ₹7,887.07 crore. It includes ₹102.10 crore in government incentive income. Group profit after tax was ₹550.66 crore, including a ₹12.84 crore pre-tax charge for estimated employee benefit obligations under new labour rules. Profit attributable to owners of the parent company was ₹550.53 crore.",
+  "insight": "Phenolics brought in more revenue and contributed more before interest, tax and other group adjustments. The segment row covers several products together."
+}
