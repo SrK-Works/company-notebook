@@ -1,0 +1,24 @@
+{
+  "status": "single",
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited annual financial disclosure",
+  "checked": "18 November 2026",
+  "rows": [
+    {
+      "name": "Azad Engineering Limited",
+      "revenue": 602.98,
+      "profit": 133.56
+    }
+  ],
+  "basis": "Consolidated",
+  "coverage": "Whole group · one reported precision manufacturing segment",
+  "profitMetric": "Profit after tax",
+  "definition": "Group profit after costs and tax, including the share of profit belonging to minority shareholders in subsidiaries.",
+  "revenueTotal": 602.98,
+  "profitTotal": 133.56,
+  "source": "https://azad.in/wp-content/uploads/2026/09/AZAD-AR-2025-26.pdf",
+  "location": "Annual report, consolidated statement of profit and loss (PDF page 191, printed page 189), consolidated notes 21 and 31.",
+  "notes": "The group reported ₹475.15 crore of product sales and ₹119.36 crore of service sales, with the rest of operating revenue from scrap sales and export incentives. Of group profit after tax, ₹132.88 crore belonged to owners of the company and ₹0.69 crore to minority holders, rounded separately.",
+  "insight": "Group sales and profit grew, but other income also rose. Read operating revenue, other income and profit together before attributing the entire increase to more component sales."
+}
