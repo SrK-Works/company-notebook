@@ -1,0 +1,229 @@
+{
+  "summary": "HPL makes smart electricity meters that send readings to the power company. It also makes wires, circuit breakers, lights and other electrical equipment used in buildings and factories.",
+  "description": "The box beside an electricity connection counts how much electricity the property uses. A smart meter can send that reading automatically, so someone need not visit to read the display. HPL makes these meters and supplies them to power companies and contractors that install and run the meter system. Its other business sells equipment that carries, switches and uses electricity.",
+  "money": "HPL earns mainly by selling equipment. The meter buyer pays for the devices and any software or support in the agreed order. Dealers and project buyers pay for wires, breakers and lights. HPL pays for circuit boards, metal, factory staff, testing and shipping. Profit is what remains after costs, and the cash may arrive later.",
+  "customers": "A company that supplies electricity or a contractor running a meter project can order meters from HPL. A family uses the meter and pays its power company for electricity. For building equipment, HPL sells through dealers and to customers buying equipment for projects or factories.",
+  "drivers": "How many meters customers accept, what HPL earns per device after parts and factory costs, and how much cash it collects before it needs to buy materials for the next orders.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Makes meters that measure and send electricity readings, plus wires, breakers and lights for buildings and factories."
+    },
+    {
+      "title": "Who pays",
+      "text": "Power companies and their meter-project contractors buy meters. Dealers and project buyers buy the other electrical equipment."
+    },
+    {
+      "title": "How it earns",
+      "text": "It bills customers for equipment and any agreed software or support. A household’s electricity bill goes to its power company."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Electronic parts, metal for cables and components, factory staff, testing and shipping."
+    }
+  ],
+  "groups": [
+    {
+      "title": "Smart electricity meters",
+      "examples": "Meters for standard home connections and larger connections.",
+      "explanation": "A home model measures a standard electricity connection. A three-phase model works with a supply designed to carry bigger electrical loads, such as at shops or some larger buildings. Both can send readings remotely."
+    },
+    {
+      "title": "Wires and cables",
+      "examples": "Wires for buildings and cables for electrical equipment.",
+      "explanation": "They carry electricity to sockets, lights and equipment. A builder or electrical contractor chooses the cable for the current and conditions it must handle."
+    },
+    {
+      "title": "Protection and controls",
+      "examples": "Circuit breakers, wall switches and sockets.",
+      "explanation": "A circuit breaker cuts power automatically if too much current flows. Wall switches let people turn individual appliances or lights on and off. The wider family of protection and control equipment is called switchgear."
+    },
+    {
+      "title": "Lighting",
+      "examples": "Lamps and light fittings for homes, shops and outdoor spaces.",
+      "explanation": "HPL sells lights for different places. A shop or factory can need enough light across a large space, while an outdoor fitting needs to cope with the weather."
+    },
+    {
+      "title": "Water meters",
+      "examples": "Neeram Pulse smart water meters.",
+      "explanation": "The meter measures how much water flows through a pipe. A water supplier may use remote readings to track usage. HPL’s annual report describes this as an early-stage business."
+    }
+  ],
+  "basics": [
+    {
+      "title": "Why give a meter a network connection?",
+      "text": "The power company’s computer can receive a reading without a visit. Some models also send an alert when the power goes out or when the device detects possible tampering."
+    },
+    {
+      "title": "Who puts the meter on the wall?",
+      "text": "In a typical large rollout, the power company hires a contractor to install and run the meter system. The contractor can buy the devices from a maker such as HPL. Who funds, installs and maintains the equipment depends on the contract."
+    },
+    {
+      "title": "What changes when the meter is prepaid?",
+      "text": "With prepaid billing, a household adds credit before using electricity. With postpaid billing it pays after using it. The power company sets the billing arrangement, and HPL supplies equipment that can support it."
+    }
+  ],
+  "stepsTitle": "How a meter order becomes a payment",
+  "steps": [
+    {
+      "title": "Agree what the customer needs",
+      "text": "The buyer specifies the connection type, how the meter should send readings and how many devices it needs."
+    },
+    {
+      "title": "Build and test the batch",
+      "text": "HPL buys parts, assembles the devices and checks that they measure and communicate as specified."
+    },
+    {
+      "title": "Deliver and bill",
+      "text": "HPL ships the batch as agreed. The buyer checks and accepts the delivery under the contract, and HPL records sales on the agreed terms."
+    },
+    {
+      "title": "Collect the money",
+      "text": "The customer pays according to the contract. HPL can record revenue before the payment arrives, and it has already spent money to make the meters."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "HPL is primarily a meter maker",
+      "text": "Management describes the main role as supplying meters to rollout contractors. It also describes a West Bengal project where it contributes software that gathers readings and supports billing. Check what HPL is doing in each contract."
+    },
+    {
+      "title": "The same rollout can pay two companies for different work",
+      "text": "HPL’s May 2026 filing names three project companies of GMR (the power and urban infrastructure group) among the buyers. HPL supplies the devices. The project companies have separate contracts to deliver the meter system to the power company."
+    },
+    {
+      "title": "Wires and lights have their own customers",
+      "text": "HPL can sell wiring, protection and lights when homes and factories are built or renovated. These orders come through dealers and project buyers and can change at a different pace from large meter orders."
+    }
+  ],
+  "watch": [
+    [
+      "Are meter orders turning into accepted deliveries?",
+      "A rollout can be delayed after a supply order is signed.",
+      "Compare the list of signed orders still to deliver with meter sales and any delivery or rollout updates."
+    ],
+    [
+      "Do customers pay for meters soon after delivery?",
+      "HPL buys parts and builds stock before the money arrives.",
+      "Compare what customers owe with sales. Look at how much cash the business collects from its day-to-day work."
+    ],
+    [
+      "Is the wiring business selling more cable or charging more per roll?",
+      "A rise in copper prices can lift the sales value without a matching rise in the amount of cable sold.",
+      "Use management’s comments on amounts sold and selling prices. Check what is left from sales after material costs."
+    ],
+    [
+      "What has HPL agreed to do besides supply the devices?",
+      "Taking on software, maintenance or funding changes the work and how quickly cash comes in.",
+      "Read the order announcement and ask who funds the equipment, installs it and keeps the system running."
+    ],
+    [
+      "Are water meters moving beyond trials?",
+      "Making a device ready for sale and winning regular orders are separate stages.",
+      "Look for customer approvals, confirmed orders, and reported shipments rather than counting a factory or product launch as a sale."
+    ]
+  ],
+  "risks": [
+    [
+      "Meter specifications change",
+      "A buyer may require another round of approvals or tests before it accepts a new design."
+    ],
+    [
+      "Customers buy fewer batches than expected",
+      "A factory still has running costs when it makes or ships fewer devices."
+    ],
+    [
+      "Parts or metals cost more",
+      "Existing selling prices may leave less profit if HPL cannot pass on higher costs."
+    ],
+    [
+      "Customers take longer to pay",
+      "HPL may need to borrow or use its own cash to make the next batch."
+    ]
+  ],
+  "helps": [
+    {
+      "title": "Meters that fit more than one kind of connection",
+      "text": "HPL can serve home customers and larger users through utility orders by offering different devices."
+    },
+    {
+      "title": "Dealers reach local buyers",
+      "text": "A dealer can put electrical parts in front of builders and electricians who would not buy directly from a factory."
+    },
+    {
+      "title": "Factories help HPL make parts as well as finished goods",
+      "text": "Making some components in-house gives HPL more control over how it builds and tests devices."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Project schedules sit partly with the installer",
+      "text": "If field work slows, the installer may defer its next batch of meter purchases."
+    },
+    {
+      "title": "Equipment prices face competition",
+      "text": "A customer can ask several approved manufacturers for bids, putting pressure on what HPL earns on each order."
+    },
+    {
+      "title": "New products need customer approval",
+      "text": "Water meters may need trials and approval before a utility begins ordering them regularly."
+    }
+  ],
+  "context": [
+    "Read each order for HPL’s role",
+    "A power company can contract one business to install and run the system, and that business can buy the physical meters from HPL. A headline about a rollout and a headline about HPL’s supply order can describe different jobs on the same project."
+  ],
+  "sources": [
+    [
+      "Official company overview",
+      "https://www.hplindia.com/about-us/"
+    ],
+    [
+      "Official products and equipment",
+      "https://www.hplindia.com/"
+    ],
+    [
+      "HPL meter range and capabilities",
+      "https://www.hplindia.com/meters/"
+    ],
+    [
+      "Annual report for the year ended March 2026",
+      "https://investor.hplindia.com/photos/investor-pdf/SignedHPLAnnualReport.pdf"
+    ],
+    [
+      "Management’s 2026 discussion of meter supply and software roles",
+      "https://nsearchives.nseindia.com/corporate/HPL_23062026124945_SignedHPLInvestorTranscriptQ4FY26.pdf"
+    ],
+    [
+      "May 2026 smart-meter supply order filed with the exchange",
+      "https://nsearchives.nseindia.com/corporate/HPL_02052026151205_Signed_Award_of_Order_Details.pdf"
+    ],
+    [
+      "Audited FY2025–26 group results and business breakdown",
+      "https://investor.hplindia.com/photos/investor-pdf/SignedHPLBMOutcome.pdf"
+    ],
+    [
+      "September 2026 group results filed with the exchange",
+      "https://nsearchives.nseindia.com/corporate/HPL_05112026165734_SignedOutcomeofBoardMeeting.pdf"
+    ],
+    [
+      "September 2026 results release",
+      "https://nsearchives.nseindia.com/corporate/HPL_05112026174602_SignedPressRelease.pdf"
+    ],
+    [
+      "November 2026 management discussion of wiring sales and copper prices",
+      "https://nsearchives.nseindia.com/corporate/HPL_12112026125016_SignedHPLTranscript.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "The metering row covers more than smart meters",
+      "text": "“Metering, Systems & Services” is the company’s reported business group. It can include other meters and connected services. The annual table shows what each of the two business groups earned before certain shared expenses, borrowing costs and tax."
+    },
+    {
+      "title": "Check how much cash the sales bring in",
+      "text": "Manufacturing ties up cash in parts, finished equipment and bills customers have yet to pay. Check whether sales growth also raises the cash HPL collects from its day-to-day work."
+    }
+  ],
+  "checked": "18 November 2026"
+}

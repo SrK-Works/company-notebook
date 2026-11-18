@@ -8151,6 +8151,166 @@
       "src": "https://www.hcghospitals.com/sites/default/files/styles/canvas_medium/public/2026-09/brachytherapy-suite.jpg.webp?itok=e6wepk86",
       "replacesKind": "illustration",
       "companyReference": "https://www.hcghospitals.com/our-centres/hcg-cck-cancer-centre-parklands-nairobi"
+    },
+    {
+      "company": "gmr-power-and-urban-infra",
+      "src": "https://www.gmrpowerurbaninfra.com/media_1c51a4921e5b7452a552757c4457da6e6663b012d.jpg",
+      "name": "Prepaid smart meter installation",
+      "category": "Replacing old electricity meters with meters that send readings",
+      "image": "assets/products/gmr-power-and-urban-infra-1.webp",
+      "url": "https://www.gmrpowerurbaninfra.com/companies/gmr-smart-electricity-distribution-private-limited",
+      "kind": "pack",
+      "alt": "A smart electricity meter mounted on an exterior wall in GMR’s project material"
+    },
+    {
+      "company": "gmr-power-and-urban-infra",
+      "src": "https://www.gmrpowerurbaninfra.com/companies/media_11e95fefb42b6b91389a0c289e0cad5ad89e2dcfe.jpg",
+      "name": "Smart meter network operation",
+      "category": "Keeping readings flowing and equipment working",
+      "image": "assets/products/gmr-power-and-urban-infra-2.webp",
+      "url": "https://www.gmrpowerurbaninfra.com/companies/gmr-smart-electricity-distribution-private-limited/gmr-kashi-smart-meters-limited",
+      "kind": "pack",
+      "alt": "GMR Kashi’s project image shows a person holding a phone with the smart-meter app"
+    },
+    {
+      "company": "gmr-power-and-urban-infra",
+      "src": "https://www.gmrpowerurbaninfra.com/companies/media_173331090313557075a048bf871d84864de83e7ad.jpg",
+      "name": "Coal-fired power plants",
+      "category": "Generating electricity to sell to electricity suppliers",
+      "image": "assets/products/gmr-power-and-urban-infra-3.webp",
+      "url": "https://www.gmrpowerurbaninfra.com/companies/gmr-energy-limited/gmr-kamalanga-energy-limited",
+      "kind": "photo",
+      "alt": "Aerial view of GMR’s Kamalanga coal-fired power station and its two chimneys"
+    },
+    {
+      "company": "gmr-power-and-urban-infra",
+      "src": "https://www.gmrpowerurbaninfra.com/companies/media_1b5f641ab679afb23ae9fecd4197fd1cbaf15f02a.jpg",
+      "name": "Solar and wind power",
+      "category": "Generating electricity from sunlight and wind",
+      "image": "assets/products/gmr-power-and-urban-infra-4.webp",
+      "url": "https://www.gmrpowerurbaninfra.com/companies/gmr-energy-limited",
+      "kind": "illustration",
+      "alt": "GMR’s renewable energy artwork shows rows of solar panels and wind turbines"
+    },
+    {
+      "company": "gmr-power-and-urban-infra",
+      "src": "https://www.gmrpowerurbaninfra.com/media_137f6b2bdb1215f21ff8ef7888d6b63000b71831e.jpg",
+      "name": "Private aircraft charter",
+      "category": "Hiring a plane for a trip",
+      "image": "assets/products/gmr-power-and-urban-infra-5.webp",
+      "url": "https://www.gmrpowerurbaninfra.com/companies/gmr-aviation-private-limited",
+      "kind": "photo",
+      "alt": "A GMR Aviation charter aircraft parked on an airport apron"
+    },
+    {
+      "company": "gmr-power-and-urban-infra",
+      "src": "https://www.gmrpowerurbaninfra.com/media_13d43c3dd2a4f35f464e1cac7370a156739e52a59.jpg",
+      "name": "Highway operations",
+      "category": "Operating and maintaining stretches of road",
+      "image": "assets/products/gmr-power-and-urban-infra-6.webp",
+      "url": "https://www.gmrpowerurbaninfra.com/companies/gmr-highways-limited",
+      "kind": "photo",
+      "alt": "A highway stretches between fields and hills in GMR’s road business material"
+    },
+    {
+      "company": "gmr-power-and-urban-infra",
+      "src": "https://www.gmrpowerurbaninfra.com/media_172ef5175f29f8b4327c0623ea6995426b13f60fc.jpg",
+      "name": "Industrial land development",
+      "category": "Preparing sites for factories and other businesses",
+      "image": "assets/products/gmr-power-and-urban-infra-7.webp",
+      "url": "https://www.gmrpowerurbaninfra.com/companies/gmr-krishnagiri-sir-limited",
+      "kind": "illustration",
+      "alt": "GMR’s aerial rendering shows plots, buildings and access roads in an industrial development"
+    },
+    {
+      "company": "hpl-electric-and-power",
+      "src": "https://www.hplindia.com/wp-content/uploads/2026/02/15.jpg.jpeg",
+      "name": "Single-phase smart electricity meter",
+      "category": "Measures household electricity use and sends readings remotely",
+      "image": "assets/products/hpl-electric-and-power-1.webp",
+      "url": "https://www.hplindia.com/product/meters/single-phase-smart-energy-meter/",
+      "kind": "pack",
+      "alt": "Single-phase smart electricity meter shown in HPL’s product material"
+    },
+    {
+      "company": "hpl-electric-and-power",
+      "src": "https://www.hplindia.com/wp-content/uploads/2026/02/14.jpg.jpeg",
+      "name": "Three-phase smart electricity meter",
+      "category": "Measures larger electricity connections and sends readings remotely",
+      "image": "assets/products/hpl-electric-and-power-2.webp",
+      "url": "https://www.hplindia.com/product/meters/three-phase-smart-energy-meter/",
+      "kind": "pack",
+      "alt": "Three-phase smart electricity meter shown in HPL’s product material"
+    },
+    {
+      "company": "hpl-electric-and-power",
+      "src": "https://www.hplindia.com/wp-content/uploads/2026/05/Neeram-Pulse-Water-Meter-800.png",
+      "name": "Neeram Pulse water meter",
+      "category": "Measures the water that passes through a pipe",
+      "image": "assets/products/hpl-electric-and-power-3.webp",
+      "url": "https://www.hplindia.com/product/meters/neeram-pulse-water-meter/",
+      "kind": "pack",
+      "alt": "Neeram Pulse water meter shown in HPL’s product material"
+    },
+    {
+      "company": "hpl-electric-and-power",
+      "src": "https://www.hplindia.com/wp-content/uploads/2025/04/Domestic-Industrial-Wire-Cable.jpg",
+      "name": "Wires and cables",
+      "category": "Carry electricity through buildings and equipment",
+      "image": "assets/products/hpl-electric-and-power-4.webp",
+      "url": "https://www.hplindia.com/wire-cables/",
+      "kind": "pack",
+      "alt": "Wires and cables shown in HPL’s product material"
+    },
+    {
+      "company": "hpl-electric-and-power",
+      "src": "https://www.hplindia.com/wp-content/uploads/2025/03/MCB.jpg",
+      "name": "Circuit breakers",
+      "category": "Cut power automatically when a circuit is overloaded",
+      "image": "assets/products/hpl-electric-and-power-5.webp",
+      "url": "https://www.hplindia.com/switchgear/",
+      "kind": "pack",
+      "alt": "Circuit breakers shown in HPL’s product material"
+    },
+    {
+      "company": "hpl-electric-and-power",
+      "src": "https://www.hplindia.com/wp-content/uploads/2025/05/Consumer-Lume.jpg",
+      "name": "Lighting",
+      "category": "Lamps and fittings for homes, workplaces and outdoor sites",
+      "image": "assets/products/hpl-electric-and-power-6.webp",
+      "url": "https://www.hplindia.com/lighting/",
+      "kind": "pack",
+      "alt": "Lighting shown in HPL’s product material"
+    },
+    {
+      "company": "hpl-electric-and-power",
+      "src": "https://www.hplindia.com/wp-content/uploads/2026/06/HPL-Modular-Switches-Range.png",
+      "name": "Modular switches",
+      "category": "Switches and sockets fitted together on a wall plate",
+      "image": "assets/products/hpl-electric-and-power-7.webp",
+      "url": "https://www.hplindia.com/modular-switches/",
+      "kind": "pack",
+      "alt": "Modular switches shown in HPL’s product material"
+    },
+    {
+      "company": "genus-power",
+      "src": "https://genuspower.com/wp-content/uploads/2023/05/Gas-Meter.jpeg",
+      "name": "Smart gas meter",
+      "category": "Measures the gas used at a property and can send the reading remotely",
+      "image": "assets/products/genus-power-smart-gas-meter.webp",
+      "url": "https://genuspower.com/product/smart-gas-meter/",
+      "kind": "pack",
+      "alt": "Genus smart gas meter with a display and an attached reader"
+    },
+    {
+      "company": "genus-power",
+      "src": "https://genuspower.com/wp-content/uploads/2023/12/Smart-Water-Meter.png",
+      "name": "Smart water meter",
+      "category": "Measures water flowing through a pipe and can send the reading remotely",
+      "image": "assets/products/genus-power-smart-water-meter.webp",
+      "url": "https://genuspower.com/product/smart-water-meter/",
+      "kind": "pack",
+      "alt": "Genus water meter with a display, open cover and pipe connections"
     }
   ]
 }

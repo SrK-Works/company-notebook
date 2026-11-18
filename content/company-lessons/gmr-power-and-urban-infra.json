@@ -1,0 +1,230 @@
+{
+  "summary": "GMR installs smart electricity meters in Uttar Pradesh and keeps them sending readings to the local electricity supplier. It also runs power plants, trades electricity, operates highways and develops industrial sites.",
+  "description": "When a home uses electricity, the meter records how much it used. The smart version sends readings to the electricity supplier, which can track usage without a visit. On a prepaid connection, a household tops up its electricity balance before using power. In parts of Uttar Pradesh, GMR’s project companies put these meters in, connect them to the supplier’s billing system and keep them working.",
+  "money": "Electricity suppliers pay GMR’s project companies under contracts that cover installing and running the meter system. GMR has to buy meters, pay installation crews, run the software and pay for funding. Its power plants earn by selling electricity, and its road companies earn through tolls or payments set in road contracts. Each business has its own costs.",
+  "customers": "The electricity suppliers in Uttar Pradesh pay for the meter service. A household uses the meter but pays its own electricity supplier for electricity. GMR’s power customers include other electricity suppliers, and drivers pay tolls on roads where the contract allows it.",
+  "drivers": "For meters, watch how many are working, how reliably they send readings and when the supplier pays. For the rest of GMR, power-plant output, fuel costs and the cost of borrowing matter too.",
+  "quick": [
+    {
+      "title": "What does it do?",
+      "text": "GMR fits and runs smart electricity meters for local electricity suppliers. Its other businesses include producing power and operating highways."
+    },
+    {
+      "title": "Who pays?",
+      "text": "The local electricity supplier pays for the meter project. Households pay that supplier for the power they use."
+    },
+    {
+      "title": "How does it earn?",
+      "text": "GMR earns under contracts for installing and running the meter system, alongside power sales and road income."
+    },
+    {
+      "title": "What does it spend on?",
+      "text": "Meters, installers, communications, repairs and interest cost money. Power plants also need fuel and upkeep."
+    }
+  ],
+  "groups": [
+    {
+      "title": "Smart meters and installation",
+      "examples": "Kashi, Triveni and Agra are three meter projects in Uttar Pradesh.",
+      "explanation": "GMR puts in prepaid meters that report power use back to the local electricity supplier."
+    },
+    {
+      "title": "Meter network operation",
+      "examples": "Connected readings, software and long-term maintenance.",
+      "explanation": "Keeping a meter connected helps the supplier use the reading for billing, check unusual usage and see where a meter needs attention."
+    },
+    {
+      "title": "Generating and trading electricity",
+      "examples": "Kamalanga and Warora coal plants, solar and wind projects, and electricity trading.",
+      "explanation": "Power plants produce electricity. GMR’s trading business buys and sells electricity, including electricity it did not generate."
+    },
+    {
+      "title": "Highways and industrial sites",
+      "examples": "Highway projects and the Krishnagiri industrial development in Tamil Nadu.",
+      "explanation": "Road companies operate and maintain highway stretches under agreements. Industrial development prepares land and infrastructure for factories and other businesses."
+    },
+    {
+      "title": "Private aircraft charter",
+      "examples": "Private flights through GMR Aviation.",
+      "explanation": "Customers pay to hire an aircraft for a trip. GMR Airports Limited is a separate listed company with its own accounts."
+    }
+  ],
+  "basics": [
+    {
+      "title": "Why does a meter need a connection?",
+      "text": "A meter can measure electricity on its own. The connection carries the readings to the utility’s system, where they can be used for billing."
+    },
+    {
+      "title": "Who is the electricity supplier?",
+      "text": "It is the company that delivers and bills for electricity in an area. You may see it called a distribution company in GMR’s filings."
+    },
+    {
+      "title": "Why is this a long contract?",
+      "text": "GMR’s project companies arrange funding, install the equipment, own and maintain it for a set term, then hand it over. The Uttar Pradesh programme uses this arrangement over ten years."
+    }
+  ],
+  "stepsTitle": "From the meter box to the utility’s payment",
+  "steps": [
+    {
+      "title": "Agree what the supplier needs",
+      "text": "The electricity supplier chooses a company to design, finance and run the meter system for the agreed area and time."
+    },
+    {
+      "title": "Buy, install and test",
+      "text": "GMR arranges meters and crews, fits each meter and checks that it can send readings."
+    },
+    {
+      "title": "Send readings and keep the system working",
+      "text": "The supplier uses the connected readings in its billing system. GMR’s project company keeps the equipment and software working."
+    },
+    {
+      "title": "Bill and collect",
+      "text": "GMR earns and bills under the project agreement. Profit is what remains after costs, and cash arrives when the electricity supplier pays. Some spending comes before collection."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "GMR can buy meters from a manufacturer",
+      "text": "A meter manufacturer’s May 2026 exchange filing named all three GMR project companies among its buyers. GMR uses purchased meters to deliver the wider service."
+    },
+    {
+      "title": "The same meter earns its place over years",
+      "text": "The Uttar Pradesh projects include long-term operation after installation. A meter that stops sending data can still require a technician visit even after the initial fitting work is finished."
+    },
+    {
+      "title": "Power plants still matter to the listed business",
+      "text": "Meter work is reported separately in the group’s accounts. Check the power business as well, since plant sales and costs can move group results while meter contracts are progressing."
+    }
+  ],
+  "watch": [
+    [
+      "Are meters installed and sending readings?",
+      "A fitted meter still needs a working connection for the supplier to use it.",
+      "Look for operating or connected meters alongside the number fitted in the investor presentation."
+    ],
+    [
+      "How quickly are unpaid bills cleared?",
+      "Equipment, crews and repairs need funding while the project waits for payment.",
+      "Compare cash collected with changes in unpaid customer bills in the cash-flow and balance-sheet notes."
+    ],
+    [
+      "What does the meter business earn after project costs?",
+      "Fast installation can lift sales while connected equipment still needs servicing.",
+      "Compare the reported Smart Meter Infrastructure result with segment revenue, then check separately how much the group pays in interest."
+    ],
+    [
+      "Are the coal plants generating and selling more power?",
+      "When a plant sells less power, some running costs continue.",
+      "Look for electricity generated or sold at Kamalanga and Warora, and compare fuel costs and plant availability with the same period."
+    ],
+    [
+      "Is borrowing becoming easier to pay from operations?",
+      "New meters and power projects need money before they can pay their way.",
+      "Compare interest and debt repayments with the cash the group generates from business operations."
+    ]
+  ],
+  "risks": [
+    [
+      "Meter connection and repair",
+      "Meters that cannot reliably send readings need follow-up and may cost more to service."
+    ],
+    [
+      "Utility bills collected late",
+      "Late payment ties up cash after GMR has already spent money on equipment and workers."
+    ],
+    [
+      "Cost and availability of coal",
+      "Coal supply or fuel price changes can affect the cost of generating electricity."
+    ],
+    [
+      "Timing of approvals and disputes",
+      "A delayed approval or decision on a project claim can postpone construction or delay cash collection."
+    ]
+  ],
+  "helps": [
+    {
+      "title": "A working reading has everyday value",
+      "text": "Remote readings help a supplier see what customers use more frequently and reduce the need to send someone to read a meter."
+    },
+    {
+      "title": "Projects span several districts",
+      "text": "Work in Kashi, Triveni and Agra gives GMR installation and repair work across different local electricity supply areas."
+    },
+    {
+      "title": "Several sources of income",
+      "text": "Power sales and road contracts earn in different ways from meter services, so the whole company’s results depend on more than the installation schedule."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "A big rollout needs money upfront",
+      "text": "Meter purchases and installation come early. Borrowing costs can run while the project company waits for the long service period to repay its spending."
+    },
+    {
+      "title": "Much of the current meter work is in one state",
+      "text": "Changes in Uttar Pradesh’s rollout pace can affect several of the company’s projects together."
+    },
+    {
+      "title": "Highway contracts run for a fixed term",
+      "text": "At the end of a contract a road may be handed back, so income from an existing stretch can eventually stop."
+    }
+  ],
+  "context": [
+    "September quarter filing, 30 October 2026",
+    "GMR’s filing gives separate updates for smart meters, power and roads. Readers can track whether progress fitting meters translates into more work billed to electricity suppliers."
+  ],
+  "sources": [
+    [
+      "Annual report for 2025–26",
+      "https://nsearchives.nseindia.com/annual_reports/AR_30758_GMRP%26UI_2025_2026_A_12149324_27082026212350.pdf"
+    ],
+    [
+      "Audited full-year results",
+      "https://nsearchives.nseindia.com/corporate/GPUIL_21052026183409_outcomeofBM.pdf"
+    ],
+    [
+      "September 2026 exchange filing",
+      "https://nsearchives.nseindia.com/corporate/GPUIL_30102026184552_outcome.pdf"
+    ],
+    [
+      "Smart electricity distribution subsidiary and Uttar Pradesh programme",
+      "https://www.gmrpowerurbaninfra.com/companies/gmr-smart-electricity-distribution-private-limited"
+    ],
+    [
+      "GMR Energy operating businesses",
+      "https://www.gmrpowerurbaninfra.com/companies/gmr-energy-limited"
+    ],
+    [
+      "GMR Highways",
+      "https://www.gmrpowerurbaninfra.com/companies/gmr-highways-limited"
+    ],
+    [
+      "Industrial development in Krishnagiri",
+      "https://www.gmrpowerurbaninfra.com/companies/gmr-krishnagiri-sir-limited"
+    ],
+    [
+      "HPL’s exchange filing on meter orders",
+      "https://nsearchives.nseindia.com/corporate/HPL_02052026151205_Signed_Award_of_Order_Details.pdf"
+    ],
+    [
+      "GMR Group listing and investor relations",
+      "https://www.gmrgroup.com/investors"
+    ],
+    [
+      "Private aircraft charter service",
+      "https://www.gmrpowerurbaninfra.com/companies/gmr-aviation-private-limited"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Read the smart meter segment separately",
+      "text": "The consolidated figures cover GMR Power and Urban Infra and the companies it controls. Look for Smart Meter Infrastructure in the segment table, apart from electricity generation and roads."
+    },
+    {
+      "title": "Segment result and final profit",
+      "text": "The segment result comes before net group borrowing costs, unusual items and tax. A court ruling let the group remove money it had recorded as owed to a contractor, which lifted reported profit. That change did not bring cash into the business."
+    }
+  ],
+  "financialCue": "Compare Smart Meter Infrastructure with Power in the full-year table to see how much each contributes before group costs.",
+  "checked": "18 November 2026"
+}

@@ -24,8 +24,12 @@
         "Meters on power lines and transformers"
       ],
       [
-        "Gas and water meters",
-        "Newer smart meters beyond electricity"
+        "Smart water meter",
+        "Measures water flowing through a pipe and can send the reading remotely"
+      ],
+      [
+        "Smart gas meter",
+        "Measures the gas used at a property and can send the reading remotely"
       ],
       [
         "Meter data software",
@@ -87,12 +91,20 @@
       "alt": "Grid and substation meters — official product image"
     },
     {
-      "name": "Gas and water meters",
-      "category": "Newer smart meters beyond electricity",
-      "image": "assets/products/genus-power-gas-and-water-meters.webp",
-      "url": "https://genuspower.com/product-category/flow-meters/",
+      "name": "Smart water meter",
+      "category": "Measures water flowing through a pipe and can send the reading remotely",
+      "image": "assets/products/genus-power-smart-water-meter.webp",
+      "url": "https://genuspower.com/product/smart-water-meter/",
       "kind": "pack",
-      "alt": "Gas and water meters — official product image"
+      "alt": "Genus water meter with a display, open cover and pipe connections"
+    },
+    {
+      "name": "Smart gas meter",
+      "category": "Measures the gas used at a property and can send the reading remotely",
+      "image": "assets/products/genus-power-smart-gas-meter.webp",
+      "url": "https://genuspower.com/product/smart-gas-meter/",
+      "kind": "pack",
+      "alt": "Genus smart gas meter with a display and an attached reader"
     },
     {
       "name": "Meter data software",

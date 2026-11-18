@@ -1,231 +1,231 @@
 {
-  "summary": "Genus Power makes electricity meters and, increasingly, installs and runs smart-meter systems for state electricity distribution companies.",
-  "description": "A traditional electricity meter counts how much power a home uses, and someone has to read it before a bill can be sent. A smart prepaid meter sends its readings automatically over a network, lets a household pay in advance, and shows the electricity company in close to real time how much power is used and lost. Genus Power makes meters in factories in Rajasthan, Uttarakhand and Assam. It has also taken on a larger job: for electricity distribution companies, it supplies, installs, runs and maintains smart-meter systems for years, and is paid over the life of each contract.",
-  "money": "Genus earns money by selling meters and equipment, and by being paid over several years to install, run and maintain smart-meter systems. The second kind of payment arrives gradually, so Genus must pay for meters, fitting and software first, often with borrowed money. Its costs include electronic parts, factory and installation work, software, bank guarantees (a bank’s promise to pay the customer if Genus fails to deliver, which Genus pays for) and interest on its loans.",
-  "customers": "The main customers are electricity distribution companies, each called a DISCOM (distribution company), which deliver power to homes and are usually owned by state governments. They buy meters or hire Genus to run smart metering across an area. Households use the meters and pay their electricity bills to the DISCOM, not to Genus. Industrial and commercial users and gas and water utilities buy other products. Genus’s annual report lists delayed collections from utilities among its financial risks.",
-  "drivers": "How many meters are ordered and installed, the prices won in tenders, how quickly utilities pay, how much Genus must borrow to fund projects, and how well the factories and installation teams perform.",
+  "summary": "Genus makes smart electricity meters that send readings to power distributors. On larger contracts it also fits the meters and keeps the reading system working.",
+  "description": "Picture the meter outside a home. A smart meter measures electricity used and sends the reading to the distributor over a communications network. Genus builds the box and sells it to distributors and other installation firms. It also takes on longer jobs where it fits meters, connects them to the distributor’s billing system and keeps the equipment and software working.",
+  "money": "On a supply order, Genus sells the meters. Under a longer project contract it is paid for work such as supplying and fitting meters and keeping the system working after launch. The bills it raises must cover parts, factory labour, installers, software, network fees and repairs before it earns a profit.",
+  "customers": "The local electricity distributor buys meters or pays for a system that keeps delivering readings. Other companies that install and run meters also buy equipment from Genus. Households use the meters and pay their electricity bill or top-up to the distributor.",
+  "drivers": "Look at how many meters customers accept, how much Genus spends to build and run them, and whether bills are paid on time.",
+  "quick": [
+    {
+      "title": "What does it do?",
+      "text": "It makes the meter that measures electricity use. It can also connect meters to a distributor’s billing system and keep them working."
+    },
+    {
+      "title": "Who pays it?",
+      "text": "Electricity distributors and companies hired to fit and run meters. Households pay their electricity bills to the distributor."
+    },
+    {
+      "title": "How does it earn?",
+      "text": "It sells meters. On longer contracts, it also gets paid to fit them and keep the system working."
+    },
+    {
+      "title": "What does it spend money on?",
+      "text": "Electronic parts, factory and field workers, data connections, software and repairs."
+    }
+  ],
   "groups": [
     {
-      "title": "Smart prepaid electricity meters",
-      "examples": "Meters for homes, shops and small businesses, including prepaid meters.",
-      "explanation": "A prepaid meter works like a mobile recharge: the household pays first and uses electricity until the balance runs out. The meter reports usage over a communications link, which helps the electricity company bill and collect payment, and spot where power is being lost."
+      "title": "Electricity meters",
+      "examples": "Saksham-145 for smaller connections and Saksham-345 and Saksham-340 for larger loads.",
+      "explanation": "The device measures electricity as it enters a property and sends the readings to the electricity distributor. The distributor can use those readings to prepare bills."
     },
     {
-      "title": "Meters for large users and power lines",
-      "examples": "Meters for factories and offices, and for transformers and substations on the grid.",
-      "explanation": "Large users consume more power and need more detailed readings. Meters on transformers and substations show how much electricity enters and leaves each part of the network, so a utility can find where it is lost."
+      "title": "Prepaid meters",
+      "examples": "Agrim and other meters with prepaid options.",
+      "explanation": "A household can add credit before using electricity, much like topping up a mobile phone. The meter tracks electricity use against the available credit."
     },
     {
-      "title": "Gas and water meters",
-      "examples": "Smart gas meters and ultrasonic water meters.",
-      "explanation": "These apply the same idea of automatic readings to gas and water. Genus describes them as newer and still developing, so they are a smaller part of its business."
+      "title": "Installation and operation",
+      "examples": "Replacing old meters and running the network and software that receive readings.",
+      "explanation": "A distributor can buy the full job. Teams fit and test meters, set up a link to the billing system, and fix equipment or connections when readings stop arriving."
     },
     {
-      "title": "Data software and communication equipment",
-      "examples": "Systems that collect, store and check meter readings, and devices that connect meters to the network.",
-      "explanation": "Millions of meters would be useless without a system to receive and organise their readings. The head-end system receives the signals; the meter data management system stores and checks them. Genus says it develops much of this software itself."
+      "title": "Software that checks meter readings",
+      "examples": "Software that receives and checks readings before sending them to the distributor’s billing system.",
+      "explanation": "A distributor can use the software to spot missing readings and find which meters need attention."
     },
     {
-      "title": "Running whole smart-meter projects",
-      "examples": "Supplying, installing, running and maintaining smart meters for a DISCOM over several years.",
-      "explanation": "This is called the advanced metering infrastructure service provider (AMISP) model. Under it, Genus designs, builds, finances, owns and operates the system for years, then hands it over to the utility. Genus’s report calls this a source of predictable, annuity-style payments, meaning regular instalments over the contract, but Genus has to fund the equipment first."
+      "title": "Water and gas meters",
+      "examples": "Salil smart water meters and connected gas meters.",
+      "explanation": "A water meter measures how much water flows through a pipe. A gas meter measures how much gas is used. Both can send readings remotely."
     }
   ],
   "basics": [
     {
-      "title": "Why do electricity companies want smart meters?",
-      "text": "Electricity is lost in the lines and some of what is delivered is never billed or paid for. India’s electricity companies call the total aggregate technical and commercial (AT&C) losses. A meter that reports readings automatically and takes payment in advance gives the DISCOM more accurate billing and fewer unpaid bills."
+      "title": "What makes a meter smart?",
+      "text": "It can report its readings remotely. The meter still measures the electricity used at that property. A network carries the reading to the distributor."
     },
     {
-      "title": "What is a DISCOM?",
-      "text": "A DISCOM is an electricity distribution company: it buys power and delivers it to homes and businesses through local wires. Most are state-owned and many have struggled with losses and debts. Genus’s report describes government schemes to fix this, from an earlier scheme (UDAY) that pushed DISCOMs to cut losses and work more efficiently, to the current one that pays for smart meters. A DISCOM’s ability to pay Genus on time is therefore important."
+      "title": "What does a distributor do?",
+      "text": "It runs the local electricity lines and bills the homes and businesses connected to those lines. It can hire a company like Genus to measure usage and send the readings."
     },
     {
-      "title": "What is a special purpose project company?",
-      "text": "Genus often runs a project through a separate company set up only for it, called a special purpose vehicle (SPV). The SPV holds that project’s contract, meters and loans. This keeps one project’s risks apart from the rest of Genus, but the group’s accounts still combine them."
-    },
-    {
-      "title": "What is a share buyback?",
-      "text": "In a buyback, a company uses its own cash to buy some of its shares from shareholders who choose to sell. This reduces the number of shares in the market. It does not grow the business itself, so whether it is a good use of money depends on what else the company could have done with the cash."
+      "title": "What does an order book tell you?",
+      "text": "It shows work covered by orders and still to be done at a given date. Sales and cash arrive as work is completed, accepted and paid for."
     }
   ],
+  "stepsTitle": "From fitting a meter to getting paid",
   "steps": [
     {
-      "title": "A DISCOM invites bids",
-      "text": "The electricity company announces a tender for smart metering in an area and invites companies to bid on price and ability."
+      "title": "The distributor orders meters or a full system",
+      "text": "It sets the number of connections and the sort of readings it needs. A supply contract may end after the equipment is delivered and accepted."
     },
     {
-      "title": "Genus wins the contract and sets up a project company",
-      "text": "It signs the contract, often through a separate project company that will own the meters and take on the loans."
+      "title": "The project team fits and tests the meters",
+      "text": "On a full system job, installers replace the old boxes and check whether the new readings reach the distributor’s software."
     },
     {
-      "title": "Make and install the meters",
-      "text": "Meters are made in its factories and fitted at homes and businesses, along with the communication links and data systems."
+      "title": "The system starts sending readings used for billing",
+      "text": "The customer checks and accepts the work. At each agreed stage, Genus sends its customer an invoice, which is a request for payment. On some projects that customer is the company hired by the distributor."
     },
     {
-      "title": "Run the system and get paid over the years",
-      "text": "Genus keeps the meters working and the data flowing. Payments come over the contract period, so the money earned for installing meters arrives slowly."
-    },
-    {
-      "title": "Transfer to the utility at the end",
-      "text": "When the contract ends, the system is handed to the DISCOM. Until then Genus carries the cost of the equipment and the loans taken to pay for it."
+      "title": "Keep the system working and collect payments",
+      "text": "Teams repair faults and monitor readings while the project collects the payments due. Under contracts that require it, the project hands the system over to the distributor at the end."
     }
   ],
   "specifics": [
     {
-      "title": "The business now needs a lot of financing",
-      "text": "Genus’s annual report says it borrowed much more in FY 2025–26, to cover working capital and bank guarantees for a larger order book. Borrowing helps it win and deliver work, but interest and repayments are due whether or not a DISCOM pays on time."
+      "title": "The government programme matters",
+      "text": "India’s Revamped Distribution Sector Scheme helps electricity distributors upgrade their networks, including fitting smart prepaid meters. Genus’s annual report says these projects are an important source of orders."
     },
     {
-      "title": "A large order book is not cash",
-      "text": "Genus reported a very large order book, which is work it has been awarded but not yet carried out or been paid for. Meters still have to be made, installed and operated for years before the money arrives."
+      "title": "Genus can be both part-owner and contractor",
+      "text": "Genus owns 26% of Gemstar Infra alongside an affiliate of GIC (an investment company owned by Singapore’s government). Gemstar controls separate companies that hold project contracts. They hire Genus to do work. Genus’s group profit also includes its share of earnings from part-owned companies."
     },
     {
-      "title": "A government scheme provides the push",
-      "text": "Much of this work comes under the Revamped Distribution Sector Scheme, a Government programme to modernise electricity distribution, including smart prepaid meters. The report says the scheme has been extended to March 2028. Changes to its funding or deadlines would affect how much work is available."
-    },
-    {
-      "title": "Accounting for long contracts needs judgement",
-      "text": "The auditors named revenue and money owed from these long smart-meter contracts as a key audit matter, which means an area where they had to use particular care. For a beginner, it is a reminder to read the accounting notes on when revenue is recorded."
+      "title": "An order is only the starting point",
+      "text": "The latest filing includes work tied to Gemstar projects in the order book. Read that figure alongside meters fitted, systems accepted and customer payments."
     }
   ],
   "watch": [
     [
-      "Are electricity suppliers paying Genus on time?",
-      "Late payments can leave Genus borrowing to cover its bills.",
-      "Look at receivables, which are bills issued but not yet paid, as a share of sales across years, and read the annual report’s comments on delayed collections. Check which states or utilities are the largest customers."
+      "Are ordered meters reaching the point where customers accept them?",
+      "A meter ordered, one fitted and one sending usable readings are different stages.",
+      "Compare the company’s updates on the work remaining, meters fitted and systems brought into billing use."
     ],
     [
-      "How much is Genus borrowing, and what does it cost?",
-      "Projects need money first, and interest is paid whether or not customers pay.",
-      "Compare total borrowing, finance costs and bank guarantees with profit and cash from operations over several years. Check how much borrowing sits in project companies compared with the main company."
+      "How much cash is coming in after the work is billed?",
+      "Genus pays for equipment and workers before some customers pay.",
+      "Compare profit with cash from running the business. If bills customers still owe are growing, check whether cash is keeping up with sales."
     ],
     [
-      "Is the order book becoming installed meters and billed work?",
-      "Awarded work only becomes revenue as it is carried out and accepted.",
-      "Compare awarded meters with those installed and operating, and look for delays or contracts that were cancelled or changed. Check how each project’s revenue is recognised."
+      "Who funds new metering projects?",
+      "The listed company partly owns a partner business and also works as a contractor for some projects.",
+      "Read the notes on Gemstar Infra to see which company holds each contract, which one borrows, and which one Genus bills for its work."
     ],
     [
-      "Do projects earn enough over their full life?",
-      "Payments arrive slowly but costs come first.",
-      "Look for the profit margin on projects compared with meter sales, the prices won in tenders, and maintenance costs over the contract. Check what the company says about returns on money put into projects."
+      "How are longer service contracts doing after launch?",
+      "A fitted meter earns its keep only while the customer can use its readings.",
+      "Check whether company updates distinguish running and maintaining systems from putting new meters in."
     ],
     [
-      "How does the company use its cash?",
-      "Cash spent on a buyback or dividends cannot be used for projects.",
-      "Read the company’s stated reasons for any buyback, dividend or investment, and compare them with its borrowing and cash needs. Check how large each use is compared with cash from operations."
+      "How dependent is Genus on a few customers?",
+      "Slow payment from a large customer can leave a lot of bills unpaid at once.",
+      "Read the annual report’s note on large customers alongside the amounts customers still owe."
     ]
   ],
   "risks": [
     [
-      "Utilities pay late or not in full",
-      "The report lists delayed collections from utilities as a financial risk, and slower payments increase Genus’s need for borrowing."
+      "Getting access to fit meters",
+      "Elections, weather and limited access to premises can delay fitting and the start of service."
     ],
     [
-      "Government scheme or funding changes",
-      "A large part of demand comes from one government programme, so changes to its funding, deadlines or rules matter."
+      "Readings fail to reach the distributor",
+      "Teams may need repeat visits if equipment or network links fail, and the distributor cannot bill using a reading it did not get."
     ],
     [
-      "Installation delays and customer resistance",
-      "Fitting millions of meters in homes depends on access, local approval and skilled crews, and delays raise costs."
+      "Customers pay late",
+      "Genus pays for parts and installers before it receives some payments. Late payment keeps its cash tied up for longer."
     ],
     [
-      "Competition and low tender prices",
-      "Contracts are won by bidding, and aggressive bids from rivals can reduce what Genus earns on a project."
-    ],
-    [
-      "Technology and cybersecurity failures",
-      "Smart meters rely on networks and software, so failures or attacks can affect many customers at once."
-    ],
-    [
-      "Heavy financing",
-      "High borrowing makes the business sensitive to interest rates and delays in being paid."
+      "Demand depends on government orders",
+      "Changes to the public programme’s funding or deadlines could reduce or postpone orders."
     ]
-  ],
-  "context": [
-    "October 2026: the board approved a share buyback",
-    "On 26 October 2026 Genus Power’s board approved buying back up to 4.75 million of its own shares from shareholders through a tender offer, in which shareholders who held shares on 30 October 2026 can choose whether to sell. The price and total cost are in the filing; this lesson does not state amounts outside the figures at the end. Its 28 October 2026 filing says its controlling shareholders (called promoters) do not intend to sell. A buyback uses the company’s own cash and does not grow the business, so ask what else the money could have done, especially as Genus’s borrowings rose in FY 2025–26 to fund a larger order book. The full-year figures at the end of this page cover an earlier period."
-  ],
-  "sources": [
-    [
-      "FY 2025–26 annual report (NSE filing)",
-      "https://nsearchives.nseindia.com/annual_reports/AR_31250_GENUSPOWER_2025_2026_A_7862122_03092026171428.pdf"
-    ],
-    [
-      "Results presentation · 19 May 2026 (NSE filing)",
-      "https://nsearchives.nseindia.com/corporate/GENUSPOWER_19052026115652_IP_signed.pdf"
-    ],
-    [
-      "Board-meeting notice on buyback proposal · 19 October 2026 (NSE filing)",
-      "https://nsearchives.nseindia.com/corporate/GENUSPOWER_19102026170143_Intimation_signed.pdf"
-    ],
-    [
-      "Genus Power investor announcements page",
-      "https://genuspower.com/investor/"
-    ],
-    [
-      "Buyback approval and terms · 28 October 2026 (BSE filing)",
-      "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ae144425-206c-4804-bd79-7859555d9e9e.pdf"
-    ]
-  ],
-  "financialNotes": [
-    {
-      "title": "Read a project-financing business carefully",
-      "text": "Compare revenue and profit with cash from operations, bills not yet paid and borrowing. In the year to 31 March 2026 the group’s revenue was ₹4,751 crore and its profit after tax was ₹592 crore (consolidated, meaning Genus and its subsidiaries together; audited), both roughly double the year before. A few large customers, each over a tenth of revenue, together brought in ₹2,736 crore, more than half of it. Over the same year its borrowing rose to ₹2,300 crore, so check how much of that profit has been collected as cash and how revenue is recorded for long contracts."
-    }
-  ],
-  "checked": "31 October 2026",
-  "stepsTitle": "From a tender to years of payments.",
-  "quick": [
-    {
-      "title": "What it does",
-      "text": "Genus Power makes electricity meters. More and more, it also fits smart meters in homes and runs them for years for the state-owned companies that deliver electricity, called DISCOMs."
-    },
-    {
-      "title": "Who pays",
-      "text": "DISCOMs are the main customers. Households pay their electricity bill to the DISCOM, not to Genus. Factories, offices and gas and water companies buy other meters."
-    },
-    {
-      "title": "How it earns",
-      "text": "It sells meters outright, and it is also paid in instalments over several years for fitting, running and repairing smart meters. Those instalments arrive slowly, after Genus has already paid for the meters."
-    },
-    {
-      "title": "What it spends on",
-      "text": "Electronic parts, factory and installation work, software, bank guarantees (a bank’s paid promise to cover the customer if Genus fails to deliver) and interest on loans."
-    }
   ],
   "helps": [
     {
-      "title": "A government scheme drives demand",
-      "text": "Much of its work comes under the Revamped Distribution Sector Scheme (RDSS), a government programme that pays for smart prepaid meters among other things. Genus’s FY 2025–26 report says the scheme has been extended to March 2028."
+      "title": "Factories serve several kinds of buyer",
+      "text": "Genus can supply its own projects and sell meters to distributors and other installation firms."
     },
     {
-      "title": "A very large order book",
-      "text": "Genus’s FY 2025–26 report shows a very large order book: work it has won but not yet done. It points to years of possible work, though it is not revenue or cash until the meters are fitted and paid for."
+      "title": "Meters address several customer needs",
+      "text": "Distributors can buy meters for homes, larger buildings and parts of the local power network."
     },
     {
-      "title": "Years of payments per contract",
-      "text": "Running a smart-meter system brings regular payments over several years, which Genus’s report calls predictable, rather than a single sale of a meter."
+      "title": "Operating contracts can pay for years",
+      "text": "Where the contract covers upkeep, the distributor keeps paying for readings and a working system after the meters go in."
     }
   ],
   "hurts": [
     {
-      "title": "Utilities pay late",
-      "text": "Genus’s annual report lists delayed collections from utilities as a financial risk. It says most of its money is owed by government companies, which can pay late. Slow payments mean it must borrow more."
+      "title": "Low bids can leave little room for higher costs",
+      "text": "Companies compete when distributors invite bids. A tight price leaves less room for higher costs for parts or labour."
     },
     {
-      "title": "Heavy borrowing",
-      "text": "Genus’s debt rose faster than its shareholders’ funds in FY 2025–26, which its report puts down to more business activity. Interest and repayments are due whether or not a DISCOM pays on time."
+      "title": "Funding is needed before some work pays",
+      "text": "Upfront equipment and field costs can require borrowing. Interest is due even if a project runs late."
     },
     {
-      "title": "Reliance on one programme",
-      "text": "A large part of demand comes from one government scheme. Changes to its funding, deadlines or rules would change how many meters DISCOMs order."
-    },
-    {
-      "title": "Large projects can run late",
-      "text": "Genus’s report says big smart-meter projects involve fitting, connecting meters to a communication network and years of upkeep, which can delay timelines and cut profit."
+      "title": "A few customers account for much of sales",
+      "text": "The annual report shows that several large customers together account for more than half of annual revenue. Losing a large contract would affect the amount of work available."
     }
   ],
-  "photoCaption": "Electricity suppliers buy meters like these so households can pay before using power.",
-  "financialCue": "Read the note for the split between goods sold and services like fitting meters."
+  "context": [
+    "September 2026: installation pace varied",
+    "Genus’s November release said slower fitting in Uttar Pradesh, local elections, monsoon rains and the mix of meters sold weighed on revenue from the previous quarter. The figures below compare September with the same quarter last year."
+  ],
+  "sources": [
+    [
+      "Annual report 2025–26 and audited group results",
+      "https://nsearchives.nseindia.com/annual_reports/AR_31250_GENUSPOWER_2025_2026_A_7862122_03092026171428.pdf"
+    ],
+    [
+      "November 2026 signed September-quarter filing",
+      "https://nsearchives.nseindia.com/corporate/GENUSPOWER_14112026174211_Outcome_of_Board_Meeting.pdf"
+    ],
+    [
+      "November 2026 release explaining installations and results",
+      "https://nsearchives.nseindia.com/corporate/GENUSPOWER_16112026173142_Press_Release_Signed.pdf"
+    ],
+    [
+      "Genus business and operations overview",
+      "https://genuspower.com/about-us/company-overview/"
+    ],
+    [
+      "Genus smart electricity meter catalogue",
+      "https://genuspower.com/product-category/smart-meters/"
+    ],
+    [
+      "Genus prepaid meter catalogue",
+      "https://genuspower.com/product-category/prepayment-solution/"
+    ],
+    [
+      "Genus account of a meter rollout and its field work",
+      "https://genuspower.com/inside-genus-powers-journey-to-10-million-smart-meter-installations-in-india/"
+    ],
+    [
+      "Genus and its project funding partner’s announcement",
+      "https://www.gic.com.sg/newsroom/all/gic-genus-smart-metering-platform/"
+    ],
+    [
+      "Genus Salil smart water meter",
+      "https://genuspower.com/product/smart-water-meter/"
+    ],
+    [
+      "Genus smart gas meter",
+      "https://genuspower.com/product/smart-gas-meter/"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Read the group totals",
+      "text": "The audited year ended 31 March 2026 is reported for the group in rupees crore. The reported net profit includes the share of profit of some part-owned companies, while those companies’ full sales are outside group revenue."
+    },
+    {
+      "title": "Compare sales with cash collected",
+      "text": "Genus reports metering and related services as one business. The annual filing breaks out types of sales, including goods, services and some long contracts. Read that note alongside the cash from running the business and the amounts customers still owe."
+    }
+  ],
+  "financialCue": "Compare revenue with group profit, then see which sales the filing describes as goods, services or long project contracts.",
+  "photoCaption": "A smart electricity meter measures how much electricity a property uses and sends its readings to the distributor.",
+  "checked": "18 November 2026"
 }

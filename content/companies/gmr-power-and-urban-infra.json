@@ -1,0 +1,115 @@
+{
+  "order": 101,
+  "company": {
+    "id": "gmr-power-and-urban-infra",
+    "name": "GMR Power and Urban Infra Limited",
+    "ticker": "GMRP&UI",
+    "sector": "Energy & utilities",
+    "initial": "GMR",
+    "color": "#19486b",
+    "bg": "#eaf1f9",
+    "tag": "GMR installs smart electricity meters in Uttar Pradesh and keeps them sending readings to the local electricity supplier. It also runs power plants, trades electricity, operates highways and develops industrial sites.",
+    "logo": "assets/logos/gmr-power-and-urban-infra-official.svg",
+    "products": [
+      [
+        "Prepaid smart meter installation",
+        "Replacing old electricity meters with meters that send readings"
+      ],
+      [
+        "Smart meter network operation",
+        "Keeping readings flowing and equipment working"
+      ],
+      [
+        "Coal-fired power plants",
+        "Generating electricity to sell to electricity suppliers"
+      ],
+      [
+        "Solar and wind power",
+        "Generating electricity from sunlight and wind"
+      ],
+      [
+        "Private aircraft charter",
+        "Hiring a plane for a trip"
+      ],
+      [
+        "Highway operations",
+        "Operating and maintaining stretches of road"
+      ],
+      [
+        "Industrial land development",
+        "Preparing sites for factories and other businesses"
+      ]
+    ],
+    "sources": [],
+    "productSource": "https://www.gmrpowerurbaninfra.com/",
+    "aliases": [
+      "GMR Power and Urban Infra",
+      "GMR Power & Urban Infra",
+      "GPUIL",
+      "GMRP&UI",
+      "GMRP and UI",
+      "smart meter"
+    ],
+    "productNote": "The images include company photographs, product and project images, and labelled illustrations. The electricity meter and app images are drawn from GMR project material.",
+    "checked": "18 November 2026",
+    "reviewed": "18 November 2026"
+  },
+  "offerings": [
+    {
+      "name": "Prepaid smart meter installation",
+      "category": "Replacing old electricity meters with meters that send readings",
+      "image": "assets/products/gmr-power-and-urban-infra-1.webp",
+      "url": "https://www.gmrpowerurbaninfra.com/companies/gmr-smart-electricity-distribution-private-limited",
+      "kind": "pack",
+      "alt": "A smart electricity meter mounted on an exterior wall in GMR’s project material"
+    },
+    {
+      "name": "Smart meter network operation",
+      "category": "Keeping readings flowing and equipment working",
+      "image": "assets/products/gmr-power-and-urban-infra-2.webp",
+      "url": "https://www.gmrpowerurbaninfra.com/companies/gmr-smart-electricity-distribution-private-limited/gmr-kashi-smart-meters-limited",
+      "kind": "pack",
+      "alt": "GMR Kashi’s project image shows a person holding a phone with the smart-meter app"
+    },
+    {
+      "name": "Coal-fired power plants",
+      "category": "Generating electricity to sell to electricity suppliers",
+      "image": "assets/products/gmr-power-and-urban-infra-3.webp",
+      "url": "https://www.gmrpowerurbaninfra.com/companies/gmr-energy-limited/gmr-kamalanga-energy-limited",
+      "kind": "photo",
+      "alt": "Aerial view of GMR’s Kamalanga coal-fired power station and its two chimneys"
+    },
+    {
+      "name": "Solar and wind power",
+      "category": "Generating electricity from sunlight and wind",
+      "image": "assets/products/gmr-power-and-urban-infra-4.webp",
+      "url": "https://www.gmrpowerurbaninfra.com/companies/gmr-energy-limited",
+      "kind": "illustration",
+      "alt": "GMR’s renewable energy artwork shows rows of solar panels and wind turbines"
+    },
+    {
+      "name": "Private aircraft charter",
+      "category": "Hiring a plane for a trip",
+      "image": "assets/products/gmr-power-and-urban-infra-5.webp",
+      "url": "https://www.gmrpowerurbaninfra.com/companies/gmr-aviation-private-limited",
+      "kind": "photo",
+      "alt": "A GMR Aviation charter aircraft parked on an airport apron"
+    },
+    {
+      "name": "Highway operations",
+      "category": "Operating and maintaining stretches of road",
+      "image": "assets/products/gmr-power-and-urban-infra-6.webp",
+      "url": "https://www.gmrpowerurbaninfra.com/companies/gmr-highways-limited",
+      "kind": "photo",
+      "alt": "A highway stretches between fields and hills in GMR’s road business material"
+    },
+    {
+      "name": "Industrial land development",
+      "category": "Preparing sites for factories and other businesses",
+      "image": "assets/products/gmr-power-and-urban-infra-7.webp",
+      "url": "https://www.gmrpowerurbaninfra.com/companies/gmr-krishnagiri-sir-limited",
+      "kind": "illustration",
+      "alt": "GMR’s aerial rendering shows plots, buildings and access roads in an industrial development"
+    }
+  ]
+}

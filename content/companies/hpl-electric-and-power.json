@@ -1,0 +1,115 @@
+{
+  "order": 102,
+  "company": {
+    "id": "hpl-electric-and-power",
+    "name": "HPL Electric & Power Limited",
+    "ticker": "HPL",
+    "sector": "Industrials & infrastructure",
+    "initial": "HPL",
+    "logo": "assets/logos/hpl-electric-and-power-official.webp",
+    "color": "#ac2433",
+    "bg": "#f9edef",
+    "tag": "The business behind the offering",
+    "products": [
+      [
+        "Single-phase smart electricity meter",
+        "Measures household electricity use and sends readings remotely"
+      ],
+      [
+        "Three-phase smart electricity meter",
+        "Measures larger electricity connections and sends readings remotely"
+      ],
+      [
+        "Neeram Pulse water meter",
+        "Measures the water that passes through a pipe"
+      ],
+      [
+        "Wires and cables",
+        "Carry electricity through buildings and equipment"
+      ],
+      [
+        "Circuit breakers",
+        "Cut power automatically when a circuit is overloaded"
+      ],
+      [
+        "Lighting",
+        "Lamps and fittings for homes, workplaces and outdoor sites"
+      ],
+      [
+        "Modular switches",
+        "Switches and sockets fitted together on a wall plate"
+      ]
+    ],
+    "sources": [],
+    "productSource": "https://www.hplindia.com/",
+    "checked": "18 Nov 2026",
+    "reviewed": "18 November 2026",
+    "aliases": [
+      "HPL Electric",
+      "HPL Electric and Power",
+      "smart meter supplier",
+      "electricity meters",
+      "Neeram Pulse",
+      "switchgear",
+      "smart meter"
+    ]
+  },
+  "offerings": [
+    {
+      "name": "Single-phase smart electricity meter",
+      "category": "Measures household electricity use and sends readings remotely",
+      "image": "assets/products/hpl-electric-and-power-1.webp",
+      "url": "https://www.hplindia.com/product/meters/single-phase-smart-energy-meter/",
+      "kind": "pack",
+      "alt": "Single-phase smart electricity meter shown in HPL’s product material"
+    },
+    {
+      "name": "Three-phase smart electricity meter",
+      "category": "Measures larger electricity connections and sends readings remotely",
+      "image": "assets/products/hpl-electric-and-power-2.webp",
+      "url": "https://www.hplindia.com/product/meters/three-phase-smart-energy-meter/",
+      "kind": "pack",
+      "alt": "Three-phase smart electricity meter shown in HPL’s product material"
+    },
+    {
+      "name": "Neeram Pulse water meter",
+      "category": "Measures the water that passes through a pipe",
+      "image": "assets/products/hpl-electric-and-power-3.webp",
+      "url": "https://www.hplindia.com/product/meters/neeram-pulse-water-meter/",
+      "kind": "pack",
+      "alt": "Neeram Pulse water meter shown in HPL’s product material"
+    },
+    {
+      "name": "Wires and cables",
+      "category": "Carry electricity through buildings and equipment",
+      "image": "assets/products/hpl-electric-and-power-4.webp",
+      "url": "https://www.hplindia.com/wire-cables/",
+      "kind": "pack",
+      "alt": "Wires and cables shown in HPL’s product material"
+    },
+    {
+      "name": "Circuit breakers",
+      "category": "Cut power automatically when a circuit is overloaded",
+      "image": "assets/products/hpl-electric-and-power-5.webp",
+      "url": "https://www.hplindia.com/switchgear/",
+      "kind": "pack",
+      "alt": "Circuit breakers shown in HPL’s product material"
+    },
+    {
+      "name": "Lighting",
+      "category": "Lamps and fittings for homes, workplaces and outdoor sites",
+      "image": "assets/products/hpl-electric-and-power-6.webp",
+      "url": "https://www.hplindia.com/lighting/",
+      "kind": "pack",
+      "alt": "Lighting shown in HPL’s product material"
+    },
+    {
+      "name": "Modular switches",
+      "category": "Switches and sockets fitted together on a wall plate",
+      "image": "assets/products/hpl-electric-and-power-7.webp",
+      "url": "https://www.hplindia.com/modular-switches/",
+      "kind": "pack",
+      "alt": "Modular switches shown in HPL’s product material"
+    }
+  ]
+}
