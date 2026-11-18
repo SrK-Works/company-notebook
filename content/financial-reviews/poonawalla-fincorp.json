@@ -1,0 +1,26 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "checked": "18 November 2026",
+  "status": "totals",
+  "coverage": "Whole-group lending results",
+  "revenueLabel": "Revenue from operations",
+  "incomeDefinition": "Includes interest, fees and other income from the lender’s finance operations. Repayments of the original loan are excluded.",
+  "profitMetric": "Profit after tax",
+  "definition": "Profit after the costs and expected credit losses recognised in the accounts, and after tax.",
+  "rows": [
+    {
+      "name": "Poonawalla Fincorp · whole group",
+      "revenue": 6790.18,
+      "profit": 541.81
+    }
+  ],
+  "source": "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_NBFC_INDAS_155679_05052026203608_iXBRL_WEB.html",
+  "sourceLabel": "Audited full-year financial results",
+  "location": "Exchange financial results, audited 1 April 2025 to 31 March 2026 column, income and expense lines and rows 15 and 18.",
+  "notes": "Interest income was ₹6,140.81 crore compared with ₹2,766.67 crore of finance cost. The group recognised ₹1,104.13 crore of impairment on financial instruments, largely money it estimates may not be recovered under the relevant contracts. The table does not divide group profit among individual loan products.",
+  "insight": "Interest is the main source of operating revenue. Funding costs and expected losses both matter when assessing how much the group earned for shareholders.",
+  "revenueTotal": 6790.18,
+  "profitTotal": 541.81
+}
