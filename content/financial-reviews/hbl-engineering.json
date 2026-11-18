@@ -1,0 +1,42 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "checked": "18 November 2026",
+  "status": "segments",
+  "coverage": "Three disclosed businesses and an unallocated row",
+  "revenueLabel": "Segment revenue",
+  "incomeDefinition": "The annual segment rows are shown before removing internal sales.",
+  "profitMetric": "Segment result",
+  "definition": "Results before interest, unusual income or expenses, shared items and tax. The unallocated row in the published table includes activities too small to report as separate segments.",
+  "rows": [
+    {
+      "name": "Industrial Batteries",
+      "revenue": 1416.22,
+      "profit": 341.16
+    },
+    {
+      "name": "Defence & Aviation Batteries",
+      "revenue": 211.58,
+      "profit": 57.61
+    },
+    {
+      "name": "Electronics",
+      "revenue": 1626.25,
+      "profit": 818.49
+    },
+    {
+      "name": "Unallocated",
+      "revenue": 57.27,
+      "profit": -78.03
+    }
+  ],
+  "source": "https://hbl.in/reports/financial_results_30092026.pdf",
+  "sourceLabel": "Audited full-year financial results",
+  "location": "Consolidated Financial Results rows 7–12 and Consolidated Segment Information, audited year ended 31 March 2026. Cause of exceptional charge: FY26 annual report, PDF page 244, consolidated note 41.",
+  "notes": "Removing ₹8.49 crore of internal sales gives ₹3,302.83 crore of group operating revenue. Group profit after tax was ₹814.44 crore. An unusual ₹31.25 crore net expense included engineering work the company removed from its accounts after project specifications changed.",
+  "insight": "Electronics earned the largest reported segment result for this year. The Electronics row contains more than one product and gives no separate earnings figure for Kavach.",
+  "revenueTotal": 3311.32,
+  "profitTotal": 1139.24,
+  "revenueTotalLabel": "Gross segment revenue before internal sales are removed"
+}
