@@ -1,0 +1,32 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "checked": "18 November 2026",
+  "status": "segments",
+  "coverage": "Supply Chain Management and Enterprise Mobility Services",
+  "revenueLabel": "Segment revenue",
+  "incomeDefinition": "The segment rows include sales to other parts of the group. Those sales are removed from the reported group revenue.",
+  "profitMetric": "Segment result",
+  "definition": "The filing’s segment earnings before tax and the share of earnings from a partly owned business or joint venture. Use the separate group profit after tax for the full-year result.",
+  "rows": [
+    {
+      "name": "Supply Chain Management",
+      "revenue": 6613.03,
+      "profit": 23.53
+    },
+    {
+      "name": "Enterprise Mobility Services",
+      "revenue": 400.17,
+      "profit": 9.82
+    }
+  ],
+  "source": "https://mahindralogistics.com/tabs/cms/files/Annual_Financial_Results_FY_2026.pdf",
+  "sourceLabel": "Audited full-year financial results",
+  "location": "Consolidated financial result rows 1, 6, 9 and 12 and consolidated Segment Information rows 1–2, audited annual column.",
+  "notes": "Removing ₹13.90 crore of internal sales gives ₹6,999.30 crore of group operating revenue. Group profit after tax was ₹10.57 crore, of which ₹2.29 crore belonged to Mahindra Logistics shareholders. The group recorded a ₹7.36 crore charge before tax for higher employee benefits due after new labour rules.",
+  "insight": "Handling and moving goods brings in most of the group’s sales. Employee transport is smaller, and it contributed a meaningful share of the reported segment result.",
+  "revenueTotal": 7013.2,
+  "profitTotal": 33.35,
+  "revenueTotalLabel": "Gross segment revenue before internal sales are removed"
+}
