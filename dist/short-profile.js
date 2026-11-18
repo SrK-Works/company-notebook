@@ -17,6 +17,31 @@ window.shortProfile=(()=>{
   'indian-railway-finance-corporation':{
    lead:'The Ministry of Railways pays IRFC to use train engines and other railway equipment that IRFC helped fund.',
    cue:'Start with lease and interest income, then see how much borrowing costs take out. The breakdown is below the table.'
+  },
+  'glass-wall-systems':{
+   lead:'Developers pay for glass exterior walls that Glass Wall Systems designs, makes and fits.',
+   watch:['Are signed projects turning into finished walls?','Signed orders still need crews, materials and site access.'],
+   cue:'This is whole-company profit. There’s no separate figure for glass walls.'
+  },
+  delhivery:{
+   lead:'Online shops and other senders pay Delhivery to collect, sort and deliver parcels like this one.',
+   watch:['Are parcels growing faster than costs?','More deliveries help when the extra fees cover the extra work.'],
+   cue:'Compare delivery and other service fees with the profit left after costs and tax.'
+  },
+  'polycab-india':{
+   lead:'Dealers buy insulated wire like this from Polycab and sell it to electricians and builders.',
+   watch:['Did Polycab sell more wire, or did prices rise?','Higher copper prices can lift sales even when the same length of wire is sold.'],
+   cue:'Compare Wires and Cables with the group that sells fans, lights and switches. The result column shows what each business earned on the company’s reporting basis.'
+  },
+  ntpc:{
+   lead:'At this coal-fired station, NTPC makes electricity and sells it to buyers such as local power suppliers.',
+   watch:['Are new stations ready to sell electricity?','A station costs money to build before it can earn by supplying power.'],
+   cue:'Start with Generation of energy. This row combines power sources, so it does not show separate profits for coal and renewables.'
+  },
+  swiggy:{
+   lead:'A food order helps Swiggy earn fees from restaurants and delivery charges from customers.',
+   watch:['Are customers coming back to order again?','Discounts can bring in orders without showing whether customers will return.'],
+   cue:'Compare Food Delivery with Quick Commerce (Instamart). Which shows a loss?'
   }
  };
  const render=(c,h)=>{
@@ -30,9 +55,9 @@ window.shortProfile=(()=>{
   // A worked example with made-up numbers, always labelled so it cannot be mistaken for the company's figures.
   // When the text is several sentences (a set of numbers), the first sentence leads and the rest become short lines.
   const madeUp=({title,text})=>{const parts=String(text).split(/(?<=[.!?])\s+/).filter(Boolean);const body=parts.length>=4?`<p>${safe(parts[0])}</p><ul>${parts.slice(1).map(x=>`<li>${safe(x)}</li>`).join('')}</ul>`:`<p>${safe(text)}</p>`;return `<aside class="primer-illustration"><div class="primer-illustration-label">Illustration · made-up numbers, not the company’s figures</div><h4>${safe(title)}</h4>${body}</aside>`};
-  const tile=(p,i)=>`<a class="sp-tile${i===0?' sp-tile-lead':''}${i>=5?' sp-tile-wide':''}${p.kind==='pack'?' sp-tile-pack':''}" href="${safe(p.url)}" target="_blank" rel="noopener"><img src="${safe(p.image)}" alt="${safe(p.alt)}" loading="${i<2?'eager':'lazy'}" decoding="async"><span class="sp-cap"><strong>${safe(p.name)}</strong><span>${safe(p.category)}</span>${p.kind==='pack'?'<span>Product image</span>':p.kind==='generic'?`<span>Representative photo${p.credit?` · ${safe(p.credit)}`: ''}</span>`:''}</span></a>`;
+  const tile=(p,i)=>`<a class="sp-tile${i===0?' sp-tile-lead':''}${i>=5?' sp-tile-wide':''}${p.kind==='pack'?' sp-tile-pack':''}" href="${safe(p.url)}" target="_blank" rel="noopener"><img src="${safe(p.image)}" alt="${safe(p.alt)}" loading="${i<2?'eager':'lazy'}" decoding="async"><span class="sp-cap"><strong>${safe(p.name)}</strong><span${i===0&&trial?.lead?' class="offering-lead"':''}>${safe(i===0&&trial?.lead?trial.lead:p.category)}</span>${p.kind==='pack'?'<span>Product image</span>':p.kind==='generic'?`<span>Representative photo${p.credit?` · ${safe(p.credit)}`: ''}</span>`:''}</span></a>`;
   const products=c.products||[];
-  const visuals=!trial&&photos.length>=5?`<section class="sp-photos" aria-label="What ${safe(c.name)} offers, in pictures"><div class="sp-grid">${[...photos,...extraVisuals].map(tile).join('')}</div><p class="source-note">Selected company photos and product images, with independent examples labelled. Open an image to see its source.</p></section>`:(window.productShelf?.render(c,{leadText:trial?.lead})||'');
+  const visuals=photos.length>=5?`<section class="sp-photos" aria-label="What ${safe(c.name)} offers, in pictures"><div class="sp-grid">${[...photos,...extraVisuals].map(tile).join('')}</div><p class="source-note">Selected company photos and product images, with independent examples labelled. Open an image to see its source.</p></section>`:(window.productShelf?.render(c,{leadText:trial?.lead})||'');
   const older=window.FIGURE_WALKTHROUGHS?.[c.id]?.()||'';
   const deeper=[
    ['The main products and services',`<div class="sp-blocks">${l.groups.map(g=>`<div><h4>${safe(g.title)}</h4><p><strong>What the customer gets:</strong> ${safe(g.examples)}</p><p>${safe(g.explanation)}</p></div>`).join('')}</div>`],
