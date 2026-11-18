@@ -1,0 +1,42 @@
+{
+  "status": "segments",
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "coverage": "Business segments · group totals",
+  "unit": "₹ crore",
+  "revenueLabel": "Segment revenue",
+  "incomeDefinition": "The segment rows include sales to other parts of the group. Suzlon removes those sales to report group revenue from operations.",
+  "profitMetric": "Segment result",
+  "definition": "The company’s result for each reported business before group finance costs, other income, unusual gains or losses and tax.",
+  "rows": [
+    {
+      "name": "Wind Turbine Generator",
+      "revenue": 14040.19,
+      "profit": 1853.79
+    },
+    {
+      "name": "Foundry & Forging",
+      "revenue": 596.49,
+      "profit": 86.27
+    },
+    {
+      "name": "Operation & Maintenance Service",
+      "revenue": 2483.85,
+      "profit": 759.23
+    },
+    {
+      "name": "Others",
+      "revenue": 7.9,
+      "profit": 4.64
+    }
+  ],
+  "revenueTotal": 17128.43,
+  "revenueTotalLabel": "Gross segment revenue before removing internal sales",
+  "profitTotal": 2703.93,
+  "source": "https://nsearchives.nseindia.com/corporate/SUZLON1_25052026150821_Suzlon25052026.pdf",
+  "sourceLabel": "Audited annual results filed with NSE",
+  "location": "Consolidated results and note 9 segment reporting, printed results pages 1 and 4 of 7; audited year ended 31 March 2026.",
+  "checked": "18 November 2026",
+  "notes": "Removing ₹449.32 crore of internal sales leaves group revenue from operations of ₹16,679.11 crore. Reported profit after tax was ₹3,163.39 crore. The year included a ₹70 crore gain from settling a contract matter and a net deferred tax benefit of ₹749.23 crore. This tax entry is separate from cash earned on customer work.",
+  "insight": "Turbines and projects brought in most of the revenue. Maintenance contributed a larger share of the business results than of gross segment revenue, so look at both activities."
+}

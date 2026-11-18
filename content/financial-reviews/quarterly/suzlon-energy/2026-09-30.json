@@ -1,0 +1,36 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-29",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 4869.05,
+      "previous": 3865.54
+    },
+    {
+      "label": "Profit after tax",
+      "current": 394.15,
+      "previous": 1279.44
+    }
+  ],
+  "change": "Suzlon delivered more turbine capacity and earned more revenue. Reported profit fell from a year earlier, when recognising future tax savings had raised profit without bringing in customer cash.",
+  "watch": "Compare the earnings from turbines before tax, the type of work in new orders, and how much sales growth brings in cash.",
+  "sources": [
+    {
+      "label": "Official consolidated September quarter results",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d1b153e2-adb0-4973-a18d-ce467415756b.pdf",
+      "location": "PDF page 9, September 2026 and September 2025 three-month columns, rows 1(a), 6 and 9."
+    },
+    {
+      "label": "Suzlon September business update",
+      "url": "https://www.suzlon.com/media/press/press-releases/suzlon-q2-revenue-grows-26-yo-y-on-record-deliveries/",
+      "location": "Q2 consolidated snapshot, delivery comparison and footnote on deferred tax asset recognised in the September 2025 quarter."
+    }
+  ]
+}
