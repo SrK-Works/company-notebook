@@ -1,0 +1,32 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "coverage": "Continuing operations · segments",
+  "unit": "₹ crore",
+  "checked": "18 November 2026",
+  "status": "segments",
+  "revenueLabel": "Segment income",
+  "incomeDefinition": "Segment income includes sales, other income, and amounts counted between the two businesses. Group total income removes those internal amounts.",
+  "profitMetric": "Segment result",
+  "definition": "For the continuing businesses, the two segment results add up to group profit before unusual items and tax. The table excludes the packaged snack unit that was sold.",
+  "rows": [
+    {
+      "name": "Movie exhibition",
+      "revenue": 6607.9,
+      "profit": 253.6
+    },
+    {
+      "name": "Movie production and distribution",
+      "revenue": 371.4,
+      "profit": 21.6
+    }
+  ],
+  "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/929df61f-e3eb-4697-9bc2-96520da3edec.pdf",
+  "sourceLabel": "Audited annual report filed with BSE",
+  "location": "PDF pages 240, 278, 294 and 302–303. Consolidated profit and loss statement and Notes 31, 41 and 47.",
+  "notes": "After removing ₹149.6 crore counted between parts of the group, group total income was ₹6,829.7 crore. Sales from operations were ₹6,646.2 crore. A net ₹48.3 crore charge for changes to labour rules and a property write-down reduced the continuing result before tax. The group earned ₹176.1 crore after tax from continuing operations. Including the discontinued packaged snack business and the gain on its sale, reported group profit after tax was ₹332.8 crore.",
+  "insight": "Running cinemas brought in most reported segment income and earnings. That row includes tickets, cinema food, advertising and related income together.",
+  "revenueTotal": 6979.3,
+  "revenueTotalLabel": "Gross segment income before removing internal amounts",
+  "profitTotal": 275.2
+}

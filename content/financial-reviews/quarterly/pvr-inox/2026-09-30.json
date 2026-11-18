@@ -1,0 +1,28 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-28",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Continuing operations",
+  "sourceUnit": "million",
+  "metrics": [
+    {"label":"Revenue from operations","current":21051,"previous":17996},
+    {"label":"Profit after tax from continuing operations","current":2631,"previous":1082}
+  ],
+  "change": "More people visited, and visitors spent more on average on tickets and food. Revenue rose and profit after tax from continuing operations more than doubled. Both periods leave out the sold packaged snacks business.",
+  "watch": "Compare ticket prices, attendance and spending at the food counter. Check how much a busy quarter contributes after film rights, staffing and rent.",
+  "sources": [
+    {
+      "label": "Signed September 2026 results filed with BSE",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/15562952-20ba-4b3d-b289-4173014ee0c8.pdf",
+      "location": "PDF page 9, consolidated results, 30 September 2026 and 2025 three-month columns, rows 1 and 9. See Note 6 for prior figures reflecting discontinued operations."
+    },
+    {
+      "label": "September 2026 operating discussion filed with NSE",
+      "url": "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_03112026181747_PVRINOXEarningsCallTranscript28102026.pdf",
+      "location": "Opening discussion of attendance, average ticket price and food and drinks spending. The table uses the signed accounting results including lease accounting."
+    }
+  ]
+}
