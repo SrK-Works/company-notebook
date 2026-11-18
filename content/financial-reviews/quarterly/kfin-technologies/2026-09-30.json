@@ -1,0 +1,36 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-26",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "million",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 4017.96,
+      "previous": 3092.34
+    },
+    {
+      "label": "Profit after tax",
+      "current": 1003.42,
+      "previous": 933.13
+    }
+  ],
+  "change": "Group revenue grew faster than profit. International and other investor services brought in more sales, but that segment’s reported result fell. The current quarter includes Ascent.",
+  "watch": "Check whether the overseas work adds profit as well as sales. The latest quarter includes Ascent, acquired after the comparison quarter.",
+  "sources": [
+    {
+      "label": "Signed September-quarter filing with BSE",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/572f541f-49b0-4ccf-96df-f6c5e584f797.pdf",
+      "location": "Consolidated segment table, PDF page 7, and note 5 on PDF page 9 for Ascent."
+    },
+    {
+      "label": "Consolidated NSE structured filing",
+      "url": "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_INDAS_204497_26102026204416_iXBRL_WEB.html",
+      "location": "September 2026 current quarter, income and total profit for period."
+    }
+  ]
+}

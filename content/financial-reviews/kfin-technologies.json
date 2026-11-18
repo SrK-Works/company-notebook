@@ -1,0 +1,35 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "coverage": "Three reported business groups · group figures",
+  "unit": "₹ crore",
+  "checked": "18 November 2026",
+  "status": "segments",
+  "profitMetric": "Segment result",
+  "definition": "The result each business reports before interest, tax, shared management costs and other income.",
+  "rows": [
+    {
+      "name": "Domestic mutual fund investor solutions",
+      "revenue": 862.227,
+      "profit": 488.922
+    },
+    {
+      "name": "Issuer solutions",
+      "revenue": 171.229,
+      "profit": 84.301
+    },
+    {
+      "name": "International and other investor solutions",
+      "revenue": 268.037,
+      "profit": 25.601
+    }
+  ],
+  "source": "https://investor.kfintech.com/wp-content/uploads/2026/04/Intimation-42-1.pdf",
+  "sourceLabel": "Audited full-year consolidated accounts",
+  "location": "PDF pages 48–49, audited consolidated statement and operating segments, annual column to 31 March 2026.",
+  "notes": "The group reported ₹343.71 crore in profit after tax after shared costs, other income, interest, unusual items and tax. The year included a ₹12.59 crore charge linked to employee benefits under new labour rules.",
+  "insight": "Domestic mutual fund services brought in the most revenue and had the largest result before shared costs and tax.",
+  "revenueTotal": 1301.493,
+  "revenueTotalLabel": "Revenue from operations",
+  "profitTotal": 598.824
+}
