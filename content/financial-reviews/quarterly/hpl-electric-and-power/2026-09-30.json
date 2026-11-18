@@ -1,0 +1,28 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-05",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "lakh",
+  "metrics": [
+    { "label": "Revenue from operations", "current": 60831.08, "previous": 43444.82 },
+    { "label": "Profit after tax", "current": 2340.37, "previous": 2235.73 }
+  ],
+  "change": "Sales grew in both business groups, with wires and cables contributing strongly. Profit grew more slowly than sales as costs rose and the mix of products sold changed.",
+  "watch": "Check whether growing sales of wires and meters leave more money after paying for metals, components and factory costs.",
+  "sources": [
+    {
+      "label": "Signed quarterly results filed with the exchange",
+      "url": "https://nsearchives.nseindia.com/corporate/HPL_05112026165734_SignedOutcomeofBoardMeeting.pdf",
+      "location": "Unaudited consolidated results, September 2026 and September 2025 quarter columns, rows 1(a) and 7. Includes the share of outside owners in controlled businesses."
+    },
+    {
+      "label": "Company results release",
+      "url": "https://nsearchives.nseindia.com/corporate/HPL_05112026174602_SignedPressRelease.pdf",
+      "location": "Consumer & Industrial and Smart Metering discussion and management remarks on costs and product mix."
+    }
+  ]
+}

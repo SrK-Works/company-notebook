@@ -1,0 +1,30 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "checked": "18 November 2026",
+  "status": "segments",
+  "coverage": "Two reported business groups · group totals",
+  "profitMetric": "Segment result",
+  "definition": "What each business group earned before company-wide costs, interest, unusual charges and tax. It is different from the profit HPL reported after all these costs.",
+  "rows": [
+    {
+      "name": "Metering, Systems & Services",
+      "revenue": 1026.4315,
+      "profit": 179.8808
+    },
+    {
+      "name": "Consumer, Industrial & Services",
+      "revenue": 784.6652,
+      "profit": 80.1066
+    }
+  ],
+  "source": "https://investor.hplindia.com/photos/investor-pdf/SignedHPLBMOutcome.pdf",
+  "sourceLabel": "Audited group results to 31 March 2026",
+  "location": "Audited consolidated statement, rows 1 and 5–10, and Consolidated Segmentwise Revenue, Results, Assets and Liabilities, sections (a) and (b), audited year ended 31 March 2026 column.",
+  "notes": "The company reported no sales between its two business groups in this table. Subtract company-wide costs after other income, interest and an unusual charge to reach group profit before tax of ₹123.48 crore. Group profit after tax was ₹91.25 crore, of which ₹91.01 crore was attributable to HPL’s shareholders.",
+  "insight": "Metering, Systems & Services brought in more sales and earned more before shared costs than Consumer, Industrial & Services this year. The metering group covers more than smart electricity meters, so use the row to understand the business group as a whole.",
+  "revenueTotal": 1811.0967,
+  "revenueTotalLabel": "Revenue from operations",
+  "profitTotal": 259.9874
+}
