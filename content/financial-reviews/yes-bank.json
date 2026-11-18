@@ -1,0 +1,48 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "coverage": "Audited bank group results · four operating segments and group adjustments",
+  "unit": "₹ crore",
+  "checked": "18 November 2026",
+  "status": "segments",
+  "profitMetric": "Reported segment result",
+  "definition": "The company’s reported segment result after taking account of operating costs and possible loan losses, but before income tax.",
+  "rows": [
+    {
+      "name": "Treasury",
+      "revenue": 7721.13,
+      "profit": 2760.03
+    },
+    {
+      "name": "Corporate Banking",
+      "revenue": 12332.66,
+      "profit": 3195.69
+    },
+    {
+      "name": "Retail Banking",
+      "revenue": 15421.26,
+      "profit": -1648.93
+    },
+    {
+      "name": "Other Banking Operations",
+      "revenue": 1341.28,
+      "profit": 769.54
+    },
+    {
+      "name": "Unallocated",
+      "revenue": 105.05,
+      "profit": -432.91
+    }
+  ],
+  "source": "https://nsearchives.nseindia.com/corporate/YESBANK_18042026135748_YBL_SE_Intimation_Outcome_BM_signed.pdf",
+  "sourceLabel": "Audited annual bank and segment results",
+  "location": "Signed April 18 NSE report, consolidated audited financial results and consolidated segment reporting, 31 March 2026 annual column.",
+  "notes": "The group reports ₹36,921.38 crore across the four segments and unassigned income, plus a positive inter-segment adjustment of ₹371.37 crore, giving ₹37,292.75 crore in group total income. The group earned ₹4,643.42 crore before tax and ₹3,512.05 crore after tax before deducting the share that belongs to minority owners of controlled companies. Profit after tax attributable to YES BANK shareholders was ₹3,511.71 crore.",
+  "insight": "Corporate Banking and Treasury earned positive reported results. Retail Banking brought in the highest segment income but had a negative segment result.",
+  "revenueTotal": 36921.38,
+  "revenueTotalLabel": "Total segment income before the inter-segment adjustment",
+  "profitTotal": 4643.42,
+  "profitTotalLabel": "Group profit before tax",
+  "revenueLabel": "Total income",
+  "incomeDefinition": "Gross interest earned from loans and investments plus fees and other income, before funding costs, operating bills and expected loan losses."
+}
