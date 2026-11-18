@@ -1,0 +1,20 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-28",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "million",
+  "metrics": [
+    {"label": "Revenue from operations", "current": 41315.82, "previous": 30736.72},
+    {"label": "Profit or loss after tax", "current": -1324.46, "previous": -4113.60}
+  ],
+  "change": "Revenue rose, helped by ads. Delivery cost per parcel fell and the group’s loss narrowed. A year earlier it had a vendor settlement and costs and tax from reorganising the business.",
+  "watch": "Check whether more shoppers keep ordering and whether delivery and return costs stay low. Meesho’s big festive sale moved into the following quarter this year.",
+  "sources": [
+    {"label": "Official September-quarter results filed with NSE", "url": "https://nsearchives.nseindia.com/corporate/MEESHO_28102026170916_Final_MLBMOutcome28102026_-_First_half.pdf", "location": "Unaudited consolidated results, September 2026 and September 2025 quarter columns, rows I and VII, and notes 2, 4 and 7."},
+    {"label": "Meesho’s shareholder letter, 28 October 2026", "url": "https://nsearchives.nseindia.com/corporate/MEESHO_28102026171517_MLshareholdersletter28102026.pdf", "location": "Marketplace discussion, Contribution Margin and Non GAAP Reconciliation sections."}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "coverage": "Audited group results · two reported business segments",
+  "unit": "₹ crore",
+  "checked": "18 November 2026",
+  "status": "segments",
+  "profitMetric": "Reported segment result",
+  "definition": "The company’s measure for each part of the business. It leaves out financing costs, some other income, the accounting cost of equipment and software, employee share awards, unusual items and tax.",
+  "rows": [
+    {"name": "Marketplace", "revenue": 12614.181, "profit": -1177.827},
+    {"name": "New Initiatives", "revenue": 12.167, "profit": -70.239}
+  ],
+  "source": "https://static-assets.meesho.com/investor-relations/manual-uploads/IntimationShareholdersresult0605.pdf",
+  "sourceLabel": "Audited consolidated full-year results",
+  "location": "PDF pages 23 and 27–29, audited year ended 31 March 2026 column; income statement, notes 3 and 5, and consolidated segment table.",
+  "notes": "The segment rows exclude a positive group adjustment of ₹1.96 crore. After reconciling other income, financing and other costs, the group reported a loss after tax of ₹1,357.74 crore. This included ₹141.09 crore of unusual costs from a business reorganisation and a vendor settlement, plus ₹69.83 crore in tax tied to that reorganisation. The previous year had much larger unusual costs and tax related to the reorganisation.",
+  "insight": "The shopping marketplace brought in nearly all reported revenue, and both reported business segments showed losses on the company’s segment measure.",
+  "revenueTotal": 12626.348,
+  "revenueTotalLabel": "Revenue from operations",
+  "profitTotal": -1248.066
+}
