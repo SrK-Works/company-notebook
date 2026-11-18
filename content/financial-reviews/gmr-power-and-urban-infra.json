@@ -1,0 +1,47 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "coverage": "Reported business segments · continuing operations",
+  "unit": "₹ crore",
+  "revenueLabel": "Segment revenue",
+  "incomeDefinition": "Rows include sales to other parts of the group. The group’s revenue from operations removes those internal sales.",
+  "profitMetric": "Segment result",
+  "definition": "The company’s result per activity includes its share of earnings from certain investments. The table shows results before net group financing costs, unusual items and tax.",
+  "rows": [
+    {
+      "name": "Power",
+      "revenue": 5406.99,
+      "profit": 1162.06
+    },
+    {
+      "name": "Smart Meter Infrastructure",
+      "revenue": 1417.78,
+      "profit": 155.81
+    },
+    {
+      "name": "Roads",
+      "revenue": 218.37,
+      "profit": 48.62
+    },
+    {
+      "name": "EPC (designing, buying equipment and building)",
+      "revenue": 91.92,
+      "profit": 12.74
+    },
+    {
+      "name": "Others",
+      "revenue": 386.55,
+      "profit": -11.7
+    }
+  ],
+  "source": "https://nsearchives.nseindia.com/corporate/GPUIL_21052026183409_outcomeofBM.pdf",
+  "sourceLabel": "Audited full-year exchange filing",
+  "location": "PDF page 32 · Consolidated statement of segment revenue, results, assets and liabilities. Notes on PDF pages 37–38 and 44–45.",
+  "checked": "18 November 2026",
+  "notes": "After removing ₹189.75 crore of internal sales, group revenue from operations was ₹7,331.86 crore. The ongoing businesses lost ₹182.59 crore before separately reported unusual items and tax. Unusual items added a net ₹963.76 crore, mainly from removing an amount Kamalanga had recorded as owed to a contractor. Group profit after tax was ₹613.69 crore including discontinued operations. The share of profit from an investment also included ₹169.46 crore from undoing an earlier cut to its asset value.",
+  "insight": "Power contributed the largest reported result. Smart Meter Infrastructure made a positive contribution before shared financing costs, unusual items and tax.",
+  "status": "segments",
+  "revenueTotal": 7521.61,
+  "revenueTotalLabel": "Gross segment revenue before removing internal sales",
+  "profitTotal": 1367.53
+}

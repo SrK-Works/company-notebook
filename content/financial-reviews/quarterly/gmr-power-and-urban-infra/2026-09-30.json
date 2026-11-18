@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-30",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Continuing operations",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 1527.48,
+      "previous": 1810.36
+    },
+    {
+      "label": "Profit after tax from continuing operations",
+      "current": 153.99,
+      "previous": 895.04
+    }
+  ],
+  "change": "Revenue fell, including in smart metering and power. Profit after tax fell as last year had much larger one-off gains. The loss before those gains and tax narrowed.",
+  "watch": "Check whether the ongoing businesses turn profitable before one-off gains, and whether meter projects collect enough cash to cover equipment and borrowing.",
+  "sources": [
+    {
+      "label": "Official September quarter results filed with NSE",
+      "url": "https://nsearchives.nseindia.com/corporate/GPUIL_30102026184552_outcome.pdf",
+      "location": "PDF pages 23 and 27, consolidated continuing operations, quarter columns. Lines 1(a), 8, 9 and 12, and Smart Meter Infrastructure and Power in the segment revenue section. Note 7 on PDF page 39 describes the unusual items."
+    }
+  ]
+}
