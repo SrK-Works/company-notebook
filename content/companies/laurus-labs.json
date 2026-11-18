@@ -1,0 +1,116 @@
+{
+  "order": 108,
+  "company": {
+    "id": "laurus-labs",
+    "name": "Laurus Labs Limited",
+    "ticker": "LAURUSLABS",
+    "sector": "Healthcare",
+    "initial": "LL",
+    "logo": "assets/logos/laurus-labs-official.webp",
+    "color": "#3c518c",
+    "bg": "#edf3f9",
+    "tag": "The business behind the offering",
+    "products": [
+      [
+        "Medicine ingredient production",
+        "Factories make the material that gives a tablet its effect"
+      ],
+      [
+        "Finished medicine manufacture",
+        "Laurus turns ingredients into tablets and other finished medicines"
+      ],
+      [
+        "Manufacturing for other drug companies",
+        "Customers pay Laurus to make batches to their requirements"
+      ],
+      [
+        "Biotechnology services",
+        "Customers hire Laurus Bio to develop and make bio-based ingredients"
+      ],
+      [
+        "Medicine development work",
+        "Teams help customers test a product before larger production"
+      ],
+      [
+        "Laboratory checks",
+        "Workers check that ingredients and finished batches meet requirements"
+      ],
+      [
+        "What a finished tablet looks like",
+        "A finished medicine comes in a form such as a tablet that a patient can take"
+      ]
+    ],
+    "sources": [],
+    "productSource": "https://www.lauruslabs.com/AR_FY25-26/business-review.html",
+    "productNote": "Laurus’s annual report and website show the sites and work. The credited tablet photo is a representative example.",
+    "checked": "18 Nov 2026",
+    "reviewed": "18 November 2026",
+    "aliases": [
+      "Laurus Labs",
+      "Larus Lab",
+      "Laurus Bio",
+      "generic medicines",
+      "medicine ingredients",
+      "contract drug manufacturing"
+    ]
+  },
+  "offerings": [
+    {
+      "name": "Medicine ingredient production",
+      "category": "Factories make the material that gives a tablet its effect",
+      "image": "assets/products/laurus-labs-ingredient-production.webp",
+      "url": "https://www.lauruslabs.com/AR_FY25-26/business-review.html",
+      "kind": "photo",
+      "alt": "Rows of stainless-steel vessels and pipes in a Laurus pharmaceutical manufacturing room"
+    },
+    {
+      "name": "Finished medicine manufacture",
+      "category": "Laurus turns ingredients into tablets and other finished medicines",
+      "image": "assets/products/laurus-labs-finished-medicines.webp",
+      "url": "https://www.lauruslabs.com/images/pdfs/Annual_Report_2025-26.pdf#page=14",
+      "kind": "photo",
+      "alt": "A worker in protective clothing operates equipment in a finished-medicine production area"
+    },
+    {
+      "name": "Manufacturing for other drug companies",
+      "category": "Customers pay Laurus to make batches to their requirements",
+      "image": "assets/products/laurus-labs-customer-manufacturing.webp",
+      "url": "https://www.lauruslabs.com/images/pdfs/Annual_Report_2025-26.pdf#page=15",
+      "kind": "photo",
+      "alt": "A Laurus production worker adjusts equipment at a manufacturing line"
+    },
+    {
+      "name": "Biotechnology services",
+      "category": "Customers hire Laurus Bio to develop and make bio-based ingredients",
+      "image": "assets/products/laurus-labs-bio-services.webp",
+      "url": "https://www.lauruslabs.com/images/pdfs/Annual_Report_2025-26.pdf#page=16",
+      "kind": "photo",
+      "alt": "A Laurus laboratory worker in protective clothing looks into a microscope"
+    },
+    {
+      "name": "Medicine development work",
+      "category": "Teams help customers test a product before larger production",
+      "image": "assets/products/laurus-labs-development-lab.webp",
+      "url": "https://www.lauruslabs.com/images/pdfs/Annual_Report_2025-26.pdf#page=20",
+      "kind": "photo",
+      "alt": "A worker uses a computer and instruments in a Laurus laboratory"
+    },
+    {
+      "name": "Laboratory checks",
+      "category": "Workers check that ingredients and finished batches meet requirements",
+      "image": "assets/products/laurus-labs-quality-checks.webp",
+      "url": "https://www.lauruslabs.com/images/pdfs/Annual_Report_2025-26.pdf#page=33",
+      "kind": "photo",
+      "alt": "A Laurus worker examines a sample among laboratory instruments"
+    },
+    {
+      "name": "What a finished tablet looks like",
+      "category": "A finished medicine comes in a form such as a tablet that a patient can take",
+      "image": "assets/products/laurus-labs-finished-tablets.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:Blister_of_tablets.jpg",
+      "kind": "generic",
+      "alt": "A selection of tablets in blister packs, shown as a representative example",
+      "credit": "Tarasna0922 · CC BY-SA 4.0 · Wikimedia Commons"
+    }
+  ]
+}

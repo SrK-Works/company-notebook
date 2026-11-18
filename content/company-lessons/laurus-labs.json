@@ -1,0 +1,73 @@
+{
+  "summary": "Laurus Labs makes the active ingredients that go into medicines, sells finished tablets, and helps other drug companies develop and manufacture medicines.",
+  "description": "A tablet contains an ingredient that gives the medicine its effect, plus other ingredients that help form the tablet. Laurus makes and sells the active ingredient to medicine makers. It also makes finished tablets and takes on paid development and factory work for other drug companies.",
+  "money": "Medicine makers pay for shipments of ingredients or finished tablets. Companies developing a drug pay for agreed laboratory work and for batches Laurus makes for them. Materials, skilled staff, testing and running specialised factories all cost money. Profit is what remains after costs and tax. Payment can arrive after the sale is recorded.",
+  "customers": "Generic drug companies buy ingredients and finished medicines. Drug developers and biotechnology companies pay Laurus to develop or make products for them. Buyers for public health programmes also purchase some medicines. The patient may receive a tablet through a separate supplier or health programme.",
+  "drivers": "Watch which products customers order, how much factory time Laurus can sell and how reliably its sites make batches their customers accept.",
+  "quick": [
+    {"title":"What does it do?","text":"It makes ingredients for medicines and finished tablets. It also does laboratory and factory work for other drug companies."},
+    {"title":"Who pays?","text":"Medicine manufacturers, drug developers and buyers for public health programmes."},
+    {"title":"How does it earn?","text":"It sells ingredients and finished medicines. Other drug companies pay it for agreed development work and batches made for them."},
+    {"title":"What does it spend on?","text":"Materials, skilled workers, factory equipment, quality checks and running the sites."}
+  ],
+  "groups": [
+    {"title":"Ingredients that give medicines their effect","examples":"Active ingredients for medicines used in HIV care, cancer treatment and other conditions.","explanation":"The active ingredient is the part of a medicine that produces its effect. Another company can buy that ingredient from Laurus and turn it into a finished tablet."},
+    {"title":"Finished generic tablets","examples":"Tablets made for public health programmes and for sale through pharmaceutical partners.","explanation":"A generic medicine uses the same active ingredient as a reference medicine. A finished tablet has been made into the form a patient takes."},
+    {"title":"Drug development for customers","examples":"Laboratory and testing work for pharmaceutical and biotechnology companies.","explanation":"A customer can pay Laurus to work out how a medicine can be made consistently and to make small batches for development."},
+    {"title":"Larger batches for customers","examples":"Batches of drug ingredients and finished medicines made under customer contracts.","explanation":"Once the work and facilities are ready, Laurus can make larger batches to the customer’s requirements and supply them under contract."},
+    {"title":"Biotechnology services","examples":"Development and production work for bio-based ingredients.","explanation":"Laurus Bio helps customers develop and make ingredients produced with biological processes. These services are also used by some customers outside medicines."}
+  ],
+  "basics": [
+    {"title":"Who owns the medicine when Laurus makes it for someone?","text":"A drug company can hire Laurus to develop or make a batch under contract. The work and payments are agreed between the companies, and the customer may sell the medicine under its own name."},
+    {"title":"Why do factories get inspected?","text":"Medicine regulators check whether a factory can produce consistent batches and keep reliable records. A problem can delay approvals, restrict shipments or require changes at the site."}
+  ],
+  "stepsTitle": "From an order to a checked batch",
+  "steps": [
+    {"title":"Agree what the buyer needs","text":"A customer orders an ingredient or tablet, or hires Laurus to help develop and make a product."},
+    {"title":"Plan the factory work","text":"Laurus buys materials and assigns people and equipment. For a developing product, laboratory work may come before any large production order."},
+    {"title":"Make and check the batch","text":"The site makes the agreed batch and checks that it meets the customer’s requirements and applicable quality rules."},
+    {"title":"Deliver the work and collect payment","text":"Laurus bills under the contract terms. It may record the sale when the work or goods are delivered, while cash comes when the customer pays."}
+  ],
+  "specifics": [
+    {"title":"A customer project can get bigger in stages","text":"Lab work can lead to larger orders if the medicine progresses and the customer chooses Laurus for ongoing supply. A development contract alone gives limited visibility into future orders."},
+    {"title":"Ingredients and tablets are two different sales","text":"Laurus can sell an active ingredient to a medicine maker or use ingredients in tablets it makes itself. The product mix affects how much work each rupee of reported sales represents."},
+    {"title":"Public health orders can move between periods","text":"Some medicines for HIV care are bought through larger programmes. The timing and price of those orders can change how much Laurus sells in a quarter."}
+  ],
+  "watch": [
+    ["Are customer projects turning into bigger supply orders?","Development work can end before a medicine reaches the market.","Read the results presentation for progress from development to regular supply. Check whether the company names orders or only prospective work."],
+    ["Are new factories producing batches customers accept?","Equipment and staff cost money while the site waits for orders or approvals.","Check which lines already make saleable batches and which are still being installed or inspected. Compare the updates with spending on factories."],
+    ["Did Laurus sell more tablets or a different mix?","An especially strong quarter can reflect a different mix of orders or medicines.","Compare the ingredients and finished-medicine commentary with the customer manufacturing discussion. Look for changes in order volume and prices."],
+    ["What does the latest inspection mean for shipments?","An inspection issue can delay supply from the affected site.","Read the filing for the specific site and regulator. Check whether Laurus reports a completed review, a requested change or a restriction."],
+    ["Do reported earnings turn into cash from the business?","Laurus can spend on materials and hold batches before customers settle their bills.","Compare profit with cash from running the business. Look for larger stocks of materials or medicines and bills that customers still owe."]
+  ],
+  "risks": [
+    ["A customer stops developing a drug","Later batches may never be ordered if the customer discontinues the product."],
+    ["A quality issue delays a shipment","A batch may need extra testing or replacement, and a site issue can hold up multiple products."],
+    ["Pressure on generic prices","Competing manufacturers may bid lower prices for the same medicine or ingredient."],
+    ["Orders come later than factory spending","The company pays for new equipment and staff while it waits to fill the available factory time."]
+  ],
+  "helps": [
+    {"title":"Customers can buy several kinds of work","text":"A medicine maker can buy an active ingredient, a finished batch or help with development."},
+    {"title":"Some orders can repeat","text":"Customers may keep buying batches once a product is in regular supply and the site meets their needs."},
+    {"title":"Customers are spread across markets","text":"The business sells to customers inside and outside India, including commercial drug companies and programme buyers."}
+  ],
+  "hurts": [
+    {"title":"Large orders can arrive unevenly","text":"When deliveries for a programme shift, one quarter’s sales can give a misleading picture of demand."},
+    {"title":"Running plants takes steady spending","text":"Testing, maintenance and skilled staff have to be paid for even when order volumes slow."},
+    {"title":"Prices for materials can rise first","text":"A cost increase can eat into the money left on existing customer orders if their selling prices cannot change quickly."}
+  ],
+  "context":["September 2026: customer manufacturing led growth","Laurus said paid development and manufacturing work for customers led the quarter’s revenue growth. Finished medicines also supported growth."],
+  "sources":[
+    ["Audited FY 2025–26 annual report","https://www.lauruslabs.com/images/pdfs/Annual_Report_2025-26.pdf"],
+    ["Company annual business review","https://www.lauruslabs.com/AR_FY25-26/business-review.html"],
+    ["Company site and manufacturing facilities","https://www.lauruslabs.com/facilities.html"],
+    ["September 2026 signed results","https://www.lauruslabs.com/Investors/PDF/Q2/Outcome29102026.pdf"],
+    ["September 2026 company results presentation","https://www.lauruslabs.com/Investors/PDF/Q2/InvPresentation29102026.pdf"]
+  ],
+  "financialNotes":[
+    {"title":"Read group profit and product sales separately","text":"The audited accounts report one pharmaceuticals business segment. Laurus’s presentation discusses sales across its businesses. The earnings shown here cover the whole group, including its share of results from some part-owned businesses."}
+  ],
+  "financialCue":"Read what drove sales growth alongside the group’s profit. Then check how much cash the business collected.",
+  "photoCaption":"Laurus makes medicine ingredients and uses specialist facilities to make finished medicines.",
+  "checked":"18 November 2026"
+}

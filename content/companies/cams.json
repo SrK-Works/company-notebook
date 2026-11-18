@@ -1,0 +1,117 @@
+{
+  "order": 111,
+  "company": {
+    "id": "cams",
+    "name": "Computer Age Management Services Limited",
+    "ticker": "CAMS",
+    "sector": "Financial services",
+    "initial": "C",
+    "color": "#1b5a58",
+    "bg": "#e7f7f4",
+    "tag": "The business behind the offering",
+    "logo": "assets/logos/cams-official.svg",
+    "products": [
+      [
+        "myCAMS",
+        "Check holdings and place requests for mutual funds that CAMS serves."
+      ],
+      [
+        "Mutual fund account records",
+        "Keep records of investor purchases, sales, balances and requests."
+      ],
+      [
+        "CAMSPay",
+        "Help firms collect and match payments, including repeat bank debits."
+      ],
+      [
+        "Identity records",
+        "Store checked identity records that financial firms can use."
+      ],
+      [
+        "Insurance policy records",
+        "Keep digital policy records that customers and insurers can refer to."
+      ],
+      [
+        "Pension records",
+        "Track retirement plan contributions and account changes."
+      ],
+      [
+        "Private fund administration",
+        "Maintain investor records and help prepare the fund’s accounts."
+      ]
+    ],
+    "sources": [],
+    "productSource": "https://www.camsonline.com/Annual_Report/FY2025-26/service-offerings.html",
+    "productNote": "The app image was published by the company. The other cards illustrate the steps in each service.",
+    "checked": "18 Nov 2026",
+    "reviewed": "18 November 2026",
+    "aliases": [
+      "CAMS",
+      "myCAMS",
+      "CAMSPay",
+      "CAMSRep",
+      "CAMSKRA",
+      "MFCentral",
+      "Computer Age Management Services",
+      "mutual fund registrar"
+    ]
+  },
+  "offerings": [
+    {
+      "name": "myCAMS",
+      "category": "Check holdings and place requests for mutual funds that CAMS serves.",
+      "image": "assets/products/cams-mycams.webp",
+      "url": "https://play.google.com/store/apps/details?hl=en_US&id=com.KCamsApp",
+      "kind": "pack",
+      "alt": "Company-published image of myCAMS, its mutual fund service app"
+    },
+    {
+      "name": "Mutual fund account records",
+      "category": "Keep records of investor purchases, sales, balances and requests.",
+      "image": "assets/products/cams-unit-records.svg",
+      "url": "https://www.camsonline.com/Annual_Report/FY2025-26/service-offerings.html",
+      "kind": "illustration",
+      "alt": "Illustration of mutual fund account records. Fund request then Check details then Update unit record."
+    },
+    {
+      "name": "CAMSPay",
+      "category": "Help firms collect and match payments, including repeat bank debits.",
+      "image": "assets/products/cams-payment.svg",
+      "url": "https://www.camsonline.com/Annual_Report/FY2025-26/service-offerings.html",
+      "kind": "illustration",
+      "alt": "Illustration of camspay. Approve repeat debit then Collect payment then Match it to order."
+    },
+    {
+      "name": "Identity records",
+      "category": "Store checked identity records that financial firms can use.",
+      "image": "assets/products/cams-identity.svg",
+      "url": "https://www.camsonline.com/Annual_Report/FY2025-26/service-offerings.html",
+      "kind": "illustration",
+      "alt": "Illustration of identity records. Check documents then Store record then Confirm to firm."
+    },
+    {
+      "name": "Insurance policy records",
+      "category": "Keep digital policy records that customers and insurers can refer to.",
+      "image": "assets/products/cams-insurance.svg",
+      "url": "https://www.camsonline.com/Annual_Report/FY2025-26/service-offerings.html",
+      "kind": "illustration",
+      "alt": "Illustration of insurance policy records. Insurer issues policy then Keep digital copy then Customer views it."
+    },
+    {
+      "name": "Pension records",
+      "category": "Track retirement plan contributions and account changes.",
+      "image": "assets/products/cams-retirement.svg",
+      "url": "https://www.camsonline.com/Annual_Report/FY2025-26/service-offerings.html",
+      "kind": "illustration",
+      "alt": "Illustration of pension records. Open account then Record contribution then Show history."
+    },
+    {
+      "name": "Private fund administration",
+      "category": "Maintain investor records and help prepare the fund’s accounts.",
+      "image": "assets/products/cams-private-funds.svg",
+      "url": "https://www.camsonline.com/Annual_Report/FY2025-26/service-offerings.html",
+      "kind": "illustration",
+      "alt": "Illustration of private fund administration. Record members then Check fund books then Report to manager."
+    }
+  ]
+}

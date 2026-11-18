@@ -1,0 +1,115 @@
+{
+  "order": 110,
+  "company": {
+    "id": "kfin-technologies",
+    "name": "KFin Technologies Limited",
+    "ticker": "KFINTECH",
+    "sector": "Financial services",
+    "initial": "K",
+    "color": "#15559b",
+    "bg": "#eaf4ff",
+    "tag": "The business behind the offering",
+    "logo": "assets/logos/kfin-technologies-official.svg",
+    "products": [
+      [
+        "KFinKart",
+        "Buy or sell units and view records for supported mutual funds."
+      ],
+      [
+        "Mutual fund recordkeeping",
+        "Turn buy and sell requests into changes to each investor’s account."
+      ],
+      [
+        "Share offer applications",
+        "Help the company organise applications and report who was allotted shares."
+      ],
+      [
+        "Shareholder records",
+        "Help an issuing company keep its shareholder list current."
+      ],
+      [
+        "Pension accounts",
+        "Keep track of retirement contributions and account activity."
+      ],
+      [
+        "Private fund administration",
+        "Help the fund keep investor records and prepare reports."
+      ],
+      [
+        "Overseas fund administration",
+        "Help funds keep books and produce reports through businesses including Ascent."
+      ]
+    ],
+    "sources": [],
+    "productSource": "https://www.kfintech.com/about-us/",
+    "productNote": "The app image was published by the company. The other cards illustrate the steps in each service.",
+    "checked": "18 Nov 2026",
+    "reviewed": "18 November 2026",
+    "aliases": [
+      "KFintech",
+      "KFinKart",
+      "KFin",
+      "mutual fund registrar",
+      "IPO allotment",
+      "Ascent Fund Services"
+    ]
+  },
+  "offerings": [
+    {
+      "name": "KFinKart",
+      "category": "Buy or sell units and view records for supported mutual funds.",
+      "image": "assets/products/kfin-technologies-kfinkart.webp",
+      "url": "https://play.google.com/store/apps/details?hl=en&id=com.karvy",
+      "kind": "pack",
+      "alt": "Company-published image of KFinKart, its mutual fund service app"
+    },
+    {
+      "name": "Mutual fund recordkeeping",
+      "category": "Turn buy and sell requests into changes to each investor’s account.",
+      "image": "assets/products/kfin-technologies-mutual-fund.svg",
+      "url": "https://www.kfintech.com/about-us/",
+      "kind": "illustration",
+      "alt": "Illustration of mutual fund recordkeeping. Fund order then Check payment then Update unit record."
+    },
+    {
+      "name": "Share offer applications",
+      "category": "Help the company organise applications and report who was allotted shares.",
+      "image": "assets/products/kfin-technologies-ipo.svg",
+      "url": "https://ipo.kfintech.com/",
+      "kind": "illustration",
+      "alt": "Illustration of share offer applications. Collect applications then Process allotment then Show status."
+    },
+    {
+      "name": "Shareholder records",
+      "category": "Help an issuing company keep its shareholder list current.",
+      "image": "assets/products/kfin-technologies-shareholder.svg",
+      "url": "https://www.kfintech.com/about-us/",
+      "kind": "illustration",
+      "alt": "Illustration of shareholder records. Company register then Check requests then Update records."
+    },
+    {
+      "name": "Pension accounts",
+      "category": "Keep track of retirement contributions and account activity.",
+      "image": "assets/products/kfin-technologies-retirement.svg",
+      "url": "https://nps.kfintech.com/",
+      "kind": "illustration",
+      "alt": "Illustration of pension accounts. Pension account then Record deposits then Show statement."
+    },
+    {
+      "name": "Private fund administration",
+      "category": "Help the fund keep investor records and prepare reports.",
+      "image": "assets/products/kfin-technologies-private-funds.svg",
+      "url": "https://www.kfintech.com/alternate-investment-fund/",
+      "kind": "illustration",
+      "alt": "Illustration of private fund administration. Investor joins then Record contribution then Prepare report."
+    },
+    {
+      "name": "Overseas fund administration",
+      "category": "Help funds keep books and produce reports through businesses including Ascent.",
+      "image": "assets/products/kfin-technologies-overseas.svg",
+      "url": "https://investor.kfintech.com/press-releases/",
+      "kind": "illustration",
+      "alt": "Illustration of overseas fund administration. Fund transactions then Check account books then Deliver reports."
+    }
+  ]
+}

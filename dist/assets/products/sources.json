@@ -8613,6 +8613,513 @@
       "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/929df61f-e3eb-4697-9bc2-96520da3edec.pdf#page=33",
       "kind": "pack",
       "alt": "PVR INOX promotional image depicts children wearing 3D glasses and holding popcorn in a cinema"
+    },
+    {
+      "company": "laurus-labs",
+      "src": "https://www.lauruslabs.com/images/hmrow03.png",
+      "name": "Medicine ingredient production",
+      "category": "Factories make the material that gives a tablet its effect",
+      "image": "assets/products/laurus-labs-ingredient-production.webp",
+      "url": "https://www.lauruslabs.com/AR_FY25-26/business-review.html",
+      "kind": "photo",
+      "alt": "Rows of stainless-steel vessels and pipes in a Laurus pharmaceutical manufacturing room"
+    },
+    {
+      "company": "laurus-labs",
+      "src": "https://www.lauruslabs.com/images/pdfs/Annual_Report_2025-26.pdf#page=14",
+      "name": "Finished medicine manufacture",
+      "category": "Laurus turns ingredients into tablets and other finished medicines",
+      "image": "assets/products/laurus-labs-finished-medicines.webp",
+      "url": "https://www.lauruslabs.com/images/pdfs/Annual_Report_2025-26.pdf#page=14",
+      "kind": "photo",
+      "alt": "A worker in protective clothing operates equipment in a finished-medicine production area"
+    },
+    {
+      "company": "laurus-labs",
+      "src": "https://www.lauruslabs.com/images/pdfs/Annual_Report_2025-26.pdf#page=15",
+      "name": "Manufacturing for other drug companies",
+      "category": "Customers pay Laurus to make batches to their requirements",
+      "image": "assets/products/laurus-labs-customer-manufacturing.webp",
+      "url": "https://www.lauruslabs.com/images/pdfs/Annual_Report_2025-26.pdf#page=15",
+      "kind": "photo",
+      "alt": "A Laurus production worker adjusts equipment at a manufacturing line"
+    },
+    {
+      "company": "laurus-labs",
+      "src": "https://www.lauruslabs.com/images/pdfs/Annual_Report_2025-26.pdf#page=16",
+      "name": "Biotechnology services",
+      "category": "Customers hire Laurus Bio to develop and make bio-based ingredients",
+      "image": "assets/products/laurus-labs-bio-services.webp",
+      "url": "https://www.lauruslabs.com/images/pdfs/Annual_Report_2025-26.pdf#page=16",
+      "kind": "photo",
+      "alt": "A Laurus laboratory worker in protective clothing looks into a microscope"
+    },
+    {
+      "company": "laurus-labs",
+      "src": "https://www.lauruslabs.com/images/pdfs/Annual_Report_2025-26.pdf#page=20",
+      "name": "Medicine development work",
+      "category": "Teams help customers test a product before larger production",
+      "image": "assets/products/laurus-labs-development-lab.webp",
+      "url": "https://www.lauruslabs.com/images/pdfs/Annual_Report_2025-26.pdf#page=20",
+      "kind": "photo",
+      "alt": "A worker uses a computer and instruments in a Laurus laboratory"
+    },
+    {
+      "company": "laurus-labs",
+      "src": "https://www.lauruslabs.com/images/pdfs/Annual_Report_2025-26.pdf#page=33",
+      "name": "Laboratory checks",
+      "category": "Workers check that ingredients and finished batches meet requirements",
+      "image": "assets/products/laurus-labs-quality-checks.webp",
+      "url": "https://www.lauruslabs.com/images/pdfs/Annual_Report_2025-26.pdf#page=33",
+      "kind": "photo",
+      "alt": "A Laurus worker examines a sample among laboratory instruments"
+    },
+    {
+      "company": "laurus-labs",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Blister_of_tablets.jpg/960px-Blister_of_tablets.jpg",
+      "name": "What a finished tablet looks like",
+      "category": "A finished medicine comes in a form such as a tablet that a patient can take",
+      "image": "assets/products/laurus-labs-finished-tablets.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:Blister_of_tablets.jpg",
+      "kind": "generic",
+      "alt": "A selection of tablets in blister packs, shown as a representative example",
+      "credit": "Tarasna0922 · CC BY-SA 4.0 · Wikimedia Commons",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "modifications": "Resized and converted to WebP"
+    },
+    {
+      "company": "kfin-technologies",
+      "src": "https://play-lh.googleusercontent.com/ZgFXjYLMlq-Rpz7qHA9p5nYq2NxbS-2CIGLs3CoCr4ycmQMVxv56AfB1kx68Iabw6UGgPBsaNpbWY5VYwb6w4g=w1052-h592-rw",
+      "name": "KFinKart",
+      "category": "Buy or sell units and view records for supported mutual funds.",
+      "image": "assets/products/kfin-technologies-kfinkart.webp",
+      "url": "https://play.google.com/store/apps/details?hl=en&id=com.karvy",
+      "kind": "pack",
+      "alt": "Company-published image of KFinKart, its mutual fund service app"
+    },
+    {
+      "company": "kfin-technologies",
+      "src": "Original Company Notebook educational illustration based on https://www.kfintech.com/about-us/",
+      "name": "Mutual fund recordkeeping",
+      "category": "Turn buy and sell requests into changes to each investor’s account.",
+      "image": "assets/products/kfin-technologies-mutual-fund.svg",
+      "url": "https://www.kfintech.com/about-us/",
+      "kind": "illustration",
+      "alt": "Illustration of mutual fund recordkeeping. Fund order then Check payment then Update unit record."
+    },
+    {
+      "company": "kfin-technologies",
+      "src": "Original Company Notebook educational illustration based on https://ipo.kfintech.com/",
+      "name": "Share offer applications",
+      "category": "Help the company organise applications and report who was allotted shares.",
+      "image": "assets/products/kfin-technologies-ipo.svg",
+      "url": "https://ipo.kfintech.com/",
+      "kind": "illustration",
+      "alt": "Illustration of share offer applications. Collect applications then Process allotment then Show status."
+    },
+    {
+      "company": "kfin-technologies",
+      "src": "Original Company Notebook educational illustration based on https://www.kfintech.com/about-us/",
+      "name": "Shareholder records",
+      "category": "Help an issuing company keep its shareholder list current.",
+      "image": "assets/products/kfin-technologies-shareholder.svg",
+      "url": "https://www.kfintech.com/about-us/",
+      "kind": "illustration",
+      "alt": "Illustration of shareholder records. Company register then Check requests then Update records."
+    },
+    {
+      "company": "kfin-technologies",
+      "src": "Original Company Notebook educational illustration based on https://nps.kfintech.com/",
+      "name": "Pension accounts",
+      "category": "Keep track of retirement contributions and account activity.",
+      "image": "assets/products/kfin-technologies-retirement.svg",
+      "url": "https://nps.kfintech.com/",
+      "kind": "illustration",
+      "alt": "Illustration of pension accounts. Pension account then Record deposits then Show statement."
+    },
+    {
+      "company": "kfin-technologies",
+      "src": "Original Company Notebook educational illustration based on https://www.kfintech.com/alternate-investment-fund/",
+      "name": "Private fund administration",
+      "category": "Help the fund keep investor records and prepare reports.",
+      "image": "assets/products/kfin-technologies-private-funds.svg",
+      "url": "https://www.kfintech.com/alternate-investment-fund/",
+      "kind": "illustration",
+      "alt": "Illustration of private fund administration. Investor joins then Record contribution then Prepare report."
+    },
+    {
+      "company": "kfin-technologies",
+      "src": "Original Company Notebook educational illustration based on https://investor.kfintech.com/press-releases/",
+      "name": "Overseas fund administration",
+      "category": "Help funds keep books and produce reports through businesses including Ascent.",
+      "image": "assets/products/kfin-technologies-overseas.svg",
+      "url": "https://investor.kfintech.com/press-releases/",
+      "kind": "illustration",
+      "alt": "Illustration of overseas fund administration. Fund transactions then Check account books then Deliver reports."
+    },
+    {
+      "company": "cams",
+      "src": "https://play-lh.googleusercontent.com/8w1J7U7ETRMWyXceTrJnwUCwp0J81Y1jLRcmHDFRaItuvqWTfsdLh_JlBB4Clx2maJlfPtc1AkReIdVn7YAu6RU=w1052-h592-rw",
+      "name": "myCAMS",
+      "category": "Check holdings and place requests for mutual funds that CAMS serves.",
+      "image": "assets/products/cams-mycams.webp",
+      "url": "https://play.google.com/store/apps/details?hl=en_US&id=com.KCamsApp",
+      "kind": "pack",
+      "alt": "Company-published image of myCAMS, its mutual fund service app"
+    },
+    {
+      "company": "cams",
+      "src": "Original Company Notebook educational illustration based on https://www.camsonline.com/Annual_Report/FY2025-26/service-offerings.html",
+      "name": "Mutual fund account records",
+      "category": "Keep records of investor purchases, sales, balances and requests.",
+      "image": "assets/products/cams-unit-records.svg",
+      "url": "https://www.camsonline.com/Annual_Report/FY2025-26/service-offerings.html",
+      "kind": "illustration",
+      "alt": "Illustration of mutual fund account records. Fund request then Check details then Update unit record."
+    },
+    {
+      "company": "cams",
+      "src": "Original Company Notebook educational illustration based on https://www.camsonline.com/Annual_Report/FY2025-26/service-offerings.html",
+      "name": "CAMSPay",
+      "category": "Help firms collect and match payments, including repeat bank debits.",
+      "image": "assets/products/cams-payment.svg",
+      "url": "https://www.camsonline.com/Annual_Report/FY2025-26/service-offerings.html",
+      "kind": "illustration",
+      "alt": "Illustration of camspay. Approve repeat debit then Collect payment then Match it to order."
+    },
+    {
+      "company": "cams",
+      "src": "Original Company Notebook educational illustration based on https://www.camsonline.com/Annual_Report/FY2025-26/service-offerings.html",
+      "name": "Identity records",
+      "category": "Store checked identity records that financial firms can use.",
+      "image": "assets/products/cams-identity.svg",
+      "url": "https://www.camsonline.com/Annual_Report/FY2025-26/service-offerings.html",
+      "kind": "illustration",
+      "alt": "Illustration of identity records. Check documents then Store record then Confirm to firm."
+    },
+    {
+      "company": "cams",
+      "src": "Original Company Notebook educational illustration based on https://www.camsonline.com/Annual_Report/FY2025-26/service-offerings.html",
+      "name": "Insurance policy records",
+      "category": "Keep digital policy records that customers and insurers can refer to.",
+      "image": "assets/products/cams-insurance.svg",
+      "url": "https://www.camsonline.com/Annual_Report/FY2025-26/service-offerings.html",
+      "kind": "illustration",
+      "alt": "Illustration of insurance policy records. Insurer issues policy then Keep digital copy then Customer views it."
+    },
+    {
+      "company": "cams",
+      "src": "Original Company Notebook educational illustration based on https://www.camsonline.com/Annual_Report/FY2025-26/service-offerings.html",
+      "name": "Pension records",
+      "category": "Track retirement plan contributions and account changes.",
+      "image": "assets/products/cams-retirement.svg",
+      "url": "https://www.camsonline.com/Annual_Report/FY2025-26/service-offerings.html",
+      "kind": "illustration",
+      "alt": "Illustration of pension records. Open account then Record contribution then Show history."
+    },
+    {
+      "company": "cams",
+      "src": "Original Company Notebook educational illustration based on https://www.camsonline.com/Annual_Report/FY2025-26/service-offerings.html",
+      "name": "Private fund administration",
+      "category": "Maintain investor records and help prepare the fund’s accounts.",
+      "image": "assets/products/cams-private-funds.svg",
+      "url": "https://www.camsonline.com/Annual_Report/FY2025-26/service-offerings.html",
+      "kind": "illustration",
+      "alt": "Illustration of private fund administration. Record members then Check fund books then Report to manager."
+    },
+    {
+      "company": "suzlon-energy",
+      "src": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/984e4598-0b42-4377-a49f-2749dc392f06.pdf#page=51",
+      "name": "Wind turbines",
+      "category": "Blades catch the wind and turn a generator to make electricity",
+      "image": "assets/products/suzlon-energy-wind-turbines.webp",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/984e4598-0b42-4377-a49f-2749dc392f06.pdf#page=51",
+      "kind": "photo",
+      "alt": "Close view of a wind turbine’s three blades above green fields"
+    },
+    {
+      "company": "suzlon-energy",
+      "src": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d1b153e2-adb0-4973-a18d-ce467415756b.pdf#page=36",
+      "name": "Inside the turbine’s top housing",
+      "category": "The housing holds the generator and parts that transfer the blades’ motion",
+      "image": "assets/products/suzlon-energy-generator-housing.webp",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d1b153e2-adb0-4973-a18d-ce467415756b.pdf#page=36",
+      "kind": "illustration",
+      "alt": "Company cutaway drawing showing machinery inside a turbine’s top housing"
+    },
+    {
+      "company": "suzlon-energy",
+      "src": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d1b153e2-adb0-4973-a18d-ce467415756b.pdf#page=35",
+      "name": "S175 wind turbine design",
+      "category": "Long blades sweep a larger area to catch more wind at suitable sites",
+      "image": "assets/products/suzlon-energy-s175.webp",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d1b153e2-adb0-4973-a18d-ce467415756b.pdf#page=35",
+      "kind": "illustration",
+      "alt": "Company turbine drawing showing the S175’s tower and blade sweep"
+    },
+    {
+      "company": "suzlon-energy",
+      "src": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d1b153e2-adb0-4973-a18d-ce467415756b.pdf#page=36",
+      "name": "Moving turbine parts to the site",
+      "category": "Trucks carry large parts from the factory to the wind farm",
+      "image": "assets/products/suzlon-energy-transport.webp",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d1b153e2-adb0-4973-a18d-ce467415756b.pdf#page=36",
+      "kind": "illustration",
+      "alt": "Company drawing of a truck carrying part of a wind turbine"
+    },
+    {
+      "company": "suzlon-energy",
+      "src": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/984e4598-0b42-4377-a49f-2749dc392f06.pdf#page=56",
+      "name": "Turbine component manufacturing",
+      "category": "Workers assemble and check equipment for wind projects",
+      "image": "assets/products/suzlon-energy-factory.webp",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/984e4598-0b42-4377-a49f-2749dc392f06.pdf#page=56",
+      "kind": "photo",
+      "alt": "Worker in protective gear operating equipment on a Suzlon shop floor"
+    },
+    {
+      "company": "suzlon-energy",
+      "src": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/984e4598-0b42-4377-a49f-2749dc392f06.pdf#page=47",
+      "name": "Wind turbine service",
+      "category": "Technicians inspect machinery and replace worn parts so turbines can keep running",
+      "image": "assets/products/suzlon-energy-maintenance.webp",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/984e4598-0b42-4377-a49f-2749dc392f06.pdf#page=47",
+      "kind": "photo",
+      "alt": "Technician at a turbine access hatch with work equipment"
+    },
+    {
+      "company": "suzlon-energy",
+      "src": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/984e4598-0b42-4377-a49f-2749dc392f06.pdf#page=59",
+      "name": "Accessing a turbine’s machinery",
+      "category": "Teams reach the housing at the top to inspect machinery",
+      "image": "assets/products/suzlon-energy-turbine-access.webp",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/984e4598-0b42-4377-a49f-2749dc392f06.pdf#page=59",
+      "kind": "photo",
+      "alt": "Worker above the Suzlon name on the top housing of a wind turbine"
+    },
+    {
+      "company": "subros",
+      "src": "https://www.subros.com/public/upload/subsecondaryservices/195536607620250106104940.webp",
+      "name": "Car air conditioning compressor",
+      "category": "Pushes cooling fluid round the system so it can carry heat away",
+      "image": "assets/products/subros-compressor.webp",
+      "url": "https://www.subros.com/products/compressors",
+      "kind": "pack",
+      "alt": "Subros belt driven compressor with its metal body and pulley"
+    },
+    {
+      "company": "subros",
+      "src": "https://www.subros.com/public/upload/subsecondaryservices/202115530420250115164124.webp",
+      "name": "Condenser",
+      "category": "Releases heat to outside air, usually at the front of the vehicle",
+      "image": "assets/products/subros-condenser.webp",
+      "url": "https://www.subros.com/products/condensers",
+      "kind": "pack",
+      "alt": "Subros condenser with rows of closely spaced metal fins"
+    },
+    {
+      "company": "subros",
+      "src": "https://www.subros.com/public/upload/subsecondaryservices/64165092520250115164339.webp",
+      "name": "Evaporator",
+      "category": "Takes heat from air blowing into the cabin",
+      "image": "assets/products/subros-evaporator.webp",
+      "url": "https://www.subros.com/products/evaporators",
+      "kind": "pack",
+      "alt": "Subros evaporator with metal fins and curved pipes"
+    },
+    {
+      "company": "subros",
+      "src": "https://www.subros.com/public/upload/subsecondaryservices/140653981120250115170211.webp",
+      "name": "Cooling tubes and hoses",
+      "category": "Connect the parts and carry the cooling fluid between them",
+      "image": "assets/products/subros-hoses.webp",
+      "url": "https://www.subros.com/products/tubes-hoses",
+      "kind": "pack",
+      "alt": "Curved metal tubes and flexible hoses made by Subros"
+    },
+    {
+      "company": "subros",
+      "src": "https://www.subros.com/public/upload/subsecondaryservices/37495940720250115172507.webp",
+      "name": "Bus air conditioning equipment",
+      "category": "A larger unit supplies cooled air to a bus cabin",
+      "image": "assets/products/subros-bus.webp",
+      "url": "https://www.subros.com/products/bus-ac-kit",
+      "kind": "pack",
+      "alt": "Subros bus air conditioning assembly with several fans"
+    },
+    {
+      "company": "subros",
+      "src": "https://www.subros.com/public/upload/subsecondaryservices/73624592320250115172805.webp",
+      "name": "Rail cabin air conditioning kit",
+      "category": "Cooling equipment can be fitted to a train driver’s cabin",
+      "image": "assets/products/subros-rail.webp",
+      "url": "https://www.subros.com/products/rail-ac-kit",
+      "kind": "pack",
+      "alt": "Subros rail air conditioning equipment with metal housing and fan"
+    },
+    {
+      "company": "subros",
+      "src": "https://www.subros.com/public/upload/products/203347857020250110121339.webp",
+      "name": "Truck cabin cooling",
+      "category": "Moves warm or cool air through truck cabin vents",
+      "image": "assets/products/subros-truck.webp",
+      "url": "https://www.subros.com/product-categories/truck-application",
+      "kind": "pack",
+      "alt": "Subros under-dash cabin air handling assembly"
+    },
+    {
+      "company": "nsdl",
+      "src": "https://nsdl.com/investor/investor-services",
+      "sourceNote": "Original illustration based on the linked service documentation.",
+      "name": "Holding shares and bonds",
+      "category": "Electronic ownership records in a demat account.",
+      "image": "assets/products/nsdl-holdings.webp",
+      "url": "https://nsdl.com/investor/investor-services",
+      "kind": "illustration",
+      "alt": "Illustration showing broker order then trade matched then shares recorded"
+    },
+    {
+      "company": "nsdl",
+      "src": "https://nsdl.com/investor/investor-services",
+      "sourceNote": "Original illustration based on the linked service documentation.",
+      "name": "Paper certificates to demat",
+      "category": "Converts eligible paper certificates into electronic holdings.",
+      "image": "assets/products/nsdl-paper.webp",
+      "url": "https://nsdl.com/investor/investor-services",
+      "kind": "illustration",
+      "alt": "Illustration showing paper certificate then details checked then demat holding"
+    },
+    {
+      "company": "nsdl",
+      "src": "https://nsdl.com/nsdl/2026-10/Signed%20Intimation_Presentation_ICICI%20sec.pdf#page=6",
+      "sourceNote": "Original illustration based on the linked service documentation.",
+      "name": "Electronic share transfers",
+      "category": "Records shares moving between demat accounts after settlement or other approved instructions.",
+      "image": "assets/products/nsdl-transfer.webp",
+      "url": "https://nsdl.com/nsdl/2026-10/Signed%20Intimation_Presentation_ICICI%20sec.pdf#page=6",
+      "kind": "illustration",
+      "alt": "Illustration showing seller account then delivery checked then buyer account"
+    },
+    {
+      "company": "nsdl",
+      "src": "https://nsdl.com/investor/know-your-cas",
+      "sourceNote": "Original illustration based on the linked service documentation.",
+      "name": "Consolidated Account Statement",
+      "category": "Shows eligible investment holdings and transactions together in one statement.",
+      "image": "assets/products/nsdl-statement.webp",
+      "url": "https://nsdl.com/investor/know-your-cas",
+      "kind": "illustration",
+      "alt": "Illustration showing demat holdings then fund records then one statement"
+    },
+    {
+      "company": "nsdl",
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/61/9f/69/619f69d4-53c4-534e-17a4-237e4fe87924/e9faf308-cbcd-4853-bcac-604891a7044f_login.png/600x1300bb.webp",
+      "sourceNote": "Official developer screenshot from the App Store, placed beside a short description of the feature.",
+      "name": "SPEED-e",
+      "category": "Helps eligible account holders send instructions and check their status.",
+      "image": "assets/products/nsdl-speed-e.webp",
+      "url": "https://nsdl.com/investor-services-Speed-e-web",
+      "kind": "pack",
+      "alt": "Official SPEED-e sign-in preview alongside example tasks"
+    },
+    {
+      "company": "nsdl",
+      "src": "https://nsdl.com/issuer-services-e-voting",
+      "sourceNote": "Original illustration based on the linked service documentation.",
+      "name": "Electronic voting",
+      "category": "Lets eligible shareholders vote on company proposals online.",
+      "image": "assets/products/nsdl-voting.webp",
+      "url": "https://nsdl.com/issuer-services-e-voting",
+      "kind": "illustration",
+      "alt": "Illustration showing company proposal then shareholder vote then votes recorded"
+    },
+    {
+      "company": "nsdl",
+      "src": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a61bc02b-657b-4b53-892b-eb4b45f08350.pdf#page=261",
+      "sourceNote": "Original illustration based on the linked service documentation.",
+      "name": "Savings and payment services",
+      "category": "The group’s separate payments bank processes payments and offers eligible deposit accounts.",
+      "image": "assets/products/nsdl-payments.webp",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a61bc02b-657b-4b53-892b-eb4b45f08350.pdf#page=261",
+      "kind": "illustration",
+      "alt": "Illustration showing customer account then payment instruction then money delivered"
+    },
+    {
+      "company": "cdsl",
+      "src": "https://www.cdslindia.com/Investors/faqs.html",
+      "sourceNote": "Original illustration based on the linked service documentation.",
+      "name": "Electronic share holdings",
+      "category": "Stores a record of the securities in each demat account.",
+      "image": "assets/products/cdsl-holdings.webp",
+      "url": "https://www.cdslindia.com/Investors/faqs.html",
+      "kind": "illustration",
+      "alt": "Illustration showing trade matched then delivery clears then demat holding"
+    },
+    {
+      "company": "cdsl",
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/0a/3e/5b0a3ed7-0632-cdbd-e153-81bc5ed57aad/IMG_0468.PNG/300x650bb.webp",
+      "sourceNote": "Official developer screenshot from the App Store, placed beside a short description of the feature.",
+      "name": "MyEasi",
+      "category": "Provides online access to holdings and related account services.",
+      "image": "assets/products/cdsl-easi.webp",
+      "url": "https://www.cdslindia.com/About/overview.html",
+      "kind": "pack",
+      "alt": "Official MyEasi registration preview alongside example tasks"
+    },
+    {
+      "company": "cdsl",
+      "src": "https://www.cdslindia.com/Footer/Edis.html",
+      "sourceNote": "Original illustration based on the linked service documentation.",
+      "name": "Electronic delivery authorisation",
+      "category": "Lets eligible investors approve a debit of shares through a supported online service.",
+      "image": "assets/products/cdsl-transfer.webp",
+      "url": "https://www.cdslindia.com/Footer/Edis.html",
+      "kind": "illustration",
+      "alt": "Illustration showing shares to deliver then confirm request then record updated"
+    },
+    {
+      "company": "cdsl",
+      "src": "https://www.cdslindia.com/Investors/faqs.html",
+      "sourceNote": "Original illustration based on the linked service documentation.",
+      "name": "New-share allotments",
+      "category": "Updates eligible investor accounts when a company allots new shares.",
+      "image": "assets/products/cdsl-issuer.webp",
+      "url": "https://www.cdslindia.com/Investors/faqs.html",
+      "kind": "illustration",
+      "alt": "Illustration showing company allots then list checked then shares credited"
+    },
+    {
+      "company": "cdsl",
+      "src": "https://www.cdslindia.com/About/overview.html",
+      "sourceNote": "Original illustration based on the linked service documentation.",
+      "name": "Electronic voting",
+      "category": "Records eligible shareholders’ votes on company proposals.",
+      "image": "assets/products/cdsl-voting.webp",
+      "url": "https://www.cdslindia.com/About/overview.html",
+      "kind": "illustration",
+      "alt": "Illustration showing read proposal then choose vote then votes counted"
+    },
+    {
+      "company": "cdsl",
+      "src": "https://www.cdslindia.com/downloads/IPO/GeneralMeeting/CDSL%20IR%202025-26.pdf#page=339",
+      "sourceNote": "Original illustration based on the linked service documentation.",
+      "name": "Investor identity records",
+      "category": "CDSL Ventures stores identity records that eligible financial firms can check.",
+      "image": "assets/products/cdsl-identity.webp",
+      "url": "https://www.cdslindia.com/downloads/IPO/GeneralMeeting/CDSL%20IR%202025-26.pdf#page=339",
+      "kind": "illustration",
+      "alt": "Illustration showing submit details then record verified then firm checks record"
+    },
+    {
+      "company": "cdsl",
+      "src": "https://www.cdslindia.com/downloads/IPO/GeneralMeeting/CDSL%20IR%202025-26.pdf#page=339",
+      "sourceNote": "Original illustration based on the linked service documentation.",
+      "name": "Insurance and warehouse records",
+      "category": "Group companies keep insurance policies or warehouse receipts electronically.",
+      "image": "assets/products/cdsl-repository.webp",
+      "url": "https://www.cdslindia.com/downloads/IPO/GeneralMeeting/CDSL%20IR%202025-26.pdf#page=339",
+      "kind": "illustration",
+      "alt": "Illustration showing policy or receipt then record stored then holder can view"
     }
   ]
 }

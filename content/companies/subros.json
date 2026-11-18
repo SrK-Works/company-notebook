@@ -1,0 +1,114 @@
+{
+  "order": 109,
+  "company": {
+    "id": "subros",
+    "name": "Subros Limited",
+    "ticker": "SUBROS",
+    "sector": "Homes & mobility",
+    "initial": "SB",
+    "logo": "assets/logos/subros-official.webp",
+    "color": "#244282",
+    "bg": "#eaf1f9",
+    "tag": "The business behind the offering",
+    "products": [
+      [
+        "Car air conditioning compressor",
+        "Pushes cooling fluid round the system so it can carry heat away"
+      ],
+      [
+        "Condenser",
+        "Releases heat to outside air, usually at the front of the vehicle"
+      ],
+      [
+        "Evaporator",
+        "Takes heat from air blowing into the cabin"
+      ],
+      [
+        "Cooling tubes and hoses",
+        "Connect the parts and carry the cooling fluid between them"
+      ],
+      [
+        "Bus air conditioning equipment",
+        "A larger unit supplies cooled air to a bus cabin"
+      ],
+      [
+        "Rail cabin air conditioning kit",
+        "Cooling equipment can be fitted to a train driver’s cabin"
+      ],
+      [
+        "Truck cabin cooling",
+        "Moves warm or cool air through truck cabin vents"
+      ]
+    ],
+    "sources": [],
+    "productSource": "https://www.subros.com/product-categories",
+    "productNote": "These equipment images come from Subros. The exact unit fitted depends on the vehicle and application.",
+    "checked": "18 Nov 2026",
+    "reviewed": "18 November 2026",
+    "aliases": [
+      "Subros",
+      "car air conditioning",
+      "automotive air conditioning",
+      "compressors",
+      "cooling systems"
+    ]
+  },
+  "offerings": [
+    {
+      "name": "Car air conditioning compressor",
+      "category": "Pushes cooling fluid round the system so it can carry heat away",
+      "image": "assets/products/subros-compressor.webp",
+      "url": "https://www.subros.com/products/compressors",
+      "kind": "pack",
+      "alt": "Subros belt driven compressor with its metal body and pulley"
+    },
+    {
+      "name": "Condenser",
+      "category": "Releases heat to outside air, usually at the front of the vehicle",
+      "image": "assets/products/subros-condenser.webp",
+      "url": "https://www.subros.com/products/condensers",
+      "kind": "pack",
+      "alt": "Subros condenser with rows of closely spaced metal fins"
+    },
+    {
+      "name": "Evaporator",
+      "category": "Takes heat from air blowing into the cabin",
+      "image": "assets/products/subros-evaporator.webp",
+      "url": "https://www.subros.com/products/evaporators",
+      "kind": "pack",
+      "alt": "Subros evaporator with metal fins and curved pipes"
+    },
+    {
+      "name": "Cooling tubes and hoses",
+      "category": "Connect the parts and carry the cooling fluid between them",
+      "image": "assets/products/subros-hoses.webp",
+      "url": "https://www.subros.com/products/tubes-hoses",
+      "kind": "pack",
+      "alt": "Curved metal tubes and flexible hoses made by Subros"
+    },
+    {
+      "name": "Bus air conditioning equipment",
+      "category": "A larger unit supplies cooled air to a bus cabin",
+      "image": "assets/products/subros-bus.webp",
+      "url": "https://www.subros.com/products/bus-ac-kit",
+      "kind": "pack",
+      "alt": "Subros bus air conditioning assembly with several fans"
+    },
+    {
+      "name": "Rail cabin air conditioning kit",
+      "category": "Cooling equipment can be fitted to a train driver’s cabin",
+      "image": "assets/products/subros-rail.webp",
+      "url": "https://www.subros.com/products/rail-ac-kit",
+      "kind": "pack",
+      "alt": "Subros rail air conditioning equipment with metal housing and fan"
+    },
+    {
+      "name": "Truck cabin cooling",
+      "category": "Moves warm or cool air through truck cabin vents",
+      "image": "assets/products/subros-truck.webp",
+      "url": "https://www.subros.com/product-categories/truck-application",
+      "kind": "pack",
+      "alt": "Subros under-dash cabin air handling assembly"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "summary": "KFin Technologies records who owns units in mutual funds, handles requests to buy and sell them, and keeps shareholder records for companies that issue shares.",
+  "description": "Imagine buying units in a mutual fund. A unit is a small share of the investments held together in that fund. The fund hires KFin to check the order, match it with the payment, and update the number of units in the investor’s account. This is the work of a registrar and transfer agent. An issuing company can also hire KFin to keep its shareholder list or handle applications for a new share sale.",
+  "money": "Fund managers and companies that issue shares pay agreed fees for records, transactions and support. Some mutual fund fees move with the value of investments serviced, while a share offer can generate a separate fee. Staff, software, servers and security cost money. Profit is what remains after costs and tax. Cash arrives when customers pay their bills.",
+  "customers": "Mutual fund managers, companies issuing shares and other financial institutions hire KFin. Investors use its apps or contact it about their records.",
+  "drivers": "Watch the value of the investments KFin services, the number of share offers it works on, and whether its overseas operations earn enough to cover their costs.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "Checks investment requests and keeps the records of who owns units or shares."
+    },
+    {
+      "title": "Who pays",
+      "text": "Fund managers and companies issuing shares pay KFin. Investors use its apps, statements and support."
+    },
+    {
+      "title": "How it earns",
+      "text": "KFin charges for ongoing recordkeeping and for agreed work such as processing a share offer."
+    },
+    {
+      "title": "What it spends on",
+      "text": "People who check records and help investors, software, computing systems and security."
+    }
+  ],
+  "groups": [
+    {
+      "title": "Mutual fund orders and records",
+      "examples": "Purchases, sales, monthly investments and statements through KFinKart.",
+      "explanation": "KFin checks a request against the investor’s record and updates the units after the order is processed."
+    },
+    {
+      "title": "Share offers and ongoing shareholder records",
+      "examples": "Applications for new shares and updates to investor details.",
+      "explanation": "KFin helps the seller process applications and notify investors of the allotment, which is the number of shares assigned."
+    },
+    {
+      "title": "Overseas fund books and reports",
+      "examples": "Fund administration through businesses including Ascent Fund Services.",
+      "explanation": "Teams help keep a fund’s accounts current and prepare reports. This can include reconciling records, which means checking that two sets of records agree."
+    },
+    {
+      "title": "Pension and private fund accounts",
+      "examples": "Retirement contribution records and specialised investment funds.",
+      "explanation": "KFin records new investors and payments and prepares records for the organisations that run these accounts."
+    }
+  ],
+  "basics": [
+    {
+      "title": "Who decides what the fund buys?",
+      "text": "A fund manager selects the investments. KFin looks after investor records and the transaction steps it was hired to run."
+    },
+    {
+      "title": "What is a folio?",
+      "text": "A folio is an account record a mutual fund keeps for an investor. It shows purchases, sales and the units held."
+    },
+    {
+      "title": "What happens in a share offer?",
+      "text": "An existing or new investor applies for shares. A registrar helps organise the applications and report which shares were assigned under the offer rules."
+    }
+  ],
+  "stepsTitle": "From a buy request to a service bill",
+  "steps": [
+    {
+      "title": "Record the request",
+      "text": "The investor or their distributor submits an order to the fund or an app that connects to it."
+    },
+    {
+      "title": "Check the details",
+      "text": "KFin checks the account, confirms the payment through the processing system and applies the fund’s rules."
+    },
+    {
+      "title": "Update the record",
+      "text": "When the order is accepted, the system adds the units to the folio. The investor gets a confirmation."
+    },
+    {
+      "title": "Bill for the work",
+      "text": "KFin records service revenue under the contract. It collects cash when the client pays. Staff and technology costs reduce what becomes profit."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Issuers buy more than shareholder lists",
+      "text": "A company can hire KFin to process a sale of shares as well as to maintain records after the offer closes. This creates both ongoing work and work tied to a specific issue."
+    },
+    {
+      "title": "The business has expanded overseas",
+      "text": "KFin acquired control of Ascent Fund Services in October 2025. Ascent brought fund accounting and administration for international clients into the group."
+    },
+    {
+      "title": "Two registrars can build a joint service",
+      "text": "KFin and Computer Age Management Services (CAMS) built MFCentral, a shared online place to view holdings and submit supported mutual fund requests."
+    }
+  ],
+  "watch": [
+    [
+      "Are domestic mutual fund fees growing with the assets serviced?",
+      "A rise in investment value can lift some fees even when investors make few new purchases.",
+      "Read the company’s fund servicing commentary alongside the revenue from domestic fund services. Look for changes in the fee rate and client mix."
+    ],
+    [
+      "Which issuer fees repeat?",
+      "A full calendar of share offers creates work that can vary from one year to the next.",
+      "Look for the company’s discussion of issue processing alongside ongoing share registry work. Compare busy quarters with quieter ones."
+    ],
+    [
+      "What has Ascent added?",
+      "Adding a company can lift reported sales even when the old business is growing at a different pace.",
+      "Check the annual report’s acquisition notes and compare international service revenue and results before and after Ascent joined."
+    ],
+    [
+      "Are more requests being handled reliably?",
+      "Fund managers depend on timely records and payments to keep their investors informed.",
+      "Use company updates to check transaction volumes, service availability and any disclosures about major errors or disruptions."
+    ],
+    [
+      "Is group cash rising with reported profit?",
+      "Unpaid bills or acquisition spending can mean cash behaves differently from profit.",
+      "Compare cash generated by the business with the profit statement, then check money still owed by clients and cash spent buying companies."
+    ]
+  ],
+  "risks": [
+    [
+      "Record errors",
+      "An incorrect account entry can delay a payment or create a claim."
+    ],
+    [
+      "System or data incident",
+      "An outage can stop orders from being recorded and a data breach can expose sensitive investor information."
+    ],
+    [
+      "A change in asset values",
+      "Lower investment values can bring down fees that depend on the value of the funds serviced."
+    ],
+    [
+      "Fewer share offers",
+      "The company gets fewer assignments to process new share applications when the market for offers slows."
+    ]
+  ],
+  "helps": [
+    {
+      "title": "Existing funds need daily service",
+      "text": "Fund managers continue to need investor records and support between fund launches."
+    },
+    {
+      "title": "More ways to serve a client",
+      "text": "KFin can supply investor records, fund accounting or software depending on the work a fund manager needs."
+    },
+    {
+      "title": "A wider customer base",
+      "text": "Indian funds, share issuers and overseas fund managers buy different services, so their demand can move at different times."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Clients can renegotiate",
+      "text": "Fees may fall when a fund or company renews its service contract."
+    },
+    {
+      "title": "Overseas businesses add costs",
+      "text": "Integrating systems and teams across countries can be expensive."
+    },
+    {
+      "title": "Staff and security need investment",
+      "text": "KFin has to keep trained people and secure systems in place even when a client processes less work."
+    }
+  ],
+  "context": [
+    "What changed by September 2026",
+    "The group’s international and other investor services brought in more revenue than a year earlier. This comparison includes Ascent in the current quarter, following the acquisition in October 2025."
+  ],
+  "sources": [
+    [
+      "KFin company overview",
+      "https://www.kfintech.com/about-us/"
+    ],
+    [
+      "KFinKart app listing",
+      "https://play.google.com/store/apps/details?hl=en&id=com.karvy"
+    ],
+    [
+      "Official pension service",
+      "https://nps.kfintech.com/"
+    ],
+    [
+      "MFCentral joint service",
+      "https://www.amfiindia.com/online-center/download-cas"
+    ],
+    [
+      "Company announcement archive including Ascent",
+      "https://investor.kfintech.com/press-releases/"
+    ],
+    [
+      "Filed full-year financial results",
+      "https://investor.kfintech.com/wp-content/uploads/2026/04/Intimation-42-1.pdf"
+    ],
+    [
+      "Filed September-quarter results",
+      "https://www.bseindia.com/xml-data/corpfiling/AttachLive/572f541f-49b0-4ccf-96df-f6c5e584f797.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "What can you compare?",
+      "text": "The annual table shows the results the company reports for three business groups before interest, tax and shared costs. Check the group’s profit after tax after those items."
+    },
+    {
+      "title": "A comparison across years",
+      "text": "Ascent joined during the full year. Check whether growth came from work won by KFin’s existing business, from the acquisition, or from both. The year also includes a charge tied to new labour rules."
+    }
+  ],
+  "financialCue": "Compare domestic fund servicing with issuer and international services. Then read the reconciliation to group profit.",
+  "photoCaption": "The same account system that displays an investor’s holdings also helps the fund record changes when units are bought or sold.",
+  "checked": "18 November 2026"
+}

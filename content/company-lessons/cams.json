@@ -1,0 +1,219 @@
+{
+  "summary": "Computer Age Management Services, known as CAMS, keeps investor records for mutual funds. It processes purchases and sales, tracks payments and sends statements.",
+  "description": "Imagine setting up a monthly mutual fund investment. A mutual fund pools money from many people and gives each investor units, which are shares of that pool. CAMS checks the request, matches the deposit to the order, updates the fund’s records and sends a confirmation. Fund managers hire it to run these steps.",
+  "money": "Fund managers pay for transfer agency work, meaning investor records and transaction processing. Some fees move with the value of the investments serviced. Other services have their own terms. For example, payments work can earn fees for processing and matching collections. CAMS pays for staff, software, computing systems and security. These costs reduce its profit.",
+  "customers": "Mutual fund managers and other investment firms are the main service customers. Insurers and other businesses can also buy services. Investors use CAMS to view records and make requests.",
+  "drivers": "Watch how much money funds serviced by CAMS manage, how fees change, and whether payments and identity services bring in more business.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "It checks mutual fund orders, keeps investor records and sends statements."
+    },
+    {
+      "title": "Who pays",
+      "text": "Fund managers and financial firms pay CAMS. Investors and their advisers use the service."
+    },
+    {
+      "title": "How it earns",
+      "text": "CAMS bills for looking after fund accounts and for other agreed work such as processing payments or verifying identity records."
+    },
+    {
+      "title": "What it spends on",
+      "text": "Staff, transaction software, computing systems and controls that keep sensitive records safe."
+    }
+  ],
+  "groups": [
+    {
+      "title": "Mutual fund records",
+      "examples": "myCAMS account access, fund statements and requests to invest or withdraw.",
+      "explanation": "CAMS keeps investor balances up to date and gives fund managers a record of who owns each unit."
+    },
+    {
+      "title": "Payments",
+      "examples": "CAMSPay setup and processing for a repeating payment.",
+      "explanation": "CAMS helps companies collect money and match bank debits back to the right customer and order."
+    },
+    {
+      "title": "Identity records",
+      "examples": "CAMSKRA’s service for storing and sharing verified identity records.",
+      "explanation": "A fund or broker can refer to a verified record when taking on an investor, subject to its checks and rules."
+    },
+    {
+      "title": "Insurance and retirement records",
+      "examples": "Electronic insurance policies and pension account records.",
+      "explanation": "CAMS helps insurers or pension organisations maintain digital records that customers can access."
+    },
+    {
+      "title": "Private investment funds",
+      "examples": "Recordkeeping and fund accounting for privately pooled funds.",
+      "explanation": "CAMS can collect forms, keep track of investors and help the fund prepare its books and reports."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is a fund account or folio?",
+      "text": "It is the fund’s record of an investor. It shows how many units the investor owns and what transactions changed the total."
+    },
+    {
+      "title": "Who chooses the investments?",
+      "text": "The fund manager chooses what to buy and sell for the fund. CAMS checks and records what investors buy from the fund or sell back to it."
+    },
+    {
+      "title": "Does the value of the funds belong to CAMS?",
+      "text": "The investments belong to the funds and their investors. Their value can affect a servicing fee without becoming CAMS revenue itself."
+    }
+  ],
+  "stepsTitle": "What happens to a monthly investment?",
+  "steps": [
+    {
+      "title": "Send the instruction",
+      "text": "The investor tells the fund how often to make a purchase and approves the associated bank debit."
+    },
+    {
+      "title": "Match the money",
+      "text": "CAMS and the payment system check that the collection belongs to the right investor and order."
+    },
+    {
+      "title": "Update the holding",
+      "text": "Once processed, the purchase increases the units in the fund’s investor record. A statement shows the change."
+    },
+    {
+      "title": "Bill and collect",
+      "text": "CAMS earns a service fee under its contract. It receives cash when the bill is paid and pays its own processing and staffing costs."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "One app can serve several funds",
+      "text": "myCAMS puts requests and statements for supported funds in one place. MFCentral is a separate, jointly built service from CAMS and KFin for supported requests across fund houses."
+    },
+    {
+      "title": "Payments have their own fee and cost",
+      "text": "CAMSPay can earn a fee on transactions it helps process. Bank processing and building the software needed to match payments are costs of providing that service."
+    },
+    {
+      "title": "The group sells services beyond mutual funds",
+      "text": "Insurers, private funds and firms checking investor identities can use CAMS services. The accounts group those activities into one reported business segment."
+    }
+  ],
+  "watch": [
+    [
+      "Is mutual fund service revenue keeping up with the funds serviced?",
+      "More money in participating funds can lift fees, but the terms and mix of assets matter.",
+      "Compare the company’s updates on fund assets with mutual fund service revenue over multiple quarters. Look for explanations of changes in pricing."
+    ],
+    [
+      "How much work is handled when markets are busy?",
+      "Rises in applications or withdrawals can add work for the company and raise the cost of responding.",
+      "Compare reported transaction counts and service quality with staffing and technology costs, especially in quarters with heavy buying or selling."
+    ],
+    [
+      "Are payment services growing alongside fund work?",
+      "Payments can add a separate fee stream, although each collection has a processing cost.",
+      "Check CAMSPay commentary for paying clients and collections alongside the company’s updates on revenue from services beyond mutual funds."
+    ],
+    [
+      "Can customers continue using the systems during upgrades?",
+      "CAMS has to process orders while replacing or improving the software behind them.",
+      "Look for whether management reports completed migrations, delayed changes, or problems that held up investor requests during the transition."
+    ],
+    [
+      "Does the business collect the cash behind its profit?",
+      "A service can be billed and counted as revenue before the customer sends the cash.",
+      "Look at cash from regular business operations and money still owed by customers. Compare those numbers with reported profit across several periods."
+    ]
+  ],
+  "risks": [
+    [
+      "Fewer or cheaper fund assets",
+      "A market decline or withdrawals can reduce the value on which some service fees depend."
+    ],
+    [
+      "A disruption during a busy period",
+      "Orders or account updates may be delayed if essential systems stop working."
+    ],
+    [
+      "Errors in records",
+      "A mismatched payment or investor record can delay processing and create extra work or complaints."
+    ],
+    [
+      "Identity and data rules can change",
+      "New requirements can increase the work needed to check records and keep personal details safe."
+    ]
+  ],
+  "helps": [
+    {
+      "title": "Recurring investor requests",
+      "text": "Funds need regular records and statements even when providers launch fewer new products."
+    },
+    {
+      "title": "Repeat payments can use the same service",
+      "text": "A payment setup can be reused to handle recurring collections and match them to orders."
+    },
+    {
+      "title": "Several kinds of client",
+      "text": "The group can also earn from identity checks, insurance records and administration for private funds."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Mutual funds still matter most",
+      "text": "The group depends largely on the funds it helps run, so changes in the fund industry affect much of its business."
+    },
+    {
+      "title": "Renewals can squeeze fees",
+      "text": "A large client can ask for lower fees or choose another provider when a contract is renewed."
+    },
+    {
+      "title": "New work needs spending first",
+      "text": "Upgrading systems and onboarding clients requires staff and technology before some service fees arrive."
+    }
+  ],
+  "context": [
+    "What changed by September 2026",
+    "CAMS reported that payment services and private fund administration grew faster than overall revenue. Mutual fund servicing remained the core business."
+  ],
+  "sources": [
+    [
+      "CAMS annual report and services",
+      "https://www.camsonline.com/Annual_Report/FY2025-26/service-offerings.html"
+    ],
+    [
+      "myCAMS app listing",
+      "https://play.google.com/store/apps/details?hl=en_US&id=com.KCamsApp"
+    ],
+    [
+      "MFCentral joint service",
+      "https://www.amfiindia.com/online-center/download-cas"
+    ],
+    [
+      "CAMS discussion of asset and transaction fees",
+      "https://digital.camsonline.com/cams/documents/analyst_meet/Q4FY25%20Transcript%20CAMS.pdf"
+    ],
+    [
+      "Audited consolidated accounts",
+      "https://www.camsonline.com/Annual_Report/FY2025-26/consolidated-financial-statements.pdf"
+    ],
+    [
+      "September quarter filing",
+      "https://digital.camsonline.com/cams/documents/quarterly_reports/Q2%20Financial%20Results.pdf"
+    ],
+    [
+      "September business update",
+      "https://digital.camsonline.com/cams/documents/press_release/Press%20Release_Q2%20FY%2727.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "How to read the annual figures",
+      "text": "CAMS reports one business segment for processing financial records and related services. The group may describe sales from different services elsewhere while reporting one group profit figure."
+    },
+    {
+      "title": "Two versions of group profit",
+      "text": "Profit for the whole group includes the shares belonging to all owners of its subsidiaries. Profit attributable to owners of CAMS allocates the result to shareholders of the parent company."
+    }
+  ],
+  "financialCue": "The annual row combines mutual fund servicing, payments and other work. Check the company’s business updates for service revenue trends.",
+  "photoCaption": "For a fund that CAMS services, an investor can view holdings and send requests through myCAMS.",
+  "checked": "18 November 2026"
+}

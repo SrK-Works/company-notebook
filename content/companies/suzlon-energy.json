@@ -1,0 +1,117 @@
+{
+  "order": 107,
+  "company": {
+    "id": "suzlon-energy",
+    "name": "Suzlon Energy Limited",
+    "ticker": "SUZLON",
+    "sector": "Energy & utilities",
+    "initial": "SE",
+    "logo": "assets/logos/suzlon-energy-official.webp",
+    "color": "#087777",
+    "bg": "#e8f5f2",
+    "tag": "The business behind the offering",
+    "products": [
+      [
+        "Wind turbines",
+        "Blades catch the wind and turn a generator to make electricity"
+      ],
+      [
+        "Inside the turbine’s top housing",
+        "The housing holds the generator and parts that transfer the blades’ motion"
+      ],
+      [
+        "S175 wind turbine design",
+        "Long blades sweep a larger area to catch more wind at suitable sites"
+      ],
+      [
+        "Moving turbine parts to the site",
+        "Trucks carry large parts from the factory to the wind farm"
+      ],
+      [
+        "Turbine component manufacturing",
+        "Workers assemble and check equipment for wind projects"
+      ],
+      [
+        "Wind turbine service",
+        "Technicians inspect machinery and replace worn parts so turbines can keep running"
+      ],
+      [
+        "Accessing a turbine’s machinery",
+        "Teams reach the housing at the top to inspect machinery"
+      ]
+    ],
+    "sources": [],
+    "productSource": "https://www.suzlon.com/our-businesses/products/wind/",
+    "productNote": "Photographs and labelled technical illustrations come from Suzlon’s annual report and its September 2026 investor presentation.",
+    "checked": "18 Nov 2026",
+    "reviewed": "18 November 2026",
+    "aliases": [
+      "Suzlon",
+      "Suzlon Energy",
+      "wind turbines",
+      "wind farm",
+      "renewable energy",
+      "Renom",
+      "S144",
+      "S175"
+    ]
+  },
+  "offerings": [
+    {
+      "name": "Wind turbines",
+      "category": "Blades catch the wind and turn a generator to make electricity",
+      "image": "assets/products/suzlon-energy-wind-turbines.webp",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/984e4598-0b42-4377-a49f-2749dc392f06.pdf#page=51",
+      "kind": "photo",
+      "alt": "Close view of a wind turbine’s three blades above green fields"
+    },
+    {
+      "name": "Inside the turbine’s top housing",
+      "category": "The housing holds the generator and parts that transfer the blades’ motion",
+      "image": "assets/products/suzlon-energy-generator-housing.webp",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d1b153e2-adb0-4973-a18d-ce467415756b.pdf#page=36",
+      "kind": "illustration",
+      "alt": "Company cutaway drawing showing machinery inside a turbine’s top housing"
+    },
+    {
+      "name": "S175 wind turbine design",
+      "category": "Long blades sweep a larger area to catch more wind at suitable sites",
+      "image": "assets/products/suzlon-energy-s175.webp",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d1b153e2-adb0-4973-a18d-ce467415756b.pdf#page=35",
+      "kind": "illustration",
+      "alt": "Company turbine drawing showing the S175’s tower and blade sweep"
+    },
+    {
+      "name": "Moving turbine parts to the site",
+      "category": "Trucks carry large parts from the factory to the wind farm",
+      "image": "assets/products/suzlon-energy-transport.webp",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d1b153e2-adb0-4973-a18d-ce467415756b.pdf#page=36",
+      "kind": "illustration",
+      "alt": "Company drawing of a truck carrying part of a wind turbine"
+    },
+    {
+      "name": "Turbine component manufacturing",
+      "category": "Workers assemble and check equipment for wind projects",
+      "image": "assets/products/suzlon-energy-factory.webp",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/984e4598-0b42-4377-a49f-2749dc392f06.pdf#page=56",
+      "kind": "photo",
+      "alt": "Worker in protective gear operating equipment on a Suzlon shop floor"
+    },
+    {
+      "name": "Wind turbine service",
+      "category": "Technicians inspect machinery and replace worn parts so turbines can keep running",
+      "image": "assets/products/suzlon-energy-maintenance.webp",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/984e4598-0b42-4377-a49f-2749dc392f06.pdf#page=47",
+      "kind": "photo",
+      "alt": "Technician at a turbine access hatch with work equipment"
+    },
+    {
+      "name": "Accessing a turbine’s machinery",
+      "category": "Teams reach the housing at the top to inspect machinery",
+      "image": "assets/products/suzlon-energy-turbine-access.webp",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/984e4598-0b42-4377-a49f-2749dc392f06.pdf#page=59",
+      "kind": "photo",
+      "alt": "Worker above the Suzlon name on the top housing of a wind turbine"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "summary": "Subros makes air conditioning and cooling equipment that vehicle makers fit into cars, buses, trucks and trains. It also makes units for refrigerated cargo and equipment for buildings.",
+  "description": "When you turn on the air conditioning in a car, a compressor moves a cooling fluid around the system. A part at the front releases heat and another behind the dashboard draws heat from the air blowing into the cabin. Subros supplies equipment like this to vehicle builders, who design it into their models.",
+  "money": "Vehicle builders and other equipment buyers pay for parts or completed systems. Subros spends on metals, plastic, motors, electronics, factory workers and test equipment. A customer may approve a part for a new model well before it orders production quantities, and may pay after accepting delivery.",
+  "customers": "Vehicle manufacturers are the main buyers. Subros also supplies customers who need equipment for rail cabins, refrigerated cargo and residential or commercial air conditioning. Drivers and passengers use the equipment fitted by vehicle builders.",
+  "drivers": "Watch how many vehicles customers make, which models use Subros parts, and how much cooling equipment goes into each vehicle. Material prices, customer prices and the cost of new factory capacity shape earnings.",
+  "quick": [
+    {
+      "title": "What does it do?",
+      "text": "It makes parts and systems that cool vehicle cabins and cargo, and also supplies cooling equipment for buildings."
+    },
+    {
+      "title": "Who pays?",
+      "text": "Car, bus and truck manufacturers and buyers of equipment for rail and other cooling applications."
+    },
+    {
+      "title": "How does it earn?",
+      "text": "It earns from supplying a part or a complete cooling unit under the buyer’s order."
+    },
+    {
+      "title": "What does it spend on?",
+      "text": "Metals, plastics, motors and electronics, tooling, factory labour and tests that check fit and performance."
+    }
+  ],
+  "groups": [
+    {
+      "title": "Car cabin cooling",
+      "examples": "Compressors, condensers and evaporators for air conditioning.",
+      "explanation": "The compressor keeps the cooling fluid moving. The condenser releases heat to outside air. The evaporator pulls heat from air headed inside the cabin."
+    },
+    {
+      "title": "Cooling buses, trucks and trains",
+      "examples": "Bus kits, truck cabin units and train cabin equipment.",
+      "explanation": "Subros makes systems for different cabin sizes and mounting spaces. Buyers choose the setup that fits their vehicle and cooling needs."
+    },
+    {
+      "title": "Keeping cargo cold",
+      "examples": "Refrigeration systems fitted onto trucks carrying chilled or frozen goods.",
+      "explanation": "The equipment draws heat out of the cargo box to keep products close to the required temperature during a trip."
+    },
+    {
+      "title": "Cooling for other settings",
+      "examples": "Equipment for construction machinery and units for residential and commercial use.",
+      "explanation": "The same basic process can cool a different enclosed space, but the equipment has to fit the room, machine or cabin it serves."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What changes for an electric car?",
+      "text": "An electric compressor uses a motor powered by the vehicle. That lets the cooling circuit work without a belt driven by a combustion engine."
+    },
+    {
+      "title": "What does a vehicle programme mean?",
+      "text": "A car maker chooses suppliers and tests their parts for a model. Once the model goes into production, the supplier can ship parts for the vehicles the car maker actually builds."
+    }
+  ],
+  "stepsTitle": "From a new car design to a delivered cooling unit",
+  "steps": [
+    {
+      "title": "Agree what the part must do",
+      "text": "The vehicle maker gives Subros its measurements, cooling needs and target performance."
+    },
+    {
+      "title": "Make samples and test them",
+      "text": "Engineers fit early versions and check performance and reliability. The buyer approves the design before production orders."
+    },
+    {
+      "title": "Make and deliver production parts",
+      "text": "Subros buys components, runs its machinery, checks batches and ships against the customer’s schedule."
+    },
+    {
+      "title": "Invoice and collect",
+      "text": "Subros earns revenue on deliveries under the agreed terms. It usually has to buy materials and pay workers before the buyer pays the invoice."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "A vehicle maker can buy one part or a system",
+      "text": "Supplying a complete unit means selling more equipment per vehicle but assembling and testing more of it."
+    },
+    {
+      "title": "Electric compressors are a separate opportunity",
+      "text": "Subros disclosed a new electric compressor supply award from Maruti Suzuki in January 2026. Actual orders depend on model launches and the number of vehicles built."
+    },
+    {
+      "title": "Cooling demand extends beyond cars",
+      "text": "Rail equipment and refrigerated freight can bring different buyers. Read business updates to see whether small product lines become meaningful sales."
+    }
+  ],
+  "watch": [
+    [
+      "Are customers building more cars with Subros equipment?",
+      "Even a strong new model does not help if it uses a different supplier.",
+      "Read which vehicle programmes started using Subros parts and compare customer production with the company’s comments on passenger vehicle demand."
+    ],
+    [
+      "Is each vehicle buying more cooling equipment?",
+      "One compressor and an assembled cooling system give very different sales per vehicle.",
+      "Look for new disclosed orders that add multiple parts or a full system. Then check how management describes the contribution from newer programmes."
+    ],
+    [
+      "Are electric compressor awards becoming shipments?",
+      "Approval for a future model can come long before production and payment.",
+      "Compare award announcements with later results presentations about production launches. Look for delivery volume rather than the original order headline."
+    ],
+    [
+      "Are materials eating into the extra sales?",
+      "More units sold can still leave little extra profit if each costs more to make.",
+      "Compare materials expense and operating earnings with sales. Read whether negotiated prices and a different mix of products offset material changes."
+    ],
+    [
+      "Is new factory capacity earning its keep?",
+      "A new line incurs costs before customer volumes are high enough to use it fully.",
+      "Follow factory updates, production start dates and subsequent sales. Look for signs that customers are using the capacity that was put in place."
+    ]
+  ],
+  "risks": [
+    [
+      "A few buyers can matter a great deal",
+      "A customer’s lower production or choice of a new supplier changes the number of parts ordered."
+    ],
+    [
+      "Component prices can move quickly",
+      "Metals, plastics and electronic parts can become more expensive before prices are reset."
+    ],
+    [
+      "Vehicles change designs",
+      "A successful part in one model does not guarantee an award for the next."
+    ],
+    [
+      "Product faults can cost money",
+      "Poor fit or reliability can lead to replacements or work on vehicles already sold."
+    ]
+  ],
+  "helps": [
+    {
+      "title": "Cooling is needed in many settings",
+      "text": "The company can take related skills from car cabins to cargo, trains and other spaces."
+    },
+    {
+      "title": "Model approval opens the door to repeat deliveries",
+      "text": "The same approved part may be ordered again as a vehicle maker builds more of that model."
+    },
+    {
+      "title": "Making several components in-house",
+      "text": "The company can supply individual parts or assembled equipment and test them together."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Orders follow the vehicle production schedule",
+      "text": "A factory can be ready to ship before a car maker raises its build plan."
+    },
+    {
+      "title": "New lines cost money before they fill up",
+      "text": "The cash spent on tools and plants has to be justified by future deliveries."
+    },
+    {
+      "title": "Electric vehicle programmes need fresh engineering",
+      "text": "New cooling equipment must fit different designs, so development and tests come before sales."
+    }
+  ],
+  "context": [
+    "September 2026: sales grew with higher demand",
+    "Subros reported starting production for two new vehicle models that use combustion engines. Its update also said new factory capacity and expansion for electric compressors were in progress."
+  ],
+  "sources": [
+    [
+      "Company product families",
+      "https://www.subros.com/product-categories"
+    ],
+    [
+      "Company manufacturing locations and applications",
+      "https://www.subros.com/manufacturing-facilities"
+    ],
+    [
+      "Audited March 2026 results and notes",
+      "https://nsearchives.nseindia.com/corporate/SUBROS_18052026212221_Outcome18052026.pdf"
+    ],
+    [
+      "September 2026 results filed with NSE",
+      "https://nsearchives.nseindia.com/corporate/SUBROS_03112026173814_outcomeofboardmeeting03112026.pdf"
+    ],
+    [
+      "September 2026 investor presentation",
+      "https://nsearchives.nseindia.com/corporate/SUBROS_03112026190418_Investorpresentation03112026.pdf"
+    ],
+    [
+      "January 2026 electric compressor award",
+      "https://nsearchives.nseindia.com/corporate/SUBROS_29012026125254_Ecompressorpressrelease29012026.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Read the company total",
+      "text": "Subros reports one segment called thermal products. Revenue and profit here combine its products. The company does not publish profit for each model or customer."
+    },
+    {
+      "title": "Check profit apart from grants",
+      "text": "The annual and quarterly filings discuss income from a Gujarat government grant. It appears in other income, apart from sales to equipment buyers."
+    }
+  ],
+  "financialCue": "Compare sales growth, material costs and profit. Check other income to see how much grants affected the comparison.",
+  "photoCaption": "These parts move heat out of a vehicle cabin or refrigerated cargo box.",
+  "checked": "18 November 2026"
+}

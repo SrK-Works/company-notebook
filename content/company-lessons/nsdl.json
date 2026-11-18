@@ -1,0 +1,75 @@
+{
+  "summary": "NSDL keeps digital records of who owns shares and bonds. It updates those records when investments move between accounts and also runs a payments bank through a separate company.",
+  "description": "After a share trade, the buyer needs an ownership record. A depository is the organisation that maintains that electronic record. NSDL works with banks and brokers to keep the record in a demat account, an account that holds securities electronically. It records share transfers and helps issuers give investors new shares or access to voting.",
+  "money": "Companies pay for keeping their shares or bonds on the system and for services such as distributing bonus shares. Banks and brokers that connect customers to NSDL pay certain fees for moving shares and bonds. NSDL spends on staff, software, secure computers and backup systems. Its payments bank earns separately from banking and payment services.",
+  "customers": "An investor normally reaches NSDL through a bank or broker that acts as a depository participant. That bank or broker pays NSDL for prescribed services and may charge its customer. Companies that issue shares or bonds also pay NSDL for services on their securities.",
+  "drivers": "Growth depends on the companies and securities it serves, the volume of billable transfers, and the cost of keeping records accurate and available.",
+  "quick": [
+    {"title":"What does it do?","text":"NSDL keeps electronic records of shares and bonds and updates them when ownership changes."},
+    {"title":"Who pays?","text":"Companies that issue shares or bonds and the banks and brokers that connect investors to the service."},
+    {"title":"How does it earn?","text":"It earns fees for keeping securities on its system, moving them between accounts, and doing work such as distributing new shares."},
+    {"title":"What does it spend on?","text":"Staff, computer systems, security and backup facilities. The payments bank also has its own costs."}
+  ],
+  "groups": [
+    {"title":"Hold shares and bonds","examples":"A demat account that can hold company shares and bonds.","explanation":"The record shows the type and quantity of securities held. Companies can add shares to the account without printing certificates."},
+    {"title":"Move or pledge a holding","examples":"Transfers after share trades, private transfers and pledges against loans.","explanation":"A transfer gives another account the securities. A pledge marks an investment as security for a loan while the investor may still own it."},
+    {"title":"Statements and voting","examples":"An online view of holdings, a combined statement and voting on company decisions.","explanation":"Investors can see positions and transactions. Companies can also use NSDL to collect votes from eligible shareholders."},
+    {"title":"Identity records and payments","examples":"Investor identity records through NSDL Database Management and savings and payment services through NSDL Payments Bank.","explanation":"The database business helps financial companies check investor details. The bank can take eligible deposits and process payments. Both appear in the group figures below."}
+  ],
+  "basics": [
+    {"title":"What does a stock exchange do in this process?","text":"The exchange matches buy and sell orders. The clearing organisation works out what each side must deliver. The depository changes the electronic share records when settlement takes place."},
+    {"title":"What is a depository participant?","text":"It is the bank, broker or other firm that provides the investor’s access to the depository. It normally opens the account and helps with transfers and changes to account details."},
+    {"title":"Why do company actions matter here?","text":"When a company gives bonus shares or splits each share into smaller units, the depository updates investor holdings based on the instructions it receives. The change comes from the issuing company."}
+  ],
+  "stepsTitle":"From a share trade to an updated holding",
+  "steps": [
+    {"title":"Connect the account","text":"An investor’s bank or broker confirms identity details and opens a demat account through a depository it works with."},
+    {"title":"Receive the instructions","text":"After the exchange matches an order, the clearing organisation determines what securities are to be delivered. Instructions reach the depository to move the holdings."},
+    {"title":"Update and check the accounts","text":"When the required checks are complete, the depository updates the records. The investor can see the credited shares in the account."},
+    {"title":"Bill for services","text":"NSDL recognises the fees it earns from work such as transfers and ongoing custody. Its customers pay on the terms that apply. Profit remains after costs and tax."}
+  ],
+  "specifics": [
+    {"title":"Bonds and privately held shares matter","text":"The depository records bonds and shares of unlisted companies as well as shares traded on an exchange. Looking only at retail stock trading misses part of its customer base."},
+    {"title":"The payments bank changes the group totals","text":"Deposit and payment services bring income and costs into the group even when the depository did not do that work. Read the two activities separately when interpreting a sales increase."},
+    {"title":"The value held is somebody else’s money","text":"Market prices can make the recorded holdings worth more even when there are few transfers. The value in custody alone does not tell you how much NSDL earned."}
+  ],
+  "watch": [
+    ["Are there more companies paying custody fees?","Recurring charges make the business less dependent on how much people trade.","Compare the annual report’s custody-fee line with the number of issuing companies in the business update over several periods."],
+    ["Are new accounts being used?","An opened account alone may generate little transaction activity.","Compare account additions with market and private transfer numbers. Check whether reported fee income moves with those transactions."],
+    ["How much does the payments bank earn after costs?","Group sales can rise even if the largest earnings contributor barely grows.","Read the consolidated segment table alongside the parent-only results to see changes in banking revenue, banking result and depository result."],
+    ["Is spending on staff and systems rising faster than fees?","The record system must remain reliable as more securities and accounts are added.","Compare employee and computer-related expenses across reporting periods, then read the company’s explanation of recent technology investment."],
+    ["How do new rules change what the company earns?","Service rules can affect which fees NSDL collects and what checks it needs to perform.","Read the depository notices and the annual report’s revenue notes together. Identify which fee or process a rule actually changes."]
+  ],
+  "risks": [
+    ["Less trading or issuance","A quiet period can mean fewer transfer and share-allotment fees."],
+    ["A system outage","Participants can struggle to submit or complete transfers on time."],
+    ["Pressure on fees","Competition and market rules can change what the depository earns per service."],
+    ["Mistakes or security failures","Wrong or unauthorised changes to ownership records can require remediation and create legal exposure."]
+  ],
+  "helps": [
+    {"title":"The records matter after a trade","text":"Companies and investors still need accurate holdings even when nobody is buying or selling that day."},
+    {"title":"Banks and brokers bring customers","text":"A network of depository participants gives individual and institutional investors access without using a direct NSDL branch."},
+    {"title":"One service can support several types of asset","text":"The same depository can keep records for shares and bonds, which lets it serve more than one part of the market."}
+  ],
+  "hurts": [
+    {"title":"Customers can use another depository","text":"The major bank and broker partners can make different choices about where new accounts are opened."},
+    {"title":"Backup systems are ongoing costs","text":"The company must staff, test and protect systems even in periods when fee-generating activity slows."},
+    {"title":"Group growth can bring a different cost mix","text":"A faster-growing payments business can shift which costs drive the reported group result."}
+  ],
+  "context": ["October 2026: a new way to record some securities", "NSDL announced Demat 2.0 in its September results release. It said the new system can use a shared digital record and is designed to complete eligible transfers faster. Track where it is actually used."],
+  "sources": [
+    ["Audited FY 2025–26 annual report filed with BSE","https://www.bseindia.com/xml-data/corpfiling/AttachHis/a61bc02b-657b-4b53-892b-eb4b45f08350.pdf"],
+    ["Signed September 2026 results filed with BSE","https://www.bseindia.com/xml-data/corpfiling/AttachHis/ff398d7a-ad88-4629-b98b-77a78c6687ae.pdf"],
+    ["September quarter earnings presentation","https://nsdl.com/nsdl/2026-10/Signed%20Intimation_Presentation_ICICI%20sec.pdf"],
+    ["September quarter press release","https://nsdl.com/nsdl/2026-10/Signed%20Press%20Release%20-%20Q2%20and%20H1%20FY27%20Financial%20Results.pdf"],
+    ["Investor services","https://nsdl.com/investor/investor-services"],
+    ["Electronic delivery instructions","https://nsdl.com/investor-services-Speed-e-web"],
+    ["Combined investment statement","https://nsdl.com/investor/know-your-cas"]
+  ],
+  "financialNotes": [
+    {"title":"Read the group and the parts","text":"The annual segment results compare Depository, Database Management and Banking Services on the same reporting basis. The group profit after tax below them includes adjustments for income and costs the company did not assign to those segments."}
+  ],
+  "photoCaption":"After a transfer, the depository updates the record of how many shares each investor holds.",
+  "financialCue":"Compare the revenue and result columns for Depository and Banking Services before reading total group profit.",
+  "checked":"18 November 2026"
+}

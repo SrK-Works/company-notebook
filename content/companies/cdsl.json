@@ -1,0 +1,115 @@
+{
+  "order": 113,
+  "company": {
+    "id": "cdsl",
+    "name": "Central Depository Services (India) Limited",
+    "ticker": "CDSL",
+    "tag": "Records electronic holdings and transfers after a trade",
+    "aliases": [
+      "CDSL",
+      "Central Depository Services",
+      "MyEasi",
+      "Easiest",
+      "Centrico",
+      "CDSL Ventures"
+    ],
+    "sector": "Financial services",
+    "initial": "CDSL",
+    "logo": "assets/logos/cdsl-official.webp",
+    "color": "#184c7d",
+    "bg": "#f2f8fd",
+    "products": [
+      [
+        "Electronic share holdings",
+        "Stores a record of the securities in each demat account."
+      ],
+      [
+        "MyEasi",
+        "Provides online access to holdings and related account services."
+      ],
+      [
+        "Electronic delivery authorisation",
+        "Lets eligible investors approve a debit of shares through a supported online service."
+      ],
+      [
+        "New-share allotments",
+        "Updates eligible investor accounts when a company allots new shares."
+      ],
+      [
+        "Electronic voting",
+        "Records eligible shareholders’ votes on company proposals."
+      ],
+      [
+        "Investor identity records",
+        "CDSL Ventures stores identity records that eligible financial firms can check."
+      ],
+      [
+        "Insurance and warehouse records",
+        "Group companies keep insurance policies or warehouse receipts electronically."
+      ]
+    ],
+    "productSource": "https://www.cdslindia.com/About/overview.html",
+    "productNote": "The diagrams show example steps. The app preview comes from the company’s App Store listing.",
+    "checked": "18 Nov 2026",
+    "reviewed": "18 November 2026",
+    "sources": []
+  },
+  "offerings": [
+    {
+      "name": "Electronic share holdings",
+      "category": "Stores a record of the securities in each demat account.",
+      "image": "assets/products/cdsl-holdings.webp",
+      "url": "https://www.cdslindia.com/Investors/faqs.html",
+      "kind": "illustration",
+      "alt": "Illustration showing trade matched then delivery clears then demat holding"
+    },
+    {
+      "name": "MyEasi",
+      "category": "Provides online access to holdings and related account services.",
+      "image": "assets/products/cdsl-easi.webp",
+      "url": "https://www.cdslindia.com/About/overview.html",
+      "kind": "pack",
+      "alt": "Official MyEasi registration preview alongside example tasks"
+    },
+    {
+      "name": "Electronic delivery authorisation",
+      "category": "Lets eligible investors approve a debit of shares through a supported online service.",
+      "image": "assets/products/cdsl-transfer.webp",
+      "url": "https://www.cdslindia.com/Footer/Edis.html",
+      "kind": "illustration",
+      "alt": "Illustration showing shares to deliver then confirm request then record updated"
+    },
+    {
+      "name": "New-share allotments",
+      "category": "Updates eligible investor accounts when a company allots new shares.",
+      "image": "assets/products/cdsl-issuer.webp",
+      "url": "https://www.cdslindia.com/Investors/faqs.html",
+      "kind": "illustration",
+      "alt": "Illustration showing company allots then list checked then shares credited"
+    },
+    {
+      "name": "Electronic voting",
+      "category": "Records eligible shareholders’ votes on company proposals.",
+      "image": "assets/products/cdsl-voting.webp",
+      "url": "https://www.cdslindia.com/About/overview.html",
+      "kind": "illustration",
+      "alt": "Illustration showing read proposal then choose vote then votes counted"
+    },
+    {
+      "name": "Investor identity records",
+      "category": "CDSL Ventures stores identity records that eligible financial firms can check.",
+      "image": "assets/products/cdsl-identity.webp",
+      "url": "https://www.cdslindia.com/downloads/IPO/GeneralMeeting/CDSL%20IR%202025-26.pdf#page=339",
+      "kind": "illustration",
+      "alt": "Illustration showing submit details then record verified then firm checks record"
+    },
+    {
+      "name": "Insurance and warehouse records",
+      "category": "Group companies keep insurance policies or warehouse receipts electronically.",
+      "image": "assets/products/cdsl-repository.webp",
+      "url": "https://www.cdslindia.com/downloads/IPO/GeneralMeeting/CDSL%20IR%202025-26.pdf#page=339",
+      "kind": "illustration",
+      "alt": "Illustration showing policy or receipt then record stored then holder can view"
+    }
+  ]
+}

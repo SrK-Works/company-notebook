@@ -1,0 +1,116 @@
+{
+  "order": 112,
+  "company": {
+    "id": "nsdl",
+    "name": "National Securities Depository Limited",
+    "ticker": "NSDL",
+    "tag": "Keeps digital ownership records for shares and bonds",
+    "aliases": [
+      "NSDL",
+      "National Securities Depository",
+      "SPEED-e",
+      "IDeAS",
+      "NSDL Payments Bank",
+      "544467"
+    ],
+    "sector": "Financial services",
+    "initial": "NSDL",
+    "logo": "assets/logos/nsdl-official.svg",
+    "color": "#84262a",
+    "bg": "#fff8ef",
+    "products": [
+      [
+        "Holding shares and bonds",
+        "Electronic ownership records in a demat account."
+      ],
+      [
+        "Paper certificates to demat",
+        "Converts eligible paper certificates into electronic holdings."
+      ],
+      [
+        "Electronic share transfers",
+        "Records shares moving between demat accounts after settlement or other approved instructions."
+      ],
+      [
+        "Consolidated Account Statement",
+        "Shows eligible investment holdings and transactions together in one statement."
+      ],
+      [
+        "SPEED-e",
+        "Helps eligible account holders send instructions and check their status."
+      ],
+      [
+        "Electronic voting",
+        "Lets eligible shareholders vote on company proposals online."
+      ],
+      [
+        "Savings and payment services",
+        "The group’s separate payments bank processes payments and offers eligible deposit accounts."
+      ]
+    ],
+    "productSource": "https://nsdl.com/investor/investor-services",
+    "productNote": "The diagrams show example steps. The app preview comes from the company’s App Store listing.",
+    "checked": "18 Nov 2026",
+    "reviewed": "18 November 2026",
+    "sources": [],
+    "listingLabel": "BSE: 544467"
+  },
+  "offerings": [
+    {
+      "name": "Holding shares and bonds",
+      "category": "Electronic ownership records in a demat account.",
+      "image": "assets/products/nsdl-holdings.webp",
+      "url": "https://nsdl.com/investor/investor-services",
+      "kind": "illustration",
+      "alt": "Illustration showing broker order then trade matched then shares recorded"
+    },
+    {
+      "name": "Paper certificates to demat",
+      "category": "Converts eligible paper certificates into electronic holdings.",
+      "image": "assets/products/nsdl-paper.webp",
+      "url": "https://nsdl.com/investor/investor-services",
+      "kind": "illustration",
+      "alt": "Illustration showing paper certificate then details checked then demat holding"
+    },
+    {
+      "name": "Electronic share transfers",
+      "category": "Records shares moving between demat accounts after settlement or other approved instructions.",
+      "image": "assets/products/nsdl-transfer.webp",
+      "url": "https://nsdl.com/nsdl/2026-10/Signed%20Intimation_Presentation_ICICI%20sec.pdf#page=6",
+      "kind": "illustration",
+      "alt": "Illustration showing seller account then delivery checked then buyer account"
+    },
+    {
+      "name": "Consolidated Account Statement",
+      "category": "Shows eligible investment holdings and transactions together in one statement.",
+      "image": "assets/products/nsdl-statement.webp",
+      "url": "https://nsdl.com/investor/know-your-cas",
+      "kind": "illustration",
+      "alt": "Illustration showing demat holdings then fund records then one statement"
+    },
+    {
+      "name": "SPEED-e",
+      "category": "Helps eligible account holders send instructions and check their status.",
+      "image": "assets/products/nsdl-speed-e.webp",
+      "url": "https://nsdl.com/investor-services-Speed-e-web",
+      "kind": "pack",
+      "alt": "Official SPEED-e sign-in preview alongside example tasks"
+    },
+    {
+      "name": "Electronic voting",
+      "category": "Lets eligible shareholders vote on company proposals online.",
+      "image": "assets/products/nsdl-voting.webp",
+      "url": "https://nsdl.com/issuer-services-e-voting",
+      "kind": "illustration",
+      "alt": "Illustration showing company proposal then shareholder vote then votes recorded"
+    },
+    {
+      "name": "Savings and payment services",
+      "category": "The group’s separate payments bank processes payments and offers eligible deposit accounts.",
+      "image": "assets/products/nsdl-payments.webp",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a61bc02b-657b-4b53-892b-eb4b45f08350.pdf#page=261",
+      "kind": "illustration",
+      "alt": "Illustration showing customer account then payment instruction then money delivered"
+    }
+  ]
+}

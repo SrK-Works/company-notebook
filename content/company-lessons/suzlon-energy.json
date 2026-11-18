@@ -1,0 +1,210 @@
+{
+  "summary": "Suzlon builds wind turbines that turn moving air into electricity. It can also put up the turbines for a wind farm and earn fees by keeping them running for years.",
+  "description": "When wind pushes the blades, their movement drives a generator in the housing at the top of the tower. Suzlon makes and sells turbines, helps build wind farms, and sends technicians to check and repair machines after installation. A project owner can hire Suzlon to supply the equipment or give it a broader job that also covers preparing and building the site.",
+  "money": "A project developer pays Suzlon for the turbines and any agreed work on site. Wind farm owners also pay fees for keeping the equipment running. Suzlon spends on blades, towers, generators, plant workers, hauling long parts, cranes and maintenance crews. A recorded sale can turn into cash only after the customer pays.",
+  "customers": "Buyers include renewable power developers, public power companies and businesses that need electricity for their own operations. Owners of installed turbines pay for upkeep, sometimes through agreements that last several years.",
+  "drivers": "Look at how quickly Suzlon can turn orders into deliveries and get turbines running, what it earns on each contract after equipment and site costs, and whether owners renew service contracts.",
+  "quick": [
+    {
+      "title": "What does it do?",
+      "text": "It makes wind turbines, helps put them up, and services them after installation."
+    },
+    {
+      "title": "Who pays?",
+      "text": "Wind farm developers and businesses that build their own power projects pay for equipment and site work. Owners pay for upkeep."
+    },
+    {
+      "title": "How does it earn?",
+      "text": "It earns from selling machines, delivering agreed project work, and providing ongoing operation and repair services."
+    },
+    {
+      "title": "What does it spend on?",
+      "text": "Parts and factory workers, transport and cranes, construction crews, and the technicians and spares that keep turbines working."
+    }
+  ],
+  "groups": [
+    {
+      "title": "Wind turbines",
+      "examples": "S144 and S120 turbines, plus the newer S175 turbine.",
+      "explanation": "Blades turn a generator in the box on top of the tower. Developers choose the model and tower height for the site’s wind and terrain."
+    },
+    {
+      "title": "Getting a wind farm running",
+      "examples": "Site preparation, construction, turbine installation and connection work.",
+      "explanation": "The buyer can hire Suzlon to do several jobs together, from arranging where machines will stand to making sure they feed electricity into the grid."
+    },
+    {
+      "title": "Keeping machines working",
+      "examples": "Regular checks, replacement parts, repairs and remote monitoring.",
+      "explanation": "The owner pays for service to cut the time a turbine stands idle. Suzlon’s Renom business also services equipment from other manufacturers."
+    },
+    {
+      "title": "Shaping heavy metal parts",
+      "examples": "Cast parts, forged rings and tower flanges through the group’s metal parts business.",
+      "explanation": "Casting sets molten metal in a mould. Forging shapes solid metal under force. These processes make parts strong enough for heavy machinery."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What does a wind turbine’s rating tell you?",
+      "text": "It is the most power the machine is designed to produce under suitable conditions. Actual electricity generation still depends on wind, how often it is running, and whether the grid can take its power."
+    },
+    {
+      "title": "What does commissioning mean?",
+      "text": "The crew checks that a fitted machine can run safely and supply electricity to the grid. A turbine can be delivered to a site before that work is done."
+    }
+  ],
+  "stepsTitle": "From a turbine order to electricity on the grid",
+  "steps": [
+    {
+      "title": "Agree the scope",
+      "text": "The customer picks a turbine and agrees which parts of the project Suzlon will handle."
+    },
+    {
+      "title": "Make and move the equipment",
+      "text": "Factories build parts. Trucks carry towers, blades and generator housings. Suzlon or its partners prepare foundations where the contract calls for it."
+    },
+    {
+      "title": "Install, test and connect",
+      "text": "Cranes lift the major pieces into place. The crew tests the finished machine and connects it to the grid when the site is ready."
+    },
+    {
+      "title": "Bill and collect",
+      "text": "The contract sets when Suzlon can bill for equipment and work. It may have paid suppliers and crews before collecting from the customer."
+    },
+    {
+      "title": "Service the turbine",
+      "text": "With a separate service agreement, teams monitor the machine, replace worn parts and repair faults over its working life."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Orders can cover different jobs",
+      "text": "A turbine sale and a contract that also covers roads, foundations and electrical work put different costs and responsibilities on Suzlon."
+    },
+    {
+      "title": "A delivery and a running machine are two milestones",
+      "text": "Transport can finish before the site or power line is ready. Compare machines delivered with those tested and running."
+    },
+    {
+      "title": "The installed fleet creates service work",
+      "text": "Every turbine already in the ground can need regular checks, parts and repairs. Renom also gives the group work on other manufacturers’ machines."
+    }
+  ],
+  "watch": [
+    [
+      "Are ordered machines becoming working turbines?",
+      "An order and a delivered turbine still leave work before the project is ready.",
+      "Compare orders, equipment deliveries and machines that actually reached operation in the company’s project updates."
+    ],
+    [
+      "Is Suzlon taking on more site work per order?",
+      "Building more of the site can add revenue, costs and delay risk.",
+      "Read the results presentation for orders that include construction and electrical work. Compare growth with what projects earned after their direct costs."
+    ],
+    [
+      "Do service fees hold up?",
+      "The service business depends on contract renewals, parts and field costs.",
+      "Check the group’s maintenance sales and result across years. Look for evidence that contracts are being renewed and that the fleet under service is growing."
+    ],
+    [
+      "Can projects reach the grid on time?",
+      "A completed turbine may wait for permissions or a connecting line.",
+      "Read site progress updates for power line, construction and land milestones. Look for repeated delays when management updates the same projects."
+    ],
+    [
+      "Is cash coming in as sales rise?",
+      "A company can record a sale before receiving the final payment.",
+      "Compare cash from normal operations with profit. Then look for growing amounts customers owe, more parts waiting at the factory, or advances paid by buyers."
+    ]
+  ],
+  "risks": [
+    [
+      "Slower permissions or grid connection",
+      "Projects can take longer to finish and bill."
+    ],
+    [
+      "High steel, freight or component costs",
+      "A fixed customer price can leave less room to pay for cost increases."
+    ],
+    [
+      "Bad weather or difficult transport",
+      "Heavy parts and cranes need usable roads and suitable conditions."
+    ],
+    [
+      "Equipment problems",
+      "Faults can require extra repairs or replacement parts under warranty."
+    ]
+  ],
+  "helps": [
+    {
+      "title": "A buyer can bundle several jobs",
+      "text": "A developer can buy equipment, installation and ongoing service from one group."
+    },
+    {
+      "title": "The fleet needs work over many years",
+      "text": "Turbines need trained technicians even when new equipment sales slow."
+    },
+    {
+      "title": "A range of turbines fits different sites",
+      "text": "Different blade sizes and tower heights suit different wind and terrain conditions."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Bigger projects tie up more cash",
+      "text": "Parts, work crews and cranes can need payment before the buyer settles the bill."
+    },
+    {
+      "title": "A shortage of ready sites can slow work",
+      "text": "A full factory does little for a machine that must wait for roads, land or a grid connection."
+    },
+    {
+      "title": "Project mix changes earnings",
+      "text": "The amount left after costs can change when Suzlon supplies more equipment on one order and performs more site work on another."
+    }
+  ],
+  "context": [
+    "September 2026: more turbine capacity delivered",
+    "Suzlon reported more turbine capacity delivered than a year before. Its update also points to the type of contracts and customers, exchange rates and commodity costs when discussing the amount left after direct costs."
+  ],
+  "sources": [
+    [
+      "Suzlon annual business and sustainability report",
+      "https://www.suzlon.com/uploads/FY_25_26_a89b1fba39.pdf"
+    ],
+    [
+      "Turbine models",
+      "https://www.suzlon.com/our-businesses/products/wind/"
+    ],
+    [
+      "FY26 audited results filed with NSE",
+      "https://nsearchives.nseindia.com/corporate/SUZLON1_25052026150821_Suzlon25052026.pdf"
+    ],
+    [
+      "September 2026 results and operating update",
+      "https://www.suzlon.com/media/press/press-releases/suzlon-q2-revenue-grows-26-yo-y-on-record-deliveries/"
+    ],
+    [
+      "September 2026 BSE filing",
+      "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d1b153e2-adb0-4973-a18d-ce467415756b.pdf"
+    ],
+    [
+      "2026 company presentation on turbines and project work",
+      "https://www.suzlon.com/pdf/investor/investor-meet-2024/Investor-Meet-2026.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Read the results by activity",
+      "text": "Wind turbine manufacturing and projects, metal parts and maintenance are reported separately. The segment results come before group financing costs, tax and certain other items."
+    },
+    {
+      "title": "Separate tax accounting from sales",
+      "text": "Last September’s reported profit included recognition of a deferred tax asset, an accounting estimate of future tax savings. This did not add cash from a turbine customer."
+    }
+  ],
+  "financialCue": "Compare turbine and project results with the service business. Then check whether profit shows up in operating cash.",
+  "photoCaption": "Wind pushes the blades and the generator turns that motion into electricity.",
+  "checked": "18 November 2026"
+}

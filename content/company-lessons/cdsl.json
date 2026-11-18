@@ -1,0 +1,75 @@
+{
+  "summary": "CDSL keeps electronic records of the shares and other securities in investors’ demat accounts. Its group also stores investor identity records, insurance policies and commodity warehouse receipts.",
+  "description": "Imagine the shares you have just bought showing up in your demat account. That account holds securities in electronic form. The stock exchange matches the trade, and the clearing organisation works out delivery. CDSL, a depository, keeps the ownership records and changes the buyer’s and seller’s balances when the shares move.",
+  "money": "Issuing companies pay annual charges to keep their securities on CDSL and may pay for actions such as allotting shares or holding a vote. Banks or brokers connected to CDSL pay service charges on transfers and some account work. Software, secure computer systems and staff are important costs. Those costs come out before profit.",
+  "customers": "Companies issuing shares or bonds and the banks and brokers that connect investors to CDSL pay depository fees. An investor may see a charge on a broker bill. Financial firms also pay CDSL Ventures to store or check investor identity records.",
+  "drivers": "The mix of annual company fees, billable transfers and new share issues affects income. Technology and staff costs affect what CDSL keeps.",
+  "quick": [
+    {"title":"What does it do?","text":"It keeps the ownership records of electronic shares and changes those records when holdings move."},
+    {"title":"Who pays?","text":"Companies pay for work on their securities. The banks and brokers that connect investors to CDSL pay for certain account services and transfers."},
+    {"title":"How does it earn?","text":"It collects annual issuer fees and charges for transactions, new share allotments and services such as online shareholder voting."},
+    {"title":"What does it spend on?","text":"Staff, computers, software, data security and backup systems."}
+  ],
+  "groups": [
+    {"title":"Hold and deliver securities","examples":"Demat holdings and transfers of shares or bonds.","explanation":"A bank or broker connects the investor to CDSL. The depository’s records show how much is held and when a holding moves out of or into the account."},
+    {"title":"Help companies reach their shareholders","examples":"New-share allotments, bonus shares and electronic voting.","explanation":"A company can send instructions to add new shares to eligible investor records or use CDSL to collect votes on company decisions."},
+    {"title":"Let investors see or move holdings","examples":"easi for viewing shares and easiest for submitting transfer instructions.","explanation":"The first service lets an investor inspect the account. The second provides an online way to ask the participating bank or broker to deliver shares."},
+    {"title":"Store verified identity records","examples":"CDSL Ventures’ identity record service.","explanation":"Financial firms can submit or check identity documents collected from investors. This is the work commonly called know your customer (KYC)."},
+    {"title":"Keep separate electronic records","examples":"Insurance policies at Centrico and warehouse receipts at Countywide Commodity Repository.","explanation":"The two businesses help administrators and holders keep policy or receipt records electronically. Neither service is part of a retail trade in shares."}
+  ],
+  "basics": [
+    {"title":"What is a depository participant?","text":"It is a bank, broker or other firm that connects an investor to the depository. Investors normally go to that firm to open a demat account or ask for changes."},
+    {"title":"What is an issuer?","text":"An issuer is the company or other organisation that creates the security, such as a company offering shares. It can pay the depository to maintain electronic records of those securities."},
+    {"title":"Does a new account always mean more transactions?","text":"An investor can open an account and do little with it. Fee income depends on the work the depository does and the charging rules for each service."}
+  ],
+  "stepsTitle":"Where CDSL fits when a share changes hands",
+  "steps": [
+    {"title":"Open the account with a participating firm","text":"The bank or broker verifies the investor’s details and connects the account to CDSL."},
+    {"title":"Buy or sell through a broker","text":"The exchange matches an order. The clearing organisation determines which shares each side has to deliver."},
+    {"title":"Move the ownership record","text":"At settlement, the depository records the shares coming out of one account and into another. The investor can then check the updated holding."},
+    {"title":"Record fees and collect them","text":"CDSL earns charges for eligible services and bills the firm or issuer as applicable. Receiving cash is a separate step. Profit is what remains after costs and tax."}
+  ],
+  "specifics": [
+    {"title":"Annual charges and activity charges behave differently","text":"Companies can pay an annual charge for securities already on the system. Transfer and allotment charges depend more on what happens during the period."},
+    {"title":"Verification income sits outside the depository segment","text":"The group’s Data Entry and Storage business earns from identity records. That is a different kind of work from moving a share between demat accounts."},
+    {"title":"Some costs continue on quiet days","text":"The market needs the system to be available even when fewer shares move. The cost of servers, backups and staffing can make profit sensitive to swings in fee activity."}
+  ],
+  "watch": [
+    ["Are recurring company fees still growing?","These can hold up when fewer shares change hands.","Check annual issuer charges in the revenue note and compare their growth with the number of companies whose securities CDSL serves."],
+    ["Did transfer and allotment fees rise for the same reason?","New share issues and trades in existing shares are different sources of work.","Compare the notes for transaction fees and new-share allotment fees, then check the management discussion for the volume behind each line."],
+    ["Are active accounts growing along with total accounts?","A dormant account may produce little billable activity.","Compare the account additions reported in the operating update with transfers and transaction-fee income for the same reporting period."],
+    ["What is happening to the identity-record business?","A group profit change can come from work other than keeping share records.","Check the Data Entry and Storage segment result and the company’s discussion of identity-record charges and verification volumes."],
+    ["What does greater capacity cost?","The business may need better systems before collecting extra fees.","Compare technology expenses and staff costs with the depository segment result over several quarters. Read what spending was for."]
+  ],
+  "risks": [
+    ["A quieter market","Fewer trades and new share issues can reduce work that is paid per event."],
+    ["Technology failures or attacks","Customers can be delayed or unable to check or move their holdings."],
+    ["Changes to market rules","Required changes can alter how CDSL charges or what work it must do."],
+    ["Dependence on participating firms","Changes in how banks and brokers route customers can affect the number of new accounts on CDSL."]
+  ],
+  "helps": [
+    {"title":"Electronic ownership needs an ongoing record","text":"Investors, brokers and issuers need the records to stay accurate after their work with the exchange is done."},
+    {"title":"Issuers use the system for recurring tasks","text":"Companies keep securities on the record system and can use it to notify shareholders, allot shares and run votes."},
+    {"title":"Existing partners bring investors","text":"Banks and brokers already connected to CDSL can bring new accounts onto the same systems."}
+  ],
+  "hurts": [
+    {"title":"Security and uptime require continuing investment","text":"The company must keep capacity and backup facilities available even when trading is quiet."},
+    {"title":"Some businesses grow at a different pace","text":"Checking identities and maintaining policy records do not earn the same fees as moving stock-market holdings."},
+    {"title":"New account counts tell only part of the story","text":"Inactive accounts can add little transaction income, so account growth alone is a weak guide to fees."}
+  ],
+  "context":["November 2026: CDSL discusses new-share activity","In its September-quarter call, CDSL described strong activity in new issues and cited continued spending on technology and people. Read new-share activity separately from regular transfers when comparing quarters."],
+  "sources": [
+    ["Audited FY 2025–26 annual report","https://www.cdslindia.com/downloads/IPO/GeneralMeeting/CDSL%20IR%202025-26.pdf"],
+    ["Signed audited September 2026 results","https://www.cdslindia.com/downloads/InvestorRels/CorporateGovernance/OutcomeBM31102026_Signed.pdf"],
+    ["September-quarter earnings call transcript","https://www.cdslindia.com/downloads/IPO/GeneralMeeting/NSEIntimationTranscript02112026Sd.pdf"],
+    ["CDSL services overview","https://www.cdslindia.com/About/overview.html"],
+    ["Investor questions and answers","https://www.cdslindia.com/Investors/faqs.html"],
+    ["Electronic share delivery authorisation","https://www.cdslindia.com/Footer/Edis.html"]
+  ],
+  "financialNotes": [
+    {"title":"Compare the businesses before tax","text":"The annual table adds fees for each business before removing fees between group companies. The segment result leaves out income that CDSL has not assigned to a segment, as well as group tax."}
+  ],
+  "photoCaption":"Buying shares makes a trade. Moving them into the buyer’s electronic account completes the delivery.",
+  "financialCue":"Begin with Depository Activity, then compare its result with Data Entry and Storage and Repository.",
+  "checked":"18 November 2026"
+}
