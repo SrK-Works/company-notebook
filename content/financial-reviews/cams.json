@@ -1,0 +1,25 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "coverage": "Whole group · single reported segment",
+  "unit": "₹ crore",
+  "checked": "18 November 2026",
+  "status": "single",
+  "profitMetric": "Profit after tax",
+  "definition": "The group’s profit after costs and tax includes amounts attributable to outside owners of its subsidiaries.",
+  "rows": [
+    {
+      "name": "Data processing and other services",
+      "revenue": 1516.249,
+      "profit": 472.0183
+    }
+  ],
+  "source": "https://www.camsonline.com/Annual_Report/FY2025-26/consolidated-financial-statements.pdf",
+  "sourceLabel": "Audited full-year consolidated accounts",
+  "location": "Consolidated Financial Statements, PDF page 2, statement of profit and loss, and note 39 on PDF page 82.",
+  "notes": "Profit belonging to shareholders of the parent company was ₹476.01 crore. This is above whole-group profit because other owners of subsidiaries were allocated a share of losses.",
+  "insight": "CAMS describes mutual fund work, payments and other services in its business updates, but the annual accounts report their profit together.",
+  "revenueTotal": 1516.249,
+  "revenueTotalLabel": "Revenue from operations",
+  "profitTotal": 472.0183
+}

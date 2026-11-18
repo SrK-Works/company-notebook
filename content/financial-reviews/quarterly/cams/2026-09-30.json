@@ -1,0 +1,36 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-29",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "lakh",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 41446.57,
+      "previous": 37673.79
+    },
+    {
+      "label": "Profit after tax",
+      "current": 13066.27,
+      "previous": 11393.59
+    }
+  ],
+  "change": "Group revenue and profit rose. CAMS reported a higher value of mutual fund investments serviced, and CAMSPay revenue grew more quickly than group revenue.",
+  "watch": "Compare fund assets serviced with fees, and track whether payment growth makes a larger contribution.",
+  "sources": [
+    {
+      "label": "Signed September-quarter financial results",
+      "url": "https://digital.camsonline.com/cams/documents/quarterly_reports/Q2%20Financial%20Results.pdf",
+      "location": "PDF page 6, September quarter columns, rows I and VII."
+    },
+    {
+      "label": "Company operating update",
+      "url": "https://digital.camsonline.com/cams/documents/press_release/Press%20Release_Q2%20FY%2727.pdf",
+      "location": "Pages 1–2, mutual funds and CAMSPay."
+    }
+  ]
+}
