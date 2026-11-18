@@ -1,0 +1,25 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Standalone",
+  "coverage": "Audited company-wide totals",
+  "unit": "₹ crore",
+  "checked": "18 November 2026",
+  "status": "totals",
+  "profitMetric": "Profit after tax",
+  "definition": "Profit for the year after expenses and tax. It includes non-operating amounts shown in the accounts.",
+  "rows": [
+    {
+      "name": "Sai Silks · whole company",
+      "revenue": 1653.67,
+      "profit": 140.92
+    }
+  ],
+  "source": "https://nsearchives.nseindia.com/annual_reports/AR_29862_KALAMANDIR_2025_2026_A_17305586_17072026175907.pdf",
+  "sourceLabel": "Audited annual financial statements",
+  "location": "FY 2025–26 annual report, printed page 188, Statement of Profit and Loss, 31 March 2026 column.",
+  "notes": "The audited statement shows company totals. Other income of ₹18.85 crore is outside revenue from operations. Prior-year tax included ₹20.87 crore in tax booked for earlier years, which affects the profit comparison.",
+  "insight": "The table shows what the retailer earned from all its operations. Use the format sales breakdown in its investor presentation to see which shops sold more.",
+  "revenueTotal": 1653.67,
+  "revenueTotalLabel": "Revenue from operations",
+  "profitTotal": 140.92
+}
