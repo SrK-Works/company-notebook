@@ -1,0 +1,198 @@
+{
+  "summary": "Poonawalla Fincorp lends money to people and businesses, including personal, shop, gold, used car and education loans. It earns interest and fees as borrowers repay.",
+  "description": "A small shop can borrow to buy stock before enough customers have paid for the goods. Poonawalla Fincorp checks the borrower’s ability to repay, gives out the money under agreed terms and collects instalments later. It can also lend against a house, vehicle or gold that the borrower offers as security.",
+  "money": "Borrowers pay interest and may pay fees. Part of each instalment returns the original loan and part covers interest. The company pays for funding, staff and collections and sets aside money for expected losses when customers may struggle to repay.",
+  "customers": "Individuals borrow for purchases or education, professionals and shops borrow for business needs, and owners can finance a car, work vehicle or property-backed loan. The people or businesses signing the agreement owe the instalments.",
+  "drivers": "The business relies on borrowing at a reasonable cost, setting loan terms that cover expected losses, and collecting repayments from customers as they come due.",
+  "quick": [
+    {
+      "title": "What does it do?",
+      "text": "It lends to people, professionals and businesses for purchases or cash needs."
+    },
+    {
+      "title": "Who pays?",
+      "text": "The person or business that signs the loan agreement pays the instalments."
+    },
+    {
+      "title": "How does it earn?",
+      "text": "It earns interest and some fees. Returning the original loan is repayment of money lent."
+    },
+    {
+      "title": "What does it spend on?",
+      "text": "It pays interest on its own funding and spends on staff, systems, collections and bad loans."
+    }
+  ],
+  "groups": [
+    {
+      "title": "Loans based on ability to repay",
+      "examples": "Personal, professional and business loans.",
+      "explanation": "The lender looks at income, payment history or how much cash a business brings in."
+    },
+    {
+      "title": "Loans backed by something of value",
+      "examples": "Gold loans and loans against property.",
+      "explanation": "Jewellery or a property backs the promise to repay. If the borrower misses payments, recovery still takes time and follows a legal process."
+    },
+    {
+      "title": "Paying for vehicles and equipment",
+      "examples": "Used car loans, work vehicle loans and consumer durable loans.",
+      "explanation": "A borrower can pay for a car, a truck or a larger household item in instalments instead of all at once."
+    },
+    {
+      "title": "Paying for studies",
+      "examples": "Education loans for eligible courses in India or abroad.",
+      "explanation": "The money helps cover approved education costs. The agreed schedule sets when payments come due."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is a non-bank lender?",
+      "text": "It is a finance company that lends money. The cost of raising its own money matters because it goes out again as loans."
+    },
+    {
+      "title": "What is the difference between principal and interest?",
+      "text": "Principal is the original amount borrowed. Interest is what the borrower pays for using it. Returning principal reduces the outstanding loan."
+    }
+  ],
+  "stepsTitle": "From an application to collecting loan instalments",
+  "steps": [
+    {
+      "title": "Check the borrower",
+      "text": "The lender checks documents, income and past repayments, and values anything given as security."
+    },
+    {
+      "title": "Agree terms and release the loan",
+      "text": "The contract sets the amount, interest, fees, repayment dates and any security."
+    },
+    {
+      "title": "Collect as payments fall due",
+      "text": "The payment schedule separates the interest charge from the return of the loan amount."
+    },
+    {
+      "title": "Follow up on late accounts",
+      "text": "The lender tries to collect and accounts for money it may not recover. What remains of interest and fees after expenses and losses contributes to profit."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Loans come with different types of backing",
+      "text": "A personal loan may rely on the borrower’s income. A gold loan also depends on the value of items pledged and whether they can be sold if needed."
+    },
+    {
+      "title": "New loans take time to prove themselves",
+      "text": "An account that started recently may be paying on time. Look at what happens as loans move further into their repayment schedules."
+    },
+    {
+      "title": "Borrowing to lend creates a time gap",
+      "text": "Funding can fall due before individual loans are repaid. The company has to plan to have cash ready in both cases."
+    }
+  ],
+  "watch": [
+    [
+      "Does the company earn enough after paying for funds?",
+      "The difference between interest earned and interest paid has to cover other costs and losses.",
+      "Compare interest income with finance costs across periods, and read whether changes in loan mix or funding prices explain the difference."
+    ],
+    [
+      "Are more borrowers falling behind?",
+      "Lost payments can outweigh interest collected from borrowers who pay on time.",
+      "Compare the share of loans overdue and the amounts set aside for possible losses, including how each measure changed across periods."
+    ],
+    [
+      "How are newer loan types behaving after launch?",
+      "A recent loan has had fewer chances for the borrower to miss a payment.",
+      "Look for repayment data as each new category ages and compare how the company describes overdue accounts in older products."
+    ],
+    [
+      "Is the company relying on funding that comes due soon?",
+      "A loan can run for years while the money used to fund it comes up for repayment earlier.",
+      "Read when borrowings fall due and what lenders or cash sources are available, then compare that schedule with expected collections."
+    ],
+    [
+      "Which loans are producing the growth?",
+      "Gold, vehicles and personal loans expose the group to different borrowers and risks.",
+      "Compare disclosed balances by loan type and check which lines management credits for changes in interest income and repayment quality."
+    ]
+  ],
+  "risks": [
+    [
+      "Borrowers can lose income",
+      "A shop slowdown or loss of a salary can interrupt monthly payments."
+    ],
+    [
+      "Funding costs can increase",
+      "Money raised at a higher rate can reduce what remains from interest charged."
+    ],
+    [
+      "Security can fall in value",
+      "Selling property, vehicles or pledged gold may recover less than the amount owed."
+    ],
+    [
+      "New categories have less repayment history",
+      "Fewer past cases make it harder to forecast what the company will collect."
+    ]
+  ],
+  "helps": [
+    {
+      "title": "Borrowers have many different uses for credit",
+      "text": "Shop stock, education and used vehicles bring different reasons to borrow."
+    },
+    {
+      "title": "A wider product range can serve existing customers",
+      "text": "A business borrower may have a later need for a vehicle or equipment."
+    },
+    {
+      "title": "Some loans have an additional route to recovery",
+      "text": "Gold or property can back the loan if regular payments stop."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "It costs money to find and check customers",
+      "text": "Branches, staff, records and digital systems incur costs well before a customer finishes repaying."
+    },
+    {
+      "title": "A customer can pay early",
+      "text": "A loan repaid before schedule can stop earning interest earlier than originally expected."
+    },
+    {
+      "title": "Collection takes time and effort",
+      "text": "Follow-up and legal processes create costs even if some of the money is eventually recovered."
+    }
+  ],
+  "context": [
+    "FY 2025–26: more kinds of loans",
+    "The annual report describes an expansion beyond established personal, professional, business and property-backed loans into areas including gold, education and commercial vehicles."
+  ],
+  "sources": [
+    [
+      "Company website",
+      "https://poonawallafincorp.com/"
+    ],
+    [
+      "FY 2025–26 annual report",
+      "https://poonawallafincorp.com/documents/20121/0/PFL-Annual-Report-FY-2025-26.pdf"
+    ],
+    [
+      "Audited March 2026 filing with NSE",
+      "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_NBFC_INDAS_155679_05052026203608_iXBRL_WEB.html"
+    ],
+    [
+      "September 2026 filing with NSE",
+      "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_NBFC_INDAS_200320_09102026194131_iXBRL_WEB.html"
+    ],
+    [
+      "Company education loan details",
+      "https://education-loan.poonawallafincorp.com/"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Read income as a lender earns it",
+      "text": "Consolidated means the company and its controlled businesses together. Revenue from operations includes interest and fees and other amounts from finance work. Compare it with interest paid on funding and amounts set aside for expected losses."
+    }
+  ],
+  "financialCue": "Compare interest income, funding costs and loan losses together to see what loan growth contributes.",
+  "photoCaption": "These cards show the purchases and assets behind several types of loans.",
+  "checked": "18 November 2026"
+}

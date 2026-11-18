@@ -1,0 +1,114 @@
+{
+  "order": 114,
+  "company": {
+    "id": "dcx-systems",
+    "name": "DCX Systems Limited",
+    "ticker": "DCXINDIA",
+    "sector": "Industrials & infrastructure",
+    "initial": "DCX",
+    "logo": "assets/logos/dcx-systems-official.webp",
+    "color": "#462463",
+    "bg": "#f0e7f7",
+    "tag": "DCX Systems makes wiring and electronic assemblies that equipment makers fit inside larger aerospace and defence systems.",
+    "products": [
+      [
+        "Cable assemblies",
+        "Connect pieces of equipment so power or signals can pass between them"
+      ],
+      [
+        "Wire harnesses",
+        "Hold wires together so they fit into the equipment in the right places"
+      ],
+      [
+        "Circuit board assembly",
+        "Fit electronic parts onto a board so they can work together"
+      ],
+      [
+        "Box builds",
+        "Install boards and wiring in a protective metal case"
+      ],
+      [
+        "Electronic module assembly",
+        "Put parts together into one unit that fits into a larger system"
+      ],
+      [
+        "Production and testing",
+        "Check assembled electronics before sending them to the buyer"
+      ],
+      [
+        "Parts kits",
+        "Collect the parts needed for an assembly into one package"
+      ]
+    ],
+    "sources": [],
+    "productSource": "https://dcxindia.com/services/",
+    "productNote": "DCX Systems supplies the product and factory images. The parts kit is a Company Notebook illustration.",
+    "checked": "18 Nov 2026",
+    "reviewed": "18 November 2026",
+    "aliases": [
+      "DCX System Limited",
+      "DCX India",
+      "electronics assembly",
+      "wire harness",
+      "cable assemblies"
+    ]
+  },
+  "offerings": [
+    {
+      "name": "Cable assemblies",
+      "category": "Connect pieces of equipment so power or signals can pass between them",
+      "image": "assets/products/dcx-systems-cables.webp",
+      "url": "https://dcxindia.com/cable-assemblies/",
+      "kind": "pack",
+      "alt": "A close-up of cables with metal connectors"
+    },
+    {
+      "name": "Wire harnesses",
+      "category": "Hold wires together so they fit into the equipment in the right places",
+      "image": "assets/products/dcx-systems-harness.webp",
+      "url": "https://dcxindia.com/cable-assemblies/",
+      "kind": "pack",
+      "alt": "Bundled wires and cable ends laid out in a company product collage"
+    },
+    {
+      "name": "Circuit board assembly",
+      "category": "Fit electronic parts onto a board so they can work together",
+      "image": "assets/products/dcx-systems-board.webp",
+      "url": "https://dcxindia.com/electronics-manufacturing/",
+      "kind": "pack",
+      "alt": "Company artwork showing electronic parts being fitted to a green circuit board"
+    },
+    {
+      "name": "Box builds",
+      "category": "Install boards and wiring in a protective metal case",
+      "image": "assets/products/dcx-systems-box.webp",
+      "url": "https://dcxindia.com/sub-systems/",
+      "kind": "pack",
+      "alt": "Company product image showing boards and connectors inside a metal case"
+    },
+    {
+      "name": "Electronic module assembly",
+      "category": "Put parts together into one unit that fits into a larger system",
+      "image": "assets/products/dcx-systems-sub.webp",
+      "url": "https://dcxindia.com/sub-systems/",
+      "kind": "photo",
+      "alt": "A worker assembling a unit at an electronics workbench"
+    },
+    {
+      "name": "Production and testing",
+      "category": "Check assembled electronics before sending them to the buyer",
+      "image": "assets/products/dcx-systems-test.webp",
+      "url": "https://dcxindia.com/electronics-manufacturing/",
+      "kind": "photo",
+      "alt": "A row of workstations at an electronics manufacturing facility"
+    },
+    {
+      "name": "Parts kits",
+      "category": "Collect the parts needed for an assembly into one package",
+      "image": "assets/products/dcx-systems-kitting.svg",
+      "url": "https://dcxindia.com/dcx-advantage/capabilities/",
+      "kind": "illustration",
+      "alt": "Drawing of a box divided into compartments holding parts"
+    }
+  ]
+}

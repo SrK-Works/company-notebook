@@ -1,0 +1,113 @@
+{
+  "order": 115,
+  "company": {
+    "id": "home-first-finance",
+    "name": "Home First Finance Company India Limited",
+    "ticker": "HOMEFIRST",
+    "sector": "Financial services",
+    "initial": "HF",
+    "color": "#11325c",
+    "bg": "#eaf3fe",
+    "tag": "The business behind the offering",
+    "logo": "assets/logos/home-first-finance-official.png",
+    "products": [
+      [
+        "Loan to buy a home",
+        "Money goes towards buying a house or flat; the borrower pays it back in instalments."
+      ],
+      [
+        "Loan to build a home",
+        "Funds construction on land the borrower owns. Money can be released as work progresses."
+      ],
+      [
+        "Home extension loan",
+        "Pays for adding living space to an existing home."
+      ],
+      [
+        "Home renovation loan",
+        "Pays for repairs and work such as upgrading an existing home."
+      ],
+      [
+        "Loan against property",
+        "Lets a borrower use an existing property as security to raise money."
+      ],
+      [
+        "Shop loan",
+        "Helps a business owner pay for business premises."
+      ],
+      [
+        "Commercial property purchase loan",
+        "Helps eligible customers pay for premises used for business."
+      ]
+    ],
+    "sources": [],
+    "productSource": "https://homefirstindia.com/product",
+    "productNote": "Illustrations show what the loans can pay for. Product terms and eligibility depend on the application.",
+    "checked": "18 Nov 2026",
+    "reviewed": "18 November 2026",
+    "aliases": [
+      "Home First Finance",
+      "HomeFirst",
+      "Home First housing finance",
+      "house construction loan"
+    ]
+  },
+  "offerings": [
+    {
+      "name": "Loan to buy a home",
+      "category": "Money goes towards buying a house or flat; the borrower pays it back in instalments.",
+      "image": "assets/products/home-first-finance-buy-a-home.svg",
+      "url": "https://homefirstindia.com/product",
+      "kind": "illustration",
+      "alt": "Illustration of a house for a home purchase loan"
+    },
+    {
+      "name": "Loan to build a home",
+      "category": "Funds construction on land the borrower owns. Money can be released as work progresses.",
+      "image": "assets/products/home-first-finance-build-a-home.svg",
+      "url": "https://homefirstindia.com/product",
+      "kind": "illustration",
+      "alt": "Illustration of a house for a home construction loan"
+    },
+    {
+      "name": "Home extension loan",
+      "category": "Pays for adding living space to an existing home.",
+      "image": "assets/products/home-first-finance-extend-a-home.svg",
+      "url": "https://homefirstindia.com/product",
+      "kind": "illustration",
+      "alt": "Illustration of a house for a home extension loan"
+    },
+    {
+      "name": "Home renovation loan",
+      "category": "Pays for repairs and work such as upgrading an existing home.",
+      "image": "assets/products/home-first-finance-renovate.svg",
+      "url": "https://homefirstindia.com/product",
+      "kind": "illustration",
+      "alt": "Illustration of a house for a home renovation loan"
+    },
+    {
+      "name": "Loan against property",
+      "category": "Lets a borrower use an existing property as security to raise money.",
+      "image": "assets/products/home-first-finance-property-backed.svg",
+      "url": "https://homefirstindia.com/product/loan-against-property",
+      "kind": "illustration",
+      "alt": "Illustration of a house beside a loan document"
+    },
+    {
+      "name": "Shop loan",
+      "category": "Helps a business owner pay for business premises.",
+      "image": "assets/products/home-first-finance-shop.svg",
+      "url": "https://homefirstindia.com/product",
+      "kind": "illustration",
+      "alt": "Illustration of a storefront for a shop loan"
+    },
+    {
+      "name": "Commercial property purchase loan",
+      "category": "Helps eligible customers pay for premises used for business.",
+      "image": "assets/products/home-first-finance-commercial.svg",
+      "url": "https://homefirstindia.com/product",
+      "kind": "illustration",
+      "alt": "Illustration of a building for a commercial property loan"
+    }
+  ]
+}

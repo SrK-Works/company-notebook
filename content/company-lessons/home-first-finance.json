@@ -1,0 +1,193 @@
+{
+  "summary": "Home First lends money to people buying, building or improving a home. Borrowers repay the loan with interest, and the property serves as security.",
+  "description": "A family buying a flat applies for money it can repay over time. Home First checks what the household earns, whether it can repay the loan, and whether the seller legally owns the home. It can also lend to a homeowner who wants to extend or repair a house.",
+  "money": "Home First earns interest on loans and reports processing fees and other lending income. It pays interest on the money it borrows to make those loans, and spends on staff, local branches and collection. It also sets aside money for loans it may lose. A monthly repayment includes money lent earlier as well as interest, so the whole amount received is greater than the interest it earns.",
+  "customers": "Households pay for funds to buy, build or improve a home. Small business owners can also borrow against property or buy business premises. The borrower makes the repayments even when the loan money is sent to a seller.",
+  "drivers": "Track whether borrowers pay on time, how much Home First pays to borrow, and whether it can add customers without loosening its checks.",
+  "quick": [
+    {
+      "title": "What does it do?",
+      "text": "It lends for homes and offers some loans backed by existing property."
+    },
+    {
+      "title": "Who pays?",
+      "text": "A household or a small business owner repays the loan."
+    },
+    {
+      "title": "How does it earn?",
+      "text": "It earns interest and applicable fees on the money it lends."
+    },
+    {
+      "title": "What does it spend on?",
+      "text": "Borrowing costs, staff, running branches and expected loan losses."
+    }
+  ],
+  "groups": [
+    {
+      "title": "Buying a home",
+      "examples": "Purchase loans for houses and flats.",
+      "explanation": "The lender helps cover the purchase price and the borrower repays over time."
+    },
+    {
+      "title": "Building a home",
+      "examples": "Loans for building on land the applicant owns.",
+      "explanation": "The lender can release funds in stages as construction progresses."
+    },
+    {
+      "title": "Improving a home",
+      "examples": "Extension and renovation loans.",
+      "explanation": "Borrowers can pay for extra space or upgrade a property they already have."
+    },
+    {
+      "title": "Other loans secured by property",
+      "examples": "Loans against property, shop loans and commercial property purchase loans.",
+      "explanation": "An applicant can borrow against a property or finance business premises."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What does security mean on a home loan?",
+      "text": "The property backs the loan. If repayments are missed for long enough, the lender can try to recover the debt through the legal process."
+    },
+    {
+      "title": "Why does a monthly instalment have two parts?",
+      "text": "One part pays interest. The other repays some of the original amount borrowed. Only the interest portion counts as interest income."
+    }
+  ],
+  "stepsTitle": "From a home loan application to repayment",
+  "steps": [
+    {
+      "title": "Check the applicant",
+      "text": "Verify income, existing debts and documents to see whether repayments are affordable."
+    },
+    {
+      "title": "Check the property",
+      "text": "Confirm ownership and estimate its value before using it as security."
+    },
+    {
+      "title": "Release the money",
+      "text": "Pay under the approved loan terms, sometimes in stages for construction. Cash leaves Home First when it disburses the loan."
+    },
+    {
+      "title": "Collect over time",
+      "text": "Receive regular instalments and follow up on missed payments. Interest earned and cash actually received can differ when a borrower falls behind."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Look closely at how income is checked",
+      "text": "The company serves some borrowers whose income does not come with regular payslips. Visiting a business or reviewing deposits can help build a clearer picture of earnings."
+    },
+    {
+      "title": "Borrowing costs affect profit",
+      "text": "Home First funds loans through sources that include bank borrowing and debt securities, which are loans raised from investors. Changes in funding costs can alter the gap between what it earns and what it pays."
+    },
+    {
+      "title": "A loan can move to another lender",
+      "text": "A borrower can refinance, meaning a different lender pays off the old loan. Home First receives the remaining balance but loses future interest on that loan."
+    }
+  ],
+  "watch": [
+    [
+      "Are more borrowers falling behind?",
+      "Missed payments can become losses even in a period of strong loan growth.",
+      "Compare overdue loan figures with the previous year and read how much the company sets aside for expected losses."
+    ],
+    [
+      "Is lending earning more after funding costs?",
+      "A lender can collect more interest and still keep less of it if its own borrowing becomes more expensive.",
+      "Compare interest earned on loans with average borrowing costs, then check whether the gap widened or narrowed over the year."
+    ],
+    [
+      "Is new lending coming from the same types of customers?",
+      "Home purchase loans and loans backed by existing property can behave differently.",
+      "Look at new loans in the investor presentation. Compare the proportion for home purchases with loans backed by existing property."
+    ],
+    [
+      "Is branch expansion paying for itself?",
+      "Rent and employees cost money while a new branch builds its customer base.",
+      "Look for changes in the number of branches and compare operating expenses with total income."
+    ],
+    [
+      "Does the lender have several ways to raise money?",
+      "The company needs funding to make loans and repay its own debts.",
+      "Read who provides funds, then compare debts coming due in the next year with cash and the funding the company can still draw."
+    ]
+  ],
+  "risks": [
+    [
+      "Household income can fall",
+      "A job loss or a poor month for a small business can make the instalment harder to pay."
+    ],
+    [
+      "Property recovery takes time",
+      "Sorting out documents or selling a property can take time and may recover less than the balance owed."
+    ],
+    [
+      "Funding may become dearer",
+      "A rise in the company’s borrowing rates can reduce the earnings it retains from existing loans."
+    ],
+    [
+      "Fast expansion stretches oversight",
+      "The company needs people and systems to check properties and collect payments consistently across locations."
+    ]
+  ],
+  "helps": [
+    {
+      "title": "Property offers a second way to recover money",
+      "text": "When repayments fail, the property backing the loan can help cover some of the debt."
+    },
+    {
+      "title": "Repayments can arrive over several years",
+      "text": "A well performing loan can bring in interest long after the initial checks and loan release."
+    },
+    {
+      "title": "A local branch can check income directly",
+      "text": "Staff can review a borrower’s circumstances where a standard payslip tells only part of the story."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Competition can draw borrowers away",
+      "text": "Another lender can offer to take over a loan on different terms, shortening the original interest stream."
+    },
+    {
+      "title": "A slow property market can delay purchases",
+      "text": "A family waiting to buy or build delays the demand for a new loan."
+    },
+    {
+      "title": "A young branch has costs from day one",
+      "text": "Staff and office bills start before enough loans begin earning interest."
+    }
+  ],
+  "context": [
+    "May 2026 annual results",
+    "The company reported a larger loan book and higher total income for the year to March 2026. Read overdue loans alongside growth to judge whether repayments are holding up."
+  ],
+  "sources": [
+    [
+      "Home First loan products",
+      "https://homefirstindia.com/product"
+    ],
+    [
+      "Home First responsible lending and product disclosures",
+      "https://homefirstindia.com/files/Sustainability%20Report.pdf"
+    ],
+    [
+      "Annual results filed with NSE",
+      "https://nsearchives.nseindia.com/corporate/HOMEFIRST_06052026185324_HomeFirstOutcomeofBM.pdf"
+    ],
+    [
+      "Home First FY 2025–26 results release",
+      "https://homefirstindia.com/files/HomeFirst_Q4FY26_Press_Release.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "How to read total income",
+      "text": "Interest and other lending income are an accounting measure. The instalment cash arriving that month may also repay some of the original loan balance."
+    }
+  ],
+  "checked": "18 November 2026",
+  "financialCue": "Read total income alongside profit after tax to see what remains after funding costs, operating expenses and expected loan losses."
+}

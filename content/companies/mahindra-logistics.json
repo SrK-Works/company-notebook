@@ -1,0 +1,111 @@
+{
+  "order": 121,
+  "company": {
+    "id": "mahindra-logistics",
+    "name": "Mahindra Logistics Limited",
+    "ticker": "MAHLOG",
+    "sector": "Industrials & infrastructure",
+    "initial": "ML",
+    "logo": "assets/logos/mahindra-logistics-official.webp",
+    "color": "#b52529",
+    "bg": "#fbefef",
+    "tag": "Storing and moving goods for businesses",
+    "sources": [],
+    "productSource": "https://mahindralogistics.com/",
+    "checked": "18 November 2026",
+    "reviewed": "18 November 2026",
+    "aliases": [
+      "Mahindra Logistics",
+      "Mahindra Logistics Ltd",
+      "Rivigo by Mahindra Logistics"
+    ],
+    "products": [
+      [
+        "Warehousing",
+        "Receiving, storing and picking goods for another business"
+      ],
+      [
+        "Factory-to-depot transport",
+        "Trucks move goods from factories to storage or selling locations"
+      ],
+      [
+        "Rivigo business express",
+        "Fast shipping for business consignments"
+      ],
+      [
+        "Last-mile delivery",
+        "The final trip that brings goods to a doorstep"
+      ],
+      [
+        "Overseas freight",
+        "Booking and coordinating cargo by air or sea"
+      ],
+      [
+        "Employee transport",
+        "Scheduled rides between pickup points and workplaces"
+      ],
+      [
+        "Moving stock inside factories",
+        "Bringing the right parts to the production line when needed"
+      ]
+    ]
+  },
+  "offerings": [
+    {
+      "name": "Warehousing",
+      "category": "Receiving, storing and picking goods for another business",
+      "image": "assets/products/mahindra-logistics-warehouse.webp",
+      "url": "https://mahindralogistics.com/scalable-warehousing-transportation-solutions/",
+      "kind": "photo",
+      "alt": "a warehouse with storage shelves — company image"
+    },
+    {
+      "name": "Factory-to-depot transport",
+      "category": "Trucks move goods from factories to storage or selling locations",
+      "image": "assets/products/mahindra-logistics-transport.webp",
+      "url": "https://mahindralogistics.com/contract-logistics/transport-desk-management/",
+      "kind": "photo",
+      "alt": "a goods truck — company image"
+    },
+    {
+      "name": "Rivigo business express",
+      "category": "Fast shipping for business consignments",
+      "image": "assets/products/mahindra-logistics-express.svg",
+      "url": "https://mahindralogistics.com/jvs-subsidiaries/",
+      "kind": "illustration",
+      "alt": "Illustration of a truck moving a business shipment"
+    },
+    {
+      "name": "Last-mile delivery",
+      "category": "The final trip that brings goods to a doorstep",
+      "image": "assets/products/mahindra-logistics-last-mile.svg",
+      "url": "https://mahindralogistics.com/",
+      "kind": "illustration",
+      "alt": "Illustration of a parcel ready for the final delivery"
+    },
+    {
+      "name": "Overseas freight",
+      "category": "Booking and coordinating cargo by air or sea",
+      "image": "assets/products/mahindra-logistics-freight.svg",
+      "url": "https://mahindralogistics.com/freight-forwarding-solutions/",
+      "kind": "illustration",
+      "alt": "Illustration of a plane carrying freight"
+    },
+    {
+      "name": "Employee transport",
+      "category": "Scheduled rides between pickup points and workplaces",
+      "image": "assets/products/mahindra-logistics-employees.svg",
+      "url": "https://mahindralogistics.com/",
+      "kind": "illustration",
+      "alt": "Illustration of a shuttle bus for employee transport"
+    },
+    {
+      "name": "Moving stock inside factories",
+      "category": "Bringing the right parts to the production line when needed",
+      "image": "assets/products/mahindra-logistics-plant.webp",
+      "url": "https://mahindralogistics.com/contract-logistics/",
+      "kind": "photo",
+      "alt": "a site for moving supplies inside a factory — company image"
+    }
+  ]
+}

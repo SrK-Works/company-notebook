@@ -1,0 +1,193 @@
+{
+  "summary": "Azad Engineering makes precisely shaped metal parts for turbines, aircraft and oil and gas equipment. Those parts go into machines that other companies build.",
+  "description": "A turbine uses moving fluid such as hot gas or steam to turn a wheel and shaft. Its metal blades have to fit closely and hold their shape in demanding conditions. Azad cuts and finishes blades, fixed vanes that guide flow, and other parts to customers’ drawings. Engineers check dimensions and materials before the parts go to the machine maker.",
+  "money": "Equipment makers pay for finished parts and manufacturing services. Azad spends on metal, trained workers, cutting tools, machines, energy and tests. Preparing a new part or a dedicated line takes time and spending before the company records sales. Money owed on shipped parts can arrive later.",
+  "customers": "Manufacturers of power equipment, aircraft systems and oil and gas equipment buy parts or production work. They fit those parts into their own equipment or use them to maintain machines already in service.",
+  "drivers": "Track which parts buyers have approved, how quickly orders become shipments, and how much the factories and tools cost while new lines are getting up to speed.",
+  "quick": [
+    {
+      "title": "What does it do?",
+      "text": "It makes closely measured metal parts, including blades that fit into turbines."
+    },
+    {
+      "title": "Who pays?",
+      "text": "Equipment makers pay for ordered parts and manufacturing work."
+    },
+    {
+      "title": "How does it earn?",
+      "text": "It earns from selling completed parts and agreed production services."
+    },
+    {
+      "title": "What does it spend on?",
+      "text": "Special metals, skilled workers, machinery, cutting tools, energy and tests."
+    }
+  ],
+  "groups": [
+    {
+      "title": "Power turbine parts",
+      "examples": "Blades and fixed vanes for gas, steam and other turbines.",
+      "explanation": "Blades turn the shaft. Vanes stay in place and guide the moving gas or steam towards the blades."
+    },
+    {
+      "title": "Aircraft parts",
+      "examples": "Precisely shaped components for aviation customers.",
+      "explanation": "The parts must fit the buyer’s equipment and pass checks for their intended use."
+    },
+    {
+      "title": "Oil and gas parts",
+      "examples": "Components for equipment used in oil and gas operations.",
+      "explanation": "Machine makers specify the shape, finish and materials needed for the conditions in which a part will work."
+    },
+    {
+      "title": "Making and checking metal parts",
+      "examples": "Forging, machine cutting, joining, finishing and testing.",
+      "explanation": "These steps transform a piece of metal into a measured component ready for the customer."
+    }
+  ],
+  "basics": [
+    {
+      "title": "Why do small size differences matter?",
+      "text": "A blade and the parts around it have to fit within a narrow allowed range. A part that misses that range can be rejected even if it looks similar by eye."
+    },
+    {
+      "title": "What is customer approval?",
+      "text": "The equipment maker checks sample parts and the process used to make them before relying on that supplier for repeat orders."
+    }
+  ],
+  "stepsTitle": "From a customer drawing to a delivered part",
+  "steps": [
+    {
+      "title": "Read the requirements",
+      "text": "Agree the shape, acceptable variation and checks the buyer needs. Choose the alloy, meaning the metal mixture specified for the part."
+    },
+    {
+      "title": "Make samples and get them checked",
+      "text": "Produce early parts and show that the production process can meet the buyer’s requirements repeatedly."
+    },
+    {
+      "title": "Cut, finish and test batches",
+      "text": "Buy material, run the machines and measure the parts before shipment. A rejected part takes time and materials to replace."
+    },
+    {
+      "title": "Send finished parts and collect",
+      "text": "Record sales when the contract’s delivery terms are met. The customer can pay after Azad has covered wages and materials."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Some customers have dedicated facilities",
+      "text": "A production line set up for one equipment maker can support repeat orders. It needs enough approved work to keep the line busy."
+    },
+    {
+      "title": "Power turbine components serve different equipment",
+      "text": "A steam turbine and a gas turbine use different temperatures, conditions and parts. A supplier’s approval for one part does not automatically cover another."
+    },
+    {
+      "title": "Foreign sales are important",
+      "text": "The annual report records sales outside India. Exchange rates can change the rupee value of payments and the cost of foreign purchases."
+    }
+  ],
+  "watch": [
+    [
+      "Which orders have become actual shipments?",
+      "A supply agreement can precede the first approved batch by a long time.",
+      "Compare order announcements with later updates on production, delivery and billed revenue. Check how long it takes to ship the first batches."
+    ],
+    [
+      "Are new facilities running at useful volumes?",
+      "Tools, people and factory space cost money while a line ramps up.",
+      "Compare factory start dates with production and sales from new lines. Look for whether the company is using more of the capacity over time."
+    ],
+    [
+      "Is the company collecting cash from shipments?",
+      "Sales can rise while more money remains owed by customers.",
+      "Compare billed sales, cash from day to day operations and amounts that customers still owe for earlier deliveries."
+    ],
+    [
+      "How dependent is growth on a few buyers?",
+      "One customer changing its schedule could affect several batches or a dedicated line.",
+      "Look for disclosures about large customers. Compare those customer sales with total sales and the spread of new orders."
+    ],
+    [
+      "How much is earned through making parts versus services?",
+      "A delivered component and separately billed manufacturing work can have different costs.",
+      "Read the note that separates product and service revenue. Compare those lines across years without assuming that the larger one also makes more profit."
+    ]
+  ],
+  "risks": [
+    [
+      "Long approval schedules can delay sales",
+      "A buyer may ask for more samples or repeat tests before it starts ordering."
+    ],
+    [
+      "Metal and tool costs can rise",
+      "Special material costs can increase before prices on long orders are reset."
+    ],
+    [
+      "Foreign currency can move",
+      "Payment from overseas customers can change in rupee value between shipment and collection."
+    ],
+    [
+      "A quality failure can delay a whole batch",
+      "Parts may need to be remade or rechecked before the customer accepts them."
+    ]
+  ],
+  "helps": [
+    {
+      "title": "Repeat parts can use established processes",
+      "text": "A line with approved tools and checks can supply more batches for the same customer."
+    },
+    {
+      "title": "The work extends across several industries",
+      "text": "Skills in shaping and testing metal can serve power, aircraft and oil and gas buyers."
+    },
+    {
+      "title": "Multiple production steps can happen together",
+      "text": "Keeping forming, finishing and checks close together can reduce handoffs between suppliers."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Machine spending comes early",
+      "text": "New equipment can tie up cash well before buyers approve the work."
+    },
+    {
+      "title": "A dedicated line depends on the named customer",
+      "text": "Rescheduling or cancelling work can leave specialised machines idle."
+    },
+    {
+      "title": "Skilled staff take time to train",
+      "text": "Experienced operators and inspectors are necessary to produce consistent parts."
+    }
+  ],
+  "context": [
+    "March 2026 turbine component contract",
+    "Azad says it signed a long term agreement with Mitsubishi Heavy Industries for fixed parts that guide hot gas inside a turbine. The next step is to see when deliveries begin."
+  ],
+  "sources": [
+    [
+      "Azad Engineering manufacturing capabilities",
+      "https://azad.in/manufacturing-capability/"
+    ],
+    [
+      "Azad Engineering products and sectors",
+      "https://azad.in/about-us/"
+    ],
+    [
+      "Azad Engineering audited annual report 2025–26",
+      "https://azad.in/wp-content/uploads/2026/09/AZAD-AR-2025-26.pdf"
+    ],
+    [
+      "NSE filing confirming listing symbol",
+      "https://nsearchives.nseindia.com/corporate/AZAD2356_30092026134516_SEintimation1.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "How to read group profit",
+      "text": "The profit shown covers the whole group after costs and tax. The annual report separates product and service sales, without a matching profit number for each kind of part."
+    }
+  ],
+  "checked": "18 November 2026",
+  "financialCue": "Read consolidated revenue with group profit after tax and use the source notes for its separate product and service sales."
+}

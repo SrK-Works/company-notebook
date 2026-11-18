@@ -1,0 +1,111 @@
+{
+  "order": 120,
+  "company": {
+    "id": "doms-industries",
+    "name": "DOMS Industries Limited",
+    "ticker": "DOMS",
+    "sector": "Consumer & retail",
+    "initial": "D",
+    "logo": "assets/logos/doms-industries-official.webp",
+    "color": "#253b92",
+    "bg": "#edf1fb",
+    "tag": "Pencils, art supplies and school kits",
+    "sources": [],
+    "productSource": "https://domsindia.com/all-categorys/",
+    "checked": "18 November 2026",
+    "reviewed": "18 November 2026",
+    "aliases": [
+      "DOMS Industries",
+      "DOMS pencils",
+      "DOMS stationery"
+    ],
+    "products": [
+      [
+        "Neon pencils",
+        "Wooden pencils for writing and drawing"
+      ],
+      [
+        "Inxon ballpoint pens",
+        "Ink pens for everyday writing"
+      ],
+      [
+        "Brush pens",
+        "Flexible pen tips for broad or fine strokes"
+      ],
+      [
+        "Wax crayons",
+        "Colored sticks for drawing on paper"
+      ],
+      [
+        "Paper stationery",
+        "Notebooks and other paper supplies"
+      ],
+      [
+        "Geometry sets",
+        "Rulers, compasses and school drawing tools"
+      ],
+      [
+        "Baby diapers",
+        "Baby care products through Uniclan Healthcare"
+      ]
+    ]
+  },
+  "offerings": [
+    {
+      "name": "Neon pencils",
+      "category": "Wooden pencils for writing and drawing",
+      "image": "assets/products/doms-industries-pencils.webp",
+      "url": "https://domsindia.com/all-categorys/",
+      "kind": "pack",
+      "alt": "a pack of DOMS Neon pencils — company image"
+    },
+    {
+      "name": "Inxon ballpoint pens",
+      "category": "Ink pens for everyday writing",
+      "image": "assets/products/doms-industries-ballpoint.webp",
+      "url": "https://domsindia.com/all-categorys/",
+      "kind": "pack",
+      "alt": "DOMS Inxon ballpoint pens — company image"
+    },
+    {
+      "name": "Brush pens",
+      "category": "Flexible pen tips for broad or fine strokes",
+      "image": "assets/products/doms-industries-brush-pens.webp",
+      "url": "https://domsindia.com/all-categorys/",
+      "kind": "pack",
+      "alt": "DOMS brush pens — company image"
+    },
+    {
+      "name": "Wax crayons",
+      "category": "Colored sticks for drawing on paper",
+      "image": "assets/products/doms-industries-crayons.webp",
+      "url": "https://domsindia.com/all-categorys/",
+      "kind": "pack",
+      "alt": "DOMS wax crayons — company image"
+    },
+    {
+      "name": "Paper stationery",
+      "category": "Notebooks and other paper supplies",
+      "image": "assets/products/doms-industries-notebooks.svg",
+      "url": "https://domsindia.com/all-categorys/",
+      "kind": "illustration",
+      "alt": "Illustration of a ruled notebook"
+    },
+    {
+      "name": "Geometry sets",
+      "category": "Rulers, compasses and school drawing tools",
+      "image": "assets/products/doms-industries-geometry.svg",
+      "url": "https://domsindia.com/all-categorys/",
+      "kind": "illustration",
+      "alt": "Illustration of a school geometry kit"
+    },
+    {
+      "name": "Baby diapers",
+      "category": "Baby care products through Uniclan Healthcare",
+      "image": "assets/products/doms-industries-diapers.svg",
+      "url": "https://domsindia.com/pdf/Investor_Relations/Investor_Presentation_and_Transcripts/DOMS_Investor_Presentation_Q2FY27.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a diaper"
+    }
+  ]
+}

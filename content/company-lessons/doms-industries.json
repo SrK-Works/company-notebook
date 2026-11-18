@@ -1,0 +1,190 @@
+{
+  "summary": "DOMS Industries makes pencils, pens, crayons, notebooks and other supplies for school, home and office. The group also sells baby diapers through Uniclan Healthcare.",
+  "description": "A child buying a DOMS pencil at a stationery shop sees the last step of the business. Before it gets there, DOMS makes and packs the pencil, sends it through shops or distributors and sells the next batch when stores reorder. It also sells sets that put several school or drawing supplies in one pack.",
+  "money": "Distributors and other trade buyers pay for the goods they order, while families pay the shop or online seller. DOMS spends on materials such as wood, paper, pigments and packaging, as well as workers, machinery and shipping. The shop price and the amount DOMS invoices can differ.",
+  "customers": "Stationery shops, distributors and other sellers stock the products for students, families, artists and offices. The wider group also supplies retailers that sell its baby care products.",
+  "drivers": "Demand for repeat school supplies, the mix of everyday items and larger packs, and material and factory costs determine how much each sale contributes.",
+  "quick": [
+    {
+      "title": "What does it do?",
+      "text": "It makes and sells stationery, art materials and school supplies. The wider group also makes baby care goods."
+    },
+    {
+      "title": "Who pays?",
+      "text": "Shops, distributors and other trade buyers pay the company for stock. Students and families buy from retailers."
+    },
+    {
+      "title": "How does it earn?",
+      "text": "It earns revenue when it sells a pencil, notebook, art set or other product to a customer."
+    },
+    {
+      "title": "What does it spend on?",
+      "text": "Wood, paper, pigments, packaging, workers, machinery and distribution."
+    }
+  ],
+  "groups": [
+    {
+      "title": "Writing and school supplies",
+      "examples": "Pencils, pens, erasers, sharpeners and geometry sets.",
+      "explanation": "These are items children and schools replace as they wear out or run out."
+    },
+    {
+      "title": "Drawing and craft",
+      "examples": "Brush pens, crayons, colors and craft kits.",
+      "explanation": "A student may start with a basic set, while an artist may buy a specific material or shade."
+    },
+    {
+      "title": "Paper and school kits",
+      "examples": "Notebooks, school kit packs and other paper stationery.",
+      "explanation": "A notebook is a paper product. A kit groups together tools the shopper would otherwise have to choose separately."
+    },
+    {
+      "title": "Baby care",
+      "examples": "Diapers made through Uniclan Healthcare.",
+      "explanation": "This has its own materials and buyers. A family buying diapers and one buying crayons are meeting different needs."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What does a distributor do?",
+      "text": "It buys in bulk from the manufacturer and supplies smaller orders to many shops. Check the manufacturer’s reported sales rather than multiplying store prices by estimated packs."
+    }
+  ],
+  "stepsTitle": "From making a pencil to getting paid",
+  "steps": [
+    {
+      "title": "Plan the batch",
+      "text": "Orders and expected school demand help the factory decide what to make."
+    },
+    {
+      "title": "Make, check and pack",
+      "text": "Workers and machines turn raw materials into finished items and pack them for the trade."
+    },
+    {
+      "title": "Ship the order",
+      "text": "DOMS sends the packs to a buyer and invoices under the terms of that sale."
+    },
+    {
+      "title": "Collect the money",
+      "text": "A buyer can pay after delivery. DOMS may already have paid workers and bought materials, and only what remains after costs counts as profit."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Shops often buy several items together",
+      "text": "A shop can order pencils, sharpeners and colors from the same company. A wider range can make a single relationship more valuable."
+    },
+    {
+      "title": "Some products come from companies DOMS bought",
+      "text": "Uniclan added baby care, while Super Treas added to paper stationery. Read group reports to understand what each adds."
+    },
+    {
+      "title": "Sales can rise because the range changes",
+      "text": "A shift from loose pencils toward packaged sets can change how much DOMS bills even when the number of individual items changes little."
+    }
+  ],
+  "watch": [
+    [
+      "Are shops reordering the core school products?",
+      "A one-time stock build is different from repeat demand.",
+      "Compare stationery category sales with the company’s comments about shopper demand and distributor orders."
+    ],
+    [
+      "Is growth coming from the existing business or newly bought companies?",
+      "A new business can lift headline sales without a matching rise in demand for existing products.",
+      "Read which purchases entered the group accounts and compare with the company’s commentary on sales from stores and products it already had."
+    ],
+    [
+      "Can the new factory space fill up?",
+      "Workers and machines cost money while new capacity ramps up.",
+      "Follow factory opening dates and check later disclosures about what is being made there and whether customer orders are filling the space."
+    ],
+    [
+      "What happens when wood or paper costs more?",
+      "A small extra cost per unit can add up across many inexpensive items.",
+      "Compare material costs with sales across periods and check whether higher selling prices or a different mix of items offset those costs."
+    ],
+    [
+      "Do the different product categories earn different margins?",
+      "A growing category can either improve group profit or dilute it.",
+      "Read the reported segment earnings and check which product lines the filing groups together."
+    ]
+  ],
+  "risks": [
+    [
+      "Materials get more expensive",
+      "If selling prices cannot rise in step, less of each sale remains after costs."
+    ],
+    [
+      "School demand arrives unevenly",
+      "Making too much ahead of demand can leave stock sitting in warehouses."
+    ],
+    [
+      "New product ranges take time to sell",
+      "Stores need to give new products shelf space and buyers need to reorder."
+    ],
+    [
+      "Capacity projects can fall behind",
+      "Delayed machines can defer deliveries while factory spending continues."
+    ]
+  ],
+  "helps": [
+    {
+      "title": "Many basics are bought again",
+      "text": "Students regularly replace supplies as they use them up."
+    },
+    {
+      "title": "Shops can buy related products in one order",
+      "text": "A stationery relationship can carry pencils, pens, colors and kits."
+    },
+    {
+      "title": "Several formats can serve the same shopper",
+      "text": "The range can meet a low-cost everyday need and also offer sets for gifts or school lists."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Running out at the wrong time can lose sales",
+      "text": "If popular packs arrive after the school buying rush, shops may turn to another supplier."
+    },
+    {
+      "title": "There are many stationery alternatives",
+      "text": "Shops and families can choose another brand if the price or availability suits them better."
+    },
+    {
+      "title": "A wider group has more to run",
+      "text": "Paper and diaper plants bring different stock, equipment and sales decisions from pencil production."
+    }
+  ],
+  "context": [
+    "November 2026: wider range in the company presentation",
+    "DOMS showed school and art products, baby hygiene and back-to-school bags as parts of the group’s offer. Its March results also explain how adding Super Treas changed the year’s comparison."
+  ],
+  "sources": [
+    [
+      "DOMS product catalogue",
+      "https://domsindia.com/all-categorys/"
+    ],
+    [
+      "November 2026 company presentation",
+      "https://domsindia.com/pdf/Investor_Relations/Investor_Presentation_and_Transcripts/DOMS_Investor_Presentation_Q2FY27.pdf"
+    ],
+    [
+      "Audited March 2026 results",
+      "https://domsindia.com/pdf/Investor_Relations/Intimation_to_Sebi/Outcome_of_Board_Meeting_held_on_May_18%2C%202026.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Start with the reported segments",
+      "text": "The audited figures cover DOMS and its controlled companies together. Read segment earnings before shared income, group-level costs and tax, and use the group statement for profit after tax."
+    },
+    {
+      "title": "Check what changed in the comparison",
+      "text": "The newer year includes Super Treas from June and a full year of Uniclan. Part of the group sales growth therefore comes from changes in what the accounts include."
+    }
+  ],
+  "financialCue": "Compare the two disclosed businesses and check what the filing combines within stationery.",
+  "photoCaption": "Start with familiar stationery, then see where paper and baby care fit into the wider business.",
+  "checked": "18 November 2026"
+}

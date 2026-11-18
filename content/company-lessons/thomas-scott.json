@@ -1,0 +1,197 @@
+{
+  "summary": "Thomas Scott (India) designs, makes and sells clothes such as shirts, jeans and trousers. Shoppers buy through online marketplaces, the brand site and stores.",
+  "description": "A Thomas Scott shirt starts with a choice of fabric, fit and sizes. The company arranges production, holds stock, then sells through its own brand and channels such as online marketplaces. It also works with licensed brands and sells some apparel to businesses.",
+  "money": "The company collects sales income when apparel and accessories are sold under the order terms. Fabric, finished products bought from suppliers, wages, shipping, marketplace charges and promotion use up some of it. Returns can reverse a sale and add handling costs, while unsold sizes can tie up cash.",
+  "customers": "Shoppers pay for clothes and accessories. A marketplace can pass the payment through to the company after deducting selling charges, and a business customer can pay for a bulk supply order.",
+  "drivers": "Watch whether products sell at planned prices, how often orders are returned, and how much money stays tied up in cloth, finished clothes and unpaid bills.",
+  "quick": [
+    {
+      "title": "What does it do?",
+      "text": "It designs, manufactures and sells apparel and accessories."
+    },
+    {
+      "title": "Who pays?",
+      "text": "Shoppers and business buyers pay for finished clothes or accessories."
+    },
+    {
+      "title": "How does it earn?",
+      "text": "It earns from clothes sold under its own and licensed brands and from business supply orders."
+    },
+    {
+      "title": "What does it spend on?",
+      "text": "Fabric, garment purchases, production staff, order handling, selling charges and promotions."
+    }
+  ],
+  "groups": [
+    {
+      "title": "Shirts and T-shirts",
+      "examples": "Button-up shirts, polos and T-shirts.",
+      "explanation": "The ranges cover different fits, fabrics and occasions. A customer chooses a design and a size."
+    },
+    {
+      "title": "Jeans and trousers",
+      "examples": "Denim, chinos and other trousers.",
+      "explanation": "The company needs to plan stock across fits and sizes so customers can find the option they need."
+    },
+    {
+      "title": "Other brands and accessories",
+      "examples": "Clothing under licensed names and bags listed in the wider portfolio.",
+      "explanation": "A licence gives the company permission to use another brand under agreed terms. Accessories can reach a different shopper."
+    },
+    {
+      "title": "Orders from businesses",
+      "examples": "Apparel supply orders from business buyers.",
+      "explanation": "Instead of waiting for one shopper at a time, the company can supply ordered garments to another business."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is an online marketplace?",
+      "text": "It is a website where different brands sell to shoppers. The site can show the product and help collect payment, while sellers pay fees under their arrangement."
+    },
+    {
+      "title": "What counts as a return?",
+      "text": "A buyer sends a garment back after the first sale. The company may refund the order and pay to move and inspect the item before it can sell it again."
+    }
+  ],
+  "stepsTitle": "From a clothing design to a completed sale",
+  "steps": [
+    {
+      "title": "Choose a style and sizes",
+      "text": "Plan the fabric, fit and number of each size to make or order."
+    },
+    {
+      "title": "Make and hold stock",
+      "text": "Buy materials or finished goods. Check the garments and send batches to stockrooms or stores so orders can be filled."
+    },
+    {
+      "title": "Sell and ship the order",
+      "text": "Show the clothes online or in stores and deliver the item under the order terms."
+    },
+    {
+      "title": "Collect payment and handle returns",
+      "text": "A marketplace can settle later. The amount the company keeps falls if it refunds a return or pays charges on the order."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "The company sells under its own brand and other names",
+      "text": "The economics can differ when a brand is owned or used under licence. Look at the company’s portfolio and the terms it actually discloses."
+    },
+    {
+      "title": "The reported sales mix favours consumer orders",
+      "text": "The November presentation separates sales to shoppers from sales to businesses. Small online orders have different packing and return needs from bulk orders."
+    },
+    {
+      "title": "More sizes create more stock choices",
+      "text": "Offering a wider set of sizes gives shoppers more options. It also means the company has to predict demand for each size rather than just the total number of shirts."
+    }
+  ],
+  "watch": [
+    [
+      "Are returned orders rising?",
+      "A returned item can add costs after the first sale has been recorded.",
+      "Look for comments on returns, fulfilment and discounts when comparing sales with operating profit."
+    ],
+    [
+      "Is stock growing faster than clothing sales?",
+      "Cash may be stuck in sizes and styles that move slowly.",
+      "Compare inventory across reporting dates with changes in sales. Check whether the company needed clearance offers to reduce older stock."
+    ],
+    [
+      "Which route is selling more apparel?",
+      "Direct website sales, marketplaces and shops can cost different amounts per order.",
+      "Read the channel mix in investor materials and compare changes in delivery, online marketplace fees and other costs of selling clothes."
+    ],
+    [
+      "Are newer brands earning repeat orders?",
+      "A launch incurs spending before the company sees whether customers return.",
+      "Look for later updates on sales, distribution and repeat purchasing rather than the launch count alone."
+    ],
+    [
+      "Is cash arriving at the same pace as sales?",
+      "Marketplace settlement delays and inventory purchases can hold cash back.",
+      "Compare operating cash flow with profit. Use the notes to see how much money is held in stock and how much customers still owe."
+    ]
+  ],
+  "risks": [
+    [
+      "Fashion moves quickly",
+      "Shoppers may choose new fits or styles before existing stock clears."
+    ],
+    [
+      "Marketplace terms can change",
+      "An increase in commissions or changes in how products appear can affect sales and earnings."
+    ],
+    [
+      "Returns can leave goods harder to resell",
+      "A garment sent back may need inspection, repacking or a lower price."
+    ],
+    [
+      "Production problems can miss a selling window",
+      "Fabric delays, quality issues or slow stitching can make items arrive after peak demand."
+    ]
+  ],
+  "helps": [
+    {
+      "title": "Own stores and online channels reach different shoppers",
+      "text": "Some buyers want to try a garment on, while others want to order from home."
+    },
+    {
+      "title": "Related clothing categories serve the same customer",
+      "text": "A shopper who knows the shirt fit can consider another garment from the range."
+    },
+    {
+      "title": "Manufacturing gives the company a way to adjust supply",
+      "text": "Control over some production can help the company prepare more stock if a style sells well."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Promotion can lower what each order earns",
+      "text": "Advertising and discounts can draw people to a listing while shrinking the amount left per sale."
+    },
+    {
+      "title": "Stores cost money even in quiet weeks",
+      "text": "Rent and staffing continue when fewer people buy."
+    },
+    {
+      "title": "A broad catalogue needs cash up front",
+      "text": "Different colours and sizes have to be stocked before shoppers pick them."
+    }
+  ],
+  "context": [
+    "November 2026 investor presentation",
+    "The company showed its own brand, licensed brands and channels together, and separated consumer sales from business sales for the September half year."
+  ],
+  "sources": [
+    [
+      "Thomas Scott consumer catalogue",
+      "https://thomasscott.in/"
+    ],
+    [
+      "About the Thomas Scott brand",
+      "https://thomasscott.in/pages/about-us"
+    ],
+    [
+      "Thomas Scott company investor relations",
+      "https://www.thomasscott.org/investor-relations.htm"
+    ],
+    [
+      "NSE filed November 2026 investor presentation",
+      "https://nsearchives.nseindia.com/corporate/THOMASCOTT_13112026135227_Intimation_Presentation_signed.pdf"
+    ],
+    [
+      "NSE filed audited annual results",
+      "https://nsearchives.nseindia.com/corporate/THOMASCOTT_30052026172850_Outcome_of_BM_30052026_Final_Intimation_signed.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "How to use the annual totals",
+      "text": "The audited results show whole company sales and profit. The channel sales mix is a separate disclosure and does not give profit by brand or sales channel."
+    }
+  ],
+  "checked": "18 November 2026",
+  "financialCue": "Compare the annual sales and profit totals. The filing shows the year’s unusual items before the reported profit after tax."
+}

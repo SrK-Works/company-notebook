@@ -1,0 +1,110 @@
+{
+  "order": 124,
+  "company": {
+    "id": "poonawalla-fincorp",
+    "name": "Poonawalla Fincorp Limited",
+    "ticker": "POONAWALLA",
+    "sector": "Financial services",
+    "initial": "PF",
+    "logo": "assets/logos/poonawalla-fincorp-official.svg",
+    "color": "#382679",
+    "bg": "#f0ecfc",
+    "tag": "Loans for people and small businesses",
+    "sources": [],
+    "productSource": "https://poonawallafincorp.com/",
+    "checked": "18 November 2026",
+    "reviewed": "18 November 2026",
+    "aliases": [
+      "Poonawalla Fincorp",
+      "Poonawalla Finance"
+    ],
+    "products": [
+      [
+        "Personal loans",
+        "Money for individual expenses, repaid over time"
+      ],
+      [
+        "Business loans",
+        "Money a small firm can use for purchases and operating needs"
+      ],
+      [
+        "Loan against property",
+        "Money borrowed using a property as security"
+      ],
+      [
+        "Gold loans",
+        "Money borrowed against jewellery pledged as security"
+      ],
+      [
+        "Used car finance",
+        "Money toward the purchase of a second-hand car"
+      ],
+      [
+        "Commercial vehicle loans",
+        "Finance for vehicles used for work, such as trucks"
+      ],
+      [
+        "Education loans",
+        "Money for eligible costs of higher education"
+      ]
+    ]
+  },
+  "offerings": [
+    {
+      "name": "Personal loans",
+      "category": "Money for individual expenses, repaid over time",
+      "image": "assets/products/poonawalla-fincorp-personal.svg",
+      "url": "https://poonawallafincorp.com/documents/20121/0/PFL-Annual-Report-FY-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a personal loan agreement"
+    },
+    {
+      "name": "Business loans",
+      "category": "Money a small firm can use for purchases and operating needs",
+      "image": "assets/products/poonawalla-fincorp-business.svg",
+      "url": "https://poonawallafincorp.com/documents/20121/0/PFL-Annual-Report-FY-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a small business that could apply to borrow"
+    },
+    {
+      "name": "Loan against property",
+      "category": "Money borrowed using a property as security",
+      "image": "assets/products/poonawalla-fincorp-property.svg",
+      "url": "https://poonawallafincorp.com/documents/20121/0/PFL-Annual-Report-FY-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a property that can serve as loan security"
+    },
+    {
+      "name": "Gold loans",
+      "category": "Money borrowed against jewellery pledged as security",
+      "image": "assets/products/poonawalla-fincorp-gold.svg",
+      "url": "https://poonawallafincorp.com/documents/20121/0/PFL-Annual-Report-FY-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of gold offered as loan security"
+    },
+    {
+      "name": "Used car finance",
+      "category": "Money toward the purchase of a second-hand car",
+      "image": "assets/products/poonawalla-fincorp-cars.svg",
+      "url": "https://poonawallafincorp.com/documents/20121/0/PFL-Annual-Report-FY-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a used car that a borrower can finance"
+    },
+    {
+      "name": "Commercial vehicle loans",
+      "category": "Finance for vehicles used for work, such as trucks",
+      "image": "assets/products/poonawalla-fincorp-vehicles.svg",
+      "url": "https://poonawallafincorp.com/documents/20121/0/PFL-Annual-Report-FY-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a truck a business might finance"
+    },
+    {
+      "name": "Education loans",
+      "category": "Money for eligible costs of higher education",
+      "image": "assets/products/poonawalla-fincorp-education.svg",
+      "url": "https://education-loan.poonawallafincorp.com/",
+      "kind": "illustration",
+      "alt": "Illustration of a cap representing higher education"
+    }
+  ]
+}

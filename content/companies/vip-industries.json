@@ -1,0 +1,117 @@
+{
+  "order": 116,
+  "company": {
+    "id": "vip-industries",
+    "name": "V.I.P. Industries Limited",
+    "ticker": "VIPIND",
+    "sector": "Consumer & retail",
+    "initial": "VIP",
+    "color": "#bb2230",
+    "bg": "#fff1f1",
+    "tag": "The business behind the offering",
+    "logo": "assets/logos/vip-industries-official.webp",
+    "products": [
+      [
+        "VIP laptop trolley",
+        "A wheeled bag with space for a laptop and work items."
+      ],
+      [
+        "VIP backpack",
+        "A bag carried on the shoulders for daily use."
+      ],
+      [
+        "VIP cabin suitcase",
+        "Compact wheeled luggage designed for short trips; airline size limits vary."
+      ],
+      [
+        "VIP large suitcase",
+        "A bigger case for packing more clothes and travel items."
+      ],
+      [
+        "VIP soft trolley bag",
+        "A fabric outer shell gives the bag a more flexible shape."
+      ],
+      [
+        "VIP hard trolley bag",
+        "A rigid shell wraps around the contents to help protect them."
+      ],
+      [
+        "VIP medium suitcase",
+        "A wheeled case with more packing room than a cabin case."
+      ]
+    ],
+    "sources": [],
+    "productSource": "https://vipbags.com/",
+    "productNote": "These pictures show luggage from the VIP Bags catalogue. The same listed company also sells luggage and bags under other brands.",
+    "checked": "18 Nov 2026",
+    "reviewed": "18 November 2026",
+    "aliases": [
+      "VIP Bags",
+      "VIP Industries",
+      "Skybags",
+      "Carlton",
+      "Aristocrat",
+      "Caprese",
+      "suitcase",
+      "trolley bag"
+    ]
+  },
+  "offerings": [
+    {
+      "name": "VIP laptop trolley",
+      "category": "A wheeled bag with space for a laptop and work items.",
+      "image": "assets/products/vip-industries-laptop-trolley.webp",
+      "url": "https://vipbags.com/",
+      "kind": "pack",
+      "alt": "VIP laptop trolley from the official catalogue"
+    },
+    {
+      "name": "VIP backpack",
+      "category": "A bag carried on the shoulders for daily use.",
+      "image": "assets/products/vip-industries-backpack.webp",
+      "url": "https://vipbags.com/products/vip-commuter-backpack?variant=43090306236487",
+      "kind": "pack",
+      "alt": "Official VIP backpack product image"
+    },
+    {
+      "name": "VIP cabin suitcase",
+      "category": "Compact wheeled luggage designed for short trips; airline size limits vary.",
+      "image": "assets/products/vip-industries-cabin.webp",
+      "url": "https://vipbags.com/",
+      "kind": "pack",
+      "alt": "Official VIP cabin suitcase catalogue image"
+    },
+    {
+      "name": "VIP large suitcase",
+      "category": "A bigger case for packing more clothes and travel items.",
+      "image": "assets/products/vip-industries-large.webp",
+      "url": "https://vipbags.com/",
+      "kind": "pack",
+      "alt": "Official VIP large suitcase catalogue image"
+    },
+    {
+      "name": "VIP soft trolley bag",
+      "category": "A fabric outer shell gives the bag a more flexible shape.",
+      "image": "assets/products/vip-industries-soft-shell.webp",
+      "url": "https://vipbags.com/",
+      "kind": "pack",
+      "alt": "Official VIP soft trolley bag catalogue image"
+    },
+    {
+      "name": "VIP hard trolley bag",
+      "category": "A rigid shell wraps around the contents to help protect them.",
+      "image": "assets/products/vip-industries-hard-shell.webp",
+      "url": "https://vipbags.com/products/vip-vero-strolly-55-360-d3?variant=42888423309383",
+      "kind": "pack",
+      "alt": "Official VIP hard trolley bag catalogue image"
+    },
+    {
+      "name": "VIP medium suitcase",
+      "category": "A wheeled case with more packing room than a cabin case.",
+      "image": "assets/products/vip-industries-medium.webp",
+      "url": "https://vipbags.com/products/vip-pod-8w-strolly-cabin-360-medium?variant=42888667070535",
+      "kind": "pack",
+      "alt": "Official VIP medium suitcase catalogue image"
+    }
+  ]
+}

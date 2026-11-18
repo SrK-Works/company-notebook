@@ -1,0 +1,202 @@
+{
+  "summary": "The company stores and moves goods for other businesses. It runs warehouses, arranges trucks and overseas freight, delivers parcels and transports employees.",
+  "description": "Imagine a retailer that needs a place to keep hundreds of boxes before local stores ask for them. The company can receive and count the boxes, store them, pick the right orders and arrange trucks to take them to the stores. Some customers buy just one step, such as a ride to an office or a shipment to another country.",
+  "money": "Retailers, manufacturers and other businesses pay service fees for agreed tasks such as storage, trucking and picking orders. To do the work, the company pays for warehouses, workers, sorting systems and trucks or outside transport operators. It can record an earned fee before the customer pays the bill.",
+  "customers": "Manufacturers pay to bring parts to factories and move finished goods out. Retailers and online sellers pay for storage and deliveries. Employers can pay for scheduled staff transport, where the passenger is the user.",
+  "drivers": "Fuller warehouses and trucks can help spread fixed costs. Contract pricing, transport charges, staff costs and the amount of work customers send determine what remains.",
+  "quick": [
+    {
+      "title": "What does it do?",
+      "text": "It stores, packs and moves goods and runs transport for employees."
+    },
+    {
+      "title": "Who pays?",
+      "text": "Manufacturers, retailers, online sellers and employers pay for the work they arrange."
+    },
+    {
+      "title": "How does it earn?",
+      "text": "It charges fees after providing storage, shipping, delivery or transport services."
+    },
+    {
+      "title": "What does it spend on?",
+      "text": "It spends on people, leased buildings, transport partners, trucks and operating systems."
+    }
+  ],
+  "groups": [
+    {
+      "title": "Storage and factory work",
+      "examples": "Receiving goods, picking orders and feeding parts to factories.",
+      "explanation": "Keeping track of each item makes it possible to release it when the customer asks for it."
+    },
+    {
+      "title": "Transport and express freight",
+      "examples": "Full trucks and smaller consignments shipped through Rivigo.",
+      "explanation": "A business can book a whole vehicle or buy space on a route that serves multiple shipments."
+    },
+    {
+      "title": "Final delivery and overseas cargo",
+      "examples": "Doorstep deliveries and coordination of imports or exports.",
+      "explanation": "A delivery route brings the package to its recipient. An overseas shipment needs space on a ship or plane and border paperwork."
+    },
+    {
+      "title": "Moving people",
+      "examples": "Employee transport for companies.",
+      "explanation": "An employer can arrange scheduled pickup routes so workers reach their location or shift."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What does a storage and shipping contract cover?",
+      "text": "A business hires another company to run ongoing work such as receiving, storing and shipping its stock. The agreement says who does each task and what the customer pays."
+    },
+    {
+      "title": "What is freight forwarding?",
+      "text": "A freight forwarder arranges space with carriers and coordinates paperwork and transfers. A carrier physically moves the goods."
+    }
+  ],
+  "stepsTitle": "From receiving goods to collecting the service bill",
+  "steps": [
+    {
+      "title": "Agree the job",
+      "text": "The customer and company decide where goods need to go and what services will be paid for."
+    },
+    {
+      "title": "Receive and organise the stock",
+      "text": "Workers count it and record its location so they can find the correct boxes."
+    },
+    {
+      "title": "Move the order",
+      "text": "Workers pick the goods and organise a vehicle to take them to the next location."
+    },
+    {
+      "title": "Invoice and collect",
+      "text": "The company bills for the service. Payments to drivers, staff and landlords may leave its account before the client pays."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Rivigo sits in the group’s express business",
+      "text": "The service moves shipments for business customers. Its route costs depend on how much freight actually travels on each trip."
+    },
+    {
+      "title": "A site can do more than store goods",
+      "text": "Picking, packing and sending the right items can create more work per customer than rented space alone."
+    },
+    {
+      "title": "A foreign shipment has different steps",
+      "text": "The group’s Lords Freight operation arranges cargo by air or sea and helps with border procedures."
+    }
+  ],
+  "watch": [
+    [
+      "Are warehouse customers filling usable space?",
+      "Rent and some staffing costs continue even when space is empty.",
+      "Compare how much space is in use at existing sites with the added capacity from new sites, using the company’s warehouse updates."
+    ],
+    [
+      "Does express freight cover its route costs?",
+      "More shipments add little benefit if they are spread across expensive, lightly filled routes.",
+      "Read the express business update and compare revenue with reported earnings there, including whether a change came from better use of routes."
+    ],
+    [
+      "Are more customers buying several tasks together?",
+      "Storing and shipping can bring more work from one relationship.",
+      "Look for disclosures about new agreements or extra services at an existing site and note which parts of the customer’s shipping process are included."
+    ],
+    [
+      "Can it pass through higher transport costs?",
+      "A higher truck or fuel bill takes money out of the fee unless the contract allows a price change.",
+      "Read the operating cost discussion and check whether the company mentions price resets, changes in fuel costs or a delay before higher rates take effect."
+    ],
+    [
+      "Does reported profit turn into cash?",
+      "A company can pay operators before a client settles its invoice.",
+      "Compare cash earned from running the business with profit and unpaid customer bills. Look for a pattern over more than one quarter."
+    ]
+  ],
+  "risks": [
+    [
+      "Customers can run transport themselves",
+      "Some decide whether to renew outside contracts or use their own staff and vehicles."
+    ],
+    [
+      "Damage or delays can hurt a contract",
+      "A lost or late shipment can trigger extra handling or compensation."
+    ],
+    [
+      "Overseas movements can be disrupted",
+      "Ship or flight changes can make deliveries more complex."
+    ],
+    [
+      "Staff transport follows office needs",
+      "A customer changing where or when workers travel may use fewer vehicles."
+    ]
+  ],
+  "helps": [
+    {
+      "title": "The work can run all year",
+      "text": "A busy customer often needs repeated deliveries and stock handling beyond any single shipment."
+    },
+    {
+      "title": "Existing routes can carry work for another customer",
+      "text": "A useful network can serve more freight without every trip starting from scratch."
+    },
+    {
+      "title": "Freight partners broaden the service area",
+      "text": "The group can book routes and equipment from other businesses where it needs them."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Idle sites cost money",
+      "text": "The lease runs while customer stock moves in and out."
+    },
+    {
+      "title": "Starting a new contract takes work before the first bill",
+      "text": "The company may need to hire staff and set up a site before shipments begin."
+    },
+    {
+      "title": "Bigger shipments can mean bigger outside bills",
+      "text": "Cargo fees include money that ultimately pays transport providers."
+    }
+  ],
+  "context": [
+    "September 2026: express and warehouse update",
+    "The company said its express operation covered its operating costs before interest, tax and the accounting cost of long-lived assets in both the quarter and the half year. Management also reported that less space sat empty in its contract warehouses."
+  ],
+  "sources": [
+    [
+      "Company service catalogue",
+      "https://mahindralogistics.com/"
+    ],
+    [
+      "Company list of subsidiaries and services",
+      "https://mahindralogistics.com/jvs-subsidiaries/"
+    ],
+    [
+      "International cargo services",
+      "https://mahindralogistics.com/freight-forwarding-solutions/"
+    ],
+    [
+      "Audited March 2026 results",
+      "https://mahindralogistics.com/tabs/cms/files/Annual_Financial_Results_FY_2026.pdf"
+    ],
+    [
+      "September 2026 results presentation",
+      "https://mahindralogistics.com/tabs/cms/files/Earnings-Presentation-Q2FY27.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Read the two business groups",
+      "text": "The consolidated filing combines the company with its subsidiaries. Supply chain work and employee transport have separate segment results. Sales between those two parts of the business are removed from the group total."
+    },
+    {
+      "title": "Separate group profit from the owners’ share",
+      "text": "The group includes a share of profit belonging to outside owners of some subsidiaries. Annual earnings also include an extra employee benefits charge after new labour rules changed the amount due."
+    }
+  ],
+  "financialCue": "Compare what each service group bills with what remains after its costs, then read the group profit and its definition.",
+  "photoCaption": "See the path from a warehouse to the road, the doorstep or an overseas cargo terminal.",
+  "checked": "18 November 2026"
+}

@@ -1,0 +1,114 @@
+{
+  "order": 118,
+  "company": {
+    "id": "azad-engineering",
+    "name": "Azad Engineering Limited",
+    "ticker": "AZAD",
+    "sector": "Industrials & infrastructure",
+    "initial": "AE",
+    "color": "#123e67",
+    "bg": "#e9f2f8",
+    "tag": "The business behind the offering",
+    "logo": "assets/logos/azad-engineering-official.webp",
+    "products": [
+      [
+        "Precision metal cutting",
+        "Uses machines to carve metal to the exact size and shape set by the buyer."
+      ],
+      [
+        "Metal forging",
+        "Shapes metal under pressure before a part is cut to its final dimensions."
+      ],
+      [
+        "Sheet metal work",
+        "Cuts and forms thin metal into parts such as panels and brackets."
+      ],
+      [
+        "Materials and part testing",
+        "Checks that a part meets requirements before the buyer fits it into a machine."
+      ],
+      [
+        "Special finishing processes",
+        "Treats parts to meet the buyer’s requirements for the way they will be used."
+      ],
+      [
+        "Metal joining",
+        "Joins separate metal pieces into one part or assembly."
+      ],
+      [
+        "Specialised fasteners",
+        "Bolts and similar components help hold parts in place."
+      ]
+    ],
+    "sources": [],
+    "productSource": "https://azad.in/manufacturing-capability/",
+    "productNote": "These pictures come from Azad’s manufacturing catalogue and illustrate the work it can carry out on engineered components.",
+    "checked": "18 Nov 2026",
+    "reviewed": "18 November 2026",
+    "aliases": [
+      "Ajad Engineering",
+      "Azad Engineering",
+      "turbine blades",
+      "precision machining",
+      "Azad"
+    ]
+  },
+  "offerings": [
+    {
+      "name": "Precision metal cutting",
+      "category": "Uses machines to carve metal to the exact size and shape set by the buyer.",
+      "image": "assets/products/azad-engineering-machining.webp",
+      "url": "https://azad.in/manufacturing-capability/",
+      "kind": "pack",
+      "alt": "Azad Engineering catalogue image for precision machining"
+    },
+    {
+      "name": "Metal forging",
+      "category": "Shapes metal under pressure before a part is cut to its final dimensions.",
+      "image": "assets/products/azad-engineering-forging.webp",
+      "url": "https://azad.in/manufacturing-capability/",
+      "kind": "pack",
+      "alt": "Azad Engineering catalogue image for metal forging"
+    },
+    {
+      "name": "Sheet metal work",
+      "category": "Cuts and forms thin metal into parts such as panels and brackets.",
+      "image": "assets/products/azad-engineering-sheet-metal.webp",
+      "url": "https://azad.in/manufacturing-capability/",
+      "kind": "pack",
+      "alt": "Azad Engineering catalogue image for sheet metal work"
+    },
+    {
+      "name": "Materials and part testing",
+      "category": "Checks that a part meets requirements before the buyer fits it into a machine.",
+      "image": "assets/products/azad-engineering-testing.webp",
+      "url": "https://azad.in/manufacturing-capability/",
+      "kind": "pack",
+      "alt": "Azad Engineering catalogue image for its testing laboratory"
+    },
+    {
+      "name": "Special finishing processes",
+      "category": "Treats parts to meet the buyer’s requirements for the way they will be used.",
+      "image": "assets/products/azad-engineering-special-process.webp",
+      "url": "https://azad.in/manufacturing-capability/",
+      "kind": "pack",
+      "alt": "Azad Engineering catalogue image for specialised production processes"
+    },
+    {
+      "name": "Metal joining",
+      "category": "Joins separate metal pieces into one part or assembly.",
+      "image": "assets/products/azad-engineering-joining.webp",
+      "url": "https://azad.in/manufacturing-capability/",
+      "kind": "pack",
+      "alt": "Azad Engineering catalogue image for metal joining"
+    },
+    {
+      "name": "Specialised fasteners",
+      "category": "Bolts and similar components help hold parts in place.",
+      "image": "assets/products/azad-engineering-fasteners.webp",
+      "url": "https://azad.in/manufacturing-capability/",
+      "kind": "pack",
+      "alt": "Azad Engineering catalogue image for fasteners"
+    }
+  ]
+}

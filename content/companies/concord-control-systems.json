@@ -1,0 +1,112 @@
+{
+  "order": 122,
+  "company": {
+    "id": "concord-control-systems",
+    "name": "Concord Control Systems Limited",
+    "ticker": "CNCRD",
+    "listingLabel": "BSE: CNCRD · scrip 543619",
+    "sector": "Industrials & infrastructure",
+    "initial": "CC",
+    "logo": "assets/logos/concord-control-systems-official.webp",
+    "color": "#17445b",
+    "bg": "#eef4f6",
+    "tag": "Electronics fitted to trains and tracks",
+    "sources": [],
+    "productSource": "https://www.concordgroup.in/",
+    "checked": "18 November 2026",
+    "reviewed": "18 November 2026",
+    "aliases": [
+      "Concord Control Systems",
+      "Concord Control",
+      "543619"
+    ],
+    "products": [
+      [
+        "Coach electrical connections",
+        "Equipment connecting electrical circuits from one carriage to another"
+      ],
+      [
+        "Railway chargers",
+        "Equipment for supplying power to onboard devices"
+      ],
+      [
+        "Driver displays and controls",
+        "Screens that give the driver train information and controls"
+      ],
+      [
+        "Freight locomotive coordination",
+        "Controls that link engines spread through one freight train"
+      ],
+      [
+        "Trackside wheel monitoring",
+        "Equipment that checks how a wheel loads the rail as it passes"
+      ],
+      [
+        "Data loggers",
+        "Boards that record readings for later inspection"
+      ],
+      [
+        "Signalling control panels",
+        "Electrical panels that support train signalling and protection"
+      ]
+    ]
+  },
+  "offerings": [
+    {
+      "name": "Coach electrical connections",
+      "category": "Equipment connecting electrical circuits from one carriage to another",
+      "image": "assets/products/concord-control-systems-coaching.webp",
+      "url": "https://www.concordgroup.in/",
+      "kind": "pack",
+      "alt": "electrical connection equipment for passenger coaches — company image"
+    },
+    {
+      "name": "Railway chargers",
+      "category": "Equipment for supplying power to onboard devices",
+      "image": "assets/products/concord-control-systems-charger.webp",
+      "url": "https://www.concordgroup.in/accessories",
+      "kind": "pack",
+      "alt": "a cabinet supplying power to onboard railway devices — company image"
+    },
+    {
+      "name": "Driver displays and controls",
+      "category": "Screens that give the driver train information and controls",
+      "image": "assets/products/concord-control-systems-cab.webp",
+      "url": "https://www.concordgroup.in/",
+      "kind": "pack",
+      "alt": "a train cab with displays and controls — company image"
+    },
+    {
+      "name": "Freight locomotive coordination",
+      "category": "Controls that link engines spread through one freight train",
+      "image": "assets/products/concord-control-systems-coordination.webp",
+      "url": "https://www.concordgroup.in/",
+      "kind": "pack",
+      "alt": "electronic equipment that coordinates engines on one freight train — company image"
+    },
+    {
+      "name": "Trackside wheel monitoring",
+      "category": "Equipment that checks how a wheel loads the rail as it passes",
+      "image": "assets/products/concord-control-systems-track.svg",
+      "url": "https://www.concordgroup.in/",
+      "kind": "illustration",
+      "alt": "Illustration of a sensor beside the tracks"
+    },
+    {
+      "name": "Data loggers",
+      "category": "Boards that record readings for later inspection",
+      "image": "assets/products/concord-control-systems-logger.webp",
+      "url": "https://www.concordgroup.in/accessories",
+      "kind": "pack",
+      "alt": "an electronic board that records equipment readings — company image"
+    },
+    {
+      "name": "Signalling control panels",
+      "category": "Electrical panels that support train signalling and protection",
+      "image": "assets/products/concord-control-systems-signals.webp",
+      "url": "https://www.concordgroup.in/",
+      "kind": "pack",
+      "alt": "a cabinet used to control railway signals — company image"
+    }
+  ]
+}

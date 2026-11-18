@@ -1,0 +1,111 @@
+{
+  "order": 123,
+  "company": {
+    "id": "hbl-engineering",
+    "name": "HBL Engineering Limited",
+    "ticker": "HBLENGINE",
+    "sector": "Industrials & infrastructure",
+    "initial": "HBL",
+    "logo": "assets/logos/hbl-engineering-official.webp",
+    "color": "#126381",
+    "bg": "#e9f5f8",
+    "tag": "Backup batteries and train protection equipment",
+    "sources": [],
+    "productSource": "https://www.hbl.in/",
+    "checked": "18 November 2026",
+    "reviewed": "18 November 2026",
+    "aliases": [
+      "HBL Engineering",
+      "HBL Power Systems",
+      "HBL Kavach"
+    ],
+    "products": [
+      [
+        "Kavach train protection",
+        "Equipment helps prevent trains from moving unsafely"
+      ],
+      [
+        "Railway backup batteries",
+        "Keep equipment working when the usual power supply is lost"
+      ],
+      [
+        "Train management systems",
+        "Show staff how trains are moving through an area"
+      ],
+      [
+        "Railway data loggers",
+        "Record equipment readings and events so staff can review them"
+      ],
+      [
+        "Telecom backup batteries",
+        "Keep communications equipment powered during interruptions"
+      ],
+      [
+        "Aircraft batteries",
+        "Specialised batteries for use on aircraft"
+      ],
+      [
+        "Containerised battery storage",
+        "Battery banks fitted inside a container for larger power needs"
+      ]
+    ]
+  },
+  "offerings": [
+    {
+      "name": "Kavach train protection",
+      "category": "Equipment helps prevent trains from moving unsafely",
+      "image": "assets/products/hbl-engineering-protection.svg",
+      "url": "https://www.hblelectronics.com/Railway-app.html",
+      "kind": "illustration",
+      "alt": "Illustration of a train fitted with protection equipment"
+    },
+    {
+      "name": "Railway backup batteries",
+      "category": "Keep equipment working when the usual power supply is lost",
+      "image": "assets/products/hbl-engineering-backup.svg",
+      "url": "https://hblbatteries.com/Railway-app.html",
+      "kind": "illustration",
+      "alt": "Illustration of a battery supplying backup power"
+    },
+    {
+      "name": "Train management systems",
+      "category": "Show staff how trains are moving through an area",
+      "image": "assets/products/hbl-engineering-control.svg",
+      "url": "https://www.hblelectronics.com/Railway-app.html",
+      "kind": "illustration",
+      "alt": "Illustration of a screen for railway controllers"
+    },
+    {
+      "name": "Railway data loggers",
+      "category": "Record equipment readings and events so staff can review them",
+      "image": "assets/products/hbl-engineering-loggers.svg",
+      "url": "https://www.hblelectronics.com/Railway-app.html",
+      "kind": "illustration",
+      "alt": "Illustration of an electronic device that records equipment readings"
+    },
+    {
+      "name": "Telecom backup batteries",
+      "category": "Keep communications equipment powered during interruptions",
+      "image": "assets/products/hbl-engineering-telecom.svg",
+      "url": "https://www.hblbatteries.com/About.html",
+      "kind": "illustration",
+      "alt": "Illustration of a tower that needs communications backup"
+    },
+    {
+      "name": "Aircraft batteries",
+      "category": "Specialised batteries for use on aircraft",
+      "image": "assets/products/hbl-engineering-aviation.svg",
+      "url": "https://www.hblbatteries.com/About.html",
+      "kind": "illustration",
+      "alt": "Illustration of an aircraft fitted with a specialised battery"
+    },
+    {
+      "name": "Containerised battery storage",
+      "category": "Battery banks fitted inside a container for larger power needs",
+      "image": "assets/products/hbl-engineering-storage.svg",
+      "url": "https://hblbess.com/",
+      "kind": "illustration",
+      "alt": "Illustration of an enclosure for a bank of batteries"
+    }
+  ]
+}

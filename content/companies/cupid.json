@@ -1,0 +1,121 @@
+{
+  "order": 126,
+  "company": {
+    "id": "cupid",
+    "name": "Cupid Limited",
+    "ticker": "CUPID",
+    "sector": "Consumer & retail",
+    "initial": "C",
+    "color": "#802c6b",
+    "bg": "#fbecf5",
+    "tag": "The business behind the offering",
+    "products": [
+      [
+        "Male condoms",
+        "Packaged condoms for bulk orders and retail"
+      ],
+      [
+        "Female condoms",
+        "Packaged internal condoms"
+      ],
+      [
+        "Water-based lubricant",
+        "Gel in a tube or sachet"
+      ],
+      [
+        "CupiSure pregnancy kit",
+        "Boxed test kit"
+      ],
+      [
+        "Cupid deodorant and perfume",
+        "Fragrance products for stores"
+      ],
+      [
+        "Cupid Angel deodorant",
+        "Fragrance products for stores"
+      ],
+      [
+        "Cupi Safe menstrual cup",
+        "Reusable menstrual product"
+      ]
+    ],
+    "sources": [
+      [
+        "NSE equity listing",
+        "https://www.nseindia.com/get-quotes/equity?symbol=CUPID"
+      ]
+    ],
+    "productSource": "https://www.cupidlimited.com/",
+    "productNote": "Product pack images are from Cupid’s official website. Captions describe the type of product.",
+    "checked": "18 Nov 2026",
+    "reviewed": "18 November 2026",
+    "aliases": [
+      "Cupid",
+      "CupiSure",
+      "Cupid Angel",
+      "Cupi Safe",
+      "condoms",
+      "diagnostic kits",
+      "fragrance"
+    ],
+    "logo": "assets/logos/cupid-official.webp"
+  },
+  "offerings": [
+    {
+      "name": "Male condoms",
+      "category": "Packaged condoms for bulk orders and retail",
+      "image": "assets/products/cupid-1.webp",
+      "url": "https://www.cupidlimited.com/cupid-male-condom/",
+      "kind": "pack",
+      "alt": "Cupid male condom packaging from the company website."
+    },
+    {
+      "name": "Female condoms",
+      "category": "Packaged internal condoms",
+      "image": "assets/products/cupid-2.webp",
+      "url": "https://www.cupidlimited.com/cupid-female-condom/",
+      "kind": "pack",
+      "alt": "Cupid female condom packaging from the company website."
+    },
+    {
+      "name": "Water-based lubricant",
+      "category": "Gel in a tube or sachet",
+      "image": "assets/products/cupid-3.webp",
+      "url": "https://www.cupidlimited.com/water-based-lubricant-jelly/",
+      "kind": "pack",
+      "alt": "Cupid lubricant packaging from the company website."
+    },
+    {
+      "name": "CupiSure pregnancy kit",
+      "category": "Boxed test kit",
+      "image": "assets/products/cupid-4.webp",
+      "url": "https://www.cupidlimited.com/",
+      "kind": "pack",
+      "alt": "Cupid CupiSure pregnancy test packaging."
+    },
+    {
+      "name": "Cupid deodorant and perfume",
+      "category": "Fragrance products for stores",
+      "image": "assets/products/cupid-5.webp",
+      "url": "https://www.cupidlimited.com/",
+      "kind": "pack",
+      "alt": "Cupid deodorant and perfume packaging."
+    },
+    {
+      "name": "Cupid Angel deodorant",
+      "category": "Fragrance products for stores",
+      "image": "assets/products/cupid-6.webp",
+      "url": "https://www.cupidlimited.com/",
+      "kind": "pack",
+      "alt": "Cupid Angel deodorant packaging."
+    },
+    {
+      "name": "Cupi Safe menstrual cup",
+      "category": "Reusable menstrual product",
+      "image": "assets/products/cupid-7.webp",
+      "url": "https://www.cupidlimited.com/",
+      "kind": "pack",
+      "alt": "Cupid Cupi Safe menstrual cup packaging."
+    }
+  ]
+}

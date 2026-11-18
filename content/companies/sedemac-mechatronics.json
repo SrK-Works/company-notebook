@@ -1,0 +1,121 @@
+{
+  "order": 127,
+  "company": {
+    "id": "sedemac-mechatronics",
+    "name": "SEDEMAC Mechatronics Limited",
+    "ticker": "SEDEMAC",
+    "sector": "Industrials & infrastructure",
+    "initial": "S",
+    "color": "#244e68",
+    "bg": "#eaf4f8",
+    "tag": "The business behind the offering",
+    "products": [
+      [
+        "Starter and charging controller",
+        "Runs the motor that starts the scooter engine and helps charge the battery"
+      ],
+      [
+        "Combined scooter controller",
+        "Starts the engine and adjusts how much fuel goes in"
+      ],
+      [
+        "Fuel injection controller",
+        "Controls when and how much fuel the engine gets"
+      ],
+      [
+        "Electric motor controller",
+        "Changes how much power goes to the drive motor"
+      ],
+      [
+        "Motors for small electric vehicles",
+        "Turns electricity into movement for the vehicle"
+      ],
+      [
+        "Generator set controller",
+        "The panel that starts, stops and monitors a backup generator"
+      ],
+      [
+        "Generator voltage regulator",
+        "Adjusts the generator so its electrical output stays steady"
+      ]
+    ],
+    "sources": [
+      [
+        "NSE equity listing",
+        "https://www.nseindia.com/get-quotes/equity?symbol=SEDEMAC"
+      ]
+    ],
+    "productSource": "https://www.sedemac.com/",
+    "productNote": "The gallery uses published SEDEMAC product images and labelled illustrations.",
+    "checked": "18 Nov 2026",
+    "reviewed": "18 November 2026",
+    "aliases": [
+      "Sedemec",
+      "Sedemac",
+      "SEDEMAC Mechatronics",
+      "starter generator",
+      "motor controller",
+      "generator controller",
+      "fuel injection controller"
+    ],
+    "logo": "assets/logos/sedemac-mechatronics-official.webp"
+  },
+  "offerings": [
+    {
+      "name": "Starter and charging controller",
+      "category": "Runs the motor that starts the scooter engine and helps charge the battery",
+      "image": "assets/products/sedemac-mechatronics-1.webp",
+      "url": "https://www.sedemac.com/isg",
+      "kind": "pack",
+      "alt": "SEDEMAC starter and charging controller shown in the official catalogue."
+    },
+    {
+      "name": "Combined scooter controller",
+      "category": "Starts the engine and adjusts how much fuel goes in",
+      "image": "assets/products/sedemac-mechatronics-2.webp",
+      "url": "https://www.sedemac.com/blog/isgefi",
+      "kind": "pack",
+      "alt": "SEDEMAC combined starting and fuel injection controller from the company catalogue."
+    },
+    {
+      "name": "Fuel injection controller",
+      "category": "Controls when and how much fuel the engine gets",
+      "image": "assets/products/sedemac-mechatronics-3.webp",
+      "url": "https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/1773115712615.pdf",
+      "kind": "pack",
+      "alt": "SEDEMAC fuel injection controller from the company catalogue."
+    },
+    {
+      "name": "Electric motor controller",
+      "category": "Changes how much power goes to the drive motor",
+      "image": "assets/products/sedemac-mechatronics-4.webp",
+      "url": "https://www.sedemac.com/products/small-evs",
+      "kind": "pack",
+      "alt": "SEDEMAC electric motor controller with its connector visible."
+    },
+    {
+      "name": "Motors for small electric vehicles",
+      "category": "Turns electricity into movement for the vehicle",
+      "image": "assets/products/sedemac-mechatronics-5.svg",
+      "url": "https://www.sedemac.com/motors",
+      "kind": "illustration",
+      "alt": "Concept illustration for Motors for small electric vehicles, not a product photograph."
+    },
+    {
+      "name": "Generator set controller",
+      "category": "The panel that starts, stops and monitors a backup generator",
+      "image": "assets/products/sedemac-mechatronics-6.webp",
+      "url": "https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/1773115712615.pdf",
+      "kind": "pack",
+      "alt": "Official cutaway of a backup generator showing the SEDEMAC controller panel on its enclosure."
+    },
+    {
+      "name": "Generator voltage regulator",
+      "category": "Adjusts the generator so its electrical output stays steady",
+      "image": "assets/products/sedemac-mechatronics-7.svg",
+      "url": "https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/1773115712615.pdf",
+      "kind": "illustration",
+      "alt": "Concept illustration for Generator voltage regulator, not a product photograph."
+    }
+  ]
+}

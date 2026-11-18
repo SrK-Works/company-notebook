@@ -1,0 +1,201 @@
+{
+  "summary": "SEDEMAC makes electronic boxes that tell scooter engines, electric motors and backup generators what to do. Vehicle and equipment makers buy them to fit into their machines.",
+  "description": "Think of a scooter that restarts when you are ready to pull away. A controller sends instructions to the motor that turns the engine. SEDEMAC also builds boxes that adjust fuel delivery or tell a backup generator when to start and stop. Its engineers design and test the boxes to work with each maker’s equipment.",
+  "money": "SEDEMAC earns mainly from selling controllers and related parts to manufacturers. It pays for electronic components, factory equipment, engineers, testing and assembly. A shipment can count as a sale before the manufacturer pays its bill. The sale must cover both the cost of the box and the work that went into designing it.",
+  "customers": "Vehicle and equipment manufacturers buy the boxes and fit them into scooters, small electric vehicles and generator sets. A rider buys the completed scooter from the vehicle maker’s dealer.",
+  "drivers": "How many vehicles and generators use its parts, how much the parts cost to make and whether it wins work from more manufacturers.",
+  "quick": [
+    {
+      "title": "What does it do?",
+      "text": "It designs and makes boxes that tell engines, motors and generators what to do."
+    },
+    {
+      "title": "Who pays?",
+      "text": "Companies that build vehicles and generators pay for parts they can fit into their own machines."
+    },
+    {
+      "title": "How does it earn?",
+      "text": "SEDEMAC earns from shipping parts to manufacturers."
+    },
+    {
+      "title": "What does it spend on?",
+      "text": "Electronic parts, testing, factory equipment and the engineers who design each controller."
+    }
+  ],
+  "groups": [
+    {
+      "title": "Engine starting and charging",
+      "examples": "Starter and charging controllers for scooters and motorcycles.",
+      "explanation": "A single motor can help turn the engine on and later generate electricity. The controller tells it when to do each job."
+    },
+    {
+      "title": "Fuel delivery",
+      "examples": "Electronic fuel injection controllers and combined starter and fuel controllers.",
+      "explanation": "The box tells the fuel system when and how much fuel to put into the engine. A combined box also handles starting."
+    },
+    {
+      "title": "Electric drive",
+      "examples": "Electric vehicle motor controllers and motors.",
+      "explanation": "The controller adjusts the power sent to a motor so the vehicle can move at the requested speed."
+    },
+    {
+      "title": "Backup electricity",
+      "examples": "Generator set controllers and voltage regulators.",
+      "explanation": "The controller helps run and monitor a generator. A voltage regulator adjusts the output to keep it steady."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is a controller?",
+      "text": "It is a small electronic box that reads signals, runs instructions and tells a machine what to do. A button press or a change in speed can start that sequence."
+    },
+    {
+      "title": "Why does a vehicle maker test a part before buying it?",
+      "text": "It needs to know that the part works reliably in the finished vehicle under the conditions riders will face. Development can take time before regular orders begin."
+    }
+  ],
+  "stepsTitle": "From a new design to a paid shipment",
+  "steps": [
+    {
+      "title": "Agree on the jobs the box must do",
+      "text": "The equipment maker explains which engine, motor or generator needs a controller and which tasks the box should handle."
+    },
+    {
+      "title": "Design and test a sample",
+      "text": "SEDEMAC builds the electronics and writes the instructions. The maker tests the sample in its equipment."
+    },
+    {
+      "title": "Build and ship the parts",
+      "text": "After approval, the factory assembles and tests the parts for production orders."
+    },
+    {
+      "title": "Collect the bill",
+      "text": "SEDEMAC records a sale when its delivery obligations are met. Cash comes when the bill is settled and only part of the sale is left after costs."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Combining jobs can change what the maker buys",
+      "text": "One controller can both start the engine and adjust fuel delivery. That gives SEDEMAC a chance to supply more functions per vehicle."
+    },
+    {
+      "title": "A vehicle design can lead to repeat orders",
+      "text": "If a manufacturer chooses the part for a scooter, it can keep ordering the part as long as that model sells and the design stays in use."
+    },
+    {
+      "title": "The biggest buyer deserves a separate check",
+      "text": "Changes in orders from its biggest buyer (TVS Motor, a motorcycle and scooter maker) can move SEDEMAC’s sales."
+    }
+  ],
+  "watch": [
+    [
+      "Do more vehicle makers buy its controllers?",
+      "A broader customer list can reduce the effect of changes at one manufacturer.",
+      "Compare the share of sales to the largest buyers across filings and look for parts that have moved from trials into production."
+    ],
+    [
+      "Are newer products shipping in quantity?",
+      "A design announcement can take time to become sales.",
+      "Look for factory shipments or production launches in later presentations, not just development plans."
+    ],
+    [
+      "Do generator products grow alongside vehicle parts?",
+      "Each group sells to a different set of manufacturers.",
+      "Compare the Mobility and Industrial revenue lines over several periods and see if the two groups grow at different rates."
+    ],
+    [
+      "Do sales cover the cost of making more boxes?",
+      "More production can require additional factory capacity and staff.",
+      "Compare reported segment results with revenue and look for changes in parts, equipment and staff costs."
+    ],
+    [
+      "Does the company collect payment promptly?",
+      "Money spent on electronics and staff can leave the business before customers pay.",
+      "Check trade receivables, the bills customers have not yet paid, against operating cash and sales."
+    ]
+  ],
+  "risks": [
+    [
+      "Customer concentration",
+      "A large customer ordering less can change how busy the factory is."
+    ],
+    [
+      "Semiconductor shortages",
+      "A shortage of chips can stop assembly even when the other pieces are available."
+    ],
+    [
+      "Technology changes",
+      "A vehicle maker may change the way its next model starts or drives and order a different design."
+    ],
+    [
+      "A part fails during use",
+      "A quality problem may mean repairs, replacement costs and a loss of trust with the buyer."
+    ]
+  ],
+  "helps": [
+    {
+      "title": "Matching a part to a specific machine takes know-how",
+      "text": "Experience with engines, electronics and software helps the maker adjust a box to its customer’s needs."
+    },
+    {
+      "title": "One factory can supply multiple applications",
+      "text": "SEDEMAC’s product range reaches both equipment makers and vehicle makers."
+    },
+    {
+      "title": "A broader product range adds ways to sell",
+      "text": "A maker that already uses one controller can consider related parts for future machines."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Development is paid for before regular orders",
+      "text": "Engineers and test equipment cost money while the buyer decides whether to use a new design."
+    },
+    {
+      "title": "Customer production can fluctuate",
+      "text": "If a vehicle model sells slowly, the maker can cut parts orders without changing who supplies it."
+    },
+    {
+      "title": "Electronics need a reliable supply",
+      "text": "The company may need alternate suppliers or extra stock to keep manufacturing on time."
+    }
+  ],
+  "context": [
+    "March 2026: SEDEMAC listed on the stock exchanges",
+    "Its annual results say existing shareholders sold shares in the public offer. The sale of those shares did not raise new money for the company."
+  ],
+  "sources": [
+    [
+      "Company website and application groups",
+      "https://www.sedemac.com/"
+    ],
+    [
+      "Starter and fuel module",
+      "https://www.sedemac.com/blog/isgefi"
+    ],
+    [
+      "Electric vehicle motors and controllers",
+      "https://www.sedemac.com/products/small-evs"
+    ],
+    [
+      "Prospectus and customer risks",
+      "https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/1773115712615.pdf"
+    ],
+    [
+      "Audited annual and segment results",
+      "https://nsearchives.nseindia.com/corporate/SEDEMAC2007_18052026165639_20260518_Outcome_of_Board_Meeting.pdf"
+    ],
+    [
+      "September 2026 credit rating filed by the company",
+      "https://www.sedemac.com/static/media/SEDEMAC_Intimation_of_Credit_Rating_15_sept_2026.1d6713a4a09fe5ad6e5c.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Compare the two reported groups",
+      "text": "Mobility covers parts for vehicles, and Industrial includes generator products. The segment results measure the parts of the business before tax and before some costs and income shared across the company."
+    }
+  ],
+  "financialCue": "Compare how much Mobility and Industrial earn before shared company costs, then read the whole-company profit after tax.",
+  "checked": "18 November 2026"
+}

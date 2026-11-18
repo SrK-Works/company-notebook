@@ -1,0 +1,125 @@
+{
+  "order": 125,
+  "company": {
+    "id": "sai-silks-kalamandir",
+    "name": "Sai Silks (Kalamandir) Limited",
+    "ticker": "KALAMANDIR",
+    "sector": "Consumer & retail",
+    "initial": "S",
+    "color": "#983354",
+    "bg": "#fff0f4",
+    "tag": "The business behind the offering",
+    "products": [
+      [
+        "Kalamandir sarees",
+        "Sarees for everyday wear and occasions"
+      ],
+      [
+        "Occasion silk sarees",
+        "Silk sarees for weddings and festivals"
+      ],
+      [
+        "Brand Mandir",
+        "Sarees and occasion clothing"
+      ],
+      [
+        "KLM Fashion Mall",
+        "Everyday and occasion clothing for families"
+      ],
+      [
+        "Valli Silks",
+        "Sarees and family clothing"
+      ],
+      [
+        "Desi Sitara",
+        "Ethnic and fusion clothing"
+      ],
+      [
+        "Rasamayi Jewellery",
+        "Silver jewellery for everyday wear and occasions"
+      ]
+    ],
+    "sources": [
+      [
+        "NSE equity listing",
+        "https://www.nseindia.com/get-quotes/equity?symbol=KALAMANDIR"
+      ]
+    ],
+    "productSource": "https://sskl.co.in/brands/",
+    "productNote": "The gallery includes published product images from Sai Silks brands and labelled illustrations.",
+    "checked": "18 Nov 2026",
+    "reviewed": "18 November 2026",
+    "aliases": [
+      "Kalmandir",
+      "Kalamandir",
+      "Sai Silks",
+      "SSKL",
+      "Brand Mandir",
+      "Kancheepuram Varamahalakshmi Silks",
+      "KLM Fashion Mall",
+      "Valli Silks",
+      "Desi Sitara",
+      "Rasamayi Jewellery",
+      "sarees"
+    ],
+    "logo": "assets/logos/sai-silks-kalamandir-official.webp"
+  },
+  "offerings": [
+    {
+      "name": "Kalamandir sarees",
+      "category": "Sarees for everyday wear and occasions",
+      "image": "assets/products/sai-silks-kalamandir-1.svg",
+      "url": "https://kalamandir.com/",
+      "kind": "illustration",
+      "alt": "Concept illustration for Kalamandir sarees, not a product photograph."
+    },
+    {
+      "name": "Occasion silk sarees",
+      "category": "Silk sarees for weddings and festivals",
+      "image": "assets/products/sai-silks-kalamandir-2.webp",
+      "url": "https://kanchivml.com/",
+      "kind": "pack",
+      "alt": "A model wears a red silk saree with a blue border in the brand’s festive collection."
+    },
+    {
+      "name": "Brand Mandir",
+      "category": "Sarees and occasion clothing",
+      "image": "assets/products/sai-silks-kalamandir-3.svg",
+      "url": "https://brandmandir.com/",
+      "kind": "illustration",
+      "alt": "Concept illustration for Brand Mandir, not a product photograph."
+    },
+    {
+      "name": "KLM Fashion Mall",
+      "category": "Everyday and occasion clothing for families",
+      "image": "assets/products/sai-silks-kalamandir-4.svg",
+      "url": "https://www.klmfashionmall.com/",
+      "kind": "illustration",
+      "alt": "Concept illustration for KLM Fashion Mall, not a product photograph."
+    },
+    {
+      "name": "Valli Silks",
+      "category": "Sarees and family clothing",
+      "image": "assets/products/sai-silks-kalamandir-5.svg",
+      "url": "https://thevallisilks.com/",
+      "kind": "illustration",
+      "alt": "Concept illustration for Valli Silks, not a product photograph."
+    },
+    {
+      "name": "Desi Sitara",
+      "category": "Ethnic and fusion clothing",
+      "image": "assets/products/sai-silks-kalamandir-6.svg",
+      "url": "https://desisitara.com/",
+      "kind": "illustration",
+      "alt": "Concept illustration for Desi Sitara, not a product photograph."
+    },
+    {
+      "name": "Rasamayi Jewellery",
+      "category": "Silver jewellery for everyday wear and occasions",
+      "image": "assets/products/sai-silks-kalamandir-7.webp",
+      "url": "https://rasamayijewellery.com/",
+      "kind": "pack",
+      "alt": "Ornate gold-coloured earrings with green beads from the Rasamayi catalogue."
+    }
+  ]
+}

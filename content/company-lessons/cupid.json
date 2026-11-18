@@ -1,0 +1,201 @@
+{
+  "summary": "Cupid makes condoms, water-based lubricants and diagnostic test kits. It supplies organisations that buy in bulk and also sells products such as deodorants through shops and distributors.",
+  "description": "Cupid makes and packs items for two kinds of customer. A public health organisation may order a large batch of condoms to distribute. A shop can buy Cupid-branded fragrance or personal care products through a distributor, then sell a pack at a time to shoppers.",
+  "money": "Cupid earns from shipping and selling finished goods. Its costs include materials, packaging, factory staff, running equipment and sending orders. Selling consumer products also takes promotion and a network to stock shops. A bulk order may be recorded as a sale before the buyer pays.",
+  "customers": "Health agencies, governments, distributors and other business buyers place bulk orders. In consumer retail, distributors and stores buy products for resale, while shoppers buy the final packs.",
+  "drivers": "How often big buyers place orders, how quickly stores reorder consumer products and how much Cupid spends making and selling each pack.",
+  "quick": [
+    {
+      "title": "What does it do?",
+      "text": "It makes condoms, lubricants and test kits and sells consumer products such as deodorant."
+    },
+    {
+      "title": "Who pays?",
+      "text": "Health programmes and distributors may buy in bulk. Shops stock packs for individual shoppers."
+    },
+    {
+      "title": "How does it earn?",
+      "text": "It earns when it sells finished products and meets the terms of delivery."
+    },
+    {
+      "title": "What does it spend on?",
+      "text": "Materials, packaging, staff, factories and getting products into shops and to larger customers."
+    }
+  ],
+  "groups": [
+    {
+      "title": "Bulk condom orders",
+      "examples": "Male and female condoms.",
+      "explanation": "Organisations can buy and distribute finished packs under public health programmes."
+    },
+    {
+      "title": "Lubricants",
+      "examples": "Water-based lubricant jelly in packaged formats.",
+      "explanation": "Cupid sells the gel through its product distribution routes."
+    },
+    {
+      "title": "Tests done outside the body",
+      "examples": "Rapid diagnostic kits and pregnancy test kits.",
+      "explanation": "The kits are sold to buyers that need a packaged test for a sample."
+    },
+    {
+      "title": "Personal care products",
+      "examples": "Cupid and Cupid Angel deodorants, perfumes and other consumer products.",
+      "explanation": "The company reaches shoppers through stores and consumer distribution."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is a tender?",
+      "text": "A tender is a buyer’s invitation for competing suppliers to offer prices, delivery schedules and other terms. The size of an order can change from one award to the next."
+    },
+    {
+      "title": "What is a distributor?",
+      "text": "A distributor buys or moves stock from a maker to many shops. Supplying a distributor can reach shoppers far beyond the factory."
+    }
+  ],
+  "stepsTitle": "From materials to a paid order",
+  "steps": [
+    {
+      "title": "Receive a buyer’s order",
+      "text": "A large buyer chooses quantities and terms or a distributor orders packs for stores."
+    },
+    {
+      "title": "Make, test and pack goods",
+      "text": "The factory prepares the goods and checks the batch before it leaves."
+    },
+    {
+      "title": "Ship and record the sale",
+      "text": "The goods go to the buyer or distributor. The payment date depends on the agreed terms."
+    },
+    {
+      "title": "Collect payment",
+      "text": "Cash arrives when the buyer settles the bill. The sale must cover the cost of manufacturing, shipping and promoting the goods."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Bulk buying can arrive in bursts",
+      "text": "A public tender can supply many packs at once. A repeat shop order typically serves a smaller purchase, and may come more often."
+    },
+    {
+      "title": "Qualification is part of selling",
+      "text": "Some institutional buyers require a manufacturer to pass product and factory approval checks before it can bid."
+    },
+    {
+      "title": "Retail adds a different expense",
+      "text": "Getting fragrance onto shelves requires distribution and promotion. The buyer’s first order is useful only if shoppers keep buying."
+    }
+  ],
+  "watch": [
+    [
+      "Are stores placing repeat orders?",
+      "A first shipment to new stores only tells you the shop took stock.",
+      "Read Cupid’s presentation for consumer sales and any evidence of reorders or stock the shops sold."
+    ],
+    [
+      "Do big orders move from announcement to delivery?",
+      "An award can bring sales across multiple periods.",
+      "Compare order announcements with finished shipments and reported sales. Check if the announced order sets a delivery timetable."
+    ],
+    [
+      "What share comes from each product family?",
+      "Condoms and personal care can involve different manufacturing and selling costs.",
+      "Check the company’s sales mix, then look for what the financial statements disclose about profits."
+    ],
+    [
+      "Is cash coming in as sales grow?",
+      "Customers can owe more money when bulk orders rise.",
+      "Compare the unpaid customer bills and cash from operations with revenue. Look for the share of bills past their payment dates."
+    ],
+    [
+      "How much profit comes from making and selling goods?",
+      "An investment revaluation also affects reported profit.",
+      "Read the audited expense and other income rows separately from product sales. Check whether the change in investment value required a sale."
+    ]
+  ],
+  "risks": [
+    [
+      "Public procurement slows",
+      "A change in health budgets or tender schedules can move bulk orders to another period."
+    ],
+    [
+      "A product fails a buyer’s checks",
+      "A rejected batch can delay shipment and add replacement or testing costs."
+    ],
+    [
+      "Export exchange rates move",
+      "The value in rupees can change when overseas buyers pay in another currency."
+    ],
+    [
+      "Retail brands compete for space",
+      "Shops have limited shelf room and may give it to better-selling products."
+    ]
+  ],
+  "helps": [
+    {
+      "title": "One factory network makes related goods",
+      "text": "Related packaged products can be sold to buyers that already need procurement and delivery."
+    },
+    {
+      "title": "Different buyers place different orders",
+      "text": "Institutions can take large shipments while retail stores can serve people buying one pack."
+    },
+    {
+      "title": "Product approvals open some bulk orders",
+      "text": "Meeting a programme’s requirements makes Cupid eligible for some orders with strict purchase rules."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Retail ranges need promotion",
+      "text": "A retail buyer can choose another brand even if the store stocks Cupid."
+    },
+    {
+      "title": "Expansion spends money before orders arrive",
+      "text": "Equipment and facilities have to be paid for before they make enough products to cover their cost."
+    },
+    {
+      "title": "Large buyers may take time to pay",
+      "text": "Outstanding bills can use up cash that would otherwise fund the next batch."
+    }
+  ],
+  "context": [
+    "November 2026: Cupid publishes a breakdown of its sales by product",
+    "The latest investor presentation separates sales of male and female condoms, test kits and consumer products. It also distinguishes these sales from other operating revenue."
+  ],
+  "sources": [
+    [
+      "Company products and packaging",
+      "https://www.cupidlimited.com/"
+    ],
+    [
+      "Bulk buyers and products",
+      "https://www.cupidlimited.com/about-us/"
+    ],
+    [
+      "NSE audited consolidated annual figures",
+      "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_INDAS_158054_15052026184802_iXBRL_WEB.html"
+    ],
+    [
+      "September 2026 company filing",
+      "https://nsearchives.nseindia.com/corporate/CUPID_11112026182708_Outcome_of_BM_held_on_11112026.pdf"
+    ],
+    [
+      "September 2026 investor presentation",
+      "https://nsearchives.nseindia.com/corporate/CUPID_11112026203934_SE_Intimation_Investor_Presentation_Q2H1FY27.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Read product sales separately from other gains",
+      "text": "The table covers Cupid and the companies it controls. Annual profit includes changes in what investments were worth on paper, which are different from cash received from customers."
+    },
+    {
+      "title": "Use the sales mix for what sold",
+      "text": "Cupid discloses product sales in its presentation. The table does not assign annual profit to each product."
+    }
+  ],
+  "financialCue": "Read operating revenue alongside group profit, and check the change in investment values shown in the accounts.",
+  "checked": "18 November 2026"
+}

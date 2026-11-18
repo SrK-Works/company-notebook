@@ -1,0 +1,205 @@
+{
+  "summary": "YES BANK takes deposits, provides accounts and payment services, and lends money to people and businesses. It earns from interest, fees and income on investments.",
+  "description": "A household may keep money in a savings account, while a shop borrows to buy stock for a busy season. The bank pays for the use of some deposited money and charges interest on the shop’s loan. It also helps businesses collect payments and holds investments such as government bonds.",
+  "money": "YES BANK’s main source of earnings is interest on loans and investments after accounting for the interest it pays for funding. Some accounts and services also bring in fees. Staff, branches, software and expected losses from borrowers who fail to pay all reduce profit.",
+  "customers": "Individuals pay interest on loans and may pay card fees. Companies pay for borrowing, collecting money and moving it between accounts. Depositors provide money the bank can use and may earn interest from the bank.",
+  "drivers": "What the bank pays for deposits, how much interest and fees it earns, and how much it expects to lose when people cannot repay loans.",
+  "quick": [
+    {
+      "title": "What does it do?",
+      "text": "It provides accounts, lends money and helps people and businesses make payments."
+    },
+    {
+      "title": "Who pays?",
+      "text": "Borrowers pay interest. Customers can also pay for certain account, card and business services."
+    },
+    {
+      "title": "How does it earn?",
+      "text": "It earns interest on loans and investments and pays interest to get money to fund them. It also earns fees."
+    },
+    {
+      "title": "What does it spend on?",
+      "text": "Interest paid, branches, staff, software and expected losses on loans."
+    }
+  ],
+  "groups": [
+    {
+      "title": "Savings and deposits",
+      "examples": "Savings accounts, current accounts and fixed deposits.",
+      "explanation": "A bank uses deposited money to fund part of its business and owes it back under the terms of the account."
+    },
+    {
+      "title": "Personal loans and cards",
+      "examples": "Home loans and credit cards.",
+      "explanation": "One product finances a home. The other lets a customer spend from a credit limit and settle a bill later."
+    },
+    {
+      "title": "Business banking",
+      "examples": "Company accounts, business loans, collections and payments.",
+      "explanation": "Firms can borrow to buy stock or equipment and use accounts to collect money from customers."
+    },
+    {
+      "title": "Investments and market services",
+      "examples": "Government securities and services that turn one currency into another.",
+      "explanation": "The bank invests some funds and can help firms manage payments in foreign currencies. In the accounts these activities can fall under Treasury."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is net interest income?",
+      "text": "It is the interest the bank earns minus the interest it pays. It measures what is left from interest before staff costs, expected loan losses and tax."
+    },
+    {
+      "title": "What is a provision for a loan loss?",
+      "text": "It is a charge the bank records when it expects some money it lent may be difficult to collect. It lowers reported profit before the final loss is known."
+    },
+    {
+      "title": "Why are deposits different from sales?",
+      "text": "The bank owes deposited money back to its customers. Only the earnings it makes from using the funding or providing services are income."
+    }
+  ],
+  "stepsTitle": "From deposits to loan payments",
+  "steps": [
+    {
+      "title": "Take and look after deposits",
+      "text": "People and firms leave money in accounts. The bank may pay interest on some deposits."
+    },
+    {
+      "title": "Assess a borrower and lend",
+      "text": "The bank checks whether the person or firm can repay. If it approves the loan, it pays out the money."
+    },
+    {
+      "title": "Collect repayments and fees",
+      "text": "The customer makes scheduled payments. Part returns the money borrowed and part pays interest. The bank can record interest when earned, before every payment arrives."
+    },
+    {
+      "title": "Set aside money for possible losses",
+      "text": "If repayments look doubtful, the bank records an expected loss. Earnings still need to cover interest paid to depositors and the costs of running the bank."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Business accounts can attract day-to-day deposits",
+      "text": "Companies use current accounts to receive and pay money. Those balances can help the bank fund loans without paying the interest it offers on fixed deposits."
+    },
+    {
+      "title": "The bank reports retail and corporate banking separately",
+      "text": "A home loan and a large company loan have different sizes and risks. Read the disclosed results of those business groups separately."
+    },
+    {
+      "title": "Changes in investment prices can move Treasury income",
+      "text": "The bank’s government bonds and other investments can change in value as interest rates move. This can affect reported earnings alongside loan interest."
+    }
+  ],
+  "watch": [
+    [
+      "Is it paying more to attract deposits?",
+      "More interest paid can eat into lending earnings even if the bank makes more loans.",
+      "Compare the cost of deposits with the interest earned and check whether growth depends more on fixed deposits."
+    ],
+    [
+      "Are newer loans staying current?",
+      "Problems can be masked for a while when the loan book is growing.",
+      "Read the bank’s reports on overdue and newly troubled loans across several periods, and check which borrowers are falling behind."
+    ],
+    [
+      "What changed in retail banking?",
+      "The retail business can have different costs and losses from large-company lending.",
+      "Compare retail segment income and result over time and look for the bank’s explanation of spending and provisions."
+    ],
+    [
+      "How much comes from day-to-day lending and fees?",
+      "Income can move when the bank sells an investment or changes what it expects to collect.",
+      "Read notes on fees, treasury and provisions alongside the change in profit. Check whether the bank describes a large one-off item."
+    ],
+    [
+      "Does the bank have room to absorb losses?",
+      "Banks need their own funds as a cushion when borrowers fail to pay.",
+      "Compare the bank’s required and reported capital ratios, which measure the size of that cushion against the risks it takes."
+    ]
+  ],
+  "risks": [
+    [
+      "Borrowers fail to repay",
+      "The bank may have to set aside more money and later write off what it cannot collect."
+    ],
+    [
+      "Depositors seek better rates",
+      "The bank may have to pay more to keep funding or replace funds that leave."
+    ],
+    [
+      "Technology outages",
+      "A failed payment system can disrupt transfers and put customer trust at risk."
+    ],
+    [
+      "Large business loans can add concentration",
+      "When a few borrowers owe a large amount, trouble at one can affect the bank’s overall losses."
+    ]
+  ],
+  "helps": [
+    {
+      "title": "Accounts keep customers coming back",
+      "text": "People and firms use bank accounts repeatedly to receive, transfer and spend money."
+    },
+    {
+      "title": "Business customers can buy more than a loan",
+      "text": "A borrower can also use the bank for collections, payments or trade services."
+    },
+    {
+      "title": "A broad customer base spreads activity",
+      "text": "The bank serves households, smaller firms and large companies with different borrowing and payment needs."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Branches and staff cost money every month",
+      "text": "A bigger network needs regular account and lending activity to cover its bills."
+    },
+    {
+      "title": "Loan losses can follow growth with a delay",
+      "text": "Borrowing may look healthy while loans are new. Repayment problems can take time to appear."
+    },
+    {
+      "title": "Outside rates can move earnings",
+      "text": "When market rates change, income and funding costs can adjust at different speeds."
+    }
+  ],
+  "context": [
+    "October 2026: YES BANK publishes its September results",
+    "The exchange filing includes the bank group’s separate business results and its latest figures on loan quality."
+  ],
+  "sources": [
+    [
+      "Banking and products",
+      "https://www.yes.bank.in/home"
+    ],
+    [
+      "Business accounts and services",
+      "https://www.yes.bank.in/business-banking"
+    ],
+    [
+      "Annual reports and group structure",
+      "https://www.yes.bank.in/sites/yesbank/about-us/investors-relation/financial-information/annual-reports"
+    ],
+    [
+      "Signed audited FY 2025–26 results",
+      "https://nsearchives.nseindia.com/corporate/YESBANK_18042026135748_YBL_SE_Intimation_Outcome_BM_signed.pdf"
+    ],
+    [
+      "September 2026 consolidated filing",
+      "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_BANKING_203953_24102026174832_iXBRL_WEB.html"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Read total income before bank costs",
+      "text": "Total income includes gross interest and other earnings. Interest the bank paid for its funding, operating bills and expected loan losses are later costs."
+    },
+    {
+      "title": "Read the reported business results before tax",
+      "text": "The group accounts can include results from companies that YES BANK controls. Its segment results are measured before tax, while group net profit in the notes is after tax."
+    }
+  ],
+  "financialCue": "Compare retail and corporate banking on the same reported measure, then read the bank group’s profit after tax.",
+  "checked": "18 November 2026"
+}

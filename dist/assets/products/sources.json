@@ -1,5 +1,5 @@
 {
-  "reviewed": "2026-10-05",
+  "reviewed": "2026-11-18",
   "note": "Official images retain their owners’ rights. Illustrations are original conceptual artwork, not screenshots or photos.",
   "assets": [
     {
@@ -9120,6 +9120,1057 @@
       "url": "https://www.cdslindia.com/downloads/IPO/GeneralMeeting/CDSL%20IR%202025-26.pdf#page=339",
       "kind": "illustration",
       "alt": "Illustration showing policy or receipt then record stored then holder can view"
+    },
+    {
+      "company": "dcx-systems",
+      "name": "Cable assemblies",
+      "category": "Connect pieces of equipment so power or signals can pass between them",
+      "image": "assets/products/dcx-systems-cables.webp",
+      "url": "https://dcxindia.com/cable-assemblies/",
+      "kind": "pack",
+      "alt": "A close-up of cables with metal connectors",
+      "src": "https://dcxindia.com/wp-content/uploads/2026/04/Cable-Assemblies-banner-1.jpg"
+    },
+    {
+      "company": "dcx-systems",
+      "name": "Wire harnesses",
+      "category": "Hold wires together so they fit into the equipment in the right places",
+      "image": "assets/products/dcx-systems-harness.webp",
+      "url": "https://dcxindia.com/cable-assemblies/",
+      "kind": "pack",
+      "alt": "Bundled wires and cable ends laid out in a company product collage",
+      "src": "https://dcxindia.com/wp-content/uploads/2026/07/Cable-Assemblies-side-creative-1-3.png"
+    },
+    {
+      "company": "dcx-systems",
+      "name": "Circuit board assembly",
+      "category": "Fit electronic parts onto a board so they can work together",
+      "image": "assets/products/dcx-systems-board.webp",
+      "url": "https://dcxindia.com/electronics-manufacturing/",
+      "kind": "pack",
+      "alt": "Company artwork showing electronic parts being fitted to a green circuit board",
+      "src": "https://dcxindia.com/wp-content/uploads/2026/04/Electronics-Manufacturing-side-creative-3-1.png"
+    },
+    {
+      "company": "dcx-systems",
+      "name": "Box builds",
+      "category": "Install boards and wiring in a protective metal case",
+      "image": "assets/products/dcx-systems-box.webp",
+      "url": "https://dcxindia.com/sub-systems/",
+      "kind": "pack",
+      "alt": "Company product image showing boards and connectors inside a metal case",
+      "src": "https://dcxindia.com/wp-content/uploads/2026/06/System-Integration-side-creative-5.png"
+    },
+    {
+      "company": "dcx-systems",
+      "name": "Electronic module assembly",
+      "category": "Put parts together into one unit that fits into a larger system",
+      "image": "assets/products/dcx-systems-sub.webp",
+      "url": "https://dcxindia.com/sub-systems/",
+      "kind": "photo",
+      "alt": "A worker assembling a unit at an electronics workbench",
+      "src": "https://dcxindia.com/wp-content/uploads/2026/04/Box-Builds-2-1.jpg"
+    },
+    {
+      "company": "dcx-systems",
+      "name": "Production and testing",
+      "category": "Check assembled electronics before sending them to the buyer",
+      "image": "assets/products/dcx-systems-test.webp",
+      "url": "https://dcxindia.com/electronics-manufacturing/",
+      "kind": "photo",
+      "alt": "A row of workstations at an electronics manufacturing facility",
+      "src": "https://dcxindia.com/wp-content/uploads/2026/02/electronic-manufacturing-1.jpg"
+    },
+    {
+      "company": "dcx-systems",
+      "name": "Parts kits",
+      "category": "Collect the parts needed for an assembly into one package",
+      "image": "assets/products/dcx-systems-kitting.svg",
+      "url": "https://dcxindia.com/dcx-advantage/capabilities/",
+      "kind": "illustration",
+      "alt": "Drawing of a box divided into compartments holding parts",
+      "src": "original",
+      "credit": "Company Notebook"
+    },
+    {
+      "company": "doms-industries",
+      "name": "Neon pencils",
+      "category": "Wooden pencils for writing and drawing",
+      "image": "assets/products/doms-industries-pencils.webp",
+      "url": "https://domsindia.com/all-categorys/",
+      "kind": "pack",
+      "alt": "a pack of DOMS Neon pencils — company image",
+      "src": "https://domsindia.com/wp-content/uploads/2025/04/158-scaled.webp"
+    },
+    {
+      "company": "doms-industries",
+      "name": "Inxon ballpoint pens",
+      "category": "Ink pens for everyday writing",
+      "image": "assets/products/doms-industries-ballpoint.webp",
+      "url": "https://domsindia.com/all-categorys/",
+      "kind": "pack",
+      "alt": "DOMS Inxon ballpoint pens — company image",
+      "src": "https://domsindia.com/wp-content/uploads/2025/03/Untitled-design-scaled.webp"
+    },
+    {
+      "company": "doms-industries",
+      "name": "Brush pens",
+      "category": "Flexible pen tips for broad or fine strokes",
+      "image": "assets/products/doms-industries-brush-pens.webp",
+      "url": "https://domsindia.com/all-categorys/",
+      "kind": "pack",
+      "alt": "DOMS brush pens — company image",
+      "src": "https://domsindia.com/wp-content/uploads/2025/04/327-1-scaled.webp"
+    },
+    {
+      "company": "doms-industries",
+      "name": "Wax crayons",
+      "category": "Colored sticks for drawing on paper",
+      "image": "assets/products/doms-industries-crayons.webp",
+      "url": "https://domsindia.com/all-categorys/",
+      "kind": "pack",
+      "alt": "DOMS wax crayons — company image",
+      "src": "https://domsindia.com/wp-content/uploads/2025/04/109-scaled.webp"
+    },
+    {
+      "company": "doms-industries",
+      "name": "Paper stationery",
+      "category": "Notebooks and other paper supplies",
+      "image": "assets/products/doms-industries-notebooks.svg",
+      "url": "https://domsindia.com/all-categorys/",
+      "kind": "illustration",
+      "alt": "Illustration of a ruled notebook",
+      "src": null
+    },
+    {
+      "company": "doms-industries",
+      "name": "Geometry sets",
+      "category": "Rulers, compasses and school drawing tools",
+      "image": "assets/products/doms-industries-geometry.svg",
+      "url": "https://domsindia.com/all-categorys/",
+      "kind": "illustration",
+      "alt": "Illustration of a school geometry kit",
+      "src": null
+    },
+    {
+      "company": "doms-industries",
+      "name": "Baby diapers",
+      "category": "Baby care products through Uniclan Healthcare",
+      "image": "assets/products/doms-industries-diapers.svg",
+      "url": "https://domsindia.com/pdf/Investor_Relations/Investor_Presentation_and_Transcripts/DOMS_Investor_Presentation_Q2FY27.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a diaper",
+      "src": null
+    },
+    {
+      "company": "mahindra-logistics",
+      "name": "Warehousing",
+      "category": "Receiving, storing and picking goods for another business",
+      "image": "assets/products/mahindra-logistics-warehouse.webp",
+      "url": "https://mahindralogistics.com/scalable-warehousing-transportation-solutions/",
+      "kind": "photo",
+      "alt": "a warehouse with storage shelves — company image",
+      "src": "https://mahindralogistics.com/wp-content/uploads/2023/03/Integrated_Warehousing_And_Distribution.jpg"
+    },
+    {
+      "company": "mahindra-logistics",
+      "name": "Factory-to-depot transport",
+      "category": "Trucks move goods from factories to storage or selling locations",
+      "image": "assets/products/mahindra-logistics-transport.webp",
+      "url": "https://mahindralogistics.com/contract-logistics/transport-desk-management/",
+      "kind": "photo",
+      "alt": "a goods truck — company image",
+      "src": "https://mahindralogistics.com/wp-content/uploads/2023/02/1435-x-408px-Full-Truck-Load-Transportation-02.jpg"
+    },
+    {
+      "company": "mahindra-logistics",
+      "name": "Rivigo business express",
+      "category": "Fast shipping for business consignments",
+      "image": "assets/products/mahindra-logistics-express.svg",
+      "url": "https://mahindralogistics.com/jvs-subsidiaries/",
+      "kind": "illustration",
+      "alt": "Illustration of a truck moving a business shipment",
+      "src": null
+    },
+    {
+      "company": "mahindra-logistics",
+      "name": "Last-mile delivery",
+      "category": "The final trip that brings goods to a doorstep",
+      "image": "assets/products/mahindra-logistics-last-mile.svg",
+      "url": "https://mahindralogistics.com/",
+      "kind": "illustration",
+      "alt": "Illustration of a parcel ready for the final delivery",
+      "src": null
+    },
+    {
+      "company": "mahindra-logistics",
+      "name": "Overseas freight",
+      "category": "Booking and coordinating cargo by air or sea",
+      "image": "assets/products/mahindra-logistics-freight.svg",
+      "url": "https://mahindralogistics.com/freight-forwarding-solutions/",
+      "kind": "illustration",
+      "alt": "Illustration of a plane carrying freight",
+      "src": null
+    },
+    {
+      "company": "mahindra-logistics",
+      "name": "Employee transport",
+      "category": "Scheduled rides between pickup points and workplaces",
+      "image": "assets/products/mahindra-logistics-employees.svg",
+      "url": "https://mahindralogistics.com/",
+      "kind": "illustration",
+      "alt": "Illustration of a shuttle bus for employee transport",
+      "src": null
+    },
+    {
+      "company": "mahindra-logistics",
+      "name": "Moving stock inside factories",
+      "category": "Bringing the right parts to the production line when needed",
+      "image": "assets/products/mahindra-logistics-plant.webp",
+      "url": "https://mahindralogistics.com/contract-logistics/",
+      "kind": "photo",
+      "alt": "a site for moving supplies inside a factory — company image",
+      "src": "https://mahindralogistics.com/wp-content/uploads/2023/05/1435-x-408px-In-Plant-Logistics-Contract-Logistics.jpg"
+    },
+    {
+      "company": "concord-control-systems",
+      "name": "Coach electrical connections",
+      "category": "Equipment connecting electrical circuits from one carriage to another",
+      "image": "assets/products/concord-control-systems-coaching.webp",
+      "url": "https://www.concordgroup.in/",
+      "kind": "pack",
+      "alt": "electrical connection equipment for passenger coaches — company image",
+      "src": "https://www.concordgroup.in/img/product-groups/coaching-systems.webp"
+    },
+    {
+      "company": "concord-control-systems",
+      "name": "Railway chargers",
+      "category": "Equipment for supplying power to onboard devices",
+      "image": "assets/products/concord-control-systems-charger.webp",
+      "url": "https://www.concordgroup.in/accessories",
+      "kind": "pack",
+      "alt": "a cabinet supplying power to onboard railway devices — company image",
+      "src": "https://www.concordgroup.in/img/dossier/battery-chargers/battery-charger-bank.webp"
+    },
+    {
+      "company": "concord-control-systems",
+      "name": "Driver displays and controls",
+      "category": "Screens that give the driver train information and controls",
+      "image": "assets/products/concord-control-systems-cab.webp",
+      "url": "https://www.concordgroup.in/",
+      "kind": "pack",
+      "alt": "a train cab with displays and controls — company image",
+      "src": "https://www.concordgroup.in/img/platform-smart-trains-cab.webp"
+    },
+    {
+      "company": "concord-control-systems",
+      "name": "Freight locomotive coordination",
+      "category": "Controls that link engines spread through one freight train",
+      "image": "assets/products/concord-control-systems-coordination.webp",
+      "url": "https://www.concordgroup.in/",
+      "kind": "pack",
+      "alt": "electronic equipment that coordinates engines on one freight train — company image",
+      "src": "https://www.concordgroup.in/img/products/prd-locosync-dpwcs.webp"
+    },
+    {
+      "company": "concord-control-systems",
+      "name": "Trackside wheel monitoring",
+      "category": "Equipment that checks how a wheel loads the rail as it passes",
+      "image": "assets/products/concord-control-systems-track.svg",
+      "url": "https://www.concordgroup.in/",
+      "kind": "illustration",
+      "alt": "Illustration of a sensor beside the tracks",
+      "src": null
+    },
+    {
+      "company": "concord-control-systems",
+      "name": "Data loggers",
+      "category": "Boards that record readings for later inspection",
+      "image": "assets/products/concord-control-systems-logger.webp",
+      "url": "https://www.concordgroup.in/accessories",
+      "kind": "pack",
+      "alt": "an electronic board that records equipment readings — company image",
+      "src": "https://www.concordgroup.in/img/dossier/accessories/dta_logger.webp"
+    },
+    {
+      "company": "concord-control-systems",
+      "name": "Signalling control panels",
+      "category": "Electrical panels that support train signalling and protection",
+      "image": "assets/products/concord-control-systems-signals.webp",
+      "url": "https://www.concordgroup.in/",
+      "kind": "pack",
+      "alt": "a cabinet used to control railway signals — company image",
+      "src": "https://www.concordgroup.in/img/dossier/control-distribution-panels/colour-light-signalling-panel.webp"
+    },
+    {
+      "company": "hbl-engineering",
+      "name": "Kavach train protection",
+      "category": "Equipment helps prevent trains from moving unsafely",
+      "image": "assets/products/hbl-engineering-protection.svg",
+      "url": "https://www.hblelectronics.com/Railway-app.html",
+      "kind": "illustration",
+      "alt": "Illustration of a train fitted with protection equipment",
+      "src": null
+    },
+    {
+      "company": "hbl-engineering",
+      "name": "Railway backup batteries",
+      "category": "Keep equipment working when the usual power supply is lost",
+      "image": "assets/products/hbl-engineering-backup.svg",
+      "url": "https://hblbatteries.com/Railway-app.html",
+      "kind": "illustration",
+      "alt": "Illustration of a battery supplying backup power",
+      "src": null
+    },
+    {
+      "company": "hbl-engineering",
+      "name": "Train management systems",
+      "category": "Show staff how trains are moving through an area",
+      "image": "assets/products/hbl-engineering-control.svg",
+      "url": "https://www.hblelectronics.com/Railway-app.html",
+      "kind": "illustration",
+      "alt": "Illustration of a screen for railway controllers",
+      "src": null
+    },
+    {
+      "company": "hbl-engineering",
+      "name": "Railway data loggers",
+      "category": "Record equipment readings and events so staff can review them",
+      "image": "assets/products/hbl-engineering-loggers.svg",
+      "url": "https://www.hblelectronics.com/Railway-app.html",
+      "kind": "illustration",
+      "alt": "Illustration of an electronic device that records equipment readings",
+      "src": null
+    },
+    {
+      "company": "hbl-engineering",
+      "name": "Telecom backup batteries",
+      "category": "Keep communications equipment powered during interruptions",
+      "image": "assets/products/hbl-engineering-telecom.svg",
+      "url": "https://www.hblbatteries.com/About.html",
+      "kind": "illustration",
+      "alt": "Illustration of a tower that needs communications backup",
+      "src": null
+    },
+    {
+      "company": "hbl-engineering",
+      "name": "Aircraft batteries",
+      "category": "Specialised batteries for use on aircraft",
+      "image": "assets/products/hbl-engineering-aviation.svg",
+      "url": "https://www.hblbatteries.com/About.html",
+      "kind": "illustration",
+      "alt": "Illustration of an aircraft fitted with a specialised battery",
+      "src": null
+    },
+    {
+      "company": "hbl-engineering",
+      "name": "Containerised battery storage",
+      "category": "Battery banks fitted inside a container for larger power needs",
+      "image": "assets/products/hbl-engineering-storage.svg",
+      "url": "https://hblbess.com/",
+      "kind": "illustration",
+      "alt": "Illustration of an enclosure for a bank of batteries",
+      "src": null
+    },
+    {
+      "company": "poonawalla-fincorp",
+      "name": "Personal loans",
+      "category": "Money for individual expenses, repaid over time",
+      "image": "assets/products/poonawalla-fincorp-personal.svg",
+      "url": "https://poonawallafincorp.com/documents/20121/0/PFL-Annual-Report-FY-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a personal loan agreement",
+      "src": null
+    },
+    {
+      "company": "poonawalla-fincorp",
+      "name": "Business loans",
+      "category": "Money a small firm can use for purchases and operating needs",
+      "image": "assets/products/poonawalla-fincorp-business.svg",
+      "url": "https://poonawallafincorp.com/documents/20121/0/PFL-Annual-Report-FY-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a small business that could apply to borrow",
+      "src": null
+    },
+    {
+      "company": "poonawalla-fincorp",
+      "name": "Loan against property",
+      "category": "Money borrowed using a property as security",
+      "image": "assets/products/poonawalla-fincorp-property.svg",
+      "url": "https://poonawallafincorp.com/documents/20121/0/PFL-Annual-Report-FY-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a property that can serve as loan security",
+      "src": null
+    },
+    {
+      "company": "poonawalla-fincorp",
+      "name": "Gold loans",
+      "category": "Money borrowed against jewellery pledged as security",
+      "image": "assets/products/poonawalla-fincorp-gold.svg",
+      "url": "https://poonawallafincorp.com/documents/20121/0/PFL-Annual-Report-FY-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of gold offered as loan security",
+      "src": null
+    },
+    {
+      "company": "poonawalla-fincorp",
+      "name": "Used car finance",
+      "category": "Money toward the purchase of a second-hand car",
+      "image": "assets/products/poonawalla-fincorp-cars.svg",
+      "url": "https://poonawallafincorp.com/documents/20121/0/PFL-Annual-Report-FY-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a used car that a borrower can finance",
+      "src": null
+    },
+    {
+      "company": "poonawalla-fincorp",
+      "name": "Commercial vehicle loans",
+      "category": "Finance for vehicles used for work, such as trucks",
+      "image": "assets/products/poonawalla-fincorp-vehicles.svg",
+      "url": "https://poonawallafincorp.com/documents/20121/0/PFL-Annual-Report-FY-2025-26.pdf",
+      "kind": "illustration",
+      "alt": "Illustration of a truck a business might finance",
+      "src": null
+    },
+    {
+      "company": "poonawalla-fincorp",
+      "name": "Education loans",
+      "category": "Money for eligible costs of higher education",
+      "image": "assets/products/poonawalla-fincorp-education.svg",
+      "url": "https://education-loan.poonawallafincorp.com/",
+      "kind": "illustration",
+      "alt": "Illustration of a cap representing higher education",
+      "src": null
+    },
+    {
+      "company": "sai-silks-kalamandir",
+      "name": "Kalamandir sarees",
+      "category": "Sarees for everyday wear and occasions",
+      "src": "Original SVG illustration by Company Notebook",
+      "url": "https://kalamandir.com/",
+      "kind": "illustration",
+      "alt": "Concept illustration for Kalamandir sarees, not a product photograph.",
+      "image": "assets/products/sai-silks-kalamandir-1.svg"
+    },
+    {
+      "company": "sai-silks-kalamandir",
+      "name": "Occasion silk sarees",
+      "category": "Silk sarees for weddings and festivals",
+      "src": "https://kanchivml.com/media/wysiwyg/Festive-Saree-Collections_3.jpg",
+      "url": "https://kanchivml.com/",
+      "kind": "pack",
+      "alt": "A model wears a red silk saree with a blue border in the brand’s festive collection.",
+      "image": "assets/products/sai-silks-kalamandir-2.webp"
+    },
+    {
+      "company": "sai-silks-kalamandir",
+      "name": "Brand Mandir",
+      "category": "Sarees and occasion clothing",
+      "src": "Original SVG illustration by Company Notebook",
+      "url": "https://brandmandir.com/",
+      "kind": "illustration",
+      "alt": "Concept illustration for Brand Mandir, not a product photograph.",
+      "image": "assets/products/sai-silks-kalamandir-3.svg"
+    },
+    {
+      "company": "sai-silks-kalamandir",
+      "name": "KLM Fashion Mall",
+      "category": "Everyday and occasion clothing for families",
+      "src": "Original SVG illustration by Company Notebook",
+      "url": "https://www.klmfashionmall.com/",
+      "kind": "illustration",
+      "alt": "Concept illustration for KLM Fashion Mall, not a product photograph.",
+      "image": "assets/products/sai-silks-kalamandir-4.svg"
+    },
+    {
+      "company": "sai-silks-kalamandir",
+      "name": "Valli Silks",
+      "category": "Sarees and family clothing",
+      "src": "Original SVG illustration by Company Notebook",
+      "url": "https://thevallisilks.com/",
+      "kind": "illustration",
+      "alt": "Concept illustration for Valli Silks, not a product photograph.",
+      "image": "assets/products/sai-silks-kalamandir-5.svg"
+    },
+    {
+      "company": "sai-silks-kalamandir",
+      "name": "Desi Sitara",
+      "category": "Ethnic and fusion clothing",
+      "src": "Original SVG illustration by Company Notebook",
+      "url": "https://desisitara.com/",
+      "kind": "illustration",
+      "alt": "Concept illustration for Desi Sitara, not a product photograph.",
+      "image": "assets/products/sai-silks-kalamandir-6.svg"
+    },
+    {
+      "company": "sai-silks-kalamandir",
+      "name": "Rasamayi Jewellery",
+      "category": "Silver jewellery for everyday wear and occasions",
+      "src": "https://rasamayijewellery.com/assets/images/01.jpg",
+      "url": "https://rasamayijewellery.com/",
+      "kind": "pack",
+      "alt": "Ornate gold-coloured earrings with green beads from the Rasamayi catalogue.",
+      "image": "assets/products/sai-silks-kalamandir-7.webp"
+    },
+    {
+      "company": "cupid",
+      "name": "Male condoms",
+      "category": "Packaged condoms for bulk orders and retail",
+      "src": "https://www.cupidlimited.com/wp-content/uploads/2026/06/condom-new.png",
+      "url": "https://www.cupidlimited.com/cupid-male-condom/",
+      "kind": "pack",
+      "alt": "Cupid male condom packaging from the company website.",
+      "image": "assets/products/cupid-1.webp"
+    },
+    {
+      "company": "cupid",
+      "name": "Female condoms",
+      "category": "Packaged internal condoms",
+      "src": "https://www.cupidlimited.com/wp-content/uploads/2025/08/Cupid-Female-Condom.webp",
+      "url": "https://www.cupidlimited.com/cupid-female-condom/",
+      "kind": "pack",
+      "alt": "Cupid female condom packaging from the company website.",
+      "image": "assets/products/cupid-2.webp"
+    },
+    {
+      "company": "cupid",
+      "name": "Water-based lubricant",
+      "category": "Gel in a tube or sachet",
+      "src": "https://www.cupidlimited.com/wp-content/uploads/2026/06/lubricant.png",
+      "url": "https://www.cupidlimited.com/water-based-lubricant-jelly/",
+      "kind": "pack",
+      "alt": "Cupid lubricant packaging from the company website.",
+      "image": "assets/products/cupid-3.webp"
+    },
+    {
+      "company": "cupid",
+      "name": "CupiSure pregnancy kit",
+      "category": "Boxed test kit",
+      "src": "https://www.cupidlimited.com/wp-content/uploads/2026/06/pregnancy.png",
+      "url": "https://www.cupidlimited.com/",
+      "kind": "pack",
+      "alt": "Cupid CupiSure pregnancy test packaging.",
+      "image": "assets/products/cupid-4.webp"
+    },
+    {
+      "company": "cupid",
+      "name": "Cupid deodorant and perfume",
+      "category": "Fragrance products for stores",
+      "src": "https://www.cupidlimited.com/wp-content/uploads/2026/06/deo1-final.png",
+      "url": "https://www.cupidlimited.com/",
+      "kind": "pack",
+      "alt": "Cupid deodorant and perfume packaging.",
+      "image": "assets/products/cupid-5.webp"
+    },
+    {
+      "company": "cupid",
+      "name": "Cupid Angel deodorant",
+      "category": "Fragrance products for stores",
+      "src": "https://www.cupidlimited.com/wp-content/uploads/2026/06/angel-deo.png",
+      "url": "https://www.cupidlimited.com/",
+      "kind": "pack",
+      "alt": "Cupid Angel deodorant packaging.",
+      "image": "assets/products/cupid-6.webp"
+    },
+    {
+      "company": "cupid",
+      "name": "Cupi Safe menstrual cup",
+      "category": "Reusable menstrual product",
+      "src": "https://www.cupidlimited.com/wp-content/uploads/2025/08/15.webp",
+      "url": "https://www.cupidlimited.com/",
+      "kind": "pack",
+      "alt": "Cupid Cupi Safe menstrual cup packaging.",
+      "image": "assets/products/cupid-7.webp"
+    },
+    {
+      "company": "sedemac-mechatronics",
+      "name": "Starter and charging controller",
+      "category": "Runs the motor that starts the scooter engine and helps charge the battery",
+      "src": "https://www.sedemac.com/static/media/ISG.2150be625099f80b320f.png",
+      "url": "https://www.sedemac.com/isg",
+      "kind": "pack",
+      "alt": "SEDEMAC starter and charging controller shown in the official catalogue.",
+      "image": "assets/products/sedemac-mechatronics-1.webp"
+    },
+    {
+      "company": "sedemac-mechatronics",
+      "name": "Combined scooter controller",
+      "category": "Starts the engine and adjusts how much fuel goes in",
+      "src": "https://www.sedemac.com/static/media/ISGEFI.35a2b4daf953f72b1448.png",
+      "url": "https://www.sedemac.com/blog/isgefi",
+      "kind": "pack",
+      "alt": "SEDEMAC combined starting and fuel injection controller from the company catalogue.",
+      "image": "assets/products/sedemac-mechatronics-2.webp"
+    },
+    {
+      "company": "sedemac-mechatronics",
+      "name": "Fuel injection controller",
+      "category": "Controls when and how much fuel the engine gets",
+      "src": "https://www.sedemac.com/static/media/EFI_NEW.3559bb7972649376b2ed.png",
+      "url": "https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/1773115712615.pdf",
+      "kind": "pack",
+      "alt": "SEDEMAC fuel injection controller from the company catalogue.",
+      "image": "assets/products/sedemac-mechatronics-3.webp"
+    },
+    {
+      "company": "sedemac-mechatronics",
+      "name": "Electric motor controller",
+      "category": "Changes how much power goes to the drive motor",
+      "src": "https://www.sedemac.com/static/media/ISAAC1500NEW.0f59d3ee74251e218f29.png",
+      "url": "https://www.sedemac.com/products/small-evs",
+      "kind": "pack",
+      "alt": "SEDEMAC electric motor controller with its connector visible.",
+      "image": "assets/products/sedemac-mechatronics-4.webp"
+    },
+    {
+      "company": "sedemac-mechatronics",
+      "name": "Motors for small electric vehicles",
+      "category": "Turns electricity into movement for the vehicle",
+      "src": "Original SVG illustration by Company Notebook",
+      "url": "https://www.sedemac.com/motors",
+      "kind": "illustration",
+      "alt": "Concept illustration for Motors for small electric vehicles, not a product photograph.",
+      "image": "assets/products/sedemac-mechatronics-5.svg"
+    },
+    {
+      "company": "sedemac-mechatronics",
+      "name": "Generator set controller",
+      "category": "The panel that starts, stops and monitors a backup generator",
+      "src": "https://www.sedemac.com/static/media/GensetNEW.9b4c1c1c8caf42c3e1cd.png",
+      "url": "https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/1773115712615.pdf",
+      "kind": "pack",
+      "alt": "Official cutaway of a backup generator showing the SEDEMAC controller panel on its enclosure.",
+      "image": "assets/products/sedemac-mechatronics-6.webp"
+    },
+    {
+      "company": "sedemac-mechatronics",
+      "name": "Generator voltage regulator",
+      "category": "Adjusts the generator so its electrical output stays steady",
+      "src": "Original SVG illustration by Company Notebook",
+      "url": "https://www.sebi.gov.in/sebi_data/attachdocs/mar-2026/1773115712615.pdf",
+      "kind": "illustration",
+      "alt": "Concept illustration for Generator voltage regulator, not a product photograph.",
+      "image": "assets/products/sedemac-mechatronics-7.svg"
+    },
+    {
+      "company": "yes-bank",
+      "name": "Savings accounts",
+      "category": "Accounts for people to keep and use cash",
+      "src": "Original SVG illustration by Company Notebook",
+      "url": "https://www.yes.bank.in/home",
+      "kind": "illustration",
+      "alt": "Concept illustration for Savings accounts, not a product photograph.",
+      "image": "assets/products/yes-bank-1.svg"
+    },
+    {
+      "company": "yes-bank",
+      "name": "Fixed deposits",
+      "category": "Money left at the bank for an agreed period",
+      "src": "Original SVG illustration by Company Notebook",
+      "url": "https://www.yes.bank.in/home",
+      "kind": "illustration",
+      "alt": "Concept illustration for Fixed deposits, not a product photograph.",
+      "image": "assets/products/yes-bank-2.svg"
+    },
+    {
+      "company": "yes-bank",
+      "name": "Home loans",
+      "category": "Money borrowed to buy a home",
+      "src": "Original SVG illustration by Company Notebook",
+      "url": "https://www.yes.bank.in/home",
+      "kind": "illustration",
+      "alt": "Concept illustration for Home loans, not a product photograph.",
+      "image": "assets/products/yes-bank-3.svg"
+    },
+    {
+      "company": "yes-bank",
+      "name": "Credit cards",
+      "category": "Spend now and pay the card bill later",
+      "src": "Original SVG illustration by Company Notebook",
+      "url": "https://www.yes.bank.in/home",
+      "kind": "illustration",
+      "alt": "Concept illustration for Credit cards, not a product photograph.",
+      "image": "assets/products/yes-bank-4.svg"
+    },
+    {
+      "company": "yes-bank",
+      "name": "Business current accounts",
+      "category": "Accounts for company receipts and payments",
+      "src": "Original SVG illustration by Company Notebook",
+      "url": "https://www.yes.bank.in/business-banking",
+      "kind": "illustration",
+      "alt": "Concept illustration for Business current accounts, not a product photograph.",
+      "image": "assets/products/yes-bank-5.svg"
+    },
+    {
+      "company": "yes-bank",
+      "name": "Business loans",
+      "category": "Borrow to pay suppliers, buy equipment or expand",
+      "src": "Original SVG illustration by Company Notebook",
+      "url": "https://www.yes.bank.in/corporate-banking/products-and-services/loans",
+      "kind": "illustration",
+      "alt": "Concept illustration for Business loans, not a product photograph.",
+      "image": "assets/products/yes-bank-6.svg"
+    },
+    {
+      "company": "yes-bank",
+      "name": "Trade and payments services",
+      "category": "Tools to collect and pay bills, including across borders",
+      "src": "Original SVG illustration by Company Notebook",
+      "url": "https://www.yes.bank.in/business-banking",
+      "kind": "illustration",
+      "alt": "Concept illustration for Trade and payments services, not a product photograph.",
+      "image": "assets/products/yes-bank-7.svg"
+    },
+    {
+      "company": "home-first-finance",
+      "name": "Loan to buy a home",
+      "category": "Money goes towards buying a house or flat; the borrower pays it back in instalments.",
+      "image": "assets/products/home-first-finance-buy-a-home.svg",
+      "url": "https://homefirstindia.com/product",
+      "kind": "illustration",
+      "alt": "Illustration of a house for a home purchase loan",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "home-first-finance",
+      "name": "Loan to build a home",
+      "category": "Funds construction on land the borrower owns. Money can be released as work progresses.",
+      "image": "assets/products/home-first-finance-build-a-home.svg",
+      "url": "https://homefirstindia.com/product",
+      "kind": "illustration",
+      "alt": "Illustration of a house for a home construction loan",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "home-first-finance",
+      "name": "Home extension loan",
+      "category": "Pays for adding living space to an existing home.",
+      "image": "assets/products/home-first-finance-extend-a-home.svg",
+      "url": "https://homefirstindia.com/product",
+      "kind": "illustration",
+      "alt": "Illustration of a house for a home extension loan",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "home-first-finance",
+      "name": "Home renovation loan",
+      "category": "Pays for repairs and work such as upgrading an existing home.",
+      "image": "assets/products/home-first-finance-renovate.svg",
+      "url": "https://homefirstindia.com/product",
+      "kind": "illustration",
+      "alt": "Illustration of a house for a home renovation loan",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "home-first-finance",
+      "name": "Loan against property",
+      "category": "Lets a borrower use an existing property as security to raise money.",
+      "image": "assets/products/home-first-finance-property-backed.svg",
+      "url": "https://homefirstindia.com/product/loan-against-property",
+      "kind": "illustration",
+      "alt": "Illustration of a house beside a loan document",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "home-first-finance",
+      "name": "Shop loan",
+      "category": "Helps a business owner pay for business premises.",
+      "image": "assets/products/home-first-finance-shop.svg",
+      "url": "https://homefirstindia.com/product",
+      "kind": "illustration",
+      "alt": "Illustration of a storefront for a shop loan",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "home-first-finance",
+      "name": "Commercial property purchase loan",
+      "category": "Helps eligible customers pay for premises used for business.",
+      "image": "assets/products/home-first-finance-commercial.svg",
+      "url": "https://homefirstindia.com/product",
+      "kind": "illustration",
+      "alt": "Illustration of a building for a commercial property loan",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "vip-industries",
+      "name": "VIP laptop trolley",
+      "category": "A wheeled bag with space for a laptop and work items.",
+      "image": "assets/products/vip-industries-laptop-trolley.webp",
+      "url": "https://vipbags.com/",
+      "kind": "pack",
+      "alt": "VIP laptop trolley from the official catalogue",
+      "src": "https://vipbags.com/cdn/shop/collections/VIP_Laptop_trolly.webp?v=1791353584&width=800"
+    },
+    {
+      "company": "vip-industries",
+      "name": "VIP backpack",
+      "category": "A bag carried on the shoulders for daily use.",
+      "image": "assets/products/vip-industries-backpack.webp",
+      "url": "https://vipbags.com/products/vip-commuter-backpack?variant=43090306236487",
+      "kind": "pack",
+      "alt": "Official VIP backpack product image",
+      "src": "https://vipbags.com/cdn/shop/files/0_3f098bab-50f3-447d-aa32-e171a8fb9070.webp?v=1787120900&width=600"
+    },
+    {
+      "company": "vip-industries",
+      "name": "VIP cabin suitcase",
+      "category": "Compact wheeled luggage designed for short trips; airline size limits vary.",
+      "image": "assets/products/vip-industries-cabin.webp",
+      "url": "https://vipbags.com/",
+      "kind": "pack",
+      "alt": "Official VIP cabin suitcase catalogue image",
+      "src": "https://vipbags.com/cdn/shop/collections/ecb3b301-bf7e-48ee-9dbb-24b236c0468f.png?v=1782632149&width=800"
+    },
+    {
+      "company": "vip-industries",
+      "name": "VIP large suitcase",
+      "category": "A bigger case for packing more clothes and travel items.",
+      "image": "assets/products/vip-industries-large.webp",
+      "url": "https://vipbags.com/",
+      "kind": "pack",
+      "alt": "Official VIP large suitcase catalogue image",
+      "src": "https://vipbags.com/cdn/shop/collections/large.png?v=1782632077&width=800"
+    },
+    {
+      "company": "vip-industries",
+      "name": "VIP soft trolley bag",
+      "category": "A fabric outer shell gives the bag a more flexible shape.",
+      "image": "assets/products/vip-industries-soft-shell.webp",
+      "url": "https://vipbags.com/",
+      "kind": "pack",
+      "alt": "Official VIP soft trolley bag catalogue image",
+      "src": "https://vipbags.com/cdn/shop/collections/softtrolley.png?v=1782632025&width=800"
+    },
+    {
+      "company": "vip-industries",
+      "name": "VIP hard trolley bag",
+      "category": "A rigid shell wraps around the contents to help protect them.",
+      "image": "assets/products/vip-industries-hard-shell.webp",
+      "url": "https://vipbags.com/products/vip-vero-strolly-55-360-d3?variant=42888423309383",
+      "kind": "pack",
+      "alt": "Official VIP hard trolley bag catalogue image",
+      "src": "https://vipbags.com/cdn/shop/files/0_792eb6d8-075f-4f81-8450-b8f05ec221fb.webp?v=1787580984&width=600"
+    },
+    {
+      "company": "vip-industries",
+      "name": "VIP medium suitcase",
+      "category": "A wheeled case with more packing room than a cabin case.",
+      "image": "assets/products/vip-industries-medium.webp",
+      "url": "https://vipbags.com/products/vip-pod-8w-strolly-cabin-360-medium?variant=42888667070535",
+      "kind": "pack",
+      "alt": "Official VIP medium suitcase catalogue image",
+      "src": "https://vipbags.com/cdn/shop/files/0_f4c721b7-2cd7-4de5-ad32-aae36af657d5.webp?v=1787580922&width=600"
+    },
+    {
+      "company": "lg-electronics-india",
+      "name": "LG smart television",
+      "category": "A large screen for watching programmes and streaming video.",
+      "image": "assets/products/lg-electronics-india-tv.svg",
+      "url": "https://www.lg.com/in/tv-soundbars/",
+      "kind": "illustration",
+      "alt": "Illustration of a television screen",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "lg-electronics-india",
+      "name": "LG refrigerator",
+      "category": "Keeps food cold and can store frozen items in a separate section.",
+      "image": "assets/products/lg-electronics-india-refrigerator.svg",
+      "url": "https://www.lg.com/in/refrigerators/",
+      "kind": "illustration",
+      "alt": "Illustration of a refrigerator with two doors",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "lg-electronics-india",
+      "name": "LG washing machine",
+      "category": "Washes and spins clothes in a rotating drum.",
+      "image": "assets/products/lg-electronics-india-washer.svg",
+      "url": "https://www.lg.com/in/washing-machines/",
+      "kind": "illustration",
+      "alt": "Illustration of a washing machine with a front drum",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "lg-electronics-india",
+      "name": "LG washer dryer",
+      "category": "Washes and dries laundry in a combined appliance.",
+      "image": "assets/products/lg-electronics-india-washer-dryer.svg",
+      "url": "https://www.lg.com/in/washing-machines/",
+      "kind": "illustration",
+      "alt": "Illustration of a washing and drying appliance",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "lg-electronics-india",
+      "name": "LG window air conditioner",
+      "category": "An all-in-one unit fits through a window or wall opening and cools one room.",
+      "image": "assets/products/lg-electronics-india-window-ac.svg",
+      "url": "https://www.lg.com/in/air-conditioners/",
+      "kind": "illustration",
+      "alt": "Illustration of a window air conditioner",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "lg-electronics-india",
+      "name": "LG split air conditioner",
+      "category": "Moves heat outside using a wall mounted indoor unit and a separate outdoor unit.",
+      "image": "assets/products/lg-electronics-india-split-ac.svg",
+      "url": "https://www.lg.com/in/air-conditioners/",
+      "kind": "illustration",
+      "alt": "Illustration of a split air conditioner",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "lg-electronics-india",
+      "name": "LG gaming monitor",
+      "category": "Displays the image from a computer or games console.",
+      "image": "assets/products/lg-electronics-india-gaming-monitor.svg",
+      "url": "https://www.lg.com/in/monitors/",
+      "kind": "illustration",
+      "alt": "Illustration of a display monitor",
+      "src": "Original SVG illustration by Company Notebook"
+    },
+    {
+      "company": "azad-engineering",
+      "name": "Precision metal cutting",
+      "category": "Uses machines to carve metal to the exact size and shape set by the buyer.",
+      "image": "assets/products/azad-engineering-machining.webp",
+      "url": "https://azad.in/manufacturing-capability/",
+      "kind": "pack",
+      "alt": "Azad Engineering catalogue image for precision machining",
+      "src": "https://azad.in/wp-content/uploads/2025/10/machining-07.jpg"
+    },
+    {
+      "company": "azad-engineering",
+      "name": "Metal forging",
+      "category": "Shapes metal under pressure before a part is cut to its final dimensions.",
+      "image": "assets/products/azad-engineering-forging.webp",
+      "url": "https://azad.in/manufacturing-capability/",
+      "kind": "pack",
+      "alt": "Azad Engineering catalogue image for metal forging",
+      "src": "https://azad.in/wp-content/uploads/2025/10/forging-01.jpg"
+    },
+    {
+      "company": "azad-engineering",
+      "name": "Sheet metal work",
+      "category": "Cuts and forms thin metal into parts such as panels and brackets.",
+      "image": "assets/products/azad-engineering-sheet-metal.webp",
+      "url": "https://azad.in/manufacturing-capability/",
+      "kind": "pack",
+      "alt": "Azad Engineering catalogue image for sheet metal work",
+      "src": "https://azad.in/wp-content/uploads/2025/10/SHEET-METAL-02.jpg"
+    },
+    {
+      "company": "azad-engineering",
+      "name": "Materials and part testing",
+      "category": "Checks that a part meets requirements before the buyer fits it into a machine.",
+      "image": "assets/products/azad-engineering-testing.webp",
+      "url": "https://azad.in/manufacturing-capability/",
+      "kind": "pack",
+      "alt": "Azad Engineering catalogue image for its testing laboratory",
+      "src": "https://azad.in/wp-content/uploads/2025/10/TESTING-LAB-NABL-03.jpg"
+    },
+    {
+      "company": "azad-engineering",
+      "name": "Special finishing processes",
+      "category": "Treats parts to meet the buyer’s requirements for the way they will be used.",
+      "image": "assets/products/azad-engineering-special-process.webp",
+      "url": "https://azad.in/manufacturing-capability/",
+      "kind": "pack",
+      "alt": "Azad Engineering catalogue image for specialised production processes",
+      "src": "https://azad.in/wp-content/uploads/2025/10/SPECIAL-PROCESS-04.jpg"
+    },
+    {
+      "company": "azad-engineering",
+      "name": "Metal joining",
+      "category": "Joins separate metal pieces into one part or assembly.",
+      "image": "assets/products/azad-engineering-joining.webp",
+      "url": "https://azad.in/manufacturing-capability/",
+      "kind": "pack",
+      "alt": "Azad Engineering catalogue image for metal joining",
+      "src": "https://azad.in/wp-content/uploads/2025/10/METAL-JOINING-05.jpg"
+    },
+    {
+      "company": "azad-engineering",
+      "name": "Specialised fasteners",
+      "category": "Bolts and similar components help hold parts in place.",
+      "image": "assets/products/azad-engineering-fasteners.webp",
+      "url": "https://azad.in/manufacturing-capability/",
+      "kind": "pack",
+      "alt": "Azad Engineering catalogue image for fasteners",
+      "src": "https://azad.in/wp-content/uploads/2025/10/FASTENERS-07.jpg"
+    },
+    {
+      "company": "thomas-scott",
+      "name": "Thomas Scott casual shirt",
+      "category": "A button-up for everyday wear.",
+      "image": "assets/products/thomas-scott-casual-shirt.webp",
+      "url": "https://thomasscott.in/",
+      "kind": "pack",
+      "alt": "Official Thomas Scott catalogue picture of a casual shirt",
+      "src": "https://thomasscott.in/cdn/shop/files/3_1767612505.jpg?v=1780202374&width=700"
+    },
+    {
+      "company": "thomas-scott",
+      "name": "Thomas Scott formal shirt",
+      "category": "A collared shirt designed for work or dressier settings.",
+      "image": "assets/products/thomas-scott-formal-shirt.webp",
+      "url": "https://thomasscott.in/",
+      "kind": "pack",
+      "alt": "Official Thomas Scott catalogue picture of a formal shirt",
+      "src": "https://thomasscott.in/cdn/shop/files/TS1907PS_Pink_1.jpg?v=1792733816&width=700"
+    },
+    {
+      "company": "thomas-scott",
+      "name": "Thomas Scott linen shirt",
+      "category": "A shirt made from linen or a linen blend.",
+      "image": "assets/products/thomas-scott-linen-shirt.webp",
+      "url": "https://thomasscott.in/",
+      "kind": "pack",
+      "alt": "Official Thomas Scott catalogue picture of a linen category shirt",
+      "src": "https://thomasscott.in/cdn/shop/files/1_96fa6bbe-9272-4f8f-b634-dee0a7c47e27.jpg?v=1782123879&width=700"
+    },
+    {
+      "company": "thomas-scott",
+      "name": "Thomas Scott jeans",
+      "category": "Denim trousers offered in styles with different cuts.",
+      "image": "assets/products/thomas-scott-jeans.webp",
+      "url": "https://thomasscott.in/",
+      "kind": "pack",
+      "alt": "Official Thomas Scott catalogue picture of jeans",
+      "src": "https://thomasscott.in/cdn/shop/files/TSJ077_LightBlue_1.jpg?v=1792149611&width=700"
+    },
+    {
+      "company": "thomas-scott",
+      "name": "Thomas Scott trousers",
+      "category": "Full length trousers for everyday and smarter outfits.",
+      "image": "assets/products/thomas-scott-trousers.webp",
+      "url": "https://thomasscott.in/",
+      "kind": "pack",
+      "alt": "Official Thomas Scott catalogue picture of trousers",
+      "src": "https://thomasscott.in/cdn/shop/files/2_1738586185.jpg?v=1780204448&width=700"
+    },
+    {
+      "company": "thomas-scott",
+      "name": "Thomas Scott T-shirt",
+      "category": "A casual top in its menswear range.",
+      "image": "assets/products/thomas-scott-tshirt.webp",
+      "url": "https://thomasscott.in/",
+      "kind": "pack",
+      "alt": "Official Thomas Scott catalogue picture of a T-shirt",
+      "src": "https://thomasscott.in/cdn/shop/files/2_1737096032.jpg?v=1780206604&width=700"
+    },
+    {
+      "company": "thomas-scott",
+      "name": "Thomas Scott polo",
+      "category": "A casual shirt with a collar and a short button opening.",
+      "image": "assets/products/thomas-scott-polo.webp",
+      "url": "https://thomasscott.in/",
+      "kind": "pack",
+      "alt": "Official Thomas Scott catalogue picture of a polo shirt",
+      "src": "https://thomasscott.in/cdn/shop/files/TSST03_CoffeeBrown_1.jpg?v=1792144405&width=700"
     }
   ]
 }

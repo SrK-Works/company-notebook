@@ -1,0 +1,120 @@
+{
+  "order": 128,
+  "company": {
+    "id": "yes-bank",
+    "name": "YES BANK Limited",
+    "ticker": "YESBANK",
+    "sector": "Banking",
+    "initial": "Y",
+    "color": "#0b588c",
+    "bg": "#eaf4fb",
+    "tag": "The business behind the offering",
+    "products": [
+      [
+        "Savings accounts",
+        "Accounts for people to keep and use cash"
+      ],
+      [
+        "Fixed deposits",
+        "Money left at the bank for an agreed period"
+      ],
+      [
+        "Home loans",
+        "Money borrowed to buy a home"
+      ],
+      [
+        "Credit cards",
+        "Spend now and pay the card bill later"
+      ],
+      [
+        "Business current accounts",
+        "Accounts for company receipts and payments"
+      ],
+      [
+        "Business loans",
+        "Borrow to pay suppliers, buy equipment or expand"
+      ],
+      [
+        "Trade and payments services",
+        "Tools to collect and pay bills, including across borders"
+      ]
+    ],
+    "sources": [
+      [
+        "NSE equity listing",
+        "https://www.nseindia.com/get-quotes/equity?symbol=YESBANK"
+      ]
+    ],
+    "productSource": "https://www.yes.bank.in/home",
+    "productNote": "The gallery uses labelled illustrations where a particular product or service is hard to photograph.",
+    "checked": "18 Nov 2026",
+    "reviewed": "18 November 2026",
+    "aliases": [
+      "Yes Bank",
+      "YESBANK",
+      "YES Securities",
+      "savings accounts",
+      "fixed deposits",
+      "business banking"
+    ],
+    "logo": "assets/logos/yes-bank-official.webp"
+  },
+  "offerings": [
+    {
+      "name": "Savings accounts",
+      "category": "Accounts for people to keep and use cash",
+      "image": "assets/products/yes-bank-1.svg",
+      "url": "https://www.yes.bank.in/home",
+      "kind": "illustration",
+      "alt": "Concept illustration for Savings accounts, not a product photograph."
+    },
+    {
+      "name": "Fixed deposits",
+      "category": "Money left at the bank for an agreed period",
+      "image": "assets/products/yes-bank-2.svg",
+      "url": "https://www.yes.bank.in/home",
+      "kind": "illustration",
+      "alt": "Concept illustration for Fixed deposits, not a product photograph."
+    },
+    {
+      "name": "Home loans",
+      "category": "Money borrowed to buy a home",
+      "image": "assets/products/yes-bank-3.svg",
+      "url": "https://www.yes.bank.in/home",
+      "kind": "illustration",
+      "alt": "Concept illustration for Home loans, not a product photograph."
+    },
+    {
+      "name": "Credit cards",
+      "category": "Spend now and pay the card bill later",
+      "image": "assets/products/yes-bank-4.svg",
+      "url": "https://www.yes.bank.in/home",
+      "kind": "illustration",
+      "alt": "Concept illustration for Credit cards, not a product photograph."
+    },
+    {
+      "name": "Business current accounts",
+      "category": "Accounts for company receipts and payments",
+      "image": "assets/products/yes-bank-5.svg",
+      "url": "https://www.yes.bank.in/business-banking",
+      "kind": "illustration",
+      "alt": "Concept illustration for Business current accounts, not a product photograph."
+    },
+    {
+      "name": "Business loans",
+      "category": "Borrow to pay suppliers, buy equipment or expand",
+      "image": "assets/products/yes-bank-6.svg",
+      "url": "https://www.yes.bank.in/corporate-banking/products-and-services/loans",
+      "kind": "illustration",
+      "alt": "Concept illustration for Business loans, not a product photograph."
+    },
+    {
+      "name": "Trade and payments services",
+      "category": "Tools to collect and pay bills, including across borders",
+      "image": "assets/products/yes-bank-7.svg",
+      "url": "https://www.yes.bank.in/business-banking",
+      "kind": "illustration",
+      "alt": "Concept illustration for Trade and payments services, not a product photograph."
+    }
+  ]
+}

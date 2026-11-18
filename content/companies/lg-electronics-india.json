@@ -1,0 +1,115 @@
+{
+  "order": 117,
+  "company": {
+    "id": "lg-electronics-india",
+    "name": "LG Electronics India Limited",
+    "ticker": "LGEINDIA",
+    "sector": "Consumer & retail",
+    "initial": "LG",
+    "color": "#a50034",
+    "bg": "#fff0f2",
+    "tag": "The business behind the offering",
+    "logo": "assets/logos/lg-electronics-india-official.svg",
+    "products": [
+      [
+        "LG smart television",
+        "A large screen for watching programmes and streaming video."
+      ],
+      [
+        "LG refrigerator",
+        "Keeps food cold and can store frozen items in a separate section."
+      ],
+      [
+        "LG washing machine",
+        "Washes and spins clothes in a rotating drum."
+      ],
+      [
+        "LG washer dryer",
+        "Washes and dries laundry in a combined appliance."
+      ],
+      [
+        "LG window air conditioner",
+        "An all-in-one unit fits through a window or wall opening and cools one room."
+      ],
+      [
+        "LG split air conditioner",
+        "Moves heat outside using a wall mounted indoor unit and a separate outdoor unit."
+      ],
+      [
+        "LG gaming monitor",
+        "Displays the image from a computer or games console."
+      ]
+    ],
+    "sources": [],
+    "productSource": "https://www.lg.com/in/",
+    "productNote": "Illustrations show the type of appliance or screen. Follow each official category link for actual models.",
+    "checked": "18 Nov 2026",
+    "reviewed": "18 November 2026",
+    "aliases": [
+      "LG India",
+      "LG Electronics",
+      "LG AC",
+      "LG washing machine",
+      "LG TV",
+      "LG fridge"
+    ]
+  },
+  "offerings": [
+    {
+      "name": "LG smart television",
+      "category": "A large screen for watching programmes and streaming video.",
+      "image": "assets/products/lg-electronics-india-tv.svg",
+      "url": "https://www.lg.com/in/tv-soundbars/",
+      "kind": "illustration",
+      "alt": "Illustration of a television screen"
+    },
+    {
+      "name": "LG refrigerator",
+      "category": "Keeps food cold and can store frozen items in a separate section.",
+      "image": "assets/products/lg-electronics-india-refrigerator.svg",
+      "url": "https://www.lg.com/in/refrigerators/",
+      "kind": "illustration",
+      "alt": "Illustration of a refrigerator with two doors"
+    },
+    {
+      "name": "LG washing machine",
+      "category": "Washes and spins clothes in a rotating drum.",
+      "image": "assets/products/lg-electronics-india-washer.svg",
+      "url": "https://www.lg.com/in/washing-machines/",
+      "kind": "illustration",
+      "alt": "Illustration of a washing machine with a front drum"
+    },
+    {
+      "name": "LG washer dryer",
+      "category": "Washes and dries laundry in a combined appliance.",
+      "image": "assets/products/lg-electronics-india-washer-dryer.svg",
+      "url": "https://www.lg.com/in/washing-machines/",
+      "kind": "illustration",
+      "alt": "Illustration of a washing and drying appliance"
+    },
+    {
+      "name": "LG window air conditioner",
+      "category": "An all-in-one unit fits through a window or wall opening and cools one room.",
+      "image": "assets/products/lg-electronics-india-window-ac.svg",
+      "url": "https://www.lg.com/in/air-conditioners/",
+      "kind": "illustration",
+      "alt": "Illustration of a window air conditioner"
+    },
+    {
+      "name": "LG split air conditioner",
+      "category": "Moves heat outside using a wall mounted indoor unit and a separate outdoor unit.",
+      "image": "assets/products/lg-electronics-india-split-ac.svg",
+      "url": "https://www.lg.com/in/air-conditioners/",
+      "kind": "illustration",
+      "alt": "Illustration of a split air conditioner"
+    },
+    {
+      "name": "LG gaming monitor",
+      "category": "Displays the image from a computer or games console.",
+      "image": "assets/products/lg-electronics-india-gaming-monitor.svg",
+      "url": "https://www.lg.com/in/monitors/",
+      "kind": "illustration",
+      "alt": "Illustration of a display monitor"
+    }
+  ]
+}

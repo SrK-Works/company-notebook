@@ -1,0 +1,202 @@
+{
+  "summary": "DCX Systems makes wiring and electronic assemblies that equipment makers fit inside larger aerospace and defence systems.",
+  "description": "Imagine opening an equipment cabinet and seeing boards joined by bundles of wires. DCX makes those bundles, installs boards and connectors in metal cases, and checks that the parts work together before delivery.",
+  "money": "Equipment makers pay for finished wiring, assembled electronics or an assembly and testing service. DCX spends on cables, connectors, circuit boards, factory staff and testing. It can buy parts and pay workers before the buyer accepts the shipment and pays the invoice.",
+  "customers": "Indian and overseas equipment manufacturers and companies that put larger aerospace and defence systems together.",
+  "drivers": "Watch how often orders turn into accepted deliveries, how much cash is stuck in stock and unpaid bills, and how much the group spends developing new products.",
+  "quick": [
+    {
+      "title": "What does it do?",
+      "text": "Makes cables and builds electronic units to fit larger equipment."
+    },
+    {
+      "title": "Who pays?",
+      "text": "Equipment manufacturers in India and overseas."
+    },
+    {
+      "title": "What are they paying for?",
+      "text": "A finished part, a tested assembly or a set of parts ready for assembly."
+    },
+    {
+      "title": "What does it spend on?",
+      "text": "Wiring, connectors, electronic parts, factory staff and quality checks."
+    }
+  ],
+  "groups": [
+    {
+      "title": "Wiring",
+      "examples": "Cables with plugs and bundles of wires cut to fit an enclosure.",
+      "explanation": "A cable links two points. A wire harness keeps several connections organised so they fit the available space."
+    },
+    {
+      "title": "Electronic assemblies",
+      "examples": "Circuit boards and metal boxes holding electronic parts.",
+      "explanation": "Raneal, a DCX subsidiary, puts components onto circuit boards. DCX can put boards, cables and connectors together into a tested unit."
+    },
+    {
+      "title": "Building and checking units",
+      "examples": "Assembled units and factory checks before shipping.",
+      "explanation": "A bought-in part, a board and its wiring all need to work together before the customer fits the unit into larger equipment."
+    },
+    {
+      "title": "Parts kits and related work",
+      "examples": "Parts gathered together and organised for assembly.",
+      "explanation": "A buyer can receive an organised kit instead of having to buy and sort every part separately."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is a circuit board?",
+      "text": "It is a flat panel with paths that carry electrical signals between the small components fixed onto it."
+    },
+    {
+      "title": "What is build-to-print?",
+      "text": "The customer supplies drawings and requirements. The supplier makes the part and checks that it matches them."
+    }
+  ],
+  "stepsTitle": "From a drawing to a paid order",
+  "steps": [
+    {
+      "title": "Agree what to deliver",
+      "text": "The customer defines what the assembly must do and when it needs it."
+    },
+    {
+      "title": "Buy parts and build",
+      "text": "DCX buys or makes parts, puts them together and checks the work."
+    },
+    {
+      "title": "Check and ship",
+      "text": "DCX checks the unit works and ships it against the customer’s order."
+    },
+    {
+      "title": "Bill the customer",
+      "text": "DCX bills under the agreed terms. Payment may arrive later than the sale."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "A wiring order and a full assembly use different work",
+      "text": "A finished unit needs more integration and checking than a wire bundle. Check how the mix changes before judging a change in profit."
+    },
+    {
+      "title": "Some work comes through defence offset requirements",
+      "text": "A foreign supplier can have commitments to source work locally under a defence purchase. DCX also pursues orders outside those arrangements."
+    },
+    {
+      "title": "Group results include product development",
+      "text": "The September 2026 filing says one DCX subsidiary was developing products and had yet to start commercial production. Development expenses and timing matter when reading the group result."
+    }
+  ],
+  "watch": [
+    [
+      "Are announced orders turning into deliveries?",
+      "Orders may cover more than one period and customer schedules can shift.",
+      "Compare the promised delivery dates in order announcements with the sales and shipment updates that followed."
+    ],
+    [
+      "How long before the customer pays?",
+      "Parts and wages can be paid well before the money comes in.",
+      "Compare stock held, unpaid customer invoices and cash from operations across two or more filings. See whether changes reverse after the company ships an order."
+    ],
+    [
+      "How dependent is DCX on a few customers?",
+      "One buyer changing a schedule can affect an entire quarter.",
+      "Read the annual report’s customer concentration and risk disclosures. Look for the share of sales from the biggest customers."
+    ],
+    [
+      "Is the group earning enough from the work it ships?",
+      "Costs can vary with what buyers ask DCX to make.",
+      "Compare profit, sales and material costs across filings. Look for management’s explanation of major changes in the mix of work."
+    ],
+    [
+      "When will product-development work start generating sales?",
+      "The group can spend money before it sells anything from a new project.",
+      "Look for the first commercial deliveries in the results, then check whether they repeat. A project announcement alone gives no sales figure."
+    ]
+  ],
+  "risks": [
+    [
+      "Part delays",
+      "A missing connector or electronic part can hold up an entire assembly."
+    ],
+    [
+      "Customer approval",
+      "If the assembly fails a buyer’s test, DCX may have to do more work before it can deliver."
+    ],
+    [
+      "Changing requirements",
+      "A change in customer specifications can mean buying different parts or doing the work again."
+    ],
+    [
+      "Exchange rates",
+      "DCX buys and sells internationally. Currency changes can affect amounts recorded in rupees."
+    ]
+  ],
+  "helps": [
+    {
+      "title": "Retained work on the same design",
+      "text": "Approved parts can be ordered again while the customer keeps making the same equipment."
+    },
+    {
+      "title": "More work inside the group",
+      "text": "Making boards inside the group can reduce the need to rely on external suppliers."
+    },
+    {
+      "title": "Customers can buy work at different stages",
+      "text": "DCX can supply a parts kit, a wiring assembly or a tested unit."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Short-term sales can be uneven",
+      "text": "A shipment moved into the next quarter can leave a weak comparison."
+    },
+    {
+      "title": "Materials can absorb cash",
+      "text": "Parts bought in advance may sit in the factory until the customer needs the finished unit."
+    },
+    {
+      "title": "A new line needs time",
+      "text": "A team can spend months preparing a product before it is ready for commercial orders."
+    }
+  ],
+  "context": [
+    "Quarter ended September 2026",
+    "The company reported lower sales than in the same quarter a year earlier. The group still recorded a loss after tax, although the quarterly loss narrowed."
+  ],
+  "sources": [
+    [
+      "DCX manufacturing services",
+      "https://dcxindia.com/services/"
+    ],
+    [
+      "DCX group and its subsidiaries",
+      "https://dcxindia.com/group-of-companies/"
+    ],
+    [
+      "Annual report and business model",
+      "https://dcxindia.com/wp-content/uploads/2025/09/Annual-Report-FY-2024-25.pdf"
+    ],
+    [
+      "March 2026 audited results",
+      "https://dcxindia.com/wp-content/uploads/2026/05/FY25-26Q4.pdf"
+    ],
+    [
+      "September 2026 exchange results",
+      "https://dcxindia.com/wp-content/uploads/2026/11/Outcome_BM-2.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Read the group and parent separately",
+      "text": "The group includes subsidiary results. The parent-only result does not show the same earnings, so use the consolidated column for the full picture."
+    },
+    {
+      "title": "Look for costs beyond building the equipment",
+      "text": "The audited figures show other income and tax alongside sales and costs. A profit before tax can become a loss after tax."
+    }
+  ],
+  "financialCue": "Compare group sales and after-tax results, then check stock and cash from operations to see how much money came in.",
+  "photoCaption": "These cables, boards and metal cases show the pieces DCX puts together for equipment makers.",
+  "checked": "18 November 2026"
+}

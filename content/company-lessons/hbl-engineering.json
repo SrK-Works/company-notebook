@@ -1,0 +1,206 @@
+{
+  "summary": "HBL Engineering makes backup batteries for equipment such as rail signals and communications systems. It also makes train control equipment, including Kavach train protection.",
+  "description": "A rail signal or communications site still needs power if the main supply cuts out. HBL makes batteries that can step in. It also sells train electronics that help railway staff monitor movements or help a train slow or stop when it is moving unsafely. These are separate jobs with different contracts.",
+  "money": "Railway buyers and industrial customers pay for delivered batteries, electronics and related work. HBL buys materials and electronic parts and pays workers, engineers and testers. A railway installation may need on-site checks before it reaches a stage the company can bill for.",
+  "customers": "Indian Railways and other transport buyers order train equipment and batteries. Communications companies and other industrial buyers need batteries for their own equipment. Aircraft and defence customers buy specialised batteries.",
+  "drivers": "Watch how quickly rail equipment is installed and accepted, how many buyers replace industrial batteries and how the mix of products changes the group’s profit.",
+  "quick": [
+    {
+      "title": "What does it do?",
+      "text": "It makes industrial batteries and electronics for railways, including train protection equipment."
+    },
+    {
+      "title": "Who pays?",
+      "text": "Railways, communications businesses, aircraft and defence customers, and other industrial users."
+    },
+    {
+      "title": "How does it earn?",
+      "text": "Customers pay for delivered products and for work such as installation when the order includes it."
+    },
+    {
+      "title": "What does it spend on?",
+      "text": "Battery materials, electronic parts, workers, engineering, tests and site work."
+    }
+  ],
+  "groups": [
+    {
+      "title": "Backup power",
+      "examples": "Industrial batteries for rail and communications equipment.",
+      "explanation": "The battery supplies power when its usual source is interrupted."
+    },
+    {
+      "title": "Train protection",
+      "examples": "Kavach equipment fitted to trains and along routes.",
+      "explanation": "The system helps intervene when a train exceeds a safe speed or passes a stop indication."
+    },
+    {
+      "title": "Watching movements and equipment",
+      "examples": "Train management systems and data loggers.",
+      "explanation": "Screens help staff see movements. Recorders keep readings so faults can be investigated later."
+    },
+    {
+      "title": "Specialised power",
+      "examples": "Aircraft batteries and banks of batteries fitted into containers.",
+      "explanation": "Buyers need batteries designed around the equipment, available space and required level of power."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What does it mean to commission rail equipment?",
+      "text": "After installation, workers check the equipment at the site before handing it over for use. A box arriving at a depot can be one step in a longer job."
+    },
+    {
+      "title": "What is backup power?",
+      "text": "It is a second way of supplying electricity when the usual source fails. A battery can carry the load until the main supply returns."
+    }
+  ],
+  "stepsTitle": "From a railway equipment order to getting paid",
+  "steps": [
+    {
+      "title": "The buyer requests equipment",
+      "text": "The order defines what must be delivered and whether it also includes installation."
+    },
+    {
+      "title": "Build and check the goods",
+      "text": "HBL buys the parts, assembles the equipment and performs factory checks."
+    },
+    {
+      "title": "Deliver or fit it",
+      "text": "The buyer takes the equipment or HBL completes site work, depending on the job."
+    },
+    {
+      "title": "Bill and collect",
+      "text": "The invoice follows the agreed point in the work. Workers and suppliers often have to be paid earlier."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Rail electronics and industrial batteries have different demand",
+      "text": "A railway rollout can bunch many installations together. Industrial batteries need replacement across many sites."
+    },
+    {
+      "title": "Route protection is broader than one device",
+      "text": "Putting in train equipment and preparing the route can be separate jobs. The order explains which equipment and work HBL has agreed to supply."
+    },
+    {
+      "title": "Support needs continue after delivery",
+      "text": "The railway can need staff, spares and tests to keep systems in service over many years. Check whether a supply contract includes long-term support."
+    }
+  ],
+  "watch": [
+    [
+      "Which rail jobs are reaching installation and acceptance?",
+      "A large order takes time to turn into recognised sales.",
+      "Compare the delivery schedules in order notices with later results updates on fitting equipment and completing checks."
+    ],
+    [
+      "How much of profit is coming from electronics?",
+      "A period with many railway deliveries can look very different from a normal battery sales period.",
+      "Compare both the Electronics and Batteries segment tables over several periods and read what projects the company says it completed."
+    ],
+    [
+      "Are buyers replacing batteries at a steady pace?",
+      "Replacement orders can provide revenue while large rail projects come and go.",
+      "Compare the battery segment’s domestic and export figures with company updates about expected demand from railway and communications customers."
+    ],
+    [
+      "Are suppliers being paid before customers pay their bills?",
+      "Contracts can need cash up front even when later work earns a profit.",
+      "Compare cash from running the business with inventory and unpaid customer bills, and check whether the figures are rising together."
+    ],
+    [
+      "Are newer storage products generating repeat business?",
+      "A single installation does little to show how many customers will buy again.",
+      "Look for new battery storage awards, then read later reports to see whether installations and repeat customer orders follow."
+    ]
+  ],
+  "risks": [
+    [
+      "Sites may not be ready",
+      "A railway buyer can need more time to prepare a train or a section of track for work."
+    ],
+    [
+      "Materials or parts can rise in price",
+      "Battery inputs and electronics can cost more before a contract price changes."
+    ],
+    [
+      "Special projects can need a redesign",
+      "Earlier engineering work can lose its value if the buyer changes the requirement."
+    ],
+    [
+      "Safety equipment takes formal checks",
+      "Delays in approval can push back the start of customer orders."
+    ]
+  ],
+  "helps": [
+    {
+      "title": "Batteries serve several industries",
+      "text": "Railways, telephone networks and aviation can need different batteries at different times."
+    },
+    {
+      "title": "Railway equipment can be added to existing trains",
+      "text": "A railway can upgrade vehicles or routes already in use."
+    },
+    {
+      "title": "Products matter where interruptions are costly",
+      "text": "Backup power and reliable train controls solve problems customers need to prepare for."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Large rail orders can bunch deliveries into a short period",
+      "text": "The annual figures can move sharply if many orders reach the installation stage at once."
+    },
+    {
+      "title": "Technical products need specialised staff",
+      "text": "Engineering and test costs start early and may continue after a delivery."
+    },
+    {
+      "title": "Different types of battery need different factories or tools",
+      "text": "Higher demand for one type may not fill machines used for another."
+    }
+  ],
+  "context": [
+    "September 2026: new results give a separate look at the railway cycle",
+    "The September filing reports group earnings below the same quarter a year earlier. Its segment table separates Batteries, Electronics and Defence & Aviation, which helps show where the change occurred."
+  ],
+  "sources": [
+    [
+      "HBL business units",
+      "https://www.hbl.in/"
+    ],
+    [
+      "HBL railway electronics",
+      "https://www.hblelectronics.com/Railway-app.html"
+    ],
+    [
+      "HBL railway batteries",
+      "https://hblbatteries.com/Railway-app.html"
+    ],
+    [
+      "HBL battery storage systems",
+      "https://hblbess.com/"
+    ],
+    [
+      "FY 2025–26 annual report",
+      "https://hbl.in/reports/hblannualreport2026.pdf"
+    ],
+    [
+      "September 2026 results",
+      "https://hbl.in/reports/financial_results_30092026.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Compare the disclosed businesses",
+      "text": "Consolidated means HBL and its controlled companies together. The business table shows reported segment results before the costs and income used to reach the whole group’s profit."
+    },
+    {
+      "title": "Read the unusual annual costs",
+      "text": "HBL removed the cost of earlier design work from its accounts after the project specifications changed, and it removed other assets that no longer carried value. These charges reduced reported profit."
+    }
+  ],
+  "financialCue": "Compare battery demand with railway deliveries using the segment figures, then check the annual note on unusual costs.",
+  "photoCaption": "The cards show where industrial batteries and railway electronics are put to work.",
+  "checked": "18 November 2026"
+}

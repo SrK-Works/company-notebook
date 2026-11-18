@@ -1,0 +1,194 @@
+{
+  "summary": "Concord Control Systems makes electronics for trains and tracks, from plugs between coaches to controls for locomotives and equipment that detects worn or unevenly loaded wheels.",
+  "description": "A train driver needs clear readings, and the railway needs to spot a faulty wheel before it causes a larger problem. Concord makes parts that sit in the cab, under or inside the train, or beside the track. Some carry power between vehicles, some help several engines work together and some record how a train is behaving.",
+  "money": "Railway buyers and equipment builders pay for approved hardware, systems or services covered by a contract. Concord has to buy parts, build boards or cabinets, write and test software, and pay engineers. Work can be billed as it is delivered or accepted, while cash can come later.",
+  "customers": "Indian Railways, railway equipment builders and contractors buy equipment for new trains, upgrades and track projects. Drivers, maintenance crews and passengers use the railway that the equipment supports.",
+  "drivers": "Concord needs contracts it can deliver on time, tested equipment that works with the railway already in place and enough cash to buy parts before customers pay.",
+  "quick": [
+    {
+      "title": "What does it do?",
+      "text": "It makes and supports electronic equipment for railway coaches, locomotives and tracks."
+    },
+    {
+      "title": "Who pays?",
+      "text": "Railways, train builders and railway contractors pay for what they order."
+    },
+    {
+      "title": "How does it earn?",
+      "text": "It earns from equipment and system deliveries and support work under contracts."
+    },
+    {
+      "title": "What does it spend on?",
+      "text": "Electronic parts, engineers, software, factory labour, tests and installation."
+    }
+  ],
+  "groups": [
+    {
+      "title": "Equipment inside passenger coaches",
+      "examples": "Electrical connectors, fans and emergency lighting.",
+      "explanation": "The connectors carry electricity between vehicles. Fans and lights serve passengers inside a carriage."
+    },
+    {
+      "title": "Locomotive controls",
+      "examples": "Driver screens and systems that coordinate several engines on one freight train.",
+      "explanation": "A driver can see readings and use controls that help the engines work together."
+    },
+    {
+      "title": "Equipment beside tracks",
+      "examples": "Wheel load detectors and signalling control panels.",
+      "explanation": "A detector measures a wheel as it passes. A signalling panel helps run the railway equipment that informs and protects train movements."
+    },
+    {
+      "title": "Monitoring and maintenance",
+      "examples": "Data loggers and remote fault monitoring.",
+      "explanation": "Recorders store what happened so maintenance workers can investigate readings and decide which equipment to check."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is a locomotive?",
+      "text": "It is the vehicle that provides power to move a train. A long freight train can use several locomotives."
+    },
+    {
+      "title": "What is an order book?",
+      "text": "It is the remaining agreed work customers have ordered. The supplier still has to build or deliver it before it can earn the related sales."
+    }
+  ],
+  "stepsTitle": "From a railway order to paid equipment",
+  "steps": [
+    {
+      "title": "Specify the job",
+      "text": "The buyer sets out where the part will be used and what it has to do."
+    },
+    {
+      "title": "Build and test",
+      "text": "Engineers choose parts, assemble equipment and test it against operating requirements."
+    },
+    {
+      "title": "Fit or deliver it",
+      "text": "Depending on the order, Concord supplies a tested part or helps get a complete setup running at the site."
+    },
+    {
+      "title": "Bill and collect",
+      "text": "The contract states what the buyer must accept before a payment is due. Cash can arrive after factory or site bills have been paid."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Some products go on trains already in service",
+      "text": "Replacement electronics and monitoring equipment can be used in upgrades as well as new vehicles."
+    },
+    {
+      "title": "Parts carry different amounts of work",
+      "text": "A plug is a physical item. An installed monitoring system may also need design, software, tests and after-sales support."
+    },
+    {
+      "title": "Some new capabilities sit in other group companies",
+      "text": "The annual report describes investments in businesses that add equipment and software. Check the ownership before treating their sales as Concord’s."
+    }
+  ],
+  "watch": [
+    [
+      "Which orders are ready to deliver?",
+      "Approval and site availability can affect when a railway project is ready.",
+      "Look for dispatch or installation updates after an award, and compare the announced delivery dates with the next reported sales period."
+    ],
+    [
+      "Are buyers adding more support work?",
+      "Maintenance can continue after the equipment sale, but scope and fees depend on the agreement.",
+      "Read the order wording for separate maintenance or support terms, and check when the service starts and how long the buyer has agreed to pay."
+    ],
+    [
+      "Are older trains also using new equipment?",
+      "Upgrades can create demand even when new train deliveries are uneven.",
+      "Compare orders for new vehicles with replacements or retrofits, which are parts added to existing trains."
+    ],
+    [
+      "Can the company collect as the work grows?",
+      "Buying parts before a customer pays can tie up cash.",
+      "Compare sales, unpaid customer invoices and cash earned from running the business, and see whether bills take longer to settle as work grows."
+    ],
+    [
+      "Which newer products are showing up in accounts?",
+      "A catalogue can include a capability well before it produces meaningful sales.",
+      "Read the group statements and match mentions of newer products to disclosed deliveries, then check whether related companies are included in the group accounts."
+    ]
+  ],
+  "risks": [
+    [
+      "Railway spending can shift",
+      "Tender and rollout dates depend partly on when buyers fund a project."
+    ],
+    [
+      "Engineering checks can take time",
+      "A new design may need changes before it is suitable for the rail system."
+    ],
+    [
+      "Equipment must work with existing trains",
+      "A design built to one train specification may need extra work for another."
+    ],
+    [
+      "A project can need more support than expected",
+      "Extra work after installation can add cost to a contract."
+    ]
+  ],
+  "helps": [
+    {
+      "title": "Existing trains need care",
+      "text": "Installed equipment provides a reason for operators to buy replacement parts or maintenance."
+    },
+    {
+      "title": "A stronger range can cover several jobs",
+      "text": "A rail buyer can ask for displays, controls and checking equipment under related projects."
+    },
+    {
+      "title": "Fault detection can make inspections more targeted",
+      "text": "Recording how a train behaves helps a railway decide what equipment to inspect."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Getting approval takes engineering work first",
+      "text": "Design and tests usually cost money before the customer buys production quantities."
+    },
+    {
+      "title": "Contract payments can lag the work",
+      "text": "A customer can have paid nothing while a supplier buys parts for the next delivery."
+    },
+    {
+      "title": "Bringing in new businesses adds work",
+      "text": "Group engineers and factories have to combine new designs, teams and quality checks."
+    }
+  ],
+  "context": [
+    "September 2026: annual report describes the move beyond coach parts",
+    "The revised annual report describes a range spanning train controls, wheel monitoring and signalling, and plans to earn more from support after installation. Read later contracts to see which services buyers pay for."
+  ],
+  "sources": [
+    [
+      "Company rail equipment catalogue",
+      "https://www.concordgroup.in/"
+    ],
+    [
+      "Company locomotive accessories",
+      "https://www.concordgroup.in/accessories"
+    ],
+    [
+      "Revised FY 2025–26 annual report filed with BSE",
+      "https://cdn.financialreports.eu/financialreports/media/filings/59741/2026/RNS/59741_rns_2026-09-15_935dbde3-459f-4b1a-8539-066dd953aa70.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Read the group total",
+      "text": "The annual statement covers Concord and its subsidiary together and includes its share of associated businesses. It does not provide a profit figure for each train product."
+    },
+    {
+      "title": "Read which owners the profit belongs to",
+      "text": "Group profit after tax includes outside ownership in subsidiaries. The filing shows separately what remains for Concord’s own shareholders."
+    }
+  ],
+  "financialCue": "Compare cash collected with reported profit as the company turns railway orders into installed equipment.",
+  "photoCaption": "The cards show the kinds of equipment used in a carriage, locomotive and along the track.",
+  "checked": "18 November 2026"
+}

@@ -1,0 +1,193 @@
+{
+  "summary": "V.I.P. Industries sells wheeled suitcases, backpacks and handbags. It sells to travellers and everyday shoppers through stores, dealers and online channels.",
+  "description": "If you buy a wheeled suitcase, the parts that make it useful include the outer shell, wheels, zips and pull handle. V.I.P. Industries designs or sources bags, manufactures some of them, then gets stock into retail and online channels. Its portfolio includes VIP, Skybags, Carlton, Aristocrat and Caprese.",
+  "money": "The company earns from selling bags. A dealer or marketplace order can leave a different amount per bag than a direct sale. Materials, bought-in stock, labour, shipping, store or selling fees, and advertising eat into that amount. An unsold bag uses cash and space even before the company reduces its price to sell it.",
+  "customers": "Travellers, students and working shoppers use the bags. Retailers and distributors may pay V.I.P. Industries for inventory they resell. Shoppers buy directly when they use the company’s own channels.",
+  "drivers": "Watch how many bags sell at normal prices, how long stock sits unsold, and whether manufacturing and selling costs fall as volumes change.",
+  "quick": [
+    {
+      "title": "What does it do?",
+      "text": "It makes and sells suitcases, travel bags, backpacks and handbags."
+    },
+    {
+      "title": "Who pays?",
+      "text": "Shoppers buy bags. Retailers and distributors can buy them to resell."
+    },
+    {
+      "title": "How does it earn?",
+      "text": "It earns the amount it receives when it sells a bag."
+    },
+    {
+      "title": "What does it spend on?",
+      "text": "Materials, stock bought from suppliers, workers, distribution and selling costs."
+    }
+  ],
+  "groups": [
+    {
+      "title": "Wheeled suitcases",
+      "examples": "Hard and soft luggage, including cabin and larger sizes.",
+      "explanation": "Travellers pick a shell, size and wheel setup to suit what they are carrying."
+    },
+    {
+      "title": "Backpacks",
+      "examples": "Skybags and other bags with shoulder straps.",
+      "explanation": "Students, commuters and travellers carry notebooks, clothes or a computer without pulling a case."
+    },
+    {
+      "title": "Business travel bags",
+      "examples": "Laptop trolleys and business cases.",
+      "explanation": "Compartments help separate a computer and work items from clothes."
+    },
+    {
+      "title": "Handbags",
+      "examples": "Caprese handbags and related styles.",
+      "explanation": "These are everyday accessories and can have a different season or shopper from a large suitcase."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is inventory?",
+      "text": "It is the stock the company holds, from raw materials to finished bags. Until finished bags sell, the cash spent making or buying them remains tied up."
+    },
+    {
+      "title": "How can a discount change profit?",
+      "text": "If a bag is sold at a lower price, the cost to make it usually stays the same. The amount left after that cost gets smaller."
+    }
+  ],
+  "stepsTitle": "From a suitcase design to a paid sale",
+  "steps": [
+    {
+      "title": "Choose a range",
+      "text": "Plan which shapes, sizes, colours and materials to offer."
+    },
+    {
+      "title": "Make or buy the bags",
+      "text": "Pay for parts such as shells and handles, or buy finished bags from a supplier."
+    },
+    {
+      "title": "Put bags in front of shoppers",
+      "text": "Send different models to retailers or keep stock ready for direct and online orders."
+    },
+    {
+      "title": "Book the sale and collect",
+      "text": "Record sales under the order terms. A retailer may pay later, and a return or discount can reduce what the company keeps."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "One category can have several price points",
+      "text": "V.I.P. Industries offers different brands and bag sizes. A change in which bags people buy can affect average selling prices even if the number sold stays similar."
+    },
+    {
+      "title": "Some production sits in group subsidiaries",
+      "text": "The audited group results include companies in Bangladesh. Looking only at the Indian parent would miss part of the manufacturing and financial picture."
+    },
+    {
+      "title": "Stock decisions come before peak shopping",
+      "text": "The company commits to colours and sizes before it knows precisely what will sell. The wrong combination can leave some models unavailable while others pile up."
+    }
+  ],
+  "watch": [
+    [
+      "Are customers buying at regular prices?",
+      "Heavy promotions can raise the number of bags sold while leaving less money per bag.",
+      "Look for comments on discounts and compare sales with the cost of goods sold to see what remains after making or buying the bags."
+    ],
+    [
+      "How quickly is old stock moving?",
+      "Bags sitting in storage tie up money and may require clearance offers.",
+      "Compare inventory and sales over time, then read which ranges the company is selling through clearance offers."
+    ],
+    [
+      "Are factories being used enough?",
+      "Buildings and machines still cost money when fewer bags are made.",
+      "Look for production volumes and changes in factory use or sourcing. Compare those with costs that continue despite lower production."
+    ],
+    [
+      "Which selling channel is driving sales?",
+      "Online orders, company stores and wholesale orders can carry different selling costs.",
+      "Read the sales mix by channel and compare changes in promotion and selling costs with the channels that grew."
+    ],
+    [
+      "How much of the reported result comes from unusual costs?",
+      "Asset sale gains or insurance receipts can make the year harder to compare.",
+      "Read the note on exceptional items and compare profit or loss both before and after those items."
+    ]
+  ],
+  "risks": [
+    [
+      "Demand may soften outside travel seasons",
+      "When trips and discretionary purchases slow, stores may place smaller orders."
+    ],
+    [
+      "Competitors can cut prices",
+      "A rival’s offer can put pressure on the price V.I.P. Industries receives."
+    ],
+    [
+      "Manufacturing can be disrupted",
+      "A plant or supplier problem can delay shipments and add freight or sourcing costs."
+    ],
+    [
+      "Unsold designs can lose value",
+      "Older colours and designs may need price cuts to make room for new collections."
+    ]
+  ],
+  "helps": [
+    {
+      "title": "Several brands serve different buyers",
+      "text": "Travel luggage, student backpacks and everyday handbags reach shoppers with different needs."
+    },
+    {
+      "title": "Replacement purchases keep ranges relevant",
+      "text": "Wear and changing travel needs can bring shoppers back for a new bag."
+    },
+    {
+      "title": "More than one way to sell a bag",
+      "text": "Stores let shoppers test fit and wheels, while online channels help them browse and compare sizes."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Retail space costs money before sales",
+      "text": "Rent and staff costs continue during quiet weeks."
+    },
+    {
+      "title": "Returns add handling costs",
+      "text": "An online order that comes back must be checked and may need to be repacked or reduced in price."
+    },
+    {
+      "title": "Retail credit can defer cash",
+      "text": "Delivering to a seller can add to reported sales before the invoice is paid."
+    }
+  ],
+  "context": [
+    "May 2026 annual results",
+    "The audited filing records Multiples group taking control in September 2025. Read subsequent disclosures for specific changes to products, factories and selling channels."
+  ],
+  "sources": [
+    [
+      "V.I.P. Industries brand portfolio",
+      "https://www.vipindustries.co.in/our-brands"
+    ],
+    [
+      "VIP Bags official catalogue",
+      "https://vipbags.com/"
+    ],
+    [
+      "Audited annual results filed with NSE",
+      "https://nsearchives.nseindia.com/corporate/VIPINDUSTRIES_15052026181508_SEuploadfinancialresult_signed.pdf"
+    ],
+    [
+      "Company results presentation for the year to March 2026",
+      "https://vipindustries.co.in/storage/regulations/May2026/VIP%20-%20Presentation%20Outcome%20Final.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "How to read group results",
+      "text": "The consolidated figures include subsidiaries. The company reports luggage and bags together, which leaves brand and model profit outside the published split."
+    }
+  ],
+  "checked": "18 November 2026",
+  "financialCue": "Compare the group’s sales and loss, then read the exceptional items note to see which gains and costs are identified separately."
+}

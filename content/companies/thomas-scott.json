@@ -1,0 +1,113 @@
+{
+  "order": 119,
+  "company": {
+    "id": "thomas-scott",
+    "name": "Thomas Scott (India) Limited",
+    "ticker": "THOMASCOTT",
+    "sector": "Consumer & retail",
+    "initial": "TS",
+    "color": "#222831",
+    "bg": "#f3f0e9",
+    "tag": "The business behind the offering",
+    "logo": "assets/logos/thomas-scott-official.svg",
+    "products": [
+      [
+        "Thomas Scott casual shirt",
+        "A button-up for everyday wear."
+      ],
+      [
+        "Thomas Scott formal shirt",
+        "A collared shirt designed for work or dressier settings."
+      ],
+      [
+        "Thomas Scott linen shirt",
+        "A shirt made from linen or a linen blend."
+      ],
+      [
+        "Thomas Scott jeans",
+        "Denim trousers offered in styles with different cuts."
+      ],
+      [
+        "Thomas Scott trousers",
+        "Full length trousers for everyday and smarter outfits."
+      ],
+      [
+        "Thomas Scott T-shirt",
+        "A casual top in its menswear range."
+      ],
+      [
+        "Thomas Scott polo",
+        "A casual shirt with a collar and a short button opening."
+      ]
+    ],
+    "sources": [],
+    "productSource": "https://thomasscott.in/",
+    "productNote": "These catalogue images show examples from the company’s consumer ranges. Review the investor presentation for the wider business.",
+    "checked": "18 Nov 2026",
+    "reviewed": "18 November 2026",
+    "aliases": [
+      "Thomas Scott",
+      "TSIL",
+      "Cricket Club shirts",
+      "Thomas Scott menswear"
+    ]
+  },
+  "offerings": [
+    {
+      "name": "Thomas Scott casual shirt",
+      "category": "A button-up for everyday wear.",
+      "image": "assets/products/thomas-scott-casual-shirt.webp",
+      "url": "https://thomasscott.in/",
+      "kind": "pack",
+      "alt": "Official Thomas Scott catalogue picture of a casual shirt"
+    },
+    {
+      "name": "Thomas Scott formal shirt",
+      "category": "A collared shirt designed for work or dressier settings.",
+      "image": "assets/products/thomas-scott-formal-shirt.webp",
+      "url": "https://thomasscott.in/",
+      "kind": "pack",
+      "alt": "Official Thomas Scott catalogue picture of a formal shirt"
+    },
+    {
+      "name": "Thomas Scott linen shirt",
+      "category": "A shirt made from linen or a linen blend.",
+      "image": "assets/products/thomas-scott-linen-shirt.webp",
+      "url": "https://thomasscott.in/",
+      "kind": "pack",
+      "alt": "Official Thomas Scott catalogue picture of a linen category shirt"
+    },
+    {
+      "name": "Thomas Scott jeans",
+      "category": "Denim trousers offered in styles with different cuts.",
+      "image": "assets/products/thomas-scott-jeans.webp",
+      "url": "https://thomasscott.in/",
+      "kind": "pack",
+      "alt": "Official Thomas Scott catalogue picture of jeans"
+    },
+    {
+      "name": "Thomas Scott trousers",
+      "category": "Full length trousers for everyday and smarter outfits.",
+      "image": "assets/products/thomas-scott-trousers.webp",
+      "url": "https://thomasscott.in/",
+      "kind": "pack",
+      "alt": "Official Thomas Scott catalogue picture of trousers"
+    },
+    {
+      "name": "Thomas Scott T-shirt",
+      "category": "A casual top in its menswear range.",
+      "image": "assets/products/thomas-scott-tshirt.webp",
+      "url": "https://thomasscott.in/",
+      "kind": "pack",
+      "alt": "Official Thomas Scott catalogue picture of a T-shirt"
+    },
+    {
+      "name": "Thomas Scott polo",
+      "category": "A casual shirt with a collar and a short button opening.",
+      "image": "assets/products/thomas-scott-polo.webp",
+      "url": "https://thomasscott.in/",
+      "kind": "pack",
+      "alt": "Official Thomas Scott catalogue picture of a polo shirt"
+    }
+  ]
+}

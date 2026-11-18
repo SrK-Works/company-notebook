@@ -1,0 +1,197 @@
+{
+  "summary": "Sai Silks sells sarees, lehengas and other clothing under store names such as Kalamandir and KLM Fashion Mall. It also sells silver jewellery through Rasamayi.",
+  "description": "A wedding shopper can visit a Kancheepuram Varamahalakshmi Silks store to choose a silk saree. A family can also visit KLM Fashion Mall for clothing at different prices. Sai Silks buys and selects stock from weavers and vendors, moves it into its stores and sells pieces to shoppers.",
+  "money": "Sai Silks earns by selling clothing and jewellery. It pays suppliers for the stock and spends on rent, staff, moving the goods and promoting stores. A customer’s bill records a sale. The company still needs to cover the cost of that piece and all the costs of running the shop.",
+  "customers": "People shopping for weddings, festivals or everyday clothing buy from the stores. Online shoppers can also order from the company’s brand websites.",
+  "drivers": "What existing shops sell, what new shops earn after rent and salaries, and how much money gets stuck in stock that takes time to sell.",
+  "quick": [
+    {
+      "title": "What does it do?",
+      "text": "It buys clothing from weavers and vendors and sells it in its branded shops and websites."
+    },
+    {
+      "title": "Who pays?",
+      "text": "Shoppers pay for sarees, other clothes and, at Rasamayi, silver jewellery."
+    },
+    {
+      "title": "How does it earn?",
+      "text": "The company earns from merchandise sales at its stores and online."
+    },
+    {
+      "title": "What does it spend on?",
+      "text": "Buying stock, paying store employees and renting and running the shops."
+    }
+  ],
+  "groups": [
+    {
+      "title": "Wedding sarees",
+      "examples": "Silk sarees sold by Kancheepuram Varamahalakshmi Silks.",
+      "explanation": "Shoppers choose materials, colours and patterns for weddings and other important occasions."
+    },
+    {
+      "title": "Occasion clothing",
+      "examples": "Kalamandir and Brand Mandir sarees and other occasion clothes.",
+      "explanation": "These brands give people additional ways to shop across styles, materials and budgets."
+    },
+    {
+      "title": "Family and everyday clothing",
+      "examples": "Clothing from KLM Fashion Mall, Desi Sitara and Valli Silks.",
+      "explanation": "Shops can serve a family shopping for clothes as well as a shopper looking for one saree."
+    },
+    {
+      "title": "Silver jewellery",
+      "examples": "Silver earrings, necklaces and other pieces at Rasamayi.",
+      "explanation": "This brings a different set of products into the company’s retail business."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is the stock in a shop?",
+      "text": "It is the clothing and jewellery the retailer has ready to sell. The business can spend money on this stock weeks or months before the shopper pays."
+    },
+    {
+      "title": "What do sales at existing stores tell me?",
+      "text": "Comparing stores that were open in both periods shows how the current shops performed. Total sales can also grow because the company opened more stores."
+    }
+  ],
+  "stepsTitle": "From a weaver to a shopper",
+  "steps": [
+    {
+      "title": "Select and order stock",
+      "text": "The company chooses designs and places orders with weavers and vendors."
+    },
+    {
+      "title": "Send stock to shops",
+      "text": "The company divides the pieces among stores according to what it expects people to buy."
+    },
+    {
+      "title": "Sell the item",
+      "text": "A shopper chooses a saree and pays. Any discount reduces the amount the shop earns from that sale."
+    },
+    {
+      "title": "Pay bills and cover running costs",
+      "text": "Store sales must cover the saree’s cost, salaries, rent and other bills. It can take longer to recover cash spent on stock that stays on the shelf."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Fabric and occasion change the shop a customer picks",
+      "text": "The company uses different brands to sell clothing from affordable pieces to premium wedding sarees. Growth can come from one type of shop while another is flat."
+    },
+    {
+      "title": "Stock is a choice as well as a cost",
+      "text": "Offering enough colours, patterns and fabrics helps a shop serve different shoppers. Buying too many of the wrong pieces leaves cash tied up."
+    },
+    {
+      "title": "Four southern states form the base",
+      "text": "The company operates across Telangana, Andhra Pradesh, Karnataka and Tamil Nadu. Expansion in these markets can make existing staff and supplier networks more useful."
+    }
+  ],
+  "watch": [
+    [
+      "Are established shops selling more?",
+      "New outlets can drive total growth even when older ones struggle.",
+      "Find same-store sales growth in the company’s presentation and compare it with overall sales growth."
+    ],
+    [
+      "Is stock growing faster than sales?",
+      "A shop can show stronger sales while more cash still sits in unsold goods.",
+      "Compare the year-end stock balance and sales and check what management says about stock levels."
+    ],
+    [
+      "Are new outlets worth their cost?",
+      "Rent and salaries start before a store builds a regular customer base.",
+      "Compare shop openings, retail space and sales per square foot. Check if store operating costs are growing faster than sales."
+    ],
+    [
+      "What changes in a wedding or festival quarter?",
+      "Customers may buy outfits in a different month when the calendar moves celebrations.",
+      "Read the quarter against the same season last year and review the company’s explanation of calendar effects."
+    ],
+    [
+      "Do reported earnings turn into cash?",
+      "Suppliers can be paid before clothing sells.",
+      "Compare cash from running the business with profit and check how stock and supplier bills changed."
+    ]
+  ],
+  "risks": [
+    [
+      "Local competition",
+      "Nearby independent shops and larger chains can compete for the same shopping trip."
+    ],
+    [
+      "Unexpected changes in taste",
+      "People may move away from fabrics or styles the company bought ahead of the season."
+    ],
+    [
+      "Too much reliance on one region",
+      "A disruption across the southern markets can affect many stores together."
+    ],
+    [
+      "Store opening delays",
+      "Finding space and setting it up can delay when a new store starts selling."
+    ]
+  ],
+  "helps": [
+    {
+      "title": "Many suppliers can provide different designs",
+      "text": "Working with weavers and vendors gives stores a wider assortment of fabrics and styles."
+    },
+    {
+      "title": "A customer can see and feel the fabric",
+      "text": "A store lets a shopper examine the colour, drape and weave before paying for a saree."
+    },
+    {
+      "title": "Several price points serve different journeys",
+      "text": "A family looking for affordable clothing and a shopper choosing wedding silk can both find a relevant store."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Busy sales cluster around occasions",
+      "text": "A quiet season leaves fewer sales to cover the same store bills."
+    },
+    {
+      "title": "Unsold pieces can need markdowns",
+      "text": "Cutting prices clears stock but leaves less per sale to pay the other bills."
+    },
+    {
+      "title": "Shop rent continues on slow days",
+      "text": "The company keeps paying to occupy its stores even when few customers visit."
+    }
+  ],
+  "context": [
+    "November 2026: the company reports its latest assortment and store footprint",
+    "Its September quarter presentation tracks the shop network and the sales of each store format. These disclosures let readers see where the retailer is growing."
+  ],
+  "sources": [
+    [
+      "Retail brands and clothing assortment",
+      "https://sskl.co.in/brands/"
+    ],
+    [
+      "Corporate overview",
+      "https://sskl.co.in/about/"
+    ],
+    [
+      "FY 2025–26 annual report and audited statements",
+      "https://nsearchives.nseindia.com/annual_reports/AR_29862_KALAMANDIR_2025_2026_A_17305586_17072026175907.pdf"
+    ],
+    [
+      "September 2026 investor presentation",
+      "https://sskl.co.in/wp-content/uploads/2026/11/Q2-FY27-Results-Investor-Presentation.pdf"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Read the company totals",
+      "text": "The audited table covers Sai Silks (Kalamandir) Limited. Revenue comes from running the business. Profit is what remains after expenses and tax."
+    },
+    {
+      "title": "Store format sales do not show store format profit",
+      "text": "Investor presentations give sales for several store formats. The audited table does not provide each format’s share of profit."
+    }
+  ],
+  "financialCue": "Compare the retailer’s company-wide sales and profit, then check how much cash is tied up in stock.",
+  "checked": "18 November 2026"
+}
