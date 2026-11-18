@@ -1,0 +1,24 @@
+{
+  "status": "single",
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "coverage": "Consolidated company total",
+  "unit": "₹ crore",
+  "profitMetric": "Profit after tax",
+  "definition": "The result for DCX and its subsidiaries after tax, including its share of the result of an associate company.",
+  "rows": [
+    {
+      "name": "DCX Systems Limited · consolidated",
+      "revenue": 743.34,
+      "profit": -7.71
+    }
+  ],
+  "revenueTotal": 743.34,
+  "profitTotal": -7.71,
+  "source": "https://dcxindia.com/wp-content/uploads/2026/05/FY25-26Q4.pdf",
+  "sourceLabel": "Company’s audited annual results",
+  "location": "PDF page 17, consolidated statement, audited year ended 31 March 2026 column, rows 1, 7, 8 and 13.",
+  "checked": "18 November 2026",
+  "notes": "The results filing also gives a separate parent-company statement. These figures use only the group column. Product-level profit is not shown here.",
+  "insight": "The group reported a profit before tax and a loss after tax for the year. Read the tax line before comparing profitability."
+}
