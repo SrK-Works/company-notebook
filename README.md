@@ -74,7 +74,7 @@ To process the issues, ask the figures-verifier agent to handle the open `figure
 
 ## Quarterly results
 
-The quarterly pilot covers HUL, Refex Industries, Rainbow Children’s Medicare, ITC, Titan and ICICI Bank. The latest verified quarter appears in **The numbers** with a short explanation, an expandable comparison with the same quarter last year and direct links to the filings. Quarterly records live in [`content/financial-reviews/quarterly/`](content/financial-reviews/quarterly/README.md) and are reviewed independently from the annual snapshots.
+The latest verified quarter appears in **The numbers** with a short explanation, an expandable comparison with the same quarter last year and direct links to the filings. Quarterly records live in [`content/financial-reviews/quarterly/`](content/financial-reviews/quarterly/README.md) and are reviewed independently from the annual snapshots.
 
 Run `node scripts/watch-quarters.cjs --period=2026-09-30` to list the existing profiles, the records already reviewed for that period and official starting points for the rest. Use `--json` for a machine-readable list. This is a review queue. It does not check whether each filing exists or claim that a filing is missing. Start with NSE’s [Integrated Filing – Financials](https://www.nseindia.com/companies-listing/corporate-integrated-filing) or the company’s investor page, then review the actual statement before publishing.
 

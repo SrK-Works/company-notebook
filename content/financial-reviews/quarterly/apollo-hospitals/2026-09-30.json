@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-04",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Continuing operations",
+  "sourceUnit": "million",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 76149,
+      "previous": 61888
+    },
+    {
+      "label": "Profit after tax",
+      "current": 6584,
+      "previous": 5006
+    }
+  ],
+  "change": "Revenue and profit from the businesses Apollo continues to run rose. The profit comparison excludes earnings separately reported for discontinued operations.",
+  "watch": "Read the hospital, pharmacy and clinic segment results to see which activities contributed more after costs.",
+  "sources": [
+    {
+      "label": "Apollo Hospitals’ NSE filing",
+      "url": "https://nsearchives.nseindia.com/corporate/APOLLOHOSP_04112026174756_SE_Communication_04112026_s.pdf",
+      "location": "Unaudited consolidated results, September quarter columns, rows 1(a) and 9 (continuing operations), and consolidated segment information."
+    }
+  ]
+}

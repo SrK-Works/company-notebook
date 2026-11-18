@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-05",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 198263.33,
+      "previous": 157913.6
+    },
+    {
+      "label": "Profit after tax",
+      "current": 18534.82,
+      "previous": 12614.6
+    }
+  ],
+  "change": "Group revenue and profit rose. These totals combine the businesses that extract oil and gas with subsidiaries that refine and sell fuel.",
+  "watch": "Compare earnings from oil and gas production with refining to see which part drove the change.",
+  "sources": [
+    {
+      "label": "Quarterly results filing",
+      "url": "https://nsearchives.nseindia.com/corporate/ONGC_05112026173147_FS30092026SD.pdf",
+      "location": "Consolidated statement, September quarter columns, rows I and XI. Profit is total group profit before attribution. The separate consolidated segment table identifies the business lines."
+    }
+  ]
+}

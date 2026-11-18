@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-04",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 3301.21,
+      "previous": 3170.27
+    },
+    {
+      "label": "Profit after tax",
+      "current": 507.17,
+      "previous": 622.33
+    }
+  ],
+  "change": "Sales and related operating income increased, while profit fell. The group spent more on materials than a year earlier.",
+  "watch": "Check whether sales and prices for engines and power equipment are keeping up with material costs.",
+  "sources": [
+    {
+      "label": "Cummins India’s exchange filing",
+      "url": "https://www.cummins.com/sites/default/files/india/Legal/seintimation_outcomefr_04112026.pdf",
+      "location": "Unaudited consolidated results, September quarter columns, rows 1(a), 2(a) and 9. Revenue is sales/income from operations plus other operating income (3,247.47 + 53.74; 3,121.58 + 48.69), excluding other income."
+    }
+  ]
+}

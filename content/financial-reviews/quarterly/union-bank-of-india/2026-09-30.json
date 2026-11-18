@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-19",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Group profit shown after other owners’ share",
+  "sourceUnit": "lakh",
+  "metrics": [
+    {
+      "label": "Total income",
+      "current": 3347129,
+      "previous": 3175544
+    },
+    {
+      "label": "Net profit for the period",
+      "current": 578100,
+      "previous": 442595
+    }
+  ],
+  "change": "Profit rose as the bank earned more interest and set aside less overall for potential losses and other obligations.",
+  "watch": "Watch whether interest from loans grows faster than the interest the bank pays, and how much it sets aside when borrowers fall behind.",
+  "sources": [
+    {
+      "label": "Official September quarter results",
+      "url": "https://www.unionbankofindia.bank.in/pdf/UNIONBANK-19102026120305-Results-Sept2026.pdf",
+      "location": "Unaudited consolidated results, PDF page 4, September quarter columns, lines A and L. Lines C and D show operating profit and amounts set aside for potential losses and other obligations."
+    }
+  ]
+}

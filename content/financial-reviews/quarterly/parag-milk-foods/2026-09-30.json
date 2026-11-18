@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-03",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 1240.89,
+      "previous": 1007.95
+    },
+    {
+      "label": "Profit after tax",
+      "current": 42,
+      "previous": 45.65
+    }
+  ],
+  "change": "Revenue rose but profit fell. A bigger sales figure alone does not show how much remains after the company pays for milk, processing and other costs.",
+  "watch": "Compare the cost of milk and other materials with sales in the next quarter.",
+  "sources": [
+    {
+      "label": "Quarterly results filing",
+      "url": "https://nsearchives.nseindia.com/corporate/PARAGMILK_03112026224726_Intimation.pdf",
+      "location": "Unaudited consolidated table, rows 1 and 9, September quarter columns, in crore. Profit is group profit before attribution."
+    }
+  ]
+}

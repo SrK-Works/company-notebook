@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-10",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 19644.01,
+      "previous": 16676.3
+    },
+    {
+      "label": "Profit after tax",
+      "current": 742.98,
+      "previous": 684.85
+    }
+  ],
+  "change": "DMart’s sales grew faster than profit. The group kept a smaller share of sales as profit after tax than in the same quarter last year.",
+  "watch": "Check whether new stores and online orders bring enough additional sales to cover what it costs to serve them.",
+  "sources": [
+    {
+      "label": "Avenue Supermarts’ exchange filing",
+      "url": "https://api.dmartindia.com/corporate/content/file/v1/2/8fo19qw4DuRrXaSwTnILorFw1791626941/Outcome%20of%20the%20Board%20Meeting%20held%20on%20October%2010%2C%202026.pdf",
+      "location": "Unaudited consolidated results, September quarter columns, rows 1(a) and 5; consolidated ratio disclosure, net profit margin."
+    }
+  ]
+}

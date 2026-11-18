@@ -1,0 +1,36 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-15",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Total income excluding dividends",
+      "current": 1699,
+      "previous": 733
+    },
+    {
+      "label": "Profit after tax",
+      "current": 340,
+      "previous": 695
+    }
+  ],
+  "change": "Income excluding dividends grew, but reported profit fell. The group recorded no dividend income in this quarter, and its share of results from partners swung to a loss.",
+  "watch": "Track interest and fees alongside the cost of borrowing money to lend.",
+  "sources": [
+    {
+      "label": "Quarterly results filing",
+      "url": "https://www.jfs.in/docs/cms/assets/jfs/investor-relations/financials/quarterly-results/q2-fy2026-27-analyst-presentation.pdf",
+      "location": "Consolidated financial performance table, Q2 FY27 and Q2 FY26 columns, identified as ₹ crore. Total income excludes dividend income shown separately; profit after tax includes it and the share of associate/joint venture results."
+    },
+    {
+      "label": "NSE integrated quarterly filing",
+      "url": "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_NBFC_INDAS_201595_15102026200724_iXBRL_WEB.html",
+      "location": "Company, reporting basis and audit status, September 2026 quarter finish, profit for the period. The exchange table uses lakh."
+    }
+  ]
+}

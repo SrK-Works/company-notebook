@@ -1,0 +1,36 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-30",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "million",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 30663.81,
+      "previous": 25593.21
+    },
+    {
+      "label": "Profit after tax",
+      "current": 406.39,
+      "previous": -504.93
+    }
+  ],
+  "change": "Delhivery moved from a loss to a profit. It handled more express parcels, but the number of shipments rose faster than revenue from that service.",
+  "watch": "Check whether parcel fees keep up with the cost of sorting and delivering more packages.",
+  "sources": [
+    {
+      "label": "Company quarterly results filing",
+      "url": "https://nsearchives.nseindia.com/corporate/DELHIVERYLTD_30102026165135_OutcomeOfBM.pdf",
+      "location": "Statement of Consolidated Unaudited Financial Results, rows I and XI, September quarter columns."
+    },
+    {
+      "label": "Delhivery results release",
+      "url": "https://www.delhivery.com/uploads/2026/10/PressRelease_Q2FY27.pdf",
+      "location": "Quarter summary and Express Parcel section, shipment and revenue growth."
+    }
+  ]
+}

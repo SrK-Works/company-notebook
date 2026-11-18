@@ -1,0 +1,36 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-23",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 54486,
+      "previous": 45152
+    },
+    {
+      "label": "Profit after tax",
+      "current": 5359,
+      "previous": 1646
+    }
+  ],
+  "change": "Revenue and profit rose. Last year's reported group included Bhushan Power and Steel, which JSW Steel stopped counting as a subsidiary in March 2026.",
+  "watch": "Read the company's comparison excluding that business to see how the remaining steel operations performed.",
+  "sources": [
+    {
+      "label": "Quarterly results filing",
+      "url": "https://jsw-steel-s3.s3.ap-south-1.amazonaws.com/jsw-steel-images/uploads/2026/10/Q2FY27-Results.pdf",
+      "location": "Unaudited consolidated financial results, quarter columns for 30 September 2026 and 2025, rows I and XI (reported group profit before attribution). Values use the reported comparison, not the press release’s like-for-like estimate."
+    },
+    {
+      "label": "JSW Steel quarterly performance release",
+      "url": "https://jsw-steel-s3.s3.ap-south-1.amazonaws.com/jsw-steel-images/uploads/2026/10/Q2FY27-Results-Press-Release.pdf",
+      "location": "Page 2: Bhushan Power and Steel accounting scope change and pro forma comparison."
+    }
+  ]
+}

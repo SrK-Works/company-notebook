@@ -36,8 +36,7 @@ test('a quarterly card appears after the business lesson and before separately l
   assert.match(html, /Full-year figures/);
   const rainbow = context.COMPANIES.find(company => company.id === 'rainbow-childrens-medicare');
   assert.match(context.companyQuarterly.render(rainbow, String), /548\.02/); // INR million → INR crore
-  const unreviewed = context.COMPANIES.find(company => company.id === 'marico');
-  assert.ok(!context.shortProfile.render(unreviewed, helpers).includes('id="quarterly"'));
+  assert.equal(context.companyQuarterly.render({ id: 'company-without-a-reviewed-filing' }, String), '');
 });
 
 test('the review queue tracks the requested quarter by company without marking unseen filings verified', () => {

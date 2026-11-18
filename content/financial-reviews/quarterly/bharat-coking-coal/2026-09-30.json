@@ -1,0 +1,36 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-25",
+  "checkedOn": "2026-11-18",
+  "basis": "Standalone",
+  "assurance": "Unaudited",
+  "coverage": "Company only",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 4412.58,
+      "previous": 3173.25
+    },
+    {
+      "label": "Profit or loss after tax",
+      "current": 123.74,
+      "previous": -52.99
+    }
+  ],
+  "change": "Mining revenue rose and Bharat Coking Coal moved from a loss to a profit. Spending on employees and contractors also rose.",
+  "watch": "Compare the tonnes of coal sold with how much the company earns and spends on each tonne.",
+  "sources": [
+    {
+      "label": "Bharat Coking Coal’s NSE results filing",
+      "url": "https://nsearchives.nseindia.com/corporate/BCCL_25102026141312_Financial_statement_half_yearly.pdf",
+      "location": "PDF page 4, standalone financial results, September quarter columns, rows I, IV(c), IV(g) and VII."
+    },
+    {
+      "label": "Bharat Coking Coal’s NSE integrated filing",
+      "url": "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_INDAS_204008_25102026145453_iXBRL_WEB.html",
+      "location": "General information and current September quarter, Financial Results Ind-AS; values in lakh."
+    }
+  ]
+}

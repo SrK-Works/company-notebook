@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-30",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "lakh",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 256921,
+      "previous": 213547
+    },
+    {
+      "label": "Profit after tax",
+      "current": 41445,
+      "previous": 49130
+    }
+  ],
+  "change": "Group revenue rose while reported profit fell. The group figures include Kalinga Hospital from its May 2026 acquisition, changing what is included in the comparison.",
+  "watch": "Check revenue and costs at existing hospitals separately from the contribution of acquired hospitals where the company discloses it.",
+  "sources": [
+    {
+      "label": "Quarterly results filing",
+      "url": "https://max-website20-images.s3.ap-south-1.amazonaws.com/SE_Intimation_Reg_30_LODR_Financial_Results_30_10_2026_57c853f0e0.pdf",
+      "location": "PDF page 6, unaudited consolidated financial results, operating revenue and profit for the period (before attribution), September quarter columns. Note 7 covers the Kalinga acquisition and consolidation date."
+    }
+  ]
+}

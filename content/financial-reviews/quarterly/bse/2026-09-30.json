@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-04",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Continuing operations",
+  "sourceUnit": "lakh",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 143266,
+      "previous": 106839
+    },
+    {
+      "label": "Profit after tax",
+      "current": 80752,
+      "previous": 55702
+    }
+  ],
+  "change": "BSE earned more from its operations and kept more in profit after tax. The same September quarter a year earlier had no profit from discontinued operations.",
+  "watch": "Check how much the exchange earns from trades, and how much it has to set aside to help settle trades if a participant fails to pay.",
+  "sources": [
+    {
+      "label": "BSE Limited’s NSE results filing",
+      "url": "https://nsearchives.nseindia.com/corporate/BSE1_04112026175851_NSEINTIMATION.pdf",
+      "location": "Unaudited consolidated results, September quarter columns, rows 1, 7, 12 and 17; row 7 is the settlement guarantee fund contribution."
+    }
+  ]
+}

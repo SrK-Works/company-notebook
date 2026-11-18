@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-08",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Audited",
+  "coverage": "Group profit shown for owners",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 73188,
+      "previous": 65799
+    },
+    {
+      "label": "Profit after tax attributable to owners",
+      "current": 13884,
+      "previous": 12075
+    }
+  ],
+  "change": "Sales and profit rose. The prior-year quarter included a restructuring charge, so part of the profit improvement comes from a lower comparison.",
+  "watch": "Compare profit before unusual items and check whether new contracts turn into billable work.",
+  "sources": [
+    {
+      "label": "Official September quarter results",
+      "url": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2026-27/q2/IND%20AS/Consolidated.pdf",
+      "location": "Consolidated interim statement of profit and loss, PDF page 2, three-month columns ended September 30. Revenue and profit attributable to shareholders. The exceptional items identify the prior-year restructuring expense."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-24",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Total income",
+      "current": 29426.88,
+      "previous": 24901.39
+    },
+    {
+      "label": "Profit after tax attributable to owners",
+      "current": 5645.38,
+      "previous": 4468.27
+    }
+  ],
+  "change": "The group's income and profit rose. The income total combines banking with businesses such as insurance, so it is broader than what the bank earns from loans.",
+  "watch": "Look at interest earned after paying depositors and the amount set aside for loan losses at the bank itself.",
+  "sources": [
+    {
+      "label": "Quarterly results filing",
+      "url": "https://www.kotak.bank.in/content/dam/Kotak/investor-relation/governance/governance-sebi-tab/2026/q2-fy27/board-meeting-q2-h1-fy27-results-september-30-2026.pdf",
+      "location": "PDF page 7, consolidated financial results, September 2026 and September 2025 quarterly columns, rows 3 and 17. The latter deducts minority interest and adds share of profits of associates."
+    }
+  ]
+}

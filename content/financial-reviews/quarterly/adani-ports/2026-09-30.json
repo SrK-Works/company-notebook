@@ -1,0 +1,36 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-28",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 11340.4,
+      "previous": 9167.46
+    },
+    {
+      "label": "Profit after tax",
+      "current": 3682.44,
+      "previous": 3120.2
+    }
+  ],
+  "change": "Revenue and profit grew. The company says domestic ports handled more cargo and earned more from it, while overseas ports and marine services also grew.",
+  "watch": "Compare earnings from port operations with earnings from inland transport and ship services as those businesses grow.",
+  "sources": [
+    {
+      "label": "Adani Ports’ NSE results filing",
+      "url": "https://nsearchives.nseindia.com/corporate/rkbhagia_28102026124014_OutcomeofBoardMeeting.pdf",
+      "location": "PDF pages 12 and 15, consolidated September quarter columns, rows 1(a) and 9, and segment results."
+    },
+    {
+      "label": "Adani Ports’ operating update",
+      "url": "https://www.adaniports.com/newsroom/media-releases/one-platform-four-growth-engines-apsez-delivers-24-revenue",
+      "location": "Q2 FY27 key financials and business performance of domestic ports, international ports, and marine services."
+    }
+  ]
+}

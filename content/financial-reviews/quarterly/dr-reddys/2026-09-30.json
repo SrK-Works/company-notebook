@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-23",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group, IFRS accounting basis",
+  "sourceUnit": "million",
+  "metrics": [
+    {
+      "label": "Revenues",
+      "current": 86708,
+      "previous": 88051
+    },
+    {
+      "label": "Profit after tax",
+      "current": 9134,
+      "previous": 14268
+    }
+  ],
+  "change": "Sales dipped and profit fell much more. The company kept less after the cost of making its medicines, and spending on selling and administration rose.",
+  "watch": "Check whether newer medicines lift sales enough to cover the cost of making and selling them.",
+  "sources": [
+    {
+      "label": "Company quarterly results filing",
+      "url": "https://nsearchives.nseindia.com/corporate/DRREDDY_23102026184026_SE_Intimation_Outcome_23102026_Signed.pdf",
+      "location": "IFRS unaudited consolidated results, rows 1 and 13, September quarter columns. Release’s Consolidated Income Statement shows costs and gross profit."
+    }
+  ]
+}

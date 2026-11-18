@@ -1,0 +1,36 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-29",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 44179,
+      "previous": 36553
+    },
+    {
+      "label": "Profit after tax",
+      "current": 6547,
+      "previous": 4167
+    }
+  ],
+  "change": "Sales of products rose and profit grew faster than revenue. The group also reported higher coal deliveries than in the same quarter last year.",
+  "watch": "Check how many tonnes Coal India sells and compare the prices and costs per tonne.",
+  "sources": [
+    {
+      "label": "Coal India’s revised results presentation filed with NSE",
+      "url": "https://nsearchives.nseindia.com/corporate/COALINDIA_30102026145533_revised_presentation.pdf",
+      "location": "PDF page 18, consolidated quarter comparison, revenue from operations and profit after tax, rounded to ₹ crore. The revised presentation was filed 30 October after the 29 October quarterly results. Coal offtake is in the physical performance section."
+    },
+    {
+      "label": "Coal India’s NSE results filing",
+      "url": "https://nsearchives.nseindia.com/corporate/COALINDIA_29102026181236_Result.pdf",
+      "location": "Original results filing on 29 October 2026, consolidated results. Figures are displayed at the precision published in the revised presentation."
+    }
+  ]
+}

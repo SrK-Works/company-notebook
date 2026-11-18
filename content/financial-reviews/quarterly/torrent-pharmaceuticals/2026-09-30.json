@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-23",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue",
+      "current": 4979,
+      "previous": 3302
+    },
+    {
+      "label": "Profit after tax",
+      "current": 534,
+      "previous": 591
+    }
+  ],
+  "change": "Sales rose, helped by the addition of JB Pharma. Reported profit fell as the combined business absorbed costs following the acquisition.",
+  "watch": "Compare sales from the original business with sales added by JB Pharma, and track whether the integration costs ease.",
+  "sources": [
+    {
+      "label": "Official September quarter results",
+      "url": "https://www.torrentpharma.com/docs/Press_Release_ceca3763b1.pdf",
+      "location": "Consolidated quarter results release, PDF page 1, Q2 FY27 and Q2 FY26 columns; table and notes on accounting and integration following the acquisition. See the separate business discussion for the original business and JB Pharma."
+    }
+  ]
+}

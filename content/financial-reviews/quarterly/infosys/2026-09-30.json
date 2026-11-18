@@ -1,0 +1,36 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-23",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Audited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 49244,
+      "previous": 44490
+    },
+    {
+      "label": "Profit after tax",
+      "current": 7838,
+      "previous": 7375
+    }
+  ],
+  "change": "Revenue rose, while profit grew more slowly. Operating profit remained about 21 rupees for every 100 rupees of revenue.",
+  "watch": "See whether new contracts generate more revenue without raising delivery costs at the same pace.",
+  "sources": [
+    {
+      "label": "Quarterly results filing",
+      "url": "https://www.infosys.com/investors/documents/exchange-filings/2026/outcome-board-meeting23oct2026.pdf",
+      "location": "Audited consolidated Ind AS results, quarter columns for 30 September 2026 and 2025. Use revenue from operations and profit for the period before attribution."
+    },
+    {
+      "label": "Company quarterly fact sheet",
+      "url": "https://www.infosys.com/investors/reports-filings/quarterly-results/2026-2027/q2/documents/fact-sheet.pdf",
+      "location": "IFRS consolidated income statement and operating margin for the two September quarters."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-12",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Audited",
+  "coverage": "Whole group",
+  "sourceUnit": "lakh",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 761325,
+      "previous": 662861
+    },
+    {
+      "label": "Profit after tax",
+      "current": 193564,
+      "previous": 166905
+    }
+  ],
+  "change": "Revenue and profit grew in the audited quarter. Operating revenue made up most of HAL’s income, with other income reported separately.",
+  "watch": "Follow deliveries and work on customer orders alongside revenue. Payments can arrive before or after HAL records a sale.",
+  "sources": [
+    {
+      "label": "Company quarterly results filing",
+      "url": "https://nsearchives.nseindia.com/corporate/HAL_12112026132915_IntegratedFinancial_30092026.pdf",
+      "location": "Annexure I, statement of audited consolidated financial results, rows 1(a) and 9, September quarter columns."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-06",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "million",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 76551,
+      "previous": 59694
+    },
+    {
+      "label": "Profit after tax",
+      "current": 8405,
+      "previous": 7084
+    }
+  ],
+  "change": "Revenue rose. Profit also benefited when Bosch reversed money it had set aside for employee long-service awards. The filing restates the same quarter last year to include Bosch Chassis Systems.",
+  "watch": "Check how much profit comes from vehicle parts before counting gains that come from reversing old expenses.",
+  "sources": [
+    {
+      "label": "Bosch’s exchange filing",
+      "url": "https://www.bosch.in/media/our_company/shareholder_information/2026/letter2se06112026.pdf",
+      "location": "Consolidated financial results, September quarter columns, rows 1(a), 4 and 9. Notes 5(b) and 5(c) describe the award reversal and accounting for the chassis systems purchase."
+    }
+  ]
+}

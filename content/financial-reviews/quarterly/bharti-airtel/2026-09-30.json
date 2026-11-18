@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-05",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Audited",
+  "coverage": "Whole group",
+  "sourceUnit": "million",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 608775,
+      "previous": 521454
+    },
+    {
+      "label": "Profit after tax",
+      "current": 107104,
+      "previous": 86508
+    }
+  ],
+  "change": "Airtel’s sales and group profit rose. The profit includes the share belonging to other owners of Airtel’s subsidiaries.",
+  "watch": "Check revenue in the India and Africa mobile segments and the profit that belongs to Airtel’s own shareholders.",
+  "sources": [
+    {
+      "label": "Bharti Airtel’s audited consolidated results",
+      "url": "https://assets.airtel.in/static-assets/cms/investor/docs/quarterly_results/2026-27/Q2/Published-Results.pdf",
+      "location": "Consolidated financial results, September quarter columns, revenue from operations, profit for the period and attribution rows; segment information."
+    }
+  ]
+}

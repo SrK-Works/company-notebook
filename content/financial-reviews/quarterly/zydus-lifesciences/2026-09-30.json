@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-04",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "million",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 79096,
+      "previous": 61232
+    },
+    {
+      "label": "Profit after tax",
+      "current": 9277,
+      "previous": 12409
+    }
+  ],
+  "change": "Revenue rose but group profit fell. The medicines division earned less on the company’s segment measure, and currency gains were smaller.",
+  "watch": "Check how much more revenue from medicines is left after the cost of making and selling them.",
+  "sources": [
+    {
+      "label": "Official September quarter results",
+      "url": "https://nsearchives.nseindia.com/corporate/Cadilahc_04112026121711_OutcomeofBM.pdf",
+      "location": "Unaudited consolidated results, September quarter columns, rows 1(a)(iii) and 9. Group profit includes minority owners. See row 2(h) and the Pharmaceuticals segment result."
+    }
+  ]
+}

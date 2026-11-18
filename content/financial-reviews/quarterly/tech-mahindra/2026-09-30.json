@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-15",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Audited",
+  "coverage": "Group profit shown for owners",
+  "sourceUnit": "million",
+  "metrics": [
+    {
+      "label": "Revenue",
+      "current": 161802,
+      "previous": 139949
+    },
+    {
+      "label": "Profit after tax attributable to owners",
+      "current": 15856,
+      "previous": 11945
+    }
+  ],
+  "change": "Tech Mahindra brought in more revenue. The cost of delivering its services rose more slowly, helping profit increase faster than revenue.",
+  "watch": "Watch whether new contracts turn into billed work and whether the cost of doing that work stays in check.",
+  "sources": [
+    {
+      "label": "Official September quarter results",
+      "url": "https://www.techmahindra.com/insights/press-releases/techmahindra-q2-fy27-results/",
+      "location": "Audited consolidated Ind AS statement in the results release, Q2 FY27 and Q2 FY26 columns. Profit after tax is shown after subtracting minority interests."
+    }
+  ]
+}

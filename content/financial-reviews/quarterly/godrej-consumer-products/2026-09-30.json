@@ -1,0 +1,36 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-29",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Total income",
+      "current": 4464,
+      "previous": 3771
+    },
+    {
+      "label": "Profit after tax",
+      "current": 523,
+      "previous": 459
+    }
+  ],
+  "change": "Income and profit rose, with the company reporting more products sold. Sales also grew when exchange-rate movements were set aside.",
+  "watch": "See whether households keep buying more soaps and insect repellents if ingredients get more expensive.",
+  "sources": [
+    {
+      "label": "NSE-filed Godrej group performance update",
+      "url": "https://nsearchives.nseindia.com/corporate/Anupama_13112026162741_BSENSEPERFORMANCEUPDATE13112026.pdf",
+      "location": "Godrej Industries NSE-filed performance update, section Godrej Consumer Products, financial figures table. Rounded values for the September quarters."
+    },
+    {
+      "label": "Godrej Consumer Products results",
+      "url": "https://www.godrejcp.com/gi-uploads/uploads/GCPL_Q2_27_Press_release_upload_version_fa0c98bb70.pdf",
+      "location": "Company results release, consolidated sales growth, volumes and exchange-rate comparison."
+    }
+  ]
+}

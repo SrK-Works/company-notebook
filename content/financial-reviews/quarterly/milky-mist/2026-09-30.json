@@ -1,0 +1,41 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-29",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Company and its subsidiaries",
+  "sourceUnit": "lakh",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 108939.96,
+      "previous": 76947.32
+    },
+    {
+      "label": "Profit after tax",
+      "current": 7794.01,
+      "previous": 2839.13
+    }
+  ],
+  "change": "Paneer, yogurt and ice cream helped lift sales. Profit also benefited from a lower tax expense. Management compiled the September 2025 figures before quarterly review was required.",
+  "watch": "See whether sales keep growing across these categories and how much profit changes once the tax effect has passed.",
+  "sources": [
+    {
+      "label": "Quarterly results filing",
+      "url": "https://nsearchives.nseindia.com/corporate/MILKYMIST_29102026162324_intimationofunauditedfinancialresults29102026.pdf",
+      "location": "Consolidated statement, rows I and VII, September quarter columns. The auditor’s review explains that the prior-year figures were management-compiled and were not subject to review or audit."
+    },
+    {
+      "label": "NSE structured quarterly filing",
+      "url": "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_INDAS_206739_29102026200302_iXBRL_WEB.html",
+      "location": "Consolidated September 2026 quarter, revenue from operations and profit after tax."
+    },
+    {
+      "label": "Management earnings call filed with NSE",
+      "url": "https://nsearchives.nseindia.com/corporate/MILKYMIST_05112026160051_intimationontranscript5112026.pdf",
+      "location": "Page 4, prepared remarks on sales categories, quarterly revenue growth and profit comparison."
+    }
+  ]
+}

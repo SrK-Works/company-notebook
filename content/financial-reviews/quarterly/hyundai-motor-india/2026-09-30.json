@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-28",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Indian listed group and its subsidiaries",
+  "sourceUnit": "million",
+  "metrics": [
+    {
+      "label": "Revenue",
+      "current": 206961,
+      "previous": 174608
+    },
+    {
+      "label": "Profit after tax",
+      "current": 11962,
+      "previous": 15723
+    }
+  ],
+  "change": "Hyundai Motor India sold more vehicles, and revenue grew. Profit fell compared with the same quarter last year, with higher raw material prices weighing on earnings.",
+  "watch": "Compare how many cars Hyundai sells with how much it keeps after paying for materials and making them.",
+  "sources": [
+    {
+      "label": "Company quarterly results filing",
+      "url": "https://www.hyundai.com/content/dam/hyundai/in/en/data/hyundai-story/announcements/press-release-financials.pdf",
+      "location": "Company cover letter and enclosed release, Financial Snapshot (Consolidated) in rupees million, Q2 FY27 and Q2 FY26 columns."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-03",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 131,
+      "previous": 127
+    },
+    {
+      "label": "Profit after tax",
+      "current": 29,
+      "previous": 22
+    }
+  ],
+  "change": "Profit rose. Revenue now includes export freight the company pays and then bills back to customers. Last year customers paid those freight bills themselves.",
+  "watch": "Compare sales after setting aside the reimbursed freight charges to see how much the underlying projects grew.",
+  "sources": [
+    {
+      "label": "Company quarterly results filing",
+      "url": "https://nsearchives.nseindia.com/corporate/GLASSWALL_03112026202718_2026_11_03_-_Press_Release_Intimation.pdf",
+      "location": "Quarterly issuer release: Consolidated Financial Performance Highlights, Q2 FY27 and Q2 FY26. Values rounded to whole crore in the release. Quarterly Business Highlights explains the freight agreement."
+    }
+  ]
+}

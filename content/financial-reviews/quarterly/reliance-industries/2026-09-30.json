@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-30",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Gross revenue",
+      "current": 362268,
+      "previous": 283548
+    },
+    {
+      "label": "Profit after tax including share of associates and joint ventures",
+      "current": 29550,
+      "previous": 22092
+    }
+  ],
+  "change": "Higher crude and fuel prices lifted sales in Reliance’s fuels and chemicals business. The group also reported higher profit.",
+  "watch": "Watch whether the fuels business earns more after paying for crude, even if fuel prices lift sales.",
+  "sources": [
+    {
+      "label": "Official September quarter results",
+      "url": "https://www.ril.com/sites/default/files/2026-10/30102026_Media%20Release_RIL_Q2_FY2026-27_Financial_and_Operational_Performance.pdf",
+      "location": "Consolidated financial performance for Q2 FY27 and Q2 FY26, rows 1 and 10, and Consolidated Reported Results, fuels and chemicals commentary. Profit includes the share of associates and joint ventures."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-31",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "lakh",
+  "metrics": [
+    {
+      "label": "Total income",
+      "current": 100107.83,
+      "previous": 72989.97
+    },
+    {
+      "label": "Profit after tax",
+      "current": 32780.02,
+      "previous": 24116.59
+    }
+  ],
+  "change": "Higher interest income helped lift total income and profit, even as Muthoot recorded a bigger charge for loans and other financial assets that may not be recovered in full.",
+  "watch": "Compare growth in interest income with borrowing costs and the amount set aside for loan losses.",
+  "sources": [
+    {
+      "label": "Quarterly results filing",
+      "url": "https://cdn.muthootfinance.com/sites/default/files/files/2026-10/MFIN_BM%20Outcome%20Cover_Final-sd%20%281%29.pdf",
+      "location": "Unaudited consolidated financial results, rows III and VII and interest income and impairment lines, September quarter columns. ₹ lakh; net profit before attribution."
+    }
+  ]
+}

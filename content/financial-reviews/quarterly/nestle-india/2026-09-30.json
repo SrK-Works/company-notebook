@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-15",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "million",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 67883.4,
+      "previous": 56436.1
+    },
+    {
+      "label": "Profit after tax",
+      "current": 10096.1,
+      "previous": 7431.7
+    }
+  ],
+  "change": "Revenue and profit rose. Nestlé reported that sales in India grew, and ingredients and packaging took up a smaller share of sales.",
+  "watch": "Check whether shoppers keep buying more while the cost of making each pack stays under control.",
+  "sources": [
+    {
+      "label": "Quarterly results filing",
+      "url": "https://www.nestle.in/sites/g/files/pydnoa451/files/2026-10/BSENSEOutcomeResults15102026signed.pdf",
+      "location": "PDF page 7, unaudited consolidated financial results, September quarter columns, rows A(i) and I. Group figures include its share of the associate’s result. Standalone notes on page 5 discuss sales and material costs, which are the same rows in the consolidated statement."
+    }
+  ]
+}

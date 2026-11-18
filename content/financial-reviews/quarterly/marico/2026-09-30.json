@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-02",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 3897,
+      "previous": 3450
+    },
+    {
+      "label": "Profit after tax",
+      "current": 558,
+      "previous": 432
+    }
+  ],
+  "change": "Profit rose faster than sales. The comparison uses Marico's updated figures for the same period last year.",
+  "watch": "Look for how much of sales growth comes from people buying more packs and how much comes from prices.",
+  "sources": [
+    {
+      "label": "Quarterly results filing",
+      "url": "https://nsearchives.nseindia.com/corporate/marico_02112026153942_Outcome.pdf",
+      "location": "Unaudited consolidated financial results, rows 1 and 7 (group profit before attribution), September quarter columns. Revenue line refers to note 7 for restatement."
+    }
+  ]
+}

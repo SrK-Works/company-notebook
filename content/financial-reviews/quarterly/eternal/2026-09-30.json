@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-23",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Total income from operations",
+      "current": 12873.86,
+      "previous": 10892.78
+    },
+    {
+      "label": "Profit after tax",
+      "current": 897.75,
+      "previous": 807.92
+    }
+  ],
+  "change": "Eternal recorded more income from operations and higher profit. This quarter’s reported profit also included a larger unusual gain than the same quarter last year.",
+  "watch": "Compare what the food-delivery and quick-commerce businesses earn before one-off items.",
+  "sources": [
+    {
+      "label": "Company quarterly results filing",
+      "url": "https://nsearchives.nseindia.com/corporate/ekta_maheshwari_23102026144851_IEPFNewspaperOct26.pdf",
+      "location": "Company’s consolidated newspaper extract, rows 1, 3–5, September quarter columns. Consolidated income from operations and profit after tax are as presented."
+    }
+  ]
+}

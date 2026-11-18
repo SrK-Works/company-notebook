@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-05",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "lakh",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 73016,
+      "previous": 64516
+    },
+    {
+      "label": "Profit after tax",
+      "current": 925,
+      "previous": 2066
+    }
+  ],
+  "change": "Revenue rose, but profit fell. HCG recorded a charge for possible import duty and interest after estimating that it might miss the export conditions for an equipment exemption.",
+  "watch": "Separate this charge from what the cancer-care centres earned from treating patients.",
+  "sources": [
+    {
+      "label": "Company quarterly results filing",
+      "url": "https://nsearchives.nseindia.com/corporate/HCG1_05112026200746_Outcome_Results_05_November_2026.pdf",
+      "location": "Statement of unaudited consolidated financial results rows 1(a) and 9, September quarter columns; Note 2(i) explains the exceptional provision."
+    }
+  ]
+}

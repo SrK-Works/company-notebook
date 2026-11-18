@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-13",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Continuing operations",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 96920,
+      "previous": 72349
+    },
+    {
+      "label": "Profit or loss after tax",
+      "current": -5451,
+      "previous": -6368
+    }
+  ],
+  "change": "Revenue rose as Jaguar Land Rover and Tata’s passenger-vehicle business recovered from a year earlier. Continuing operations still made a loss. The table excludes last year’s large gain from separating the trucks business.",
+  "watch": "Check whether recovering vehicle sales produce a profit after costs and after one-off charges.",
+  "sources": [
+    {
+      "label": "Official September quarter results",
+      "url": "https://nsearchives.nseindia.com/corporate/TATAMOTORSSJS_13112026161123_NSEBSEOutcome.pdf",
+      "location": "Unaudited consolidated financial results, September quarter columns, rows I and XI. See lines for discontinued operations and the accompanying management release."
+    }
+  ]
+}

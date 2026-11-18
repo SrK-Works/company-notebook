@@ -1,0 +1,36 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-14",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Group; prior year restated",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Total income from operations",
+      "current": 50105.18,
+      "previous": 39899.58
+    },
+    {
+      "label": "Profit after tax attributable to owners",
+      "current": -234.08,
+      "previous": 594.52
+    }
+  ],
+  "change": "Sales grew, but shareholders’ share of profit turned into a loss. Grasim took a charge for a drop in the value of its investment and estimated exposure in a Canadian pulp venture.",
+  "watch": "Compare earnings from cement, fibres and paints before unusual items to understand what the businesses themselves earned.",
+  "sources": [
+    {
+      "label": "Company quarterly results filing",
+      "url": "https://nsearchives.nseindia.com/corporate/GRASIM_14112026194729_SEIntimation.pdf",
+      "location": "Grasim extract of unaudited consolidated results, income from operations and net profit after tax and exceptional items for the September quarters; company press release identifies profit as owners’ share and explains prior-year restatement."
+    },
+    {
+      "label": "Grasim results release",
+      "url": "https://www.grasim.com/Upload/PDF/unaudited-financial-results-half-year-ended-30th-september-2026.pdf",
+      "location": "Consolidated financial results, owner share and restatement footnotes, and exceptional charge in the pulp joint venture."
+    }
+  ]
+}

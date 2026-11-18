@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-30",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "million",
+  "metrics": [
+    {
+      "label": "Revenue after excise duty and GST",
+      "current": 66075.6,
+      "previous": 49606.9
+    },
+    {
+      "label": "Profit after tax",
+      "current": 8305.9,
+      "previous": 7315.1
+    }
+  ],
+  "change": "Varun sold more cases in India and abroad. Profit rose more slowly than revenue as packaging and borrowing costs increased.",
+  "watch": "Check whether the extra cases sold keep adding profit after packaging costs and the cost of funding acquisitions.",
+  "sources": [
+    {
+      "label": "Official September quarter results",
+      "url": "https://nsearchives.nseindia.com/corporate/VBL_30102026120438_PressRelease.pdf",
+      "location": "Issuer release filed with NSE, PDF pages 2–3. The Q3 2026 and Q3 2025 discussion gives revenue net of excise/GST and profit after tax."
+    }
+  ]
+}

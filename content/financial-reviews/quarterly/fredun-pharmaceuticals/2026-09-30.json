@@ -1,0 +1,36 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-05",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Fredun Pharmaceuticals and subsidiaries",
+  "sourceUnit": "lakh",
+  "metrics": [
+    {
+      "label": "Net sales (excluding GST)",
+      "current": 26585.37,
+      "previous": 14358.53
+    },
+    {
+      "label": "Profit after tax",
+      "current": 1857.42,
+      "previous": 943.17
+    }
+  ],
+  "change": "Net sales rose about 85%, and profit after tax nearly doubled. Fredun makes finished medicines for people and also sells animal health products.",
+  "watch": "Watch whether higher sales bring in more cash after Fredun pays for materials and keeps enough stock to fill orders.",
+  "sources": [
+    {
+      "label": "Revised September 2026 quarterly results filed with BSE",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/75e1837c-1508-4408-b066-cea4a312765b.pdf",
+      "location": "Revised board outcome, consolidated statement, September 30, 2026 and 2025 quarter columns, rows 1 and 13."
+    },
+    {
+      "label": "Fredun product and business information",
+      "url": "https://www.fredungroup.com/",
+      "location": "Pharmaceutical and Healthcare product menus, including human medicines and Fredunvet."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-17",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Group results after outside shareholders’ share",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Total income",
+      "current": 45674.37,
+      "previous": 39769.85
+    },
+    {
+      "label": "Net profit after minority interests",
+      "current": 7704.67,
+      "previous": 5527.85
+    }
+  ],
+  "change": "Income and profit rose. The previous September quarter included a one-off amount the bank had to set aside after some loans stopped qualifying for priority-sector treatment.",
+  "watch": "Compare operating profit before amounts set aside for loan losses and other risks, then check how those charges changed.",
+  "sources": [
+    {
+      "label": "Axis Bank’s NSE filing",
+      "url": "https://nsearchives.nseindia.com/corporate/AXISBANK1_17102026125236_AxisBank_Q2FY27_results.pdf",
+      "location": "PDF pages 8–9, unaudited consolidated September quarter columns, rows 3, 7, 8 and 17. Net profit is after minority interests. Note 7 explains the prior-year one-off provision."
+    }
+  ]
+}

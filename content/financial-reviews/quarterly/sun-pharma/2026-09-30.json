@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-30",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Group profit shown for owners",
+  "sourceUnit": "million",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 161987.1,
+      "previous": 144783.1
+    },
+    {
+      "label": "Profit after tax attributable to owners",
+      "current": 19885.3,
+      "previous": 31179.5
+    }
+  ],
+  "change": "Sales rose, but reported profit fell after a legal settlement and costs tied to the planned Organon acquisition.",
+  "watch": "Compare profits before unusual charges to see how the medicines business itself is doing.",
+  "sources": [
+    {
+      "label": "Official September quarter results",
+      "url": "https://sunpharma.com/wp-content/uploads/2026/10/BMOutcomeFinancialoct26signed.pdf",
+      "location": "Unaudited consolidated statement, PDF page 12, September quarter columns, lines I and XII. Note 4 details the exceptional charges."
+    }
+  ]
+}

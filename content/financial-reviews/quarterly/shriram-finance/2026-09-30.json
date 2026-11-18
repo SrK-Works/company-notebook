@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-23",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Total income",
+      "current": 13801.84,
+      "previous": 11921.33
+    },
+    {
+      "label": "Profit after tax",
+      "current": 3683.81,
+      "previous": 2314.16
+    }
+  ],
+  "change": "Shriram earned more interest and paid less to borrow. Profit rose even as it recorded a larger charge for potential losses on loans and other financial assets.",
+  "watch": "Watch whether the extra interest earned continues to cover both borrowing costs and potential loan losses.",
+  "sources": [
+    {
+      "label": "Official September quarter results",
+      "url": "https://nsearchives.nseindia.com/corporate/Mathew_23102026161446_OutcomeofBoardMeetingOct23.pdf",
+      "location": "Unaudited consolidated results, September quarter columns, rows III and XIII. Rows I(i), IV(i) and IV(iii) show interest income, borrowing costs and impairment."
+    }
+  ]
+}

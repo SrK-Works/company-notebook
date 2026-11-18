@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-05",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue",
+      "current": 57553,
+      "previous": 46106
+    },
+    {
+      "label": "Profit attributable to owners",
+      "current": 4588,
+      "previous": 3673
+    }
+  ],
+  "change": "Group revenue and profit rose. The vehicle business earned more while the farm business earned less. Mahindra says the timing of festivals affected farm results.",
+  "watch": "Compare vehicle and tractor results over several quarters to see whether the farm slowdown persists.",
+  "sources": [
+    {
+      "label": "Quarterly results filing",
+      "url": "https://www.mahindra.com/news-room/press-release/en/m-and-m-results-q2-F27",
+      "location": "Quarter ended 30 September 2026, Key financials and Q2 operating commentary. Values are rounded as reported. Profit is after the share belonging to outside owners of subsidiaries."
+    }
+  ]
+}

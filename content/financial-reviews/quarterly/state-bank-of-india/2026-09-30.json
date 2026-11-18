@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-03",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Group profit shown for owners",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Total income",
+      "current": 187756.19,
+      "previous": 175897.79
+    },
+    {
+      "label": "Profit after tax attributable to owners",
+      "current": 25361.16,
+      "previous": 21137.33
+    }
+  ],
+  "change": "Group income and profit rose. This quarter also included a gain from selling stakes in other businesses, separate from the interest SBI earns on loans.",
+  "watch": "Check how much profit SBI earns from ordinary banking before one-off gains from selling investments.",
+  "sources": [
+    {
+      "label": "Official September quarter results",
+      "url": "https://nsearchives.nseindia.com/corporate/SBIN_03112026134649_FR_DSC.pdf",
+      "location": "September quarter consolidated columns; net segment revenue reconciles to total income. The net profit row follows the adjustments for associates and minority interests. Notes on stake sales on PDF pages 14–15."
+    }
+  ]
+}

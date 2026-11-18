@@ -1,0 +1,36 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-26",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 5661.13,
+      "previous": 4965.9
+    },
+    {
+      "label": "Group consolidated net profit",
+      "current": 470.14,
+      "previous": 406.51
+    }
+  ],
+  "change": "Sales and group profit rose. Tata Consumer said it sold more salt, while the amount of tea it sold in India was broadly unchanged.",
+  "watch": "Check whether tea sales in India grow because shoppers buy more tea or because the company charges more.",
+  "sources": [
+    {
+      "label": "Official September quarter results",
+      "url": "https://www.tataconsumer.com/sites/g/files/gfwrlq316/files/2026-10/Sebi%20Results_Sep2026_q2.pdf",
+      "location": "Unaudited consolidated results, PDF page 5, September quarter columns, Revenue from Operations and Group Consolidated Net Profit (A)."
+    },
+    {
+      "label": "Company results announcement",
+      "url": "https://www.tataconsumer.com/news/results-quarter-ended-30th-september-2026",
+      "location": "India business commentary on tea and salt volumes."
+    }
+  ]
+}

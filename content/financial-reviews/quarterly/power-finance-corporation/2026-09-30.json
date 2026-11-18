@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-04",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Total income",
+      "current": 29234.42,
+      "previous": 28901.1
+    },
+    {
+      "label": "Profit after tax",
+      "current": 7681.51,
+      "previous": 7834.39
+    }
+  ],
+  "change": "The group earned slightly more income but kept less of it as profit. Most of its income came from interest on loans.",
+  "watch": "Compare the interest PFC earns with the interest it pays on the money it borrows.",
+  "sources": [
+    {
+      "label": "Quarterly results filing",
+      "url": "https://nsearchives.nseindia.com/corporate/PFC2023_04112026165511_Intimation04112026signedoutcome.pdf",
+      "location": "Unaudited consolidated financial results, September 2026 and September 2025 quarter columns, rows III and XII. Row I breaks down interest and other operating income."
+    }
+  ]
+}

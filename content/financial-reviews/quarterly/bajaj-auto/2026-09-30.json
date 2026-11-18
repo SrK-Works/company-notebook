@@ -1,0 +1,36 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-27",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 25125.56,
+      "previous": 15734.74
+    },
+    {
+      "label": "Profit after tax",
+      "current": 3384.43,
+      "previous": 2122.03
+    }
+  ],
+  "change": "Group revenue and profit rose. The accounts also show a small profit from its share in an associated company, after a loss from that line a year earlier.",
+  "watch": "Check the vehicle and financing results separately to see how much of the growth came from selling vehicles.",
+  "sources": [
+    {
+      "label": "Bajaj Auto’s NSE results filing",
+      "url": "https://nsearchives.nseindia.com/corporate/lkwalimbe_bajajauto_co_in_16112026135735_ResultsQ2FY27.pdf",
+      "location": "Consolidated September quarter columns, rows 1, 5 and 11 (group profit after tax before attribution to owners). The filing is dated 27 October."
+    },
+    {
+      "label": "Bajaj Auto’s original NSE filing",
+      "url": "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_INDAS_204776_27102026161526_iXBRL_WEB.html",
+      "location": "Consolidated integrated filing, October 27 submission."
+    }
+  ]
+}

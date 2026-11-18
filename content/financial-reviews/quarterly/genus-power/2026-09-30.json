@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-14",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 1132.61,
+      "previous": 1149
+    },
+    {
+      "label": "Profit after tax",
+      "current": 158.61,
+      "previous": 142.98
+    }
+  ],
+  "change": "Revenue dipped, but group profit rose. A larger share of earnings from companies Genus partly owns helped keep group profit up.",
+  "watch": "Check whether signed meter contracts turn into more installed meters and higher sales from Genus’s own work.",
+  "sources": [
+    {
+      "label": "Company quarterly results filing",
+      "url": "https://nsearchives.nseindia.com/corporate/GENUSPOWER_14112026174211_Outcome_of_Board_Meeting.pdf",
+      "location": "Statement of Unaudited Consolidated Financial Results, rows 1(a), 6 and 7, September quarter columns."
+    }
+  ]
+}

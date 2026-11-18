@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-13",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "million",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 5110.25,
+      "previous": 4102.01
+    },
+    {
+      "label": "Profit after tax",
+      "current": 544.57,
+      "previous": 787.04
+    }
+  ],
+  "change": "Hospital revenue rose but group profit fell. The current filing includes last year's figures, which had not undergone a limited auditor review.",
+  "watch": "Check whether new hospital beds attract enough patients to cover the additional costs.",
+  "sources": [
+    {
+      "label": "Quarterly results filing",
+      "url": "https://nsearchives.nseindia.com/corporate/PARKMEDIWORLD2025_13112026111643_BoardMeetingOutcome13112026SD.pdf",
+      "location": "Consolidated quarterly results under the September 2026 and September 2025 quarters, rows I and VII; auditor review paragraph 6 explains the prior comparison."
+    }
+  ]
+}

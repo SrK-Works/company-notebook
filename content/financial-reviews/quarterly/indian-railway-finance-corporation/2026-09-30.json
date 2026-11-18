@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-15",
+  "checkedOn": "2026-11-18",
+  "basis": "Standalone",
+  "assurance": "Unaudited",
+  "coverage": "Company only",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 7866.41,
+      "previous": 6371.89
+    },
+    {
+      "label": "Profit after tax",
+      "current": 1958.48,
+      "previous": 1776.98
+    }
+  ],
+  "change": "Income from operations rose faster than profit. Finance costs also rose, so more of the income went toward paying for funding.",
+  "watch": "Compare the interest and lease income IRFC earns with what it pays to borrow.",
+  "sources": [
+    {
+      "label": "Company quarterly results filing",
+      "url": "https://nsearchives.nseindia.com/corporate/IRFC_15102026153717_outcomeofmeeting15102026.pdf",
+      "location": "Unaudited financial results, rows I and XIV, and finance costs, September quarter columns. Note 5 explains why the company reports standalone results."
+    }
+  ]
+}

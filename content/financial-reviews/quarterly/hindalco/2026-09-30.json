@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-06",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 91708,
+      "previous": 66058
+    },
+    {
+      "label": "Profit after tax",
+      "current": 7533,
+      "previous": 4741
+    }
+  ],
+  "change": "Revenue and profit rose. Profit also includes insurance-related recoveries after fires at the Novelis aluminium mill in New York.",
+  "watch": "Check how much profit the aluminium businesses earned before insurance recoveries and whether the restarted mill keeps running.",
+  "sources": [
+    {
+      "label": "Company quarterly results filing",
+      "url": "https://nsearchives.nseindia.com/corporate/HINDALCOIND_06112026134336_BM_Outcome_0611_signedfinal.pdf",
+      "location": "Statement of Consolidated Unaudited Financial Results, revenue from operations and profit for the period, September quarter columns. Note 6 explains insurance-related recoveries."
+    }
+  ]
+}

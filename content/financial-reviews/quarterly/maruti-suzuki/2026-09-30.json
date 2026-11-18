@@ -1,0 +1,36 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-27",
+  "checkedOn": "2026-11-18",
+  "basis": "Standalone",
+  "assurance": "Unaudited",
+  "coverage": "Company only",
+  "sourceUnit": "million",
+  "metrics": [
+    {
+      "label": "Net sales",
+      "current": 506155,
+      "previous": 401358
+    },
+    {
+      "label": "Profit after tax",
+      "current": 24149,
+      "previous": 33028
+    }
+  ],
+  "change": "Maruti sold more vehicles, but profit fell. The company cited higher material costs and a fall in the reported value of its investments.",
+  "watch": "Check whether profit from making and selling vehicles recovers before counting gains or losses on investments.",
+  "sources": [
+    {
+      "label": "Quarterly results filing",
+      "url": "https://www.marutisuzuki.com/content/dam/arena-eds/corporate/press-release/assets/documents/2026/october/press-release-maruti-suzuki-india-limited-financial-results-Q2-and-H1-FY-2026-27.pdf",
+      "location": "Company dated financial results announcement, Q2 July–September highlights (company-only, in INR million). Net Sales and Net Profit for the same quarter last year are stated side by side."
+    },
+    {
+      "label": "Maruti results filed with BSE",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/1dc3fa06-d8da-447c-ad6d-8d2166fd134c.pdf",
+      "location": "Standalone unaudited financial results, both September quarters."
+    }
+  ]
+}

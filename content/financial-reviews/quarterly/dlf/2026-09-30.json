@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-17",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Total income",
+      "current": 2297.3,
+      "previous": 2261.8
+    },
+    {
+      "label": "Profit after tax",
+      "current": 1301.35,
+      "previous": 1180.09
+    }
+  ],
+  "change": "Total income rose slightly and profit grew faster. The profit figure includes DLF’s share of the earnings of businesses it owns with partners.",
+  "watch": "Look at how much income came from homes handed over and how much profit came from jointly owned rental property.",
+  "sources": [
+    {
+      "label": "Company quarterly results filing",
+      "url": "https://nsearchives.nseindia.com/corporate/DLF_17102026143218_Letter.pdf",
+      "location": "Company’s NSE-filed newspaper extract, consolidated statement rows 1 and 4, September quarter columns."
+    }
+  ]
+}

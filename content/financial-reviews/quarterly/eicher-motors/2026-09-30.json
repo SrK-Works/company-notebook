@@ -1,0 +1,36 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-13",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 7421.72,
+      "previous": 6171.59
+    },
+    {
+      "label": "Profit after tax",
+      "current": 1573.37,
+      "previous": 1369.45
+    }
+  ],
+  "change": "Revenue and profit rose as Royal Enfield sold more motorcycles. The group profit also includes Eicher’s share of the earnings of its commercial vehicle joint venture.",
+  "watch": "See whether motorcycle sales keep growing and how much the truck and bus venture adds to profit.",
+  "sources": [
+    {
+      "label": "Company quarterly results filing",
+      "url": "https://www.eicher.in/content/dam/eicher-motors/investor/disclosures-under-regulation-46/disclosure-under-sub-regulation%288%29-of-regulation-30/outcome-of-board-meeting-november-13-2026.pdf",
+      "location": "Consolidated unaudited results, rows 1 and 11, and row 6 for the share of joint venture profit, September quarter columns."
+    },
+    {
+      "label": "Eicher company results release",
+      "url": "https://www.eicher.in/content/dam/eicher-motors/investor/financial-and-reports/quarterly-results/press-release-november-13-2026.pdf",
+      "location": "First-page motorcycle and commercial vehicle volume disclosures."
+    }
+  ]
+}

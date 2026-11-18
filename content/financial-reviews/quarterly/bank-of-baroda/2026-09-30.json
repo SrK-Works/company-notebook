@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-30",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "lakh",
+  "metrics": [
+    {
+      "label": "Total income",
+      "current": 4578371,
+      "previous": 3843410
+    },
+    {
+      "label": "Net profit for the period",
+      "current": 673728,
+      "previous": 513356
+    }
+  ],
+  "change": "Total income and net profit increased. Total income includes loan interest as well as earnings from investments and other activities.",
+  "watch": "Check the gap between interest earned and interest paid, and whether amounts set aside for potential loan losses are rising.",
+  "sources": [
+    {
+      "label": "Bank of Baroda’s SGX results filing",
+      "url": "https://links.sgx.com/FileOpen/SESGXFINAL.ashx?App=Announcement&FileID=909965",
+      "location": "Unaudited consolidated results, September quarter columns, rows 3 and 16; rows 1 and 2 give the income components."
+    }
+  ]
+}

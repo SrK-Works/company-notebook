@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-19",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Total income",
+      "current": 24575.82,
+      "previous": 19992.38
+    },
+    {
+      "label": "Profit after tax",
+      "current": 6366.57,
+      "previous": 4947.76
+    }
+  ],
+  "change": "Interest and fee income rose, and profit increased. The group also set aside extra money in case borrowers find it harder to repay.",
+  "watch": "Read the amounts set aside for loan losses alongside the growth in loans and interest earned.",
+  "sources": [
+    {
+      "label": "Bajaj Finance’s NSE filing",
+      "url": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_19102026172017_BMOutcome_19102026.pdf",
+      "location": "Consolidated profit and loss statement, September quarter columns, total income in row 1 and profit after tax in row 8; consolidated earnings release on loan losses and provisions."
+    }
+  ]
+}

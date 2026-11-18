@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-29",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Group profit shown for owners",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 5873.14,
+      "previous": 4817.6
+    },
+    {
+      "label": "Profit after tax attributable to owners",
+      "current": 463.77,
+      "previous": 376.86
+    }
+  ],
+  "change": "Sales and profit rose. The prior-year quarter included a gain from selling assets, which was much smaller this quarter.",
+  "watch": "Check how much established Westside and Zudio stores are selling, separately from sales added by new stores.",
+  "sources": [
+    {
+      "label": "Official September quarter results",
+      "url": "https://docs.trent-tata.com/Results_Q2_FY27.pdf",
+      "location": "Unaudited consolidated results, PDF pages 10–11, September quarter columns, revenue and row 11 profit attributable to equity holders. Accompanying press release discusses prior-period asset sale gains."
+    }
+  ]
+}

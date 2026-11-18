@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-22",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 7571,
+      "previous": 5561
+    },
+    {
+      "label": "Profit or loss after tax",
+      "current": -922,
+      "previous": -1092
+    }
+  ],
+  "change": "Swiggy brought in more revenue and cut its group loss. It still spent more in total than it earned.",
+  "watch": "Check how much Instamart loses as orders grow and whether food delivery earnings help cover the group’s costs.",
+  "sources": [
+    {
+      "label": "Official September quarter results",
+      "url": "https://www.swiggy.com/corporate/wp-content/uploads/2026/10/SE_intimation_Financials_Signed.pdf",
+      "location": "Unaudited consolidated financial results, September quarter columns, revenue from operations and row IX. See consolidated segment results for Food Delivery and Quick Commerce."
+    }
+  ]
+}

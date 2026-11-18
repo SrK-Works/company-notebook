@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-29",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "million",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 233638,
+      "previous": 185553
+    },
+    {
+      "label": "Profit after tax",
+      "current": -18791,
+      "previous": -25821
+    }
+  ],
+  "change": "Flying brought in more revenue and the reported loss became smaller. The company still showed a loss for the quarter after setting currency effects aside.",
+  "watch": "Check whether rising passenger revenue is enough to cover aircraft, fuel and staff costs.",
+  "sources": [
+    {
+      "label": "Company quarterly results filing",
+      "url": "https://www.goindigo.in/content/dam/s6web/in/en/assets/documents/2026-27/Investor_Presentation_29102026.pdf",
+      "location": "Board-approved consolidated financial results and Q2 investor presentation: Financial summary and Revenue breakup, Sep 2026 and Sep 2025 columns."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-19",
+  "checkedOn": "2026-11-18",
+  "basis": "Standalone",
+  "assurance": "Audited",
+  "coverage": "Company only",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 2345,
+      "previous": 2057
+    },
+    {
+      "label": "Profit after tax",
+      "current": 554,
+      "previous": 549
+    }
+  ],
+  "change": "IREDA lent more to projects and earned more revenue, but profit barely changed. The figures here cover IREDA's own operations.",
+  "watch": "Check the interest earned on loans against borrowing costs and amounts set aside for possible loan losses.",
+  "sources": [
+    {
+      "label": "Quarterly results filing",
+      "url": "https://ireda.in/IredaWebPortal/press-releases/view/826c867c1c594f34a0183f164d7df4ee",
+      "location": "Official release, Key financial highlights Q2 FY 2026-27 vs Q2 FY 2025-26 (Standalone), rounded ₹ crore. Opening confirms audited figures and period."
+    }
+  ]
+}

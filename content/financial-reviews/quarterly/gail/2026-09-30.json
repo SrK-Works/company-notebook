@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-30",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 47301.03,
+      "previous": 35657.23
+    },
+    {
+      "label": "Profit after tax",
+      "current": 4723.75,
+      "previous": 1988.71
+    }
+  ],
+  "change": "Revenue and profit grew. GAIL spent more buying goods for resale, but total costs grew more slowly than income.",
+  "watch": "Check gas sales and pipeline transport separately. Buying and reselling gas can move sales much more than moving it for a fee.",
+  "sources": [
+    {
+      "label": "Company quarterly results filing",
+      "url": "https://nsearchives.nseindia.com/content/debt/WDM/DEVIKA_30102026143622_UFR.pdf",
+      "location": "Statement of Consolidated Unaudited Financial Result, revenue from operations, purchases of stock in trade and profit for the period, September quarter columns."
+    }
+  ]
+}

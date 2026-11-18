@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-13",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Continuing operations",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 3738.13,
+      "previous": 3130.11
+    },
+    {
+      "label": "Profit after tax",
+      "current": 439.82,
+      "previous": 398.05
+    }
+  ],
+  "change": "Sales rose, and profit from the businesses ABB still runs increased more slowly. These figures exclude its former robotics business.",
+  "watch": "Check whether sales from electrical equipment and industrial automation are turning into higher profit after costs.",
+  "sources": [
+    {
+      "label": "ABB India’s exchange filing",
+      "url": "https://new.abb.com/docs/librariesprovider19/default-document-library/reg33quartelryresultsq32026signed.pdf",
+      "location": "Unaudited consolidated results, September quarter columns, total revenue from operations and row 7. Notes 2 and 3 cover discontinued robotics."
+    }
+  ]
+}

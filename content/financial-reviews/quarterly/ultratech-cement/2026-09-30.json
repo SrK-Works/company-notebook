@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-19",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Net sales",
+      "current": 23024,
+      "previous": 19371
+    },
+    {
+      "label": "Profit after tax",
+      "current": 1501,
+      "previous": 1238
+    }
+  ],
+  "change": "UltraTech reported higher net sales and profit. Cement sales are only one part of the story because producing and delivering each tonne also costs money.",
+  "watch": "Compare how much cement UltraTech sells with what it earns per tonne after fuel and freight costs.",
+  "sources": [
+    {
+      "label": "Official September quarter results",
+      "url": "https://www.ultratechcement.com/corporate/media/press-releases/financial-results-q2fy27",
+      "location": "Company results release, consolidated financial results table, Q2 FY27 and Q2 FY26. Uses the company’s net sales measure."
+    }
+  ]
+}

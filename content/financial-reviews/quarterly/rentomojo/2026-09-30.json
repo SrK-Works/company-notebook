@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-10",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "million",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 1421.13,
+      "previous": 930.11
+    },
+    {
+      "label": "Profit after tax",
+      "current": 181.88,
+      "previous": 486.08
+    }
+  ],
+  "change": "Revenue and profit before tax rose. Reported profit after tax fell because the comparison quarter included a large tax credit, which did not come from renting out more furniture.",
+  "watch": "Compare profit before tax as well as rent and the cost of keeping furniture ready to rent.",
+  "sources": [
+    {
+      "label": "Official September quarter results",
+      "url": "https://nsearchives.nseindia.com/corporate/RENTMOJO_10112026224733_BMOUTCOME.pdf",
+      "location": "Unaudited consolidated results, September-quarter columns, rows I and IX. See rows VII–VIII and the auditor’s limited review for the scope of work on prior-quarter comparatives."
+    }
+  ]
+}

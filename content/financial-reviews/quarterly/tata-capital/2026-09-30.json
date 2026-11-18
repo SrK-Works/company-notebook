@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-27",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Net total income",
+      "current": 4676,
+      "previous": 3774
+    },
+    {
+      "label": "Profit after tax",
+      "current": 1660,
+      "previous": 1097
+    }
+  ],
+  "change": "Tata Capital’s loan book grew and it earned more interest after borrowing costs. The company also reported lower credit costs relative to the size of its loan book.",
+  "watch": "Check whether borrowers keep paying as Tata Capital adds more loans, especially in faster-growing categories.",
+  "sources": [
+    {
+      "label": "Official September quarter results",
+      "url": "https://www.tatacapital.com/content/dam/tata-capital/pdf/investors-and-financial-reports/financials/tcl/press-release-q2-fy-27.pdf",
+      "location": "Consolidated Q2FY27 performance table, PDF page 2, Q2FY26 and Q2FY27 columns. Net total income combines net interest, fees and investment income."
+    }
+  ]
+}

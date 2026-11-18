@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-28",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 37215.62,
+      "previous": 21248.51
+    },
+    {
+      "label": "Profit after tax",
+      "current": 1220.99,
+      "previous": 3414.43
+    }
+  ],
+  "change": "Revenue rose while profit fell. The prior September quarter included one-off gains tied to the sale of an agribusiness stake and a cement merger.",
+  "watch": "Compare operating earnings before one-off items, and read the auditor’s qualification on amounts recorded for airport works.",
+  "sources": [
+    {
+      "label": "Adani Enterprises’ exchange filing",
+      "url": "https://www.adanienterprises.com/-/media/project/enterprisesv1/investors/investor-downloads/financial/q2-fy-27.pdf",
+      "location": "Unaudited consolidated results, September quarter columns, rows 1 and 9, exceptional-item notes and limited review report (basis for modified conclusion)."
+    }
+  ]
+}

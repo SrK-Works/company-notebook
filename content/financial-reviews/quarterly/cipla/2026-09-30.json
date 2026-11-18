@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-27",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 7403.93,
+      "previous": 7589.44
+    },
+    {
+      "label": "Profit after tax",
+      "current": 851.51,
+      "previous": 1353.37
+    }
+  ],
+  "change": "Cipla’s sales slipped and profit fell more sharply. A small fall in revenue can matter more when costs take up a larger share of that revenue.",
+  "watch": "Compare sales in India and overseas and check whether manufacturing and other costs are rising faster than sales.",
+  "sources": [
+    {
+      "label": "Cipla’s exchange filing",
+      "url": "https://www.cipla.com/sites/default/files/Cipla_SE_20261027_FR_Signed.pdf",
+      "location": "PDF page 2, consolidated September quarter columns, rows 1, 4 and 11; total revenue from operations and net profit for the period."
+    }
+  ]
+}

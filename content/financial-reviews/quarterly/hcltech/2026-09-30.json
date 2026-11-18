@@ -1,0 +1,36 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-12",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenues",
+      "current": 35620,
+      "previous": 31942
+    },
+    {
+      "label": "Profit after tax attributable to owners",
+      "current": 5132,
+      "previous": 4235
+    }
+  ],
+  "change": "Sales and the profit attributable to shareholders rose. The quarter included costs to reorganise the business and lower tax expense, which also affected the comparison.",
+  "watch": "Compare what the software and services business earns before tax, then check how much the lower tax bill added to final profit.",
+  "sources": [
+    {
+      "label": "Company quarterly results filing",
+      "url": "https://www.hcltech.com/sites/default/files/en/investors/3098/InvestorRelease_1.pdf",
+      "location": "Q2 FY 2027 Investor Release, consolidated income statement in INR crore, September 2026 and September 2025 columns, Revenues and Net Income."
+    },
+    {
+      "label": "HCLTech NSE integrated filing",
+      "url": "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_INDAS_200657_12102026193824_iXBRL_WEB.html",
+      "location": "Consolidated results and notes 6–7 on tax and acquisitions. Group profit before assigning amounts to owners can differ from owners’ profit."
+    }
+  ]
+}

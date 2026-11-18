@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-29",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 9976.51,
+      "previous": 8531.27
+    },
+    {
+      "label": "Profit after tax",
+      "current": 1085.35,
+      "previous": 1018.23
+    }
+  ],
+  "change": "Revenue rose faster than profit. The paint and home décor group kept less profit for each rupee of revenue than a year earlier.",
+  "watch": "Check whether paint selling prices and volume are keeping up with the cost of materials.",
+  "sources": [
+    {
+      "label": "Asian Paints’ NSE filing",
+      "url": "https://nsearchives.nseindia.com/corporate/ASIANPAINT_29102026140936_OutcomeofBM29102026signed.pdf",
+      "location": "Unaudited consolidated results, September quarter columns, rows 1 and 11."
+    }
+  ]
+}

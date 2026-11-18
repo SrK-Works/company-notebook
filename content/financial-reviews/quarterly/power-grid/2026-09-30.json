@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-01",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 11816.22,
+      "previous": 11475.95
+    },
+    {
+      "label": "Profit after tax",
+      "current": 3866.16,
+      "previous": 3566.08
+    }
+  ],
+  "change": "Revenue and profit rose. Profit before adjustments for regulated rates rose more than the final figure because those adjustments added less than last year.",
+  "watch": "Check how much new power lines add to transmission income and how tariff decisions affect it.",
+  "sources": [
+    {
+      "label": "Quarterly results filing",
+      "url": "https://nsearchives.nseindia.com/corporate/POWERGRID1_01112026200821_BSENSEReg30FileFinal.pdf",
+      "location": "Unaudited consolidated results, rows I and XI, September quarter columns. Rows IX and X separate profit before regulatory deferrals and their post-tax effect."
+    }
+  ]
+}

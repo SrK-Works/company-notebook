@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-03",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Total income",
+      "current": 43415.65,
+      "previous": 37214.56
+    },
+    {
+      "label": "Profit after tax",
+      "current": 5952.01,
+      "previous": 4746.47
+    }
+  ],
+  "change": "Interest income and income from insurance both grew. Some of the group profit belongs to other owners of its subsidiaries.",
+  "watch": "Check the profit attributable to Bajaj Finserv’s own shareholders, then compare the lending and insurance results.",
+  "sources": [
+    {
+      "label": "Bajaj Finserv’s NSE filing",
+      "url": "https://nsearchives.nseindia.com/corporate/walimbelk_03112026124657_BFSSEOUTCOMEOFBM_3NOV2026.pdf",
+      "location": "Consolidated statement of profit and loss, September quarter columns, total income in row 1, profit after tax in row 8 and ownership split in row 11."
+    }
+  ]
+}

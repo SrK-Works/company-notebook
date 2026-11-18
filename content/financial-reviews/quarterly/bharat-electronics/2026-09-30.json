@@ -1,0 +1,36 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-30",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "lakh",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 732772,
+      "previous": 579209
+    },
+    {
+      "label": "Profit after tax",
+      "current": 154037,
+      "previous": 128716
+    }
+  ],
+  "change": "Sales and profit rose. Profit grew more slowly than revenue, so BEL kept a smaller share of each sales rupee after tax.",
+  "watch": "Check how much of the order book turns into deliveries that the company can bill.",
+  "sources": [
+    {
+      "label": "Bharat Electronics’ results extract filed with NSE",
+      "url": "https://nsearchives.nseindia.com/corporate/BEL_31102026204800_Lettersigned.pdf",
+      "location": "Consolidated September quarter columns, rows 1 and 4 of the filed newspaper extract."
+    },
+    {
+      "label": "Bharat Electronics’ NSE integrated filing",
+      "url": "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_INDAS_207317_30102026172327_iXBRL_WEB.html",
+      "location": "General information gives the October 30 approval date. Financial results give the current quarter revenue and total profit rows."
+    }
+  ]
+}

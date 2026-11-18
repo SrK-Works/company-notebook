@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-06",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Continuing operations",
+  "sourceUnit": "million",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 57340,
+      "previous": 49004
+    },
+    {
+      "label": "Profit after tax",
+      "current": 5042,
+      "previous": 4810
+    }
+  ],
+  "change": "Revenue rose faster than profit. Siemens said swings in commodity prices and exchange rates increased the cost of materials.",
+  "watch": "Watch whether more orders lead to higher profit after Siemens pays for the equipment and materials it supplies.",
+  "sources": [
+    {
+      "label": "Official September quarter results",
+      "url": "https://assets.new.siemens.com/siemens/assets/api/uuid:88b4d460-5bd6-4887-8914-a018826a290d/SL-Q2-FY-2027-Results-and-Audit-Report-consolidated.pdf",
+      "location": "Unaudited consolidated results, PDF page 3, September quarter columns, rows 1 and 9. Comparison excludes discontinued operations. Company press release explains material cost pressures."
+    }
+  ]
+}

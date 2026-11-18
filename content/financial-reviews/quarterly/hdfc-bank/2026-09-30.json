@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-17",
+  "checkedOn": "2026-11-18",
+  "basis": "Standalone",
+  "assurance": "Unaudited",
+  "coverage": "Bank excluding subsidiaries",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Total income",
+      "current": 97257.62,
+      "previous": 91040.72
+    },
+    {
+      "label": "Profit after tax",
+      "current": 19509.96,
+      "previous": 18641.28
+    }
+  ],
+  "change": "Income and profit rose. The bank said profit grew faster after excluding gains from its own investment trades, which can vary sharply from quarter to quarter.",
+  "watch": "Check whether interest from lending is growing faster than interest the bank pays depositors and other lenders.",
+  "sources": [
+    {
+      "label": "Company quarterly results filing",
+      "url": "https://www.sec.gov/Archives/edgar/data/1144967/000119312526424680/d166042dex99.htm",
+      "location": "Issuer’s SEC-filed attachment, standalone unaudited September quarter columns, rows 3 and 14; accompanying press release explains treasury trading gains."
+    }
+  ]
+}

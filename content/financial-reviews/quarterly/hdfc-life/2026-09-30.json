@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-15",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "lakh",
+  "metrics": [
+    {
+      "label": "Net premium income",
+      "current": 2185579,
+      "previous": 1887123
+    },
+    {
+      "label": "Profit after tax (shareholders’ account)",
+      "current": 52160,
+      "previous": 44829
+    }
+  ],
+  "change": "Premium income after the cost of insurance HDFC Life buys to share its risks rose. The filing also shows more money from customers renewing existing policies.",
+  "watch": "Look at whether customers keep paying to renew policies and how claims change alongside premiums.",
+  "sources": [
+    {
+      "label": "Company quarterly results filing",
+      "url": "https://www.hdfclife.com/content/dam/hdfclifeinsurancecompany/about-us/pdf/investor-relations/Bulletin-board/Outcome-of-board-meetings/Board-Meeting-October-15-2026.pdf",
+      "location": "Statement of Consolidated Unaudited Results, September quarter columns, policyholders’ account rows 1(b) and 2, and shareholders’ account row 31."
+    }
+  ]
+}

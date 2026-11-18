@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-15",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Audited",
+  "coverage": "Whole group",
+  "sourceUnit": "million",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 247527,
+      "previous": 226973
+    },
+    {
+      "label": "Profit after tax",
+      "current": 31997,
+      "previous": 32624
+    }
+  ],
+  "change": "Revenue rose, but group profit dipped. Wipro reported less other income, which includes earnings outside its main business.",
+  "watch": "Track how much of the extra revenue remains after the cost of delivering technology services.",
+  "sources": [
+    {
+      "label": "Official September quarter results",
+      "url": "https://www.wipro.com/content/dam/nexus/en/investor/corporate-governance/stock-exchange-filing/intimation-under-regulation-30-of-sebi-listing-obligations-and-disclosure-requirements-regulations-2015-outcome-of-board-meeting-15-oct-2026.pdf",
+      "location": "Audited consolidated Ind AS results, PDF page 12, September quarter columns, rows I, II and VIII. Total profit includes the share of other owners of subsidiaries."
+    }
+  ]
+}

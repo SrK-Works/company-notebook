@@ -1,0 +1,36 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-14",
+  "checkedOn": "2026-11-18",
+  "basis": "Standalone",
+  "assurance": "Unaudited",
+  "coverage": "Bank only",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Total income",
+      "current": 40931,
+      "previous": 38598
+    },
+    {
+      "label": "Net profit",
+      "current": 5175,
+      "previous": 4774
+    }
+  ],
+  "change": "Total income and profit rose. The bank kept more from interest after paying interest to depositors and other lenders.",
+  "watch": "Check whether the gap between interest earned and interest paid keeps growing and how much the bank has to set aside for troubled loans.",
+  "sources": [
+    {
+      "label": "Canara Bank’s results presentation filed with NSE",
+      "url": "https://nsearchives.nseindia.com/corporate/CANBK_14102026121259_LettertoSE14102026IPsD.pdf",
+      "location": "Page 18, Financials at a Glance, Sep’26 and Sep’25 standalone quarter figures rounded to ₹ crore; net interest income, total income and net profit."
+    },
+    {
+      "label": "Canara Bank’s NSE standalone integrated filing",
+      "url": "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_BANKING_201173_14102026174032_iXBRL_WEB.html",
+      "location": "Current quarter rows 3 and 12 of Financial Results - Banking verify the standalone basis and the rounded totals. Source is in lakh."
+    }
+  ]
+}

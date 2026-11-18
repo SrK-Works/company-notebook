@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-31",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 54269.95,
+      "previous": 44784.05
+    },
+    {
+      "label": "Profit after tax",
+      "current": 7350.79,
+      "previous": 5225.3
+    }
+  ],
+  "change": "Revenue and profit rose. Profit includes an adjustment for electricity charges that regulators may allow NTPC to collect in a different period.",
+  "watch": "Compare profit before those adjustments to see how much the rest of the business earned.",
+  "sources": [
+    {
+      "label": "Quarterly results filing",
+      "url": "https://nsearchives.nseindia.com/corporate/NTPC_31102026145929_RECORDDATE_06112026_STEX.pdf",
+      "location": "Unaudited consolidated quarterly statement rows 1(a), 7, 8 and 9, September quarter columns. Row 9 includes regulatory deferral account movements after tax."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-07",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 65436.24,
+      "previous": 58689.29
+    },
+    {
+      "label": "Profit after tax",
+      "current": 3699.59,
+      "previous": 3183.09
+    }
+  ],
+  "change": "Group sales and profit rose. India shipped more steel, and an increase in the stated value of investments also helped reported profit.",
+  "watch": "Check whether steel earnings improve before unusual gains or charges, especially in Europe.",
+  "sources": [
+    {
+      "label": "Official September quarter results",
+      "url": "https://www.tatasteel.com/media/26630/board-meeting-outcome.pdf",
+      "location": "Consolidated financial results, September quarter columns, rows 1 and 11; row 8(e) shows change in investment values. Accompanying release has India deliveries and European results."
+    }
+  ]
+}

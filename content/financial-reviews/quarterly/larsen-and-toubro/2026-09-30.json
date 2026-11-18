@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-27",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 78749.94,
+      "previous": 67983.53
+    },
+    {
+      "label": "Profit after tax",
+      "current": 5949.15,
+      "previous": 4678.01
+    }
+  ],
+  "change": "Revenue and profit grew. The company was still in the process of selling its stake in the Hyderabad Metro Rail subsidiary at quarter end.",
+  "watch": "Check whether construction revenue keeps turning into payments from customers.",
+  "sources": [
+    {
+      "label": "Quarterly results filing",
+      "url": "https://investors.larsentoubro.com/upload/Quarterly/FY2027QuarterlyLnTResultsSeptember2026.pdf",
+      "location": "Consolidated quarterly statement rows 1(a) and 9, September quarter columns, and note ii on Hyderabad Metro. Profit includes the group's share of profit or loss from joint ventures and associates."
+    }
+  ]
+}

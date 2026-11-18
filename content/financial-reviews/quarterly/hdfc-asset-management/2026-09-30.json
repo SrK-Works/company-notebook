@@ -1,0 +1,41 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-16",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "HDFC Asset Management Company and subsidiaries",
+  "sourceUnit": "lakh",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 117022,
+      "previous": 102740
+    },
+    {
+      "label": "Profit after tax",
+      "current": 74873,
+      "previous": 71806
+    }
+  ],
+  "change": "Fee revenue grew faster than profit. HDFC AMC earns fees for managing investments, and the amount it manages changes as people add or withdraw money and as markets move.",
+  "watch": "Watch whether people keep putting more into HDFC funds than they take out, and how much fee income the company earns on the money it manages.",
+  "sources": [
+    {
+      "label": "Company quarterly results filing",
+      "url": "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_NBFC_INDAS_201763_16102026152827_iXBRL_WEB.html",
+      "location": "Consolidated statement of profit and loss, current quarter column, lines Total Revenue From Operations and Total profit (loss) for period. Subsequent NSE submission dated October 16."
+    },
+    {
+      "label": "September 2025 consolidated results filing",
+      "url": "https://nsearchives.nseindia.com/corporate/DEEPTI_15102025145626_NSEBSE_48.pdf",
+      "location": "Consolidated results table, September 30, 2025 quarter column, revenue from operations and profit after tax. Amounts converted from crore to lakh."
+    },
+    {
+      "label": "HDFC AMC September 2026 investor presentation and release",
+      "url": "https://files.hdfcfund.com/s3fs-public/2026-10/NSEBSE_49.pdf?VersionId=A_reeTnbCCTJOulOwMs5yKYZJ0MeNA_z",
+      "location": "Financial highlights and key business drivers, used for context on asset management and funds."
+    }
+  ]
+}

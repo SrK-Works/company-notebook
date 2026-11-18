@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-27",
+  "checkedOn": "2026-11-18",
+  "basis": "Standalone",
+  "assurance": "Unaudited",
+  "coverage": "Insurer only",
+  "sourceUnit": "lakh",
+  "metrics": [
+    {
+      "label": "Net premium income",
+      "current": 2687770,
+      "previous": 2484831
+    },
+    {
+      "label": "Profit after tax",
+      "current": 54923,
+      "previous": 49459
+    }
+  ],
+  "change": "Income from policies and profit rose. Net premium is what the insurer reports after allowing for premiums passed to or received from other insurers under reinsurance agreements.",
+  "watch": "Watch how many policyholders keep renewing, and how much of the premium goes to claims, commissions and reserves for future payouts.",
+  "sources": [
+    {
+      "label": "Official September quarter results",
+      "url": "https://www.sbilife.co.in/documents/d/sbil/bm-outcome_september-2026",
+      "location": "Standalone results, September quarter columns, row 2 net premium income and rows 29–31 net profit. The September 2025 quarter column is marked audited."
+    }
+  ]
+}

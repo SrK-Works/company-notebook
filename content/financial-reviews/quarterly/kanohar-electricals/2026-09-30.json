@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-02",
+  "checkedOn": "2026-11-18",
+  "basis": "Standalone",
+  "assurance": "Unaudited",
+  "coverage": "Company and its share of a joint operation",
+  "sourceUnit": "lakh",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 20858.68,
+      "previous": 9821.34
+    },
+    {
+      "label": "Profit after tax",
+      "current": 5386.91,
+      "previous": 1927.27
+    }
+  ],
+  "change": "Revenue and profit rose, with profit growing faster. The company reported last year's comparison before it was required to have quarterly results reviewed.",
+  "watch": "Check whether new transformer orders turn into deliveries and customer payments.",
+  "sources": [
+    {
+      "label": "Quarterly results filing",
+      "url": "https://nsearchives.nseindia.com/corporate/KANOHARNSE2026_02112026190411_Outcome_Board_Meeting_Q2.pdf",
+      "location": "Standalone financial results for the quarter and half year ended 30 September 2026, rows I and VII, September quarter columns. Note 3 says September 2025 comparatives were not subject to limited review."
+    }
+  ]
+}

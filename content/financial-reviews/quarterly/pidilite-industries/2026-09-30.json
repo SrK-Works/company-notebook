@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-28",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Net sales",
+      "current": 4285,
+      "previous": 3540
+    },
+    {
+      "label": "Profit after tax",
+      "current": 626,
+      "previous": 585
+    }
+  ],
+  "change": "Sales of products such as adhesives and construction chemicals grew faster than profit. The group kept a smaller share of each sales rupee as profit.",
+  "watch": "Check whether sales growth improves profit after the costs of making and selling those products.",
+  "sources": [
+    {
+      "label": "Quarterly results filing",
+      "url": "https://www.pidilite.com/content/dam/pidilitecorporatewebsite/listing-information/stock-exchange-announcements/intimation-and-updates/fy-2026-27/se-intimation-press-release-30th-september-2026.pdf",
+      "location": "Company announcement to NSE and BSE, Key Performance Highlights (Consolidated), Q2 FY26 and Q2 FY27 columns, rounded as reported."
+    }
+  ]
+}

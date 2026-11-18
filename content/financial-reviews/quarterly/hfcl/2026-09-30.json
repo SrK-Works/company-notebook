@@ -1,0 +1,36 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-19",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 2541.79,
+      "previous": 1043.34
+    },
+    {
+      "label": "Profit after tax",
+      "current": 394.22,
+      "previous": 71.92
+    }
+  ],
+  "change": "Sales rose and after-tax profit grew much faster. HFCL kept more of each rupee of sales after paying costs and tax.",
+  "watch": "Check whether equipment orders keep turning into delivered, paid work, and whether the higher share of sales kept as profit holds.",
+  "sources": [
+    {
+      "label": "Company quarterly results filing",
+      "url": "https://cdn.prod.website-files.com/69e0036b695965871f0524ab/6ad5c0cfbd687f86132c602e_HFCL_UFR_30092026.pdf",
+      "location": "Company’s filed statement of consolidated unaudited financial results, September 2026 and September 2025 columns, revenue from operations and group profit after tax."
+    },
+    {
+      "label": "HFCL NSE-filed earnings call",
+      "url": "https://nsearchives.nseindia.com/corporate/AHMED_26102026200652_HFCL_STX_IC_19102026_Transcript.pdf",
+      "location": "Opening prepared remarks on consolidated revenue, profit and profit margin."
+    }
+  ]
+}

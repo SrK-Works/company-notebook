@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-11",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue",
+      "current": 19886,
+      "previous": 15769
+    },
+    {
+      "label": "Reported profit after tax",
+      "current": 1652,
+      "previous": 1245
+    }
+  ],
+  "change": "Tata Power reported more revenue and profit. Profit also rose before unusual items, although the reported increase was bigger.",
+  "watch": "Watch whether new solar and grid projects start bringing in enough income to cover the money spent building them.",
+  "sources": [
+    {
+      "label": "Official September quarter results",
+      "url": "https://www.tatapower.com/news-and-media/media-releases/tata-power-delivers-highest-ever-quarterly-profit-driven-by-broad-based-growth-across-businesses",
+      "location": "Quarterly financial highlights, consolidated Q2 FY27 and Q2 FY26 columns, Revenue and Reported PAT. Profit before exceptional items and project spending are discussed in the same release."
+    }
+  ]
+}

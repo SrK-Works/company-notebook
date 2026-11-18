@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-05",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "lakh",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 18329.4,
+      "previous": 888.37
+    },
+    {
+      "label": "Profit or loss after tax",
+      "current": 2354.1,
+      "previous": -961.78
+    }
+  ],
+  "change": "Tonbo reported far more revenue than a year earlier and turned a quarterly loss into a profit. Its June and September results show how sharply sales can vary between quarters.",
+  "watch": "Check whether orders for imaging equipment keep turning into deliveries and cash payments.",
+  "sources": [
+    {
+      "label": "Official September quarter results",
+      "url": "https://nsearchives.nseindia.com/corporate/TONBO_05112026113915_Outcome_BM_05112026_Executed.pdf",
+      "location": "Unaudited consolidated results, September 2026 and 2025 quarter columns, revenue from operations and profit or loss net of tax. June 2026 in the same statement provides context."
+    }
+  ]
+}

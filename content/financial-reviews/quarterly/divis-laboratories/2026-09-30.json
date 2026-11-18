@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-07",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 3676,
+      "previous": 2715
+    },
+    {
+      "label": "Profit after tax",
+      "current": 1127,
+      "previous": 689
+    }
+  ],
+  "change": "Revenue and profit rose. Profit also increased before tax even though the filing shows a smaller gain from exchange-rate changes.",
+  "watch": "Check whether growth in bulk drug ingredients and work done for individual drugmakers keeps pace with materials costs.",
+  "sources": [
+    {
+      "label": "Company quarterly results filing",
+      "url": "https://www.divislabs.com/wp-content/uploads/2026/11/Outcome_BoardMeeting_07-11-2026_DivisLabs.pdf",
+      "location": "Consolidated unaudited results, rows 1 and 7, September quarter columns. Foreign exchange gains are in the consolidated notes."
+    }
+  ]
+}

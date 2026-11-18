@@ -1,0 +1,36 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-15",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "million",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 98989.01,
+      "previous": 64772.11
+    },
+    {
+      "label": "Profit after tax",
+      "current": 9899.97,
+      "previous": 6929.59
+    }
+  ],
+  "change": "Sales of cables, electrical products and project work grew. Profit rose too, but more slowly than revenue.",
+  "watch": "Check whether demand for cables stays strong and whether Polycab keeps more profit from each sales rupee.",
+  "sources": [
+    {
+      "label": "Quarterly results filing",
+      "url": "https://cms.polycab.com/media/yqujesdb/condensed-financial-statements-q2-2027.pdf",
+      "location": "Interim condensed consolidated profit and loss, PDF page 6, both September quarter columns, revenue from operations and profit for the period. Call transcript describes growth across segments."
+    },
+    {
+      "label": "Company earnings call filed with NSE",
+      "url": "https://nsearchives.nseindia.com/corporate/POLYCAB_19102026163912_Intimation_of_Earnings_Call_Transcript.pdf",
+      "location": "Management comments on consolidated September quarter and segment results."
+    }
+  ]
+}

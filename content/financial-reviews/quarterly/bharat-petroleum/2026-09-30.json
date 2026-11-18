@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-23",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Continuing operations",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 157817.93,
+      "previous": 121604.7
+    },
+    {
+      "label": "Profit after tax",
+      "current": 4863.05,
+      "previous": 6191.49
+    }
+  ],
+  "change": "Revenue rose while profit fell. The group kept a smaller share of each rupee of revenue after costs and tax.",
+  "watch": "Watch what BPCL earns from selling fuel after feedstock costs, and check how much cooking-gas compensation it records.",
+  "sources": [
+    {
+      "label": "Bharat Petroleum’s NSE filing",
+      "url": "https://nsearchives.nseindia.com/corporate/BPCL26_23102026191050_stexintimationoutcome231026s.pdf",
+      "location": "Unaudited consolidated results, September quarter columns, rows I and X; consolidated ratio disclosure and note on domestic LPG sales and compensation."
+    }
+  ]
+}

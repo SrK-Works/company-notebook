@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-05",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 5597.79,
+      "previous": 4840.63
+    },
+    {
+      "label": "Profit after tax",
+      "current": 725.99,
+      "previous": 655.06
+    }
+  ],
+  "change": "Sales of food products and group profit both rose. Profit grew more slowly than revenue.",
+  "watch": "Check whether sales growth is keeping up with the costs of ingredients, packaging and getting food to shops.",
+  "sources": [
+    {
+      "label": "Britannia’s NSE filing",
+      "url": "https://nsearchives.nseindia.com/corporate/BRITANNIA1_05112026182929_Outcome_of_the_Board_Meeting.pdf",
+      "location": "Annexure I, unaudited consolidated results, September quarter columns, rows I and IX."
+    }
+  ]
+}

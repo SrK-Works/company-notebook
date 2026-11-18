@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-16",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "lakh",
+  "metrics": [
+    {
+      "label": "Total income",
+      "current": 3879110,
+      "previous": 3668378
+    },
+    {
+      "label": "Profit after tax attributable to owners",
+      "current": 589837,
+      "previous": 512528
+    }
+  ],
+  "change": "The banking group's total income rose and its profit after deducting the share of outside owners increased faster.",
+  "watch": "Look at how much PNB earned on loans after paying interest to depositors and how much it set aside for losses.",
+  "sources": [
+    {
+      "label": "Quarterly results filing",
+      "url": "https://pnb.bank.in/downloadprocess.aspx?fid=56r%2FFN+wMBKdm1IfuyXckQ%3D%3D",
+      "location": "Consolidated columns for the two September quarters, financial results rows A (total income) and net profit after share of associates and minority interests, reported in lakh."
+    }
+  ]
+}

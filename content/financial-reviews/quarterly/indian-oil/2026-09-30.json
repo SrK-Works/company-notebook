@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-30",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 268039.38,
+      "previous": 206447.11
+    },
+    {
+      "label": "Profit after tax",
+      "current": 22502.62,
+      "previous": 8190.86
+    }
+  ],
+  "change": "Sales and profit rose. Revenue included payments from the government to help cover losses IndianOil suffered selling cooking-gas cylinders at regulated prices.",
+  "watch": "Compare the price IndianOil pays for crude with what it earns selling fuels. Also check the effect of any government compensation.",
+  "sources": [
+    {
+      "label": "IndianOil consolidated results filing",
+      "url": "https://iocl.com/admin/img/UploadedFiles/IntimationStockExchanges/Images/c71f3337bb2b420b9042781f8602dfde.pdf",
+      "location": "PDF page 15, unaudited consolidated September quarter columns, rows 1 and 9. Note 4 explains the cooking-gas compensation recognized in revenue."
+    }
+  ]
+}
