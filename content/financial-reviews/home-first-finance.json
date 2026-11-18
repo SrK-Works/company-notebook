@@ -1,0 +1,26 @@
+{
+  "status": "single",
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited annual financial disclosure",
+  "checked": "18 November 2026",
+  "rows": [
+    {
+      "name": "Home First Finance Company India Limited",
+      "revenue": 1922.72,
+      "profit": 540.38
+    }
+  ],
+  "basis": "Standalone",
+  "coverage": "Whole company · housing finance and property-backed lending",
+  "revenueLabel": "Total income",
+  "incomeDefinition": "Interest on loans and other financial assets, fees, gains from transferring loan balances and other income, before borrowing and operating costs.",
+  "profitMetric": "Profit after tax",
+  "definition": "The lender’s reported profit after funding costs, expected loan losses, operating expenses and tax.",
+  "revenueTotal": 1922.72,
+  "profitTotal": 540.38,
+  "source": "https://nsearchives.nseindia.com/corporate/HOMEFIRST_06052026185324_HomeFirstOutcomeofBM.pdf",
+  "location": "PDF page 6, audited statement of financial results, full years ended 31 March 2026 and 2025.",
+  "notes": "The source uses ₹ million. Total income includes ₹1,664.02 crore of interest income. Finance costs were ₹792.32 crore and the charge for expected losses on financial assets was ₹56.88 crore. The filing provides whole company profit rather than a split by loan type.",
+  "insight": "Interest supplies most of the income. Compare it with interest on borrowed money and the cost of losses on loans to see what the company keeps."
+}
