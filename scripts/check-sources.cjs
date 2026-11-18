@@ -4,13 +4,14 @@
 //   node scripts/check-sources.cjs                  check every source link, direct requests only
 //   TINYFISH_API_KEY=... node scripts/check-sources.cjs --tinyfish
 //                                                   retry failed links through the TinyFish Fetch API
-//   --company tcs        only links used by one company file (lesson id), repeatable
+//   --company tcs        links for one company (lesson id), repeatable
 //   --json report.json   also write the full report as JSON
 //   --strict             exit 1 when any link is broken or unreachable (for CI)
 //
 // The key is read only from the TINYFISH_API_KEY environment variable and is never printed or written.
 const fs = require('node:fs');
 const path = require('node:path');
+const { readQuarterly } = require('./lib/quarterly-records.cjs');
 
 const root = path.resolve(__dirname, '..');
 const TINYFISH_URL = 'https://api.fetch.tinyfish.ai'; // POST, X-API-Key header, up to 10 urls per request
@@ -24,7 +25,7 @@ function cleanUrl(raw) {
 }
 
 function extractUrls(text) {
-  const found = text.match(/https?:\/\/[^\s'"`<>)\\\]]+/g) || [];
+  const found = text.match(/https?:\/\/(?:[^\s'"`<>()\\\]]|\([^\s'"`<>()\\\]]*\))+/g) || [];
   return found.map(cleanUrl).filter(u => {
     let host;
     try { host = new URL(u).hostname; } catch { return false; }
@@ -36,37 +37,42 @@ function extractUrls(text) {
 function collectSources(rootDir, onlyCompanies = []) {
   const uses = new Map();
   const add = (url, place) => {
+    if (typeof url !== 'string' || !/^https?:\/\//.test(url)) return;
     if (!uses.has(url)) uses.set(url, new Set());
     uses.get(url).add(place);
   };
+  const record = (directory, id) => {
+    const file = path.join(rootDir, 'content', directory, id + '.json');
+    return fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, 'utf8')) : null;
+  };
+  const addLabeled = (sources, place) => {
+    for (const source of sources || []) add(Array.isArray(source) ? source[1] : source?.url, place);
+  };
   const lessonDir = path.join(rootDir, 'content/company-lessons');
-  const known = fs.readdirSync(lessonDir).filter(f => f.endsWith('.json')).map(f => f.slice(0, -5));
+  const known = fs.readdirSync(lessonDir).filter(f => f.endsWith('.json')).sort().map(f => f.slice(0, -5));
   const unknown = onlyCompanies.filter(id => !known.includes(id));
   if (unknown.length) {
     throw new Error(`--company accepts lesson ids only (the files in content/company-lessons). Unknown: ${unknown.join(', ')}.`);
   }
-  for (const file of fs.readdirSync(lessonDir).filter(f => f.endsWith('.json')).sort()) {
-    const id = file.slice(0, -5);
-    if (onlyCompanies.length && !onlyCompanies.includes(id)) continue;
-    const lesson = JSON.parse(fs.readFileSync(path.join(lessonDir, file), 'utf8'));
-    for (const entry of lesson.sources || []) {
-      const url = Array.isArray(entry) ? entry[1] : entry && entry.url;
-      if (typeof url === 'string' && /^https?:\/\//.test(url)) add(cleanUrl(url), `lesson:${id}`);
-    }
+
+  const quarterly = readQuarterly(rootDir, new Set(known));
+  for (const id of onlyCompanies.length ? new Set(onlyCompanies) : known) {
+    addLabeled(record('company-lessons', id).sources, `lesson:${id}`);
+
+    const catalogue = record('companies', id);
+    const place = `content/companies:${id}.json`;
+    addLabeled(catalogue?.company.sources, place);
+    add(catalogue?.company.productSource, place);
+    for (const offering of catalogue?.offerings || []) add(offering.url, place);
+
+    const annual = record('financial-reviews', id);
+    add(annual?.source, `annual:${id}`);
+    add(annual?.announcement, `annual:${id}`);
+    for (const quarter of quarterly[id] || []) addLabeled(quarter.sources, `quarter:${id}/${quarter.periodEnd}`);
   }
-  // Company records and the figure walkthroughs also hold links; those are matched by pattern and labelled by file.
-  if (!onlyCompanies.length) {
-    const dist = path.join(rootDir, 'dist');
-    const companyDir = path.join(rootDir, 'content/companies');
-    const files = [
-      ...fs.readdirSync(companyDir).filter(f => f.endsWith('.json')).map(f => ['content/companies', f]),
-      ['dist', 'figure-walkthroughs.js'],
-    ];
-    for (const [folder, file] of files) {
-      const p = path.join(rootDir, folder, file);
-      if (!fs.existsSync(p)) continue;
-      for (const url of extractUrls(fs.readFileSync(p, 'utf8'))) add(url, `${folder}:${file}`);
-    }
+  const walkthroughs = path.join(rootDir, 'dist', 'figure-walkthroughs.js');
+  if (!onlyCompanies.length && fs.existsSync(walkthroughs)) {
+    for (const url of extractUrls(fs.readFileSync(walkthroughs, 'utf8'))) add(url, 'dist:figure-walkthroughs.js');
   }
   return uses;
 }

@@ -13,6 +13,15 @@ test('parses year ends for March, June, September and December', () => {
   assert.equal(day(parseYearEnd('year ended 31 December 2025')), '2025-12-31');
 });
 
+test('transition periods preserve their labels and monitor the next year end', () => {
+  const period = '18 months · 1 October 2024 to 31 March 2026 (not a 12-month year)';
+  const result = assess(period, d('2026-11-18'));
+  assert.equal(day(parseYearEnd(period)), '2026-03-31');
+  assert.equal(result.currentPeriod, period);
+  assert.equal(result.nextYearEnd, '2027-03-31');
+  assert.equal(result.dueDate, '2027-05-30');
+});
+
 test('unparseable or impossible text gives null', () => {
   for (const text of ['', undefined, 'FY 2025–26', 'year ended 31 Smarch 2026', 'year ended 31 April 2026', 'year ended 29 February 2025']) {
     assert.equal(parseYearEnd(text), null);

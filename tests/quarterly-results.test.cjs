@@ -36,7 +36,9 @@ test('a quarterly card appears after the business lesson and before separately l
   assert.match(html, /Full-year figures/);
   const rainbow = context.COMPANIES.find(company => company.id === 'rainbow-childrens-medicare');
   assert.match(context.companyQuarterly.render(rainbow, String), /548\.02/); // INR million → INR crore
-  assert.equal(context.companyQuarterly.render({ id: 'company-without-a-reviewed-filing' }, String), '');
+  const pending = context.companyQuarterly.render({ id: 'company-without-a-reviewed-filing' }, String);
+  assert.match(pending, /Quarter ended .+ · Awaiting review in Company Notebook/);
+  assert.doesNotMatch(pending, /<table/);
 });
 
 test('the review queue tracks the requested quarter by company without marking unseen filings verified', () => {

@@ -15,9 +15,12 @@ const MONTHS = ['january', 'february', 'march', 'april', 'may', 'june', 'july',
 const utc = (y, m, d) => new Date(Date.UTC(y, m, d));
 const daysInMonth = (y, m) => utc(y, m + 1, 0).getUTCDate();
 
-// "FY 2025–26 · year ended 31 March 2026" -> Date (UTC), or null when it cannot be read.
+const changedYear = /\b\d+ months\s*[·:]\s*\d{1,2}\s+[A-Za-z]+\s+\d{4}\s+to\s+(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})/i;
+
+// Read the end date from an annual result or from a dated transition period.
 function parseYearEnd(text) {
-  const m = /year ended\s+(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})/i.exec(String(text || ''));
+  const label = String(text || '');
+  const m = /year ended\s+(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})/i.exec(label) || changedYear.exec(label);
   if (!m) return null;
   const month = MONTHS.indexOf(m[2].toLowerCase());
   const day = Number(m[1]);
@@ -64,7 +67,7 @@ function assess(periodText, today) {
   if (today > overdueFrom) state = 'overdue';
   else if (today > resultsDue) state = 'results due';
   return {
-    currentPeriod: periodLabel(end),
+    currentPeriod: changedYear.test(periodText) ? periodText : periodLabel(end),
     nextPeriod: periodLabel(nextEnd),
     nextYearEnd: isoDay(nextEnd),
     dueDate: isoDay(resultsDue),

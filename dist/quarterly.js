@@ -4,14 +4,21 @@ window.companyQuarterly = (() => {
   const amount = new Intl.NumberFormat('en-IN', { maximumFractionDigits: 2 });
   const sourceUnitsPerCrore = { crore: 1, million: 10, lakh: 100 };
 
+  const latest = Object.values(window.QUARTERLY_RESULTS || {}).reduce(
+    (newest, record) => record.periodEnd > newest ? record.periodEnd : newest, ''
+  );
+
   function render(company, safe) {
     const result = window.QUARTERLY_RESULTS?.[company.id];
-    if (!result) return '';
+    const pending = latest && (!result || result.periodEnd < latest)
+      ? `<p class="source-note">Quarter ended ${date.format(new Date(latest))} · Awaiting review in Company Notebook.</p>`
+      : '';
+    if (!result) return pending;
     const { periodEnd, comparisonEnd, filedOn, checkedOn, basis, assurance, coverage, change, watch, sourceUnit, metrics, sources } = result;
     const period = date.format(new Date(periodEnd));
     const comparison = date.format(new Date(comparisonEnd));
     const format = value => amount.format(value / sourceUnitsPerCrore[sourceUnit]);
-    return `<section class="financial-panel" id="quarterly" aria-labelledby="quarterly-title">
+    return `${pending}<section class="financial-panel" id="quarterly" aria-labelledby="quarterly-title">
 <div class="eyebrow">Quarterly update</div>
 <h3 id="quarterly-title">Quarter ended ${period}</h3>
 <p class="financial-period">${safe(basis === 'Consolidated' ? 'Group results' : 'Company only')} · ${safe(coverage)} · ${safe(assurance)}</p>

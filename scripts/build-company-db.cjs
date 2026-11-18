@@ -19,7 +19,7 @@ function readRecords(directory) {
 
 function annualPeriodEnd(period) {
   // A changed financial year can have a statement longer or shorter than twelve months.
-  const end = parseYearEnd(period) || parseYearEnd(period.replace(/.*\bto\s+(?=\d{1,2}\s+[A-Za-z]+\s+\d{4})/i, 'year ended '));
+  const end = parseYearEnd(period);
   if (!end) throw new Error('Cannot index the annual reporting period: ' + period);
   return end.toISOString().slice(0, 10);
 }
