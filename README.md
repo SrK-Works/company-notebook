@@ -78,6 +78,12 @@ The quarterly pilot covers HUL, Refex Industries and Rainbow Children’s Medica
 
 Run `node scripts/watch-quarters.cjs --period=2026-09-30` to list the existing profiles, the records already reviewed for that period and official starting points for the rest. Use `--json` for a machine-readable list. This is a review queue. It does not check whether each filing exists or claim that a filing is missing. Start with NSE’s [Integrated Filing – Financials](https://www.nseindia.com/companies-listing/corporate-integrated-filing) or the company’s investor page, then review the actual statement before publishing.
 
+## Local database prototype
+
+Run `node scripts/build-company-db.cjs` with Node 24 or later to rebuild `work/company-notebook.sqlite`. This indexes the reviewed company records and financial reports by company, period type and date. Each report retains its full reviewed JSON, so sources, definitions and scope survive the import. The tool writes a replacement database only after the import succeeds.
+
+The checked-in records remain the source for publication on GitHub Pages. Use the database to test queries across companies and periods as coverage grows. A hosted database is useful when we need to queue incoming filings, support several reviewers and record approvals or corrections independently of a site deploy. Move those workflows first when that need arrives, and keep the site's read-only pages backed by approved records.
+
 ## Checks
 
 - `npm test`: data, lessons, the company page, figure walkthroughs, financial records, the drafting step, source checking and design tokens.
