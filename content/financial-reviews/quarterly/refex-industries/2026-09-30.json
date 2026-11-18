@@ -1,0 +1,19 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-28",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Continuing operations",
+  "sourceUnit": "lakh",
+  "metrics": [
+    { "label": "Revenue from operations", "current": 76131.71, "previous": 41469.34 },
+    { "label": "Profit after tax", "current": 5955.31, "previous": 4584.48 }
+  ],
+  "change": "Refex earned more from moving coal and clearing ash, and sales from its wind power business also rose.",
+  "watch": "Check whether the wind business keeps earning money as Refex delivers more equipment and collects payment.",
+  "sources": [
+    { "label": "Refex results filed with NSE", "url": "https://nsearchives.nseindia.com/corporate/REFEX2002_28102026131634_RIL_Outcome_28102026_sd.pdf", "location": "Unaudited consolidated financial results, rows 1 and 6, and consolidated segment revenue and results, Ash & Coal Handling and Windpower rows. Use September 2026 and September 2025 quarter columns." }
+  ]
+}

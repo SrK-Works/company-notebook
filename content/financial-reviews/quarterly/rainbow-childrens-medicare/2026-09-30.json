@@ -1,0 +1,20 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-31",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "million",
+  "metrics": [
+    { "label": "Revenue from operations", "current": 5480.23, "previous": 4447.99 },
+    { "label": "Profit after tax", "current": 838.93, "previous": 756.24 }
+  ],
+  "change": "Rainbow treated more patients. Revenue rose faster than profit, and a smaller share of available beds was in use as the network added beds.",
+  "watch": "See whether patient visits and hospital stays grow fast enough to fill the extra beds.",
+  "sources": [
+    { "label": "Rainbow results filing", "url": "https://d31scedd5hpubp.cloudfront.net/investor_files/Unaudited_Financial_Results_%E2%80%93_Q2_FY2027.pdf", "location": "Unaudited consolidated results, rows 1(a) and 7. Use the September quarter columns. Profit is for the whole group, including the share belonging to other owners of subsidiaries." },
+    { "label": "Rainbow operating update", "url": "https://d31scedd5hpubp.cloudfront.net/investor_files/Press_Release_Q2_FY2027.pdf", "location": "PDF pages 2–3, Financial Highlights and Operational Highlights. Compare patient visits, discharges, operational beds and occupancy." }
+  ]
+}

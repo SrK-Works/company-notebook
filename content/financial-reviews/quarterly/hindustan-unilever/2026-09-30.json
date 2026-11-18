@@ -1,0 +1,19 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-28",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Continuing operations",
+  "sourceUnit": "crore",
+  "metrics": [
+    { "label": "Sales of products and services", "current": 18071, "previous": 15742 },
+    { "label": "Profit after tax", "current": 2796, "previous": 2791 }
+  ],
+  "change": "Sales rose, but reported profit was nearly flat. The same quarter last year included a one-off tax gain.",
+  "watch": "When comparing profit, check whether either quarter included a gain or cost that is unlikely to repeat.",
+  "sources": [
+    { "label": "HUL results filing", "url": "https://www.hul.co.in/files/hul-sq-26-results.pdf", "location": "PDF pages 7 and 11, consolidated results and notes 1, 4 and 5. Sales combines sale of products and sale of services, excluding other operating revenue. Profit is the continuing operations line for the group." }
+  ]
+}

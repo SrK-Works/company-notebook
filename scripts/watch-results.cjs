@@ -11,7 +11,7 @@
 const fs = require('node:fs');
 const path = require('node:path');
 const { execFileSync } = require('node:child_process');
-const { assess, parseYearEnd } = require('./lib/results-calendar.cjs');
+const { assess } = require('./lib/results-calendar.cjs');
 const { checkExchange } = require('./lib/exchange-check.cjs');
 const { LABEL, issueTitle, issueBody, summaryTable } = require('./lib/figures-issue.cjs');
 
@@ -44,7 +44,7 @@ async function buildRows() {
     }
     const row = { ...base, ...result, source: snapshot.source, investorPage: company.sources && company.sources[0] && company.sources[0][1] };
     if (result.periodEnded) {
-      const check = await checkExchange(company.ticker, parseYearEnd(snapshot.period));
+      const check = await checkExchange(company.ticker, new Date(result.nextYearEnd));
       row.exchange = `${check.status} (${check.detail})`;
       row.filed = check.status === 'filed';
     }

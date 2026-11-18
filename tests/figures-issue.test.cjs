@@ -37,3 +37,23 @@ test('exchange announcements: filed, not found, or unknown on a changed format',
   assert.equal(findResults({ error: 'x' }, since), 'unknown');
   assert.equal(findResults(null, since), 'unknown');
 });
+
+test('only a results announcement for the target full year triggers the annual watcher', () => {
+  const yearEnd = new Date('2027-03-31');
+  const announced = '2027-05-10 16:00:00';
+  for (const text of [
+    'Unaudited financial results for the quarter ended 31 March 2027',
+    'Audited financial results for the half-year ended 31 March 2027',
+    'Audited financial results for the quarter and year ended 31 March 2026',
+    'Financial Results',
+  ]) assert.equal(findResults([{ desc: text, an_dt: announced }], yearEnd), 'not found', text);
+  assert.equal(findResults([{
+    desc: 'Board meeting intimation',
+    attchmntText: 'To consider financial results for the year ended on 31st March, 2027',
+    an_dt: announced,
+  }], yearEnd), 'not found');
+  assert.equal(findResults([{
+    desc: 'Financial results for the quarter and financial year ended on 31st March, 2027',
+    an_dt: announced,
+  }], yearEnd), 'filed');
+});
