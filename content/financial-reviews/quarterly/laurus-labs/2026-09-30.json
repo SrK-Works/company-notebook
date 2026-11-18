@@ -1,0 +1,36 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-29",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 2206.37,
+      "previous": 1653.47
+    },
+    {
+      "label": "Profit after tax",
+      "current": 436.19,
+      "previous": 194.49
+    }
+  ],
+  "change": "Sales and profit rose. Laurus said development and manufacturing work for other drug companies drove growth, and finished medicines also contributed.",
+  "watch": "Check whether development jobs turn into repeat manufacturing orders and how much factory time new contracts fill.",
+  "sources": [
+    {
+      "label": "Signed September results",
+      "url": "https://www.lauruslabs.com/Investors/PDF/Q2/Outcome29102026.pdf",
+      "location": "PDF page 2, consolidated results, September 2026 and September 2025 quarter columns. Lines 1(a) and 7, total group profit after its share of part-owned business results."
+    },
+    {
+      "label": "September results presentation",
+      "url": "https://www.lauruslabs.com/Investors/PDF/Q2/InvPresentation29102026.pdf",
+      "location": "PDF pages 16–17, management discussion on sales and the mix of work."
+    }
+  ]
+}

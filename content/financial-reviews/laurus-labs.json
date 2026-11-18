@@ -1,0 +1,24 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "coverage": "Whole group · one reported pharmaceutical business segment",
+  "unit": "₹ crore",
+  "profitMetric": "Profit after tax",
+  "definition": "Group profit after expenses and tax, including the group’s share of results from some part-owned businesses. It also includes the share of profit belonging to outside owners in subsidiaries.",
+  "rows": [
+    {
+      "name": "Laurus Labs Limited · whole group",
+      "revenue": 6812.9,
+      "profit": 890.14
+    }
+  ],
+  "source": "https://www.lauruslabs.com/images/pdfs/Annual_Report_2025-26.pdf",
+  "sourceLabel": "Audited annual report",
+  "location": "Printed page 273, consolidated statement of profit and loss, annual columns; note 31, Segment reporting.",
+  "checked": "18 November 2026",
+  "notes": "Profit attributable to Laurus Labs shareholders was ₹888.79 crore. The group reports one business segment, so the table shows earnings for the whole group. The annual report breaks out sales by customer location.",
+  "insight": "Revenue and group profit both grew compared with the prior year. Laurus described higher customer development and manufacturing sales and growth in its affordable medicines business.",
+  "status": "single",
+  "revenueTotal": 6812.9,
+  "profitTotal": 890.14
+}
