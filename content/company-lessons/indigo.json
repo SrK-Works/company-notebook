@@ -83,8 +83,8 @@
   ],
   "watch": [
     [
-      "Are fares and load factors holding up?",
-      "Revenue depends on how full planes are and what each passenger pays.",
+      "How full are IndiGo’s planes, and what do passengers pay?",
+      "Empty seats bring in no fares.",
       "Compare yield and load factor with the same quarter a year earlier in each quarterly press release."
     ],
     [
@@ -197,5 +197,7 @@
       "text": "Wars and airspace closures can force long detours and cut demand on international routes, the area where it is trying to grow."
     }
   ],
-  "checked": "12 November 2026"
+  "checked": "12 November 2026",
+  "photoCaption": "Travellers pay IndiGo for flights on planes like this one and may pay for extras.",
+  "financialCue": "Read the note for the effects of currency changes and flight disruptions on the loss."
 }

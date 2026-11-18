@@ -92,8 +92,8 @@
   ],
   "watch": [
     [
-      "How fast is GAIL’s pipeline fee reviewed, and where does it land?",
-      "The regulator’s interim tariff order says the final adjustment will come at the next review, which could change what GAIL earns from its pipes.",
+      "When will the fee for using GAIL’s pipes change?",
+      "The regulator’s next review can change what GAIL earns from carrying gas.",
       "Read the regulation section of the latest annual report and note the date of the next tariff review and the factors still to be adjusted."
     ],
     [
@@ -236,5 +236,7 @@
       "Polymers",
       "Plastic made from gas"
     ]
-  ]
+  ],
+  "photoCaption": "Gas traders pay GAIL to move natural gas through pipes and valves like these.",
+  "financialCue": "Find Petrochemicals, which includes plastics. See how the table marks a loss."
 }

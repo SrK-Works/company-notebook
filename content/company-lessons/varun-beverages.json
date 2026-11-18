@@ -91,8 +91,8 @@
   ],
   "watch": [
     [
-      "How much did weather cut summer sales, and what happens next summer?",
-      "Most sales fall in the hot months, so a rainy summer can reduce the year's sales. The company said unusual rainfall cut volumes in India in 2025.",
+      "Does a rainy summer leave Varun selling fewer drinks?",
+      "Summer is a busy season, so weak sales then can affect the full year.",
       "Compare sales volumes by quarter and by India and international markets over several years, with the weather commentary."
     ],
     [
@@ -243,5 +243,7 @@
       "Beer test in Africa",
       "Carlsberg beer on trial in select territories"
     ]
-  ]
+  ],
+  "photoCaption": "Varun makes drinks such as Pepsi under licence and sells them to distributors and shops.",
+  "financialCue": "The total covers drinks from all markets and brands together."
 }

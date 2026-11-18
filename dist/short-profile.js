@@ -47,7 +47,9 @@ window.shortProfile=(()=>{
  const render=(c,h)=>{
   const {safe,mono,saveButton,profileSources}=h,l=lesson(c);
   const trial=pilot[c.id];
-  const watch=trial?(trial.watch||l.watch[0]):null;
+  const lead=trial?.lead||l.photoCaption;
+  const cue=trial?.cue||l.financialCue;
+  const watch=trial?.watch||((lead||cue)?l.watch[0]:null);
   const offerings=window.PRODUCT_VISUALS?.[c.id]||[];
   const photos=offerings.filter(p=>p.kind==='photo');
   const extraVisuals=offerings.filter(p=>p.kind==='generic'||p.kind==='pack');
@@ -55,16 +57,16 @@ window.shortProfile=(()=>{
   // A worked example with made-up numbers, always labelled so it cannot be mistaken for the company's figures.
   // When the text is several sentences (a set of numbers), the first sentence leads and the rest become short lines.
   const madeUp=({title,text})=>{const parts=String(text).split(/(?<=[.!?])\s+/).filter(Boolean);const body=parts.length>=4?`<p>${safe(parts[0])}</p><ul>${parts.slice(1).map(x=>`<li>${safe(x)}</li>`).join('')}</ul>`:`<p>${safe(text)}</p>`;return `<aside class="primer-illustration"><div class="primer-illustration-label">Illustration · made-up numbers, not the company’s figures</div><h4>${safe(title)}</h4>${body}</aside>`};
-  const tile=(p,i)=>`<a class="sp-tile${i===0?' sp-tile-lead':''}${i>=5?' sp-tile-wide':''}${p.kind==='pack'?' sp-tile-pack':''}" href="${safe(p.url)}" target="_blank" rel="noopener"><img src="${safe(p.image)}" alt="${safe(p.alt)}" loading="${i<2?'eager':'lazy'}" decoding="async"><span class="sp-cap"><strong>${safe(p.name)}</strong><span${i===0&&trial?.lead?' class="offering-lead"':''}>${safe(i===0&&trial?.lead?trial.lead:p.category)}</span>${p.kind==='pack'?'<span>Product image</span>':p.kind==='generic'?`<span>Representative photo${p.credit?` · ${safe(p.credit)}`: ''}</span>`:''}</span></a>`;
+  const tile=(p,i)=>`<a class="sp-tile${i===0?' sp-tile-lead':''}${i>=5?' sp-tile-wide':''}${p.kind==='pack'?' sp-tile-pack':''}" href="${safe(p.url)}" target="_blank" rel="noopener"><img src="${safe(p.image)}" alt="${safe(p.alt)}" loading="${i<2?'eager':'lazy'}" decoding="async"><span class="sp-cap"><strong>${safe(p.name)}</strong><span${i===0&&lead?' class="offering-lead"':''}>${safe(i===0&&lead?lead:p.category)}</span>${p.kind==='pack'?'<span>Product image</span>':p.kind==='generic'?`<span>Representative photo${p.credit?` · ${safe(p.credit)}`: ''}</span>`:''}</span></a>`;
   const products=c.products||[];
-  const visuals=photos.length>=5?`<section class="sp-photos" aria-label="What ${safe(c.name)} offers, in pictures"><div class="sp-grid">${[...photos,...extraVisuals].map(tile).join('')}</div><p class="source-note">Selected company photos and product images, with independent examples labelled. Open an image to see its source.</p></section>`:(window.productShelf?.render(c,{leadText:trial?.lead})||'');
+  const visuals=photos.length>=5?`<section class="sp-photos" aria-label="What ${safe(c.name)} offers, in pictures"><div class="sp-grid">${[...photos,...extraVisuals].map(tile).join('')}</div><p class="source-note">${l.photoCaption?'Open images for sources. Representative examples are labelled.':'Selected company photos and product images, with independent examples labelled. Open an image to see its source.'}</p></section>`:(window.productShelf?.render(c,{leadText:lead,manual:!!trial})||'');
   const older=window.FIGURE_WALKTHROUGHS?.[c.id]?.()||'';
   const deeper=[
    ['The main products and services',`<div class="sp-blocks">${l.groups.map(g=>`<div><h4>${safe(g.title)}</h4><p><strong>What the customer gets:</strong> ${safe(g.examples)}</p><p>${safe(g.explanation)}</p></div>`).join('')}</div>`],
    ['Words worth knowing',`<div class="sp-blocks">${l.basics.map(block).join('')}</div>`],
    ['What makes this business different',`<div class="sp-blocks">${l.specifics.map(block).join('')}</div>`],
    ['What else could go wrong',`<div class="sp-blocks">${l.risks.map(([n,d])=>`<div><h4>${safe(n)}</h4><p>${safe(d)}</p></div>`).join('')}</div>`],
-   ['What to check next',`<div class="sp-blocks">${(trial?l.watch.slice(1):l.watch).map(([q,why,how])=>`<div><h4>${safe(q)}</h4><p>${safe(why)}</p><p class="sp-how"><strong>How to look:</strong> ${safe(how)}</p></div>`).join('')}</div><p class="source-note">Research prompts, not findings.</p>`],
+   ['What to check next',`<div class="sp-blocks">${(watch?l.watch.slice(1):l.watch).map(([q,why,how])=>`<div><h4>${safe(q)}</h4><p>${safe(why)}</p><p class="sp-how"><strong>How to look:</strong> ${safe(how)}</p></div>`).join('')}</div><p class="source-note">Research prompts, not findings.</p>`],
    ...(trial?.skipContext?[]:[['A recent development',`<div class="sp-blocks"><div><h4>${safe(l.context[0])}</h4><p>${safe(l.context[1])}</p></div></div>`]]),
    ...(l.illustration?.length?[['A made-up example',l.illustration.map(madeUp).join('')]]:[]),
   ];
@@ -77,7 +79,7 @@ ${visuals}
 <section class="sp-section" id="how"><div class="number">How the work moves</div><h2>${safe(l.stepsTitle||'From the work to the payment.')}</h2><ol class="sp-flow">${l.steps.map(s=>`<li><strong>${safe(s.title)}</strong><span>${safe(s.text)}</span></li>`).join('')}</ol></section>
 <section class="sp-section" id="balance"><div class="number">Weighing it up</div><h2>What helps, and what could hurt.</h2><div class="sp-balance"><div class="sp-helps"><h3>What helps</h3>${l.helps.map(block).join('')}</div><div class="sp-hurts"><h3>What could hurt</h3>${l.hurts.map(block).join('')}</div></div><p class="source-note">What the company’s own documents show, not a forecast or advice.</p></section>
 <section class="sp-section" id="deeper"><div class="number">If you want more</div><h2>Go deeper.</h2>${deeper.map(([t,body])=>`<details class="sp-more"><summary>${safe(t)}</summary>${body}</details>`).join('')}${fullList}</section>
-<section class="sp-section" id="money"><div class="number">The numbers</div><h2>Check the figures.</h2>${watch?`<p class="sp-watch"><strong>${safe(watch[0])}</strong> ${safe(watch[1])}</p>`:''}${window.companyFinancials.render(c,{readingCue:trial?.cue})}<details class="sp-more"><summary>How to read these figures</summary>${older}<div class="sp-blocks">${l.financialNotes.map(block).join('')}</div></details></section>
+<section class="sp-section" id="money"><div class="number">The numbers</div><h2>Check the figures.</h2>${watch?`<p class="sp-watch"><strong>${safe(watch[0])}</strong> ${safe(watch[1])}</p>`:''}${window.companyFinancials.render(c,{readingCue:cue})}<details class="sp-more"><summary>How to read these figures</summary>${older}<div class="sp-blocks">${l.financialNotes.map(block).join('')}</div></details></section>
 <section class="sp-section" id="sources"><div class="number">Check the original</div><h2>Go straight to the source.</h2>${profileSources(c).map(([name,url])=>`<a class="source-link" href="${safe(url)}" target="_blank" rel="noopener">${safe(name)} ↗</a>`).join('')}<p class="source-note">Business lesson checked ${safe(l.checked)}. Check current filings before making a financial decision. For learning, not a stock recommendation.</p>
 <div class="sp-feedback"><span>Did the business make more sense?</span><button class="button secondary" data-feedback="clear" data-company="${c.id}">Yes, clearer now</button><button class="button secondary" data-feedback="unclear" data-company="${c.id}">Still have questions</button><button class="button secondary" data-correction="${c.id}">Suggest a correction</button></div><div id="feedback-form"></div></section>`;
  };

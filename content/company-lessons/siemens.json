@@ -87,8 +87,8 @@
   ],
   "watch": [
     [
-      "How much of the business is large, tendered rail projects?",
-      "The report says Mobility's order position depends largely on when opportunities are tendered, so results can move with the public tender calendar.",
+      "How much work comes from bidding for large rail projects?",
+      "Rail orders can arrive unevenly because they depend on when buyers invite bids.",
       "Read the Mobility section each year and compare orders won with sales delivered, noting what is said about tenders."
     ],
     [
@@ -227,5 +227,7 @@
       "Building controls",
       "Software and controls to help buildings use less energy"
     ]
-  ]
+  ],
+  "photoCaption": "Factories buy controllers that tell their machines when to start, stop or change speed.",
+  "financialCue": "Compare Digital Industries, which serves factories, with Mobility, which serves railways."
 }

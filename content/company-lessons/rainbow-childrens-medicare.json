@@ -70,8 +70,8 @@
   ],
   "watch": [
     [
-      "Do the different facilities work as a useful network?",
-      "Counting sites misses their different jobs.",
+      "Can local clinics refer children to hospitals for more complex care?",
+      "A new clinic and an intensive care unit serve different needs.",
       "Read each type of facility’s services and referral role. Check which sites are already serving patients, while recognising that not every service needs a visit to a larger hospital."
     ],
     [
@@ -192,5 +192,7 @@
       "title": "New hospitals stay quiet longer",
       "text": "Staff and property costs continue before enough patients arrive to cover them."
     }
-  ]
+  ],
+  "photoCaption": "Families and insurers pay Rainbow for care such as check-ups, tests and hospital stays.",
+  "financialCue": "Read the profit column as the amount left after tax for the company’s owners."
 }

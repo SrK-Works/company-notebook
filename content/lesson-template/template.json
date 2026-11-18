@@ -244,6 +244,18 @@
       "write": "A verified financial record. Only added by a separate financial review."
     },
     {
+      "key": "photoCaption",
+      "type": "text",
+      "maxChars": 150,
+      "write": "One short sentence about the first displayed offering image. Explain its link to the business without implying a representative image shows its own work."
+    },
+    {
+      "key": "financialCue",
+      "type": "text",
+      "maxChars": 150,
+      "write": "A short instruction that points to a specific row, comparison or scope in the verified figures table. Do not repeat the research question or quote an amount."
+    },
+    {
       "key": "stepsTitle",
       "type": "text",
       "maxChars": 60,

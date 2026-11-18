@@ -70,8 +70,8 @@
   ],
   "watch": [
     [
-      "Are jewellery sales rising because people buy more, or because gold costs more?",
-      "The sales value alone cannot answer this.",
+      "Is Titan selling more jewellery, or is gold getting dearer?",
+      "Either change can lift sales in rupees.",
       "Read the company’s measures of buyers, purchases and weight sold where available. Compare the same periods. Customers may buy lighter items when gold becomes dearer."
     ],
     [
@@ -208,5 +208,7 @@
       "title": "Strong competitors",
       "text": "Local jewellers, national brands and online sellers compete on price, design and service. Titan’s annual report notes growing competition for CaratLane and heightened competition in cheaper watches."
     }
-  ]
+  ],
+  "photoCaption": "Shoppers pay for jewellery at Tanishq stores, some of which Titan’s partners run.",
+  "financialCue": "Compare Watches and Eyecare alongside the much larger Jewellery row."
 }

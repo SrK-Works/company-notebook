@@ -65,8 +65,10 @@ function validateLesson(lesson,ownNames=[]){
    if(isText(item&&item.title)&&isText(item&&item.text)&&!label.test(item.title+' '+item.text))errors.push(`illustration[${i}]: must say it is fictional or illustrative`);
   });
  }
- // optional heading above the steps
- if(lesson.stepsTitle!==undefined){const o=template.optional.find(o=>o.key==='stepsTitle');if(!isText(lesson.stepsTitle)||lesson.stepsTitle.length>o.maxChars)errors.push(`stepsTitle: must be text of at most ${o.maxChars} characters`)}
+ for(const {key,maxChars,type} of template.optional){
+  if(type!=='text'||!maxChars||lesson[key]===undefined)continue;
+  if(!isText(lesson[key])||lesson[key].length>maxChars)errors.push(`${key}: must be text of at most ${maxChars} characters`);
+ }
  // sources
  if(Array.isArray(lesson.sources)){
   const urls=lesson.sources.map(x=>x&&x[1]);

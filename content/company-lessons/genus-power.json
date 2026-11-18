@@ -91,8 +91,8 @@
   ],
   "watch": [
     [
-      "Are utilities paying Genus on time?",
-      "Slow payment from DISCOMs ties up cash and raises borrowing.",
+      "Are electricity suppliers paying Genus on time?",
+      "Late payments can leave Genus borrowing to cover its bills.",
       "Look at receivables, which are bills issued but not yet paid, as a share of sales across years, and read the annual report’s comments on delayed collections. Check which states or utilities are the largest customers."
     ],
     [
@@ -225,5 +225,7 @@
       "title": "Large projects can run late",
       "text": "Genus’s report says big smart-meter projects involve fitting, connecting meters to a communication network and years of upkeep, which can delay timelines and cut profit."
     }
-  ]
+  ],
+  "photoCaption": "Electricity suppliers buy meters like these so households can pay before using power.",
+  "financialCue": "Read the note for the split between goods sold and services like fitting meters."
 }

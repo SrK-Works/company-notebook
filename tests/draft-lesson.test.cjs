@@ -35,7 +35,9 @@ test('page markup becomes readable text without scripts and styles',()=>{
  assert.equal(t,'Hello world\nNext & last');
 });
 test('a lesson survives the trip to the model\'s answer format and back',()=>{
- const l=real('ireda'),back=D.fromModelShape(D.toModelShape(l),l.checked);
+ // The editor supplies these captions and cues from the actual site image and table, outside model drafting.
+ const {photoCaption,financialCue,...l}=real('ireda');
+ const back=D.fromModelShape(D.toModelShape(l),l.checked);
  for(const k of Object.keys(l))assert.deepEqual(back[k],l[k],`${k} changed`);
  assert.deepEqual(validateLesson(back,ownNames('ireda')).errors,[]);
 });

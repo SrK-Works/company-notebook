@@ -87,8 +87,8 @@
   ],
   "watch": [
     [
-      "How is the Mundra coal power plant doing under its new agreement?",
-      "Mundra is a coal-fired power plant in Gujarat. If the buyer's price is fixed and the coal is imported, the plant can earn less than its fuel costs. The report calls this shortfall under-recovery.",
+      "Is the Mundra plant earning enough to cover its coal costs?",
+      "If imported coal gets dearer while electricity prices stay fixed, earnings can fall.",
       "Read what the report says about the changes to Mundra's selling agreement and compare the plant's results across years."
     ],
     [
@@ -201,5 +201,7 @@
       "text": "The report says its Odisha distribution companies are exposed to cyclones because of their east coast location, with long overhead lines and dense vegetation adding to the damage risk."
     }
   ],
-  "checked": "14 November 2026"
+  "checked": "14 November 2026",
+  "photoCaption": "Coal plants make electricity that Tata Power can sell to state power buyers.",
+  "financialCue": "Thermal & Hydro combines power from burning fuel and from moving water."
 }

@@ -96,8 +96,8 @@
   ],
   "watch": [
     [
-      "Is the order backlog turning into deliveries and revenue?",
-      "Backlog is booked work, not billed work. If delivery slips, revenue moves into a later year.",
+      "Are signed orders turning into deliveries?",
+      "Work that ships late can bring in sales later than expected.",
       "Compare orders received, order backlog and revenue in each results release over several years."
     ],
     [
@@ -260,5 +260,7 @@
       "Flow meters",
       "Instruments that measure flow in pipes"
     ]
-  ]
+  ],
+  "photoCaption": "Factories buy motors like this to turn pumps, fans and other machines.",
+  "financialCue": "Find these motors under Motion, then compare its sales and result with Electrification."
 }

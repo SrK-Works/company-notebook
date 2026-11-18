@@ -87,8 +87,8 @@
   ],
   "watch": [
     [
-      "Are losses on unsecured and small-business loans under control?",
-      "Personal and small-business loans have nothing pledged, so losses come straight out of profit.",
+      "Are more borrowers missing payments on personal or small-business loans?",
+      "If the loan has no property pledged, there is less for the lender to recover.",
       "Compare loan losses and provisions as a share of average loans, and gross and net NPA, in several quarterly presentations."
     ],
     [
@@ -205,5 +205,7 @@
       "text": "The annual report lists geopolitical and economic risks that can raise funding costs, cut demand for loans and hurt borrowers’ repayments."
     }
   ],
-  "checked": "12 November 2026"
+  "checked": "12 November 2026",
+  "photoCaption": "At branches like this, customers can apply for a loan or open a fixed deposit.",
+  "financialCue": "Start with total income, then find what remains for owners after costs and tax."
 }

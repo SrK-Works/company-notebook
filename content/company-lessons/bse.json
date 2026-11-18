@@ -87,8 +87,8 @@
   ],
   "watch": [
     [
-      "How much of income comes from derivatives compared with shares?",
-      "A business that depends on one product moves with that product's rules and popularity.",
+      "How much does BSE earn from contracts tied to share prices, compared with trading in shares?",
+      "A change in trading rules can hit the fees from each type differently.",
       "In the verified financial table and the report's financial performance section, compare each type of transaction charge over several years."
     ],
     [
@@ -197,5 +197,7 @@
       "text": "The report credits index derivatives for much of its recent growth. If the rules or popularity of such contracts change, income could change quickly."
     }
   ],
-  "checked": "13 November 2026"
+  "checked": "13 November 2026",
+  "photoCaption": "When buyers and sellers trade shares and other contracts, BSE earns transaction fees.",
+  "financialCue": "The table combines the group’s trading, listing and other service income."
 }

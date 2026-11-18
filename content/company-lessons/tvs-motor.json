@@ -92,8 +92,8 @@
   ],
   "watch": [
     [
-      "How is TVS Motor’s sales mix changing across motorcycles, scooters, electric and three-wheelers?",
-      "The report names these as five separate groups. Mix matters because a premium bike carries more value than a moped.",
+      "Are buyers choosing more motorcycles, scooters or three-wheelers?",
+      "What buyers choose affects the amount TVS receives per vehicle.",
       "Compare units sold in each group year by year in the annual report, and note which groups grow fastest."
     ],
     [
@@ -252,5 +252,7 @@
       "Vehicle loans",
       "Loans to buy two- and three-wheelers"
     ]
-  ]
+  ],
+  "photoCaption": "Riders pay dealers for motorcycles like this Apache, as well as parts and servicing.",
+  "financialCue": "Read Financial services separately from vehicles and parts."
 }

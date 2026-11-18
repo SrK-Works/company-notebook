@@ -88,8 +88,8 @@
   ],
   "watch": [
     [
-      "How much of the growth comes from custom synthesis compared with standard APIs?",
-      "The report says custom synthesis is the key growth driver while standard APIs face pricing pressure, so the mix changes how the business behaves.",
+      "Is growth coming from ingredients made to order or standard ingredients?",
+      "Prices for standard ingredients are under pressure.",
       "Read the business portfolio section each year and compare what is said about generics, custom synthesis and nutraceuticals."
     ],
     [
@@ -228,5 +228,7 @@
       "Process development",
       "Laboratory work that proves a new process before factory scale"
     ]
-  ]
+  ],
+  "photoCaption": "Drug makers buy active ingredients like the powder illustrated here to make finished medicines.",
+  "financialCue": "Read profit after tax as earnings from the whole group’s accounts, including a one-time staff cost."
 }

@@ -92,8 +92,8 @@
   ],
   "watch": [
     [
-      "Is the net interest margin recovering?",
-      "The margin is the bank's main earning engine, so small changes affect profit a great deal.",
+      "Is the gap between interest earned and interest paid widening?",
+      "A small change in that gap can make a big difference to profit.",
       "Compare the margin and the cost of deposits across several years in the management discussion."
     ],
     [
@@ -202,5 +202,7 @@
       "text": "The report shows provisions for bad loans were higher in 2025-26 than the year before, which reduced profit."
     }
   ],
-  "checked": "14 November 2026"
+  "checked": "14 November 2026",
+  "photoCaption": "Customers keep money in accounts like this and can withdraw or pay from them.",
+  "financialCue": "Compare Retail Banking for households with Wholesale Banking for larger businesses."
 }

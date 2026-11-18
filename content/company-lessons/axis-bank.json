@@ -87,8 +87,8 @@
   ],
   "watch": [
     [
-      "Is the net interest margin holding up?",
-      "It shows how much the bank earns on each rupee lent after paying for its money.",
+      "Is the gap between interest earned and interest paid holding up?",
+      "This gap is the main source of earnings from lending.",
       "Track the margin and cost of funds in each quarterly press release, and read what the bank says caused each change, such as rate cuts or foreign-currency deposits."
     ],
     [
@@ -201,5 +201,7 @@
       "text": "Banks are closely supervised by the RBI. New rules on lending, digital services or provisions, or findings from inspections, can force extra provisions or slow growth."
     }
   ],
-  "checked": "12 November 2026"
+  "checked": "12 November 2026",
+  "photoCaption": "Businesses can borrow from Axis Bank to buy machines or pay for stock.",
+  "financialCue": "Compare Retail Banking and Corporate/Wholesale Banking across both columns."
 }
