@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-11",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "million",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 1401.72,
+      "previous": 1928.53
+    },
+    {
+      "label": "Profit after tax",
+      "current": -2.57,
+      "previous": -90.4
+    }
+  ],
+  "change": "The group sold less than in the same quarter a year earlier. It still made a loss after tax, though the loss was smaller.",
+  "watch": "Check whether orders turn into deliveries and how much cash is held in parts and unpaid customer bills.",
+  "sources": [
+    {
+      "label": "Official consolidated September quarter results",
+      "url": "https://dcxindia.com/wp-content/uploads/2026/11/Outcome_BM-2.pdf",
+      "location": "Consolidated statement, three months ended 30 September 2026 and 30 September 2025, rows 1 and 13."
+    }
+  ]
+}
