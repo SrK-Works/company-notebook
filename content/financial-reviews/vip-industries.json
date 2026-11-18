@@ -1,0 +1,24 @@
+{
+  "status": "single",
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited annual financial disclosure",
+  "checked": "18 November 2026",
+  "rows": [
+    {
+      "name": "V.I.P. Industries Limited",
+      "revenue": 1858.13,
+      "profit": -338.01
+    }
+  ],
+  "basis": "Consolidated",
+  "coverage": "Whole group · manufacturing and marketing of luggage and bags",
+  "profitMetric": "Loss after tax",
+  "definition": "Group result after operating costs, financing costs, exceptional gains and costs, and tax. The negative value is a loss.",
+  "revenueTotal": 1858.13,
+  "profitTotal": -338.01,
+  "source": "https://nsearchives.nseindia.com/corporate/VIPINDUSTRIES_15052026181508_SEuploadfinancialresult_signed.pdf",
+  "location": "Statement of audited financial results, consolidated year columns ended 31 March 2026 and 2025, rows 1 and 3–7 and notes 3, 4 and 6.",
+  "notes": "The group’s loss before exceptional items and tax was ₹416.20 crore. Net exceptional income of ₹78.18 crore included a sale of assets outside the core business and net insurance and fire items. There is one reported business segment, so the source gives no profit by brand or bag.",
+  "insight": "Group sales fell and losses widened from the previous year. Read the net gain from exceptional items separately from regular luggage sales and costs."
+}
