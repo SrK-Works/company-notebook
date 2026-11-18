@@ -1,0 +1,24 @@
+{
+  "status": "single",
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited annual financial disclosure",
+  "checked": "18 November 2026",
+  "rows": [
+    {
+      "name": "Thomas Scott (India) Limited",
+      "revenue": 254.89,
+      "profit": 19.3
+    }
+  ],
+  "basis": "Standalone",
+  "coverage": "Whole company · manufacturing and trading of textile products",
+  "profitMetric": "Profit after tax",
+  "definition": "Company profit after costs, the warehouse fire charge and tax.",
+  "revenueTotal": 254.89,
+  "profitTotal": 19.3,
+  "source": "https://nsearchives.nseindia.com/corporate/THOMASCOTT_30052026172850_Outcome_of_BM_30052026_Final_Intimation_signed.pdf",
+  "location": "Audited standalone statement for the financial year ended 31 March 2026, rows I, V–IX and the explanatory note on the Bhiwandi warehouse fire.",
+  "notes": "The audited statement reports one textile operating segment. The exceptional loss from the warehouse fire was ₹1.37 crore. Profit after tax was ₹19.30 crore. The investor presentation separately shows consumer and business sales without matching profit figures.",
+  "insight": "Both company sales and profit rose in the year. Compare them with the cash flow statement because buying more stock and waiting for sales payments can hold back cash."
+}
