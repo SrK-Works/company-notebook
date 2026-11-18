@@ -4,11 +4,11 @@
     "id": "cholamandalam-investment-and-finance",
     "name": "Cholamandalam Investment and Finance Company Limited",
     "ticker": "CHOLAFIN",
-    "sector": "Banking",
+    "sector": "Financial services",
     "initial": "C",
     "color": "#b32536",
     "bg": "#faedf0",
-    "tag": "Chola lends money for trucks, cars, homes and business needs. It also lends against property or gold jewellery and offers some personal loans.",
+    "tag": "Vehicle and business lending",
     "products": [
       [
         "Commercial vehicle loans",

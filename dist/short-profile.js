@@ -64,7 +64,7 @@ window.shortProfile=(()=>{
   const quarterly=window.companyQuarterly?.render(c,safe)||'';
   const deeper=[
    ['The main products and services',`<div class="sp-blocks">${l.groups.map(g=>`<div><h4>${safe(g.title)}</h4><p><strong>What the customer gets:</strong> ${safe(g.examples)}</p><p>${safe(g.explanation)}</p></div>`).join('')}</div>`],
-   ['Words worth knowing',`<div class="sp-blocks">${l.basics.map(block).join('')}</div>`],
+   ['How the business works',`<p>${safe(l.description)}</p><div class="sp-blocks">${l.basics.map(block).join('')}</div>`],
    ['What makes this business different',`<div class="sp-blocks">${l.specifics.map(block).join('')}</div>`],
    ['What else could go wrong',`<div class="sp-blocks">${l.risks.map(([n,d])=>`<div><h4>${safe(n)}</h4><p>${safe(d)}</p></div>`).join('')}</div>`],
    ['What to check next',`<div class="sp-blocks">${(watch?l.watch.slice(1):l.watch).map(([q,why,how])=>`<div><h4>${safe(q)}</h4><p>${safe(why)}</p><p class="sp-how"><strong>How to look:</strong> ${safe(how)}</p></div>`).join('')}</div><p class="source-note">Research prompts, not findings.</p>`],

@@ -4,7 +4,7 @@
     "id": "bse",
     "name": "BSE Limited",
     "ticker": "BSE",
-    "sector": "Banking",
+    "sector": "Financial services",
     "initial": "B",
     "logo": "assets/logos/bse-official.png",
     "color": "#1f3a6e",

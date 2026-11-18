@@ -4,11 +4,11 @@
     "id": "hdfc-asset-management",
     "name": "HDFC Asset Management Company Limited",
     "ticker": "HDFCAMC",
-    "sector": "Banking",
+    "sector": "Financial services",
     "initial": "H",
     "color": "#135382",
     "bg": "#eaf3fa",
-    "tag": "HDFC Asset Management runs HDFC Mutual Fund schemes and manages some investments for other clients. It earns fees for doing this work.",
+    "tag": "Mutual fund management",
     "products": [
       [
         "Equity funds",
