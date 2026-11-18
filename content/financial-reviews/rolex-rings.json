@@ -1,0 +1,24 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Standalone",
+  "coverage": "Whole company · one reported business segment",
+  "unit": "₹ crore",
+  "profitMetric": "Profit after tax",
+  "definition": "Net profit for the company after materials, staff, other costs, the unusual charges and tax. The company does not report separate profit for bearing rings and vehicle parts.",
+  "rows": [
+    {
+      "name": "Rolex Rings Limited · whole company",
+      "revenue": 1143.495,
+      "profit": 141.098
+    }
+  ],
+  "source": "https://www.rolexrings.com/wp-content/uploads/2026/09/ROLEX-RINGS-AR-2025-26-1.pdf",
+  "sourceLabel": "Audited standalone annual report",
+  "location": "PDF page 131, standalone profit and loss. PDF pages 166 and 173–174, notes 32 and 37.",
+  "checked": "18 November 2026",
+  "notes": "Unusual charges of ₹51.64 crore included an additional cost for settling an old claim from lenders and an increase in employee benefit obligations under new labour rules. The final ₹101 crore payment to lenders also settled amounts charged in earlier years.",
+  "insight": "Sales were slightly lower and reported profit fell compared with the previous year. Profit before unusual charges and tax was higher. The accounts also identify a small group of large buyers, so changes in their orders matter.",
+  "status": "single",
+  "revenueTotal": 1143.495,
+  "profitTotal": 141.098
+}

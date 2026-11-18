@@ -1,0 +1,36 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-04",
+  "checkedOn": "2026-11-18",
+  "basis": "Standalone",
+  "assurance": "Unaudited",
+  "coverage": "Whole company",
+  "sourceUnit": "million",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 3891.83,
+      "previous": 2713.83
+    },
+    {
+      "label": "Profit after tax",
+      "current": 739.38,
+      "previous": 443.38
+    }
+  ],
+  "change": "Sales and profit rose. The company said vehicle parts led the growth. Reported revenue also includes a one-off refund of US import duties.",
+  "watch": "Check whether orders and shipments keep growing without a refund, and whether cash comes in as customers pay for the extra orders.",
+  "sources": [
+    {
+      "label": "September 2026 results filed with NSE",
+      "url": "https://nsearchives.nseindia.com/corporate/ROLEXRINGS_05112026141849_Outcome_of_Board_Meeting.pdf",
+      "location": "Signed standalone statement, September 2026 and September 2025 quarter columns, rows 1 and 6 and Note 4."
+    },
+    {
+      "label": "September 2026 investor presentation",
+      "url": "https://www.rolexrings.com/wp-content/uploads/2026/11/Rolex_Rings_Q2-H1-FY27.pdf",
+      "location": "PDF pages 4–6, management commentary and revenue effect of the import-duty refund."
+    }
+  ]
+}
