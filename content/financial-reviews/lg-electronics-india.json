@@ -1,0 +1,29 @@
+{
+  "status": "segments",
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "unit": "₹ crore",
+  "sourceLabel": "Audited annual financial disclosure",
+  "checked": "18 November 2026",
+  "rows": [
+    {
+      "name": "Home Appliances and Air Solution",
+      "revenue": 18160.46,
+      "profit": 1774.39
+    },
+    {
+      "name": "Home Entertainment",
+      "revenue": 6444.45,
+      "profit": 827.31
+    }
+  ],
+  "basis": "Standalone",
+  "coverage": "Two reported business divisions",
+  "profitMetric": "Segment result before interest and tax",
+  "definition": "Reported division profit before finance costs, company-wide items that are not assigned to a division, and income tax.",
+  "revenueTotal": 24604.91,
+  "profitTotal": 2601.7,
+  "source": "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_INDAS_159882_21052026202108_iXBRL_WEB.html",
+  "location": "NSE digital annual filing, audited year to date ended 31 March 2026, Financial Results and Segment Revenue and Result tables.",
+  "notes": "The source reports no interdivision revenue adjustment. Total segment result was ₹2,601.70 crore. Subtract ₹40.58 crore finance costs and ₹261.60 crore net unallocated expense to reach ₹2,299.51 crore profit before tax, allowing for rounding. The company reported ₹1,685.09 crore profit after tax.",
+  "insight": "Home Appliances and Air Solution brought in more sales and segment profit. Home Entertainment kept a larger share of its division’s sales as segment result."
+}
