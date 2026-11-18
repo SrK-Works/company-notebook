@@ -1,0 +1,32 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "checked": "18 November 2026",
+  "status": "segments",
+  "coverage": "Stationery Products and Hygiene Products",
+  "revenueLabel": "Segment revenue",
+  "incomeDefinition": "Segment sales are shown before removing sales between parts of the group.",
+  "profitMetric": "Segment profit before interest and tax",
+  "definition": "Reported segment profit after the segment costs shown in the filing, before the group subtracts finance costs, adds its share of its associate’s profit, and pays tax.",
+  "rows": [
+    {
+      "name": "Stationery Products",
+      "revenue": 2123.6138,
+      "profit": 325.9853
+    },
+    {
+      "name": "Hygiene Products",
+      "revenue": 203.0959,
+      "profit": 7.0692
+    }
+  ],
+  "source": "https://domsindia.com/pdf/Investor_Relations/Intimation_to_Sebi/Outcome_of_Board_Meeting_held_on_May_18%2C%202026.pdf",
+  "sourceLabel": "Audited full-year financial results",
+  "location": "Q4 FY26 consolidated results and the following Consolidated Segment Information table, annual audited column and notes 5–6.",
+  "notes": "The group removes ₹0.3445 crore of internal sales to reach ₹2,326.3652 crore of revenue from operations. Audited group profit after tax was ₹239.5625 crore, of which ₹230.1822 crore belonged to DOMS shareholders. The year includes Super Treas from 1 June 2025 and a full year of Uniclan, so the group is larger than in the comparison year. DOMS reported that the extra employee-benefit expense from new labour rules was immaterial.",
+  "insight": "Stationery accounts for most of both the sales and the reported segment profit. The hygiene row covers a separate set of products.",
+  "revenueTotal": 2326.7097,
+  "profitTotal": 333.0545,
+  "revenueTotalLabel": "Gross segment revenue before internal sales are removed"
+}
