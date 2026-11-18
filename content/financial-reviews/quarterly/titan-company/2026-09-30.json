@@ -1,0 +1,19 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-05",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    { "label": "Sales of products and services", "current": 20337, "previous": 16461 },
+    { "label": "Profit after tax", "current": 2393, "previous": 1120 }
+  ],
+  "change": "Sales rose. An accounting gain also lifted reported profit after Titan lowered its estimate of what it could owe for more shares in a subsidiary.",
+  "watch": "Check how much profit comes from selling jewellery and watches before counting gains from changes in the value of obligations.",
+  "sources": [
+    { "label": "Titan results filed with NSE and BSE", "url": "https://www.titancompany.in/sites/default/files/2026-11/SEoutcomeQ227.pdf", "location": "Annexure A, consolidated financial results, September quarter columns. Row I sale of products/services excludes other operating revenues. Row XII is profit after tax; row III and note 9 describe the fair-value change in a put option liability." }
+  ]
+}

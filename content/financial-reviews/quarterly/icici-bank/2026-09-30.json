@@ -1,0 +1,20 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-17",
+  "checkedOn": "2026-11-18",
+  "basis": "Standalone",
+  "assurance": "Unaudited",
+  "coverage": "Bank excluding subsidiaries",
+  "sourceUnit": "crore",
+  "metrics": [
+    { "label": "Net interest income", "current": 25339, "previous": 21529 },
+    { "label": "Profit after tax", "current": 14843, "previous": 12359 }
+  ],
+  "change": "Profit rose. The bank earned more interest after paying depositors and other lenders, and set aside less for potential losses and other risks.",
+  "watch": "Check whether loan growth keeps adding enough interest income as the bank pays to attract deposits.",
+  "sources": [
+    { "label": "ICICI Bank quarterly results and performance review", "url": "https://www.icici.bank.in/about-us/news-room/2026/performance-review-quarter-ended-september-30-2026", "location": "Summary Profit and Loss Statement, standalone Q2-2027 and Q2-2026 columns (rounded crore). Net interest margin appears in Performance Highlights." },
+    { "label": "ICICI Bank results filing", "url": "https://www.icici.bank.in/content/dam/icicibank/india/managed-assets/docs/about-us/2027/financial-results-for-quarter-ended-sep-30-2026.pdf", "location": "Unaudited standalone financial results, September quarter columns." }
+  ]
+}

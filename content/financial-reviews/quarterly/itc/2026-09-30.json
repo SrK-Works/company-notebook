@@ -1,0 +1,20 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-02",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "crore",
+  "metrics": [
+    { "label": "Revenue from operations", "current": 30578.40, "previous": 21255.86 },
+    { "label": "Profit after tax", "current": 4229.33, "previous": 5186.55 }
+  ],
+  "change": "Reported revenue rose while profit fell. The revenue line includes a much higher cigarette tax this quarter, so the increase also reflects the tax change.",
+  "watch": "Check sales after that tax and how much profit ITC earns from cigarettes and its other businesses.",
+  "sources": [
+    { "label": "ITC consolidated results filing", "url": "https://itcportal.com/content/dam/itc-corporate/pdfs/financial-result/quarterly-results-2026-2027/september-2026/ITC-Financial-Result-Q2-FY2027-cfs.pdf", "location": "September quarter columns, rows 1 and 10. Note 7 explains why the increase in excise duty affects gross revenue comparability." },
+    { "label": "ITC results release", "url": "https://itcportal.com/media-centre/press-releases/media-statement-financial-results-for-the-quarter-ended-30th-september-2026.html", "location": "Board approval date and cigarette and non-cigarette business highlights." }
+  ]
+}
