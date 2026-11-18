@@ -1,0 +1,24 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "checked": "18 November 2026",
+  "status": "single",
+  "coverage": "One reported business segment",
+  "profitMetric": "Profit after tax",
+  "definition": "Profit of Concord and its consolidated businesses after tax, including its share of associated businesses and before subtracting amounts that belong to outside owners of a subsidiary.",
+  "rows": [
+    {
+      "name": "Concord Control Systems · whole group",
+      "revenue": 210.4745,
+      "profit": 43.106
+    }
+  ],
+  "source": "https://cdn.financialreports.eu/financialreports/media/filings/59741/2026/RNS/59741_rns_2026-09-15_935dbde3-459f-4b1a-8539-066dd953aa70.pdf",
+  "sourceLabel": "Audited full-year financial results",
+  "location": "PDF page 79, printed page 153, Consolidated Statement of Profit and Loss, rows I and XII–XVII. PDF page 82, accounting policy i, Segment Reporting.",
+  "notes": "The group reported ₹43.106 crore of profit after tax. ₹42.65 crore belonged to Concord’s shareholders after subtracting the portion belonging to outside owners of subsidiaries. The annual report groups railway equipment and services in one segment, so the table cannot show which product earned the most.",
+  "insight": "Compare annual profit with cash earned from running the business and unpaid customer bills. A railway contract may take time to progress from a delivery to payment.",
+  "revenueTotal": 210.4745,
+  "profitTotal": 43.106
+}
