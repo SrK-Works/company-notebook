@@ -1,0 +1,37 @@
+{
+  "status": "segments",
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "checked": "18 November 2026",
+  "revenueLabel": "Segment revenue",
+  "profitMetric": "Segment result",
+  "coverage": "Group reporting segments · revenue before removing internal sales",
+  "incomeDefinition": "Each row includes fees earned from that business, including any fees charged within the group. The group removes those internal fees when reporting revenue from operations.",
+  "definition": "The result for each business before group income that CDSL does not assign to a segment and before tax.",
+  "rows": [
+    {
+      "name": "Depository Activity",
+      "revenue": 960.4523,
+      "profit": 467.2835
+    },
+    {
+      "name": "Data Entry and Storage",
+      "revenue": 182.8099,
+      "profit": 60.2243
+    },
+    {
+      "name": "Repository",
+      "revenue": 3.4036,
+      "profit": -7.9954
+    }
+  ],
+  "revenueTotal": 1146.6658,
+  "revenueTotalLabel": "Gross segment revenue before removing internal fees",
+  "profitTotal": 519.5124,
+  "source": "https://www.cdslindia.com/downloads/IPO/GeneralMeeting/CDSL%20IR%202025-26.pdf",
+  "sourceLabel": "CDSL audited annual report",
+  "location": "PDF page 287, consolidated profit and loss statement. PDF page 339, note 35, segment reporting. PDF page 154, group performance discussion.",
+  "notes": "After removing ₹1.75 crore of internal fees, revenue from operations was ₹1,144.92 crore. Adding ₹89.47 crore of income not assigned to a segment brought profit before tax to ₹608.99 crore. Group profit after tax was ₹455.08 crore, of which ₹456.13 crore was attributable to CDSL shareholders. The outside shareholders’ share was a loss of ₹1.06 crore.",
+  "insight": "The depository provided most operating revenue and the largest segment result. Group profit fell year on year. CDSL reported higher technology and staff costs and lower investment income."
+}

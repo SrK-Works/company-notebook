@@ -1,0 +1,31 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-31",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "coverage": "Whole group",
+  "assurance": "Audited",
+  "sourceUnit": "crore",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 394.48,
+      "previous": 318.88
+    },
+    {
+      "label": "Profit after tax",
+      "current": 173.3,
+      "previous": 139.93
+    }
+  ],
+  "change": "Revenue and group profit rose. The depository contributed most of the increase in operating revenue, while spending on technology also rose.",
+  "watch": "Track company fees and charges for transactions separately. Look at how much of any rise in revenue is absorbed by technology and staffing.",
+  "sources": [
+    {
+      "label": "Signed audited September-quarter results filed with NSE",
+      "url": "https://www.cdslindia.com/downloads/InvestorRels/CorporateGovernance/OutcomeBM31102026_Signed.pdf",
+      "location": "PDF pages 10–11, September quarter columns, rows 1(a) and 7 and segment note 2. Profit is before splitting the group total by ownership."
+    }
+  ]
+}
