@@ -1,0 +1,25 @@
+{
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "coverage": "Audited company-wide totals",
+  "unit": "₹ crore",
+  "checked": "18 November 2026",
+  "status": "totals",
+  "profitMetric": "Profit after tax",
+  "definition": "Profit for the year after expenses and tax. It includes non-operating amounts shown in the accounts.",
+  "rows": [
+    {
+      "name": "Cupid · whole group",
+      "revenue": 357.7088,
+      "profit": 108.2335
+    }
+  ],
+  "source": "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_INDAS_158054_15052026184802_iXBRL_WEB.html",
+  "sourceLabel": "Audited annual NSE financial filing",
+  "location": "NSE audited consolidated Ind-AS filing, current year-to-date column, income rows and line 16. September filing, audited year-ended 31 March 2026 comparable column for the other income split.",
+  "notes": "Total other income was ₹33.6926 crore. The audited annual column in the later filing identifies ₹16.2873 crore as an increase in the paper value of investments. Cupid reports Personal Care as one segment.",
+  "insight": "Read profit alongside sales because the change in what investments were worth is counted in profit without adding to operating revenue.",
+  "revenueTotal": 357.7088,
+  "revenueTotalLabel": "Revenue from operations",
+  "profitTotal": 108.2335
+}
