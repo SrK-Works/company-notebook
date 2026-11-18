@@ -1,0 +1,123 @@
+{
+  "order": 106,
+  "company": {
+    "id": "deepak-nitrite",
+    "name": "Deepak Nitrite Limited",
+    "ticker": "DEEPAKNTR",
+    "sector": "Industrials & infrastructure",
+    "initial": "DN",
+    "color": "#14598a",
+    "bg": "#e7f1f9",
+    "tag": "The business behind the offering",
+    "logo": "assets/logos/deepak-nitrite-official.webp",
+    "products": [
+      [
+        "Phenol and acetone production",
+        "Deepak makes two chemicals at the same site in Gujarat."
+      ],
+      [
+        "Phenol",
+        "Glue makers can use phenol to make the glue that binds plywood layers."
+      ],
+      [
+        "Acetone",
+        "A solvent that manufacturers use to dissolve ingredients for coatings and medicines."
+      ],
+      [
+        "Isopropyl alcohol",
+        "A solvent used in products such as cleaners and disinfectants."
+      ],
+      [
+        "Dye and pigment ingredients",
+        "Dye and pigment makers buy ingredients such as xylidines to make colourants."
+      ],
+      [
+        "Sodium nitrite",
+        "Chemical sold to dye makers and factories that treat metals."
+      ],
+      [
+        "Polycarbonate compounds",
+        "Tough plastic granules that customers can melt and mould into parts."
+      ]
+    ],
+    "productSource": "https://www.godeepak.com/business-phenolics-overview/",
+    "productNote": "The plant and plastic images come from Deepak. The other labelled views show what the company’s chemical customers can make.",
+    "checked": "18 November 2026",
+    "reviewed": "18 November 2026",
+    "aliases": [
+      "Deepak Phenolics",
+      "DEEPAKNTR",
+      "Deepak Nitrite",
+      "phenol",
+      "acetone",
+      "chemical intermediates",
+      "polycarbonate"
+    ],
+    "sources": [
+      [
+        "Company identity and ticker",
+        "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_INDAS_206751_29102026200541_iXBRL_WEB.html"
+      ]
+    ]
+  },
+  "offerings": [
+    {
+      "name": "Phenol and acetone production",
+      "category": "Deepak makes two chemicals at the same site in Gujarat.",
+      "image": "assets/products/deepak-nitrite-dahej.webp",
+      "url": "https://www.godeepak.com/business-phenolics-overview/",
+      "kind": "photo",
+      "alt": "Towers and pipework at Deepak Phenolics’ Dahej chemical plant in Gujarat"
+    },
+    {
+      "name": "Phenol",
+      "category": "Glue makers can use phenol to make the glue that binds plywood layers.",
+      "image": "assets/products/deepak-nitrite-phenol.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:Plywood.jpg",
+      "kind": "generic",
+      "alt": "Plywood with visible wood layers, an example of a downstream product. Deepak sells a chemical ingredient.",
+      "credit": "Rotor DB · CC BY-SA 3.0 · Wikimedia Commons · resized"
+    },
+    {
+      "name": "Acetone",
+      "category": "A solvent that manufacturers use to dissolve ingredients for coatings and medicines.",
+      "image": "assets/products/deepak-nitrite-acetone.webp",
+      "url": "https://www.godeepak.com/pro-acetone/",
+      "kind": "illustration",
+      "alt": "A brush applying a wood coating, shown as an example of a downstream use in the Deepak Phenolics brochure"
+    },
+    {
+      "name": "Isopropyl alcohol",
+      "category": "A solvent used in products such as cleaners and disinfectants.",
+      "image": "assets/products/deepak-nitrite-isopropyl-alcohol.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:Rubbing_alcohol.JPG",
+      "kind": "generic",
+      "alt": "A bottle of rubbing alcohol, a representative downstream use. Deepak sells bulk isopropyl alcohol.",
+      "credit": "Craig Spurrier · CC BY 2.5 · Wikimedia Commons · resized"
+    },
+    {
+      "name": "Dye and pigment ingredients",
+      "category": "Dye and pigment makers buy ingredients such as xylidines to make colourants.",
+      "image": "assets/products/deepak-nitrite-dye-ingredients.webp",
+      "url": "https://www.godeepak.com/cat-dyes-and-pigments/",
+      "kind": "illustration",
+      "alt": "Coloured paint in open cans, an example of a downstream use of pigments"
+    },
+    {
+      "name": "Sodium nitrite",
+      "category": "Chemical sold to dye makers and factories that treat metals.",
+      "image": "assets/products/deepak-nitrite-sodium-nitrite.webp",
+      "url": "https://www.godeepak.com/pro-sodium-nitrite/",
+      "kind": "photo",
+      "alt": "Equipment and pipework at Deepak Nitrite’s Nandesari chemical facility"
+    },
+    {
+      "name": "Polycarbonate compounds",
+      "category": "Tough plastic granules that customers can melt and mould into parts.",
+      "image": "assets/products/deepak-nitrite-polycarbonate.webp",
+      "url": "https://www.godeepak.com/deepak-advanced-materials-overview/",
+      "kind": "pack",
+      "alt": "Official Deepak Advanced Materials image of coloured plastic granules"
+    }
+  ]
+}

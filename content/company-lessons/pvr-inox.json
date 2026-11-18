@@ -1,0 +1,215 @@
+{
+  "summary": "PVR INOX runs cinemas in India and Sri Lanka. It earns from movie tickets, popcorn and other snacks, and ads shown to audiences. It also gets films into cinemas through its distribution business.",
+  "description": "Picture a cinema inside a mall. PVR INOX decides which films to show, assigns each one a screen and showtime, sells seats and runs the projectors, sound and snack counters. A multiplex is a cinema with several screens, so the same site can show different movies at once. The company also arranges releases through PVR INOX Pictures, which brings films to other cinemas as well as its own.",
+  "money": "PVR INOX sells tickets and food, and charges advertisers to reach cinema visitors. It pays film distributors for the right to show films, often sharing ticket proceeds under terms that vary by film. It also pays for space, staff, electricity, supplies and equipment. Ticket and snack money can come in on the day, while profit depends on what remains after all the costs.",
+  "customers": "Moviegoers pay to reserve a seat for a particular show and separately buy snacks or drinks. Businesses buy advertising on cinema screens and around the venue. When PVR INOX Pictures distributes a film, the terms with the cinema and the film owner determine its share.",
+  "drivers": "The film schedule draws people in. Seat sales, ticket prices and snack spending determine how much a visit brings in. Rent, film terms and how well busy shows cover quieter ones determine how much the cinema keeps.",
+  "quick": [
+    {
+      "title": "What it does",
+      "text": "PVR INOX runs cinemas. It books films, schedules screenings, sells seats and runs snack counters."
+    },
+    {
+      "title": "Who pays",
+      "text": "Moviegoers pay for seats, food and drinks. Brands pay to show ads to people at the cinema."
+    },
+    {
+      "title": "How it earns",
+      "text": "A visit can bring in both ticket and snack sales. The company also earns from advertising and from arranging releases of selected films."
+    },
+    {
+      "title": "What it spends on",
+      "text": "The cinema shares ticket proceeds with film distributors and pays for the space, staff, power, equipment and food supplies."
+    }
+  ],
+  "groups": [
+    {
+      "title": "Movie screenings",
+      "examples": "Standard PVR and INOX auditoriums, and larger screens such as IMAX and P[XL].",
+      "explanation": "A customer buys a seat at a fixed showtime. Some premium rooms have a larger screen and sound built around the room."
+    },
+    {
+      "title": "Special cinema rooms",
+      "examples": "4DX, Director’s Cut and Playhouse at selected cinemas.",
+      "explanation": "Some rooms add motion effects, larger seats or spaces designed for families. The setup and price can differ by location."
+    },
+    {
+      "title": "Food and drinks",
+      "examples": "Popcorn, drinks and other food sold at cinema counters.",
+      "explanation": "The counter turns a ticket visit into a separate sale. The company still buys ingredients, stocks supplies and pays staff to prepare and serve them."
+    },
+    {
+      "title": "Cinema advertising",
+      "examples": "Ads before a film and branding around the cinema.",
+      "explanation": "An advertiser buys time on a screen or space around the venue to reach moviegoers."
+    },
+    {
+      "title": "Film distribution",
+      "examples": "PVR INOX Pictures arranges cinema releases for selected films.",
+      "explanation": "A distributor obtains release rights and arranges screenings with cinemas. This is a different job from operating the room where the film plays."
+    }
+  ],
+  "basics": [
+    {
+      "title": "What is seat occupancy?",
+      "text": "It is the share of available seats sold across shows. A full Friday night can sit alongside many empty weekday seats, so look across the whole period."
+    },
+    {
+      "title": "What does the cinema keep from a ticket?",
+      "text": "The cinema normally pays the film distributor an agreed share or fee. Rent, electricity and staff still have to be paid from the money the cinema earns."
+    },
+    {
+      "title": "What is snack spending per visitor?",
+      "text": "The company divides total food and drink sales by admissions, including people who bought no snacks. A higher average can come from higher prices or more people buying food."
+    }
+  ],
+  "stepsTitle": "From a film booking to money in the till",
+  "steps": [
+    {
+      "title": "Book a film and set the showtimes",
+      "text": "The cinema agrees terms with the distributor and allocates a screen and seats to each show."
+    },
+    {
+      "title": "Sell seats and snacks",
+      "text": "The customer buys a ticket at the counter or online and may buy food. Advertisers pay for booked space or time."
+    },
+    {
+      "title": "Run the show and settle with partners",
+      "text": "Staff prepare the room and serve visitors. The cinema settles with the distributor under the film deal and pays the landlord under the site contract."
+    },
+    {
+      "title": "Compare what was earned with what came in",
+      "text": "A prepaid ticket can bring cash before the screening, while an advertiser may pay later. The company records revenue for the service delivered, and profit reflects costs as well as sales."
+    }
+  ],
+  "specifics": [
+    {
+      "title": "Price and busy seats affect the numbers separately",
+      "text": "A higher average ticket price can lift sales with little change in admissions. Check both measures before concluding that more people went to the cinema."
+    },
+    {
+      "title": "Premium rooms need enough premium visits",
+      "text": "A larger screen, better seating or moving seats can bring in higher ticket prices. It also costs money to fit and maintain those features, so the room needs enough bookings."
+    },
+    {
+      "title": "Who pays to build a new cinema can change",
+      "text": "The company reports projects where a landlord or other partner pays more of the setup costs and PVR INOX operates the site. Read the contract model to understand who funds the work and shares the money."
+    },
+    {
+      "title": "The packaged popcorn sale is separate from snacks at the cinema",
+      "text": "PVR INOX sold Zea Maize, the company behind the 4700BC packaged snack brand, in January 2026. It still sells popcorn and other food at its cinemas."
+    }
+  ],
+  "watch": [
+    [
+      "Are more people coming in, or are they paying more per visit?",
+      "Either can lift ticket sales, but they tell you different things about demand.",
+      "Compare the number of admissions and average ticket price with the same quarter a year earlier. Then look at the film schedule."
+    ],
+    [
+      "Are customers buying more at the snack counter?",
+      "Food and drinks add to what the cinema earns from a visit.",
+      "Compare snack spending per visitor with ticket admissions. Read what management says about changes in food prices, menus and offers."
+    ],
+    [
+      "Do ordinary weeks fill enough seats?",
+      "Rent and staff costs continue when fewer people come in.",
+      "Look at average seat occupancy over several quarters and whether busy weeks cluster around a few films or spread across many releases."
+    ],
+    [
+      "Who pays to fit out the new screens?",
+      "A project can require less upfront cash if a partner takes on more of the setup cost.",
+      "Compare screen openings and closures. Check the company’s results presentation for partner-funded setups and any related rent or management fees."
+    ],
+    [
+      "How much profit comes from the cinemas that are still running?",
+      "A sale or a one-off charge can change reported profit in a year.",
+      "Read profit from continuing operations in the audited statement and check the note on the sale of Zea Maize before comparing years."
+    ]
+  ],
+  "risks": [
+    [
+      "Fewer attractive releases",
+      "A gap in the film schedule or films that draw small audiences can cut visits, food sales and the audience advertisers want to reach."
+    ],
+    [
+      "Costly locations",
+      "An underused cinema may still owe rent and need staff, power and upkeep. Leaving a long lease can also be costly."
+    ],
+    [
+      "Ticket or snack affordability",
+      "Higher prices can raise what some visitors spend per trip and make others visit less often or skip the counter."
+    ],
+    [
+      "Competition for time",
+      "Other cinemas, home viewing and other entertainment compete for the same evening or weekend."
+    ]
+  ],
+  "helps": [
+    {
+      "title": "Several ways to earn from one visit",
+      "text": "Selling a seat also brings someone past a food counter and puts them in front of ads a brand has paid to show."
+    },
+    {
+      "title": "Several rooms at one cinema",
+      "text": "A multiplex can offer different films or languages at overlapping times and move a busy title to a larger room when scheduling allows."
+    },
+    {
+      "title": "A partner can share the setup cost",
+      "text": "Some arrangements let PVR INOX open a cinema with another party paying more of the upfront cost of the venue or equipment."
+    }
+  ],
+  "hurts": [
+    {
+      "title": "Empty seats expire with the show",
+      "text": "Once the film starts, the cinema cannot sell yesterday’s unused seats, even though the room and equipment still cost money."
+    },
+    {
+      "title": "A distributor takes part of ticket proceeds",
+      "text": "How much ticket money the cinema keeps depends on the deal with each distributor. A busy show still has a film cost."
+    },
+    {
+      "title": "Advertisers pay for an audience",
+      "text": "When attendance stays weak, advertising space can become harder to sell or renew."
+    }
+  ],
+  "context": [
+    "A cinema designed for a smaller city",
+    "On the October 2026 results call, management discussed a pilot in Muzaffarpur, Bihar, with a shorter snack menu and a setup designed to cost less to build and run. Watch for results from more than one pilot site before judging whether the format can be repeated."
+  ],
+  "sources": [
+    [
+      "FY 2025–26 annual report filed with BSE",
+      "https://www.bseindia.com/xml-data/corpfiling/AttachHis/929df61f-e3eb-4697-9bc2-96520da3edec.pdf"
+    ],
+    [
+      "Company release on the March 2026 quarter and year",
+      "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_11052026140752_PVRINOXPressRelease11052026.pdf"
+    ],
+    [
+      "September 2026 results and business discussion",
+      "https://nsearchives.nseindia.com/corporate/PVRINOXLTD_03112026181747_PVRINOXEarningsCallTranscript28102026.pdf"
+    ],
+    [
+      "PVR INOX annual report and cinema formats",
+      "https://originserver-static1-uat.pvrcinemas.com/pvrcms/annual-report-doc/AR-2023-24_68589_ZgN1e4cB.pdf"
+    ],
+    [
+      "National Stock Exchange listing and September 2026 filing",
+      "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_INDAS_205849_28102026195136_iXBRL_WEB.html"
+    ]
+  ],
+  "financialNotes": [
+    {
+      "title": "Read the cinema result as a bundle",
+      "text": "Movie tickets brought in ₹3,530.1 crore, cinema food and drinks ₹2,088.4 crore and advertising ₹463.6 crore. These are sales, within the continuing Movie exhibition business for the year to March 2026. The filing does not show what popcorn or one cinema format earned after costs."
+    },
+    {
+      "title": "The packaged snack sale affected group profit",
+      "text": "The March 2026 statements report ongoing cinema and film business separately from the packaged snack unit the company sold. The gain on that sale appears in the discontinued business results. Cinema rent also affects the accounts through depreciation and interest, so check actual lease payments in the cash flow notes."
+    }
+  ],
+  "checked": "18 November 2026",
+  "photoCaption": "At a multiplex, each auditorium has its own screen and showtimes. The cinema can schedule different films in rooms of different sizes.",
+  "financialCue": "Start with the movie exhibition and film distribution rows. Then check the note on the packaged snack business sale."
+}

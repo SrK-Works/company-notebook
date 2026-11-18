@@ -1,0 +1,73 @@
+{
+  "summary": "Rolex Rings makes steel rings and other parts that go inside car wheels, gearboxes and industrial machinery. It sells these parts to bearing and vehicle manufacturers.",
+  "description": "Think of a car wheel spinning around a fixed axle. A bearing lets the wheel turn smoothly by letting small balls or rollers move between two metal rings. Rolex Rings makes the steel rings that bearing makers use in assemblies like these. It also makes parts that hold wheels and transfer power through a vehicle.",
+  "money": "Customers pay for batches of parts made to their drawings. Rolex Rings spends on steel, heating and cutting equipment, tools, workers, inspection and shipping. It records sales when it has delivered the parts under the agreed terms. Profit is what remains after costs and tax. The customer may pay later.",
+  "customers": "Bearing makers buy steel rings to assemble into bearings. Vehicle and parts makers buy items such as wheel hubs and gear pieces to fit in a larger assembly.",
+  "drivers": "What matters is how many batches customers order, what it costs to turn steel into accepted parts, and how quickly buyers pay after delivery.",
+  "quick": [
+    {"title":"What does it do?","text":"It makes the steel rings inside bearings and metal parts for car wheels, gearboxes and other machinery."},
+    {"title":"Who pays?","text":"Bearing makers, vehicle manufacturers and their suppliers buy the parts to use in larger assemblies."},
+    {"title":"How does it earn?","text":"It sells batches of parts built to an agreed shape and size. It can bill for the shipment before collecting the money."},
+    {"title":"What does it spend on?","text":"Steel, equipment for heating and shaping it, workers, inspection and freight."}
+  ],
+  "groups": [
+    {"title":"Bearing rings","examples":"Inner and outer rings for ball and roller bearings.","explanation":"The rings give the balls or rollers a track so a shaft or wheel can turn smoothly."},
+    {"title":"Gearbox parts","examples":"Ring gears, gear blanks and small drive gears.","explanation":"Gear teeth pass motion between turning parts. A gear blank is the partly shaped piece of steel that can be cut into a gear."},
+    {"title":"Wheel and axle parts","examples":"Wheel hubs, hub bearing units and shafts.","explanation":"The hub is where a wheel attaches. Shafts carry turning force to another part, such as a wheel."},
+    {"title":"Industrial and railway parts","examples":"Bearing rings for rail and industrial equipment.","explanation":"These parts sit inside bearings that support moving equipment. The buyer specifies the size and load the part must handle."}
+  ],
+  "basics": [
+    {"title":"What is forging?","text":"A press squeezes hot steel into shape. For a ring, rollers can spread and shape the metal until the opening and outer diameter are close to the required size."},
+    {"title":"Why cut the steel after shaping it?","text":"Cutting and finishing to an exact size is called machining. The next factory needs the ring or gear piece to fit the parts it assembles around it."}
+  ],
+  "stepsTitle": "From a length of steel to an accepted part",
+  "steps": [
+    {"title":"Agree the drawing and order","text":"The customer sets the size, shape and strength it needs. Rolex Rings plans the steel and tools for the batch."},
+    {"title":"Shape the steel","text":"Workers cut steel into pieces. Machines heat and press the pieces into rings, hubs or other shapes."},
+    {"title":"Finish and check","text":"Some parts are heated and cooled to change their hardness. Machines cut to the required size and the team checks that the batch meets the customer's drawing."},
+    {"title":"Ship, bill and collect","text":"Once the delivery terms are met, Rolex Rings records a sale. Cash arrives when the bill is paid, after it has already spent money on steel and factory work."}
+  ],
+  "specifics": [
+    {"title":"Some customers buy a lot","text":"The annual report identifies a small number of buyers that each contribute a sizeable share of sales. An order change from one of them can affect a whole factory line."},
+    {"title":"How much work leaves the factory?","text":"A rough ring and a finished part require different amounts of cutting and inspection. Check the mix of products before assuming higher sales mean more pieces shipped."},
+    {"title":"Export sales bring extra costs","text":"Parts shipped abroad can spend longer in transit. Freight, exchange rates and taxes on imports can change what the company keeps from an order."}
+  ],
+  "watch": [
+    ["Are vehicle and bearing makers ordering more parts?","Their production plans drive the number of parts they buy.","Compare the sales commentary for bearing rings and vehicle parts. Look for changes in orders or shipments as well as selling prices."],
+    ["Are the finished parts selling at a good price?","A part that takes more cutting or testing costs more to make.","Read what the company says about the mix of rough and finished parts, then compare what it earns after production costs."],
+    ["How much does the company rely on its biggest buyers?","Losing one large order could leave steel and machines unused.","Read the major customers note in successive annual reports. Check if dependence on a few buyers is rising or falling."],
+    ["Do export sales turn into cash promptly?","Shipments and unpaid bills can tie up cash even as profit rises.","Compare stock still on hand and customer bills still unpaid with sales. Check the cash flow statement for cash from running the factories."],
+    ["How does the factory handle dearer steel or power?","An agreed price may leave less room when production costs rise.","Compare the cost of materials with what customers paid over several periods. Read management's comments on any changes in pricing." ]
+  ],
+  "risks": [
+    ["Customers build fewer vehicles or machines","Fewer new assemblies means fewer orders for rings, hubs and gears."],
+    ["A batch fails inspection","Parts are made to precise sizes. A rejected batch might need extra work or have to be replaced."],
+    ["Freight or import costs rise","Export customers and suppliers may change how they share added costs, making some orders less attractive."],
+    ["Exchange rates move","Some foreign customers pay in another currency. A change in exchange rates can affect how much those payments are worth in rupees."]
+  ],
+  "helps": [
+    {"title":"Several places to use the same skills","text":"Factories use similar steel-shaping skills to make parts for vehicles, rail equipment and industrial machinery."},
+    {"title":"Shaping and finishing can happen under one roof","text":"A buyer can order a part already cut to size as well as a rough part to finish itself."},
+    {"title":"Buyers in India and abroad","text":"Orders can come through different markets, with demand moving at different times."}
+  ],
+  "hurts": [
+    {"title":"Factories cost money even when orders slow","text":"The business still has to maintain machines and pay for running the plant when fewer parts are shipped."},
+    {"title":"More work can absorb cash","text":"Making extra batches may require buying steel and holding stock before customers pay."},
+    {"title":"Higher steel and energy bills","text":"Presses and furnaces require energy, and higher steel prices can reduce the money left from each order."}
+  ],
+  "context": ["September 2026: stronger orders for vehicle parts","The company said vehicle components led the quarter’s growth. The September filing also included a refund of import duties in sales. The figures below show the same quarter a year earlier alongside it."],
+  "sources": [
+    ["Audited annual report 2025–26","https://www.rolexrings.com/wp-content/uploads/2026/09/ROLEX-RINGS-AR-2025-26-1.pdf"],
+    ["Company product range","https://www.rolexrings.com/products/"],
+    ["Company forging lines","https://www.rolexrings.com/facilities/forging/"],
+    ["September 2026 investor presentation","https://www.rolexrings.com/wp-content/uploads/2026/11/Rolex_Rings_Q2-H1-FY27.pdf"],
+    ["September 2026 results filed with NSE","https://nsearchives.nseindia.com/corporate/ROLEXRINGS_05112026141849_Outcome_of_Board_Meeting.pdf"]
+  ],
+  "financialNotes": [
+    {"title":"Read the company total","text":"Rolex Rings reports its parts business as one segment. The accounts give some sales details, but the profit in the table covers the whole company."},
+    {"title":"Look for unusual amounts in profit","text":"The annual profit includes an extra charge for a final settlement with lenders over earlier debt terms and a charge tied to new labour rules. The bank payment also included amounts recognised in earlier years."}
+  ],
+  "financialCue": "Compare company profit with cash from running the business and the amounts customers still owe.",
+  "photoCaption": "These steel parts fit inside bearings, wheels and drive systems.",
+  "checked": "18 November 2026"
+}

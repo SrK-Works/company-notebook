@@ -1,0 +1,75 @@
+{
+  "summary": "Meesho runs an app where independent sellers list clothes, kitchen items and other goods. It connects shoppers and sellers, arranges parcel delivery and sells advertising to sellers who want more people to see their products.",
+  "description": "Picture a small shop listing a kurti on Meesho. The shop holds and packs the item. Meesho helps a shopper find it, take the order, pay and track the parcel. Valmo, Meesho’s own delivery network, coordinates local firms that collect, sort and deliver parcels. Meesho also uses outside couriers that can handle the whole trip.",
+  "money": "Meesho’s main income comes from arranging delivery and selling ads. It charges no sales commission, meaning it takes no set cut of the product price for bringing the buyer and seller together. Delivery and optional ads still cost sellers money. Meesho pays delivery partners, payment handlers and staff and spends on promotion and software. The product price belongs to the seller, and Meesho’s service revenue must still cover its costs.",
+  "customers": "Shoppers buy goods from independent sellers. Sellers can pay for shipping and for placing ads in front of potential buyers. A shopper may pay online or pay the delivery partner at the door, and the purchase proceeds are settled to the seller after applicable charges.",
+  "drivers": "How many buyers keep shopping, what sellers earn from paying for ads, and what Meesho spends on parcels that are delivered or sent back.",
+  "quick": [
+    {"title": "What does it do?", "text": "It runs a shopping app for independent sellers and arranges delivery. Sellers hold, pack and sell their own goods."},
+    {"title": "Who pays?", "text": "Shoppers buy from the seller. Sellers pay for delivery services and can buy ads to get more people to see their listings."},
+    {"title": "How does it earn?", "text": "It earns mainly from delivery and ads. Zero commission means Meesho takes no set cut of the product price."},
+    {"title": "What does it spend on?", "text": "Paying parcel partners, processing payments, running the app, promoting the service and employing staff."}
+  ],
+  "groups": [
+    {"title": "Shopping from independent sellers", "examples": "Kurtis, cookware, footwear and other everyday items.", "explanation": "Shoppers can compare listings from many sellers in one app. The seller provides the goods and Meesho makes it possible to order and track them."},
+    {"title": "Meesho Mall", "examples": "Brand and authorised distributor listings for items such as shampoo, detergent and skincare.", "explanation": "A section of the same app brings together brands and their authorised sellers so shoppers can look for familiar brands directly."},
+    {"title": "Parcel pickup and delivery", "examples": "Seller pickup, sorting, delivery to a home and moving returns.", "explanation": "Meesho can assign different parts of the trip through Valmo, its parcel network, or send an order to a courier that handles the whole trip."},
+    {"title": "Paid ads for sellers", "examples": "A seller pays to show a product more prominently to people browsing.", "explanation": "The seller pays to reach likely buyers. More views help only if enough shoppers turn those views into orders."},
+    {"title": "Shopping through creators", "examples": "Short videos and live demonstrations with links to seller listings.", "explanation": "Shoppers can see how a product looks or works before buying. Meesho says creators earn when their content leads to a qualifying purchase."}
+  ],
+  "basics": [
+    {"title": "What is an online marketplace?", "text": "It is a website or app where different sellers put up goods for sale. A seller owns the stock. The app helps buyers find products, place orders and pay."},
+    {"title": "Why can a return cost money?", "text": "A delivered item can be sent back after a shopper takes it. A parcel can also go back before delivery when the rider cannot hand it over. Either case can require another trip, with costs and charges depending on the order."},
+    {"title": "How can delivery routes get cheaper?", "text": "When a rider has more deliveries in the same neighbourhood, each stop can use less travel and time. An area with few orders is harder to serve at the same cost."}
+  ],
+  "stepsTitle": "From a seller’s listing to a doorstep",
+  "steps": [
+    {"title": "A seller puts up an item", "text": "The seller posts pictures, picks a price and keeps the item ready to ship. The seller can buy an ad to show it to more people."},
+    {"title": "A shopper orders", "text": "The buyer chooses the listing and can pay in the app or at the door where cash on delivery is available."},
+    {"title": "Partners move the parcel", "text": "The seller packs the item. Valmo can book one partner to pick up the box and others to move and deliver it. A separate courier can also carry it the whole way."},
+    {"title": "Meesho settles the order", "text": "The seller receives the proceeds after applicable charges. Meesho records revenue for its own services. Returned or failed orders can require another trip, and profit is what remains only after costs."}
+  ],
+  "specifics": [
+    {"title": "Growth comes from repeat shoppers too", "text": "A buyer ordering again can add work without Meesho having to find another new shopper. Check how often people buy alongside the number of buyers."},
+    {"title": "Low selling costs can draw in smaller shops", "text": "A seller can list without paying Meesho a cut of sales. It still needs to make enough after delivery, any ads it chooses and returns."},
+    {"title": "Advertisers need measurable orders", "text": "A paid listing is useful when shoppers buy the product it promotes. If ads show the wrong items, sellers may stop buying them and shoppers may find the app harder to use."}
+  ],
+  "watch": [
+    ["How many orders make it all the way to the buyer?", "An order can add work and cost even when nobody receives the parcel.", "Compare placed orders with the value of completed orders. Read management’s notes on cancellations, failed delivery and returns for what changed."],
+    ["Is Meesho spending less per parcel?", "Savings on each parcel can matter even when the customer’s order is small.", "Check the company’s delivery cost commentary against order growth, and see whether it explains any changes in the cost of failed trips."],
+    ["Are buyers coming back to shop again?", "Orders from returning shoppers can make promotion spending more worthwhile.", "Read the shareholder letter’s yearly buyer count and average order frequency together. Check whether both improve when there is no major sale."],
+    ["Are newer services costing more than they bring in?", "New services can use cash before they have enough paying customers.", "Find the New Initiatives row in the financial statement. Compare its revenue and operating result with the marketplace over multiple periods."],
+    ["Do accounting results turn into cash?", "Recording a fee and collecting it can happen on different days.", "Compare the operating cash flow statement with the reported loss, and check what the company says about the timing of paying sellers and parcel partners."]
+  ],
+  "risks": [
+    ["Delivery partners fall short", "If partners lack riders or space around a sale, parcels can arrive late or fail to arrive and shoppers may stop ordering."],
+    ["Shopping or payment systems go down", "App outages can stop shoppers placing orders or sellers handling them, particularly during a busy sale."],
+    ["Misleading listings or poor products hurt trust", "Meesho relies on sellers to describe and supply items accurately. Complaints can raise support costs and discourage repeat shopping."],
+    ["Creator services depend on outside sites", "Changes in access to third-party social media or fewer creators posting videos can leave sellers with fewer routes to shoppers."]
+  ],
+  "helps": [
+    {"title": "A stall can reach buyers far from its street", "text": "Sellers can list through the app and find orders beyond their town without opening stores in those places."},
+    {"title": "More stops can make routes cheaper", "text": "Putting more deliveries on the same local route can lower the travel and time needed per parcel."},
+    {"title": "Shoppers can search in ways familiar to them", "text": "Meesho offers voice search and local-language features so people who find typing a product name or address hard can still shop."}
+  ],
+  "hurts": [
+    {"title": "Sending items back adds work", "text": "Even if an order is refused or returned, somebody has to move the parcel back. Extra trips can eat into what Meesho earns on delivery."},
+    {"title": "Sales campaigns are costly", "text": "Competing for buyers can mean spending more on ads and promotions. Additional orders have to cover that spending."},
+    {"title": "Growth needs computer capacity", "text": "Processing orders and keeping the app running during a busy sale requires servers and software. Some of that capacity has to be paid for in advance."}
+  ],
+  "context": ["October 2026: Meesho’s festive sale landed in a different quarter", "In its October letter, Meesho said its main festive sale shifted from the September quarter last year into the following quarter this year. It suggested looking at both quarters together to understand festive shopping demand."],
+  "sources": [
+    ["Meesho prospectus and operating model", "https://investor.meesho.com/investor-web/_next/docs/ipo/meesho_limited_prospectus.pdf"],
+    ["January 2026 shareholder letter on how Meesho charges", "https://nsearchives.nseindia.com/corporate/MEESHO_30012026174750_MLShareholdersletter30Jan2026.pdf"],
+    ["October 2026 shareholder letter on marketplace, Mall, delivery and ads", "https://nsearchives.nseindia.com/corporate/MEESHO_28102026171517_MLshareholdersletter28102026.pdf"],
+    ["Audited results and segment accounts to March 2026", "https://static-assets.meesho.com/investor-relations/manual-uploads/IntimationShareholdersresult0605.pdf"],
+    ["Signed September 2026 quarter results", "https://nsearchives.nseindia.com/corporate/MEESHO_28102026170916_Final_MLBMOutcome28102026_-_First_half.pdf"],
+    ["Valmo parcel network", "https://www.valmo.in/"]
+  ],
+  "financialNotes": [
+    {"title": "The value of goods is different from what Meesho earns", "text": "Net merchandise value means the value of items bought after excluding cancelled or returned orders. Meesho reports it to show how much shopping happened. Revenue is what Meesho earned from its own services, such as shipping and ads."},
+    {"title": "Read the group’s loss after tax", "text": "The full-year table uses the audited accounts for Meesho and the companies it controls, in rupees crore. Segment results exclude some group costs. The group’s loss also reflects costs and taxes tied to a business reorganisation, which makes comparisons with the prior year harder."}
+  ],
+  "financialCue": "Compare the marketplace’s service revenue and segment result separately from the group’s reported loss after tax.",
+  "checked": "18 November 2026"
+}

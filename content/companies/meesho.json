@@ -1,0 +1,133 @@
+{
+  "order": 104,
+  "company": {
+    "id": "meesho",
+    "name": "Meesho Limited",
+    "ticker": "MEESHO",
+    "sector": "Consumer & retail",
+    "initial": "M",
+    "logo": "assets/logos/meesho-official.webp",
+    "color": "#7e225f",
+    "bg": "#f9edf5",
+    "tag": "The business behind the offering",
+    "products": [
+      [
+        "Seller packing and dispatch",
+        "A seller packs goods for pickup after an order"
+      ],
+      [
+        "Meesho shopping app",
+        "Browse products listed by different sellers"
+      ],
+      [
+        "Valmo delivery",
+        "Local riders carry the parcel to the buyer"
+      ],
+      [
+        "Parcel sorting",
+        "Boxes are sorted by destination before the next trip"
+      ],
+      [
+        "Local-language shopping",
+        "Browse the shopping app in a language you know"
+      ],
+      [
+        "Meesho Mall",
+        "Find products sold by brands and their authorised sellers"
+      ],
+      [
+        "Seller ads",
+        "Pay to show a listing more prominently"
+      ],
+      [
+        "Shopping videos",
+        "Watch a creator demonstrate something a seller offers"
+      ]
+    ],
+    "sources": [
+      [
+        "NSE equity listing",
+        "https://www.nseindia.com/get-quotes/equity?symbol=MEESHO"
+      ]
+    ],
+    "productSource": "https://investor.meesho.com/",
+    "productNote": "Items shown in the shopping app are examples from independent sellers. The gallery includes company photographs, app views and labelled explanations of the services.",
+    "checked": "18 Nov 2026",
+    "reviewed": "18 November 2026",
+    "aliases": [
+      "Meesho",
+      "Valmo",
+      "Meesho Mall",
+      "Fashnear Technologies",
+      "online shopping",
+      "online marketplace",
+      "seller ads"
+    ]
+  },
+  "offerings": [
+    {
+      "name": "Seller packing and dispatch",
+      "category": "A seller packs goods for pickup after an order",
+      "image": "assets/products/meesho-packing.webp",
+      "url": "https://investor.meesho.com/",
+      "kind": "photo",
+      "alt": "Hands holding a packed Meesho parcel in the company’s investor material."
+    },
+    {
+      "name": "Meesho shopping app",
+      "category": "Browse products listed by different sellers",
+      "image": "assets/products/meesho-app.webp",
+      "url": "https://investor.meesho.com/",
+      "kind": "pack",
+      "alt": "A Meesho app screen grouping household and personal products by category."
+    },
+    {
+      "name": "Valmo delivery",
+      "category": "Local riders carry the parcel to the buyer",
+      "image": "assets/products/meesho-valmo.webp",
+      "url": "https://www.valmo.in/",
+      "kind": "photo",
+      "alt": "A rider with a blue Valmo backpack travels along a city street."
+    },
+    {
+      "name": "Parcel sorting",
+      "category": "Boxes are sorted by destination before the next trip",
+      "image": "assets/products/meesho-sorting.webp",
+      "url": "https://www.valmo.in/about",
+      "kind": "photo",
+      "alt": "Rows of storage racks and parcels in Valmo’s distribution material."
+    },
+    {
+      "name": "Local-language shopping",
+      "category": "Browse the shopping app in a language you know",
+      "image": "assets/products/meesho-languages.webp",
+      "url": "https://investor.meesho.com/",
+      "kind": "pack",
+      "alt": "The Meesho app’s language picker shows choices in different Indian scripts."
+    },
+    {
+      "name": "Meesho Mall",
+      "category": "Find products sold by brands and their authorised sellers",
+      "image": "assets/products/meesho-mall.webp",
+      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_28102026171517_MLshareholdersletter28102026.pdf",
+      "kind": "illustration",
+      "alt": "Explanatory drawing of a phone with branded shopping categories."
+    },
+    {
+      "name": "Seller ads",
+      "category": "Pay to show a listing more prominently",
+      "image": "assets/products/meesho-ads.webp",
+      "url": "https://investor.meesho.com/investor-web/_next/docs/ipo/meesho_limited_prospectus.pdf",
+      "kind": "illustration",
+      "alt": "Explanatory drawing of a sponsored clothing listing on a phone."
+    },
+    {
+      "name": "Shopping videos",
+      "category": "Watch a creator demonstrate something a seller offers",
+      "image": "assets/products/meesho-videos.webp",
+      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_28102026171517_MLshareholdersletter28102026.pdf",
+      "kind": "illustration",
+      "alt": "Explanatory drawing of a creator holding a parcel beside a play button."
+    }
+  ]
+}

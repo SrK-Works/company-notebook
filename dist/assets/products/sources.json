@@ -8311,6 +8311,308 @@
       "url": "https://genuspower.com/product/smart-water-meter/",
       "kind": "pack",
       "alt": "Genus water meter with a display, open cover and pipe connections"
+    },
+    {
+      "company": "rolex-rings",
+      "src": "https://www.rolexrings.com/wp-content/uploads/2026/09/ROLEX-RINGS-AR-2025-26-1.pdf#page=12",
+      "name": "Steel bearing rings",
+      "category": "Form the tracks that balls or rollers run on",
+      "image": "assets/products/rolex-rings-bearing-rings.webp",
+      "url": "https://www.rolexrings.com/wp-content/uploads/2026/09/ROLEX-RINGS-AR-2025-26-1.pdf#page=12",
+      "kind": "pack",
+      "alt": "Two polished steel rings used to make bearings"
+    },
+    {
+      "company": "rolex-rings",
+      "src": "https://www.rolexrings.com/wp-content/uploads/2026/09/ROLEX-RINGS-AR-2025-26-1.pdf#page=18",
+      "name": "Rings for ball and roller bearings",
+      "category": "Fitted inside mechanisms that let wheels and shafts turn smoothly",
+      "image": "assets/products/rolex-rings-ball-roller-bearings.webp",
+      "url": "https://www.rolexrings.com/wp-content/uploads/2026/09/ROLEX-RINGS-AR-2025-26-1.pdf#page=18",
+      "kind": "pack",
+      "alt": "A product image of rolling bearings and their shiny metal rings"
+    },
+    {
+      "company": "rolex-rings",
+      "src": "https://www.rolexrings.com/wp-content/uploads/2026/09/ROLEX-RINGS-AR-2025-26-1.pdf#page=19",
+      "name": "Wheel and axle parts",
+      "category": "Fit wheels and transfer turning force through a vehicle",
+      "image": "assets/products/rolex-rings-auto-parts.webp",
+      "url": "https://www.rolexrings.com/wp-content/uploads/2026/09/ROLEX-RINGS-AR-2025-26-1.pdf#page=19",
+      "kind": "pack",
+      "alt": "Assorted forged automotive parts, including pieces that form part of wheel and drive assemblies"
+    },
+    {
+      "company": "rolex-rings",
+      "src": "https://www.rolexrings.com/wp-content/uploads/2026/11/Rolex_Rings_Q2-H1-FY27.pdf#page=5",
+      "name": "Gearbox parts",
+      "category": "Gear pieces pass turning force from one part to another",
+      "image": "assets/products/rolex-rings-gearbox-parts.webp",
+      "url": "https://www.rolexrings.com/wp-content/uploads/2026/11/Rolex_Rings_Q2-H1-FY27.pdf#page=5",
+      "kind": "pack",
+      "alt": "Assorted metal components including ring-shaped gears in Rolex Rings’ presentation"
+    },
+    {
+      "company": "rolex-rings",
+      "src": "https://www.rolexrings.com/wp-content/uploads/2026/11/Rolex_Rings_Q2-H1-FY27.pdf#page=12",
+      "name": "Where the bearing rings fit",
+      "category": "An outer ring and an inner ring guide the moving balls or rollers",
+      "image": "assets/products/rolex-rings-bearing-layout.webp",
+      "url": "https://www.rolexrings.com/wp-content/uploads/2026/11/Rolex_Rings_Q2-H1-FY27.pdf#page=12",
+      "kind": "illustration",
+      "alt": "An exploded bearing diagram places the inner and outer rings around the moving parts"
+    },
+    {
+      "company": "rolex-rings",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Forging_Press.jpg/960px-Forging_Press.jpg",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "modifications": "Resized and converted to WebP",
+      "name": "Hot steel shaping",
+      "category": "Machines press heated steel into rings and other shapes",
+      "image": "assets/products/rolex-rings-hot-forging.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:Forging_Press.jpg",
+      "kind": "generic",
+      "alt": "A hydraulic forging press in a factory, shown as an example of this kind of machine",
+      "credit": "Supersonic0714 · CC BY-SA 3.0 · Wikimedia Commons"
+    },
+    {
+      "company": "rolex-rings",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Worker_adjusts_a_metal_lathe_in_a_machine_workshop.jpg/960px-Worker_adjusts_a_metal_lathe_in_a_machine_workshop.jpg",
+      "license": "https://creativecommons.org/licenses/by/2.0/",
+      "modifications": "Cropped to landscape and converted to WebP",
+      "name": "Finishing shaped parts",
+      "category": "Cutting machines bring the part to the buyer’s exact size",
+      "image": "assets/products/rolex-rings-machining.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:Worker_adjusts_a_metal_lathe_in_a_machine_workshop.jpg",
+      "kind": "generic",
+      "alt": "A worker adjusts a metal lathe in a workshop, shown as an example of how metal is finished",
+      "credit": "Shixart1985 · CC BY 2.0 · Wikimedia Commons"
+    },
+    {
+      "company": "meesho",
+      "name": "Seller packing and dispatch",
+      "category": "A seller packs goods for pickup after an order",
+      "src": "https://images.meesho.com/images/marketing/1783937039931.webp",
+      "url": "https://investor.meesho.com/",
+      "kind": "photo",
+      "alt": "Hands holding a packed Meesho parcel in the company’s investor material.",
+      "image": "assets/products/meesho-packing.webp"
+    },
+    {
+      "company": "meesho",
+      "name": "Meesho shopping app",
+      "category": "Browse products listed by different sellers",
+      "src": "https://images.meesho.com/images/marketing/1784879157425.webp?width=720",
+      "url": "https://investor.meesho.com/",
+      "kind": "pack",
+      "alt": "A Meesho app screen grouping household and personal products by category.",
+      "image": "assets/products/meesho-app.webp"
+    },
+    {
+      "company": "meesho",
+      "name": "Valmo delivery",
+      "category": "Local riders carry the parcel to the buyer",
+      "src": "https://www.valmo.in/static-assets/valmo-web/valmo-delivery.jpg",
+      "url": "https://www.valmo.in/",
+      "kind": "photo",
+      "alt": "A rider with a blue Valmo backpack travels along a city street.",
+      "image": "assets/products/meesho-valmo.webp"
+    },
+    {
+      "company": "meesho",
+      "name": "Parcel sorting",
+      "category": "Boxes are sorted by destination before the next trip",
+      "src": "https://www.valmo.in/static-assets/valmo-web/valmo_warehouse.jpg",
+      "url": "https://www.valmo.in/about",
+      "kind": "photo",
+      "alt": "Rows of storage racks and parcels in Valmo’s distribution material.",
+      "image": "assets/products/meesho-sorting.webp"
+    },
+    {
+      "company": "meesho",
+      "name": "Local-language shopping",
+      "category": "Browse the shopping app in a language you know",
+      "src": "https://images.meesho.com/images/marketing/1784879271809.webp?width=720",
+      "url": "https://investor.meesho.com/",
+      "kind": "pack",
+      "alt": "The Meesho app’s language picker shows choices in different Indian scripts.",
+      "image": "assets/products/meesho-languages.webp"
+    },
+    {
+      "company": "meesho",
+      "name": "Meesho Mall",
+      "category": "Find products sold by brands and their authorised sellers",
+      "src": "Original explanatory illustration based on https://nsearchives.nseindia.com/corporate/MEESHO_28102026171517_MLshareholdersletter28102026.pdf",
+      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_28102026171517_MLshareholdersletter28102026.pdf",
+      "kind": "illustration",
+      "alt": "Explanatory drawing of a phone with branded shopping categories.",
+      "image": "assets/products/meesho-mall.webp"
+    },
+    {
+      "company": "meesho",
+      "name": "Seller ads",
+      "category": "Pay to show a listing more prominently",
+      "src": "Original explanatory illustration based on https://investor.meesho.com/investor-web/_next/docs/ipo/meesho_limited_prospectus.pdf",
+      "url": "https://investor.meesho.com/investor-web/_next/docs/ipo/meesho_limited_prospectus.pdf",
+      "kind": "illustration",
+      "alt": "Explanatory drawing of a sponsored clothing listing on a phone.",
+      "image": "assets/products/meesho-ads.webp"
+    },
+    {
+      "company": "meesho",
+      "name": "Shopping videos",
+      "category": "Watch a creator demonstrate something a seller offers",
+      "src": "Original explanatory illustration based on https://nsearchives.nseindia.com/corporate/MEESHO_28102026171517_MLshareholdersletter28102026.pdf",
+      "url": "https://nsearchives.nseindia.com/corporate/MEESHO_28102026171517_MLshareholdersletter28102026.pdf",
+      "kind": "illustration",
+      "alt": "Explanatory drawing of a creator holding a parcel beside a play button.",
+      "image": "assets/products/meesho-videos.webp"
+    },
+    {
+      "company": "deepak-nitrite",
+      "src": "https://deepak-website-prd.s3.ap-south-1.amazonaws.com/wp-content/uploads/2024/07/dahej-new-pic-1024x511-1.jpg",
+      "name": "Phenol and acetone production",
+      "category": "Deepak makes two chemicals at the same site in Gujarat.",
+      "image": "assets/products/deepak-nitrite-dahej.webp",
+      "url": "https://www.godeepak.com/business-phenolics-overview/",
+      "kind": "photo",
+      "alt": "Towers and pipework at Deepak Phenolics’ Dahej chemical plant in Gujarat"
+    },
+    {
+      "company": "deepak-nitrite",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Plywood.jpg",
+      "name": "Phenol",
+      "category": "Glue makers can use phenol to make the glue that binds plywood layers.",
+      "image": "assets/products/deepak-nitrite-phenol.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:Plywood.jpg",
+      "kind": "generic",
+      "alt": "Plywood with visible wood layers, an example of a downstream product. Deepak sells a chemical ingredient.",
+      "credit": "Rotor DB · CC BY-SA 3.0 · Wikimedia Commons · resized",
+      "license": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "company": "deepak-nitrite",
+      "src": "https://deepak-website-prd.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/05/DPL-Brochure-Final.pdf",
+      "name": "Acetone",
+      "category": "A solvent that manufacturers use to dissolve ingredients for coatings and medicines.",
+      "image": "assets/products/deepak-nitrite-acetone.webp",
+      "url": "https://www.godeepak.com/pro-acetone/",
+      "kind": "illustration",
+      "alt": "A brush applying a wood coating, shown as an example of a downstream use in the Deepak Phenolics brochure",
+      "location": "PDF page 2, application image. The photo depicts a downstream use. It does not depict Deepak’s bulk chemical."
+    },
+    {
+      "company": "deepak-nitrite",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Rubbing_alcohol.JPG",
+      "name": "Isopropyl alcohol",
+      "category": "A solvent used in products such as cleaners and disinfectants.",
+      "image": "assets/products/deepak-nitrite-isopropyl-alcohol.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:Rubbing_alcohol.JPG",
+      "kind": "generic",
+      "alt": "A bottle of rubbing alcohol, a representative downstream use. Deepak sells bulk isopropyl alcohol.",
+      "credit": "Craig Spurrier · CC BY 2.5 · Wikimedia Commons · resized",
+      "license": "https://creativecommons.org/licenses/by/2.5/"
+    },
+    {
+      "company": "deepak-nitrite",
+      "src": "https://deepak-website-prd.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/05/DPL-Brochure-Final.pdf",
+      "name": "Dye and pigment ingredients",
+      "category": "Dye and pigment makers buy ingredients such as xylidines to make colourants.",
+      "image": "assets/products/deepak-nitrite-dye-ingredients.webp",
+      "url": "https://www.godeepak.com/cat-dyes-and-pigments/",
+      "kind": "illustration",
+      "alt": "Coloured paint in open cans, an example of a downstream use of pigments",
+      "location": "PDF page 2, application image. The photo depicts a downstream use. It does not depict Deepak’s bulk chemical."
+    },
+    {
+      "company": "deepak-nitrite",
+      "src": "https://deepak-website-prd.s3.ap-south-1.amazonaws.com/wp-content/uploads/2024/07/nandesari-new-pic-1024x511-1.jpg",
+      "name": "Sodium nitrite",
+      "category": "Chemical sold to dye makers and factories that treat metals.",
+      "image": "assets/products/deepak-nitrite-sodium-nitrite.webp",
+      "url": "https://www.godeepak.com/pro-sodium-nitrite/",
+      "kind": "photo",
+      "alt": "Equipment and pipework at Deepak Nitrite’s Nandesari chemical facility"
+    },
+    {
+      "company": "deepak-nitrite",
+      "src": "https://deepak-website-prd.s3.ap-south-1.amazonaws.com/wp-content/uploads/2025/05/granute-img1.png",
+      "name": "Polycarbonate compounds",
+      "category": "Tough plastic granules that customers can melt and mould into parts.",
+      "image": "assets/products/deepak-nitrite-polycarbonate.webp",
+      "url": "https://www.godeepak.com/deepak-advanced-materials-overview/",
+      "kind": "pack",
+      "alt": "Official Deepak Advanced Materials image of coloured plastic granules"
+    },
+    {
+      "company": "pvr-inox",
+      "src": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/929df61f-e3eb-4697-9bc2-96520da3edec.pdf#page=31",
+      "name": "Cinema screenings",
+      "category": "Book a seat for a movie at a PVR INOX cinema",
+      "image": "assets/products/pvr-inox-movie-screenings.webp",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/929df61f-e3eb-4697-9bc2-96520da3edec.pdf#page=31",
+      "kind": "photo",
+      "alt": "Rows of red upholstered seats inside a PVR INOX auditorium"
+    },
+    {
+      "company": "pvr-inox",
+      "src": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/929df61f-e3eb-4697-9bc2-96520da3edec.pdf#page=30",
+      "name": "Luxury cinema rooms",
+      "category": "Selected locations offer larger seats and a different seating layout",
+      "image": "assets/products/pvr-inox-luxury-seating.webp",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/929df61f-e3eb-4697-9bc2-96520da3edec.pdf#page=30",
+      "kind": "photo",
+      "alt": "Rows of wide gold-coloured seats in a PVR INOX cinema room"
+    },
+    {
+      "company": "pvr-inox",
+      "src": "https://originserver-static1-uat.pvrcinemas.com/pvrcms/annual-report-doc/AR-2023-24_68589_ZgN1e4cB.pdf#page=3",
+      "name": "Popcorn and cinema snacks",
+      "category": "Buy popcorn, drinks and other food at the cinema",
+      "image": "assets/products/pvr-inox-snack-counter.webp",
+      "url": "https://originserver-static1-uat.pvrcinemas.com/pvrcms/annual-report-doc/AR-2023-24_68589_ZgN1e4cB.pdf#page=3",
+      "kind": "photo",
+      "alt": "PVR INOX popcorn and drinks counter between cinema entrances"
+    },
+    {
+      "company": "pvr-inox",
+      "src": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/929df61f-e3eb-4697-9bc2-96520da3edec.pdf#page=22",
+      "name": "Tickets at the cinema",
+      "category": "Choose a showtime and book a seat at the counter",
+      "image": "assets/products/pvr-inox-ticket-counter.webp",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/929df61f-e3eb-4697-9bc2-96520da3edec.pdf#page=22",
+      "kind": "photo",
+      "alt": "PVR INOX ticket counters beneath a large sign for tickets"
+    },
+    {
+      "company": "pvr-inox",
+      "src": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/929df61f-e3eb-4697-9bc2-96520da3edec.pdf#page=39",
+      "name": "Cinema dining",
+      "category": "Selected cinemas serve hot food and provide places to sit and eat",
+      "image": "assets/products/pvr-inox-cinema-dining.webp",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/929df61f-e3eb-4697-9bc2-96520da3edec.pdf#page=39",
+      "kind": "photo",
+      "alt": "Food counters and dining tables in a PVR INOX venue"
+    },
+    {
+      "company": "pvr-inox",
+      "src": "https://originserver-static1-uat.pvrcinemas.com/pvrcms/annual-report-doc/AR-2023-24_68589_ZgN1e4cB.pdf#page=20",
+      "name": "Self-service ticket kiosks",
+      "category": "Use a screen at selected cinemas to book a ticket",
+      "image": "assets/products/pvr-inox-booking-kiosk.webp",
+      "url": "https://originserver-static1-uat.pvrcinemas.com/pvrcms/annual-report-doc/AR-2023-24_68589_ZgN1e4cB.pdf#page=20",
+      "kind": "photo",
+      "alt": "A self-service ticket screen beside the cinema ticket counter"
+    },
+    {
+      "company": "pvr-inox",
+      "src": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/929df61f-e3eb-4697-9bc2-96520da3edec.pdf#page=33",
+      "name": "Family and special-format shows",
+      "category": "Selected cinemas offer family formats and films in 3D",
+      "image": "assets/products/pvr-inox-family-formats.webp",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/929df61f-e3eb-4697-9bc2-96520da3edec.pdf#page=33",
+      "kind": "pack",
+      "alt": "PVR INOX promotional image depicts children wearing 3D glasses and holding popcorn in a cinema"
     }
   ]
 }

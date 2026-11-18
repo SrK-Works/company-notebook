@@ -1,0 +1,122 @@
+{
+  "order": 103,
+  "company": {
+    "id": "pvr-inox",
+    "name": "PVR INOX Limited",
+    "ticker": "PVRINOX",
+    "sector": "Consumer & retail",
+    "initial": "PVR",
+    "logo": "assets/logos/pvr-inox-official.webp",
+    "color": "#9a721d",
+    "bg": "#f8efd8",
+    "tag": "The business behind the offering",
+    "products": [
+      [
+        "Cinema screenings",
+        "Book a seat for a movie at a PVR INOX cinema"
+      ],
+      [
+        "Luxury cinema rooms",
+        "Selected locations offer larger seats and a different seating layout"
+      ],
+      [
+        "Popcorn and cinema snacks",
+        "Buy popcorn, drinks and other food at the cinema"
+      ],
+      [
+        "Tickets at the cinema",
+        "Choose a showtime and book a seat at the counter"
+      ],
+      [
+        "Cinema dining",
+        "Selected cinemas serve hot food and provide places to sit and eat"
+      ],
+      [
+        "Self-service ticket kiosks",
+        "Use a screen at selected cinemas to book a ticket"
+      ],
+      [
+        "Family and special-format shows",
+        "Selected cinemas offer family formats and films in 3D"
+      ]
+    ],
+    "sources": [],
+    "productSource": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/929df61f-e3eb-4697-9bc2-96520da3edec.pdf",
+    "checked": "18 Nov 2026",
+    "reviewed": "18 November 2026",
+    "aliases": [
+      "PVR INOX",
+      "PVR Cinemas",
+      "INOX Cinemas",
+      "multiplex cinema",
+      "movie theatre",
+      "cinema tickets",
+      "IMAX",
+      "4DX",
+      "Playhouse",
+      "P[XL]",
+      "PXL",
+      "Director’s Cut",
+      "PVR INOX Pictures"
+    ],
+    "productNote": "Selected cinema experiences. Screen formats, menus and booking options vary by location."
+  },
+  "offerings": [
+    {
+      "name": "Cinema screenings",
+      "category": "Book a seat for a movie at a PVR INOX cinema",
+      "image": "assets/products/pvr-inox-movie-screenings.webp",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/929df61f-e3eb-4697-9bc2-96520da3edec.pdf#page=31",
+      "kind": "photo",
+      "alt": "Rows of red upholstered seats inside a PVR INOX auditorium"
+    },
+    {
+      "name": "Luxury cinema rooms",
+      "category": "Selected locations offer larger seats and a different seating layout",
+      "image": "assets/products/pvr-inox-luxury-seating.webp",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/929df61f-e3eb-4697-9bc2-96520da3edec.pdf#page=30",
+      "kind": "photo",
+      "alt": "Rows of wide gold-coloured seats in a PVR INOX cinema room"
+    },
+    {
+      "name": "Popcorn and cinema snacks",
+      "category": "Buy popcorn, drinks and other food at the cinema",
+      "image": "assets/products/pvr-inox-snack-counter.webp",
+      "url": "https://originserver-static1-uat.pvrcinemas.com/pvrcms/annual-report-doc/AR-2023-24_68589_ZgN1e4cB.pdf#page=3",
+      "kind": "photo",
+      "alt": "PVR INOX popcorn and drinks counter between cinema entrances"
+    },
+    {
+      "name": "Tickets at the cinema",
+      "category": "Choose a showtime and book a seat at the counter",
+      "image": "assets/products/pvr-inox-ticket-counter.webp",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/929df61f-e3eb-4697-9bc2-96520da3edec.pdf#page=22",
+      "kind": "photo",
+      "alt": "PVR INOX ticket counters beneath a large sign for tickets"
+    },
+    {
+      "name": "Cinema dining",
+      "category": "Selected cinemas serve hot food and provide places to sit and eat",
+      "image": "assets/products/pvr-inox-cinema-dining.webp",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/929df61f-e3eb-4697-9bc2-96520da3edec.pdf#page=39",
+      "kind": "photo",
+      "alt": "Food counters and dining tables in a PVR INOX venue"
+    },
+    {
+      "name": "Self-service ticket kiosks",
+      "category": "Use a screen at selected cinemas to book a ticket",
+      "image": "assets/products/pvr-inox-booking-kiosk.webp",
+      "url": "https://originserver-static1-uat.pvrcinemas.com/pvrcms/annual-report-doc/AR-2023-24_68589_ZgN1e4cB.pdf#page=20",
+      "kind": "photo",
+      "alt": "A self-service ticket screen beside the cinema ticket counter"
+    },
+    {
+      "name": "Family and special-format shows",
+      "category": "Selected cinemas offer family formats and films in 3D",
+      "image": "assets/products/pvr-inox-family-formats.webp",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/929df61f-e3eb-4697-9bc2-96520da3edec.pdf#page=33",
+      "kind": "pack",
+      "alt": "PVR INOX promotional image depicts children wearing 3D glasses and holding popcorn in a cinema"
+    }
+  ]
+}

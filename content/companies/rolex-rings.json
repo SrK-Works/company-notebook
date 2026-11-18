@@ -1,0 +1,116 @@
+{
+  "order": 105,
+  "company": {
+    "id": "rolex-rings",
+    "name": "Rolex Rings Limited",
+    "ticker": "ROLEXRINGS",
+    "sector": "Industrials & infrastructure",
+    "initial": "RR",
+    "logo": "assets/logos/rolex-rings-official.webp",
+    "color": "#304e83",
+    "bg": "#edf2fa",
+    "tag": "The business behind the offering",
+    "products": [
+      [
+        "Steel bearing rings",
+        "Form the tracks that balls or rollers run on"
+      ],
+      [
+        "Rings for ball and roller bearings",
+        "Fitted inside mechanisms that let wheels and shafts turn smoothly"
+      ],
+      [
+        "Wheel and axle parts",
+        "Fit wheels and transfer turning force through a vehicle"
+      ],
+      [
+        "Gearbox parts",
+        "Gear pieces pass turning force from one part to another"
+      ],
+      [
+        "Where the bearing rings fit",
+        "An outer ring and an inner ring guide the moving balls or rollers"
+      ],
+      [
+        "Hot steel shaping",
+        "Machines press heated steel into rings and other shapes"
+      ],
+      [
+        "Finishing shaped parts",
+        "Cutting machines bring the part to the buyer’s exact size"
+      ]
+    ],
+    "sources": [],
+    "productSource": "https://www.rolexrings.com/products/",
+    "productNote": "The company’s report and presentation show examples of its parts. The two workshop photos show the kind of machinery used to make parts, with photographers credited. The bearing layout is an illustration.",
+    "checked": "18 Nov 2026",
+    "reviewed": "18 November 2026",
+    "aliases": [
+      "Rolex Rings",
+      "Rolex Rolled Rings",
+      "bearing rings",
+      "wheel hubs",
+      "forged auto parts"
+    ]
+  },
+  "offerings": [
+    {
+      "name": "Steel bearing rings",
+      "category": "Form the tracks that balls or rollers run on",
+      "image": "assets/products/rolex-rings-bearing-rings.webp",
+      "url": "https://www.rolexrings.com/wp-content/uploads/2026/09/ROLEX-RINGS-AR-2025-26-1.pdf#page=12",
+      "kind": "pack",
+      "alt": "Two polished steel rings used to make bearings"
+    },
+    {
+      "name": "Rings for ball and roller bearings",
+      "category": "Fitted inside mechanisms that let wheels and shafts turn smoothly",
+      "image": "assets/products/rolex-rings-ball-roller-bearings.webp",
+      "url": "https://www.rolexrings.com/wp-content/uploads/2026/09/ROLEX-RINGS-AR-2025-26-1.pdf#page=18",
+      "kind": "pack",
+      "alt": "A product image of rolling bearings and their shiny metal rings"
+    },
+    {
+      "name": "Wheel and axle parts",
+      "category": "Fit wheels and transfer turning force through a vehicle",
+      "image": "assets/products/rolex-rings-auto-parts.webp",
+      "url": "https://www.rolexrings.com/wp-content/uploads/2026/09/ROLEX-RINGS-AR-2025-26-1.pdf#page=19",
+      "kind": "pack",
+      "alt": "Assorted forged automotive parts, including pieces that form part of wheel and drive assemblies"
+    },
+    {
+      "name": "Gearbox parts",
+      "category": "Gear pieces pass turning force from one part to another",
+      "image": "assets/products/rolex-rings-gearbox-parts.webp",
+      "url": "https://www.rolexrings.com/wp-content/uploads/2026/11/Rolex_Rings_Q2-H1-FY27.pdf#page=5",
+      "kind": "pack",
+      "alt": "Assorted metal components including ring-shaped gears in Rolex Rings’ presentation"
+    },
+    {
+      "name": "Where the bearing rings fit",
+      "category": "An outer ring and an inner ring guide the moving balls or rollers",
+      "image": "assets/products/rolex-rings-bearing-layout.webp",
+      "url": "https://www.rolexrings.com/wp-content/uploads/2026/11/Rolex_Rings_Q2-H1-FY27.pdf#page=12",
+      "kind": "illustration",
+      "alt": "An exploded bearing diagram places the inner and outer rings around the moving parts"
+    },
+    {
+      "name": "Hot steel shaping",
+      "category": "Machines press heated steel into rings and other shapes",
+      "image": "assets/products/rolex-rings-hot-forging.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:Forging_Press.jpg",
+      "kind": "generic",
+      "alt": "A hydraulic forging press in a factory, shown as an example of this kind of machine",
+      "credit": "Supersonic0714 · CC BY-SA 3.0 · Wikimedia Commons"
+    },
+    {
+      "name": "Finishing shaped parts",
+      "category": "Cutting machines bring the part to the buyer’s exact size",
+      "image": "assets/products/rolex-rings-machining.webp",
+      "url": "https://commons.wikimedia.org/wiki/File:Worker_adjusts_a_metal_lathe_in_a_machine_workshop.jpg",
+      "kind": "generic",
+      "alt": "A worker adjusts a metal lathe in a workshop, shown as an example of how metal is finished",
+      "credit": "Shixart1985 · CC BY 2.0 · Wikimedia Commons"
+    }
+  ]
+}

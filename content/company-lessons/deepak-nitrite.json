@@ -1,0 +1,83 @@
+{
+  "summary": "Deepak Nitrite makes chemicals that factories buy to make things such as plywood glue, paint, dyes and medicines. It sells those ingredients in bulk.",
+  "description": "Think of the glue between the thin sheets of wood in a piece of plywood. A glue maker can buy phenol, a chemical Deepak makes at its Dahej plant in Gujarat, and turn it into part of that glue. Other factory customers buy chemicals that help dissolve ingredients for coatings or go through another round of processing to make a dye or medicine.",
+  "money": "Deepak sells agreed grades and quantities of chemicals to factories, directly or through distributors. It buys raw materials and pays for power, fuel, staff, testing, plant upkeep and shipping. Its profit depends on what it keeps after the costs of making and selling the chemicals and running the business.",
+  "customers": "Glue and resin makers, paint companies, medicine manufacturers, and businesses making dyes or crop-protection products pay for ingredients they can process further. A household buying plywood pays the plywood seller. The earlier chemical sale is where Deepak earns its money.",
+  "drivers": "Watch how much the plants make and sell, whether chemical selling prices cover changes in raw material and energy costs, and how quickly new production earns sales.",
+  "quick": [
+    {"title": "What it does", "text": "Makes ingredients that other factories use for plywood glue, coatings, dyes and medicines."},
+    {"title": "Who pays", "text": "Manufacturers and chemical distributors buy the ingredients. A glue maker, for instance, can buy phenol."},
+    {"title": "How it earns", "text": "It gets paid for supplying the agreed quantity and quality of each chemical."},
+    {"title": "What it spends on", "text": "Raw chemicals, heat and electricity, staff, testing, freight and keeping large plants running."}
+  ],
+  "groups": [
+    {"title": "Ingredients for plywood and laminates", "examples": "Phenol goes into some glues and hard coatings used on wood panels.", "explanation": "Deepak Phenolics, a company owned by Deepak Nitrite, makes phenol. Customers can turn it into a resin, a material that hardens and helps bind wood layers or make a durable surface."},
+    {"title": "Liquids that dissolve other ingredients", "examples": "Acetone and isopropyl alcohol.", "explanation": "Factories buy these liquids, called solvents, to dissolve or carry other ingredients. Acetone is one solvent used in producing medicines and coatings. Isopropyl alcohol also has uses in cleaning and disinfectant products."},
+    {"title": "Chemicals for several kinds of factory", "examples": "Sodium nitrite and sodium nitrate.", "explanation": "Dye makers can buy sodium nitrite as a starting ingredient. Sodium nitrate has uses in sectors including glass and metal treatment. Customers order the grade they need for their process."},
+    {"title": "Ingredients for specialised products", "examples": "Chemicals such as xylidines sold to makers of pigments and other products.", "explanation": "A pigment maker can use a xylidine as one input when making a powder that gives a product its colour. Deepak reports these ingredients together with its standard products under Advanced Intermediates."},
+    {"title": "Plastic granules for moulded parts", "examples": "Deepak Advanced Materials sells polycarbonate compounds.", "explanation": "Polycarbonate is a tough plastic used in items such as appliance and electrical parts. Compounding means mixing the plastic with additives to change properties such as colour or strength before the customer moulds it."}
+  ],
+  "basics": [
+    {"title": "What is an intermediate?", "text": "It is an ingredient used along the way to make something else. A dye factory might buy a Deepak chemical, process it further and sell the finished colour to a textile mill."},
+    {"title": "What are Phenolics and Advanced Intermediates?", "text": "These are Deepak’s two reporting groups. Phenolics includes the business around phenol and related products such as acetone. Advanced Intermediates covers standard salts and more specialised ingredients for industries including dyes and medicines."},
+    {"title": "What is a chemical price spread?", "text": "It is the difference between what a chemical sells for and what its starting materials cost. The gap still needs to cover power, wages, repairs and other expenses."}
+  ],
+  "stepsTitle": "From raw chemicals to a factory’s payment",
+  "steps": [
+    {"title": "Agree on the grade and quantity", "text": "The buyer chooses a chemical and specifies the quality its factory needs. Deepak and the buyer agree on terms."},
+    {"title": "Make and test the batch", "text": "Deepak buys raw materials, makes the chemical and tests the output against the buyer’s requirements."},
+    {"title": "Ship the order and bill the buyer", "text": "The chemical leaves in the agreed packaging, such as bags, drums or a tanker. Deepak records the sale when the buyer takes control under the deal."},
+    {"title": "Collect cash and count what is left", "text": "Payment can arrive later. The recorded sale is revenue. Profit is what remains after costs and tax, while cash arrives when the buyer actually pays."}
+  ],
+  "specifics": [
+    {"title": "Two products come from one process", "text": "Deepak makes phenol and acetone together. Demand for wood-panel products can help phenol prices while buyers of acetone face different conditions. What it earns depends on prices and demand for both."},
+    {"title": "Local production competes with incoming cargo", "text": "Indian buyers can source some of these chemicals abroad. A local plant can shorten the wait for supplies. When imported alternatives become cheaper or easier to obtain, buyers can ask Deepak to lower its price."},
+    {"title": "Making an input can change the cost", "text": "Deepak has invested in making more of its starting chemicals in-house. This can reduce reliance on outside supply, though Deepak takes on the cost of running and maintaining another plant."}
+  ],
+  "watch": [
+    ["Are Deepak’s chemicals selling for more after raw material costs?", "Higher prices may leave little extra if the materials also cost more.", "Read the results presentation for both selling prices and the cost of starting materials. Check Phenolics and Advanced Intermediates separately."],
+    ["Are Indian buyers paying more for local supply just for now?", "A temporary shortage or higher freight costs can make imports less attractive.", "Compare management’s comments about competing imports across quarters. Watch what happens to selling prices as freight and overseas supply normalise."],
+    ["How much is each plant making compared with what it can make?", "A plant has ongoing expenses even when it makes fewer tonnes.", "Compare the company’s production updates with any maintenance stops and reported segment results. Note whether higher output also led to higher sales."],
+    ["How quickly is money coming in from customers?", "Deepak can pay for materials before the buyer sends the cash.", "Compare customer bills still unpaid, stocks of raw materials and finished chemicals, and cash from operations with the previous reporting period."],
+    ["When can the new plastic project start selling output?", "Building and testing a plant ties up cash before it earns regular sales.", "Read the Dahej progress updates for equipment installation, approvals and trial production. Check when the company first reports regular sales from the new complex."]
+  ],
+  "risks": [
+    ["Buyers delay orders", "Dye makers, paint makers and other customers may run down their own stocks before ordering again."],
+    ["Plants stop or take longer to restart", "A breakdown or a longer maintenance stop means fewer tonnes to sell that period."],
+    ["Large projects take longer to earn", "A delayed start can leave Deepak paying for construction and financing while it waits for regular sales."],
+    ["Safety or pollution controls fail", "Handling chemicals requires safe storage and waste treatment. An incident can interrupt production and increase costs."]
+  ],
+  "helps": [
+    {"title": "Several industries buy the chemicals", "text": "Customers making wood panels, paints, medicines and dyes order for different reasons. Weak orders from one kind of factory need not affect every product equally."},
+    {"title": "Dependable batches can help win repeat orders", "text": "Factories need incoming chemicals to meet the same specifications from batch to batch. Deepak’s annual report points to long-standing customer relationships and work to keep supplies consistent."},
+    {"title": "Sales reach India and overseas", "text": "Deepak sells in India and exports. The annual report shows that it can serve manufacturers in several markets, where demand and prices may move at different times."}
+  ],
+  "hurts": [
+    {"title": "Prices for energy and materials can rise quickly", "text": "If the cost of heat, power or starting chemicals rises before Deepak can raise prices, it keeps less from each sale."},
+    {"title": "Cheap imports put pressure on sales prices", "text": "Buyers of standard products can compare Indian suppliers with overseas suppliers. More low-priced cargo can squeeze what Deepak charges."},
+    {"title": "A plant costs money even while partly idle", "text": "Maintenance and staffing bills continue when orders drop. If the plant makes fewer tonnes, each tonne has to carry more of those costs."}
+  ],
+  "context": [
+    "October 2026 update on the Dahej plastics project",
+    "Deepak said civil work had started on its planned polycarbonate complex in Gujarat, and it was arranging equipment and supplies. Its existing operation mixes plastic with additives. The new project aims to make the plastic itself at a larger scale."
+  ],
+  "sources": [
+    ["Audited annual report for 2025–26", "https://deepak-website-prd.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/07/DNL-AR-2025-26.pdf"],
+    ["Audited full-year consolidated results", "https://deepak-website-prd.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/05/DNL-AFR-31-03-2026.pdf"],
+    ["September 2026 signed results", "https://deepak-website-prd.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/10/DNL-UFR-29-10-2026.pdf"],
+    ["October 2026 results presentation and Dahej update", "https://deepak-website-prd.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/10/DNL-Q2-FY27-Results-Presentation_V2.pdf"],
+    ["Deepak Phenolics product and plant overview", "https://www.godeepak.com/business-phenolics-overview/"],
+    ["Deepak solvent catalogue", "https://www.godeepak.com/pro-acetone/"],
+    ["Deepak sodium nitrite catalogue", "https://www.godeepak.com/pro-sodium-nitrite/"],
+    ["Deepak sodium nitrate catalogue", "https://www.godeepak.com/pro-sodium-nitrate/"],
+    ["Deepak xylidine catalogue", "https://www.godeepak.com/pro-24-xylidine/"],
+    ["Deepak Advanced Materials product range", "https://www.godeepak.com/deepak-advanced-materials-overview/"]
+  ],
+  "financialNotes": [
+    {"title": "Read the two business rows first", "text": "Annual figures are the audited group results for the year ended 31 March 2026. Each segment result is what that business earned before common financing costs, unusual items and tax. The group then removes sales between its own businesses."},
+    {"title": "Separate support and spending from customer sales", "text": "Revenue from operations includes government incentive income. The annual labour-rule charge is an estimate of added employee benefit costs. Check the notes for these items when comparing years and see how much profit translated to cash from operations."}
+  ],
+  "financialCue": "Compare the two reported businesses before interest and tax, then read how Deepak gets from those results to group profit.",
+  "photoCaption": "The Dahej plant turns raw materials into ingredients that other factories buy.",
+  "checked": "18 November 2026"
+}
