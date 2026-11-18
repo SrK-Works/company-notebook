@@ -1,0 +1,24 @@
+{
+  "status": "single",
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "coverage": "One reported business · thermal products",
+  "unit": "₹ crore",
+  "profitMetric": "Profit after tax",
+  "definition": "This is the reported profit for Subros after costs and tax, including its share of profit from the Denso Subros engineering joint venture.",
+  "rows": [
+    {
+      "name": "Subros Limited · consolidated",
+      "revenue": 3755.52,
+      "profit": 165.65
+    }
+  ],
+  "revenueTotal": 3755.52,
+  "profitTotal": 165.65,
+  "source": "https://nsearchives.nseindia.com/corporate/SUBROS_18052026212221_Outcome18052026.pdf",
+  "sourceLabel": "Audited annual results filed with NSE",
+  "location": "Audited consolidated statement, year ended March 31, 2026, rows I, V and X, and notes 4–6.",
+  "checked": "18 November 2026",
+  "notes": "Other income includes ₹14.78 crore from a Gujarat government grant. A separate ₹8.08 crore charge for employee benefits under new labour rules reduced profit before tax. Subros reports one segment, so the filing gives no profit split by cooling product or vehicle maker.",
+  "insight": "Sales and profit grew from the previous year. Use costs and profit together to see how much of the extra sales remained after paying for materials, wages and other expenses."
+}

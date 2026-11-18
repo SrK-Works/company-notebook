@@ -1,0 +1,36 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-11-03",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "assurance": "Unaudited",
+  "coverage": "Whole group",
+  "sourceUnit": "lakh",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 119890,
+      "previous": 87983
+    },
+    {
+      "label": "Profit after tax",
+      "current": 4464,
+      "previous": 4074
+    }
+  ],
+  "change": "Sales rose on higher demand. Profit after tax grew more slowly, with materials costing more relative to sales and less income from a government grant.",
+  "watch": "Check whether new vehicle programmes lift shipments and whether customer prices and the mix of products make up for the share of sales spent on materials.",
+  "sources": [
+    {
+      "label": "Official consolidated September quarter results",
+      "url": "https://nsearchives.nseindia.com/corporate/SUBROS_03112026173814_outcomeofboardmeeting03112026.pdf",
+      "location": "Consolidated three-month columns, rows I and X, plus note 5 on Gujarat grant income."
+    },
+    {
+      "label": "September investor presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/SUBROS_03112026190418_Investorpresentation03112026.pdf",
+      "location": "Business Highlights and financial comparison, including demand, vehicle programmes and material costs."
+    }
+  ]
+}
