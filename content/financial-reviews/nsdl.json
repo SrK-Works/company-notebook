@@ -1,0 +1,37 @@
+{
+  "status": "segments",
+  "period": "FY 2025–26 · year ended 31 March 2026",
+  "basis": "Consolidated",
+  "unit": "₹ crore",
+  "checked": "18 November 2026",
+  "revenueLabel": "Segment revenue",
+  "profitMetric": "Segment result",
+  "coverage": "Group reporting segments · depository, database management and banking services",
+  "incomeDefinition": "Segment revenue includes services recognised by each group business. NSDL reported no revenue between these segments in this table.",
+  "definition": "Segment results reflect the earnings assigned to each business, before group adjustments including interest income, finance cost and tax. The annual accounts show group profit separately.",
+  "rows": [
+    {
+      "name": "Depository",
+      "revenue": 704.6895,
+      "profit": 348.7953
+    },
+    {
+      "name": "Database Management",
+      "revenue": 78.4758,
+      "profit": 16.9933
+    },
+    {
+      "name": "Banking Services",
+      "revenue": 746.7914,
+      "profit": 20.5656
+    }
+  ],
+  "revenueTotal": 1529.9567,
+  "revenueTotalLabel": "Revenue from operations",
+  "profitTotal": 386.3542,
+  "source": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a61bc02b-657b-4b53-892b-eb4b45f08350.pdf",
+  "sourceLabel": "NSDL audited annual report filed with BSE",
+  "location": "PDF pages 220 and 261–262, consolidated profit and loss and note 28. PDF page 256, note 21, revenue from operations.",
+  "notes": "The consolidated profit and loss statement reports profit after tax of ₹380.01 crore, of which ₹379.74 crore belonged to owners of the parent. The annual report’s segment note shows a small rounding difference from the profit and loss statement. Reported tax includes ₹7.93 crore relating to earlier years.",
+  "insight": "Banking Services produced slightly more revenue than Depository. Most segment earnings came from the depository, so the largest revenue line and largest earnings line were different."
+}

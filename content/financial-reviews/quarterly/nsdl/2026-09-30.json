@@ -1,0 +1,36 @@
+{
+  "periodEnd": "2026-09-30",
+  "comparisonEnd": "2025-09-30",
+  "filedOn": "2026-10-31",
+  "checkedOn": "2026-11-18",
+  "basis": "Consolidated",
+  "coverage": "Whole group",
+  "assurance": "Unaudited",
+  "sourceUnit": "lakh",
+  "metrics": [
+    {
+      "label": "Revenue from operations",
+      "current": 54589.33,
+      "previous": 40004.17
+    },
+    {
+      "label": "Profit after tax",
+      "current": 12245.37,
+      "previous": 11038.85
+    }
+  ],
+  "change": "The group earned more revenue than a year earlier, but its expenses rose faster than revenue. Group profit after tax also increased.",
+  "watch": "Compare the group with NSDL’s own depository business. Look at how much operating income and profit the payments bank contributes alongside the depository.",
+  "sources": [
+    {
+      "label": "Signed unaudited September-quarter results filed with BSE",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ff398d7a-ad88-4629-b98b-77a78c6687ae.pdf",
+      "location": "PDF page 9, September quarter columns, rows 1(a) and 7. Profit is before splitting the group total by ownership."
+    },
+    {
+      "label": "NSDL’s September earnings presentation",
+      "url": "https://nsdl.com/nsdl/2026-10/Signed%20Intimation_Presentation_ICICI%20sec.pdf",
+      "location": "Consolidated financial results and update on the payments bank."
+    }
+  ]
+}
